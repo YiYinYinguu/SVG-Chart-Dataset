@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle Mouse</text>
+<path aria-label="katal Oganesson: 256; South: render" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,85.41898358657473,206.39878311282013L105.0,134.0Z" fill="#edafc1" stroke="black" stroke-width="1"/>
+<path aria-label="katal Oganesson: 238; South: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M85.41898358657473,206.39878311282013A75,75,0,0,0,155.04891084166798,78.14208629421637L105.0,134.0Z" fill="#7fad31" stroke="black" stroke-width="1"/>
+<path aria-label="katal Oganesson: 65; South: Chair" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.04891084166798,78.14208629421637A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#50af8f" stroke="black" stroke-width="1"/>
+<text aria-label="7,24,115,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.783777887133738" y="125.14817685300216" font-family="Balto" font-size="10px" fill="#edafc1" opacity="1">256</text>
+<text aria-label="175,192,169,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.09555128511036" y="179.94058414721997" font-family="Balto" font-size="10px" fill="#7fad31" opacity="1">238</text>
+<text aria-label="131,142,42,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.15078008210196" y="52.93855021407067" font-family="Balto" font-size="10px" fill="#50af8f" opacity="1">65</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#50af8f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,274.25A5,5,0,1,1,58.0,274.25A5,5,0,1,1,68.0,274.25" fill="#7fad31" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M131.0,274.25A5,5,0,1,1,121.0,274.25A5,5,0,1,1,131.0,274.25" fill="#edafc1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Chair</text>
+<text aria-label="73,111,267,278" text-anchor="start" x="73.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="136,169,267,278" text-anchor="start" x="136.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">render</text>
+<text aria-label="5,35,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">South</text>
+</svg>

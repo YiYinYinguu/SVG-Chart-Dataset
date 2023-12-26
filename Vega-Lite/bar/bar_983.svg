@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="488" height="302" viewBox="0 0 488 302" style="background-color: rgb(255, 255, 255);">
+<text aria-label="62,73,246,285" text-anchor="end" x="70.22580645161294" y="246.5" transform="rotate(270.0, 73.22580645161294, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">creator</text>
+<text aria-label="135,146,246,296" text-anchor="end" x="143.93548387096777" y="246.5" transform="rotate(270.0, 146.93548387096777, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">ephemeris</text>
+<text aria-label="209,220,246,268" text-anchor="end" x="217.64516129032262" y="246.5" transform="rotate(270.0, 220.64516129032262, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">film</text>
+<text aria-label="283,294,246,274" text-anchor="end" x="291.35483870967744" y="246.5" transform="rotate(270.0, 294.35483870967744, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">latte</text>
+<text aria-label="357,368,246,274" text-anchor="end" x="365.0645161290323" y="246.5" transform="rotate(270.0, 368.0645161290323, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">scrip</text>
+<text aria-label="430,441,246,285" text-anchor="end" x="438.7741935483871" y="246.5" transform="rotate(270.0, 441.7741935483871, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">shelter</text>
+<line aria-label="70,70,239,244" x1="70.5" y1="239.5" x2="70.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="143,143,239,244" x1="143.5" y1="239.5" x2="143.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="217,217,239,244" x1="217.5" y1="239.5" x2="217.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="291,291,239,244" x1="291.5" y1="239.5" x2="291.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="365,365,239,244" x1="365.5" y1="239.5" x2="365.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="438,438,239,244" x1="438.5" y1="239.5" x2="438.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="26,483,239,239" x1="26.5" y1="239.5" x2="483.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="196,313,0,26" text-anchor="middle" x="254.5" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">strategic</text>
+<text aria-label="19,24,232,243" text-anchor="end" x="24.5" y="242.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="8,24,192,203" text-anchor="end" x="24.5" y="202.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="8,24,152,163" text-anchor="end" x="24.5" y="162.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="8,24,112,123" text-anchor="end" x="24.5" y="122.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="8,24,72,83" text-anchor="end" x="24.5" y="82.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="8,24,32,43" text-anchor="end" x="24.5" y="42.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="26,26,39,239" x1="26.5" y1="239.5" x2="26.5" y2="39.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="as copy: scrip; Account: 146; as actuating Interactions: Celsius Trial" role="graphics-symbol" aria-roledescription="bar" d="M355.23655913978496,180.6h19.655913978494624v58.400000000000006h-19.655913978494624Z" fill="#a7f9df"/>
+<path aria-label="as copy: scrip; Account: 221; as actuating Interactions: Avon Loan Soap" role="graphics-symbol" aria-roledescription="bar" d="M335.58064516129036,150.60000000000002h19.655913978494624v88.39999999999999h-19.655913978494624Z" fill="#139053"/>
+<path aria-label="as copy: scrip; Account: 368; as actuating Interactions: South Bicycle markets" role="graphics-symbol" aria-roledescription="bar" d="M374.8924731182796,91.80000000000001h19.655913978494624v147.2h-19.655913978494624Z" fill="#bca73b"/>
+<path aria-label="as copy: shelter; Account: 470; as actuating Interactions: Celsius Trial" role="graphics-symbol" aria-roledescription="bar" d="M428.9462365591397,51.000000000000014h19.655913978494624v188h-19.655913978494624Z" fill="#a7f9df"/>
+<path aria-label="as copy: shelter; Account: 168; as actuating Interactions: Avon Loan Soap" role="graphics-symbol" aria-roledescription="bar" d="M409.2903225806451,171.79999999999998h19.655913978494624v67.20000000000002h-19.655913978494624Z" fill="#139053"/>
+<path aria-label="as copy: shelter; Account: 234; as actuating Interactions: South Bicycle markets" role="graphics-symbol" aria-roledescription="bar" d="M448.6021505376344,145.4h19.655913978494624v93.6h-19.655913978494624Z" fill="#bca73b"/>
+<path aria-label="as copy: latte; Account: 315; as actuating Interactions: Celsius Trial" role="graphics-symbol" aria-roledescription="bar" d="M281.52688172043014,113.0h19.655913978494624v126h-19.655913978494624Z" fill="#a7f9df"/>
+<path aria-label="as copy: latte; Account: 302; as actuating Interactions: Avon Loan Soap" role="graphics-symbol" aria-roledescription="bar" d="M261.8709677419355,118.2h19.655913978494624v120.8h-19.655913978494624Z" fill="#139053"/>
+<path aria-label="as copy: latte; Account: 322; as actuating Interactions: South Bicycle markets" role="graphics-symbol" aria-roledescription="bar" d="M301.1827956989248,110.2h19.655913978494624v128.8h-19.655913978494624Z" fill="#bca73b"/>
+<path aria-label="as copy: film; Account: 397; as actuating Interactions: Celsius Trial" role="graphics-symbol" aria-roledescription="bar" d="M207.8172043010753,80.19999999999999h19.655913978494624v158.8h-19.655913978494624Z" fill="#a7f9df"/>
+<path aria-label="as copy: film; Account: 181; as actuating Interactions: Avon Loan Soap" role="graphics-symbol" aria-roledescription="bar" d="M188.16129032258067,166.60000000000002h19.655913978494624v72.39999999999999h-19.655913978494624Z" fill="#139053"/>
+<path aria-label="as copy: film; Account: 122; as actuating Interactions: South Bicycle markets" role="graphics-symbol" aria-roledescription="bar" d="M227.47311827956992,190.2h19.655913978494624v48.80000000000001h-19.655913978494624Z" fill="#bca73b"/>
+<path aria-label="as copy: creator; Account: 53; as actuating Interactions: Celsius Trial" role="graphics-symbol" aria-roledescription="bar" d="M60.39784946236563,217.8h19.655913978494624v21.19999999999999h-19.655913978494624Z" fill="#a7f9df"/>
+<path aria-label="as copy: creator; Account: 456; as actuating Interactions: Avon Loan Soap" role="graphics-symbol" aria-roledescription="bar" d="M40.741935483871,56.599999999999994h19.655913978494624v182.4h-19.655913978494624Z" fill="#139053"/>
+<path aria-label="as copy: creator; Account: 50; as actuating Interactions: South Bicycle markets" role="graphics-symbol" aria-roledescription="bar" d="M80.05376344086025,219.0h19.655913978494624v20h-19.655913978494624Z" fill="#bca73b"/>
+<path aria-label="as copy: ephemeris; Account: 36; as actuating Interactions: Celsius Trial" role="graphics-symbol" aria-roledescription="bar" d="M134.10752688172045,224.60000000000002h19.655913978494624v14.399999999999977h-19.655913978494624Z" fill="#a7f9df"/>
+<path aria-label="as copy: ephemeris; Account: 197; as actuating Interactions: Avon Loan Soap" role="graphics-symbol" aria-roledescription="bar" d="M114.45161290322584,160.2h19.655913978494624v78.8h-19.655913978494624Z" fill="#139053"/>
+<path aria-label="as copy: ephemeris; Account: 22; as actuating Interactions: South Bicycle markets" role="graphics-symbol" aria-roledescription="bar" d="M153.7634408602151,230.2h19.655913978494624v8.800000000000011h-19.655913978494624Z" fill="#bca73b"/>
+</svg>

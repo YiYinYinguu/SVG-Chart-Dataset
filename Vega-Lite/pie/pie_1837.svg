@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="287" height="270" viewBox="0 0 287 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="9,282,0,26" text-anchor="end" x="282.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">happily joule pricing</text>
+<path aria-label="female: 4; BMX: Personal" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.45146713671204,61.84227351172997A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#fbf83d" stroke="black" stroke-width="0"/>
+<path aria-label="female: 15; BMX: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.12428174625654,165.37008505816738A75,75,0,0,0,166.72378994202424,91.39514399516332L105.0,134.0Z" fill="#164dfd" stroke="black" stroke-width="0"/>
+<path aria-label="female: 26; BMX: pixel" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.257349669994554,193.4357631463318A75,75,0,0,0,173.12428174625654,165.37008505816738L105.0,134.0Z" fill="#dabbf8" stroke="black" stroke-width="0"/>
+<path aria-label="female: 36; BMX: unto" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,59.257349669994554,193.4357631463318L105.0,134.0Z" fill="#bef47b" stroke="black" stroke-width="0"/>
+<path aria-label="female: 10; BMX: Regional" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.72378994202424,91.39514399516332A75,75,0,0,0,125.45146713671204,61.84227351172997L105.0,134.0Z" fill="#9dfbc5" stroke="black" stroke-width="0"/>
+<text aria-label="115,119,38,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.38881631284514" y="46.856760041119315" font-family="Balto" font-size="8px" fill="#fbf83d" opacity="1">4</text>
+<text aria-label="190,199,120,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.66500379478236" y="128.24196581074426" font-family="Balto" font-size="8px" fill="#164dfd" opacity="1">15</text>
+<text aria-label="122,131,215,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="126.53840978588019" y="223.38476356834468" font-family="Balto" font-size="8px" fill="#dabbf8" opacity="1">26</text>
+<text aria-label="15,24,99,108" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.79711736154748" y="107.0091602381358" font-family="Balto" font-size="8px" fill="#bef47b" opacity="1">36</text>
+<text aria-label="152,161,54,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.39668129486935" y="62.82495104693207" font-family="Balto" font-size="8px" fill="#9dfbc5" opacity="1">10</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#fbf83d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M84.0,258.25A5,5,0,1,1,74.0,258.25A5,5,0,1,1,84.0,258.25" fill="#9dfbc5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M153.0,258.25A5,5,0,1,1,143.0,258.25A5,5,0,1,1,153.0,258.25" fill="#164dfd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M204.0,258.25A5,5,0,1,1,194.0,258.25A5,5,0,1,1,204.0,258.25" fill="#dabbf8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,258.25A5,5,0,1,1,244.0,258.25A5,5,0,1,1,254.0,258.25" fill="#bef47b" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Personal</text>
+<text aria-label="89,133,251,262" text-anchor="start" x="89.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Regional</text>
+<text aria-label="158,180,251,262" text-anchor="start" x="158.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="209,236,251,262" text-anchor="start" x="209.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">pixel</text>
+<text aria-label="259,281,251,262" text-anchor="start" x="259.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">unto</text>
+</svg>

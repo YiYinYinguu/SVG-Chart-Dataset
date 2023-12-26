@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="297" height="239" viewBox="0 0 297 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="136,292,0,26" text-anchor="end" x="292.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Salad Diesel</text>
+<path aria-label="Applications: 19; Agent Freeway: grey" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.713967581667006,110.69116944048076A75,75,0,0,0,31.93620902701771,117.06830047938627L60.18754153657086,123.61522429402358A46,46,0,0,1,61.27790011675577,119.7039172568282Z" fill="#76bc98" stroke="black" stroke-width="0"/>
+<path aria-label="Applications: 505; Agent Freeway: MTF" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.28690104554855,206.7364368810455A75,75,0,0,0,144.0981981106194,69.9974148607827L128.98022817451323,94.74508111461338A46,46,0,0,1,116.21596597460311,178.61168128704122Z" fill="#ecb6d9" stroke="black" stroke-width="0"/>
+<path aria-label="Applications: 118; Agent Freeway: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.0981981106194,69.9974148607827A75,75,0,0,0,105.0,59.0L105.0,88.0A46,46,0,0,1,128.98022817451323,94.74508111461338Z" fill="#2c47e0" stroke="black" stroke-width="0"/>
+<path aria-label="Applications: 102; Agent Freeway: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,70.76450921325974,67.26971324360262L84.00223231746598,93.0720907894096A46,46,0,0,1,104.99999999999999,88.0Z" fill="#bee9df" stroke="black" stroke-width="0"/>
+<path aria-label="Applications: 168; Agent Freeway: substantial" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.76450921325974,67.26971324360262A75,75,0,0,0,33.713967581667006,110.69116944048076L61.27790011675577,119.7039172568282A46,46,0,0,1,84.00223231746598,93.0720907894096Z" fill="#be2cf5" stroke="black" stroke-width="0"/>
+<path aria-label="Applications: 440; Agent Freeway: Usability" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.93620902701771,117.06830047938627A75,75,0,0,0,123.28690104554855,206.7364368810455L116.21596597460311,178.61168128704122A46,46,0,0,1,60.18754153657086,123.61522429402358Z" fill="#cca0ef" stroke="black" stroke-width="0"/>
+<text aria-label="12,23,102,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.30562790572354" y="112.8321319273061" font-family="sans-serif" font-size="10px" fill="#76bc98" opacity="1">19</text>
+<text aria-label="185,202,140,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.97538709867808" y="150.5418052947305" font-family="sans-serif" font-size="10px" fill="#ecb6d9" opacity="1">505</text>
+<text aria-label="121,137,40,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="129.3692511678604" y="50.36201989013287" font-family="sans-serif" font-size="10px" fill="#2c47e0" opacity="1">118</text>
+<text aria-label="75,92,39,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="83.86792686094086" y="49.51608442207531" font-family="sans-serif" font-size="10px" fill="#bee9df" opacity="1">102</text>
+<text aria-label="28,44,68,79" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="36.53630671370816" y="78.5814866536253" font-family="sans-serif" font-size="10px" fill="#be2cf5" opacity="1">168</text>
+<text aria-label="33,50,191,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="41.95463817129166" y="201.22836096217344" font-family="sans-serif" font-size="10px" fill="#cca0ef" opacity="1">440</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#2c47e0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ecb6d9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#cca0ef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#76bc98" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#be2cf5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#bee9df" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="239,255,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">MTF</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Usability</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">grey</text>
+<text aria-label="239,299,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">substantial</text>
+<text aria-label="239,294,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+</svg>

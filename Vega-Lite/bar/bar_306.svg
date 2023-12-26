@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="545" height="301" viewBox="0 0 545 301" style="background-color: rgb(255, 255, 255);">
+<line x1="40.5" y1="239.5" x2="540.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="199.5" x2="540.5" y2="199.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="159.5" x2="540.5" y2="159.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="119.5" x2="540.5" y2="119.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="79.5" x2="540.5" y2="79.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="39.5" x2="540.5" y2="39.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="80,91,246,268" text-anchor="end" x="88.38709677419357" y="246.5" transform="rotate(270.0, 91.38709677419357, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">mark</text>
+<text aria-label="161,172,246,285" text-anchor="end" x="169.03225806451616" y="246.5" transform="rotate(270.0, 172.03225806451616, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">panpipe</text>
+<text aria-label="241,252,246,290" text-anchor="end" x="249.67741935483872" y="246.5" transform="rotate(270.0, 252.67741935483872, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">shutdown</text>
+<text aria-label="322,333,246,296" text-anchor="end" x="330.32258064516134" y="246.5" transform="rotate(270.0, 333.32258064516134, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">stopwatch</text>
+<text aria-label="402,413,246,301" text-anchor="end" x="410.9677419354839" y="246.5" transform="rotate(270.0, 413.9677419354839, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">vermicelli</text>
+<text aria-label="483,494,246,285" text-anchor="end" x="491.61290322580646" y="246.5" transform="rotate(270.0, 494.61290322580646, 246.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">western</text>
+<line aria-label="88,88,239,244" x1="88.5" y1="239.5" x2="88.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="169,169,239,244" x1="169.5" y1="239.5" x2="169.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="249,249,239,244" x1="249.5" y1="239.5" x2="249.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="330,330,239,244" x1="330.5" y1="239.5" x2="330.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="410,410,239,244" x1="410.5" y1="239.5" x2="410.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="491,491,239,244" x1="491.5" y1="239.5" x2="491.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,540,239,239" x1="40.5" y1="239.5" x2="540.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="251,329,0,26" text-anchor="middle" x="290.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gender</text>
+<text aria-label="28,33,232,243" text-anchor="end" x="33.5" y="242.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="17,33,192,203" text-anchor="end" x="33.5" y="202.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="17,33,152,163" text-anchor="end" x="33.5" y="162.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="17,33,112,123" text-anchor="end" x="33.5" y="122.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="17,33,72,83" text-anchor="end" x="33.5" y="82.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="6,33,32,43" text-anchor="end" x="33.5" y="42.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<line aria-label="35,40,239,239" x1="40.5" y1="239.5" x2="35.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,199,199" x1="40.5" y1="199.5" x2="35.5" y2="199.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,159,159" x1="40.5" y1="159.5" x2="35.5" y2="159.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,119,119" x1="40.5" y1="119.5" x2="35.5" y2="119.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,79,79" x1="40.5" y1="79.5" x2="35.5" y2="79.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,39,39" x1="40.5" y1="39.5" x2="35.5" y2="39.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,40,39,239" x1="40.5" y1="239.5" x2="40.5" y2="39.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="payment: vermicelli; reservoir: 498; primary Honda next: invoice Metal" role="graphics-symbol" aria-roledescription="bar" d="M421.7204301075269,139.4h21.50537634408602v99.6h-21.50537634408602Z" fill="#eab174"/>
+<path aria-label="payment: vermicelli; reservoir: 148; primary Honda next: Trans 1080p International" role="graphics-symbol" aria-roledescription="bar" d="M400.2150537634409,209.4h21.50537634408602v29.599999999999994h-21.50537634408602Z" fill="#1ddd0f"/>
+<path aria-label="payment: vermicelli; reservoir: 662; primary Honda next: Martin" role="graphics-symbol" aria-roledescription="bar" d="M378.7096774193549,106.6h21.50537634408602v132.4h-21.50537634408602Z" fill="#f1d2ea"/>
+<path aria-label="payment: stopwatch; reservoir: 585; primary Honda next: invoice Metal" role="graphics-symbol" aria-roledescription="bar" d="M341.07526881720435,122.0h21.50537634408602v117h-21.50537634408602Z" fill="#eab174"/>
+<path aria-label="payment: stopwatch; reservoir: 84; primary Honda next: Trans 1080p International" role="graphics-symbol" aria-roledescription="bar" d="M319.56989247311833,222.20000000000002h21.50537634408602v16.799999999999983h-21.50537634408602Z" fill="#1ddd0f"/>
+<path aria-label="payment: stopwatch; reservoir: 654; primary Honda next: Martin" role="graphics-symbol" aria-roledescription="bar" d="M298.0645161290323,108.19999999999999h21.50537634408602v130.8h-21.50537634408602Z" fill="#f1d2ea"/>
+<path aria-label="payment: western; reservoir: 162; primary Honda next: invoice Metal" role="graphics-symbol" aria-roledescription="bar" d="M502.36559139784947,206.6h21.50537634408602v32.400000000000006h-21.50537634408602Z" fill="#eab174"/>
+<path aria-label="payment: western; reservoir: 296; primary Honda next: Trans 1080p International" role="graphics-symbol" aria-roledescription="bar" d="M480.86021505376345,179.79999999999998h21.50537634408602v59.20000000000002h-21.50537634408602Z" fill="#1ddd0f"/>
+<path aria-label="payment: western; reservoir: 975; primary Honda next: Martin" role="graphics-symbol" aria-roledescription="bar" d="M459.35483870967744,44.00000000000001h21.50537634408602v195h-21.50537634408602Z" fill="#f1d2ea"/>
+<path aria-label="payment: panpipe; reservoir: 68; primary Honda next: invoice Metal" role="graphics-symbol" aria-roledescription="bar" d="M179.78494623655916,225.39999999999998h21.50537634408602v13.600000000000023h-21.50537634408602Z" fill="#eab174"/>
+<path aria-label="payment: panpipe; reservoir: 230; primary Honda next: Trans 1080p International" role="graphics-symbol" aria-roledescription="bar" d="M158.27956989247315,193.0h21.50537634408602v46h-21.50537634408602Z" fill="#1ddd0f"/>
+<path aria-label="payment: panpipe; reservoir: 8; primary Honda next: Martin" role="graphics-symbol" aria-roledescription="bar" d="M136.77419354838713,237.4h21.50537634408602v1.5999999999999943h-21.50537634408602Z" fill="#f1d2ea"/>
+<path aria-label="payment: mark; reservoir: 243; primary Honda next: invoice Metal" role="graphics-symbol" aria-roledescription="bar" d="M99.13978494623657,190.4h21.50537634408602v48.599999999999994h-21.50537634408602Z" fill="#eab174"/>
+<path aria-label="payment: mark; reservoir: 336; primary Honda next: Trans 1080p International" role="graphics-symbol" aria-roledescription="bar" d="M77.63440860215056,171.79999999999998h21.50537634408602v67.20000000000002h-21.50537634408602Z" fill="#1ddd0f"/>
+<path aria-label="payment: mark; reservoir: 618; primary Honda next: Martin" role="graphics-symbol" aria-roledescription="bar" d="M56.12903225806454,115.4h21.50537634408602v123.6h-21.50537634408602Z" fill="#f1d2ea"/>
+<path aria-label="payment: shutdown; reservoir: 396; primary Honda next: invoice Metal" role="graphics-symbol" aria-roledescription="bar" d="M260.4301075268817,159.8h21.50537634408602v79.2h-21.50537634408602Z" fill="#eab174"/>
+<path aria-label="payment: shutdown; reservoir: 669; primary Honda next: Trans 1080p International" role="graphics-symbol" aria-roledescription="bar" d="M238.9247311827957,105.19999999999999h21.50537634408602v133.8h-21.50537634408602Z" fill="#1ddd0f"/>
+<path aria-label="payment: shutdown; reservoir: 748; primary Honda next: Martin" role="graphics-symbol" aria-roledescription="bar" d="M217.4193548387097,89.4h21.50537634408602v149.6h-21.50537634408602Z" fill="#f1d2ea"/>
+</svg>

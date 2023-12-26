@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="403" height="270" viewBox="0 0 403 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Soft</text>
+<path aria-label="Nihonium Internal: 634; Southwest: wasteful" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,30.269963945315553,171.35780711138392L53.18717500208545,169.4080795972262A52,52,0,0,1,104.99999999999999,113.0Z" fill="#2cccaa" stroke="black" stroke-width="0"/>
+<path aria-label="Nihonium Internal: 233; Southwest: index" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.16318685097463,216.87821498612314A75,75,0,0,0,179.09643431919278,176.60682649054223L156.37352779464032,173.04739970010928A52,52,0,0,1,142.5531428833424,200.96889572371202Z" fill="#1d60a5" stroke="black" stroke-width="0"/>
+<path aria-label="Nihonium Internal: 283; Southwest: models" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.0884453147391,239.82718573004672A75,75,0,0,0,159.16318685097463,216.87821498612314L142.5531428833424,200.96889572371202A52,52,0,0,1,108.52798875155244,216.88018210616573Z" fill="#a13cd2" stroke="black" stroke-width="0"/>
+<path aria-label="Nihonium Internal: 338; Southwest: aside" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.22415357416935,120.30043259409699A75,75,0,0,0,108.71981117370571,90.0923034339463L107.57906908043596,113.0639970475361A52,52,0,0,1,146.7554131447574,134.00829993190723Z" fill="#a5baea" stroke="black" stroke-width="0"/>
+<path aria-label="Nihonium Internal: 595; Southwest: system" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.269963945315553,171.35780711138392A75,75,0,0,0,110.0884453147391,239.82718573004672L108.52798875155244,216.88018210616573A52,52,0,0,1,53.18717500208545,169.4080795972262Z" fill="#a4dc3d" stroke="black" stroke-width="0"/>
+<path aria-label="Nihonium Internal: 19; Southwest: Strontium" role="graphics-symbol" aria-roledescription="arc mark"  d="M108.71981117370571,90.0923034339463A75,75,0,0,0,105.0,90.0L105.0,113.0A52,52,0,0,1,107.57906908043596,113.0639970475361Z" fill="#3a8569" stroke="black" stroke-width="0"/>
+<path aria-label="Nihonium Internal: 304; Southwest: gold" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.09643431919278,176.60682649054223A75,75,0,0,0,165.22415357416935,120.30043259409699L146.7554131447574,134.00829993190723A52,52,0,0,1,156.37352779464032,173.04739970010928Z" fill="#32dca3" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#3a8569" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,40.25A5,5,0,1,1,78.0,40.25A5,5,0,1,1,88.0,40.25" fill="#a5baea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,40.25A5,5,0,1,1,130.0,40.25A5,5,0,1,1,140.0,40.25" fill="#32dca3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,40.25A5,5,0,1,1,177.0,40.25A5,5,0,1,1,187.0,40.25" fill="#1d60a5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,40.25A5,5,0,1,1,229.0,40.25A5,5,0,1,1,239.0,40.25" fill="#a13cd2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,40.25A5,5,0,1,1,286.0,40.25A5,5,0,1,1,296.0,40.25" fill="#a4dc3d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M353.0,40.25A5,5,0,1,1,343.0,40.25A5,5,0,1,1,353.0,40.25" fill="#2cccaa" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Strontium</text>
+<text aria-label="93,120,33,44" text-anchor="start" x="93.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">aside</text>
+<text aria-label="145,167,33,44" text-anchor="start" x="145.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">gold</text>
+<text aria-label="192,219,33,44" text-anchor="start" x="192.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">index</text>
+<text aria-label="244,277,33,44" text-anchor="start" x="244.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">models</text>
+<text aria-label="301,334,33,44" text-anchor="start" x="301.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">system</text>
+<text aria-label="358,402,33,44" text-anchor="start" x="358.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">wasteful</text>
+</svg>

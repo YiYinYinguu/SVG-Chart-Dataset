@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="614" height="363" viewBox="0 0 614 363" style="background-color: rgb(255, 255, 255);">
+<line x1="45.5" y1="240.5" x2="609.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="45.5" y1="200.5" x2="609.5" y2="200.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="45.5" y1="160.5" x2="609.5" y2="160.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="45.5" y1="120.5" x2="609.5" y2="120.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="45.5" y1="80.5" x2="609.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="45.5" y1="40.5" x2="609.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="83,96,247,280" text-anchor="end" x="92.0" y="247.5" transform="rotate(270.0, 96.0, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">dairy</text>
+<text aria-label="177,190,247,286" text-anchor="end" x="186.0" y="247.5" transform="rotate(270.0, 190.0, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">gallon</text>
+<text aria-label="271,284,247,306" text-anchor="end" x="280.0" y="247.5" transform="rotate(270.0, 284.0, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">hurricane</text>
+<text aria-label="365,378,247,312" text-anchor="end" x="374.0" y="247.5" transform="rotate(270.0, 378.0, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">statistics</text>
+<text aria-label="459,472,247,319" text-anchor="end" x="468.0" y="247.5" transform="rotate(270.0, 472.0, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">termination</text>
+<text aria-label="553,566,247,293" text-anchor="end" x="562.0" y="247.5" transform="rotate(270.0, 566.0, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">vagrant</text>
+<line aria-label="91,91,240,245" x1="91.5" y1="240.5" x2="91.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="186,186,240,245" x1="186.5" y1="240.5" x2="186.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="280,280,240,245" x1="280.5" y1="240.5" x2="280.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="374,374,240,245" x1="374.5" y1="240.5" x2="374.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="468,468,240,245" x1="468.5" y1="240.5" x2="468.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="562,562,240,245" x1="562.5" y1="240.5" x2="562.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="45,609,240,240" x1="45.5" y1="240.5" x2="609.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="236,418,0,26" text-anchor="middle" x="327.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">implementation</text>
+<text aria-label="32,38,232,245" text-anchor="end" x="38.5" y="244.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="25,38,192,205" text-anchor="end" x="38.5" y="204.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="25,38,152,165" text-anchor="end" x="38.5" y="164.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="25,38,112,125" text-anchor="end" x="38.5" y="124.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">60</text>
+<text aria-label="25,38,72,85" text-anchor="end" x="38.5" y="84.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">80</text>
+<text aria-label="19,38,32,45" text-anchor="end" x="38.5" y="44.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">100</text>
+<line aria-label="40,45,240,240" x1="45.5" y1="240.5" x2="40.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,45,200,200" x1="45.5" y1="200.5" x2="40.5" y2="200.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,45,160,160" x1="45.5" y1="160.5" x2="40.5" y2="160.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,45,120,120" x1="45.5" y1="120.5" x2="40.5" y2="120.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,45,80,80" x1="45.5" y1="80.5" x2="40.5" y2="80.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,45,40,40" x1="45.5" y1="40.5" x2="40.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,92,188" text-anchor="middle" x="16.5" y="140.5" transform="rotate(-90.0, 14.5, 140.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Stage synthesize</text>
+<line aria-label="45,45,40,240" x1="45.5" y1="240.5" x2="45.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Northeast Southeast: termination; Stage synthesize: 26; Wehner Functionality: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M429.93,144.0h76.14000000000001v52h-76.14000000000001Z" fill="#a0bf6c"/>
+<path aria-label="Northeast Southeast: termination; Stage synthesize: 12; Wehner Functionality: Paradigm invoice calculate" role="graphics-symbol" aria-roledescription="bar" d="M429.93,196.0h76.14000000000001v24h-76.14000000000001Z" fill="#82abc3"/>
+<path aria-label="Northeast Southeast: termination; Stage synthesize: 10; Wehner Functionality: shallows" role="graphics-symbol" aria-roledescription="bar" d="M429.93,220.0h76.14000000000001v20h-76.14000000000001Z" fill="#238ebf"/>
+<path aria-label="Northeast Southeast: gallon; Stage synthesize: 24; Wehner Functionality: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M147.93,140.0h76.14000000000001v48h-76.14000000000001Z" fill="#a0bf6c"/>
+<path aria-label="Northeast Southeast: gallon; Stage synthesize: 20; Wehner Functionality: Paradigm invoice calculate" role="graphics-symbol" aria-roledescription="bar" d="M147.93,188.0h76.14000000000001v40h-76.14000000000001Z" fill="#82abc3"/>
+<path aria-label="Northeast Southeast: gallon; Stage synthesize: 6; Wehner Functionality: shallows" role="graphics-symbol" aria-roledescription="bar" d="M147.93,228.0h76.14000000000001v12h-76.14000000000001Z" fill="#238ebf"/>
+<path aria-label="Northeast Southeast: hurricane; Stage synthesize: 27; Wehner Functionality: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M241.92999999999998,42.0h76.14000000000001v54.00000000000001h-76.14000000000001Z" fill="#a0bf6c"/>
+<path aria-label="Northeast Southeast: hurricane; Stage synthesize: 38; Wehner Functionality: Paradigm invoice calculate" role="graphics-symbol" aria-roledescription="bar" d="M241.92999999999998,96.0h76.14000000000001v75.99999999999997h-76.14000000000001Z" fill="#82abc3"/>
+<path aria-label="Northeast Southeast: hurricane; Stage synthesize: 34; Wehner Functionality: shallows" role="graphics-symbol" aria-roledescription="bar" d="M241.92999999999998,171.99999999999997h76.14000000000001v68.00000000000003h-76.14000000000001Z" fill="#238ebf"/>
+<path aria-label="Northeast Southeast: vagrant; Stage synthesize: 39; Wehner Functionality: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M523.9300000000001,110.0h76.14000000000001v78h-76.14000000000001Z" fill="#a0bf6c"/>
+<path aria-label="Northeast Southeast: vagrant; Stage synthesize: 4; Wehner Functionality: Paradigm invoice calculate" role="graphics-symbol" aria-roledescription="bar" d="M523.9300000000001,188.0h76.14000000000001v8h-76.14000000000001Z" fill="#82abc3"/>
+<path aria-label="Northeast Southeast: vagrant; Stage synthesize: 22; Wehner Functionality: shallows" role="graphics-symbol" aria-roledescription="bar" d="M523.9300000000001,196.0h76.14000000000001v44h-76.14000000000001Z" fill="#238ebf"/>
+<path aria-label="Northeast Southeast: dairy; Stage synthesize: 13; Wehner Functionality: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M53.92999999999999,104.0h76.14000000000001v25.999999999999993h-76.14000000000001Z" fill="#a0bf6c"/>
+<path aria-label="Northeast Southeast: dairy; Stage synthesize: 26; Wehner Functionality: Paradigm invoice calculate" role="graphics-symbol" aria-roledescription="bar" d="M53.92999999999999,130.0h76.14000000000001v52.000000000000014h-76.14000000000001Z" fill="#82abc3"/>
+<path aria-label="Northeast Southeast: dairy; Stage synthesize: 29; Wehner Functionality: shallows" role="graphics-symbol" aria-roledescription="bar" d="M53.92999999999999,182.0h76.14000000000001v58h-76.14000000000001Z" fill="#238ebf"/>
+<path aria-label="Northeast Southeast: statistics; Stage synthesize: 21; Wehner Functionality: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M335.93,72.0h76.14000000000001v41.99999999999999h-76.14000000000001Z" fill="#a0bf6c"/>
+<path aria-label="Northeast Southeast: statistics; Stage synthesize: 38; Wehner Functionality: Paradigm invoice calculate" role="graphics-symbol" aria-roledescription="bar" d="M335.93,114.0h76.14000000000001v76h-76.14000000000001Z" fill="#82abc3"/>
+<path aria-label="Northeast Southeast: statistics; Stage synthesize: 25; Wehner Functionality: shallows" role="graphics-symbol" aria-roledescription="bar" d="M335.93,190.0h76.14000000000001v50h-76.14000000000001Z" fill="#238ebf"/>
+<path  d="M46.0,348.0h10v10h-10Z" fill="#a0bf6c" stroke-width="1.5" opacity="1"/>
+<path  d="M117.0,348.0h10v10h-10Z" fill="#82abc3" stroke-width="1.5" opacity="1"/>
+<path  d="M273.0,348.0h10v10h-10Z" fill="#238ebf" stroke-width="1.5" opacity="1"/>
+<text aria-label="61,110,346,357" text-anchor="start" x="61.0" y="356.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Berkshire</text>
+<text aria-label="132,275,346,357" text-anchor="start" x="132.0" y="356.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Paradigm invoice calculate</text>
+<text aria-label="288,332,346,357" text-anchor="start" x="288.0" y="356.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">shallows</text>
+<text aria-label="45,165,329,341" text-anchor="start" x="45.0" y="340.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Wehner Functionality</text>
+</svg>

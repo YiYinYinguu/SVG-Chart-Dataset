@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="290" height="239" viewBox="0 0 290 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Quetzal</text>
+<path aria-label="Northwest: 258; Electronic Louisiana payment: Indium" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.3292387221365,157.17627457812105A75,75,0,0,0,185.0,59.0L185.0,134.0Z" fill="#abc220" stroke="white" stroke-width="0"/>
+<path aria-label="Northwest: 160; Electronic Louisiana payment: plummet" role="graphics-symbol" aria-roledescription="arc mark"  d="M185.0,59.0A75,75,0,0,0,115.97403623231303,104.66714596323833L185.0,134.0Z" fill="#e128de" stroke="white" stroke-width="0"/>
+<path aria-label="Northwest: 11; Electronic Louisiana payment: concept" role="graphics-symbol" aria-roledescription="arc mark"  d="M254.23842632788515,162.82776993868967A75,75,0,0,0,256.3292387221365,157.17627457812105L185.0,134.0Z" fill="#caaada" stroke="white" stroke-width="0"/>
+<path aria-label="Northwest: 148; Electronic Louisiana payment: explicabo" role="graphics-symbol" aria-roledescription="arc mark"  d="M192.1126736478637,208.66197073195286A75,75,0,0,0,254.23842632788515,162.82776993868967L185.0,134.0Z" fill="#a1c36e" stroke="white" stroke-width="0"/>
+<path aria-label="Northwest: 283; Electronic Louisiana payment: haptic" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.97403623231303,104.66714596323833A75,75,0,0,0,192.1126736478637,208.66197073195286L185.0,134.0Z" fill="#dfeac1" stroke="white" stroke-width="0"/>
+<text aria-label="250,265,75,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="257.8115294937453" y="84.09932729367742" font-family="sans-serif" font-size="9px" fill="#abc220" opacity="1">258</text>
+<text aria-label="127,142,52,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="135.34090333065984" y="61.940196389910994" font-family="sans-serif" font-size="9px" fill="#e128de" opacity="1">160</text>
+<text aria-label="264,274,159,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="269.4087366844998" y="168.22763473794933" font-family="sans-serif" font-size="9px" fill="#caaada" opacity="1">11</text>
+<text aria-label="230,245,200,210" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="238.43121928939135" y="209.42309579995162" font-family="sans-serif" font-size="9px" fill="#a1c36e" opacity="1">148</text>
+<text aria-label="104,119,181,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.38220282899421" y="190.1663007367511" font-family="sans-serif" font-size="9px" fill="#dfeac1" opacity="1">283</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#abc220" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#caaada" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#a1c36e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#dfeac1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#e128de" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Indium</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">concept</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">explicabo</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">haptic</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">plummet</text>
+</svg>

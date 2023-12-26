@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="286" viewBox="0 0 309 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">lime</text>
+<path aria-label="regarding: 209; Cedi Pizza Sleek: Refined" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.98927145189936,135.26852950827057A75,75,0,0,0,172.3881185082758,101.07825211331308L105.0,134.0Z" fill="#c1663a" stroke="black" stroke-width="2"/>
+<path aria-label="regarding: 721; Cedi Pizza Sleek: Wilton" role="graphics-symbol" aria-roledescription="arc mark"  d="M99.59204658453307,208.80477284141796A75,75,0,0,0,179.98927145189936,135.26852950827057L105.0,134.0Z" fill="#d6a30e" stroke="black" stroke-width="2"/>
+<path aria-label="regarding: 918; Cedi Pizza Sleek: turquoise" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,39.164866270468295,169.9268029027727L105.0,134.0Z" fill="#a0cfa7" stroke="black" stroke-width="2"/>
+<path aria-label="regarding: 495; Cedi Pizza Sleek: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.3881185082758,101.07825211331308A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#2d6d51" stroke="black" stroke-width="2"/>
+<path aria-label="regarding: 443; Cedi Pizza Sleek: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.164866270468295,169.9268029027727A75,75,0,0,0,99.59204658453307,208.80477284141796L105.0,134.0Z" fill="#cf6ecf" stroke="black" stroke-width="2"/>
+<text aria-label="184,201,107,118" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.85503199292418" y="117.46814515919532" font-family="monospace" font-size="10px" fill="#c1663a" opacity="1">209</text>
+<text aria-label="157,173,193,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.74281854808885" y="203.41016484570682" font-family="monospace" font-size="10px" fill="#d6a30e" opacity="1">721</text>
+<text aria-label="19,35,81,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="27.604603775484634" y="91.06577917009723" font-family="monospace" font-size="10px" fill="#a0cfa7" opacity="1">918</text>
+<text aria-label="144,160,50,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.66786773203629" y="60.66013894510225" font-family="monospace" font-size="10px" fill="#2d6d51" opacity="1">495</text>
+<text aria-label="48,64,202,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="56.30352533806963" y="212.68786795451416" font-family="monospace" font-size="10px" fill="#cf6ecf" opacity="1">443</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#2d6d51" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,274.25A5,5,0,1,1,78.0,274.25A5,5,0,1,1,88.0,274.25" fill="#c1663a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M150.0,274.25A5,5,0,1,1,140.0,274.25A5,5,0,1,1,150.0,274.25" fill="#d6a30e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,274.25A5,5,0,1,1,197.0,274.25A5,5,0,1,1,207.0,274.25" fill="#cf6ecf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,274.25A5,5,0,1,1,244.0,274.25A5,5,0,1,1,254.0,274.25" fill="#a0cfa7" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="93,131,267,278" text-anchor="start" x="93.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Refined</text>
+<text aria-label="155,188,267,278" text-anchor="start" x="155.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Wilton</text>
+<text aria-label="212,234,267,278" text-anchor="start" x="212.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="259,308,267,278" text-anchor="start" x="259.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">turquoise</text>
+<text aria-label="5,101,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Cedi Pizza Sleek</text>
+</svg>

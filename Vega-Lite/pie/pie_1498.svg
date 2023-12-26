@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="363" height="239" viewBox="0 0 363 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="11,284,0,26" text-anchor="middle" x="148.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">wedge concept Bicycle</text>
+<path aria-label="Principal Hybrid: 141; Bicycle Montana: Pop" role="graphics-symbol" aria-roledescription="arc mark"  d="M100.2482369410684,191.83397898090408A75,75,0,0,0,179.15612597514146,202.2223996515889L168.77075065009433,179.48159976772592A50,50,0,0,1,116.1654912940456,172.5559859872694Z" fill="#aa2804" stroke="white" stroke-width="0"/>
+<path aria-label="Principal Hybrid: 101; Bicycle Montana: yowza" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.0,59.0A75,75,0,0,0,94.13224700283746,81.81508659548541L112.0881646685583,99.2100577303236A50,50,0,0,1,148.0,84.0Z" fill="#a2bf1f" stroke="white" stroke-width="0"/>
+<path aria-label="Principal Hybrid: 77; Bicycle Montana: lightly" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.53040864950337,142.9039296992979A75,75,0,0,0,92.1051662743184,184.00767503872186L110.73677751621227,167.33845002581458A50,50,0,0,1,98.35360576633559,139.93595313286525Z" fill="#2b4514" stroke="white" stroke-width="0"/>
+<path aria-label="Principal Hybrid: 168; Bicycle Montana: Gold" role="graphics-symbol" aria-roledescription="arc mark"  d="M220.88586762426564,116.31807983679296A75,75,0,0,0,148.0,59.0L148.0,84.0A50,50,0,0,1,196.5905784161771,122.21205322452863Z" fill="#2b8a16" stroke="white" stroke-width="0"/>
+<path aria-label="Principal Hybrid: 19; Bicycle Montana: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M92.1051662743184,184.00767503872186A75,75,0,0,0,100.2482369410684,191.83397898090408L116.1654912940456,172.5559859872694A50,50,0,0,1,110.73677751621227,167.33845002581458Z" fill="#ef0de7" stroke="white" stroke-width="0"/>
+<path aria-label="Principal Hybrid: 112; Bicycle Montana: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.13224700283746,81.81508659548541A75,75,0,0,0,73.53040864950337,142.9039296992979L98.35360576633559,139.93595313286525A50,50,0,0,1,112.0881646685583,99.2100577303236Z" fill="#b858ac" stroke="white" stroke-width="0"/>
+<path aria-label="Principal Hybrid: 174; Bicycle Montana: Hatchback" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.15612597514146,202.2223996515889A75,75,0,0,0,220.88586762426564,116.31807983679296L196.5905784161771,122.21205322452863A50,50,0,0,1,168.77075065009433,179.48159976772592Z" fill="#9d2e6a" stroke="white" stroke-width="0"/>
+<path  d="M277.0,56.0A5,5,0,1,1,267.0,56.0A5,5,0,1,1,277.0,56.0" fill="#2b8a16" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M277.0,72.0A5,5,0,1,1,267.0,72.0A5,5,0,1,1,277.0,72.0" fill="#9d2e6a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M277.0,88.0A5,5,0,1,1,267.0,88.0A5,5,0,1,1,277.0,88.0" fill="#aa2804" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M277.0,104.0A5,5,0,1,1,267.0,104.0A5,5,0,1,1,277.0,104.0" fill="#ef0de7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M277.0,120.0A5,5,0,1,1,267.0,120.0A5,5,0,1,1,277.0,120.0" fill="#2b4514" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M277.0,136.0A5,5,0,1,1,267.0,136.0A5,5,0,1,1,277.0,136.0" fill="#b858ac" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M277.0,152.0A5,5,0,1,1,267.0,152.0A5,5,0,1,1,277.0,152.0" fill="#a2bf1f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="282,304,49,60" text-anchor="start" x="282.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Gold</text>
+<text aria-label="282,331,65,76" text-anchor="start" x="282.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Hatchback</text>
+<text aria-label="282,298,81,92" text-anchor="start" x="282.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Pop</text>
+<text aria-label="282,315,97,108" text-anchor="start" x="282.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="282,320,113,124" text-anchor="start" x="282.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">lightly</text>
+<text aria-label="282,304,129,140" text-anchor="start" x="282.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="282,309,145,156" text-anchor="start" x="282.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">yowza</text>
+<text aria-label="266,356,32,44" text-anchor="start" x="266.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bicycle Montana</text>
+</svg>

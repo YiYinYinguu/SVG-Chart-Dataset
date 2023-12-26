@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="354" height="239" viewBox="0 0 354 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="310,349,0,26" text-anchor="end" x="349.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">TLS</text>
+<path aria-label="South: 9; alarm Ergonomic female: Mazda" role="graphics-symbol" aria-roledescription="arc mark"  d="M309.4171737453364,89.56167063642205A75,75,0,0,0,290.4393325679827,71.48774747043484L249.0,134.0Z" fill="#bcc0ea" stroke="white" stroke-width="0"/>
+<path aria-label="South: 13; alarm Ergonomic female: Plastic" role="graphics-symbol" aria-roledescription="arc mark"  d="M323.3975462821952,124.51289785083878A75,75,0,0,0,309.4171737453364,89.56167063642205L249.0,134.0Z" fill="#90cd40" stroke="white" stroke-width="0"/>
+<path aria-label="South: 66; alarm Ergonomic female: port" role="graphics-symbol" aria-roledescription="arc mark"  d="M249.0,59.0A75,75,0,0,0,208.7882803840098,197.3089062101454L249.0,134.0Z" fill="#eec1bd" stroke="white" stroke-width="0"/>
+<path aria-label="South: 58; alarm Ergonomic female: Polynesia" role="graphics-symbol" aria-roledescription="arc mark"  d="M208.7882803840098,197.3089062101454A75,75,0,0,0,323.3975462821952,124.51289785083878L249.0,134.0Z" fill="#30b34f" stroke="white" stroke-width="0"/>
+<path aria-label="South: 15; alarm Ergonomic female: CLI" role="graphics-symbol" aria-roledescription="arc mark"  d="M290.4393325679827,71.48774747043484A75,75,0,0,0,249.0,59.0L249.0,134.0Z" fill="#6bca4c" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#6bca4c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#bcc0ea" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#90cd40" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#30b34f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#eec1bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">CLI</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Mazda</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Plastic</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Polynesia</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">port</text>
+<text aria-label="5,137,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">alarm Ergonomic female</text>
+</svg>

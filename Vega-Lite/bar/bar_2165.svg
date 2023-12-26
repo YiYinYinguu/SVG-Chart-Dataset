@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="405" height="307" viewBox="0 0 405 307" style="background-color: rgb(255, 255, 255);">
+<line x1="92.5" y1="41.5" x2="92.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="133.5" y1="41.5" x2="133.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="174.5" y1="41.5" x2="174.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="215.5" y1="41.5" x2="215.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="256.5" y1="41.5" x2="256.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="297.5" y1="41.5" x2="297.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="338.5" y1="41.5" x2="338.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="379.5" y1="41.5" x2="379.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="72.5" y1="241.5" x2="400.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="72.5" y1="201.5" x2="400.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="72.5" y1="161.5" x2="400.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="72.5" y1="121.5" x2="400.5" y2="121.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="72.5" y1="81.5" x2="400.5" y2="81.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="72.5" y1="41.5" x2="400.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="81,97,248,296" text-anchor="end" x="92.49999999999999" y="248.5" transform="rotate(270.0, 97.49999999999999, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">access</text>
+<text aria-label="122,138,248,288" text-anchor="end" x="133.5" y="248.5" transform="rotate(270.0, 138.5, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">apron</text>
+<text aria-label="163,179,248,288" text-anchor="end" x="174.5" y="248.5" transform="rotate(270.0, 179.5, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">hedge</text>
+<text aria-label="204,220,248,288" text-anchor="end" x="215.49999999999997" y="248.5" transform="rotate(270.0, 220.49999999999997, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">house</text>
+<text aria-label="245,261,248,288" text-anchor="end" x="256.5" y="248.5" transform="rotate(270.0, 261.5, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">purse</text>
+<text aria-label="286,302,248,296" text-anchor="end" x="297.5" y="248.5" transform="rotate(270.0, 302.5, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">source</text>
+<text aria-label="327,343,248,288" text-anchor="end" x="338.5" y="248.5" transform="rotate(270.0, 343.5, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">spasm</text>
+<text aria-label="368,384,248,288" text-anchor="end" x="379.49999999999994" y="248.5" transform="rotate(270.0, 384.49999999999994, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">youth</text>
+<line aria-label="92,92,241,246" x1="92.5" y1="241.5" x2="92.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="133,133,241,246" x1="133.5" y1="241.5" x2="133.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="174,174,241,246" x1="174.5" y1="241.5" x2="174.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,215,241,246" x1="215.5" y1="241.5" x2="215.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="256,256,241,246" x1="256.5" y1="241.5" x2="256.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="297,297,241,246" x1="297.5" y1="241.5" x2="297.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="338,338,241,246" x1="338.5" y1="241.5" x2="338.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="379,379,241,246" x1="379.5" y1="241.5" x2="379.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,400,241,241" x1="72.5" y1="241.5" x2="400.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="270,400,0,26" text-anchor="end" x="400.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">priesthood</text>
+<text aria-label="57,65,231,247" text-anchor="end" x="65.5" y="246.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="41,65,191,207" text-anchor="end" x="65.5" y="206.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="41,65,151,167" text-anchor="end" x="65.5" y="166.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="41,65,111,127" text-anchor="end" x="65.5" y="126.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="41,65,71,87" text-anchor="end" x="65.5" y="86.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="25,65,31,47" text-anchor="end" x="65.5" y="46.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<line aria-label="67,72,241,241" x1="72.5" y1="241.5" x2="67.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="67,72,201,201" x1="72.5" y1="201.5" x2="67.5" y2="201.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="67,72,161,161" x1="72.5" y1="161.5" x2="67.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="67,72,121,121" x1="72.5" y1="121.5" x2="67.5" y2="121.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="67,72,81,81" x1="72.5" y1="81.5" x2="67.5" y2="81.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="67,72,41,41" x1="72.5" y1="41.5" x2="67.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,123,159" text-anchor="middle" x="16.5" y="141.5" transform="rotate(-90.0, 14.5, 141.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">female</text>
+<line aria-label="72,72,41,241" x1="72.5" y1="241.5" x2="72.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="bravely: access; female: 534; Mouse markets atop: generation Forward state" role="graphics-symbol" aria-roledescription="bar" d="M83.27499999999998,134.2h18.45v106.80000000000001h-18.45Z" fill="#9fb3e1"/>
+<path aria-label="bravely: access; female: 70; Mouse markets atop: Southeast Cis disability" role="graphics-symbol" aria-roledescription="bar" d="M83.27499999999998,120.2h18.45v13.999999999999986h-18.45Z" fill="#76c1dd"/>
+<path aria-label="bravely: apron; female: 433; Mouse markets atop: generation Forward state" role="graphics-symbol" aria-roledescription="bar" d="M124.27499999999998,154.39999999999998h18.45v86.60000000000001h-18.45Z" fill="#9fb3e1"/>
+<path aria-label="bravely: apron; female: 53; Mouse markets atop: Southeast Cis disability" role="graphics-symbol" aria-roledescription="bar" d="M124.27499999999998,143.8h18.45v10.599999999999994h-18.45Z" fill="#76c1dd"/>
+<path aria-label="bravely: hedge; female: 102; Mouse markets atop: generation Forward state" role="graphics-symbol" aria-roledescription="bar" d="M165.27499999999998,220.6h18.45v20.400000000000006h-18.45Z" fill="#9fb3e1"/>
+<path aria-label="bravely: hedge; female: 104; Mouse markets atop: Southeast Cis disability" role="graphics-symbol" aria-roledescription="bar" d="M165.27499999999998,199.8h18.45v20.799999999999983h-18.45Z" fill="#76c1dd"/>
+<path aria-label="bravely: spasm; female: 313; Mouse markets atop: generation Forward state" role="graphics-symbol" aria-roledescription="bar" d="M329.275,178.4h18.45v62.599999999999994h-18.45Z" fill="#9fb3e1"/>
+<path aria-label="bravely: spasm; female: 418; Mouse markets atop: Southeast Cis disability" role="graphics-symbol" aria-roledescription="bar" d="M329.275,94.80000000000001h18.45v83.6h-18.45Z" fill="#76c1dd"/>
+<path aria-label="bravely: youth; female: 199; Mouse markets atop: generation Forward state" role="graphics-symbol" aria-roledescription="bar" d="M370.275,201.2h18.45v39.80000000000001h-18.45Z" fill="#9fb3e1"/>
+<path aria-label="bravely: youth; female: 550; Mouse markets atop: Southeast Cis disability" role="graphics-symbol" aria-roledescription="bar" d="M370.275,91.2h18.45v109.99999999999999h-18.45Z" fill="#76c1dd"/>
+<path aria-label="bravely: house; female: 341; Mouse markets atop: generation Forward state" role="graphics-symbol" aria-roledescription="bar" d="M206.27499999999998,172.8h18.45v68.19999999999999h-18.45Z" fill="#9fb3e1"/>
+<path aria-label="bravely: house; female: 314; Mouse markets atop: Southeast Cis disability" role="graphics-symbol" aria-roledescription="bar" d="M206.27499999999998,110.0h18.45v62.80000000000001h-18.45Z" fill="#76c1dd"/>
+<path aria-label="bravely: purse; female: 39; Mouse markets atop: generation Forward state" role="graphics-symbol" aria-roledescription="bar" d="M247.27499999999998,233.2h18.45v7.800000000000011h-18.45Z" fill="#9fb3e1"/>
+<path aria-label="bravely: purse; female: 457; Mouse markets atop: Southeast Cis disability" role="graphics-symbol" aria-roledescription="bar" d="M247.27499999999998,141.8h18.45v91.39999999999999h-18.45Z" fill="#76c1dd"/>
+<path aria-label="bravely: source; female: 534; Mouse markets atop: generation Forward state" role="graphics-symbol" aria-roledescription="bar" d="M288.275,134.2h18.45v106.80000000000001h-18.45Z" fill="#9fb3e1"/>
+<path aria-label="bravely: source; female: 394; Mouse markets atop: Southeast Cis disability" role="graphics-symbol" aria-roledescription="bar" d="M288.275,55.39999999999999h18.45v78.8h-18.45Z" fill="#76c1dd"/>
+</svg>

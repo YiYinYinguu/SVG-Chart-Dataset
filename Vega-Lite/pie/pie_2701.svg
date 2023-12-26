@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="33,176,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Small Metal</text>
+<path aria-label="24: synergize; though District: 96" role="graphics-symbol" aria-roledescription="arc mark"  d="M56.119022034830614,77.11722586609699A75,75,0,0,0,44.630872918872925,89.49642154317554L105.0,134.0Z" fill="#5e6a4a" stroke="white" stroke-width="2"/>
+<path aria-label="24: Argon; though District: 396" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.15923945662828,89.21310562229104A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#2fd433" stroke="white" stroke-width="2"/>
+<path aria-label="24: Chicken; though District: 158" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.3116010774653,114.09943845984446A75,75,0,0,0,165.15923945662828,89.21310562229104L105.0,134.0Z" fill="#ed9cfd" stroke="white" stroke-width="2"/>
+<path aria-label="24: Ytterbium; though District: 388" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.630872918872925,89.49642154317554A75,75,0,0,0,32.85456902881997,154.494799095934L105.0,134.0Z" fill="#bf4e94" stroke="white" stroke-width="2"/>
+<path aria-label="24: Health; though District: 302" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.07566894646904,199.8364825788583A75,75,0,0,0,120.66234726682492,207.34637603926578L105.0,134.0Z" fill="#10b7ce" stroke="white" stroke-width="2"/>
+<path aria-label="24: Sharable; though District: 338" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.85456902881997,154.494799095934A75,75,0,0,0,69.07566894646904,199.8364825788583L105.0,134.0Z" fill="#be0ede" stroke="white" stroke-width="2"/>
+<path aria-label="24: Hatchback; though District: 371" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.66234726682492,207.34637603926578A75,75,0,0,0,171.23348023345795,169.18701601676582L105.0,134.0Z" fill="#bdffbf" stroke="white" stroke-width="2"/>
+<path aria-label="24: yippee; though District: 302" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,56.119022034830614,77.11722586609699L105.0,134.0Z" fill="#5dccc4" stroke="white" stroke-width="2"/>
+<path aria-label="24: Ernser; though District: 322" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.23348023345795,169.18701601676582A75,75,0,0,0,177.3116010774653,114.09943845984446L105.0,134.0Z" fill="#4f5da3" stroke="white" stroke-width="2"/>
+<text aria-label="35,43,67,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="39.03047083868377" y="74.77891521514627" font-family="avenir" font-size="7px" fill="#5e6a4a" opacity="1">96</text>
+<text aria-label="139,151,48,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.3919262180416" y="55.5730623708929" font-family="avenir" font-size="7px" fill="#2fd433" opacity="1">396</text>
+<text aria-label="179,191,89,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.87290730156712" y="96.50857226445044" font-family="avenir" font-size="7px" fill="#ed9cfd" opacity="1">158</text>
+<text aria-label="10,22,112,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.44175371596323" y="119.95515612117438" font-family="avenir" font-size="7px" fill="#bf4e94" opacity="1">388</text>
+<text aria-label="86,98,218,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.0346332395344" y="225.0612107753236" font-family="avenir" font-size="7px" fill="#10b7ce" opacity="1">302</text>
+<text aria-label="28,40,185,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.68229937596364" y="192.17313396053666" font-family="avenir" font-size="7px" fill="#be0ede" opacity="1">338</text>
+<text aria-label="153,165,200,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="159.2098034947723" y="207.84216871071038" font-family="avenir" font-size="7px" fill="#bdffbf" opacity="1">371</text>
+<text aria-label="67,79,44,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="73.72172963910512" y="51.61001360806624" font-family="avenir" font-size="7px" fill="#5dccc4" opacity="1">302</text>
+<text aria-label="188,200,138,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.4571242124095" y="145.87030534712784" font-family="avenir" font-size="7px" fill="#4f5da3" opacity="1">322</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#2fd433" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ed9cfd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#4f5da3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#bdffbf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#10b7ce" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#be0ede" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#bf4e94" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#5e6a4a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,184.0A5,5,0,1,1,224.0,184.0A5,5,0,1,1,234.0,184.0" fill="#5dccc4" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Argon</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Chicken</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Ernser</text>
+<text aria-label="239,288,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hatchback</text>
+<text aria-label="239,272,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Health</text>
+<text aria-label="239,283,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Sharable</text>
+<text aria-label="239,288,145,156" text-anchor="start" x="239.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Ytterbium</text>
+<text aria-label="239,288,161,172" text-anchor="start" x="239.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">synergize</text>
+<text aria-label="239,272,177,188" text-anchor="start" x="239.0" y="187.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">yippee</text>
+<text aria-label="223,235,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">24</text>
+</svg>

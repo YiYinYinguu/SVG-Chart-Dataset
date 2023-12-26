@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="120,237,0,26" text-anchor="middle" x="179.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Fantastic</text>
+<path aria-label="Factors female Internal: 554; knowledge: Fort" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.37261160395963,124.31936762362228A75,75,0,0,0,179.0,59.0L179.0,134.0Z" fill="#2aced6" stroke="white" stroke-width="0"/>
+<path aria-label="Factors female Internal: 348; knowledge: OCR" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.2889516804245,127.42282287071A75,75,0,0,0,127.7016557795596,188.71270309755505L179.0,134.0Z" fill="#be9ce3" stroke="white" stroke-width="0"/>
+<path aria-label="Factors female Internal: 809; knowledge: Market" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.47827200579445,202.94539561302219A75,75,0,0,0,253.37261160395963,124.31936762362228L179.0,134.0Z" fill="#2f8b09" stroke="white" stroke-width="0"/>
+<path aria-label="Factors female Internal: 570; knowledge: meter" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.0,59.0A75,75,0,0,0,104.2889516804245,127.42282287071L179.0,134.0Z" fill="#7d6f7b" stroke="white" stroke-width="0"/>
+<path aria-label="Factors female Internal: 134; knowledge: Mongolia" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.7016557795596,188.71270309755505A75,75,0,0,0,149.47827200579445,202.94539561302219L179.0,134.0Z" fill="#8a52d3" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#2aced6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#2f8b09" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#8a52d3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#be9ce3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#7d6f7b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Fort</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Market</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Mongolia</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">OCR</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">meter</text>
+</svg>

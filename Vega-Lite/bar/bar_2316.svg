@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="708" height="330" viewBox="0 0 708 330" style="background-color: rgb(255, 255, 255);">
+<text aria-label="67,83,241,273" text-anchor="end" x="78.05882352941174" y="241.5" transform="rotate(270.0, 83.05882352941174, 241.5)" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">belt</text>
+<text aria-label="132,148,241,297" text-anchor="end" x="143.156862745098" y="241.5" transform="rotate(270.0, 148.156862745098, 241.5)" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">decoder</text>
+<text aria-label="197,213,241,273" text-anchor="end" x="208.25490196078428" y="241.5" transform="rotate(270.0, 213.25490196078428, 241.5)" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">door</text>
+<text aria-label="262,278,241,273" text-anchor="end" x="273.35294117647055" y="241.5" transform="rotate(270.0, 278.35294117647055, 241.5)" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">farm</text>
+<text aria-label="327,343,241,305" text-anchor="end" x="338.45098039215685" y="241.5" transform="rotate(270.0, 343.45098039215685, 241.5)" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">instinct</text>
+<text aria-label="392,408,241,345" text-anchor="end" x="403.54901960784315" y="241.5" transform="rotate(270.0, 408.54901960784315, 241.5)" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">justification</text>
+<text aria-label="457,473,241,281" text-anchor="end" x="468.6470588235294" y="241.5" transform="rotate(270.0, 473.6470588235294, 241.5)" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">racer</text>
+<text aria-label="522,538,241,289" text-anchor="end" x="533.7450980392157" y="241.5" transform="rotate(270.0, 538.7450980392157, 241.5)" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">senior</text>
+<text aria-label="587,603,241,265" text-anchor="end" x="598.8431372549019" y="241.5" transform="rotate(270.0, 603.8431372549019, 241.5)" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">tag</text>
+<text aria-label="652,668,241,289" text-anchor="end" x="663.9411764705882" y="241.5" transform="rotate(270.0, 668.9411764705882, 241.5)" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">thrust</text>
+<line aria-label="78,78,234,239" x1="78.5" y1="234.5" x2="78.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="143,143,234,239" x1="143.5" y1="234.5" x2="143.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="208,208,234,239" x1="208.5" y1="234.5" x2="208.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="273,273,234,239" x1="273.5" y1="234.5" x2="273.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="338,338,234,239" x1="338.5" y1="234.5" x2="338.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="403,403,234,239" x1="403.5" y1="234.5" x2="403.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="468,468,234,239" x1="468.5" y1="234.5" x2="468.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="533,533,234,239" x1="533.5" y1="234.5" x2="533.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="598,598,234,239" x1="598.5" y1="234.5" x2="598.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="663,663,234,239" x1="663.5" y1="234.5" x2="663.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,703,234,234" x1="39.5" y1="234.5" x2="703.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="351,390,0,26" text-anchor="middle" x="371.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">THX</text>
+<text aria-label="24,32,224,240" text-anchor="end" x="32.5" y="239.5" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="16,32,162,178" text-anchor="end" x="32.5" y="177.0" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="8,32,99,115" text-anchor="end" x="32.5" y="114.5" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="8,32,37,53" text-anchor="end" x="32.5" y="52.0" font-family="sans-serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="34,39,234,234" x1="39.5" y1="234.5" x2="34.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,172,172" x1="39.5" y1="172.5" x2="34.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,109,109" x1="39.5" y1="109.5" x2="34.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,47,47" x1="39.5" y1="47.5" x2="34.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="quibusdam Boron female: justification; grey: 103; Account: Cotton Frozen leverage" role="graphics-symbol" aria-roledescription="bar" d="M377.5098039215686,105.24999999999999h17.359477124183005v128.75h-17.359477124183005Z" fill="#feb494"/>
+<path aria-label="quibusdam Boron female: justification; grey: 46; Account: nonstop female" role="graphics-symbol" aria-roledescription="bar" d="M394.8692810457516,176.5h17.359477124183005v57.5h-17.359477124183005Z" fill="#1c22bf"/>
+<path aria-label="quibusdam Boron female: justification; grey: 69; Account: secondary port Yundt" role="graphics-symbol" aria-roledescription="bar" d="M412.2287581699346,147.75h17.359477124183005v86.25h-17.359477124183005Z" fill="#e90b86"/>
+<path aria-label="quibusdam Boron female: senior; grey: 133; Account: Cotton Frozen leverage" role="graphics-symbol" aria-roledescription="bar" d="M507.7058823529411,67.75h17.359477124183005v166.25h-17.359477124183005Z" fill="#feb494"/>
+<path aria-label="quibusdam Boron female: senior; grey: 4; Account: nonstop female" role="graphics-symbol" aria-roledescription="bar" d="M525.065359477124,229.0h17.359477124183005v5h-17.359477124183005Z" fill="#1c22bf"/>
+<path aria-label="quibusdam Boron female: senior; grey: 147; Account: secondary port Yundt" role="graphics-symbol" aria-roledescription="bar" d="M542.4248366013071,50.25000000000001h17.359477124183005v183.75h-17.359477124183005Z" fill="#e90b86"/>
+<path aria-label="quibusdam Boron female: belt; grey: 158; Account: Cotton Frozen leverage" role="graphics-symbol" aria-roledescription="bar" d="M52.01960784313724,36.49999999999999h17.359477124183005v197.5h-17.359477124183005Z" fill="#feb494"/>
+<path aria-label="quibusdam Boron female: belt; grey: 7; Account: nonstop female" role="graphics-symbol" aria-roledescription="bar" d="M69.37908496732024,225.25h17.359477124183005v8.75h-17.359477124183005Z" fill="#1c22bf"/>
+<path aria-label="quibusdam Boron female: belt; grey: 111; Account: secondary port Yundt" role="graphics-symbol" aria-roledescription="bar" d="M86.73856209150324,95.25h17.359477124183005v138.75h-17.359477124183005Z" fill="#e90b86"/>
+<path aria-label="quibusdam Boron female: farm; grey: 56; Account: Cotton Frozen leverage" role="graphics-symbol" aria-roledescription="bar" d="M247.31372549019605,164.0h17.359477124183005v70h-17.359477124183005Z" fill="#feb494"/>
+<path aria-label="quibusdam Boron female: farm; grey: 36; Account: nonstop female" role="graphics-symbol" aria-roledescription="bar" d="M264.6732026143791,189.0h17.359477124183005v45h-17.359477124183005Z" fill="#1c22bf"/>
+<path aria-label="quibusdam Boron female: farm; grey: 3; Account: secondary port Yundt" role="graphics-symbol" aria-roledescription="bar" d="M282.032679738562,230.25h17.359477124183005v3.75h-17.359477124183005Z" fill="#e90b86"/>
+<path aria-label="quibusdam Boron female: door; grey: 156; Account: Cotton Frozen leverage" role="graphics-symbol" aria-roledescription="bar" d="M182.21568627450978,39.00000000000001h17.359477124183005v195h-17.359477124183005Z" fill="#feb494"/>
+<path aria-label="quibusdam Boron female: door; grey: 158; Account: nonstop female" role="graphics-symbol" aria-roledescription="bar" d="M199.57516339869278,36.49999999999999h17.359477124183005v197.5h-17.359477124183005Z" fill="#1c22bf"/>
+<path aria-label="quibusdam Boron female: door; grey: 118; Account: secondary port Yundt" role="graphics-symbol" aria-roledescription="bar" d="M216.93464052287578,86.5h17.359477124183005v147.5h-17.359477124183005Z" fill="#e90b86"/>
+<path aria-label="quibusdam Boron female: tag; grey: 133; Account: Cotton Frozen leverage" role="graphics-symbol" aria-roledescription="bar" d="M572.8039215686274,67.75h17.359477124183005v166.25h-17.359477124183005Z" fill="#feb494"/>
+<path aria-label="quibusdam Boron female: tag; grey: 24; Account: nonstop female" role="graphics-symbol" aria-roledescription="bar" d="M590.1633986928105,204.0h17.359477124183005v30h-17.359477124183005Z" fill="#1c22bf"/>
+<path aria-label="quibusdam Boron female: tag; grey: 98; Account: secondary port Yundt" role="graphics-symbol" aria-roledescription="bar" d="M607.5228758169934,111.49999999999999h17.359477124183005v122.50000000000001h-17.359477124183005Z" fill="#e90b86"/>
+<path aria-label="quibusdam Boron female: racer; grey: 52; Account: Cotton Frozen leverage" role="graphics-symbol" aria-roledescription="bar" d="M442.60784313725486,169.0h17.359477124183005v65h-17.359477124183005Z" fill="#feb494"/>
+<path aria-label="quibusdam Boron female: racer; grey: 108; Account: nonstop female" role="graphics-symbol" aria-roledescription="bar" d="M459.96732026143786,98.99999999999999h17.359477124183005v135h-17.359477124183005Z" fill="#1c22bf"/>
+<path aria-label="quibusdam Boron female: racer; grey: 130; Account: secondary port Yundt" role="graphics-symbol" aria-roledescription="bar" d="M477.32679738562086,71.5h17.359477124183005v162.5h-17.359477124183005Z" fill="#e90b86"/>
+<path aria-label="quibusdam Boron female: instinct; grey: 156; Account: Cotton Frozen leverage" role="graphics-symbol" aria-roledescription="bar" d="M312.4117647058823,39.00000000000001h17.359477124183005v195h-17.359477124183005Z" fill="#feb494"/>
+<path aria-label="quibusdam Boron female: instinct; grey: 100; Account: nonstop female" role="graphics-symbol" aria-roledescription="bar" d="M329.7712418300653,109.0h17.359477124183005v125h-17.359477124183005Z" fill="#1c22bf"/>
+<path aria-label="quibusdam Boron female: instinct; grey: 14; Account: secondary port Yundt" role="graphics-symbol" aria-roledescription="bar" d="M347.1307189542483,216.5h17.359477124183005v17.5h-17.359477124183005Z" fill="#e90b86"/>
+<path aria-label="quibusdam Boron female: decoder; grey: 40; Account: Cotton Frozen leverage" role="graphics-symbol" aria-roledescription="bar" d="M117.11764705882351,184.0h17.359477124183005v50h-17.359477124183005Z" fill="#feb494"/>
+<path aria-label="quibusdam Boron female: decoder; grey: 60; Account: nonstop female" role="graphics-symbol" aria-roledescription="bar" d="M134.4771241830065,159.0h17.359477124183005v75h-17.359477124183005Z" fill="#1c22bf"/>
+<path aria-label="quibusdam Boron female: decoder; grey: 28; Account: secondary port Yundt" role="graphics-symbol" aria-roledescription="bar" d="M151.8366013071895,199.0h17.359477124183005v35h-17.359477124183005Z" fill="#e90b86"/>
+<path aria-label="quibusdam Boron female: thrust; grey: 146; Account: Cotton Frozen leverage" role="graphics-symbol" aria-roledescription="bar" d="M637.9019607843137,51.5h17.359477124183005v182.5h-17.359477124183005Z" fill="#feb494"/>
+<path aria-label="quibusdam Boron female: thrust; grey: 89; Account: nonstop female" role="graphics-symbol" aria-roledescription="bar" d="M655.2614379084968,122.75h17.359477124183005v111.25h-17.359477124183005Z" fill="#1c22bf"/>
+<path aria-label="quibusdam Boron female: thrust; grey: 17; Account: secondary port Yundt" role="graphics-symbol" aria-roledescription="bar" d="M672.6209150326797,212.75h17.359477124183005v21.25h-17.359477124183005Z" fill="#e90b86"/>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1023" height="360" viewBox="0 0 1023 360" style="background-color: rgb(255, 255, 255);">
+<line x1="149.5" y1="54.5" x2="149.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="304.5" y1="54.5" x2="304.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="459.5" y1="54.5" x2="459.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="614.5" y1="54.5" x2="614.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="769.5" y1="54.5" x2="769.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="924.5" y1="54.5" x2="924.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="135,154,261,347" text-anchor="end" x="149.0967741935484" y="261.5" transform="rotate(270.0, 154.0967741935484, 261.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">accordion</text>
+<text aria-label="290,309,261,347" text-anchor="end" x="304.258064516129" y="261.5" transform="rotate(270.0, 309.258064516129, 261.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">marketing</text>
+<text aria-label="445,464,261,318" text-anchor="end" x="459.4193548387097" y="261.5" transform="rotate(270.0, 464.4193548387097, 261.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">method</text>
+<text aria-label="600,619,261,328" text-anchor="end" x="614.5806451612904" y="261.5" transform="rotate(270.0, 619.5806451612904, 261.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">sorghum</text>
+<text aria-label="755,774,261,337" text-anchor="end" x="769.741935483871" y="261.5" transform="rotate(270.0, 774.741935483871, 261.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">terrapin</text>
+<text aria-label="910,929,261,347" text-anchor="end" x="924.9032258064515" y="261.5" transform="rotate(270.0, 929.9032258064515, 261.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">workforce</text>
+<line aria-label="149,149,254,259" x1="149.5" y1="254.5" x2="149.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="304,304,254,259" x1="304.5" y1="254.5" x2="304.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="459,459,254,259" x1="459.5" y1="254.5" x2="459.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="614,614,254,259" x1="614.5" y1="254.5" x2="614.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="769,769,254,259" x1="769.5" y1="254.5" x2="769.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="924,924,254,259" x1="924.5" y1="254.5" x2="924.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,1018,254,254" x1="56.5" y1="254.5" x2="1018.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,226,0,26" text-anchor="start" x="5.6982421875" y="25.707083333333344" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">synthesizing West</text>
+<text aria-label="45,54,241,260" text-anchor="end" x="54.5" y="259.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="26,54,208,227" text-anchor="end" x="54.5" y="226.16666666666669" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="26,54,174,193" text-anchor="end" x="54.5" y="192.83333333333334" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="26,54,141,160" text-anchor="end" x="54.5" y="159.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="26,54,108,127" text-anchor="end" x="54.5" y="126.16666666666667" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="26,54,74,93" text-anchor="end" x="54.5" y="92.83333333333333" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="26,54,41,60" text-anchor="end" x="54.5" y="59.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="3,15,145,163" text-anchor="middle" x="17.1982421875" y="154.5" transform="rotate(-90.0, 15.1982421875, 154.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Car</text>
+<path aria-label="Metrics Tactics: marketing; Car: 397; hertz: innovative calculate East" role="graphics-symbol" aria-roledescription="bar" d="M304.258064516129,121.66666666666667h62.064516129032256v132.33333333333331h-62.064516129032256Z" fill="#e84bbb"/>
+<path aria-label="Metrics Tactics: marketing; Car: 358; hertz: Market Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M242.1935483870968,134.66666666666666h62.064516129032256v119.33333333333334h-62.064516129032256Z" fill="#7bd56e"/>
+<path aria-label="Metrics Tactics: terrapin; Car: 472; hertz: innovative calculate East" role="graphics-symbol" aria-roledescription="bar" d="M769.741935483871,96.66666666666667h62.064516129032256v157.33333333333331h-62.064516129032256Z" fill="#e84bbb"/>
+<path aria-label="Metrics Tactics: terrapin; Car: 593; hertz: Market Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M707.6774193548388,56.33333333333334h62.064516129032256v197.66666666666666h-62.064516129032256Z" fill="#7bd56e"/>
+<path aria-label="Metrics Tactics: sorghum; Car: 34; hertz: innovative calculate East" role="graphics-symbol" aria-roledescription="bar" d="M614.5806451612904,242.66666666666669h62.064516129032256v11.333333333333314h-62.064516129032256Z" fill="#e84bbb"/>
+<path aria-label="Metrics Tactics: sorghum; Car: 368; hertz: Market Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M552.516129032258,131.33333333333334h62.064516129032256v122.66666666666666h-62.064516129032256Z" fill="#7bd56e"/>
+<path aria-label="Metrics Tactics: accordion; Car: 225; hertz: innovative calculate East" role="graphics-symbol" aria-roledescription="bar" d="M149.0967741935484,179.0h62.064516129032256v75h-62.064516129032256Z" fill="#e84bbb"/>
+<path aria-label="Metrics Tactics: accordion; Car: 7; hertz: Market Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M87.03225806451616,251.66666666666666h62.064516129032256v2.333333333333343h-62.064516129032256Z" fill="#7bd56e"/>
+<path aria-label="Metrics Tactics: method; Car: 540; hertz: innovative calculate East" role="graphics-symbol" aria-roledescription="bar" d="M459.4193548387097,74.0h62.064516129032256v180h-62.064516129032256Z" fill="#e84bbb"/>
+<path aria-label="Metrics Tactics: method; Car: 8; hertz: Market Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M397.35483870967744,251.33333333333334h62.064516129032256v2.666666666666657h-62.064516129032256Z" fill="#7bd56e"/>
+<path aria-label="Metrics Tactics: workforce; Car: 467; hertz: innovative calculate East" role="graphics-symbol" aria-roledescription="bar" d="M924.9032258064515,98.33333333333334h62.064516129032256v155.66666666666666h-62.064516129032256Z" fill="#e84bbb"/>
+<path aria-label="Metrics Tactics: workforce; Car: 319; hertz: Market Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M862.8387096774193,147.66666666666669h62.064516129032256v106.33333333333333h-62.064516129032256Z" fill="#7bd56e"/>
+<text aria-label="321,349,96,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="335.2903225806452" y="114.04041666666667" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">397</text>
+<text aria-label="258,287,109,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="273.2258064516129" y="127.04041666666666" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">358</text>
+<text aria-label="786,815,71,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="800.7741935483872" y="89.04041666666667" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">472</text>
+<text aria-label="724,752,30,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="738.7096774193549" y="48.707083333333344" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">593</text>
+<text aria-label="636,655,217,236" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="645.6129032258065" y="235.0404166666667" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">34</text>
+<text aria-label="569,597,105,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="583.5483870967743" y="123.70708333333334" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">368</text>
+<text aria-label="165,194,153,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.12903225806454" y="171.37375" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">225</text>
+<text aria-label="113,122,226,245" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.06451612903228" y="244.04041666666666" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">7</text>
+<text aria-label="476,504,48,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="490.45161290322585" y="66.37375" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">540</text>
+<text aria-label="423,433,225,244" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="428.38709677419354" y="243.70708333333334" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">8</text>
+<text aria-label="941,970,72,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="955.9354838709677" y="90.70708333333334" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">467</text>
+<text aria-label="879,908,122,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="893.8709677419354" y="140.04041666666666" font-family="avenir" font-size="18.037499999999998px" fill="#000" opacity="1">319</text>
+</svg>

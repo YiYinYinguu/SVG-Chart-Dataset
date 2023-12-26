@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="274" height="239" viewBox="0 0 274 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">payment Crossing</text>
+<path aria-label="fuchsia Convertible: 211; Legacy: group" role="graphics-symbol" aria-roledescription="arc mark"  d="M200.02758646082262,202.28095545916284A75,75,0,0,0,243.49797274444802,142.66325902691827L169.0,134.0Z" fill="#8bca99" stroke="white" stroke-width="0"/>
+<path aria-label="fuchsia Convertible: 305; Legacy: gummy" role="graphics-symbol" aria-roledescription="arc mark"  d="M103.56614910284188,170.65257367182392A75,75,0,0,0,200.02758646082262,202.28095545916284L169.0,134.0Z" fill="#ccde59" stroke="white" stroke-width="0"/>
+<path aria-label="fuchsia Convertible: 346; Legacy: Jazz" role="graphics-symbol" aria-roledescription="arc mark"  d="M243.49797274444802,142.66325902691827A75,75,0,0,0,169.0,59.0L169.0,134.0Z" fill="#e88cfb" stroke="white" stroke-width="0"/>
+<path aria-label="fuchsia Convertible: 108; Legacy: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.00941115245523,132.81189886857533A75,75,0,0,0,103.56614910284188,170.65257367182392L169.0,134.0Z" fill="#cae592" stroke="white" stroke-width="0"/>
+<path aria-label="fuchsia Convertible: 319; Legacy: mobile" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.0,59.0A75,75,0,0,0,94.00941115245523,132.81189886857533L169.0,134.0Z" fill="#bc8df9" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#e88cfb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#8bca99" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ccde59" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#cae592" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#bc8df9" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Jazz</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">group</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">gummy</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">mobile</text>
+</svg>

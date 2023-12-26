@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="900" height="287" viewBox="0 0 900 287" style="background-color: rgb(255, 255, 255);">
+<text aria-label="172,185,241,280" text-anchor="end" x="181.6666666666667" y="241.5" transform="rotate(270.0, 185.6666666666667, 241.5)" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">breath</text>
+<text aria-label="458,471,241,287" text-anchor="end" x="467.0" y="241.5" transform="rotate(270.0, 471.0, 241.5)" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">inquiry</text>
+<text aria-label="743,756,241,267" text-anchor="end" x="752.3333333333334" y="241.5" transform="rotate(270.0, 756.3333333333334, 241.5)" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">skin</text>
+<line aria-label="181,181,234,239" x1="181.5" y1="234.5" x2="181.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="467,467,234,239" x1="467.5" y1="234.5" x2="467.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="752,752,234,239" x1="752.5" y1="234.5" x2="752.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,895,234,234" x1="39.5" y1="234.5" x2="895.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="415,519,0,26" text-anchor="middle" x="467.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="31,37,226,239" text-anchor="end" x="37.5" y="238.5" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="18,37,164,177" text-anchor="end" x="37.5" y="176.0" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="5,37,101,114" text-anchor="end" x="37.5" y="113.5" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="5,37,39,52" text-anchor="end" x="37.5" y="51.0" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<line aria-label="39,39,34,234" x1="39.5" y1="234.5" x2="39.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Bedfordshire: skin; Legacy parse West: 744; Bicycle: meanwhile" role="graphics-symbol" aria-roledescription="bar" d="M649.6133333333333,141.0h205.44000000000003v93.00000000000001h-205.44000000000003Z" fill="#28e8ef"/>
+<path aria-label="Bedfordshire: skin; Legacy parse West: 738; Bicycle: Lead Alabama Clothing" role="graphics-symbol" aria-roledescription="bar" d="M649.6133333333333,48.75h205.44000000000003v92.24999999999999h-205.44000000000003Z" fill="#879ddb"/>
+<path aria-label="Bedfordshire: breath; Legacy parse West: 774; Bicycle: meanwhile" role="graphics-symbol" aria-roledescription="bar" d="M78.9466666666667,137.25h205.44000000000003v96.75h-205.44000000000003Z" fill="#28e8ef"/>
+<path aria-label="Bedfordshire: breath; Legacy parse West: 340; Bicycle: Lead Alabama Clothing" role="graphics-symbol" aria-roledescription="bar" d="M78.9466666666667,94.75h205.44000000000003v42.50000000000001h-205.44000000000003Z" fill="#879ddb"/>
+<path aria-label="Bedfordshire: inquiry; Legacy parse West: 573; Bicycle: meanwhile" role="graphics-symbol" aria-roledescription="bar" d="M364.28000000000003,162.375h205.44000000000003v71.625h-205.44000000000003Z" fill="#28e8ef"/>
+<path aria-label="Bedfordshire: inquiry; Legacy parse West: 542; Bicycle: Lead Alabama Clothing" role="graphics-symbol" aria-roledescription="bar" d="M364.28000000000003,94.625h205.44000000000003v67.75h-205.44000000000003Z" fill="#879ddb"/>
+</svg>

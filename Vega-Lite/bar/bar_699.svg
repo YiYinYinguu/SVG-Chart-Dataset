@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="626" height="350" viewBox="0 0 626 350" style="background-color: rgb(255, 255, 255);">
+<line x1="46.5" y1="243.5" x2="621.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="214.5" x2="621.5" y2="214.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="186.5" x2="621.5" y2="186.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="157.5" x2="621.5" y2="157.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="129.5" x2="621.5" y2="129.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="100.5" x2="621.5" y2="100.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="72.5" x2="621.5" y2="72.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="43.5" x2="621.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="139,159,250,310" text-anchor="end" x="153.8125" y="250.5" transform="rotate(270.0, 159.8125, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">behest</text>
+<text aria-label="319,339,250,350" text-anchor="end" x="333.5" y="250.5" transform="rotate(270.0, 339.5, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">hydrolysis</text>
+<text aria-label="499,519,250,300" text-anchor="end" x="513.1875" y="250.5" transform="rotate(270.0, 519.1875, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">inlay</text>
+<line aria-label="153,153,243,248" x1="153.5" y1="243.5" x2="153.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="333,333,243,248" x1="333.5" y1="243.5" x2="333.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="513,513,243,248" x1="513.5" y1="243.5" x2="513.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,621,243,243" x1="46.5" y1="243.5" x2="621.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">lumen</text>
+<text aria-label="29,39,230,250" text-anchor="end" x="39.5" y="249.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="29,39,201,221" text-anchor="end" x="39.5" y="220.92857142857144" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">5</text>
+<text aria-label="19,39,173,193" text-anchor="end" x="39.5" y="192.35714285714286" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="19,39,144,164" text-anchor="end" x="39.5" y="163.78571428571428" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">15</text>
+<text aria-label="19,39,116,136" text-anchor="end" x="39.5" y="135.21428571428572" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="19,39,87,107" text-anchor="end" x="39.5" y="106.64285714285714" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">25</text>
+<text aria-label="19,39,59,79" text-anchor="end" x="39.5" y="78.07142857142858" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="19,39,30,50" text-anchor="end" x="39.5" y="49.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">35</text>
+<line aria-label="41,46,243,243" x1="46.5" y1="243.5" x2="41.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,214,214" x1="46.5" y1="214.5" x2="41.5" y2="214.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,186,186" x1="46.5" y1="186.5" x2="41.5" y2="186.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,157,157" x1="46.5" y1="157.5" x2="41.5" y2="157.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,129,129" x1="46.5" y1="129.5" x2="41.5" y2="129.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,100,100" x1="46.5" y1="100.5" x2="41.5" y2="100.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,72,72" x1="46.5" y1="72.5" x2="41.5" y2="72.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,43,43" x1="46.5" y1="43.5" x2="41.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,119,167" text-anchor="middle" x="16.5" y="143.5" transform="rotate(-90.0, 14.5, 143.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">optimize</text>
+<path aria-label="North neural West: hydrolysis; optimize: 20; pink: simple extensible Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M333.5,128.71428571428572h71.87500000000001v114.28571428571428h-71.87500000000001Z" fill="#ba73f4"/>
+<path aria-label="North neural West: hydrolysis; optimize: 21; pink: Mercedes" role="graphics-symbol" aria-roledescription="bar" d="M261.625,123.0h71.87500000000001v120h-71.87500000000001Z" fill="#bdc2dc"/>
+<path aria-label="North neural West: behest; optimize: 15; pink: simple extensible Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M153.8125,157.28571428571428h71.87500000000001v85.71428571428572h-71.87500000000001Z" fill="#ba73f4"/>
+<path aria-label="North neural West: behest; optimize: 2; pink: Mercedes" role="graphics-symbol" aria-roledescription="bar" d="M81.93749999999997,231.57142857142856h71.87500000000001v11.428571428571445h-71.87500000000001Z" fill="#bdc2dc"/>
+<path aria-label="North neural West: inlay; optimize: 32; pink: simple extensible Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M513.1875,60.14285714285715h71.87500000000001v182.85714285714286h-71.87500000000001Z" fill="#ba73f4"/>
+<path aria-label="North neural West: inlay; optimize: 6; pink: Mercedes" role="graphics-symbol" aria-roledescription="bar" d="M441.3125,208.7142857142857h71.87500000000001v34.285714285714306h-71.87500000000001Z" fill="#bdc2dc"/>
+<text aria-label="363,375,113,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="369.4375" y="124.16741071428572" font-family="serif" font-size="10.78125px" fill="#000" opacity="1">20</text>
+<text aria-label="291,303,107,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="297.5625" y="118.453125" font-family="serif" font-size="10.78125px" fill="#000" opacity="1">21</text>
+<text aria-label="183,195,141,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.75" y="152.73883928571428" font-family="serif" font-size="10.78125px" fill="#000" opacity="1">15</text>
+<text aria-label="114,120,216,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.87499999999997" y="227.02455357142856" font-family="serif" font-size="10.78125px" fill="#000" opacity="1">2</text>
+<text aria-label="543,555,44,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="549.125" y="55.59598214285715" font-family="serif" font-size="10.78125px" fill="#000" opacity="1">32</text>
+<text aria-label="474,480,193,205" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="477.25" y="204.1674107142857" font-family="serif" font-size="10.78125px" fill="#000" opacity="1">6</text>
+</svg>

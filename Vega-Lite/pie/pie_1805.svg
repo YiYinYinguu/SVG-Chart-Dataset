@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="239" viewBox="0 0 279 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">yesterday</text>
+<path aria-label="Rock phew Yemeni: 128; Frozen Chile Bedfordshire: Rubber" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.98975910560677,67.66210164821615A75,75,0,0,0,105.0,59.0L105.0,75.0A59,59,0,0,1,132.52527716307733,81.81418662993003Z" fill="#15aeb9" stroke="black" stroke-width="0"/>
+<path aria-label="Rock phew Yemeni: 274; Frozen Chile Bedfordshire: Sulfur" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.9191015734898,130.51744067945455A75,75,0,0,0,139.98975910560677,67.66210164821615L132.52527716307733,81.81418662993003A59,59,0,0,1,163.93635990447865,131.2603866678376Z" fill="#2b8fd9" stroke="black" stroke-width="0"/>
+<path aria-label="Rock phew Yemeni: 616; Frozen Chile Bedfordshire: UDP" role="graphics-symbol" aria-roledescription="arc mark"  d="M55.62706551937358,190.45629584706893A75,75,0,0,0,179.9191015734898,130.51744067945455L163.93635990447865,131.2603866678376A59,59,0,0,1,66.15995820857388,178.41228606636088Z" fill="#a6fd6a" stroke="black" stroke-width="0"/>
+<path aria-label="Rock phew Yemeni: 639; Frozen Chile Bedfordshire: sint" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,55.62706551937358,190.45629584706893L66.15995820857388,178.41228606636088A59,59,0,0,1,104.99999999999999,75.0Z" fill="#dbdb0e" stroke="black" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#15aeb9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#2b8fd9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#a6fd6a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#dbdb0e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rubber</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Sulfur</text>
+<text aria-label="239,255,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">UDP</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">sint</text>
+</svg>

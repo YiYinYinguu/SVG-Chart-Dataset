@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="342" height="286" viewBox="0 0 342 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,330,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Phosphorus indigo Bicycle</text>
+<path aria-label="Analyst deploy what: 318; EXE: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.78120259381524,139.72466056834492A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#f3e110" stroke="black" stroke-width="4"/>
+<path aria-label="Analyst deploy what: 204; EXE: Youngstown" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.78925313220992,201.92969442958125A75,75,0,0,0,179.78120259381524,139.72466056834492L105.0,134.0Z" fill="#d2ecae" stroke="black" stroke-width="4"/>
+<path aria-label="Analyst deploy what: 561; EXE: behind" role="graphics-symbol" aria-roledescription="arc mark"  d="M58.22741801607875,75.37129052625014A75,75,0,0,0,136.78925313220992,201.92969442958125L105.0,134.0Z" fill="#8acbdc" stroke="black" stroke-width="4"/>
+<path aria-label="Analyst deploy what: 130; EXE: bluetooth" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,58.22741801607875,75.37129052625014L105.0,134.0Z" fill="#88ffcc" stroke="black" stroke-width="4"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#f3e110" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,274.25A5,5,0,1,1,68.0,274.25A5,5,0,1,1,78.0,274.25" fill="#d2ecae" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M164.0,274.25A5,5,0,1,1,154.0,274.25A5,5,0,1,1,164.0,274.25" fill="#8acbdc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M225.0,274.25A5,5,0,1,1,215.0,274.25A5,5,0,1,1,225.0,274.25" fill="#88ffcc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="83,138,267,278" text-anchor="start" x="83.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Youngstown</text>
+<text aria-label="169,202,267,278" text-anchor="start" x="169.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">behind</text>
+<text aria-label="230,279,267,278" text-anchor="start" x="230.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">bluetooth</text>
+<text aria-label="5,23,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">EXE</text>
+</svg>

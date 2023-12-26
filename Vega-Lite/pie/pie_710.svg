@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Assistant</text>
+<path aria-label="Wagon: 726; East HDD: 1080p" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.88106935218525,129.77798002453528A75,75,0,0,0,189.0,59.0L189.0,84.0A50,50,0,0,1,238.92071290145682,131.18532001635685Z" fill="#be5a2f" stroke="white" stroke-width="0"/>
+<path aria-label="Wagon: 605; East HDD: caravan" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.7101330731744,82.25436879245198A75,75,0,0,0,123.20477352087073,169.99983572962643L145.1365156805805,157.9998904864176A50,50,0,0,1,152.80675538211625,99.50291252830132Z" fill="#31bc50" stroke="white" stroke-width="0"/>
+<path aria-label="Wagon: 61; East HDD: zowie" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,179.48205204491168,59.60639364351107L182.65470136327446,84.40426242900739A50,50,0,0,1,189.0,84.0Z" fill="#bad783" stroke="white" stroke-width="0"/>
+<path aria-label="Wagon: 44; East HDD: Genderflux" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.9528443867584,136.65915744821237A75,75,0,0,0,263.88106935218525,129.77798002453528L238.92071290145682,131.18532001635685A50,50,0,0,1,238.9685629245056,135.7727716321416Z" fill="#cee967" stroke="white" stroke-width="0"/>
+<path aria-label="Wagon: 452; East HDD: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.20477352087073,169.99983572962643A75,75,0,0,0,179.4820520449117,208.39360635648893L182.65470136327446,183.5957375709926A50,50,0,0,1,145.1365156805805,157.9998904864176Z" fill="#cfb9ab" stroke="white" stroke-width="0"/>
+<path aria-label="Wagon: 797; East HDD: Pound" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.4820520449117,208.39360635648893A75,75,0,0,0,263.9528443867584,136.65915744821237L238.9685629245056,135.7727716321416A50,50,0,0,1,182.65470136327446,183.5957375709926Z" fill="#ddac30" stroke="white" stroke-width="0"/>
+<path aria-label="Wagon: 327; East HDD: tan" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.48205204491168,59.60639364351107A75,75,0,0,0,134.7101330731744,82.25436879245198L152.80675538211625,99.50291252830132A50,50,0,0,1,182.65470136327446,84.40426242900739Z" fill="#a2181e" stroke="white" stroke-width="0"/>
+<text aria-label="243,258,62,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="250.8224143925559" y="71.59366178515194" font-family="serif" font-size="9px" fill="#be5a2f" opacity="1">726</text>
+<text aria-label="92,107,116,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.76384821451407" y="125.29917889557674" font-family="serif" font-size="9px" fill="#31bc50" opacity="1">605</text>
+<text aria-label="178,188,38,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="183.2776528635884" y="47.18210232225205" font-family="serif" font-size="9px" fill="#bad783" opacity="1">61</text>
+<text aria-label="273,283,127,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="278.99510448498586" y="136.06129411609177" font-family="serif" font-size="9px" fill="#cee967" opacity="1">44</text>
+<text aria-label="130,145,202,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.27903676121156" y="211.34637777410188" font-family="serif" font-size="9px" fill="#cfb9ab" opacity="1">452</text>
+<text aria-label="239,254,196,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="247.25736399143983" y="205.60087128286995" font-family="serif" font-size="9px" fill="#ddac30" opacity="1">797</text>
+<text aria-label="140,155,47,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.3752232423784" y="56.69042701275639" font-family="serif" font-size="9px" fill="#a2181e" opacity="1">327</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#be5a2f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#cee967" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ddac30" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#cfb9ab" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#31bc50" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#a2181e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#bad783" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">1080p</text>
+<text aria-label="21,76,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Genderflux</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Pound</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">caravan</text>
+<text aria-label="21,37,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">tan</text>
+<text aria-label="21,48,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">zowie</text>
+</svg>

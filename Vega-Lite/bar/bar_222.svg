@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1050" height="326" viewBox="0 0 1050 326" style="background-color: rgb(255, 255, 255);">
+<line x1="107.5" y1="42.5" x2="107.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="215.5" y1="42.5" x2="215.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="323.5" y1="42.5" x2="323.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="431.5" y1="42.5" x2="431.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="538.5" y1="42.5" x2="538.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="646.5" y1="42.5" x2="646.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="754.5" y1="42.5" x2="754.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="862.5" y1="42.5" x2="862.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="95,112,249,300" text-anchor="end" x="107.875" y="249.5" transform="rotate(270.0, 112.875, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">causal</text>
+<text aria-label="203,220,249,300" text-anchor="end" x="215.625" y="249.5" transform="rotate(270.0, 220.625, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">cinema</text>
+<text aria-label="311,328,249,292" text-anchor="end" x="323.375" y="249.5" transform="rotate(270.0, 328.375, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">graph</text>
+<text aria-label="419,436,249,283" text-anchor="end" x="431.125" y="249.5" transform="rotate(270.0, 436.125, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">joke</text>
+<text aria-label="526,543,249,317" text-anchor="end" x="538.875" y="249.5" transform="rotate(270.0, 543.875, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">radiator</text>
+<text aria-label="634,651,249,292" text-anchor="end" x="646.625" y="249.5" transform="rotate(270.0, 651.625, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">spike</text>
+<text aria-label="742,759,249,283" text-anchor="end" x="754.375" y="249.5" transform="rotate(270.0, 759.375, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">team</text>
+<text aria-label="850,867,249,309" text-anchor="end" x="862.125" y="249.5" transform="rotate(270.0, 867.125, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">visitor</text>
+<line aria-label="107,107,242,247" x1="107.5" y1="242.5" x2="107.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,215,242,247" x1="215.5" y1="242.5" x2="215.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="323,323,242,247" x1="323.5" y1="242.5" x2="323.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="431,431,242,247" x1="431.5" y1="242.5" x2="431.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="538,538,242,247" x1="538.5" y1="242.5" x2="538.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="646,646,242,247" x1="646.5" y1="242.5" x2="646.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="754,754,242,247" x1="754.5" y1="242.5" x2="754.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="862,862,242,247" x1="862.5" y1="242.5" x2="862.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,916,242,242" x1="54.5" y1="242.5" x2="916.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Celsius Mazda</text>
+<text aria-label="39,47,231,248" text-anchor="end" x="47.5" y="247.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="22,47,181,198" text-anchor="end" x="47.5" y="197.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="22,47,131,148" text-anchor="end" x="47.5" y="147.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="22,47,81,98" text-anchor="end" x="47.5" y="97.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="22,47,31,48" text-anchor="end" x="47.5" y="47.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="49,54,242,242" x1="54.5" y1="242.5" x2="49.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,192,192" x1="54.5" y1="192.5" x2="49.5" y2="192.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,142,142" x1="54.5" y1="142.5" x2="49.5" y2="142.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,92,92" x1="54.5" y1="92.5" x2="49.5" y2="92.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,42,42" x1="54.5" y1="42.5" x2="49.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,130,154" text-anchor="middle" x="16.5" y="142.5" transform="rotate(-90.0, 14.5, 142.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Home</text>
+<path aria-label="nonconforming Research: joke; Home: 147; non Iraqi transmitting: female" role="graphics-symbol" aria-roledescription="bar" d="M402.03249999999997,150.75h58.18500000000002v36.750000000000014h-58.18500000000002Z" fill="#f2cc18"/>
+<path aria-label="nonconforming Research: joke; Home: 209; non Iraqi transmitting: black" role="graphics-symbol" aria-roledescription="bar" d="M402.03249999999997,98.5h58.18500000000002v52.24999999999999h-58.18500000000002Z" fill="#e593f7"/>
+<path aria-label="nonconforming Research: joke; Home: 218; non Iraqi transmitting: interactive however" role="graphics-symbol" aria-roledescription="bar" d="M402.03249999999997,187.5h58.18500000000002v54.5h-58.18500000000002Z" fill="#aa7e4b"/>
+<path aria-label="nonconforming Research: spike; Home: 246; non Iraqi transmitting: female" role="graphics-symbol" aria-roledescription="bar" d="M617.5325,106.75h58.18500000000002v61.5h-58.18500000000002Z" fill="#f2cc18"/>
+<path aria-label="nonconforming Research: spike; Home: 123; non Iraqi transmitting: black" role="graphics-symbol" aria-roledescription="bar" d="M617.5325,76.0h58.18500000000002v30.749999999999993h-58.18500000000002Z" fill="#e593f7"/>
+<path aria-label="nonconforming Research: spike; Home: 295; non Iraqi transmitting: interactive however" role="graphics-symbol" aria-roledescription="bar" d="M617.5325,168.25h58.18500000000002v73.75h-58.18500000000002Z" fill="#aa7e4b"/>
+<path aria-label="nonconforming Research: cinema; Home: 85; non Iraqi transmitting: female" role="graphics-symbol" aria-roledescription="bar" d="M186.53249999999997,133.25h58.18500000000002v21.249999999999986h-58.18500000000002Z" fill="#f2cc18"/>
+<path aria-label="nonconforming Research: cinema; Home: 134; non Iraqi transmitting: black" role="graphics-symbol" aria-roledescription="bar" d="M186.53249999999997,99.75h58.18500000000002v33.50000000000002h-58.18500000000002Z" fill="#e593f7"/>
+<path aria-label="nonconforming Research: cinema; Home: 350; non Iraqi transmitting: interactive however" role="graphics-symbol" aria-roledescription="bar" d="M186.53249999999997,154.5h58.18500000000002v87.5h-58.18500000000002Z" fill="#aa7e4b"/>
+<path aria-label="nonconforming Research: causal; Home: 135; non Iraqi transmitting: female" role="graphics-symbol" aria-roledescription="bar" d="M78.78249999999998,179.75h58.18500000000002v33.75h-58.18500000000002Z" fill="#f2cc18"/>
+<path aria-label="nonconforming Research: causal; Home: 201; non Iraqi transmitting: black" role="graphics-symbol" aria-roledescription="bar" d="M78.78249999999998,129.5h58.18500000000002v50.25h-58.18500000000002Z" fill="#e593f7"/>
+<path aria-label="nonconforming Research: causal; Home: 114; non Iraqi transmitting: interactive however" role="graphics-symbol" aria-roledescription="bar" d="M78.78249999999998,213.5h58.18500000000002v28.5h-58.18500000000002Z" fill="#aa7e4b"/>
+<path aria-label="nonconforming Research: radiator; Home: 274; non Iraqi transmitting: female" role="graphics-symbol" aria-roledescription="bar" d="M509.78249999999997,100.0h58.18500000000002v68.5h-58.18500000000002Z" fill="#f2cc18"/>
+<path aria-label="nonconforming Research: radiator; Home: 151; non Iraqi transmitting: black" role="graphics-symbol" aria-roledescription="bar" d="M509.78249999999997,62.249999999999986h58.18500000000002v37.750000000000014h-58.18500000000002Z" fill="#e593f7"/>
+<path aria-label="nonconforming Research: radiator; Home: 294; non Iraqi transmitting: interactive however" role="graphics-symbol" aria-roledescription="bar" d="M509.78249999999997,168.5h58.18500000000002v73.49999999999999h-58.18500000000002Z" fill="#aa7e4b"/>
+<path aria-label="nonconforming Research: graph; Home: 169; non Iraqi transmitting: female" role="graphics-symbol" aria-roledescription="bar" d="M294.28249999999997,149.5h58.18500000000002v42.25h-58.18500000000002Z" fill="#f2cc18"/>
+<path aria-label="nonconforming Research: graph; Home: 49; non Iraqi transmitting: black" role="graphics-symbol" aria-roledescription="bar" d="M294.28249999999997,137.25h58.18500000000002v12.250000000000014h-58.18500000000002Z" fill="#e593f7"/>
+<path aria-label="nonconforming Research: graph; Home: 201; non Iraqi transmitting: interactive however" role="graphics-symbol" aria-roledescription="bar" d="M294.28249999999997,191.75h58.18500000000002v50.25h-58.18500000000002Z" fill="#aa7e4b"/>
+<path aria-label="nonconforming Research: team; Home: 311; non Iraqi transmitting: female" role="graphics-symbol" aria-roledescription="bar" d="M725.2825,101.0h58.18500000000002v77.75000000000003h-58.18500000000002Z" fill="#f2cc18"/>
+<path aria-label="nonconforming Research: team; Home: 123; non Iraqi transmitting: black" role="graphics-symbol" aria-roledescription="bar" d="M725.2825,70.25h58.18500000000002v30.75000000000001h-58.18500000000002Z" fill="#e593f7"/>
+<path aria-label="nonconforming Research: team; Home: 253; non Iraqi transmitting: interactive however" role="graphics-symbol" aria-roledescription="bar" d="M725.2825,178.75000000000003h58.18500000000002v63.24999999999997h-58.18500000000002Z" fill="#aa7e4b"/>
+<path aria-label="nonconforming Research: visitor; Home: 284; non Iraqi transmitting: female" role="graphics-symbol" aria-roledescription="bar" d="M833.0325,91.50000000000001h58.18500000000002v70.99999999999999h-58.18500000000002Z" fill="#f2cc18"/>
+<path aria-label="nonconforming Research: visitor; Home: 74; non Iraqi transmitting: black" role="graphics-symbol" aria-roledescription="bar" d="M833.0325,73.0h58.18500000000002v18.500000000000007h-58.18500000000002Z" fill="#e593f7"/>
+<path aria-label="nonconforming Research: visitor; Home: 318; non Iraqi transmitting: interactive however" role="graphics-symbol" aria-roledescription="bar" d="M833.0325,162.5h58.18500000000002v79.5h-58.18500000000002Z" fill="#aa7e4b"/>
+<path  d="M935.0,43.0h10v10h-10Z" fill="#f2cc18" stroke-width="1.5" opacity="1"/>
+<path  d="M935.0,56.0h10v10h-10Z" fill="#e593f7" stroke-width="1.5" opacity="1"/>
+<path  d="M935.0,69.0h10v10h-10Z" fill="#aa7e4b" stroke-width="1.5" opacity="1"/>
+<text aria-label="950,983,41,52" text-anchor="start" x="950.0" y="51.0" font-family="serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="950,977,54,65" text-anchor="start" x="950.0" y="64.0" font-family="serif" font-size="10px" fill="#000" opacity="1">black</text>
+<text aria-label="950,1054,67,78" text-anchor="start" x="950.0" y="77.0" font-family="serif" font-size="10px" fill="#000" opacity="1">interactive however</text>
+</svg>

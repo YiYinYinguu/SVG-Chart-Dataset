@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="291" height="239" viewBox="0 0 291 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">primary</text>
+<path aria-label="Southwest hack: 126; supposing relationships: hack" role="graphics-symbol" aria-roledescription="arc mark"  d="M222.01617176516402,199.78628558736392A75,75,0,0,0,252.2382198669215,169.1780930247984L222.21022686058376,153.23069085355644A41,41,0,0,1,205.6888405649563,169.9631694544256Z" fill="#ebaab8" stroke="white" stroke-width="3"/>
+<path aria-label="Southwest hack: 789; supposing relationships: utilisation" role="graphics-symbol" aria-roledescription="arc mark"  d="M186.0,59.0A75,75,0,1,0,222.01617176516402,199.78628558736392L205.6888405649563,169.9631694544256A41,41,0,1,1,186.0,93.0Z" fill="#fb6c4e" stroke="white" stroke-width="3"/>
+<path aria-label="Southwest hack: 446; supposing relationships: Coupe" role="graphics-symbol" aria-roledescription="arc mark"  d="M252.2382198669215,169.1780930247984A75,75,0,0,0,186.0,59.0L186.0,93.0A41,41,0,0,1,222.21022686058376,153.23069085355644Z" fill="#9aac1a" stroke="white" stroke-width="3"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#9aac1a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ebaab8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#fb6c4e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Coupe</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">hack</text>
+<text aria-label="21,81,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">utilisation</text>
+</svg>

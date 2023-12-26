@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="351" height="270" viewBox="0 0 351 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="151,346,0,26" text-anchor="end" x="346.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Investor Spring</text>
+<path aria-label="Electric: 18; West: hertz" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.89782364182157,220.81014176808714A75,75,0,0,0,58.424633447497015,223.78550187333596L105.0,165.0Z" fill="#3556aa" stroke="black" stroke-width="1"/>
+<path aria-label="Electric: 383; West: enterprise" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.757947448715,206.06628826695115A75,75,0,0,0,160.89569710500615,114.99328999878708L105.0,165.0Z" fill="#aadcec" stroke="black" stroke-width="1"/>
+<path aria-label="Electric: 486; West: ew" role="graphics-symbol" aria-roledescription="arc mark"  d="M58.424633447497015,223.78550187333596A75,75,0,0,0,167.757947448715,206.06628826695115L105.0,165.0Z" fill="#35d27c" stroke="black" stroke-width="1"/>
+<path aria-label="Electric: 493; West: transmit" role="graphics-symbol" aria-roledescription="arc mark"  d="M55.28056452506316,108.8486176835014A75,75,0,0,0,54.89782364182157,220.81014176808714L105.0,165.0Z" fill="#d8bb63" stroke="black" stroke-width="1"/>
+<path aria-label="Electric: 212; West: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,55.28056452506316,108.8486176835014L105.0,165.0Z" fill="#f7261f" stroke="black" stroke-width="1"/>
+<path aria-label="Electric: 246; West: Hop" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.89569710500615,114.99328999878708A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#a1463c" stroke="black" stroke-width="1"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#a1463c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M58.0,40.25A5,5,0,1,1,48.0,40.25A5,5,0,1,1,58.0,40.25" fill="#aadcec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,40.25A5,5,0,1,1,125.0,40.25A5,5,0,1,1,135.0,40.25" fill="#35d27c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M172.0,40.25A5,5,0,1,1,162.0,40.25A5,5,0,1,1,172.0,40.25" fill="#3556aa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M224.0,40.25A5,5,0,1,1,214.0,40.25A5,5,0,1,1,224.0,40.25" fill="#d8bb63" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M291.0,40.25A5,5,0,1,1,281.0,40.25A5,5,0,1,1,291.0,40.25" fill="#f7261f" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hop</text>
+<text aria-label="63,118,33,44" text-anchor="start" x="63.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">enterprise</text>
+<text aria-label="140,151,33,44" text-anchor="start" x="140.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">ew</text>
+<text aria-label="177,204,33,44" text-anchor="start" x="177.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">hertz</text>
+<text aria-label="229,273,33,44" text-anchor="start" x="229.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">transmit</text>
+<text aria-label="296,351,33,44" text-anchor="start" x="296.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+</svg>

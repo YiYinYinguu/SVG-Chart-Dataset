@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="270" height="270" viewBox="0 0 270 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,265,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">virtual Group Gloves</text>
+<path aria-label="Loan Ferry: 539; lavender East Peso: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.95063102351624,239.97462929958436A75,75,0,0,0,105.0,90.0L105.0,123.0A42,42,0,0,1,106.09235337316909,206.98579240776724Z" fill="#fe67bf" stroke="white" stroke-width="2"/>
+<path aria-label="Loan Ferry: 506; lavender East Peso: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.19962031222025,90.78172867413446A75,75,0,0,0,99.58568330441945,239.80431254092213L101.9679826504749,206.8904150229164A42,42,0,0,1,98.95178737484333,123.4377680575153Z" fill="#fbeeec" stroke="white" stroke-width="2"/>
+<path aria-label="Loan Ferry: 17; lavender East Peso: Jewelery" role="graphics-symbol" aria-roledescription="arc mark"  d="M99.58568330441945,239.80431254092213A75,75,0,0,0,106.95063102351624,239.97462929958436L106.09235337316909,206.98579240776724A42,42,0,0,1,101.9679826504749,206.8904150229164Z" fill="#f15cac" stroke="white" stroke-width="2"/>
+<path aria-label="Loan Ferry: 25; lavender East Peso: up" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,94.19962031222025,90.78172867413446L98.95178737484333,123.4377680575153A42,42,0,0,1,104.99999999999999,123.0Z" fill="#dcbdda" stroke="white" stroke-width="2"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#fe67bf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,40.25A5,5,0,1,1,66.0,40.25A5,5,0,1,1,76.0,40.25" fill="#f15cac" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,40.25A5,5,0,1,1,135.0,40.25A5,5,0,1,1,145.0,40.25" fill="#fbeeec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M196.0,40.25A5,5,0,1,1,186.0,40.25A5,5,0,1,1,196.0,40.25" fill="#dcbdda" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="81,125,33,44" text-anchor="start" x="81.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Jewelery</text>
+<text aria-label="150,172,33,44" text-anchor="start" x="150.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="201,212,33,44" text-anchor="start" x="201.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">up</text>
+</svg>

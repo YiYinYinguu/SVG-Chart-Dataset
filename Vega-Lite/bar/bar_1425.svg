@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="731" height="347" viewBox="0 0 731 347" style="background-color: rgb(255, 255, 255);">
+<line x1="74.5" y1="34.5" x2="74.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="150.5" y1="34.5" x2="150.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="227.5" y1="34.5" x2="227.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="304.5" y1="34.5" x2="304.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="381.5" y1="34.5" x2="381.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="457.5" y1="34.5" x2="457.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="534.5" y1="34.5" x2="534.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="611.5" y1="34.5" x2="611.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="687.5" y1="34.5" x2="687.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="234.5" x2="726.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="198.5" x2="726.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="161.5" x2="726.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="125.5" x2="726.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="89.5" x2="726.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="52.5" x2="726.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="60,80,241,341" text-anchor="end" x="74.33333333333331" y="241.5" transform="rotate(270.0, 80.33333333333331, 241.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">confidence</text>
+<text aria-label="137,157,241,311" text-anchor="end" x="151.0" y="241.5" transform="rotate(270.0, 157.0, 241.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">current</text>
+<text aria-label="213,233,241,331" text-anchor="end" x="227.66666666666666" y="241.5" transform="rotate(270.0, 233.66666666666666, 241.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">equipment</text>
+<text aria-label="290,310,241,331" text-anchor="end" x="304.3333333333333" y="241.5" transform="rotate(270.0, 310.3333333333333, 241.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">expertise</text>
+<text aria-label="367,387,241,321" text-anchor="end" x="381.0" y="241.5" transform="rotate(270.0, 387.0, 241.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">founding</text>
+<text aria-label="443,463,241,341" text-anchor="end" x="457.6666666666667" y="241.5" transform="rotate(270.0, 463.6666666666667, 241.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">motorcycle</text>
+<text aria-label="520,540,241,291" text-anchor="end" x="534.3333333333333" y="241.5" transform="rotate(270.0, 540.3333333333333, 241.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">shack</text>
+<text aria-label="597,617,241,301" text-anchor="end" x="611.0" y="241.5" transform="rotate(270.0, 617.0, 241.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">turkey</text>
+<text aria-label="673,693,241,321" text-anchor="end" x="687.6666666666667" y="241.5" transform="rotate(270.0, 693.6666666666667, 241.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">zucchini</text>
+<line aria-label="74,74,234,239" x1="74.5" y1="234.5" x2="74.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="150,150,234,239" x1="150.5" y1="234.5" x2="150.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="227,227,234,239" x1="227.5" y1="234.5" x2="227.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="304,304,234,239" x1="304.5" y1="234.5" x2="304.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="381,381,234,239" x1="381.5" y1="234.5" x2="381.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="457,457,234,239" x1="457.5" y1="234.5" x2="457.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="534,534,234,239" x1="534.5" y1="234.5" x2="534.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="611,611,234,239" x1="611.5" y1="234.5" x2="611.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="687,687,234,239" x1="687.5" y1="234.5" x2="687.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,726,234,234" x1="36.5" y1="234.5" x2="726.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,83,0,26" text-anchor="start" x="5.5654296875" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">female</text>
+<text aria-label="19,29,221,241" text-anchor="end" x="29.5" y="240.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="9,29,185,205" text-anchor="end" x="29.5" y="204.13636363636363" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">10</text>
+<text aria-label="9,29,148,168" text-anchor="end" x="29.5" y="167.77272727272725" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="9,29,112,132" text-anchor="end" x="29.5" y="131.40909090909093" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">30</text>
+<text aria-label="9,29,76,96" text-anchor="end" x="29.5" y="95.04545454545453" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="9,29,39,59" text-anchor="end" x="29.5" y="58.68181818181819" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">50</text>
+<line aria-label="31,36,234,234" x1="36.5" y1="234.5" x2="31.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,198,198" x1="36.5" y1="198.5" x2="31.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,161,161" x1="36.5" y1="161.5" x2="31.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,125,125" x1="36.5" y1="125.5" x2="31.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,89,89" x1="36.5" y1="89.5" x2="31.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,52,52" x1="36.5" y1="52.5" x2="31.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,36,34,234" x1="36.5" y1="234.5" x2="36.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="SUV Europium: shack; encompassing 24 drainage: 2; yuck dizzy: Bedfordshire Rutherfordium ornate" role="graphics-symbol" aria-roledescription="bar" d="M517.0833333333333,226.72727272727272h34.5v7.2727272727272805h-34.5Z" fill="#f85de1"/>
+<path aria-label="SUV Europium: zucchini; encompassing 24 drainage: 46; yuck dizzy: Bedfordshire Rutherfordium ornate" role="graphics-symbol" aria-roledescription="bar" d="M670.4166666666667,66.72727272727275h34.5v167.27272727272725h-34.5Z" fill="#f85de1"/>
+<path aria-label="SUV Europium: equipment; encompassing 24 drainage: 51; yuck dizzy: Bedfordshire Rutherfordium ornate" role="graphics-symbol" aria-roledescription="bar" d="M210.41666666666666,48.54545454545455h34.5v185.45454545454544h-34.5Z" fill="#f85de1"/>
+<path aria-label="SUV Europium: current; encompassing 24 drainage: 7; yuck dizzy: Bedfordshire Rutherfordium ornate" role="graphics-symbol" aria-roledescription="bar" d="M133.75,208.54545454545456h34.5v25.45454545454544h-34.5Z" fill="#f85de1"/>
+<path aria-label="SUV Europium: founding; encompassing 24 drainage: 27; yuck dizzy: Bedfordshire Rutherfordium ornate" role="graphics-symbol" aria-roledescription="bar" d="M363.75,135.8181818181818h34.5v98.18181818181819h-34.5Z" fill="#f85de1"/>
+<path aria-label="SUV Europium: confidence; encompassing 24 drainage: 39; yuck dizzy: Bedfordshire Rutherfordium ornate" role="graphics-symbol" aria-roledescription="bar" d="M57.083333333333314,92.18181818181819h34.5v141.8181818181818h-34.5Z" fill="#f85de1"/>
+<path aria-label="SUV Europium: expertise; encompassing 24 drainage: 38; yuck dizzy: Bedfordshire Rutherfordium ornate" role="graphics-symbol" aria-roledescription="bar" d="M287.0833333333333,95.81818181818181h34.5v138.1818181818182h-34.5Z" fill="#f85de1"/>
+<path aria-label="SUV Europium: turkey; encompassing 24 drainage: 21; yuck dizzy: Bedfordshire Rutherfordium ornate" role="graphics-symbol" aria-roledescription="bar" d="M593.75,157.63636363636363h34.5v76.36363636363637h-34.5Z" fill="#f85de1"/>
+<path aria-label="SUV Europium: motorcycle; encompassing 24 drainage: 42; yuck dizzy: Bedfordshire Rutherfordium ornate" role="graphics-symbol" aria-roledescription="bar" d="M440.4166666666667,81.27272727272727h34.5v152.72727272727275h-34.5Z" fill="#f85de1"/>
+</svg>

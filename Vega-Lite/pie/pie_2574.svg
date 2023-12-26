@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="225,290,0,26" text-anchor="end" x="290.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">South</text>
+<path aria-label="Fiat: 584; deposit Account female: Honda" role="graphics-symbol" aria-roledescription="arc mark"  d="M58.708220057454525,193.00907650311893A75,75,0,0,0,179.88274675360714,129.80783604386198L147.9327748054014,131.59649266514754A43,43,0,0,1,78.45937949960725,167.83187052845486Z" fill="#2958cc" stroke="white" stroke-width="2"/>
+<path aria-label="Fiat: 61; deposit Account female: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M46.036370353540335,180.349653492935A75,75,0,0,0,58.708220057454525,193.00907650311893L78.45937949960725,167.83187052845486A43,43,0,0,1,71.19418566936312,160.5738013359494Z" fill="#0feeda" stroke="white" stroke-width="2"/>
+<path aria-label="Fiat: 570; deposit Account female: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,46.036370353540335,180.349653492935L71.19418566936312,160.5738013359494A43,43,0,0,1,104.99999999999999,91.0Z" fill="#ff9ad8" stroke="white" stroke-width="2"/>
+<path aria-label="Fiat: 386; deposit Account female: Books" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.88274675360714,129.80783604386198A75,75,0,0,0,105.0,59.0L105.0,91.0A43,43,0,0,1,147.9327748054014,131.59649266514754Z" fill="#eeeb1a" stroke="white" stroke-width="2"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#eeeb1a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#2958cc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#0feeda" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#ff9ad8" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Books</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Honda</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">West</text>
+</svg>

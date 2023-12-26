@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="390" height="270" viewBox="0 0 390 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="13,377,0,26" text-anchor="middle" x="195.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Androgyne didactic Southeast</text>
+<path aria-label="synthesizing: 258; Security: Market" role="graphics-symbol" aria-roledescription="arc mark"  d="M186.45064425820945,239.5111301511413A75,75,0,0,0,269.9150504387256,168.5686436867807L244.9433669591504,167.37909579118713A50,50,0,0,1,189.30042950547295,214.67408676742753Z" fill="#f0b7cf" stroke="white" stroke-width="1"/>
+<path aria-label="synthesizing: 191; Security: Security" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.93020984450393,96.29186569259478A75,75,0,0,0,120.10910713184794,169.04402836426394L145.07273808789864,167.6960189095093A50,50,0,0,1,174.9534732296693,119.19457712839653Z" fill="#5a5acd" stroke="white" stroke-width="1"/>
+<path aria-label="synthesizing: 255; Security: Hop" role="graphics-symbol" aria-roledescription="arc mark"  d="M269.9150504387256,168.5686436867807A75,75,0,0,0,195.0,90.0L195.0,115.0A50,50,0,0,1,244.9433669591504,167.37909579118713Z" fill="#a2e517" stroke="white" stroke-width="1"/>
+<path aria-label="synthesizing: 221; Security: Nader" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.10910713184794,169.04402836426394A75,75,0,0,0,186.45064425820945,239.5111301511413L189.30042950547295,214.67408676742753A50,50,0,0,1,145.07273808789864,167.6960189095093Z" fill="#9625fc" stroke="white" stroke-width="1"/>
+<path aria-label="synthesizing: 65; Security: innovate" role="graphics-symbol" aria-roledescription="arc mark"  d="M195.0,90.0A75,75,0,0,0,164.93020984450393,96.29186569259478L174.9534732296693,119.19457712839653A50,50,0,0,1,195.0,115.0Z" fill="#667ec3" stroke="white" stroke-width="1"/>
+<text aria-label="243,263,225,238" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="253.2872803843772" y="237.57545439436038" font-family="Balto" font-size="12px" fill="#f0b7cf" opacity="1">258</text>
+<text aria-label="108,128,109,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.37452136847389" y="121.79262743501249" font-family="Balto" font-size="12px" fill="#5a5acd" opacity="1">191</text>
+<text aria-label="250,269,94,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="260.1360634294563" y="106.89288896660992" font-family="Balto" font-size="12px" fill="#a2e517" opacity="1">255</text>
+<text aria-label="119,139,218,231" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="129.47107884270324" y="230.692467060094" font-family="Balto" font-size="12px" fill="#9625fc" opacity="1">221</text>
+<text aria-label="170,183,68,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.56739987413278" y="80.90777984066993" font-family="Balto" font-size="12px" fill="#667ec3" opacity="1">65</text>
+<path  d="M106.0,40.25A5,5,0,1,1,96.0,40.25A5,5,0,1,1,106.0,40.25" fill="#a2e517" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M154.0,40.25A5,5,0,1,1,144.0,40.25A5,5,0,1,1,154.0,40.25" fill="#f0b7cf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M215.0,40.25A5,5,0,1,1,205.0,40.25A5,5,0,1,1,215.0,40.25" fill="#9625fc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M272.0,40.25A5,5,0,1,1,262.0,40.25A5,5,0,1,1,272.0,40.25" fill="#5a5acd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M338.0,40.25A5,5,0,1,1,328.0,40.25A5,5,0,1,1,338.0,40.25" fill="#667ec3" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="111,127,33,44" text-anchor="start" x="111.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Hop</text>
+<text aria-label="159,192,33,44" text-anchor="start" x="159.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Market</text>
+<text aria-label="220,247,33,44" text-anchor="start" x="220.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Nader</text>
+<text aria-label="277,321,33,44" text-anchor="start" x="277.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Security</text>
+<text aria-label="343,387,33,44" text-anchor="start" x="343.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">innovate</text>
+</svg>

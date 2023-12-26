@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="902" height="325" viewBox="0 0 902 325" style="background-color: rgb(255, 255, 255);">
+<line x1="177.5" y1="34.5" x2="177.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="377.5" y1="34.5" x2="377.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="577.5" y1="34.5" x2="577.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="777.5" y1="34.5" x2="777.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="57.5" y1="234.5" x2="897.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="57.5" y1="198.5" x2="897.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="57.5" y1="161.5" x2="897.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="57.5" y1="125.5" x2="897.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="57.5" y1="89.5" x2="897.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="57.5" y1="52.5" x2="897.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="163,183,241,321" text-anchor="end" x="177.0" y="241.5" transform="rotate(270.0, 183.0, 241.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">ambition</text>
+<text aria-label="363,383,241,291" text-anchor="end" x="377.0" y="241.5" transform="rotate(270.0, 383.0, 241.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">depot</text>
+<text aria-label="563,583,241,301" text-anchor="end" x="577.0" y="241.5" transform="rotate(270.0, 583.0, 241.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">forest</text>
+<text aria-label="763,783,241,321" text-anchor="end" x="777.0" y="241.5" transform="rotate(270.0, 783.0, 241.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">headline</text>
+<line aria-label="177,177,234,239" x1="177.5" y1="234.5" x2="177.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="377,377,234,239" x1="377.5" y1="234.5" x2="377.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="577,577,234,239" x1="577.5" y1="234.5" x2="577.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="777,777,234,239" x1="777.5" y1="234.5" x2="777.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,897,234,234" x1="57.5" y1="234.5" x2="897.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,96,0,26" text-anchor="start" x="5.38671875" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">impedit</text>
+<text aria-label="40,50,221,241" text-anchor="end" x="50.5" y="240.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="20,50,185,205" text-anchor="end" x="50.5" y="204.13636363636363" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="20,50,148,168" text-anchor="end" x="50.5" y="167.77272727272725" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="20,50,112,132" text-anchor="end" x="50.5" y="131.40909090909093" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="20,50,76,96" text-anchor="end" x="50.5" y="95.04545454545453" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="20,50,39,59" text-anchor="end" x="50.5" y="58.68181818181819" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="52,57,234,234" x1="57.5" y1="234.5" x2="52.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,198,198" x1="57.5" y1="198.5" x2="52.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,161,161" x1="57.5" y1="161.5" x2="52.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,125,125" x1="57.5" y1="125.5" x2="52.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,89,89" x1="57.5" y1="89.5" x2="52.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,52,52" x1="57.5" y1="52.5" x2="52.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,68,200" text-anchor="middle" x="16.88671875" y="134.5" transform="rotate(-90.0, 14.88671875, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">scale Hybrid sometimes</text>
+<line aria-label="57,57,34,234" x1="57.5" y1="234.5" x2="57.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="architect Elizabeth Associate: ambition; scale Hybrid sometimes: 299; Steel connect: Central access volt" role="graphics-symbol" aria-roledescription="bar" d="M97.0,125.27272727272728h53.333333333333336v108.72727272727272h-53.333333333333336Z" fill="#4af1dd"/>
+<path aria-label="architect Elizabeth Associate: ambition; scale Hybrid sometimes: 78; Steel connect: users" role="graphics-symbol" aria-roledescription="bar" d="M203.66666666666669,205.63636363636363h53.333333333333336v28.363636363636374h-53.333333333333336Z" fill="#b1fceb"/>
+<path aria-label="architect Elizabeth Associate: ambition; scale Hybrid sometimes: 528; Steel connect: ack" role="graphics-symbol" aria-roledescription="bar" d="M150.33333333333334,42.00000000000001h53.333333333333336v192h-53.333333333333336Z" fill="#bb9d0b"/>
+<path aria-label="architect Elizabeth Associate: headline; scale Hybrid sometimes: 14; Steel connect: Central access volt" role="graphics-symbol" aria-roledescription="bar" d="M697.0,228.9090909090909h53.333333333333336v5.0909090909090935h-53.333333333333336Z" fill="#4af1dd"/>
+<path aria-label="architect Elizabeth Associate: headline; scale Hybrid sometimes: 341; Steel connect: users" role="graphics-symbol" aria-roledescription="bar" d="M803.6666666666666,110.0h53.333333333333336v124h-53.333333333333336Z" fill="#b1fceb"/>
+<path aria-label="architect Elizabeth Associate: headline; scale Hybrid sometimes: 385; Steel connect: ack" role="graphics-symbol" aria-roledescription="bar" d="M750.3333333333334,94.0h53.333333333333336v140h-53.333333333333336Z" fill="#bb9d0b"/>
+<path aria-label="architect Elizabeth Associate: forest; scale Hybrid sometimes: 400; Steel connect: Central access volt" role="graphics-symbol" aria-roledescription="bar" d="M497.0,88.54545454545453h53.333333333333336v145.45454545454547h-53.333333333333336Z" fill="#4af1dd"/>
+<path aria-label="architect Elizabeth Associate: forest; scale Hybrid sometimes: 273; Steel connect: users" role="graphics-symbol" aria-roledescription="bar" d="M603.6666666666666,134.72727272727275h53.333333333333336v99.27272727272727h-53.333333333333336Z" fill="#b1fceb"/>
+<path aria-label="architect Elizabeth Associate: forest; scale Hybrid sometimes: 507; Steel connect: ack" role="graphics-symbol" aria-roledescription="bar" d="M550.3333333333333,49.636363636363626h53.333333333333336v184.36363636363637h-53.333333333333336Z" fill="#bb9d0b"/>
+<path aria-label="architect Elizabeth Associate: depot; scale Hybrid sometimes: 127; Steel connect: Central access volt" role="graphics-symbol" aria-roledescription="bar" d="M297.0,187.8181818181818h53.333333333333336v46.18181818181819h-53.333333333333336Z" fill="#4af1dd"/>
+<path aria-label="architect Elizabeth Associate: depot; scale Hybrid sometimes: 65; Steel connect: users" role="graphics-symbol" aria-roledescription="bar" d="M403.6666666666667,210.36363636363637h53.333333333333336v23.636363636363626h-53.333333333333336Z" fill="#b1fceb"/>
+<path aria-label="architect Elizabeth Associate: depot; scale Hybrid sometimes: 536; Steel connect: ack" role="graphics-symbol" aria-roledescription="bar" d="M350.3333333333333,39.0909090909091h53.333333333333336v194.9090909090909h-53.333333333333336Z" fill="#bb9d0b"/>
+</svg>

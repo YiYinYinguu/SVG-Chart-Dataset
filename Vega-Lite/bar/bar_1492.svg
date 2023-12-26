@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="631" height="390" viewBox="0 0 631 390" style="background-color: rgb(255, 255, 255);">
+<line x1="36.5" y1="234.5" x2="626.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="198.5" x2="626.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="161.5" x2="626.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="125.5" x2="626.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="89.5" x2="626.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="52.5" x2="626.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="74,90,241,321" text-anchor="end" x="85.16666666666669" y="241.5" transform="rotate(270.0, 90.16666666666669, 241.5)" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">impediment</text>
+<text aria-label="172,188,241,305" text-anchor="end" x="183.5" y="241.5" transform="rotate(270.0, 188.5, 241.5)" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">priority</text>
+<text aria-label="270,286,241,329" text-anchor="end" x="281.83333333333337" y="241.5" transform="rotate(270.0, 286.83333333333337, 241.5)" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">programming</text>
+<text aria-label="369,385,241,329" text-anchor="end" x="380.1666666666667" y="241.5" transform="rotate(270.0, 385.1666666666667, 241.5)" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">thunderbolt</text>
+<text aria-label="467,483,241,297" text-anchor="end" x="478.5" y="241.5" transform="rotate(270.0, 483.5, 241.5)" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">toaster</text>
+<text aria-label="565,581,241,289" text-anchor="end" x="576.8333333333333" y="241.5" transform="rotate(270.0, 581.8333333333333, 241.5)" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">viewer</text>
+<line aria-label="85,85,234,239" x1="85.5" y1="234.5" x2="85.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="183,183,234,239" x1="183.5" y1="234.5" x2="183.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="281,281,234,239" x1="281.5" y1="234.5" x2="281.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="380,380,234,239" x1="380.5" y1="234.5" x2="380.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="478,478,234,239" x1="478.5" y1="234.5" x2="478.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="576,576,234,239" x1="576.5" y1="234.5" x2="576.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,626,234,234" x1="36.5" y1="234.5" x2="626.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="298,363,0,26" text-anchor="middle" x="331.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Fresh</text>
+<text aria-label="21,29,224,240" text-anchor="end" x="29.5" y="239.5" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="5,29,188,204" text-anchor="end" x="29.5" y="203.13636363636363" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="5,29,151,167" text-anchor="end" x="29.5" y="166.77272727272725" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="5,29,115,131" text-anchor="end" x="29.5" y="130.40909090909093" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="5,29,79,95" text-anchor="end" x="29.5" y="94.04545454545453" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="5,29,42,58" text-anchor="end" x="29.5" y="57.68181818181819" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">500</text>
+<line aria-label="31,36,234,234" x1="36.5" y1="234.5" x2="31.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,198,198" x1="36.5" y1="198.5" x2="31.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,161,161" x1="36.5" y1="161.5" x2="31.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,125,125" x1="36.5" y1="125.5" x2="31.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,89,89" x1="36.5" y1="89.5" x2="31.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,52,52" x1="36.5" y1="52.5" x2="31.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="deposit Account array: thunderbolt; Modern Rockford impassioned: 343; Berkshire sint: TCP" role="graphics-symbol" aria-roledescription="bar" d="M358.0416666666667,109.27272727272727h44.25v124.72727272727273h-44.25Z" fill="#170eec"/>
+<path aria-label="deposit Account array: priority; Modern Rockford impassioned: 141; Berkshire sint: TCP" role="graphics-symbol" aria-roledescription="bar" d="M161.375,182.72727272727272h44.25v51.27272727272728h-44.25Z" fill="#170eec"/>
+<path aria-label="deposit Account array: impediment; Modern Rockford impassioned: 461; Berkshire sint: TCP" role="graphics-symbol" aria-roledescription="bar" d="M63.041666666666686,66.36363636363637h44.25v167.63636363636363h-44.25Z" fill="#170eec"/>
+<path aria-label="deposit Account array: viewer; Modern Rockford impassioned: 453; Berkshire sint: TCP" role="graphics-symbol" aria-roledescription="bar" d="M554.7083333333333,69.27272727272728h44.25v164.72727272727272h-44.25Z" fill="#170eec"/>
+<path aria-label="deposit Account array: programming; Modern Rockford impassioned: 540; Berkshire sint: TCP" role="graphics-symbol" aria-roledescription="bar" d="M259.70833333333337,37.63636363636364h44.25v196.36363636363637h-44.25Z" fill="#170eec"/>
+<path aria-label="deposit Account array: toaster; Modern Rockford impassioned: 536; Berkshire sint: TCP" role="graphics-symbol" aria-roledescription="bar" d="M456.375,39.0909090909091h44.25v194.9090909090909h-44.25Z" fill="#170eec"/>
+<path  d="M37.0,375.0h10v10h-10Z" fill="#170eec" stroke-width="1.5" opacity="1"/>
+<text aria-label="52,68,373,384" text-anchor="start" x="52.0" y="383.0" font-family="serif" font-size="10px" fill="#000" opacity="1">TCP</text>
+<text aria-label="36,120,356,368" text-anchor="start" x="36.0" y="367.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Berkshire sint</text>
+</svg>

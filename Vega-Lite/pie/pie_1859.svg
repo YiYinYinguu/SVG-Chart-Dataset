@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="318" height="270" viewBox="0 0 318 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electric generate</text>
+<path aria-label="aside: 303; Lemke: magenta" role="graphics-symbol" aria-roledescription="arc mark"  d="M55.80015630115646,108.39279745465807A75,75,0,0,0,30.102698229755248,161.07645727219742L105.0,165.0Z" fill="#cbbf7b" stroke="white" stroke-width="4"/>
+<path aria-label="aside: 270; Lemke: quickly" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,55.80015630115646,108.39279745465807L105.0,165.0Z" fill="#1a3eda" stroke="white" stroke-width="4"/>
+<path aria-label="aside: 309; Lemke: Benz" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.856302114316,233.8011716764961A75,75,0,0,0,175.6434868522207,190.18923907862484L105.0,165.0Z" fill="#78b3e8" stroke="white" stroke-width="4"/>
+<path aria-label="aside: 722; Lemke: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.6434868522207,190.18923907862484A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#5902ec" stroke="white" stroke-width="4"/>
+<path aria-label="aside: 767; Lemke: Coordinator" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.102698229755248,161.07645727219742A75,75,0,0,0,134.856302114316,233.8011716764961L105.0,165.0Z" fill="#fd1b0a" stroke="white" stroke-width="4"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#5902ec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,40.25A5,5,0,1,1,58.0,40.25A5,5,0,1,1,68.0,40.25" fill="#78b3e8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M119.0,40.25A5,5,0,1,1,109.0,40.25A5,5,0,1,1,119.0,40.25" fill="#fd1b0a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M204.0,40.25A5,5,0,1,1,194.0,40.25A5,5,0,1,1,204.0,40.25" fill="#cbbf7b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M274.0,40.25A5,5,0,1,1,264.0,40.25A5,5,0,1,1,274.0,40.25" fill="#1a3eda" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="73,95,33,44" text-anchor="start" x="73.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Benz</text>
+<text aria-label="124,184,33,44" text-anchor="start" x="124.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Coordinator</text>
+<text aria-label="209,247,33,44" text-anchor="start" x="209.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">magenta</text>
+<text aria-label="279,317,33,44" text-anchor="start" x="279.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">quickly</text>
+</svg>

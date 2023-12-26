@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="353" height="239" viewBox="0 0 353 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="23,348,0,26" text-anchor="middle" x="186.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Violet payment generation</text>
+<path aria-label="Games Turkmenistan Passenger: 43; disassemble: Sedan" role="graphics-symbol" aria-roledescription="arc mark"  d="M186.96562679954235,208.99378350826157A75,75,0,0,0,226.25221454937002,197.28316698673893L211.76141731159683,174.50122687151293A48,48,0,0,1,186.6180011517071,181.9960214452874Z" fill="#5dcca4" stroke="white" stroke-width="3"/>
+<path aria-label="Games Turkmenistan Passenger: 200; disassemble: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M226.25221454937002,197.28316698673893A75,75,0,0,0,186.0,59.0L186.0,86.0A48,48,0,0,1,211.76141731159683,174.50122687151293Z" fill="#8a4ed3" stroke="white" stroke-width="3"/>
+<path aria-label="Games Turkmenistan Passenger: 245; disassemble: journey" role="graphics-symbol" aria-roledescription="arc mark"  d="M186.0,59.0A75,75,0,1,0,186.96562679954235,208.99378350826157L186.6180011517071,181.9960214452874A48,48,0,1,1,186.0,86.0Z" fill="#def3c1" stroke="white" stroke-width="3"/>
+<text aria-label="204,219,210,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="211.70948530251388" y="224.2497673358011" font-family="serif" font-size="14px" fill="#5dcca4" opacity="1">43</text>
+<text aria-label="261,283,98,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="272.41348863044414" y="112.84629286335516" font-family="serif" font-size="14px" fill="#8a4ed3" opacity="1">200</text>
+<text aria-label="84,107,124,139" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="96.00186496684432" y="138.57938808572067" font-family="serif" font-size="14px" fill="#def3c1" opacity="1">245</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#8a4ed3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#5dcca4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#def3c1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Sedan</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">journey</text>
+<text aria-label="5,71,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">disassemble</text>
+</svg>

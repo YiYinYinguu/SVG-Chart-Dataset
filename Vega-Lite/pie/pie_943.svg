@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="10,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">green Cisgender</text>
+<path aria-label="Expanded Gasoline applications: 242; evolve: Loan" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.72891148301467,67.28798839893257A75,75,0,1,0,175.2994570217527,107.86599260643808L148.11700030667498,117.97114213194868A46,46,0,1,1,83.98039904291566,93.0832995513453Z" fill="#a3d4f7" stroke="black" stroke-width="3"/>
+<path aria-label="Expanded Gasoline applications: 25; evolve: parse" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,70.72891148301467,67.28798839893257L83.98039904291566,93.0832995513453A46,46,0,0,1,104.99999999999999,88.0Z" fill="#f9bd2d" stroke="black" stroke-width="3"/>
+<path aria-label="Expanded Gasoline applications: 64; evolve: Celsius" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.2994570217527,107.86599260643808A75,75,0,0,0,105.0,59.0L105.0,88.0A46,46,0,0,1,148.11700030667498,117.97114213194868Z" fill="#f8bb8b" stroke="black" stroke-width="3"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#f8bb8b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,274.25A5,5,0,1,1,68.0,274.25A5,5,0,1,1,78.0,274.25" fill="#a3d4f7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,274.25A5,5,0,1,1,115.0,274.25A5,5,0,1,1,125.0,274.25" fill="#f9bd2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Celsius</text>
+<text aria-label="83,105,267,278" text-anchor="start" x="83.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Loan</text>
+<text aria-label="130,157,267,278" text-anchor="start" x="130.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">parse</text>
+<text aria-label="5,41,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">evolve</text>
+</svg>

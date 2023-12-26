@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="293" height="239" viewBox="0 0 293 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="67,288,0,26" text-anchor="end" x="288.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">ack International</text>
+<path aria-label="Diesel connecting: 176; instead array Checking: Internal" role="graphics-symbol" aria-roledescription="arc mark"  d="M238.13732488950603,189.77856804296897A75,75,0,0,0,247.25771208678302,88.02692572559532L188.0,134.0Z" fill="#8a7beb" stroke="black" stroke-width="0"/>
+<path aria-label="Diesel connecting: 107; instead array Checking: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M247.25771208678302,88.02692572559532A75,75,0,0,0,188.0,59.0L188.0,134.0Z" fill="#d1cfa9" stroke="black" stroke-width="0"/>
+<path aria-label="Diesel connecting: 173; instead array Checking: Soft" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.58142547613804,67.36396074386353A75,75,0,0,0,118.31859914738105,161.7399058256627L188.0,134.0Z" fill="#8b92ac" stroke="black" stroke-width="0"/>
+<path aria-label="Diesel connecting: 56; instead array Checking: provided" role="graphics-symbol" aria-roledescription="arc mark"  d="M188.0,59.0A75,75,0,0,0,153.58142547613804,67.36396074386353L188.0,134.0Z" fill="#9ada0b" stroke="black" stroke-width="0"/>
+<path aria-label="Diesel connecting: 226; instead array Checking: Passenger" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.31859914738105,161.7399058256627A75,75,0,0,0,238.13732488950603,189.77856804296897L188.0,134.0Z" fill="#64c5ca" stroke="black" stroke-width="0"/>
+<text aria-label="270,285,136,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="277.64062415310093" y="145.03483051734747" font-family="sans-serif" font-size="9px" fill="#8a7beb" opacity="1">176</text>
+<text aria-label="220,235,47,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="227.5910847184331" y="56.17583275518483" font-family="sans-serif" font-size="9px" fill="#d1cfa9" opacity="1">107</text>
+<text aria-label="96,111,96,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="103.69279628615348" y="105.4992793423391" font-family="sans-serif" font-size="9px" fill="#8b92ac" opacity="1">173</text>
+<text aria-label="161,171,40,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="166.74784998715114" y="49.54517669201219" font-family="sans-serif" font-size="9px" fill="#9ada0b" opacity="1">56</text>
+<text aria-label="159,174,215,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="167.4931841987176" y="224.63258814900013" font-family="sans-serif" font-size="9px" fill="#64c5ca" opacity="1">226</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#d1cfa9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#8a7beb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#64c5ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#8b92ac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#9ada0b" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Internal</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Passenger</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Soft</text>
+<text aria-label="21,65,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">provided</text>
+</svg>

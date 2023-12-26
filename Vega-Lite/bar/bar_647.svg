@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="367" height="296" viewBox="0 0 367 296" style="background-color: rgb(255, 255, 255);">
+<text aria-label="44,57,241,274" text-anchor="end" x="53.166666666666664" y="241.5" transform="rotate(270.0, 57.166666666666664, 241.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">board</text>
+<text aria-label="80,93,241,280" text-anchor="end" x="89.5" y="241.5" transform="rotate(270.0, 93.5, 241.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">demand</text>
+<text aria-label="116,129,241,267" text-anchor="end" x="125.83333333333334" y="241.5" transform="rotate(270.0, 129.83333333333334, 241.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">mill</text>
+<text aria-label="153,166,241,280" text-anchor="end" x="162.16666666666666" y="241.5" transform="rotate(270.0, 166.16666666666666, 241.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">pigpen</text>
+<text aria-label="189,202,241,280" text-anchor="end" x="198.5" y="241.5" transform="rotate(270.0, 202.5, 241.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">roster</text>
+<text aria-label="225,238,241,280" text-anchor="end" x="234.83333333333334" y="241.5" transform="rotate(270.0, 238.83333333333334, 241.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">sample</text>
+<text aria-label="262,275,241,280" text-anchor="end" x="271.16666666666663" y="241.5" transform="rotate(270.0, 275.16666666666663, 241.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">squash</text>
+<text aria-label="298,311,241,267" text-anchor="end" x="307.5" y="241.5" transform="rotate(270.0, 311.5, 241.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">tick</text>
+<text aria-label="334,347,241,267" text-anchor="end" x="343.83333333333337" y="241.5" transform="rotate(270.0, 347.83333333333337, 241.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">wild</text>
+<line aria-label="53,53,234,239" x1="53.5" y1="234.5" x2="53.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="89,89,234,239" x1="89.5" y1="234.5" x2="89.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="125,125,234,239" x1="125.5" y1="234.5" x2="125.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="162,162,234,239" x1="162.5" y1="234.5" x2="162.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="198,198,234,239" x1="198.5" y1="234.5" x2="198.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="234,234,234,239" x1="234.5" y1="234.5" x2="234.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="271,271,234,239" x1="271.5" y1="234.5" x2="271.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="307,307,234,239" x1="307.5" y1="234.5" x2="307.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="343,343,234,239" x1="343.5" y1="234.5" x2="343.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,362,234,234" x1="35.5" y1="234.5" x2="362.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="128,362,0,26" text-anchor="end" x="362.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">uniform discompose</text>
+<text aria-label="22,28,226,239" text-anchor="end" x="28.5" y="238.5" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="9,28,182,195" text-anchor="end" x="28.5" y="194.05555555555557" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="9,28,137,150" text-anchor="end" x="28.5" y="149.61111111111111" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="9,28,93,106" text-anchor="end" x="28.5" y="105.16666666666667" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="9,28,48,61" text-anchor="end" x="28.5" y="60.72222222222223" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="30,35,234,234" x1="35.5" y1="234.5" x2="30.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,190,190" x1="35.5" y1="190.5" x2="30.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,145,145" x1="35.5" y1="145.5" x2="30.5" y2="145.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,101,101" x1="35.5" y1="101.5" x2="30.5" y2="101.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,56,56" x1="35.5" y1="56.5" x2="30.5" y2="56.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Cotton: squash; Ball Borders: 167; Northwest: irrigation" role="graphics-symbol" aria-roledescription="bar" d="M259.7216666666667,196.88888888888889h22.890000000000004v37.111111111111114h-22.890000000000004Z" fill="#dbdcea"/>
+<path aria-label="Cotton: board; Ball Borders: 806; Northwest: irrigation" role="graphics-symbol" aria-roledescription="bar" d="M41.721666666666664,54.888888888888886h22.890000000000004v179.11111111111111h-22.890000000000004Z" fill="#dbdcea"/>
+<path aria-label="Cotton: wild; Ball Borders: 29; Northwest: irrigation" role="graphics-symbol" aria-roledescription="bar" d="M332.3883333333333,227.55555555555554h22.890000000000004v6.444444444444457h-22.890000000000004Z" fill="#dbdcea"/>
+<path aria-label="Cotton: roster; Ball Borders: 392; Northwest: irrigation" role="graphics-symbol" aria-roledescription="bar" d="M187.055,146.8888888888889h22.890000000000004v87.1111111111111h-22.890000000000004Z" fill="#dbdcea"/>
+<path aria-label="Cotton: sample; Ball Borders: 93; Northwest: irrigation" role="graphics-symbol" aria-roledescription="bar" d="M223.38833333333335,213.33333333333334h22.890000000000004v20.666666666666657h-22.890000000000004Z" fill="#dbdcea"/>
+<path aria-label="Cotton: demand; Ball Borders: 518; Northwest: irrigation" role="graphics-symbol" aria-roledescription="bar" d="M78.055,118.88888888888889h22.890000000000004v115.11111111111111h-22.890000000000004Z" fill="#dbdcea"/>
+<path aria-label="Cotton: pigpen; Ball Borders: 110; Northwest: irrigation" role="graphics-symbol" aria-roledescription="bar" d="M150.72166666666666,209.55555555555554h22.890000000000004v24.444444444444457h-22.890000000000004Z" fill="#dbdcea"/>
+<path aria-label="Cotton: mill; Ball Borders: 303; Northwest: irrigation" role="graphics-symbol" aria-roledescription="bar" d="M114.38833333333334,166.66666666666666h22.890000000000004v67.33333333333334h-22.890000000000004Z" fill="#dbdcea"/>
+<path aria-label="Cotton: tick; Ball Borders: 45; Northwest: irrigation" role="graphics-symbol" aria-roledescription="bar" d="M296.05499999999995,224.0h22.890000000000004v10h-22.890000000000004Z" fill="#dbdcea"/>
+<text aria-label="266,275,189,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.16666666666663" y="194.45538888888888" font-family="Balto" font-size="4.905px" fill="#000" opacity="1">167</text>
+<text aria-label="48,57,47,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="53.166666666666664" y="52.45538888888889" font-family="Balto" font-size="4.905px" fill="#000" opacity="1">806</text>
+<text aria-label="340,346,220,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="343.83333333333337" y="225.12205555555553" font-family="Balto" font-size="4.905px" fill="#000" opacity="1">29</text>
+<text aria-label="194,202,139,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="198.5" y="144.4553888888889" font-family="Balto" font-size="4.905px" fill="#000" opacity="1">392</text>
+<text aria-label="231,237,205,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="234.83333333333334" y="210.89983333333333" font-family="Balto" font-size="4.905px" fill="#000" opacity="1">93</text>
+<text aria-label="85,93,111,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="89.5" y="116.45538888888889" font-family="Balto" font-size="4.905px" fill="#000" opacity="1">518</text>
+<text aria-label="157,166,202,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.16666666666666" y="207.12205555555553" font-family="Balto" font-size="4.905px" fill="#000" opacity="1">110</text>
+<text aria-label="121,130,159,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="125.83333333333334" y="164.23316666666665" font-family="Balto" font-size="4.905px" fill="#000" opacity="1">303</text>
+<text aria-label="304,310,216,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="307.5" y="221.5665" font-family="Balto" font-size="4.905px" fill="#000" opacity="1">45</text>
+</svg>

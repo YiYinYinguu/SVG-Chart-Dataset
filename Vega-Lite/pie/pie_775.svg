@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="230" height="270" viewBox="0 0 230 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,225,0,26" text-anchor="middle" x="115.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">pfft Cis tertiary</text>
+<path aria-label="Hills modi Trans: 25; the: Infrastructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M114.99999999999999,90.0A75,75,0,1,0,185.47694655894313,190.65151074942514L115.0,165.0Z" fill="#ff8f29" stroke="black" stroke-width="1"/>
+<path aria-label="Hills modi Trans: 8; the: Human" role="graphics-symbol" aria-roledescription="arc mark"  d="M188.86058147591558,151.97638667498023A75,75,0,0,0,115.0,90.0L115.0,165.0Z" fill="#6faa7e" stroke="black" stroke-width="1"/>
+<path aria-label="Hills modi Trans: 3; the: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M185.47694655894313,190.65151074942514A75,75,0,0,0,188.86058147591558,151.97638667498023L115.0,165.0Z" fill="#cbabef" stroke="black" stroke-width="1"/>
+<path  d="M26.0,40.25A5,5,0,1,1,16.0,40.25A5,5,0,1,1,26.0,40.25" fill="#6faa7e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,40.25A5,5,0,1,1,68.0,40.25A5,5,0,1,1,78.0,40.25" fill="#cbabef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,40.25A5,5,0,1,1,125.0,40.25A5,5,0,1,1,135.0,40.25" fill="#ff8f29" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="31,58,33,44" text-anchor="start" x="31.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Human</text>
+<text aria-label="83,116,33,44" text-anchor="start" x="83.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="140,217,33,44" text-anchor="start" x="140.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Infrastructure</text>
+</svg>

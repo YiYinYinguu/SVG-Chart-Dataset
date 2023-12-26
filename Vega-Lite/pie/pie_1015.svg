@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="285" height="239" viewBox="0 0 285 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="59,280,0,26" text-anchor="end" x="280.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Lead Awesome User</text>
+<path aria-label="Victoria: 2; overriding: Trans" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.35211870545443,59.012189157127935A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#a3a0ca" stroke="black" stroke-width="2"/>
+<path aria-label="Victoria: 102; overriding: exactly" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.55457841080744,208.2690592900168A75,75,0,0,0,157.73337341390572,187.33096031752643L105.0,134.0Z" fill="#ec7b5a" stroke="black" stroke-width="2"/>
+<path aria-label="Victoria: 104; overriding: discredit" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.73337341390572,187.33096031752643A75,75,0,0,0,179.19674131825576,123.05269084423767L105.0,134.0Z" fill="#13b9e8" stroke="black" stroke-width="2"/>
+<path aria-label="Victoria: 156; overriding: dicta" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.19674131825576,123.05269084423767A75,75,0,0,0,106.35211870545443,59.012189157127935L105.0,134.0Z" fill="#b30eb6" stroke="black" stroke-width="2"/>
+<path aria-label="Victoria: 333; overriding: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,94.55457841080744,208.2690592900168L105.0,134.0Z" fill="#4aa2ee" stroke="black" stroke-width="2"/>
+<text aria-label="103,108,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="105.81130418765642" y="47.003656821429175" font-family="Balto" font-size="10px" fill="#a3a0ca" opacity="1">2</text>
+<text aria-label="125,141,212,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.31259346863126" y="222.43065638914416" font-family="Balto" font-size="10px" fill="#ec7b5a" opacity="1">102</text>
+<text aria-label="182,198,155,166" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.3666327253462" y="165.50505248435533" font-family="Balto" font-size="10px" fill="#13b9e8" opacity="1">104</text>
+<text aria-label="156,172,59,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.42368045315595" y="69.40690714724462" font-family="Balto" font-size="10px" fill="#b30eb6" opacity="1">156</text>
+<text aria-label="6,23,120,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.21955000301621" y="130.71742104394275" font-family="Balto" font-size="10px" fill="#4aa2ee" opacity="1">333</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#a3a0ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#b30eb6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#13b9e8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#ec7b5a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#4aa2ee" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Trans</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">dicta</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">discredit</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">exactly</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">male</text>
+</svg>

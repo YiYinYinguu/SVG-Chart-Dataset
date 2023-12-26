@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="459" height="285" viewBox="0 0 459 285" style="background-color: rgb(255, 255, 255);">
+<text aria-label="77,89,241,277" text-anchor="end" x="86.8846153846154" y="241.5" transform="rotate(270.0, 89.8846153846154, 241.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">column</text>
+<text aria-label="157,169,241,283" text-anchor="end" x="166.6923076923077" y="241.5" transform="rotate(270.0, 169.6923076923077, 241.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">diagram</text>
+<text aria-label="237,249,241,277" text-anchor="end" x="246.50000000000003" y="241.5" transform="rotate(270.0, 249.50000000000003, 241.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">heaven</text>
+<text aria-label="317,329,241,259" text-anchor="end" x="326.3076923076923" y="241.5" transform="rotate(270.0, 329.3076923076923, 241.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">pub</text>
+<text aria-label="397,409,241,271" text-anchor="end" x="406.11538461538464" y="241.5" transform="rotate(270.0, 409.11538461538464, 241.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">robot</text>
+<line aria-label="86,86,234,239" x1="86.5" y1="234.5" x2="86.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="166,166,234,239" x1="166.5" y1="234.5" x2="166.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="246,246,234,239" x1="246.5" y1="234.5" x2="246.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="326,326,234,239" x1="326.5" y1="234.5" x2="326.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="406,406,234,239" x1="406.5" y1="234.5" x2="406.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,454,234,234" x1="39.5" y1="234.5" x2="454.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,356,0,26" text-anchor="start" x="5.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">deposit imperfect Southeast</text>
+<text aria-label="31,37,226,238" text-anchor="end" x="37.5" y="237.5" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,37,182,194" text-anchor="end" x="37.5" y="193.05555555555557" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,37,137,149" text-anchor="end" x="37.5" y="148.61111111111111" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,37,93,105" text-anchor="end" x="37.5" y="104.16666666666667" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="19,37,48,60" text-anchor="end" x="37.5" y="59.72222222222223" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="3,15,107,161" text-anchor="middle" x="17.0" y="134.5" transform="rotate(-90.0, 15.0, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northwest</text>
+<path aria-label="invoice overriding calculate: pub; Northwest: 257; female optical: Iceland visionary" role="graphics-symbol" aria-roledescription="bar" d="M294.38461538461536,119.77777777777777h63.84615384615385v114.22222222222223h-63.84615384615385Z" fill="#e9b2d0"/>
+<path aria-label="invoice overriding calculate: diagram; Northwest: 228; female optical: Iceland visionary" role="graphics-symbol" aria-roledescription="bar" d="M134.76923076923077,132.66666666666666h63.84615384615385v101.33333333333334h-63.84615384615385Z" fill="#e9b2d0"/>
+<path aria-label="invoice overriding calculate: robot; Northwest: 193; female optical: Iceland visionary" role="graphics-symbol" aria-roledescription="bar" d="M374.19230769230774,148.22222222222223h63.84615384615385v85.77777777777777h-63.84615384615385Z" fill="#e9b2d0"/>
+<path aria-label="invoice overriding calculate: heaven; Northwest: 358; female optical: Iceland visionary" role="graphics-symbol" aria-roledescription="bar" d="M214.5769230769231,74.88888888888889h63.84615384615385v159.11111111111111h-63.84615384615385Z" fill="#e9b2d0"/>
+<path aria-label="invoice overriding calculate: column; Northwest: 409; female optical: Iceland visionary" role="graphics-symbol" aria-roledescription="bar" d="M54.96153846153848,52.22222222222223h63.84615384615385v181.77777777777777h-63.84615384615385Z" fill="#e9b2d0"/>
+<text aria-label="316,336,102,116" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="326.3076923076923" y="115.06277777777777" font-family="monospace" font-size="12.45px" fill="#000" opacity="1">257</text>
+<text aria-label="156,176,115,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="166.6923076923077" y="127.95166666666665" font-family="monospace" font-size="12.45px" fill="#000" opacity="1">228</text>
+<text aria-label="396,416,131,144" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="406.11538461538464" y="143.50722222222223" font-family="monospace" font-size="12.45px" fill="#000" opacity="1">193</text>
+<text aria-label="236,256,57,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="246.50000000000003" y="70.17388888888888" font-family="monospace" font-size="12.45px" fill="#000" opacity="1">358</text>
+<text aria-label="76,96,35,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.8846153846154" y="47.50722222222223" font-family="monospace" font-size="12.45px" fill="#000" opacity="1">409</text>
+</svg>

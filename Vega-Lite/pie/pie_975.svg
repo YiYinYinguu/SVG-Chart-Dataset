@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="301" height="239" viewBox="0 0 301 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electric AGP</text>
+<path aria-label="indigo maroon Van: 87; Vatu Franc: failing" role="graphics-symbol" aria-roledescription="arc mark"  d="M83.34952957376773,205.80708273090363A75,75,0,0,0,113.59061382898767,208.50638465286855L108.8944116024744,167.7762277093004A34,34,0,0,1,95.18512007344137,166.552544171343Z" fill="#d2ba05" stroke="black" stroke-width="0"/>
+<path aria-label="indigo maroon Van: 249; Vatu Franc: Volkswagen" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.74192562808815,175.09076256872652A75,75,0,0,0,167.45158551138707,92.46929488783137L133.3113854318288,115.17274701581688A34,34,0,0,1,133.4430062847333,152.62781236448936Z" fill="#36c5c7" stroke="black" stroke-width="0"/>
+<path aria-label="indigo maroon Van: 210; Vatu Franc: Nakfa" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.45158551138707,92.46929488783137A75,75,0,0,0,105.0,59.0L105.0,100.0A34,34,0,0,1,133.3113854318288,115.17274701581688Z" fill="#8c748a" stroke="black" stroke-width="0"/>
+<path aria-label="indigo maroon Van: 187; Vatu Franc: absent" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.59061382898767,208.50638465286855A75,75,0,0,0,167.74192562808815,175.09076256872652L133.4430062847333,152.62781236448936A34,34,0,0,1,108.8944116024744,167.7762277093004Z" fill="#d7aa6d" stroke="black" stroke-width="0"/>
+<path aria-label="indigo maroon Van: 417; Vatu Franc: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M46.48804864212273,87.08143706065366A75,75,0,0,0,83.34952957376773,205.80708273090363L95.18512007344137,166.552544171343A34,34,0,0,1,78.47458205109564,112.73025146749633Z" fill="#7bd132" stroke="black" stroke-width="0"/>
+<path aria-label="indigo maroon Van: 191; Vatu Franc: ugh" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,46.48804864212273,87.08143706065366L78.47458205109564,112.73025146749633A34,34,0,0,1,105.0,100.0Z" fill="#aac0f1" stroke="black" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#8c748a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#36c5c7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#d7aa6d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#d2ba05" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#7bd132" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#aac0f1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Nakfa</text>
+<text aria-label="239,294,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Volkswagen</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">absent</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">failing</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="239,255,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">ugh</text>
+</svg>

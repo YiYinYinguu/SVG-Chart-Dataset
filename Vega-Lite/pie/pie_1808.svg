@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="341" height="239" viewBox="0 0 341 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,316,0,26" text-anchor="middle" x="160.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">East Croatian Consultant</text>
+<path aria-label="trained: 853; orange fuchsia Schroeder: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M100.00785944718713,88.98952264314957A75,75,0,0,0,117.8237555103004,196.01745238838083L135.8189531592389,169.55667270267168A43,43,0,0,1,125.60450608305396,108.19399298207242Z" fill="#a6308c" stroke="black" stroke-width="2"/>
+<path aria-label="trained: 489; orange fuchsia Schroeder: reinvent" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.0,59.0A75,75,0,0,0,100.00785944718713,88.98952264314957L125.60450608305396,108.19399298207242A43,43,0,0,1,160.0,91.0Z" fill="#e37d3d" stroke="black" stroke-width="2"/>
+<path aria-label="trained: 869; orange fuchsia Schroeder: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M234.77900489956536,139.75329698788252A75,75,0,0,0,160.0,59.0L160.0,91.0A43,43,0,0,1,202.87329614241747,137.2985569397193Z" fill="#4abdbe" stroke="black" stroke-width="2"/>
+<path aria-label="trained: 132; orange fuchsia Schroeder: Shoes" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.8237555103004,196.01745238838083A75,75,0,0,0,134.4970137434123,204.5308279548475L145.3782878795564,174.43767469411256A43,43,0,0,1,135.8189531592389,169.55667270267168Z" fill="#6bcc63" stroke="black" stroke-width="2"/>
+<path aria-label="trained: 971; orange fuchsia Schroeder: Recycled" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.4970137434123,204.5308279548475A75,75,0,0,0,234.77900489956536,139.75329698788252L202.87329614241747,137.2985569397193A43,43,0,0,1,145.3782878795564,174.43767469411256Z" fill="#3e8cb9" stroke="black" stroke-width="2"/>
+<text aria-label="61,80,140,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="71.2215769841101" y="152.7780785899829" font-family="Balto" font-size="12px" fill="#a6308c" opacity="1">853</text>
+<text aria-label="110,129,45,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.75780544341453" y="57.49803867439053" font-family="Balto" font-size="12px" fill="#e37d3d" opacity="1">489</text>
+<text aria-label="216,235,64,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="226.03543016703728" y="76.85000439366866" font-family="Balto" font-size="12px" fill="#4abdbe" opacity="1">869</text>
+<text aria-label="109,128,206,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.07245302170963" y="218.1556978532396" font-family="Balto" font-size="12px" fill="#6bcc63" opacity="1">132</text>
+<text aria-label="199,218,201,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="208.83371408496913" y="213.59939397023953" font-family="Balto" font-size="12px" fill="#3e8cb9" opacity="1">971</text>
+<path  d="M289.0,40.0A5,5,0,1,1,279.0,40.0A5,5,0,1,1,289.0,40.0" fill="#4abdbe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M289.0,56.0A5,5,0,1,1,279.0,56.0A5,5,0,1,1,289.0,56.0" fill="#3e8cb9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M289.0,72.0A5,5,0,1,1,279.0,72.0A5,5,0,1,1,289.0,72.0" fill="#6bcc63" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M289.0,88.0A5,5,0,1,1,279.0,88.0A5,5,0,1,1,289.0,88.0" fill="#a6308c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M289.0,104.0A5,5,0,1,1,279.0,104.0A5,5,0,1,1,289.0,104.0" fill="#e37d3d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="294,316,33,44" text-anchor="start" x="294.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="294,338,49,60" text-anchor="start" x="294.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Recycled</text>
+<text aria-label="294,321,65,76" text-anchor="start" x="294.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Shoes</text>
+<text aria-label="294,321,81,92" text-anchor="start" x="294.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="294,338,97,108" text-anchor="start" x="294.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">reinvent</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="270" viewBox="0 0 314 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,265,0,26" text-anchor="middle" x="135.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">olive Mountain drive</text>
+<path aria-label="World: 285; Solutions Architect Principal: while" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.0,90.0A75,75,0,0,0,60.14501912897809,160.3382579652083L99.06960918190948,162.76236382329998A36,36,0,0,1,135.0,129.0Z" fill="#4a9dcd" stroke="white" stroke-width="3"/>
+<path aria-label="World: 157; Solutions Architect Principal: pascal" role="graphics-symbol" aria-roledescription="arc mark"  d="M60.14501912897809,160.3382579652083A75,75,0,0,0,81.09703271248486,217.1485389785857L109.12657570199272,190.03129870972114A36,36,0,0,1,99.06960918190948,162.76236382329998Z" fill="#b7fbfa" stroke="white" stroke-width="3"/>
+<path aria-label="World: 229; Solutions Architect Principal: Aluminium" role="graphics-symbol" aria-roledescription="arc mark"  d="M205.2285696069785,138.67609430654767A75,75,0,0,0,135.0,90.0L135.0,129.0A36,36,0,0,1,168.7097134113497,152.36452526714288Z" fill="#0b7add" stroke="white" stroke-width="3"/>
+<path aria-label="World: 263; Solutions Architect Principal: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.38464733380653,229.4330571140257A75,75,0,0,0,205.2285696069785,138.67609430654767L168.7097134113497,152.36452526714288A36,36,0,0,1,153.42463072022713,195.92786741473233Z" fill="#f63664" stroke="white" stroke-width="3"/>
+<path aria-label="World: 253; Solutions Architect Principal: Wooden" role="graphics-symbol" aria-roledescription="arc mark"  d="M81.09703271248486,217.1485389785857A75,75,0,0,0,173.38464733380653,229.4330571140257L153.42463072022713,195.92786741473233A36,36,0,0,1,109.12657570199272,190.03129870972114Z" fill="#dbdf51" stroke="white" stroke-width="3"/>
+<text aria-label="63,83,91,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="73.36992673928381" y="103.41239393087476" font-family="monospace" font-size="12px" fill="#4a9dcd" opacity="1">285</text>
+<text aria-label="40,60,188,201" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="50.55968849291499" y="200.1421545912682" font-family="monospace" font-size="12px" fill="#b7fbfa" opacity="1">157</text>
+<text aria-label="176,196,83,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.26898762949756" y="95.03047311597548" font-family="monospace" font-size="12px" fill="#0b7add" opacity="1">229</text>
+<text aria-label="210,229,186,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="219.92418141621994" y="198.7973725483467" font-family="monospace" font-size="12px" fill="#f63664" opacity="1">263</text>
+<text aria-label="113,132,246,259" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.1247336702697" y="258.21310469655214" font-family="monospace" font-size="12px" fill="#dbdf51" opacity="1">253</text>
+<path  d="M46.0,40.25A5,5,0,1,1,36.0,40.25A5,5,0,1,1,46.0,40.25" fill="#0b7add" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M118.0,40.25A5,5,0,1,1,108.0,40.25A5,5,0,1,1,118.0,40.25" fill="#f63664" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M165.0,40.25A5,5,0,1,1,155.0,40.25A5,5,0,1,1,165.0,40.25" fill="#dbdf51" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M222.0,40.25A5,5,0,1,1,212.0,40.25A5,5,0,1,1,222.0,40.25" fill="#b7fbfa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,40.25A5,5,0,1,1,269.0,40.25A5,5,0,1,1,279.0,40.25" fill="#4a9dcd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="51,100,33,44" text-anchor="start" x="51.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Aluminium</text>
+<text aria-label="123,145,33,44" text-anchor="start" x="123.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="170,203,33,44" text-anchor="start" x="170.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Wooden</text>
+<text aria-label="227,260,33,44" text-anchor="start" x="227.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">pascal</text>
+<text aria-label="284,311,33,44" text-anchor="start" x="284.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">while</text>
+</svg>

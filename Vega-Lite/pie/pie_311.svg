@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="372" height="270" viewBox="0 0 372 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="16,367,0,26" text-anchor="end" x="367.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Berkshire connecting system</text>
+<path aria-label="till: 841; Northwest Island bewitched: elderly" role="graphics-symbol" aria-roledescription="arc mark"  d="M267.0,59.0A75,75,0,0,0,212.74932301339024,185.7867168924091L225.76948549017658,173.35790483823092A57,57,0,0,1,267.0,77.0Z" fill="#704f57" stroke="black" stroke-width="3"/>
+<path aria-label="till: 949; Northwest Island bewitched: Intelligent" role="graphics-symbol" aria-roledescription="arc mark"  d="M212.74932301339024,185.7867168924091A75,75,0,0,0,339.60998765326235,115.21730336205457L322.1835906164794,119.72515055516148A57,57,0,0,1,225.76948549017658,173.35790483823092Z" fill="#4dfae9" stroke="black" stroke-width="3"/>
+<path aria-label="till: 475; Northwest Island bewitched: Country" role="graphics-symbol" aria-roledescription="arc mark"  d="M339.60998765326235,115.21730336205457A75,75,0,0,0,267.0,59.0L267.0,77.0A57,57,0,0,1,322.1835906164794,119.72515055516148Z" fill="#fa441a" stroke="black" stroke-width="3"/>
+<text aria-label="176,191,92,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.25652465487028" y="101.59495392165252" font-family="avenir" font-size="9px" fill="#704f57" opacity="1">841</text>
+<text aria-label="303,318,206,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="310.7510949474665" y="215.6501220017984" font-family="avenir" font-size="9px" fill="#4dfae9" opacity="1">949</text>
+<text aria-label="314,329,56,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="322.0974988683783" y="65.83634622611727" font-family="avenir" font-size="9px" fill="#fa441a" opacity="1">475</text>
+<path  d="M178.0,258.25A5,5,0,1,1,168.0,258.25A5,5,0,1,1,178.0,258.25" fill="#fa441a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M244.0,258.25A5,5,0,1,1,234.0,258.25A5,5,0,1,1,244.0,258.25" fill="#4dfae9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M320.0,258.25A5,5,0,1,1,310.0,258.25A5,5,0,1,1,320.0,258.25" fill="#704f57" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="183,221,251,262" text-anchor="start" x="183.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Country</text>
+<text aria-label="249,309,251,262" text-anchor="start" x="249.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Intelligent</text>
+<text aria-label="325,363,251,262" text-anchor="start" x="325.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">elderly</text>
+</svg>

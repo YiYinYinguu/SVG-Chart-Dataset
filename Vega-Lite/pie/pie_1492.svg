@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="321" height="239" viewBox="0 0 321 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">wherever</text>
+<path aria-label="Northwest crystal Corporate: 462; Music Zirconium: UTF8" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.4581038170174,195.76720059348918A75,75,0,0,0,263.3148288010562,75.80801622622971L238.0802534404929,106.84374090557387A35,35,0,0,1,196.1471151146081,162.82469361029496Z" fill="#5ee13b" stroke="white" stroke-width="0"/>
+<path aria-label="Northwest crystal Corporate: 103; Music Zirconium: Austria" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.3148288010562,75.80801622622971A75,75,0,0,0,216.0,59.0L216.0,99.0A35,35,0,0,1,238.0802534404929,106.84374090557387Z" fill="#b5c98f" stroke="white" stroke-width="0"/>
+<path aria-label="Northwest crystal Corporate: 383; Music Zirconium: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M216.0,59.0A75,75,0,0,0,173.4581038170174,195.76720059348918L196.1471151146081,162.82469361029496A35,35,0,0,1,216.0,99.0Z" fill="#d3c2a0" stroke="white" stroke-width="0"/>
+<text aria-label="276,299,177,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="288.03245968270505" y="191.95669330175326" font-family="sans-serif" font-size="14px" fill="#5ee13b" opacity="1">462</text>
+<text aria-label="234,257,39,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="246.1269460154262" y="53.19217533868944" font-family="sans-serif" font-size="14px" fill="#b5c98f" opacity="1">103</text>
+<text aria-label="118,141,97,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.0614822559266" y="111.26853599311137" font-family="sans-serif" font-size="14px" fill="#d3c2a0" opacity="1">383</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#b5c98f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#5ee13b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#d3c2a0" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Austria</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">UTF8</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="5,95,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Music Zirconium</text>
+</svg>

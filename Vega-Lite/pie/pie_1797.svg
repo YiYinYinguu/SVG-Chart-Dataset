@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="325" height="239" viewBox="0 0 325 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="255,320,0,26" text-anchor="end" x="320.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">black</text>
+<path aria-label="fuchsia Northeast partnerships: 157; female bypassing: Officer" role="graphics-symbol" aria-roledescription="arc mark"  d="M101.834012948833,208.93314704449455A75,75,0,0,0,126.39222913156391,205.88443873873308L105.0,134.0Z" fill="#ee33b8" stroke="black" stroke-width="0"/>
+<path aria-label="fuchsia Northeast partnerships: 747; female bypassing: New" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.39222913156391,205.88443873873308A75,75,0,0,0,176.74750242693858,112.1528973203209L105.0,134.0Z" fill="#dda1e2" stroke="black" stroke-width="0"/>
+<path aria-label="fuchsia Northeast partnerships: 727; female bypassing: SMS" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.001504409988414,133.52496396451076A75,75,0,0,0,101.834012948833,208.93314704449455L105.0,134.0Z" fill="#0bb05c" stroke="black" stroke-width="0"/>
+<path aria-label="fuchsia Northeast partnerships: 455; female bypassing: black" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,43.533337306267335,91.02501451664128L105.0,134.0Z" fill="#aa99ec" stroke="black" stroke-width="0"/>
+<path aria-label="fuchsia Northeast partnerships: 286; female bypassing: Uranium" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.533337306267335,91.02501451664128A75,75,0,0,0,30.001504409988414,133.52496396451076L105.0,134.0Z" fill="#4ecbd7" stroke="black" stroke-width="0"/>
+<path aria-label="fuchsia Northeast partnerships: 604; female bypassing: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.74750242693858,112.1528973203209A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#cdf58c" stroke="black" stroke-width="0"/>
+<text aria-label="107,125,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="116.08767731197413" y="226.31440763855255" font-family="Balto" font-size="11px" fill="#ee33b8" opacity="1">157</text>
+<text aria-label="175,193,168,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.28316418084052" y="179.59319050592347" font-family="Balto" font-size="11px" fill="#dda1e2" opacity="1">747</text>
+<text aria-label="30,48,188,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="39.83414274395304" y="199.07584915314902" font-family="Balto" font-size="11px" fill="#0bb05c" opacity="1">727</text>
+<text aria-label="54,72,46,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="63.41453638711443" y="57.183653202483825" font-family="Balto" font-size="11px" fill="#aa99ec" opacity="1">455</text>
+<text aria-label="10,28,98,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.241999520439023" y="109.69495735678811" font-family="Balto" font-size="11px" fill="#4ecbd7" opacity="1">286</text>
+<text aria-label="149,167,53,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="158.57477443067148" y="64.68303418489774" font-family="Balto" font-size="11px" fill="#cdf58c" opacity="1">604</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#cdf58c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#dda1e2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#ee33b8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#0bb05c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#4ecbd7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#aa99ec" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="239,255,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">New</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Officer</text>
+<text aria-label="239,255,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">SMS</text>
+<text aria-label="239,277,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Uranium</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">black</text>
+<text aria-label="223,319,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">female bypassing</text>
+</svg>

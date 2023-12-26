@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="330" height="239" viewBox="0 0 330 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="7,293,0,26" text-anchor="middle" x="150.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">female despite Generic</text>
+<path aria-label="challenge: 180; Chief: Principal" role="graphics-symbol" aria-roledescription="arc mark"  d="M223.01161209851338,116.84469473380862A75,75,0,0,0,150.0,59.0L150.0,134.0Z" fill="#f9bf60" stroke="white" stroke-width="0"/>
+<path aria-label="challenge: 262; Chief: online" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.0,59.0A75,75,0,0,0,80.3410078104261,161.7961293552337L150.0,134.0Z" fill="#f63ca4" stroke="white" stroke-width="0"/>
+<path aria-label="challenge: 402; Chief: farad" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.3410078104261,161.7961293552337A75,75,0,0,0,223.01161209851338,116.84469473380862L150.0,134.0Z" fill="#eac7ae" stroke="white" stroke-width="0"/>
+<text aria-label="196,215,55,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="205.88929696843275" y="67.456492259214" font-family="Balto" font-size="12px" fill="#f9bf60" opacity="1">180</text>
+<text aria-label="65,85,75,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="75.49502711105373" y="87.51228847712167" font-family="Balto" font-size="12px" fill="#f63ca4" opacity="1">262</text>
+<text aria-label="167,186,211,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="177.045771435108" y="223.84012026715652" font-family="Balto" font-size="12px" fill="#eac7ae" opacity="1">402</text>
+<path  d="M279.0,56.0A5,5,0,1,1,269.0,56.0A5,5,0,1,1,279.0,56.0" fill="#f9bf60" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,72.0A5,5,0,1,1,269.0,72.0A5,5,0,1,1,279.0,72.0" fill="#eac7ae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,88.0A5,5,0,1,1,269.0,88.0A5,5,0,1,1,279.0,88.0" fill="#f63ca4" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="284,333,49,60" text-anchor="start" x="284.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Principal</text>
+<text aria-label="284,311,65,76" text-anchor="start" x="284.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">farad</text>
+<text aria-label="284,317,81,92" text-anchor="start" x="284.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">online</text>
+<text aria-label="268,298,32,44" text-anchor="start" x="268.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Chief</text>
+</svg>

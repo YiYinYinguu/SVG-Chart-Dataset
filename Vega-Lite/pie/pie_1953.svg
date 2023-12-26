@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="239" viewBox="0 0 309 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="71,305,0,26" text-anchor="middle" x="188.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">structure indexing</text>
+<path aria-label="parse Practical Factors: 540; sensor aggregate Helena: Marketing" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.09528365278996,188.1377910605491A75,75,0,0,0,249.0869110976571,177.51309334610605L188.0,134.0Z" fill="#ed8aca" stroke="black" stroke-width="0"/>
+<path aria-label="parse Practical Factors: 689; sensor aggregate Helena: Court" role="graphics-symbol" aria-roledescription="arc mark"  d="M249.0869110976571,177.51309334610605A75,75,0,0,0,188.0,59.0L188.0,134.0Z" fill="#f31745" stroke="black" stroke-width="0"/>
+<path aria-label="parse Practical Factors: 700; sensor aggregate Helena: Specialist" role="graphics-symbol" aria-roledescription="arc mark"  d="M188.0,59.0A75,75,0,0,0,128.47130290603616,179.6216420385665L188.0,134.0Z" fill="#5b8bc0" stroke="black" stroke-width="0"/>
+<path aria-label="parse Practical Factors: 48; sensor aggregate Helena: Refined" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.47130290603616,179.6216420385665A75,75,0,0,0,136.09528365278996,188.1377910605491L188.0,134.0Z" fill="#b3552c" stroke="black" stroke-width="0"/>
+<text aria-label="188,204,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.425608862571" y="226.60473824131714" font-family="Balto" font-size="10px" fill="#ed8aca" opacity="1">540</text>
+<text aria-label="259,276,85,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="267.9981689833569" y="95.76539124339514" font-family="Balto" font-size="10px" fill="#f31745" opacity="1">689</text>
+<text aria-label="99,115,87,98" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.29331706678441" y="97.16996949640375" font-family="Balto" font-size="10px" fill="#5b8bc0" opacity="1">700</text>
+<text aria-label="115,126,187,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.94498562289445" y="197.03020112315272" font-family="Balto" font-size="10px" fill="#b3552c" opacity="1">48</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#f31745" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ed8aca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#b3552c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#5b8bc0" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Court</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Marketing</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Refined</text>
+<text aria-label="21,76,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Specialist</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="808" height="419" viewBox="0 0 808 419" style="background-color: rgb(255, 255, 255);">
+<line x1="111.5" y1="43.5" x2="111.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="234.5" y1="43.5" x2="234.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="358.5" y1="43.5" x2="358.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="481.5" y1="43.5" x2="481.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="605.5" y1="43.5" x2="605.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="728.5" y1="43.5" x2="728.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="97,117,250,370" text-anchor="end" x="111.12903225806456" y="250.5" transform="rotate(270.0, 117.12903225806456, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">bibliography</text>
+<text aria-label="220,240,250,290" text-anchor="end" x="234.67741935483878" y="250.5" transform="rotate(270.0, 240.67741935483878, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">coat</text>
+<text aria-label="344,364,250,300" text-anchor="end" x="358.225806451613" y="250.5" transform="rotate(270.0, 364.225806451613, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">fluke</text>
+<text aria-label="467,487,250,330" text-anchor="end" x="481.77419354838713" y="250.5" transform="rotate(270.0, 487.77419354838713, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">landform</text>
+<text aria-label="591,611,250,330" text-anchor="end" x="605.3225806451613" y="250.5" transform="rotate(270.0, 611.3225806451613, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">linguist</text>
+<text aria-label="714,734,250,350" text-anchor="end" x="728.8709677419355" y="250.5" transform="rotate(270.0, 734.8709677419355, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">permission</text>
+<line aria-label="111,111,243,248" x1="111.5" y1="243.5" x2="111.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="234,234,243,248" x1="234.5" y1="243.5" x2="234.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="358,358,243,248" x1="358.5" y1="243.5" x2="358.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="481,481,243,248" x1="481.5" y1="243.5" x2="481.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="605,605,243,248" x1="605.5" y1="243.5" x2="605.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="728,728,243,248" x1="728.5" y1="243.5" x2="728.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,803,243,243" x1="37.5" y1="243.5" x2="803.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="517,803,0,26" text-anchor="end" x="803.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">pillow instrumentation</text>
+<text aria-label="25,35,230,250" text-anchor="end" x="35.5" y="249.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="5,35,197,217" text-anchor="end" x="35.5" y="216.16666666666669" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="5,35,163,183" text-anchor="end" x="35.5" y="182.83333333333334" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="5,35,130,150" text-anchor="end" x="35.5" y="149.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="5,35,97,117" text-anchor="end" x="35.5" y="116.16666666666667" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="5,35,63,83" text-anchor="end" x="35.5" y="82.83333333333333" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="5,35,30,50" text-anchor="end" x="35.5" y="49.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="37,37,43,243" x1="37.5" y1="243.5" x2="37.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="connect: linguist; Park: 315; global Administrator East: Hybrid deposit Borders" role="graphics-symbol" aria-roledescription="bar" d="M555.9032258064517,138.0h98.83870967741936v105h-98.83870967741936Z" fill="#d0fa33"/>
+<path aria-label="connect: landform; Park: 243; global Administrator East: Hybrid deposit Borders" role="graphics-symbol" aria-roledescription="bar" d="M432.35483870967744,162.0h98.83870967741936v81h-98.83870967741936Z" fill="#d0fa33"/>
+<path aria-label="connect: permission; Park: 127; global Administrator East: Hybrid deposit Borders" role="graphics-symbol" aria-roledescription="bar" d="M679.4516129032259,200.66666666666666h98.83870967741936v42.33333333333334h-98.83870967741936Z" fill="#d0fa33"/>
+<path aria-label="connect: coat; Park: 290; global Administrator East: Hybrid deposit Borders" role="graphics-symbol" aria-roledescription="bar" d="M185.25806451612908,146.33333333333331h98.83870967741936v96.66666666666669h-98.83870967741936Z" fill="#d0fa33"/>
+<path aria-label="connect: fluke; Park: 87; global Administrator East: Hybrid deposit Borders" role="graphics-symbol" aria-roledescription="bar" d="M308.8064516129033,214.0h98.83870967741936v29h-98.83870967741936Z" fill="#d0fa33"/>
+<path aria-label="connect: bibliography; Park: 568; global Administrator East: Hybrid deposit Borders" role="graphics-symbol" aria-roledescription="bar" d="M61.709677419354875,53.66666666666667h98.83870967741936v189.33333333333334h-98.83870967741936Z" fill="#d0fa33"/>
+<text aria-label="592,618,115,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="605.3225806451613" y="131.51" font-family="monospace" font-size="16.41428571428571px" fill="#000" opacity="1">315</text>
+<text aria-label="468,494,139,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="481.77419354838713" y="155.51" font-family="monospace" font-size="16.41428571428571px" fill="#000" opacity="1">243</text>
+<text aria-label="715,741,177,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="728.8709677419355" y="194.17666666666665" font-family="monospace" font-size="16.41428571428571px" fill="#000" opacity="1">127</text>
+<text aria-label="221,247,123,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="234.67741935483878" y="139.8433333333333" font-family="monospace" font-size="16.41428571428571px" fill="#000" opacity="1">290</text>
+<text aria-label="349,366,191,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="358.225806451613" y="207.51" font-family="monospace" font-size="16.41428571428571px" fill="#000" opacity="1">87</text>
+<text aria-label="98,124,30,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.12903225806456" y="47.17666666666667" font-family="monospace" font-size="16.41428571428571px" fill="#000" opacity="1">568</text>
+<path  d="M38.0,404.0h10v10h-10Z" fill="#d0fa33" stroke-width="1.5" opacity="1"/>
+<text aria-label="53,174,402,413" text-anchor="start" x="53.0" y="412.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hybrid deposit Borders</text>
+<text aria-label="37,187,385,397" text-anchor="start" x="37.0" y="396.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">global Administrator East</text>
+</svg>

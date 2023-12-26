@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="301" height="239" viewBox="0 0 301 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,239,0,26" text-anchor="middle" x="122.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle Polygender</text>
+<path aria-label="non Rustic Northwest: 180; Missouri: tesla" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.99999999999999,59.0A75,75,0,0,0,75.23826486059497,75.36263881489776L122.0,134.0Z" fill="#f305f0" stroke="white" stroke-width="0"/>
+<path aria-label="non Rustic Northwest: 136; Missouri: protocol" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.23826486059497,75.36263881489776A75,75,0,0,0,52.60217746445025,105.55809030103036L122.0,134.0Z" fill="#91bedd" stroke="white" stroke-width="0"/>
+<path aria-label="non Rustic Northwest: 367; Missouri: XML" role="graphics-symbol" aria-roledescription="arc mark"  d="M60.5100151621438,176.94160878029857A75,75,0,0,0,151.99190182398056,202.7421691902482L122.0,134.0Z" fill="#ad74a3" stroke="white" stroke-width="0"/>
+<path aria-label="non Rustic Northwest: 404; Missouri: National" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.99190182398056,202.7421691902482A75,75,0,0,0,192.41276994169897,108.17284705707237L122.0,134.0Z" fill="#e2cedf" stroke="white" stroke-width="0"/>
+<path aria-label="non Rustic Northwest: 326; Missouri: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M192.41276994169897,108.17284705707237A75,75,0,0,0,122.0,59.0L122.0,134.0Z" fill="#fdeea2" stroke="white" stroke-width="0"/>
+<path aria-label="non Rustic Northwest: 267; Missouri: pariatur" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.60217746445025,105.55809030103036A75,75,0,0,0,60.5100151621438,176.94160878029857L122.0,134.0Z" fill="#ceaedd" stroke="white" stroke-width="0"/>
+<path  d="M251.0,40.0A5,5,0,1,1,241.0,40.0A5,5,0,1,1,251.0,40.0" fill="#fdeea2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,56.0A5,5,0,1,1,241.0,56.0A5,5,0,1,1,251.0,56.0" fill="#e2cedf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,72.0A5,5,0,1,1,241.0,72.0A5,5,0,1,1,251.0,72.0" fill="#ad74a3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,88.0A5,5,0,1,1,241.0,88.0A5,5,0,1,1,251.0,88.0" fill="#ceaedd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,104.0A5,5,0,1,1,241.0,104.0A5,5,0,1,1,251.0,104.0" fill="#91bedd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,120.0A5,5,0,1,1,241.0,120.0A5,5,0,1,1,251.0,120.0" fill="#f305f0" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="256,278,33,44" text-anchor="start" x="256.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="256,300,49,60" text-anchor="start" x="256.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">National</text>
+<text aria-label="256,272,65,76" text-anchor="start" x="256.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">XML</text>
+<text aria-label="256,300,81,92" text-anchor="start" x="256.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">pariatur</text>
+<text aria-label="256,300,97,108" text-anchor="start" x="256.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">protocol</text>
+<text aria-label="256,283,113,124" text-anchor="start" x="256.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">tesla</text>
+</svg>

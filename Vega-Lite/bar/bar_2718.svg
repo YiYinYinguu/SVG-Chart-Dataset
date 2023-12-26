@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="384" height="325" viewBox="0 0 384 325" style="background-color: rgb(255, 255, 255);">
+<line x1="45.5" y1="240.5" x2="379.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="209.5" x2="379.5" y2="209.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="178.5" x2="379.5" y2="178.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="148.5" x2="379.5" y2="148.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="117.5" x2="379.5" y2="117.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="86.5" x2="379.5" y2="86.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="55.5" x2="379.5" y2="55.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="57,70,247,280" text-anchor="end" x="66.78260869565219" y="247.5" transform="rotate(270.0, 70.78260869565219, 247.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">choir</text>
+<text aria-label="94,107,247,273" text-anchor="end" x="103.08695652173914" y="247.5" transform="rotate(270.0, 107.08695652173914, 247.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">font</text>
+<text aria-label="130,143,247,280" text-anchor="end" x="139.3913043478261" y="247.5" transform="rotate(270.0, 143.3913043478261, 247.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">grasp</text>
+<text aria-label="166,179,247,273" text-anchor="end" x="175.69565217391306" y="247.5" transform="rotate(270.0, 179.69565217391306, 247.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">lawn</text>
+<text aria-label="203,216,247,280" text-anchor="end" x="212.0" y="247.5" transform="rotate(270.0, 216.0, 247.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">paper</text>
+<text aria-label="239,252,247,286" text-anchor="end" x="248.30434782608694" y="247.5" transform="rotate(270.0, 252.30434782608694, 247.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">pepper</text>
+<text aria-label="275,288,247,273" text-anchor="end" x="284.6086956521739" y="247.5" transform="rotate(270.0, 288.6086956521739, 247.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">sort</text>
+<text aria-label="311,324,247,273" text-anchor="end" x="320.9130434782609" y="247.5" transform="rotate(270.0, 324.9130434782609, 247.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">spud</text>
+<text aria-label="348,361,247,280" text-anchor="end" x="357.21739130434776" y="247.5" transform="rotate(270.0, 361.21739130434776, 247.5)" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">whole</text>
+<line aria-label="66,66,240,245" x1="66.5" y1="240.5" x2="66.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="103,103,240,245" x1="103.5" y1="240.5" x2="103.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="139,139,240,245" x1="139.5" y1="240.5" x2="139.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="175,175,240,245" x1="175.5" y1="240.5" x2="175.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="212,212,240,245" x1="212.5" y1="240.5" x2="212.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="248,248,240,245" x1="248.5" y1="240.5" x2="248.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="284,284,240,245" x1="284.5" y1="240.5" x2="284.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="320,320,240,245" x1="320.5" y1="240.5" x2="320.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="357,357,240,245" x1="357.5" y1="240.5" x2="357.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="45,379,240,240" x1="45.5" y1="240.5" x2="379.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,174,0,26" text-anchor="start" x="5.798828125" y="25.75523076923077" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">North Borders</text>
+<text aria-label="37,43,232,245" text-anchor="end" x="43.5" y="244.5" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="24,43,201,214" text-anchor="end" x="43.5" y="213.73076923076923" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="24,43,170,183" text-anchor="end" x="43.5" y="182.96153846153845" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="24,43,140,153" text-anchor="end" x="43.5" y="152.19230769230768" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="24,43,109,122" text-anchor="end" x="43.5" y="121.42307692307692" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="24,43,78,91" text-anchor="end" x="43.5" y="90.65384615384615" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="24,43,47,60" text-anchor="end" x="43.5" y="59.88461538461537" font-family="Balto" font-size="12px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="3,15,128,152" text-anchor="middle" x="17.298828125" y="140.5" transform="rotate(-90.0, 15.298828125, 140.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Avon</text>
+<path aria-label="architectures Buckinghamshire structure: lawn; Avon: 239; Merced Licensed: Cab Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M161.17391304347825,166.46153846153845h14.521739130434781v73.53846153846155h-14.521739130434781Z" fill="#bb4bf8"/>
+<path aria-label="architectures Buckinghamshire structure: lawn; Avon: 207; Merced Licensed: Dollar" role="graphics-symbol" aria-roledescription="bar" d="M175.69565217391306,176.30769230769232h14.521739130434781v63.69230769230768h-14.521739130434781Z" fill="#c2d6bd"/>
+<path aria-label="architectures Buckinghamshire structure: sort; Avon: 29; Merced Licensed: Cab Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M270.0869565217391,231.07692307692307h14.521739130434781v8.923076923076934h-14.521739130434781Z" fill="#bb4bf8"/>
+<path aria-label="architectures Buckinghamshire structure: sort; Avon: 575; Merced Licensed: Dollar" role="graphics-symbol" aria-roledescription="bar" d="M284.6086956521739,63.07692307692308h14.521739130434781v176.9230769230769h-14.521739130434781Z" fill="#c2d6bd"/>
+<path aria-label="architectures Buckinghamshire structure: pepper; Avon: 159; Merced Licensed: Cab Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M233.78260869565216,191.07692307692307h14.521739130434781v48.923076923076934h-14.521739130434781Z" fill="#bb4bf8"/>
+<path aria-label="architectures Buckinghamshire structure: pepper; Avon: 426; Merced Licensed: Dollar" role="graphics-symbol" aria-roledescription="bar" d="M248.30434782608694,108.92307692307693h14.521739130434781v131.07692307692307h-14.521739130434781Z" fill="#c2d6bd"/>
+<path aria-label="architectures Buckinghamshire structure: spud; Avon: 593; Merced Licensed: Cab Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M306.3913043478261,57.53846153846155h14.521739130434781v182.46153846153845h-14.521739130434781Z" fill="#bb4bf8"/>
+<path aria-label="architectures Buckinghamshire structure: spud; Avon: 372; Merced Licensed: Dollar" role="graphics-symbol" aria-roledescription="bar" d="M320.9130434782609,125.53846153846155h14.521739130434781v114.46153846153845h-14.521739130434781Z" fill="#c2d6bd"/>
+<path aria-label="architectures Buckinghamshire structure: choir; Avon: 465; Merced Licensed: Cab Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M52.260869565217405,96.92307692307692h14.521739130434781v143.0769230769231h-14.521739130434781Z" fill="#bb4bf8"/>
+<path aria-label="architectures Buckinghamshire structure: choir; Avon: 79; Merced Licensed: Dollar" role="graphics-symbol" aria-roledescription="bar" d="M66.78260869565219,215.69230769230768h14.521739130434781v24.30769230769232h-14.521739130434781Z" fill="#c2d6bd"/>
+<path aria-label="architectures Buckinghamshire structure: grasp; Avon: 127; Merced Licensed: Cab Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M124.86956521739131,200.92307692307693h14.521739130434781v39.076923076923066h-14.521739130434781Z" fill="#bb4bf8"/>
+<path aria-label="architectures Buckinghamshire structure: grasp; Avon: 235; Merced Licensed: Dollar" role="graphics-symbol" aria-roledescription="bar" d="M139.3913043478261,167.69230769230768h14.521739130434781v72.30769230769232h-14.521739130434781Z" fill="#c2d6bd"/>
+<path aria-label="architectures Buckinghamshire structure: font; Avon: 183; Merced Licensed: Cab Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M88.56521739130436,183.6923076923077h14.521739130434781v56.30769230769229h-14.521739130434781Z" fill="#bb4bf8"/>
+<path aria-label="architectures Buckinghamshire structure: font; Avon: 468; Merced Licensed: Dollar" role="graphics-symbol" aria-roledescription="bar" d="M103.08695652173914,96.0h14.521739130434781v144h-14.521739130434781Z" fill="#c2d6bd"/>
+<path aria-label="architectures Buckinghamshire structure: whole; Avon: 628; Merced Licensed: Cab Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M342.695652173913,46.769230769230774h14.521739130434781v193.23076923076923h-14.521739130434781Z" fill="#bb4bf8"/>
+<path aria-label="architectures Buckinghamshire structure: whole; Avon: 385; Merced Licensed: Dollar" role="graphics-symbol" aria-roledescription="bar" d="M357.21739130434776,121.53846153846153h14.521739130434781v118.46153846153847h-14.521739130434781Z" fill="#c2d6bd"/>
+<path aria-label="architectures Buckinghamshire structure: paper; Avon: 80; Merced Licensed: Cab Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M197.47826086956522,215.3846153846154h14.521739130434781v24.615384615384613h-14.521739130434781Z" fill="#bb4bf8"/>
+<path aria-label="architectures Buckinghamshire structure: paper; Avon: 330; Merced Licensed: Dollar" role="graphics-symbol" aria-roledescription="bar" d="M212.0,138.46153846153845h14.521739130434781v101.53846153846153h-14.521739130434781Z" fill="#c2d6bd"/>
+<text aria-label="160,176,152,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.43478260869566" y="162.44753846153844" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">239</text>
+<text aria-label="174,191,162,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.95652173913044" y="172.2936923076923" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">207</text>
+<text aria-label="271,282,217,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="277.3478260869565" y="227.06292307692306" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">29</text>
+<text aria-label="283,300,49,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="291.8695652173913" y="59.062923076923084" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">575</text>
+<text aria-label="232,249,177,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="241.04347826086956" y="187.06292307692306" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">159</text>
+<text aria-label="247,263,94,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="255.56521739130432" y="104.90907692307694" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">426</text>
+<text aria-label="305,321,43,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="313.6521739130435" y="53.52446153846155" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">593</text>
+<text aria-label="319,336,111,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="328.1739130434783" y="121.52446153846155" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">372</text>
+<text aria-label="51,67,82,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="59.521739130434796" y="92.90907692307692" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">465</text>
+<text aria-label="68,79,201,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="74.04347826086958" y="211.67830769230767" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">79</text>
+<text aria-label="123,140,186,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="132.1304347826087" y="196.90907692307692" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">127</text>
+<text aria-label="138,154,153,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="146.6521739130435" y="163.67830769230767" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">235</text>
+<text aria-label="87,104,169,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="95.82608695652175" y="179.6783076923077" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">183</text>
+<text aria-label="102,118,81,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.34782608695653" y="91.986" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">468</text>
+<text aria-label="341,358,32,43" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="349.9565217391304" y="42.75523076923077" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">628</text>
+<text aria-label="356,372,107,118" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="364.4782608695652" y="117.52446153846154" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">385</text>
+<text aria-label="199,210,201,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="204.73913043478262" y="211.37061538461538" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">80</text>
+<text aria-label="210,227,124,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="219.26086956521738" y="134.44753846153847" font-family="Balto" font-size="10.02px" fill="#000" opacity="1">330</text>
+<path  d="M46.0,310.0h10v10h-10Z" fill="#bb4bf8" stroke-width="1.5" opacity="1"/>
+<path  d="M127.0,310.0h10v10h-10Z" fill="#c2d6bd" stroke-width="1.5" opacity="1"/>
+<text aria-label="61,121,308,319" text-anchor="start" x="61.0" y="318.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Cab Bicycle</text>
+<text aria-label="142,175,308,319" text-anchor="start" x="142.0" y="318.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Dollar</text>
+</svg>

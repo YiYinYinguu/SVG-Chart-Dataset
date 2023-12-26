@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="218" height="286" viewBox="0 0 218 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Creative fuchsia</text>
+<path aria-label="Trial modulo interactive: 274; Avon navigating: wireless" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,41.13943195916456,220.32973238533194L105.0,181.0Z" fill="#f06d91" stroke="black" stroke-width="4"/>
+<path aria-label="Trial modulo interactive: 50; Avon navigating: boo" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.3317823982273,111.55714503176371A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#dc7bd8" stroke="black" stroke-width="4"/>
+<path aria-label="Trial modulo interactive: 217; Avon navigating: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.13943195916456,220.32973238533194A75,75,0,0,0,151.12626335362395,240.13854774199422L105.0,181.0Z" fill="#abfa3f" stroke="black" stroke-width="4"/>
+<path aria-label="Trial modulo interactive: 270; Avon navigating: kelvin" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.12626335362395,240.13854774199422A75,75,0,0,0,133.3317823982273,111.55714503176371L105.0,181.0Z" fill="#2b7bcc" stroke="black" stroke-width="4"/>
+<text aria-label="18,34,130,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.42643225099215" y="140.11156813929128" font-family="monospace" font-size="10px" fill="#f06d91" opacity="1">274</text>
+<text aria-label="116,127,85,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.3229856466846" y="95.68287726445817" font-family="monospace" font-size="10px" fill="#dc7bd8" opacity="1">50</text>
+<text aria-label="80,97,262,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="89.0475048256911" y="272.5749281552836" font-family="monospace" font-size="10px" fill="#abfa3f" opacity="1">217</text>
+<text aria-label="185,202,161,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.15034476681225" y="171.66241401413902" font-family="monospace" font-size="10px" fill="#2b7bcc" opacity="1">270</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#dc7bd8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M58.0,56.25A5,5,0,1,1,48.0,56.25A5,5,0,1,1,58.0,56.25" fill="#2b7bcc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M115.0,56.25A5,5,0,1,1,105.0,56.25A5,5,0,1,1,115.0,56.25" fill="#abfa3f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M162.0,56.25A5,5,0,1,1,152.0,56.25A5,5,0,1,1,162.0,56.25" fill="#f06d91" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">boo</text>
+<text aria-label="63,96,49,60" text-anchor="start" x="63.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">kelvin</text>
+<text aria-label="120,142,49,60" text-anchor="start" x="120.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="167,211,49,60" text-anchor="start" x="167.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">wireless</text>
+<text aria-label="5,95,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Avon navigating</text>
+</svg>

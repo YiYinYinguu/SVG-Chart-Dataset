@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="395" height="270" viewBox="0 0 395 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="31,265,0,26" text-anchor="middle" x="148.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Lanthanum why Home</text>
+<path aria-label="without: 130; West: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.82976093228186,203.64556271904218A75,75,0,0,0,217.08185221272797,163.20098790895287L148.0,134.0Z" fill="#ace6fd" stroke="black" stroke-width="3"/>
+<path aria-label="without: 193; West: Electronic" role="graphics-symbol" aria-roledescription="arc mark"  d="M217.17033958266364,105.00924074780038A75,75,0,0,0,148.0,59.0L148.0,134.0Z" fill="#b2ed37" stroke="black" stroke-width="3"/>
+<path aria-label="without: 131; West: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M217.08185221272797,163.20098790895287A75,75,0,0,0,217.17033958266364,105.00924074780038L148.0,134.0Z" fill="#23ec2b" stroke="black" stroke-width="3"/>
+<path aria-label="without: 303; West: bus" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.43668189311828,142.08155881572134A75,75,0,0,0,175.82976093228186,203.64556271904218L148.0,134.0Z" fill="#661562" stroke="black" stroke-width="3"/>
+<path aria-label="without: 40; West: teal" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.0,59.0A75,75,0,0,0,129.9320992100666,61.20885382791995L148.0,134.0Z" fill="#97c61b" stroke="black" stroke-width="3"/>
+<path aria-label="without: 236; West: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.9320992100666,61.20885382791995A75,75,0,0,0,73.43668189311828,142.08155881572134L148.0,134.0Z" fill="#94ebee" stroke="black" stroke-width="3"/>
+<path  d="M59.0,258.25A5,5,0,1,1,49.0,258.25A5,5,0,1,1,59.0,258.25" fill="#b2ed37" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M133.0,258.25A5,5,0,1,1,123.0,258.25A5,5,0,1,1,133.0,258.25" fill="#23ec2b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M193.0,258.25A5,5,0,1,1,183.0,258.25A5,5,0,1,1,193.0,258.25" fill="#ace6fd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M271.0,258.25A5,5,0,1,1,261.0,258.25A5,5,0,1,1,271.0,258.25" fill="#661562" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M316.0,258.25A5,5,0,1,1,306.0,258.25A5,5,0,1,1,316.0,258.25" fill="#94ebee" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M367.0,258.25A5,5,0,1,1,357.0,258.25A5,5,0,1,1,367.0,258.25" fill="#97c61b" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="64,119,251,262" text-anchor="start" x="64.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Electronic</text>
+<text aria-label="138,171,251,262" text-anchor="start" x="138.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="198,247,251,262" text-anchor="start" x="198.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="276,292,251,262" text-anchor="start" x="276.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">bus</text>
+<text aria-label="321,343,251,262" text-anchor="start" x="321.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="372,394,251,262" text-anchor="start" x="372.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">teal</text>
+</svg>

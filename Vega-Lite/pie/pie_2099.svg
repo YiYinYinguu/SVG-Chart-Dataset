@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="290" height="239" viewBox="0 0 290 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Mouse Baby Coupe</text>
+<path aria-label="optimal Checking Indianapolis: 205; tomorrow: Loan" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.80182792838008,203.65671800939768A75,75,0,0,0,178.11959341363678,117.31092995327643L105.0,134.0Z" fill="#a9cc2c" stroke="white" stroke-width="0"/>
+<path aria-label="optimal Checking Indianapolis: 208; tomorrow: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.678767867404886,123.93250506367585L105.0,134.0Z" fill="#ab31ea" stroke="white" stroke-width="0"/>
+<path aria-label="optimal Checking Indianapolis: 302; tomorrow: Response" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.678767867404886,123.93250506367585A75,75,0,0,0,132.80182792838008,203.65671800939768L105.0,134.0Z" fill="#a1de73" stroke="white" stroke-width="0"/>
+<path aria-label="optimal Checking Indianapolis: 195; tomorrow: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.11959341363678,117.31092995327643A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#ac7f8a" stroke="white" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#ac7f8a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#a9cc2c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#a1de73" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#ab31ea" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Loan</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Response</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">payment</text>
+</svg>

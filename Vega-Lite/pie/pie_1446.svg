@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="291" height="239" viewBox="0 0 291 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="234,286,0,26" text-anchor="end" x="286.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">drat</text>
+<path aria-label="Cambridgeshire Producer: 166; Ports: Reichert" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.04531163068314,151.39578813781844A75,75,0,0,0,122.64660105215012,174.14158494323027L147.14324864531875,158.62017209851456A46,46,0,0,1,141.25445780015232,144.66941672452865Z" fill="#b834c0" stroke="white" stroke-width="0"/>
+<path aria-label="Cambridgeshire Producer: 574; Ports: Funk" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.30533235939507,195.66170087711077A75,75,0,0,0,224.42346171550838,198.4099184116613L209.56638985217847,173.50474995915226A46,46,0,0,1,159.81393718042898,171.81917653796125Z" fill="#d440ae" stroke="white" stroke-width="0"/>
+<path aria-label="Cambridgeshire Producer: 906; Ports: rudely" role="graphics-symbol" aria-roledescription="arc mark"  d="M186.0,59.0A75,75,0,0,0,113.04531163068314,151.39578813781844L141.25445780015232,144.66941672452865A46,46,0,0,1,186.0,88.0Z" fill="#0aa4be" stroke="white" stroke-width="0"/>
+<path aria-label="Cambridgeshire Producer: 742; Ports: Customer" role="graphics-symbol" aria-roledescription="arc mark"  d="M224.42346171550838,198.4099184116613A75,75,0,0,0,253.68799895649323,101.69930655131735L227.51530602664917,114.1889080181413A46,46,0,0,1,209.56638985217847,173.50474995915226Z" fill="#bafb0d" stroke="white" stroke-width="0"/>
+<path aria-label="Cambridgeshire Producer: 293; Ports: Brand" role="graphics-symbol" aria-roledescription="arc mark"  d="M227.33330427820633,71.41759067081861A75,75,0,0,0,186.0,59.0L186.0,88.0A46,46,0,0,1,211.35109329063323,95.61612227810208Z" fill="#fbb6f8" stroke="white" stroke-width="0"/>
+<path aria-label="Cambridgeshire Producer: 272; Ports: Chief" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.68799895649323,101.69930655131735A75,75,0,0,0,227.33330427820633,71.41759067081861L211.35109329063323,95.61612227810208A46,46,0,0,1,227.51530602664917,114.1889080181413Z" fill="#ba1b48" stroke="white" stroke-width="0"/>
+<path aria-label="Cambridgeshire Producer: 201; Ports: Luxurious" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.64660105215012,174.14158494323027A75,75,0,0,0,143.30533235939507,195.66170087711077L159.81393718042898,171.81917653796125A46,46,0,0,1,147.14324864531875,158.62017209851456Z" fill="#13b1bd" stroke="white" stroke-width="0"/>
+<text aria-label="95,110,162,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="103.08428533422705" y="171.99977516305103" font-family="avenir" font-size="9px" fill="#b834c0" opacity="1">166</text>
+<text aria-label="175,190,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.9526201612131" y="226.948393404875" font-family="avenir" font-size="9px" fill="#d440ae" opacity="1">574</text>
+<text aria-label="107,122,72,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.36450920789045" y="81.22700079287642" font-family="avenir" font-size="9px" fill="#0aa4be" opacity="1">906</text>
+<text aria-label="264,279,154,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="272.14250072783597" y="163.0666370741371" font-family="avenir" font-size="9px" fill="#bafb0d" opacity="1">742</text>
+<text aria-label="204,219,41,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="211.89497820474475" y="50.8057420486968" font-family="avenir" font-size="9px" fill="#fbb6f8" opacity="1">293</text>
+<text aria-label="246,261,68,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="253.88921619254006" y="77.91485529540816" font-family="avenir" font-size="9px" fill="#ba1b48" opacity="1">272</text>
+<text aria-label="113,128,190,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.07426693440789" y="199.3269539276185" font-family="avenir" font-size="9px" fill="#13b1bd" opacity="1">201</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fbb6f8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ba1b48" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#bafb0d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#d440ae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#13b1bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#b834c0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#0aa4be" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Brand</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Chief</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Customer</text>
+<text aria-label="21,43,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Funk</text>
+<text aria-label="21,70,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Luxurious</text>
+<text aria-label="21,65,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Reichert</text>
+<text aria-label="21,54,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">rudely</text>
+<text aria-label="5,35,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Ports</text>
+</svg>

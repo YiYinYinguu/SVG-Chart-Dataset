@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,196,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Refined toward</text>
+<path aria-label="Dodge Chevrolet virtual: 2; friendly: Junctions" role="graphics-symbol" aria-roledescription="arc mark"  d="M109.2816608147076,90.12231720553983A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#1432d0" stroke="black" stroke-width="0"/>
+<path aria-label="Dodge Chevrolet virtual: 131; friendly: Metal" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.20140902734216,224.39266844417065A75,75,0,1,0,109.2816608147076,90.12231720553983L105.0,165.0Z" fill="#538ba1" stroke="black" stroke-width="0"/>
+<path aria-label="Dodge Chevrolet virtual: 87; friendly: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,59.20140902734216,224.39266844417065L105.0,165.0Z" fill="#aa09ba" stroke="black" stroke-width="0"/>
+<text aria-label="104,111,66,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.57004457143266" y="79.03670264546297" font-family="sans-serif" font-size="13px" fill="#1432d0" opacity="1">2</text>
+<text aria-label="178,199,187,201" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.32547524997855" y="200.45177616391885" font-family="sans-serif" font-size="13px" fill="#538ba1" opacity="1">131</text>
+<text aria-label="12,26,126,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.810774765905904" y="139.96905265040795" font-family="sans-serif" font-size="13px" fill="#aa09ba" opacity="1">87</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#1432d0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,40.25A5,5,0,1,1,78.0,40.25A5,5,0,1,1,88.0,40.25" fill="#538ba1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M143.0,40.25A5,5,0,1,1,133.0,40.25A5,5,0,1,1,143.0,40.25" fill="#aa09ba" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Junctions</text>
+<text aria-label="93,120,33,44" text-anchor="start" x="93.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Metal</text>
+<text aria-label="148,197,33,44" text-anchor="start" x="148.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+</svg>

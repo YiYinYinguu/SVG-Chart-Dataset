@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="479" height="334" viewBox="0 0 479 334" style="background-color: rgb(255, 255, 255);">
+<line x1="56.5" y1="243.5" x2="474.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="193.5" x2="474.5" y2="193.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="143.5" x2="474.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="93.5" x2="474.5" y2="93.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="43.5" x2="474.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="64,84,250,330" text-anchor="end" x="78.39285714285715" y="250.5" transform="rotate(270.0, 84.39285714285715, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">asterisk</text>
+<text aria-label="101,121,250,320" text-anchor="end" x="115.71428571428572" y="250.5" transform="rotate(270.0, 121.71428571428572, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">cutover</text>
+<text aria-label="139,159,250,290" text-anchor="end" x="153.03571428571428" y="250.5" transform="rotate(270.0, 159.03571428571428, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">hake</text>
+<text aria-label="176,196,250,300" text-anchor="end" x="190.35714285714286" y="250.5" transform="rotate(270.0, 196.35714285714286, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">haven</text>
+<text aria-label="213,233,250,330" text-anchor="end" x="227.67857142857142" y="250.5" transform="rotate(270.0, 233.67857142857142, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">magazine</text>
+<text aria-label="251,271,250,310" text-anchor="end" x="265.0" y="250.5" transform="rotate(270.0, 271.0, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">piracy</text>
+<text aria-label="288,308,250,330" text-anchor="end" x="302.32142857142856" y="250.5" transform="rotate(270.0, 308.32142857142856, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">railroad</text>
+<text aria-label="325,345,250,300" text-anchor="end" x="339.64285714285717" y="250.5" transform="rotate(270.0, 345.64285714285717, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">ranch</text>
+<text aria-label="362,382,250,310" text-anchor="end" x="376.9642857142857" y="250.5" transform="rotate(270.0, 382.9642857142857, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">savior</text>
+<text aria-label="400,420,250,330" text-anchor="end" x="414.2857142857143" y="250.5" transform="rotate(270.0, 420.2857142857143, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">screamer</text>
+<text aria-label="437,457,250,330" text-anchor="end" x="451.60714285714283" y="250.5" transform="rotate(270.0, 457.60714285714283, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">vaulting</text>
+<line aria-label="78,78,243,248" x1="78.5" y1="243.5" x2="78.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="115,115,243,248" x1="115.5" y1="243.5" x2="115.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="153,153,243,248" x1="153.5" y1="243.5" x2="153.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="190,190,243,248" x1="190.5" y1="243.5" x2="190.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="227,227,243,248" x1="227.5" y1="243.5" x2="227.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="264,264,243,248" x1="264.5" y1="243.5" x2="264.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="302,302,243,248" x1="302.5" y1="243.5" x2="302.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="339,339,243,248" x1="339.5" y1="243.5" x2="339.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="376,376,243,248" x1="376.5" y1="243.5" x2="376.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="414,414,243,248" x1="414.5" y1="243.5" x2="414.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="451,451,243,248" x1="451.5" y1="243.5" x2="451.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,474,243,243" x1="56.5" y1="243.5" x2="474.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,278,0,26" text-anchor="start" x="5.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Assurance SSD Neither</text>
+<text aria-label="39,49,230,250" text-anchor="end" x="49.5" y="249.5" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,49,180,200" text-anchor="end" x="49.5" y="199.5" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,49,130,150" text-anchor="end" x="49.5" y="149.5" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,49,80,100" text-anchor="end" x="49.5" y="99.5" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="19,49,30,50" text-anchor="end" x="49.5" y="49.5" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">400</text>
+<line aria-label="51,56,243,243" x1="56.5" y1="243.5" x2="51.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,193,193" x1="56.5" y1="193.5" x2="51.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,143,143" x1="56.5" y1="143.5" x2="51.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,93,93" x1="56.5" y1="93.5" x2="51.5" y2="93.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,43,43" x1="56.5" y1="43.5" x2="51.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,98,188" text-anchor="middle" x="17.0" y="143.5" transform="rotate(-90.0, 15.0, 143.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Washington Jeep</text>
+<line aria-label="56,56,43,243" x1="56.5" y1="243.5" x2="56.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Courts: savior; Washington Jeep: 108; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M376.9642857142857,189.0h14.928571428571429v54h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: savior; Washington Jeep: 363; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M362.0357142857143,61.50000000000001h14.928571428571429v181.5h-14.928571428571429Z" fill="#d1c4c6"/>
+<path aria-label="Courts: ranch; Washington Jeep: 208; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M339.64285714285717,139.0h14.928571428571429v104h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: ranch; Washington Jeep: 195; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M324.7142857142857,145.5h14.928571428571429v97.50000000000001h-14.928571428571429Z" fill="#d1c4c6"/>
+<path aria-label="Courts: railroad; Washington Jeep: 117; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M302.32142857142856,184.5h14.928571428571429v58.5h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: railroad; Washington Jeep: 5; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M287.3928571428571,240.5h14.928571428571429v2.5h-14.928571428571429Z" fill="#d1c4c6"/>
+<path aria-label="Courts: cutover; Washington Jeep: 300; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M115.71428571428572,93.0h14.928571428571429v150h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: cutover; Washington Jeep: 193; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M100.78571428571429,146.5h14.928571428571429v96.49999999999999h-14.928571428571429Z" fill="#d1c4c6"/>
+<path aria-label="Courts: screamer; Washington Jeep: 187; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M414.2857142857143,149.5h14.928571428571429v93.5h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: screamer; Washington Jeep: 165; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M399.35714285714283,160.5h14.928571428571429v82.5h-14.928571428571429Z" fill="#d1c4c6"/>
+<path aria-label="Courts: vaulting; Washington Jeep: 19; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M451.60714285714283,233.5h14.928571428571429v9.5h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: vaulting; Washington Jeep: 264; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M436.6785714285714,111.0h14.928571428571429v132h-14.928571428571429Z" fill="#d1c4c6"/>
+<path aria-label="Courts: haven; Washington Jeep: 115; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M190.35714285714286,185.5h14.928571428571429v57.5h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: haven; Washington Jeep: 245; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M175.42857142857144,120.49999999999999h14.928571428571429v122.50000000000001h-14.928571428571429Z" fill="#d1c4c6"/>
+<path aria-label="Courts: asterisk; Washington Jeep: 30; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M78.39285714285715,228.0h14.928571428571429v15h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: asterisk; Washington Jeep: 29; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M63.46428571428572,228.5h14.928571428571429v14.5h-14.928571428571429Z" fill="#d1c4c6"/>
+<path aria-label="Courts: piracy; Washington Jeep: 31; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M265.0,227.5h14.928571428571429v15.5h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: piracy; Washington Jeep: 144; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M250.07142857142856,171.0h14.928571428571429v72h-14.928571428571429Z" fill="#d1c4c6"/>
+<path aria-label="Courts: magazine; Washington Jeep: 39; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M227.67857142857142,223.5h14.928571428571429v19.5h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: magazine; Washington Jeep: 179; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M212.75,153.5h14.928571428571429v89.5h-14.928571428571429Z" fill="#d1c4c6"/>
+<path aria-label="Courts: hake; Washington Jeep: 205; mortally Uzbekistan Jewelery: systematic" role="graphics-symbol" aria-roledescription="bar" d="M153.03571428571428,140.5h14.928571428571429v102.49999999999999h-14.928571428571429Z" fill="#235279"/>
+<path aria-label="Courts: hake; Washington Jeep: 109; mortally Uzbekistan Jewelery: Kuwait auxiliary Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M138.10714285714286,188.5h14.928571428571429v54.5h-14.928571428571429Z" fill="#d1c4c6"/>
+<text aria-label="375,393,174,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="384.42857142857144" y="184.685" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">108</text>
+<text aria-label="360,378,46,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="369.5" y="57.18500000000001" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">363</text>
+<text aria-label="338,355,124,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="347.1071428571429" y="134.685" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">208</text>
+<text aria-label="323,340,130,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="332.17857142857144" y="141.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">195</text>
+<text aria-label="301,318,169,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="309.7857142857143" y="180.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">117</text>
+<text aria-label="291,297,225,237" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="294.8571428571429" y="236.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">5</text>
+<text aria-label="114,131,78,89" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.17857142857143" y="88.685" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">300</text>
+<text aria-label="99,116,131,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.25" y="142.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">193</text>
+<text aria-label="413,430,134,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="421.75" y="145.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">187</text>
+<text aria-label="398,415,145,157" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="406.82142857142856" y="156.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">165</text>
+<text aria-label="453,464,218,230" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="459.07142857142856" y="229.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">19</text>
+<text aria-label="435,452,96,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="444.1428571428571" y="106.685" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">264</text>
+<text aria-label="189,206,170,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="197.82142857142858" y="181.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">115</text>
+<text aria-label="174,191,105,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.89285714285714" y="116.18499999999999" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">245</text>
+<text aria-label="80,91,213,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="85.85714285714286" y="223.685" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">30</text>
+<text aria-label="65,76,213,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="70.92857142857144" y="224.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">29</text>
+<text aria-label="266,278,212,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="272.46428571428567" y="223.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">31</text>
+<text aria-label="248,266,156,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="257.5357142857143" y="166.685" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">144</text>
+<text aria-label="229,240,208,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="235.14285714285714" y="219.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">39</text>
+<text aria-label="211,228,138,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="220.21428571428572" y="149.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">179</text>
+<text aria-label="151,169,125,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.5" y="136.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">205</text>
+<text aria-label="136,154,173,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.57142857142856" y="184.185" font-family="monospace" font-size="10.449999999999998px" fill="#000" opacity="1">109</text>
+</svg>

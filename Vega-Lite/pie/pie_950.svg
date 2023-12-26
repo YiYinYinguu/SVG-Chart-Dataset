@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="145,223,0,26" text-anchor="middle" x="184.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Future</text>
+<path aria-label="as uniform: 27; North: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.63736118510224,87.238264860595A75,75,0,0,0,184.0,59.0L184.0,134.0Z" fill="#1371c3" stroke="black" stroke-width="0"/>
+<path aria-label="as uniform: 9; North: Land" role="graphics-symbol" aria-roledescription="arc mark"  d="M220.95888984061133,199.26132439469455A75,75,0,0,0,238.55302311797865,185.46812284015502L184.0,134.0Z" fill="#2abb76" stroke="black" stroke-width="0"/>
+<path aria-label="as uniform: 30; North: Tactics" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.38536341324019,91.2374397599779A75,75,0,0,0,114.6495499784919,162.55722468683376L184.0,134.0Z" fill="#dbc8cf" stroke="black" stroke-width="0"/>
+<path aria-label="as uniform: 9; North: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M257.63390706317244,148.24948176643923A75,75,0,0,0,258.5626676566834,125.9124421535931L184.0,134.0Z" fill="#466d8b" stroke="black" stroke-width="0"/>
+<path aria-label="as uniform: 17; North: Japan" role="graphics-symbol" aria-roledescription="arc mark"  d="M238.55302311797865,185.46812284015502A75,75,0,0,0,257.63390706317244,148.24948176643923L184.0,134.0Z" fill="#ec1cd2" stroke="black" stroke-width="0"/>
+<path aria-label="as uniform: 31; North: Shirt" role="graphics-symbol" aria-roledescription="arc mark"  d="M114.6495499784919,162.55722468683376A75,75,0,0,0,172.8218300367869,208.16231196688466L184.0,134.0Z" fill="#3dc49e" stroke="black" stroke-width="0"/>
+<path aria-label="as uniform: 29; North: watery" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.0,59.0A75,75,0,0,0,122.38536341324019,91.2374397599779L184.0,134.0Z" fill="#2b8442" stroke="black" stroke-width="0"/>
+<path aria-label="as uniform: 17; North: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M258.5626676566834,125.9124421535931A75,75,0,0,0,242.63736118510224,87.238264860595L184.0,134.0Z" fill="#bbec8b" stroke="black" stroke-width="0"/>
+<path aria-label="as uniform: 20; North: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.8218300367869,208.16231196688466A75,75,0,0,0,220.95888984061133,199.26132439469455L184.0,134.0Z" fill="#a7fced" stroke="black" stroke-width="0"/>
+<text aria-label="218,228,46,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="223.04953652058023" y="55.91280188878228" font-family="monospace" font-size="9px" fill="#1371c3" opacity="1">27</text>
+<text aria-label="237,242,198,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="239.52734231067873" y="207.828767149462" font-family="monospace" font-size="9px" fill="#2abb76" opacity="1">9</text>
+<text aria-label="89,99,118,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.5247988119799" y="127.2949305843117" font-family="monospace" font-size="9px" fill="#dbc8cf" opacity="1">30</text>
+<text aria-label="271,276,131,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="273.92230265652074" y="140.7389149427444" font-family="monospace" font-size="9px" fill="#466d8b" opacity="1">9</text>
+<text aria-label="259,269,169,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="264.08846279303214" y="178.05895916178468" font-family="monospace" font-size="9px" fill="#ec1cd2" opacity="1">17</text>
+<text aria-label="123,133,198,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.4726576893213" y="207.828767149462" font-family="monospace" font-size="9px" fill="#3dc49e" opacity="1">31</text>
+<text aria-label="137,147,48,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.27684399474546" y="57.25554406128792" font-family="monospace" font-size="9px" fill="#2b8442" opacity="1">29</text>
+<text aria-label="262,272,93,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="267.2205400258097" y="102.73133037579953" font-family="monospace" font-size="9px" fill="#bbec8b" opacity="1">17</text>
+<text aria-label="195,205,216,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="200.3644222316762" y="225.49974963254652" font-family="monospace" font-size="9px" fill="#a7fced" opacity="1">20</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#1371c3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#bbec8b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#466d8b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#ec1cd2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#2abb76" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#a7fced" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#3dc49e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#dbc8cf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,184.0A5,5,0,1,1,6.0,184.0A5,5,0,1,1,16.0,184.0" fill="#2b8442" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Japan</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Land</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="21,48,145,156" text-anchor="start" x="21.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Shirt</text>
+<text aria-label="21,59,161,172" text-anchor="start" x="21.0" y="171.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Tactics</text>
+<text aria-label="21,54,177,188" text-anchor="start" x="21.0" y="187.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">watery</text>
+<text aria-label="5,35,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">North</text>
+</svg>

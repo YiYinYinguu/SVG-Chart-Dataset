@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="297" height="239" viewBox="0 0 297 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="27,183,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">unless South</text>
+<path aria-label="panel: 182; Cayman drive: Architect" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.77240595073138,128.1615662769A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#d9eb45" stroke="white" stroke-width="0"/>
+<path aria-label="panel: 476; Cayman drive: interpret" role="graphics-symbol" aria-roledescription="arc mark"  d="M103.76966642063087,59.01009215045349A75,75,0,1,0,157.70575100508404,187.35825907008288L105.0,134.0Z" fill="#b91cca" stroke="white" stroke-width="0"/>
+<path aria-label="panel: 106; Cayman drive: Money" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.70575100508404,187.35825907008288A75,75,0,0,0,179.77240595073138,128.1615662769L105.0,134.0Z" fill="#b110e3" stroke="white" stroke-width="0"/>
+<path aria-label="panel: 2; Cayman drive: tattered" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,103.76966642063087,59.01009215045349L105.0,134.0Z" fill="#b7cc0f" stroke="white" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#d9eb45" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#b110e3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#b91cca" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#b7cc0f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Architect</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Money</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">interpret</text>
+<text aria-label="239,283,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">tattered</text>
+<text aria-label="223,295,32,44" text-anchor="start" x="223.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Cayman drive</text>
+</svg>

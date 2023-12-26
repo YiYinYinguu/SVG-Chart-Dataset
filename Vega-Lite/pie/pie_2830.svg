@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="239" viewBox="0 0 308 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="85,124,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">gah</text>
+<path aria-label="Land newton: 3; at: Vermont" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.257349669994554,193.4357631463318A75,75,0,0,0,72.45871956618315,201.57266509268143L84.17358052235721,177.2465056593161A48,48,0,0,1,75.72470378879652,172.03888841365233Z" fill="#ecb85e" stroke="black" stroke-width="1"/>
+<path aria-label="Land newton: 21; at: override" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.48392326898744,95.75505467073982A75,75,0,0,0,59.257349669994554,193.4357631463318L75.72470378879652,172.03888841365233A48,48,0,0,1,63.70971089215196,109.52323498927349Z" fill="#2da61c" stroke="black" stroke-width="1"/>
+<path aria-label="Land newton: 15; at: Usability" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.45871956618315,201.57266509268143A75,75,0,0,0,146.53311673203999,196.44998170154048L131.5811947085056,173.9679882889859A48,48,0,0,1,84.17358052235721,177.2465056593161Z" fill="#42d6ee" stroke="black" stroke-width="1"/>
+<path aria-label="Land newton: 17; at: Polygender" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.1664634646358,104.99999427939359A75,75,0,0,0,105.0,59.0L105.0,86.0A48,48,0,0,1,149.2665366173669,115.4399963388119Z" fill="#b79fde" stroke="black" stroke-width="1"/>
+<path aria-label="Land newton: 15; at: revolutionary" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,40.48392326898744,95.75505467073982L63.70971089215196,109.52323498927349A48,48,0,0,1,104.99999999999999,86.0Z" fill="#03044c" stroke="black" stroke-width="1"/>
+<path aria-label="Land newton: 20; at: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.53311673203999,196.44998170154048A75,75,0,0,0,174.1664634646358,104.99999427939359L149.2665366173669,115.4399963388119A48,48,0,0,1,131.5811947085056,173.9679882889859Z" fill="#f7161a" stroke="black" stroke-width="1"/>
+<text aria-label="54,61,202,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="57.77659609808928" y="214.6155997425916" font-family="avenir" font-size="12px" fill="#ecb85e" opacity="1">3</text>
+<text aria-label="10,23,142,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.617519991191273" y="154.98638359076256" font-family="avenir" font-size="12px" fill="#2da61c" opacity="1">21</text>
+<text aria-label="104,117,215,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.20920299638925" y="227.7855545071123" font-family="avenir" font-size="12px" fill="#42d6ee" opacity="1">15</text>
+<text aria-label="148,161,51,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="154.839740078448" y="63.060021958151424" font-family="avenir" font-size="12px" fill="#b79fde" opacity="1">17</text>
+<text aria-label="53,66,47,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="60.44920929747766" y="59.80008281474943" font-family="avenir" font-size="12px" fill="#03044c" opacity="1">15</text>
+<text aria-label="184,197,152,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.1527655498254" y="164.0326907582911" font-family="avenir" font-size="12px" fill="#f7161a" opacity="1">20</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#b79fde" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#f7161a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#42d6ee" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#ecb85e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#2da61c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#03044c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,294,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Polygender</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Usability</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Vermont</text>
+<text aria-label="239,283,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">override</text>
+<text aria-label="239,310,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">revolutionary</text>
+<text aria-label="223,235,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">at</text>
+</svg>

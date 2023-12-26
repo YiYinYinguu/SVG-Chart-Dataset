@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="292" height="286" viewBox="0 0 292 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="118,287,0,26" text-anchor="end" x="287.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Analyst Pizza</text>
+<path aria-label="AGP Folk: 405; Northeast channels Northeast: CLI" role="graphics-symbol" aria-roledescription="arc mark"  d="M62.01078078102324,242.4567085918434A75,75,0,0,0,149.86776696063407,241.09894747802355L105.0,181.0Z" fill="#5a2b44" stroke="white" stroke-width="0"/>
+<path aria-label="AGP Folk: 809; Northeast channels Northeast: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.86776696063407,241.09894747802355A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#3a7cbc" stroke="white" stroke-width="0"/>
+<path aria-label="AGP Folk: 427; Northeast channels Northeast: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,32.352229463203074,162.3639747791301L105.0,181.0Z" fill="#acae30" stroke="white" stroke-width="0"/>
+<path aria-label="AGP Folk: 233; Northeast channels Northeast: Shoes" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.352229463203074,162.3639747791301A75,75,0,0,0,38.09838483057939,214.89946736635767L105.0,181.0Z" fill="#bb8afe" stroke="white" stroke-width="0"/>
+<path aria-label="AGP Folk: 159; Northeast channels Northeast: Cotton" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.09838483057939,214.89946736635767A75,75,0,0,0,62.01078078102324,242.4567085918434L105.0,181.0Z" fill="#97babb" stroke="white" stroke-width="0"/>
+<text aria-label="100,112,265,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.3907136547684" y="272.9892544447971" font-family="sans-serif" font-size="7px" fill="#5a2b44" opacity="1">405</text>
+<text aria-label="184,196,147,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.4127810331292" y="154.6335261939957" font-family="sans-serif" font-size="7px" fill="#3a7cbc" opacity="1">809</text>
+<text aria-label="43,55,104,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="49.830673032263434" y="111.89201618716099" font-family="sans-serif" font-size="7px" fill="#acae30" opacity="1">427</text>
+<text aria-label="9,21,185,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.533563546704755" y="192.7855377138144" font-family="sans-serif" font-size="7px" fill="#bb8afe" opacity="1">233</text>
+<text aria-label="31,43,234,242" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="37.02395326621584" y="241.98522756119866" font-family="sans-serif" font-size="7px" fill="#97babb" opacity="1">159</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#3a7cbc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,56.25A5,5,0,1,1,66.0,56.25A5,5,0,1,1,76.0,56.25" fill="#5a2b44" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M118.0,56.25A5,5,0,1,1,108.0,56.25A5,5,0,1,1,118.0,56.25" fill="#97babb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M178.0,56.25A5,5,0,1,1,168.0,56.25A5,5,0,1,1,178.0,56.25" fill="#bb8afe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.25A5,5,0,1,1,224.0,56.25A5,5,0,1,1,234.0,56.25" fill="#acae30" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="81,97,49,60" text-anchor="start" x="81.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">CLI</text>
+<text aria-label="123,156,49,60" text-anchor="start" x="123.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cotton</text>
+<text aria-label="183,210,49,60" text-anchor="start" x="183.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Shoes</text>
+<text aria-label="239,288,49,60" text-anchor="start" x="239.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="5,173,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northeast channels Northeast</text>
+</svg>

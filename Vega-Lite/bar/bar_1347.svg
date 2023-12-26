@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="355" height="348" viewBox="0 0 355 348" style="background-color: rgb(255, 255, 255);">
+<line x1="49.5" y1="279.5" x2="350.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="239.5" x2="350.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="199.5" x2="350.5" y2="199.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="159.5" x2="350.5" y2="159.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="119.5" x2="350.5" y2="119.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="79.5" x2="350.5" y2="79.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="44,63,286,334" text-anchor="end" x="58.406249999999986" y="286.5" transform="rotate(270.0, 63.406249999999986, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">angle</text>
+<text aria-label="63,82,286,334" text-anchor="end" x="77.21874999999999" y="286.5" transform="rotate(270.0, 82.21874999999999, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">award</text>
+<text aria-label="82,101,286,343" text-anchor="end" x="96.03124999999999" y="286.5" transform="rotate(270.0, 101.03124999999999, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">batter</text>
+<text aria-label="100,119,286,315" text-anchor="end" x="114.84374999999999" y="286.5" transform="rotate(270.0, 119.84374999999999, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">fly</text>
+<text aria-label="119,138,286,324" text-anchor="end" x="133.65625" y="286.5" transform="rotate(270.0, 138.65625, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">gene</text>
+<text aria-label="138,157,286,324" text-anchor="end" x="152.46875" y="286.5" transform="rotate(270.0, 157.46875, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">hurt</text>
+<text aria-label="157,176,286,334" text-anchor="end" x="171.28125" y="286.5" transform="rotate(270.0, 176.28125, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">ideal</text>
+<text aria-label="176,195,286,324" text-anchor="end" x="190.09374999999997" y="286.5" transform="rotate(270.0, 195.09374999999997, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">kiss</text>
+<text aria-label="194,213,286,324" text-anchor="end" x="208.90624999999997" y="286.5" transform="rotate(270.0, 213.90624999999997, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">leap</text>
+<text aria-label="213,232,286,334" text-anchor="end" x="227.71874999999997" y="286.5" transform="rotate(270.0, 232.71874999999997, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">maize</text>
+<text aria-label="232,251,286,343" text-anchor="end" x="246.53124999999997" y="286.5" transform="rotate(270.0, 251.53124999999997, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">plover</text>
+<text aria-label="251,270,286,334" text-anchor="end" x="265.34375" y="286.5" transform="rotate(270.0, 270.34375, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">pupil</text>
+<text aria-label="270,289,286,343" text-anchor="end" x="284.15625" y="286.5" transform="rotate(270.0, 289.15625, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">reform</text>
+<text aria-label="288,307,286,324" text-anchor="end" x="302.96875" y="286.5" transform="rotate(270.0, 307.96875, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">spot</text>
+<text aria-label="307,326,286,334" text-anchor="end" x="321.78124999999994" y="286.5" transform="rotate(270.0, 326.78124999999994, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">tower</text>
+<text aria-label="326,345,286,324" text-anchor="end" x="340.59374999999994" y="286.5" transform="rotate(270.0, 345.59374999999994, 286.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">vise</text>
+<line aria-label="58,58,279,284" x1="58.5" y1="279.5" x2="58.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="77,77,279,284" x1="77.5" y1="279.5" x2="77.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="96,96,279,284" x1="96.5" y1="279.5" x2="96.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="114,114,279,284" x1="114.5" y1="279.5" x2="114.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="133,133,279,284" x1="133.5" y1="279.5" x2="133.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="152,152,279,284" x1="152.5" y1="279.5" x2="152.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="171,171,279,284" x1="171.5" y1="279.5" x2="171.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="190,190,279,284" x1="190.5" y1="279.5" x2="190.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="208,208,279,284" x1="208.5" y1="279.5" x2="208.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="227,227,279,284" x1="227.5" y1="279.5" x2="227.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="246,246,279,284" x1="246.5" y1="279.5" x2="246.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="265,265,279,284" x1="265.5" y1="279.5" x2="265.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="284,284,279,284" x1="284.5" y1="279.5" x2="284.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="302,302,279,284" x1="302.5" y1="279.5" x2="302.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="321,321,279,284" x1="321.5" y1="279.5" x2="321.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="340,340,279,284" x1="340.5" y1="279.5" x2="340.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,350,279,279" x1="49.5" y1="279.5" x2="350.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="134,264,0,26" text-anchor="middle" x="199.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Technician</text>
+<text aria-label="38,47,266,285" text-anchor="end" x="47.5" y="284.5" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,47,226,245" text-anchor="end" x="47.5" y="244.5" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,47,186,205" text-anchor="end" x="47.5" y="204.5" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,47,146,165" text-anchor="end" x="47.5" y="164.5" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="19,47,106,125" text-anchor="end" x="47.5" y="124.5" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="19,47,66,85" text-anchor="end" x="47.5" y="84.5" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="2,14,119,239" text-anchor="middle" x="16.5" y="179.5" transform="rotate(-90.0, 14.5, 179.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">harum payment Diesel</text>
+<line aria-label="49,49,79,279" x1="49.5" y1="279.5" x2="49.5" y2="79.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Hybrid whiteboard duh: ideal; harum payment Diesel: 222; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M166.20187499999997,190.20000000000002h10.158750000000003v88.79999999999998h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: ideal; harum payment Diesel: 236; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M166.20187499999997,95.8h10.158750000000003v94.40000000000002h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: pupil; harum payment Diesel: 103; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M260.264375,237.8h10.158750000000003v41.19999999999999h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: pupil; harum payment Diesel: 181; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M260.264375,165.4h10.158750000000003v72.4h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: tower; harum payment Diesel: 11; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M316.701875,274.6h10.158750000000003v4.400000000000006h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: tower; harum payment Diesel: 201; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M316.701875,194.20000000000002h10.158750000000003v80.39999999999998h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: vise; harum payment Diesel: 223; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M335.514375,189.8h10.158750000000003v89.19999999999999h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: vise; harum payment Diesel: 83; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M335.514375,156.60000000000002h10.158750000000003v33.2h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: gene; harum payment Diesel: 205; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M128.57687499999997,197.0h10.158750000000003v81.99999999999999h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: gene; harum payment Diesel: 115; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M128.57687499999997,151.0h10.158750000000003v46.000000000000014h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: reform; harum payment Diesel: 76; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M279.076875,248.6h10.158750000000003v30.400000000000006h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: reform; harum payment Diesel: 109; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M279.076875,205.0h10.158750000000003v43.599999999999994h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: leap; harum payment Diesel: 207; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M203.82687499999997,196.20000000000002h10.158750000000003v82.79999999999998h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: leap; harum payment Diesel: 114; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M203.82687499999997,150.6h10.158750000000003v45.60000000000002h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: batter; harum payment Diesel: 120; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M90.95187499999997,231.0h10.158750000000003v48h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: batter; harum payment Diesel: 217; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M90.95187499999997,144.2h10.158750000000003v86.80000000000001h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: maize; harum payment Diesel: 70; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M222.63937499999997,251.0h10.158750000000003v28h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: maize; harum payment Diesel: 224; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M222.63937499999997,161.4h10.158750000000003v89.6h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: award; harum payment Diesel: 83; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M72.13937499999999,245.79999999999998h10.158750000000003v33.20000000000002h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: award; harum payment Diesel: 208; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M72.13937499999999,162.60000000000002h10.158750000000003v83.19999999999997h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: angle; harum payment Diesel: 169; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M53.32687499999998,211.39999999999998h10.158750000000003v67.60000000000002h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: angle; harum payment Diesel: 13; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M53.32687499999998,206.2h10.158750000000003v5.199999999999974h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: fly; harum payment Diesel: 72; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M109.76437499999997,250.2h10.158750000000003v28.80000000000001h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: fly; harum payment Diesel: 226; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M109.76437499999997,159.8h10.158750000000003v90.39999999999998h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: plover; harum payment Diesel: 191; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M241.45187499999997,202.6h10.158750000000003v76.4h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: plover; harum payment Diesel: 106; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M241.45187499999997,160.2h10.158750000000003v42.39999999999999h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: hurt; harum payment Diesel: 233; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M147.38937499999997,185.8h10.158750000000003v93.19999999999999h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: hurt; harum payment Diesel: 5; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M147.38937499999997,183.8h10.158750000000003v2h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: spot; harum payment Diesel: 37; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M297.889375,264.20000000000005h10.158750000000003v14.799999999999983h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: spot; harum payment Diesel: 178; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M297.889375,193.0h10.158750000000003v71.2h-10.158750000000003Z" fill="#5693c8"/>
+<path aria-label="Hybrid whiteboard duh: kiss; harum payment Diesel: 252; homogeneous: gravy ack" role="graphics-symbol" aria-roledescription="bar" d="M185.01437499999997,178.2h10.158750000000003v100.8h-10.158750000000003Z" fill="#df33d0"/>
+<path aria-label="Hybrid whiteboard duh: kiss; harum payment Diesel: 70; homogeneous: Digitized withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M185.01437499999997,150.2h10.158750000000003v28h-10.158750000000003Z" fill="#5693c8"/>
+<path  d="M50.0,51.0h10v10h-10Z" fill="#df33d0" stroke-width="1.5" opacity="1"/>
+<path  d="M121.0,51.0h10v10h-10Z" fill="#5693c8" stroke-width="1.5" opacity="1"/>
+<text aria-label="65,114,49,60" text-anchor="start" x="65.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">gravy ack</text>
+<text aria-label="136,246,49,60" text-anchor="start" x="136.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Digitized withdrawal</text>
+<text aria-label="49,115,32,44" text-anchor="start" x="49.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">homogeneous</text>
+</svg>

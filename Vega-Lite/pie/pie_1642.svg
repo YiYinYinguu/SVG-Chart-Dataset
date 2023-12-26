@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="239" viewBox="0 0 308 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,170,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">lest white</text>
+<path aria-label="channels Generic: 65; Northeast male: Georgia" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.37929271501957,195.18199868870457A75,75,0,0,0,176.01007385046387,158.1364747167367L105.0,134.0Z" fill="#3debcb" stroke="black" stroke-width="0"/>
+<path aria-label="channels Generic: 142; Northeast male: scalable" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.7088356802311,68.92797018936635A75,75,0,0,0,33.76062892160546,157.45105559148251L105.0,134.0Z" fill="#c5ff3a" stroke="black" stroke-width="0"/>
+<path aria-label="channels Generic: 80; Northeast male: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.2608929650423,80.20595696086423A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#13c051" stroke="black" stroke-width="0"/>
+<path aria-label="channels Generic: 52; Northeast male: Idaho" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.65379064124485,208.49907319918486A75,75,0,0,0,148.37929271501957,195.18199868870457L105.0,134.0Z" fill="#f2e4bd" stroke="black" stroke-width="0"/>
+<path aria-label="channels Generic: 117; Northeast male: Canadian" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.01007385046387,158.1364747167367A75,75,0,0,0,157.2608929650423,80.20595696086423L105.0,134.0Z" fill="#6f1ae6" stroke="black" stroke-width="0"/>
+<path aria-label="channels Generic: 54; Northeast male: within" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,67.7088356802311,68.92797018936635L105.0,134.0Z" fill="#5e1dfc" stroke="black" stroke-width="0"/>
+<path aria-label="channels Generic: 137; Northeast male: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.76062892160546,157.45105559148251A75,75,0,0,0,110.05547711458259,208.82942035819823L105.0,134.0Z" fill="#0e8ded" stroke="black" stroke-width="0"/>
+<path aria-label="channels Generic: 5; Northeast male: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.05547711458259,208.82942035819823A75,75,0,0,0,113.65379064124485,208.49907319918486L105.0,134.0Z" fill="#97ce1b" stroke="black" stroke-width="0"/>
+<text aria-label="173,181,182,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="177.14310286271075" y="189.80866760420977" font-family="serif" font-size="7px" fill="#3debcb" opacity="1">65</text>
+<text aria-label="14,26,96,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.96740540330765" y="103.77387635243807" font-family="serif" font-size="7px" fill="#c5ff3a" opacity="1">142</text>
+<text aria-label="134,142,45,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.83964650948158" y="52.604086886027005" font-family="serif" font-size="7px" fill="#13c051" opacity="1">80</text>
+<text aria-label="133,141,213,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.22612364756196" y="220.03259459669235" font-family="serif" font-size="7px" fill="#f2e4bd" opacity="1">52</text>
+<text aria-label="186,198,107,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.503159192329" y="114.94775234418118" font-family="serif" font-size="7px" fill="#6f1ae6" opacity="1">117</text>
+<text aria-label="77,85,42,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="81.84594225139398" y="49.029375017916436" font-family="serif" font-size="7px" fill="#5e1dfc" opacity="1">54</text>
+<text aria-label="48,60,203,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.7285776302945" y="210.65108232923802" font-family="serif" font-size="7px" fill="#0e8ded" opacity="1">137</text>
+<text aria-label="111,115,218,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="113.22794838296386" y="225.62310452895105" font-family="serif" font-size="7px" fill="#97ce1b" opacity="1">5</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#13c051" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#6f1ae6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#3debcb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#f2e4bd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#97ce1b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#0e8ded" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#c5ff3a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#5e1dfc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Canadian</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Georgia</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Idaho</text>
+<text aria-label="239,288,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="239,288,129,140" text-anchor="start" x="239.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="239,283,145,156" text-anchor="start" x="239.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">scalable</text>
+<text aria-label="239,272,161,172" text-anchor="start" x="239.0" y="171.0" font-family="serif" font-size="10px" fill="#000" opacity="1">within</text>
+<text aria-label="223,307,32,44" text-anchor="start" x="223.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northeast male</text>
+</svg>

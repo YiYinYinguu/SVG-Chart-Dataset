@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="239" viewBox="0 0 314 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Titanium National</text>
+<path aria-label="East quasi core: 46; female Account: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M87.20789173187987,61.14095194572269A75,75,0,0,0,62.23418642128692,72.38762146329069L72.49798168017807,87.17459231210091A57,57,0,0,1,91.4779977162287,78.62712347874924Z" fill="#8dbc3b" stroke="white" stroke-width="2"/>
+<path aria-label="East quasi core: 123; female Account: Rubber" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.08864406114805,204.3163043045546A75,75,0,0,0,177.96427666030814,151.3555274030498L160.4528502618342,147.19020082631783A57,57,0,0,1,124.8273694864725,187.44039127146152Z" fill="#eaf57d" stroke="white" stroke-width="2"/>
+<path aria-label="East quasi core: 30; female Account: bluetooth" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,87.20789173187987,61.14095194572269L91.4779977162287,78.62712347874924A57,57,0,0,1,104.99999999999999,77.0Z" fill="#9e92fe" stroke="white" stroke-width="2"/>
+<path aria-label="East quasi core: 76; female Account: Bespoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.76581357871308,72.38762146329066A75,75,0,0,0,105.0,59.0L105.0,77.0A57,57,0,0,1,137.50201831982193,87.17459231210091Z" fill="#6c5059" stroke="white" stroke-width="2"/>
+<path aria-label="East quasi core: 362; female Account: Soft" role="graphics-symbol" aria-roledescription="arc mark"  d="M62.23418642128692,72.38762146329069A75,75,0,0,0,131.08864406114805,204.3163043045546L124.8273694864725,187.44039127146152A57,57,0,0,1,72.49798168017807,87.17459231210091Z" fill="#68bf93" stroke="white" stroke-width="2"/>
+<path aria-label="East quasi core: 150; female Account: Representative" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.96427666030814,151.3555274030498A75,75,0,0,0,147.76581357871308,72.38762146329066L137.50201831982193,87.17459231210091A57,57,0,0,1,160.4528502618342,147.19020082631783Z" fill="#fcb3ad" stroke="white" stroke-width="2"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#6c5059" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#fcb3ad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#eaf57d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#68bf93" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#8dbc3b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#9e92fe" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bespoke</text>
+<text aria-label="239,316,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Representative</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Rubber</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Soft</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="239,288,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">bluetooth</text>
+</svg>

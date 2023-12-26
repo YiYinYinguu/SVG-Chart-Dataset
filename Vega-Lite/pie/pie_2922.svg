@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="283" height="239" viewBox="0 0 283 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">within</text>
+<path aria-label="concept incompetence: 395; Bicycle Account: violet" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.042099568031418,136.5126008101338L75.01683982721256,135.0050403240535A30,30,0,0,1,105.0,104.0Z" fill="#7bdfd9" stroke="black" stroke-width="0"/>
+<path aria-label="concept incompetence: 131; Bicycle Account: if" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.042099568031418,136.5126008101338A75,75,0,0,0,41.67867021033719,174.19215338432068L79.67146808413487,150.07686135372828A30,30,0,0,1,75.01683982721256,135.0050403240535Z" fill="#4e4e4b" stroke="black" stroke-width="0"/>
+<path aria-label="concept incompetence: 616; Bicycle Account: Modern" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.67867021033719,174.19215338432068A75,75,0,0,0,179.79406163349068,139.55412858742008L134.91762465339627,136.22165143496804A30,30,0,0,1,79.67146808413487,150.07686135372828Z" fill="#e6fdb2" stroke="black" stroke-width="0"/>
+<path aria-label="concept incompetence: 405; Bicycle Account: Bacon" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.79406163349068,139.55412858742008A75,75,0,0,0,105.0,59.0L105.0,104.0A30,30,0,0,1,134.91762465339627,136.22165143496804Z" fill="#192c50" stroke="black" stroke-width="0"/>
+<text aria-label="32,48,64,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="40.30316511801195" y="74.43547685586682" font-family="avenir" font-size="10px" fill="#7bdfd9" opacity="1">395</text>
+<text aria-label="10,27,153,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.00743108014491" y="163.55707232666984" font-family="avenir" font-size="10px" fill="#4e4e4b" opacity="1">131</text>
+<text aria-label="118,135,214,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="126.89314690958771" y="224.29656418436645" font-family="avenir" font-size="10px" fill="#e6fdb2" opacity="1">616</text>
+<text aria-label="162,179,65,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.95394562663165" y="75.76212727176657" font-family="avenir" font-size="10px" fill="#192c50" opacity="1">405</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#192c50" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#e6fdb2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#4e4e4b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#7bdfd9" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bacon</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Modern</text>
+<text aria-label="239,250,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">if</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">violet</text>
+</svg>

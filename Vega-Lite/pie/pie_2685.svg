@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="335" height="270" viewBox="0 0 335 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="9,308,0,26" text-anchor="middle" x="159.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Implementation Identity</text>
+<path aria-label="Outdoors: 50; deserunt on: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.0,90.0A75,75,0,0,0,86.05647986511576,182.44255916807327L123.98711033525557,173.37242840067518A36,36,0,0,1,159.0,129.0Z" fill="#fcc0bc" stroke="white" stroke-width="0"/>
+<path aria-label="Outdoors: 47; deserunt on: Club" role="graphics-symbol" aria-roledescription="arc mark"  d="M233.40179447059532,174.4537283415217A75,75,0,0,0,159.0,90.0L159.0,129.0A36,36,0,0,1,194.71286134588576,169.5377896039304Z" fill="#e44dad" stroke="white" stroke-width="0"/>
+<path aria-label="Outdoors: 68; deserunt on: Washington" role="graphics-symbol" aria-roledescription="arc mark"  d="M86.05647986511576,182.44255916807327A75,75,0,0,0,226.488506546813,197.71546246166758L191.39448314247022,180.70342198160043A36,36,0,0,1,123.98711033525557,173.37242840067518Z" fill="#eaaaa6" stroke="white" stroke-width="0"/>
+<path aria-label="Outdoors: 9; deserunt on: Personal" role="graphics-symbol" aria-roledescription="arc mark"  d="M226.488506546813,197.71546246166758A75,75,0,0,0,233.40179447059532,174.4537283415217L194.71286134588576,169.5377896039304A36,36,0,0,1,191.39448314247022,180.70342198160043Z" fill="#52d2ec" stroke="white" stroke-width="0"/>
+<text aria-label="83,93,103,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="88.34663351915947" y="112.24964749058496" font-family="sans-serif" font-size="9px" fill="#fcc0bc" opacity="1">50</text>
+<text aria-label="221,231,99,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="226.5314839940762" y="108.50631403621198" font-family="sans-serif" font-size="9px" fill="#e44dad" opacity="1">47</text>
+<text aria-label="144,154,248,258" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="149.26928834184525" y="257.47241614389236" font-family="sans-serif" font-size="9px" fill="#eaaaa6" opacity="1">68</text>
+<text aria-label="242,247,184,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="245.27066527476973" y="193.639272865053" font-family="sans-serif" font-size="9px" fill="#52d2ec" opacity="1">9</text>
+<path  d="M70.0,40.25A5,5,0,1,1,60.0,40.25A5,5,0,1,1,70.0,40.25" fill="#e44dad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M119.0,40.25A5,5,0,1,1,109.0,40.25A5,5,0,1,1,119.0,40.25" fill="#52d2ec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,40.25A5,5,0,1,1,177.0,40.25A5,5,0,1,1,187.0,40.25" fill="#eaaaa6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M272.0,40.25A5,5,0,1,1,262.0,40.25A5,5,0,1,1,272.0,40.25" fill="#fcc0bc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="75,97,33,44" text-anchor="start" x="75.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Club</text>
+<text aria-label="124,168,33,44" text-anchor="start" x="124.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Personal</text>
+<text aria-label="192,247,33,44" text-anchor="start" x="192.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Washington</text>
+<text aria-label="277,332,33,44" text-anchor="start" x="277.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+</svg>

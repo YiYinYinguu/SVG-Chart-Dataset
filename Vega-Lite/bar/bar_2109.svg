@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="944" height="312" viewBox="0 0 944 312" style="background-color: rgb(255, 255, 255);">
+<line x1="98.5" y1="40.5" x2="98.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="210.5" y1="40.5" x2="210.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="322.5" y1="40.5" x2="322.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="434.5" y1="40.5" x2="434.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="546.5" y1="40.5" x2="546.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="658.5" y1="40.5" x2="658.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="770.5" y1="40.5" x2="770.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="882.5" y1="40.5" x2="882.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="240.5" x2="939.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="211.5" x2="939.5" y2="211.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="183.5" x2="939.5" y2="183.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="154.5" x2="939.5" y2="154.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="126.5" x2="939.5" y2="126.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="97.5" x2="939.5" y2="97.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="69.5" x2="939.5" y2="69.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="40.5" x2="939.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="89,102,247,312" text-anchor="end" x="98.0625" y="247.5" transform="rotate(270.0, 102.0625, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">activation</text>
+<text aria-label="201,214,247,299" text-anchor="end" x="210.1875" y="247.5" transform="rotate(270.0, 214.1875, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">cenotaph</text>
+<text aria-label="313,326,247,273" text-anchor="end" x="322.3125" y="247.5" transform="rotate(270.0, 326.3125, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">clef</text>
+<text aria-label="425,438,247,280" text-anchor="end" x="434.4375" y="247.5" transform="rotate(270.0, 438.4375, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">exile</text>
+<text aria-label="537,550,247,280" text-anchor="end" x="546.5625" y="247.5" transform="rotate(270.0, 550.5625, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">guest</text>
+<text aria-label="649,662,247,286" text-anchor="end" x="658.6875" y="247.5" transform="rotate(270.0, 662.6875, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">influx</text>
+<text aria-label="761,774,247,299" text-anchor="end" x="770.8125" y="247.5" transform="rotate(270.0, 774.8125, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">kielbasa</text>
+<text aria-label="873,886,247,280" text-anchor="end" x="882.9375" y="247.5" transform="rotate(270.0, 886.9375, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">slate</text>
+<line aria-label="98,98,240,245" x1="98.5" y1="240.5" x2="98.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="210,210,240,245" x1="210.5" y1="240.5" x2="210.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="322,322,240,245" x1="322.5" y1="240.5" x2="322.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="434,434,240,245" x1="434.5" y1="240.5" x2="434.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="546,546,240,245" x1="546.5" y1="240.5" x2="546.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="658,658,240,245" x1="658.5" y1="240.5" x2="658.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="770,770,240,245" x1="770.5" y1="240.5" x2="770.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="882,882,240,245" x1="882.5" y1="240.5" x2="882.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,939,240,240" x1="42.5" y1="240.5" x2="939.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,343,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">maroon productize Handmade</text>
+<text aria-label="34,40,232,245" text-anchor="end" x="40.5" y="244.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="21,40,203,216" text-anchor="end" x="40.5" y="215.92857142857144" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="21,40,175,188" text-anchor="end" x="40.5" y="187.35714285714286" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="21,40,146,159" text-anchor="end" x="40.5" y="158.78571428571428" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="21,40,118,131" text-anchor="end" x="40.5" y="130.21428571428572" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="8,40,89,102" text-anchor="end" x="40.5" y="101.64285714285714" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="8,40,61,74" text-anchor="end" x="40.5" y="73.07142857142858" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">1,200</text>
+<text aria-label="8,40,32,45" text-anchor="end" x="40.5" y="44.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">1,400</text>
+<line aria-label="42,42,40,240" x1="42.5" y1="240.5" x2="42.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Domenico: exile; Avon Throughway: 281; which: convey killer East" role="graphics-symbol" aria-roledescription="bar" d="M394.0725,199.85714285714286h80.73000000000002v40.14285714285714h-80.73000000000002Z" fill="#5be09f"/>
+<path aria-label="Domenico: exile; Avon Throughway: 600; which: Integration East" role="graphics-symbol" aria-roledescription="bar" d="M394.0725,114.14285714285714h80.73000000000002v85.71428571428572h-80.73000000000002Z" fill="#dfbb49"/>
+<path aria-label="Domenico: influx; Avon Throughway: 633; which: convey killer East" role="graphics-symbol" aria-roledescription="bar" d="M618.3225,149.57142857142856h80.73000000000002v90.42857142857143h-80.73000000000002Z" fill="#5be09f"/>
+<path aria-label="Domenico: influx; Avon Throughway: 152; which: Integration East" role="graphics-symbol" aria-roledescription="bar" d="M618.3225,127.85714285714286h80.73000000000002v21.714285714285708h-80.73000000000002Z" fill="#dfbb49"/>
+<path aria-label="Domenico: slate; Avon Throughway: 442; which: convey killer East" role="graphics-symbol" aria-roledescription="bar" d="M842.5725,176.85714285714286h80.73000000000002v63.14285714285714h-80.73000000000002Z" fill="#5be09f"/>
+<path aria-label="Domenico: slate; Avon Throughway: 615; which: Integration East" role="graphics-symbol" aria-roledescription="bar" d="M842.5725,89.0h80.73000000000002v87.85714285714286h-80.73000000000002Z" fill="#dfbb49"/>
+<path aria-label="Domenico: cenotaph; Avon Throughway: 631; which: convey killer East" role="graphics-symbol" aria-roledescription="bar" d="M169.8225,149.85714285714283h80.73000000000002v90.14285714285715h-80.73000000000002Z" fill="#5be09f"/>
+<path aria-label="Domenico: cenotaph; Avon Throughway: 256; which: Integration East" role="graphics-symbol" aria-roledescription="bar" d="M169.8225,113.28571428571429h80.73000000000002v36.571428571428555h-80.73000000000002Z" fill="#dfbb49"/>
+<path aria-label="Domenico: kielbasa; Avon Throughway: 95; which: convey killer East" role="graphics-symbol" aria-roledescription="bar" d="M730.4475,226.42857142857144h80.73000000000002v13.571428571428555h-80.73000000000002Z" fill="#5be09f"/>
+<path aria-label="Domenico: kielbasa; Avon Throughway: 171; which: Integration East" role="graphics-symbol" aria-roledescription="bar" d="M730.4475,202.0h80.73000000000002v24.428571428571445h-80.73000000000002Z" fill="#dfbb49"/>
+<path aria-label="Domenico: guest; Avon Throughway: 50; which: convey killer East" role="graphics-symbol" aria-roledescription="bar" d="M506.1975,232.85714285714286h80.73000000000002v7.142857142857139h-80.73000000000002Z" fill="#5be09f"/>
+<path aria-label="Domenico: guest; Avon Throughway: 37; which: Integration East" role="graphics-symbol" aria-roledescription="bar" d="M506.1975,227.57142857142856h80.73000000000002v5.285714285714306h-80.73000000000002Z" fill="#dfbb49"/>
+<path aria-label="Domenico: clef; Avon Throughway: 713; which: convey killer East" role="graphics-symbol" aria-roledescription="bar" d="M281.9475,138.14285714285717h80.73000000000002v101.85714285714285h-80.73000000000002Z" fill="#5be09f"/>
+<path aria-label="Domenico: clef; Avon Throughway: 607; which: Integration East" role="graphics-symbol" aria-roledescription="bar" d="M281.9475,51.42857142857143h80.73000000000002v86.71428571428572h-80.73000000000002Z" fill="#dfbb49"/>
+<path aria-label="Domenico: activation; Avon Throughway: 186; which: convey killer East" role="graphics-symbol" aria-roledescription="bar" d="M57.69749999999999,213.42857142857142h80.73000000000002v26.571428571428584h-80.73000000000002Z" fill="#5be09f"/>
+<path aria-label="Domenico: activation; Avon Throughway: 615; which: Integration East" role="graphics-symbol" aria-roledescription="bar" d="M57.69749999999999,125.57142857142857h80.73000000000002v87.85714285714285h-80.73000000000002Z" fill="#dfbb49"/>
+</svg>

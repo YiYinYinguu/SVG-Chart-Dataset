@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="107,289,0,26" text-anchor="end" x="289.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Marketing Avon</text>
+<path aria-label="quantify: 759; Coordinator pro: American" role="graphics-symbol" aria-roledescription="arc mark"  d="M210.52273470970698,205.84547230421396A75,75,0,0,0,189.0,59.0L189.0,134.0Z" fill="#c0f6fa" stroke="black" stroke-width="0"/>
+<path aria-label="quantify: 832; Coordinator pro: National" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.26618100609443,62.52851286035572A75,75,0,0,0,210.52273470970698,205.84547230421396L189.0,134.0Z" fill="#fd111b" stroke="black" stroke-width="0"/>
+<path aria-label="quantify: 82; Coordinator pro: generation" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,166.26618100609443,62.52851286035572L189.0,134.0Z" fill="#f5ca38" stroke="black" stroke-width="0"/>
+<text aria-label="269,287,112,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="278.04861315274684" y="123.94839107341757" font-family="serif" font-size="11px" fill="#c0f6fa" opacity="1">759</text>
+<text aria-label="94,112,152,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="103.00675414792542" y="163.55488030145608" font-family="serif" font-size="11px" fill="#fd111b" opacity="1">832</text>
+<text aria-label="169,181,37,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="175.19638835452085" y="48.06485337314166" font-family="serif" font-size="11px" fill="#f5ca38" opacity="1">82</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#c0f6fa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fd111b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#f5ca38" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">American</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">National</text>
+<text aria-label="21,76,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">generation</text>
+</svg>

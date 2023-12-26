@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Legacy tenderly web</text>
+<path aria-label="South: 212; hack white: database" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.47386947008314,62.78538645552224A75,75,0,0,0,109.09034078461207,137.68007557455635L131.06384082112586,136.60058673935316A53,53,0,0,1,167.37486775885876,83.67500642856905Z" fill="#849f52" stroke="black" stroke-width="1"/>
+<path aria-label="South: 100; hack white: Georgiana" role="graphics-symbol" aria-roledescription="arc mark"  d="M227.1856143563384,72.68113901363122A75,75,0,0,0,184.0,59.0L184.0,81.0A53,53,0,0,1,214.5178341451458,90.66800490296606Z" fill="#2f2ede" stroke="black" stroke-width="1"/>
+<path aria-label="South: 134; hack white: Legacy" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.10682826271506,208.68255608507448A75,75,0,0,0,234.0249941727728,189.87933390810994L219.35099588209277,173.4880626283977A53,53,0,0,1,179.128825305652,186.77567296678598Z" fill="#79da60" stroke="black" stroke-width="1"/>
+<path aria-label="South: 109; hack white: Lead" role="graphics-symbol" aria-roledescription="arc mark"  d="M234.0249941727728,189.87933390810994A75,75,0,0,0,257.8958231791706,146.8221416570226L236.21971504661389,143.06098010429596A53,53,0,0,1,219.35099588209277,173.4880626283977Z" fill="#54e2ca" stroke="black" stroke-width="1"/>
+<path aria-label="South: 233; hack white: Plymouth" role="graphics-symbol" aria-roledescription="arc mark"  d="M109.09034078461207,137.68007557455635A75,75,0,0,0,177.10682826271506,208.68255608507448L179.128825305652,186.77567296678598A53,53,0,0,1,131.06384082112586,136.60058673935316Z" fill="#8ddfff" stroke="black" stroke-width="1"/>
+<path aria-label="South: 184; hack white: Intersex" role="graphics-symbol" aria-roledescription="arc mark"  d="M257.8958231791706,146.8221416570226A75,75,0,0,0,227.1856143563384,72.68113901363122L214.5178341451458,90.66800490296606A53,53,0,0,1,236.21971504661389,143.06098010429596Z" fill="#07c0df" stroke="black" stroke-width="1"/>
+<path aria-label="South: 52; hack white: introduce" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.0,59.0A75,75,0,0,0,160.47386947008314,62.78538645552224L167.37486775885876,83.67500642856905A53,53,0,0,1,184.0,81.0Z" fill="#7bcd5c" stroke="black" stroke-width="1"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#2f2ede" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#07c0df" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#54e2ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#79da60" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#8ddfff" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#849f52" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#7bcd5c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Georgiana</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Intersex</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Lead</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Legacy</text>
+<text aria-label="21,65,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Plymouth</text>
+<text aria-label="21,65,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">database</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">introduce</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="486" height="310" viewBox="0 0 486 310" style="background-color: rgb(255, 255, 255);">
+<text aria-label="97,113,241,305" text-anchor="end" x="108.50000000000001" y="241.5" transform="rotate(270.0, 113.50000000000001, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">dulcimer</text>
+<text aria-label="246,262,241,305" text-anchor="end" x="257.5" y="241.5" transform="rotate(270.0, 262.5, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">omnivore</text>
+<text aria-label="395,411,241,289" text-anchor="end" x="406.50000000000006" y="241.5" transform="rotate(270.0, 411.50000000000006, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">schema</text>
+<line aria-label="108,108,234,239" x1="108.5" y1="234.5" x2="108.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="257,257,234,239" x1="257.5" y1="234.5" x2="257.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="406,406,234,239" x1="406.5" y1="234.5" x2="406.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,481,234,234" x1="34.5" y1="234.5" x2="481.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="247,481,0,26" text-anchor="end" x="481.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">navigate Cisgender</text>
+<text aria-label="24,32,224,240" text-anchor="end" x="32.5" y="239.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="16,32,186,202" text-anchor="end" x="32.5" y="201.03846153846155" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="8,32,147,163" text-anchor="end" x="32.5" y="162.5769230769231" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="8,32,109,125" text-anchor="end" x="32.5" y="124.11538461538463" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="8,32,70,86" text-anchor="end" x="32.5" y="85.65384615384615" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="8,32,32,48" text-anchor="end" x="32.5" y="47.192307692307686" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">250</text>
+<line aria-label="34,34,34,234" x1="34.5" y1="234.5" x2="34.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Cargo Bronze bypass: dulcimer; South gosh: 149; easily: psst" role="graphics-symbol" aria-roledescription="bar" d="M54.860000000000014,119.38461538461539h107.28v114.61538461538461h-107.28Z" fill="#cebd41"/>
+<path aria-label="Cargo Bronze bypass: schema; South gosh: 241; easily: psst" role="graphics-symbol" aria-roledescription="bar" d="M352.86,48.615384615384606h107.28v185.3846153846154h-107.28Z" fill="#cebd41"/>
+<path aria-label="Cargo Bronze bypass: omnivore; South gosh: 7; easily: psst" role="graphics-symbol" aria-roledescription="bar" d="M203.86,228.6153846153846h107.28v5.384615384615387h-107.28Z" fill="#cebd41"/>
+</svg>

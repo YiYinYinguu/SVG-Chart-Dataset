@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,278,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Unbranded system JBOD</text>
+<path aria-label="provided Gadolinium: 160; Outdoors: Man" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.29272701768986,206.08473379042255A75,75,0,0,0,258.37579899244673,143.6561133089436L184.0,134.0Z" fill="#843e3f" stroke="black" stroke-width="3"/>
+<path aria-label="provided Gadolinium: 89; Outdoors: Chrysler" role="graphics-symbol" aria-roledescription="arc mark"  d="M245.33337717025245,90.83500440297072A75,75,0,0,0,184.0,59.0L184.0,134.0Z" fill="#ce6c72" stroke="black" stroke-width="3"/>
+<path aria-label="provided Gadolinium: 50; Outdoors: recess" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.0,59.0A75,75,0,0,0,145.57214409036823,69.59270312931478L184.0,134.0Z" fill="#9acd8d" stroke="black" stroke-width="3"/>
+<path aria-label="provided Gadolinium: 70; Outdoors: cruelly" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.59270312931478,172.42785590963177A75,75,0,0,0,163.29272701768986,206.08473379042255L184.0,134.0Z" fill="#c3bc6b" stroke="black" stroke-width="3"/>
+<path aria-label="provided Gadolinium: 146; Outdoors: instantly" role="graphics-symbol" aria-roledescription="arc mark"  d="M145.57214409036823,69.59270312931478A75,75,0,0,0,119.59270312931478,172.42785590963177L184.0,134.0Z" fill="#39ad66" stroke="black" stroke-width="3"/>
+<path aria-label="provided Gadolinium: 69; Outdoors: DRAM" role="graphics-symbol" aria-roledescription="arc mark"  d="M258.37579899244673,143.6561133089436A75,75,0,0,0,245.33337717025245,90.83500440297072L184.0,134.0Z" fill="#ab4e4b" stroke="black" stroke-width="3"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#ce6c72" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ab4e4b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#843e3f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c3bc6b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#39ad66" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#9acd8d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Chrysler</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">DRAM</text>
+<text aria-label="21,37,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Man</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">cruelly</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">instantly</text>
+<text aria-label="21,54,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">recess</text>
+</svg>

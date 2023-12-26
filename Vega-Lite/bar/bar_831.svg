@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="584" height="336" viewBox="0 0 584 336" style="background-color: rgb(255, 255, 255);">
+<line x1="98.5" y1="43.5" x2="98.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="235.5" y1="43.5" x2="235.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="373.5" y1="43.5" x2="373.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="510.5" y1="43.5" x2="510.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="243.5" x2="579.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="193.5" x2="579.5" y2="193.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="143.5" x2="579.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="93.5" x2="579.5" y2="93.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="43.5" x2="579.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="85,103,250,331" text-anchor="end" x="98.62500000000001" y="250.5" transform="rotate(270.0, 103.62500000000001, 250.5)" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">astrolabe</text>
+<text aria-label="222,240,250,286" text-anchor="end" x="235.875" y="250.5" transform="rotate(270.0, 240.875, 250.5)" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">city</text>
+<text aria-label="360,378,250,295" text-anchor="end" x="373.125" y="250.5" transform="rotate(270.0, 378.125, 250.5)" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">realm</text>
+<text aria-label="497,515,250,295" text-anchor="end" x="510.375" y="250.5" transform="rotate(270.0, 515.375, 250.5)" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">sewer</text>
+<line aria-label="98,98,243,248" x1="98.5" y1="243.5" x2="98.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="235,235,243,248" x1="235.5" y1="243.5" x2="235.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="373,373,243,248" x1="373.5" y1="243.5" x2="373.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="510,510,243,248" x1="510.5" y1="243.5" x2="510.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,579,243,243" x1="30.5" y1="243.5" x2="579.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="272,337,0,26" text-anchor="middle" x="304.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Fresh</text>
+<text aria-label="14,23,231,249" text-anchor="end" x="23.5" y="248.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="5,23,181,199" text-anchor="end" x="23.5" y="198.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="5,23,131,149" text-anchor="end" x="23.5" y="148.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="5,23,81,99" text-anchor="end" x="23.5" y="98.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="5,23,31,49" text-anchor="end" x="23.5" y="48.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">40</text>
+<line aria-label="25,30,243,243" x1="30.5" y1="243.5" x2="25.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,193,193" x1="30.5" y1="193.5" x2="25.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,143,143" x1="30.5" y1="143.5" x2="25.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,93,93" x1="30.5" y1="93.5" x2="25.5" y2="93.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,43,43" x1="30.5" y1="43.5" x2="25.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="gosh Accounts: astrolabe; female Cab Paradigm: 2; Movies nobis: Neutrois" role="graphics-symbol" aria-roledescription="bar" d="M61.56750000000001,233.0h74.11500000000001v10h-74.11500000000001Z" fill="#b9afde"/>
+<path aria-label="gosh Accounts: sewer; female Cab Paradigm: 11; Movies nobis: Neutrois" role="graphics-symbol" aria-roledescription="bar" d="M473.3175,188.0h74.11500000000001v55h-74.11500000000001Z" fill="#b9afde"/>
+<path aria-label="gosh Accounts: realm; female Cab Paradigm: 28; Movies nobis: Neutrois" role="graphics-symbol" aria-roledescription="bar" d="M336.0675,103.0h74.11500000000001v140h-74.11500000000001Z" fill="#b9afde"/>
+<path aria-label="gosh Accounts: city; female Cab Paradigm: 37; Movies nobis: Neutrois" role="graphics-symbol" aria-roledescription="bar" d="M198.8175,57.99999999999999h74.11500000000001v185h-74.11500000000001Z" fill="#b9afde"/>
+</svg>

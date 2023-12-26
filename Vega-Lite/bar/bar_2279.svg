@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="991" height="382" viewBox="0 0 991 382" style="background-color: rgb(255, 255, 255);">
+<line x1="77.5" y1="251.5" x2="986.5" y2="251.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="209.5" x2="986.5" y2="209.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="168.5" x2="986.5" y2="168.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="126.5" x2="986.5" y2="126.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="84.5" x2="986.5" y2="84.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="138,158,258,378" text-anchor="end" x="152.75" y="258.5" transform="rotate(270.0, 158.75, 258.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">encirclement</text>
+<text aria-label="290,310,258,338" text-anchor="end" x="304.25" y="258.5" transform="rotate(270.0, 310.25, 258.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">footstep</text>
+<text aria-label="441,461,258,288" text-anchor="end" x="455.75" y="258.5" transform="rotate(270.0, 461.75, 258.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">hat</text>
+<text aria-label="593,613,258,348" text-anchor="end" x="607.25" y="258.5" transform="rotate(270.0, 613.25, 258.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">packaging</text>
+<text aria-label="744,764,258,328" text-anchor="end" x="758.75" y="258.5" transform="rotate(270.0, 764.75, 258.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">reverse</text>
+<text aria-label="896,916,258,308" text-anchor="end" x="910.25" y="258.5" transform="rotate(270.0, 916.25, 258.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">voter</text>
+<line aria-label="152,152,251,256" x1="152.5" y1="251.5" x2="152.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="304,304,251,256" x1="304.5" y1="251.5" x2="304.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="455,455,251,256" x1="455.5" y1="251.5" x2="455.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="607,607,251,256" x1="607.5" y1="251.5" x2="607.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="758,758,251,256" x1="758.5" y1="251.5" x2="758.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="910,910,251,256" x1="910.5" y1="251.5" x2="910.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="77,986,251,251" x1="77.5" y1="251.5" x2="986.5" y2="251.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="895,986,0,26" text-anchor="end" x="986.0" y="25.872166666666665" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="60,70,238,258" text-anchor="end" x="70.5" y="257.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="40,70,196,216" text-anchor="end" x="70.5" y="215.83333333333331" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="20,70,155,175" text-anchor="end" x="70.5" y="174.16666666666666" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="20,70,113,133" text-anchor="end" x="70.5" y="132.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<text aria-label="20,70,71,91" text-anchor="end" x="70.5" y="90.83333333333333" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">2,000</text>
+<line aria-label="72,77,251,251" x1="77.5" y1="251.5" x2="72.5" y2="251.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,209,209" x1="77.5" y1="209.5" x2="72.5" y2="209.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,168,168" x1="77.5" y1="168.5" x2="72.5" y2="168.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,126,126" x1="77.5" y1="126.5" x2="72.5" y2="126.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,84,84" x1="77.5" y1="84.5" x2="72.5" y2="84.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,85,217" text-anchor="middle" x="17.14453125" y="151.5" transform="rotate(-90.0, 15.14453125, 151.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">monitoring Jazz pascal</text>
+<path aria-label="optical redundant male: packaging; monitoring Jazz pascal: 751; Modern: lime" role="graphics-symbol" aria-roledescription="bar" d="M566.345,188.41666666666666h81.81v62.58333333333334h-81.81Z" fill="#feca8f"/>
+<path aria-label="optical redundant male: packaging; monitoring Jazz pascal: 523; Modern: Northwest didactic" role="graphics-symbol" aria-roledescription="bar" d="M566.345,83.25h81.81v43.58333333333333h-81.81Z" fill="#bfd371"/>
+<path aria-label="optical redundant male: packaging; monitoring Jazz pascal: 739; Modern: furthermore volt Soft" role="graphics-symbol" aria-roledescription="bar" d="M566.345,126.83333333333333h81.81v61.58333333333333h-81.81Z" fill="#ee0c51"/>
+<path aria-label="optical redundant male: hat; monitoring Jazz pascal: 786; Modern: lime" role="graphics-symbol" aria-roledescription="bar" d="M414.84499999999997,185.5h81.81v65.5h-81.81Z" fill="#feca8f"/>
+<path aria-label="optical redundant male: hat; monitoring Jazz pascal: 975; Modern: Northwest didactic" role="graphics-symbol" aria-roledescription="bar" d="M414.84499999999997,51.416666666666664h81.81v81.25h-81.81Z" fill="#bfd371"/>
+<path aria-label="optical redundant male: hat; monitoring Jazz pascal: 634; Modern: furthermore volt Soft" role="graphics-symbol" aria-roledescription="bar" d="M414.84499999999997,132.66666666666669h81.81v52.83333333333333h-81.81Z" fill="#ee0c51"/>
+<path aria-label="optical redundant male: voter; monitoring Jazz pascal: 626; Modern: lime" role="graphics-symbol" aria-roledescription="bar" d="M869.345,198.83333333333334h81.81v52.16666666666666h-81.81Z" fill="#feca8f"/>
+<path aria-label="optical redundant male: voter; monitoring Jazz pascal: 896; Modern: Northwest didactic" role="graphics-symbol" aria-roledescription="bar" d="M869.345,116.91666666666667h81.81v74.66666666666664h-81.81Z" fill="#bfd371"/>
+<path aria-label="optical redundant male: voter; monitoring Jazz pascal: 87; Modern: furthermore volt Soft" role="graphics-symbol" aria-roledescription="bar" d="M869.345,191.58333333333331h81.81v7.250000000000028h-81.81Z" fill="#ee0c51"/>
+<path aria-label="optical redundant male: footstep; monitoring Jazz pascal: 813; Modern: lime" role="graphics-symbol" aria-roledescription="bar" d="M263.34499999999997,183.25h81.81v67.75h-81.81Z" fill="#feca8f"/>
+<path aria-label="optical redundant male: footstep; monitoring Jazz pascal: 563; Modern: Northwest didactic" role="graphics-symbol" aria-roledescription="bar" d="M263.34499999999997,133.25h81.81v46.91666666666666h-81.81Z" fill="#bfd371"/>
+<path aria-label="optical redundant male: footstep; monitoring Jazz pascal: 37; Modern: furthermore volt Soft" role="graphics-symbol" aria-roledescription="bar" d="M263.34499999999997,180.16666666666666h81.81v3.083333333333343h-81.81Z" fill="#ee0c51"/>
+<path aria-label="optical redundant male: reverse; monitoring Jazz pascal: 805; Modern: lime" role="graphics-symbol" aria-roledescription="bar" d="M717.845,183.91666666666666h81.81v67.08333333333334h-81.81Z" fill="#feca8f"/>
+<path aria-label="optical redundant male: reverse; monitoring Jazz pascal: 940; Modern: Northwest didactic" role="graphics-symbol" aria-roledescription="bar" d="M717.845,77.58333333333334h81.81v78.33333333333334h-81.81Z" fill="#bfd371"/>
+<path aria-label="optical redundant male: reverse; monitoring Jazz pascal: 336; Modern: furthermore volt Soft" role="graphics-symbol" aria-roledescription="bar" d="M717.845,155.91666666666669h81.81v27.99999999999997h-81.81Z" fill="#ee0c51"/>
+<path aria-label="optical redundant male: encirclement; monitoring Jazz pascal: 581; Modern: lime" role="graphics-symbol" aria-roledescription="bar" d="M111.84499999999998,202.58333333333334h81.81v48.41666666666666h-81.81Z" fill="#feca8f"/>
+<path aria-label="optical redundant male: encirclement; monitoring Jazz pascal: 243; Modern: Northwest didactic" role="graphics-symbol" aria-roledescription="bar" d="M111.84499999999998,126.66666666666666h81.81v20.250000000000014h-81.81Z" fill="#bfd371"/>
+<path aria-label="optical redundant male: encirclement; monitoring Jazz pascal: 668; Modern: furthermore volt Soft" role="graphics-symbol" aria-roledescription="bar" d="M111.84499999999998,146.91666666666669h81.81v55.66666666666667h-81.81Z" fill="#ee0c51"/>
+<text aria-label="596,618,169,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="607.25" y="182.87216666666666" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">751</text>
+<text aria-label="596,618,64,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="607.25" y="77.7055" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">523</text>
+<text aria-label="596,618,107,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="607.25" y="121.28883333333333" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">739</text>
+<text aria-label="444,466,166,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="455.75" y="179.9555" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">786</text>
+<text aria-label="444,466,32,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="455.75" y="45.872166666666665" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">975</text>
+<text aria-label="444,466,113,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="455.75" y="127.12216666666667" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">634</text>
+<text aria-label="899,921,179,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="910.25" y="193.28883333333334" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">626</text>
+<text aria-label="899,921,97,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="910.25" y="111.37216666666667" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">896</text>
+<text aria-label="902,917,172,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="910.25" y="186.03883333333332" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">87</text>
+<text aria-label="293,315,164,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="304.25" y="177.7055" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">813</text>
+<text aria-label="293,315,114,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="304.25" y="127.7055" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">563</text>
+<text aria-label="296,311,160,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="304.25" y="174.62216666666666" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">37</text>
+<text aria-label="747,769,164,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="758.75" y="178.37216666666666" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">805</text>
+<text aria-label="747,769,58,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="758.75" y="72.03883333333334" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">940</text>
+<text aria-label="747,769,136,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="758.75" y="150.3721666666667" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">336</text>
+<text aria-label="141,163,183,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.75" y="197.03883333333334" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">581</text>
+<text aria-label="141,163,107,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.75" y="121.12216666666666" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">243</text>
+<text aria-label="141,163,127,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.75" y="141.37216666666666" font-family="monospace" font-size="13.635px" fill="#000" opacity="1">668</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="717" height="303" viewBox="0 0 717 303" style="background-color: rgb(255, 255, 255);">
+<line x1="109.5" y1="40.5" x2="109.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="202.5" y1="40.5" x2="202.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="294.5" y1="40.5" x2="294.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="387.5" y1="40.5" x2="387.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="480.5" y1="40.5" x2="480.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="572.5" y1="40.5" x2="572.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="665.5" y1="40.5" x2="665.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="99,113,247,296" text-anchor="end" x="109.35714285714286" y="247.5" transform="rotate(270.0, 113.35714285714286, 247.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">charity</text>
+<text aria-label="192,206,247,275" text-anchor="end" x="202.07142857142858" y="247.5" transform="rotate(270.0, 206.07142857142858, 247.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">dart</text>
+<text aria-label="284,298,247,289" text-anchor="end" x="294.7857142857143" y="247.5" transform="rotate(270.0, 298.7857142857143, 247.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">hurdle</text>
+<text aria-label="377,391,247,296" text-anchor="end" x="387.5" y="247.5" transform="rotate(270.0, 391.5, 247.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">passage</text>
+<text aria-label="470,484,247,289" text-anchor="end" x="480.2142857142857" y="247.5" transform="rotate(270.0, 484.2142857142857, 247.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">sorrel</text>
+<text aria-label="562,576,247,289" text-anchor="end" x="572.9285714285714" y="247.5" transform="rotate(270.0, 576.9285714285714, 247.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">tennis</text>
+<text aria-label="655,669,247,296" text-anchor="end" x="665.6428571428571" y="247.5" transform="rotate(270.0, 669.6428571428571, 247.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">wiretap</text>
+<line aria-label="109,109,240,245" x1="109.5" y1="240.5" x2="109.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="202,202,240,245" x1="202.5" y1="240.5" x2="202.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="294,294,240,245" x1="294.5" y1="240.5" x2="294.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="387,387,240,245" x1="387.5" y1="240.5" x2="387.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="480,480,240,245" x1="480.5" y1="240.5" x2="480.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="572,572,240,245" x1="572.5" y1="240.5" x2="572.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="665,665,240,245" x1="665.5" y1="240.5" x2="665.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="63,712,240,240" x1="63.5" y1="240.5" x2="712.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="660,712,0,26" text-anchor="end" x="712.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">gray</text>
+<text aria-label="49,56,231,245" text-anchor="end" x="56.5" y="244.5" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="35,56,202,216" text-anchor="end" x="56.5" y="215.92857142857144" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="35,56,174,188" text-anchor="end" x="56.5" y="187.35714285714286" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="35,56,145,159" text-anchor="end" x="56.5" y="158.78571428571428" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="35,56,117,131" text-anchor="end" x="56.5" y="130.21428571428572" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="21,56,88,102" text-anchor="end" x="56.5" y="101.64285714285714" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="21,56,60,74" text-anchor="end" x="56.5" y="73.07142857142858" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">1,200</text>
+<text aria-label="21,56,31,45" text-anchor="end" x="56.5" y="44.5" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">1,400</text>
+<line aria-label="58,63,240,240" x1="63.5" y1="240.5" x2="58.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,211,211" x1="63.5" y1="211.5" x2="58.5" y2="211.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,183,183" x1="63.5" y1="183.5" x2="58.5" y2="183.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,154,154" x1="63.5" y1="154.5" x2="58.5" y2="154.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,126,126" x1="63.5" y1="126.5" x2="58.5" y2="126.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,97,97" x1="63.5" y1="97.5" x2="58.5" y2="97.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,69,69" x1="63.5" y1="69.5" x2="58.5" y2="69.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,40,40" x1="63.5" y1="40.5" x2="58.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,50,230" text-anchor="middle" x="16.71826171875" y="140.5" transform="rotate(-90.0, 14.71826171875, 140.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Distributed grey International</text>
+<path aria-label="wild: wiretap; Distributed grey International: 730; closely Communications: Salad hacking" role="graphics-symbol" aria-roledescription="bar" d="M640.61,135.71428571428572h50.065714285714286v104.28571428571429h-50.065714285714286Z" fill="#b89af8"/>
+<path aria-label="wild: wiretap; Distributed grey International: 607; closely Communications: Borders" role="graphics-symbol" aria-roledescription="bar" d="M640.61,49.00000000000001h50.065714285714286v86.7142857142857h-50.065714285714286Z" fill="#bbfe9d"/>
+<path aria-label="wild: charity; Distributed grey International: 278; closely Communications: Salad hacking" role="graphics-symbol" aria-roledescription="bar" d="M84.32428571428572,200.28571428571428h50.065714285714286v39.71428571428572h-50.065714285714286Z" fill="#b89af8"/>
+<path aria-label="wild: charity; Distributed grey International: 777; closely Communications: Borders" role="graphics-symbol" aria-roledescription="bar" d="M84.32428571428572,89.28571428571429h50.065714285714286v110.99999999999999h-50.065714285714286Z" fill="#bbfe9d"/>
+<path aria-label="wild: dart; Distributed grey International: 486; closely Communications: Salad hacking" role="graphics-symbol" aria-roledescription="bar" d="M177.03857142857143,170.57142857142856h50.065714285714286v69.42857142857144h-50.065714285714286Z" fill="#b89af8"/>
+<path aria-label="wild: dart; Distributed grey International: 358; closely Communications: Borders" role="graphics-symbol" aria-roledescription="bar" d="M177.03857142857143,119.42857142857143h50.065714285714286v51.142857142857125h-50.065714285714286Z" fill="#bbfe9d"/>
+<path aria-label="wild: tennis; Distributed grey International: 416; closely Communications: Salad hacking" role="graphics-symbol" aria-roledescription="bar" d="M547.8957142857143,180.57142857142856h50.065714285714286v59.428571428571445h-50.065714285714286Z" fill="#b89af8"/>
+<path aria-label="wild: tennis; Distributed grey International: 732; closely Communications: Borders" role="graphics-symbol" aria-roledescription="bar" d="M547.8957142857143,76.0h50.065714285714286v104.57142857142856h-50.065714285714286Z" fill="#bbfe9d"/>
+<path aria-label="wild: hurdle; Distributed grey International: 233; closely Communications: Salad hacking" role="graphics-symbol" aria-roledescription="bar" d="M269.7528571428571,206.71428571428572h50.065714285714286v33.28571428571428h-50.065714285714286Z" fill="#b89af8"/>
+<path aria-label="wild: hurdle; Distributed grey International: 676; closely Communications: Borders" role="graphics-symbol" aria-roledescription="bar" d="M269.7528571428571,110.14285714285715h50.065714285714286v96.57142857142857h-50.065714285714286Z" fill="#bbfe9d"/>
+<path aria-label="wild: sorrel; Distributed grey International: 281; closely Communications: Salad hacking" role="graphics-symbol" aria-roledescription="bar" d="M455.18142857142857,199.85714285714286h50.065714285714286v40.14285714285714h-50.065714285714286Z" fill="#b89af8"/>
+<path aria-label="wild: sorrel; Distributed grey International: 209; closely Communications: Borders" role="graphics-symbol" aria-roledescription="bar" d="M455.18142857142857,170.0h50.065714285714286v29.85714285714286h-50.065714285714286Z" fill="#bbfe9d"/>
+<path aria-label="wild: passage; Distributed grey International: 47; closely Communications: Salad hacking" role="graphics-symbol" aria-roledescription="bar" d="M362.46714285714285,233.28571428571428h50.065714285714286v6.714285714285722h-50.065714285714286Z" fill="#b89af8"/>
+<path aria-label="wild: passage; Distributed grey International: 260; closely Communications: Borders" role="graphics-symbol" aria-roledescription="bar" d="M362.46714285714285,196.14285714285714h50.065714285714286v37.14285714285714h-50.065714285714286Z" fill="#bbfe9d"/>
+</svg>

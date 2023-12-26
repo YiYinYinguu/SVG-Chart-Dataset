@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="650" height="299" viewBox="0 0 650 299" style="background-color: rgb(255, 255, 255);">
+<line x1="105.5" y1="36.5" x2="105.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="222.5" y1="36.5" x2="222.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="340.5" y1="36.5" x2="340.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="457.5" y1="36.5" x2="457.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="574.5" y1="36.5" x2="574.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="35.5" y1="236.5" x2="645.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="35.5" y1="192.5" x2="645.5" y2="192.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="35.5" y1="147.5" x2="645.5" y2="147.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="35.5" y1="103.5" x2="645.5" y2="103.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="35.5" y1="58.5" x2="645.5" y2="58.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="95,109,243,278" text-anchor="end" x="105.38461538461539" y="243.5" transform="rotate(270.0, 109.38461538461539, 243.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">bugle</text>
+<text aria-label="212,226,243,299" text-anchor="end" x="222.6923076923077" y="243.5" transform="rotate(270.0, 226.6923076923077, 243.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">infinite</text>
+<text aria-label="330,344,243,278" text-anchor="end" x="340.0" y="243.5" transform="rotate(270.0, 344.0, 243.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">lemur</text>
+<text aria-label="447,461,243,292" text-anchor="end" x="457.30769230769226" y="243.5" transform="rotate(270.0, 461.30769230769226, 243.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">muskrat</text>
+<text aria-label="564,578,243,285" text-anchor="end" x="574.6153846153846" y="243.5" transform="rotate(270.0, 578.6153846153846, 243.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">thirst</text>
+<line aria-label="105,105,236,241" x1="105.5" y1="236.5" x2="105.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="222,222,236,241" x1="222.5" y1="236.5" x2="222.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="340,340,236,241" x1="340.5" y1="236.5" x2="340.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="457,457,236,241" x1="457.5" y1="236.5" x2="457.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="574,574,236,241" x1="574.5" y1="236.5" x2="574.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,645,236,236" x1="35.5" y1="236.5" x2="645.5" y2="236.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,278,0,26" text-anchor="start" x="5.12939453125" y="25.99444444444445" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">circa Plastic Plastic</text>
+<text aria-label="21,28,227,241" text-anchor="end" x="28.5" y="240.5" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="7,28,183,197" text-anchor="end" x="28.5" y="196.05555555555557" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="7,28,138,152" text-anchor="end" x="28.5" y="151.61111111111111" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="7,28,94,108" text-anchor="end" x="28.5" y="107.16666666666667" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="7,28,49,63" text-anchor="end" x="28.5" y="62.72222222222223" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">400</text>
+<line aria-label="30,35,236,236" x1="35.5" y1="236.5" x2="30.5" y2="236.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,192,192" x1="35.5" y1="192.5" x2="30.5" y2="192.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,147,147" x1="35.5" y1="147.5" x2="30.5" y2="147.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,103,103" x1="35.5" y1="103.5" x2="30.5" y2="103.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,58,58" x1="35.5" y1="58.5" x2="30.5" y2="58.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,35,36,236" x1="35.5" y1="236.5" x2="35.5" y2="36.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="online Rwanda meter: thirst; Trans: 53; maroon: apud Garden" role="graphics-symbol" aria-roledescription="bar" d="M527.6923076923076,212.44444444444446h93.84615384615385v23.555555555555543h-93.84615384615385Z" fill="#ea99dc"/>
+<path aria-label="online Rwanda meter: infinite; Trans: 134; maroon: apud Garden" role="graphics-symbol" aria-roledescription="bar" d="M175.76923076923077,176.44444444444446h93.84615384615385v59.55555555555554h-93.84615384615385Z" fill="#ea99dc"/>
+<path aria-label="online Rwanda meter: bugle; Trans: 69; maroon: apud Garden" role="graphics-symbol" aria-roledescription="bar" d="M58.46153846153845,205.33333333333334h93.84615384615385v30.666666666666657h-93.84615384615385Z" fill="#ea99dc"/>
+<path aria-label="online Rwanda meter: lemur; Trans: 261; maroon: apud Garden" role="graphics-symbol" aria-roledescription="bar" d="M293.0769230769231,120.00000000000001h93.84615384615385v115.99999999999999h-93.84615384615385Z" fill="#ea99dc"/>
+<path aria-label="online Rwanda meter: muskrat; Trans: 425; maroon: apud Garden" role="graphics-symbol" aria-roledescription="bar" d="M410.38461538461536,47.111111111111114h93.84615384615385v188.88888888888889h-93.84615384615385Z" fill="#ea99dc"/>
+<text aria-label="569,580,198,209" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="574.6153846153846" y="208.32777777777778" font-family="Balto" font-size="10.166666666666666px" fill="#000" opacity="1">53</text>
+<text aria-label="214,231,162,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="222.6923076923077" y="172.32777777777778" font-family="Balto" font-size="10.166666666666666px" fill="#000" opacity="1">134</text>
+<text aria-label="99,110,191,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="105.38461538461539" y="201.21666666666667" font-family="Balto" font-size="10.166666666666666px" fill="#000" opacity="1">69</text>
+<text aria-label="331,348,105,116" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="340.0" y="115.88333333333335" font-family="Balto" font-size="10.166666666666666px" fill="#000" opacity="1">261</text>
+<text aria-label="448,465,32,43" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="457.30769230769226" y="42.994444444444454" font-family="Balto" font-size="10.166666666666666px" fill="#000" opacity="1">425</text>
+</svg>

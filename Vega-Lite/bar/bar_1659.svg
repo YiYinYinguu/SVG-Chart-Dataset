@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="710" height="354" viewBox="0 0 710 354" style="background-color: rgb(255, 255, 255);">
+<line x1="121.5" y1="43.5" x2="121.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="251.5" y1="43.5" x2="251.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="381.5" y1="43.5" x2="381.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="510.5" y1="43.5" x2="510.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="640.5" y1="43.5" x2="640.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="107,127,250,290" text-anchor="end" x="121.80000000000001" y="250.5" transform="rotate(270.0, 127.80000000000001, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">hold</text>
+<text aria-label="237,257,250,330" text-anchor="end" x="251.4" y="250.5" transform="rotate(270.0, 257.4, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">hygienic</text>
+<text aria-label="367,387,250,310" text-anchor="end" x="381.0" y="250.5" transform="rotate(270.0, 387.0, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">shofar</text>
+<text aria-label="496,516,250,310" text-anchor="end" x="510.59999999999997" y="250.5" transform="rotate(270.0, 516.5999999999999, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">summit</text>
+<text aria-label="626,646,250,350" text-anchor="end" x="640.2" y="250.5" transform="rotate(270.0, 646.2, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">vermicelli</text>
+<line aria-label="121,121,243,248" x1="121.5" y1="243.5" x2="121.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="251,251,243,248" x1="251.5" y1="243.5" x2="251.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="381,381,243,248" x1="381.5" y1="243.5" x2="381.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="510,510,243,248" x1="510.5" y1="243.5" x2="510.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="640,640,243,248" x1="640.5" y1="243.5" x2="640.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,705,243,243" x1="57.5" y1="243.5" x2="705.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,252,0,26" text-anchor="start" x="5.64453125" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">West Electric South</text>
+<text aria-label="45,55,230,250" text-anchor="end" x="55.5" y="249.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="25,55,190,210" text-anchor="end" x="55.5" y="209.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="25,55,150,170" text-anchor="end" x="55.5" y="169.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="25,55,110,130" text-anchor="end" x="55.5" y="129.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="25,55,70,90" text-anchor="end" x="55.5" y="89.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="5,55,30,50" text-anchor="end" x="55.5" y="49.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<line aria-label="57,57,43,243" x1="57.5" y1="243.5" x2="57.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Implementation: hold; Northeast: 372; Franklin: Longmont Program eek" role="graphics-symbol" aria-roledescription="bar" d="M80.97600000000001,64.6h81.64800000000001v74.4h-81.64800000000001Z" fill="#cbee8f"/>
+<path aria-label="Implementation: hold; Northeast: 452; Franklin: Northeast Sports Checking" role="graphics-symbol" aria-roledescription="bar" d="M80.97600000000001,139.0h81.64800000000001v90.39999999999998h-81.64800000000001Z" fill="#edda6e"/>
+<path aria-label="Implementation: hold; Northeast: 68; Franklin: male Generic" role="graphics-symbol" aria-roledescription="bar" d="M80.97600000000001,229.39999999999998h81.64800000000001v13.600000000000023h-81.64800000000001Z" fill="#c8ebe9"/>
+<path aria-label="Implementation: vermicelli; Northeast: 281; Franklin: Longmont Program eek" role="graphics-symbol" aria-roledescription="bar" d="M599.376,71.0h81.64800000000001v56.2h-81.64800000000001Z" fill="#cbee8f"/>
+<path aria-label="Implementation: vermicelli; Northeast: 222; Franklin: Northeast Sports Checking" role="graphics-symbol" aria-roledescription="bar" d="M599.376,127.2h81.64800000000001v44.39999999999999h-81.64800000000001Z" fill="#edda6e"/>
+<path aria-label="Implementation: vermicelli; Northeast: 357; Franklin: male Generic" role="graphics-symbol" aria-roledescription="bar" d="M599.376,171.6h81.64800000000001v71.4h-81.64800000000001Z" fill="#c8ebe9"/>
+<path aria-label="Implementation: summit; Northeast: 301; Franklin: Longmont Program eek" role="graphics-symbol" aria-roledescription="bar" d="M469.77599999999995,84.39999999999999h81.64800000000001v60.2h-81.64800000000001Z" fill="#cbee8f"/>
+<path aria-label="Implementation: summit; Northeast: 52; Franklin: Northeast Sports Checking" role="graphics-symbol" aria-roledescription="bar" d="M469.77599999999995,144.6h81.64800000000001v10.40000000000002h-81.64800000000001Z" fill="#edda6e"/>
+<path aria-label="Implementation: summit; Northeast: 440; Franklin: male Generic" role="graphics-symbol" aria-roledescription="bar" d="M469.77599999999995,155.0h81.64800000000001v87.99999999999999h-81.64800000000001Z" fill="#c8ebe9"/>
+<path aria-label="Implementation: shofar; Northeast: 459; Franklin: Longmont Program eek" role="graphics-symbol" aria-roledescription="bar" d="M340.176,58.99999999999999h81.64800000000001v91.79999999999998h-81.64800000000001Z" fill="#cbee8f"/>
+<path aria-label="Implementation: shofar; Northeast: 192; Franklin: Northeast Sports Checking" role="graphics-symbol" aria-roledescription="bar" d="M340.176,150.79999999999998h81.64800000000001v38.400000000000006h-81.64800000000001Z" fill="#edda6e"/>
+<path aria-label="Implementation: shofar; Northeast: 269; Franklin: male Generic" role="graphics-symbol" aria-roledescription="bar" d="M340.176,189.2h81.64800000000001v53.80000000000001h-81.64800000000001Z" fill="#c8ebe9"/>
+<path aria-label="Implementation: hygienic; Northeast: 42; Franklin: Longmont Program eek" role="graphics-symbol" aria-roledescription="bar" d="M210.57600000000002,155.4h81.64800000000001v8.399999999999991h-81.64800000000001Z" fill="#cbee8f"/>
+<path aria-label="Implementation: hygienic; Northeast: 355; Franklin: Northeast Sports Checking" role="graphics-symbol" aria-roledescription="bar" d="M210.57600000000002,163.8h81.64800000000001v70.99999999999999h-81.64800000000001Z" fill="#edda6e"/>
+<path aria-label="Implementation: hygienic; Northeast: 41; Franklin: male Generic" role="graphics-symbol" aria-roledescription="bar" d="M210.57600000000002,234.79999999999998h81.64800000000001v8.200000000000017h-81.64800000000001Z" fill="#c8ebe9"/>
+</svg>

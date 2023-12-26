@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="433" height="300" viewBox="0 0 433 300" style="background-color: rgb(255, 255, 255);">
+<line x1="38.5" y1="234.5" x2="428.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="38.5" y1="189.5" x2="428.5" y2="189.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="38.5" y1="143.5" x2="428.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="38.5" y1="98.5" x2="428.5" y2="98.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="38.5" y1="52.5" x2="428.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="55,70,241,286" text-anchor="end" x="66.53658536585365" y="241.5" transform="rotate(270.0, 70.53658536585365, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">breast</text>
+<text aria-label="103,118,241,271" text-anchor="end" x="114.09756097560975" y="241.5" transform="rotate(270.0, 118.09756097560975, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">eddy</text>
+<text aria-label="150,165,241,294" text-anchor="end" x="161.65853658536585" y="241.5" transform="rotate(270.0, 165.65853658536585, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">flanker</text>
+<text aria-label="198,213,241,294" text-anchor="end" x="209.21951219512195" y="241.5" transform="rotate(270.0, 213.21951219512195, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">horizon</text>
+<text aria-label="245,260,241,294" text-anchor="end" x="256.780487804878" y="241.5" transform="rotate(270.0, 260.780487804878, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">leprosy</text>
+<text aria-label="293,308,241,286" text-anchor="end" x="304.3414634146341" y="241.5" transform="rotate(270.0, 308.3414634146341, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">morale</text>
+<text aria-label="340,355,241,271" text-anchor="end" x="351.9024390243902" y="241.5" transform="rotate(270.0, 355.9024390243902, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">tide</text>
+<text aria-label="388,403,241,294" text-anchor="end" x="399.4634146341463" y="241.5" transform="rotate(270.0, 403.4634146341463, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">wallaby</text>
+<line aria-label="66,66,234,239" x1="66.5" y1="234.5" x2="66.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="114,114,234,239" x1="114.5" y1="234.5" x2="114.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="161,161,234,239" x1="161.5" y1="234.5" x2="161.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="209,209,234,239" x1="209.5" y1="234.5" x2="209.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="256,256,234,239" x1="256.5" y1="234.5" x2="256.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="304,304,234,239" x1="304.5" y1="234.5" x2="304.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="351,351,234,239" x1="351.5" y1="234.5" x2="351.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="399,399,234,239" x1="399.5" y1="234.5" x2="399.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,428,234,234" x1="38.5" y1="234.5" x2="428.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="220,428,0,26" text-anchor="end" x="428.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Elegant Jazz for</text>
+<text aria-label="24,31,224,239" text-anchor="end" x="31.5" y="238.5" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="16,31,179,194" text-anchor="end" x="31.5" y="193.04545454545453" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="9,31,133,148" text-anchor="end" x="31.5" y="147.59090909090907" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="9,31,88,103" text-anchor="end" x="31.5" y="102.13636363636365" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="9,31,42,57" text-anchor="end" x="31.5" y="56.68181818181819" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">200</text>
+<line aria-label="33,38,234,234" x1="38.5" y1="234.5" x2="33.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,189,189" x1="38.5" y1="189.5" x2="33.5" y2="189.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,143,143" x1="38.5" y1="143.5" x2="33.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,98,98" x1="38.5" y1="98.5" x2="33.5" y2="98.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,52,52" x1="38.5" y1="52.5" x2="33.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,38,34,234" x1="38.5" y1="234.5" x2="38.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Bespoke: tide; fatally Group Bicycle: 1; Course programming: Health pish" role="graphics-symbol" aria-roledescription="bar" d="M332.8780487804878,233.0909090909091h38.04878048780488v0.9090909090909065h-38.04878048780488Z" fill="#14fb8d"/>
+<path aria-label="Bespoke: leprosy; fatally Group Bicycle: 65; Course programming: Health pish" role="graphics-symbol" aria-roledescription="bar" d="M237.7560975609756,174.9090909090909h38.04878048780488v59.09090909090909h-38.04878048780488Z" fill="#14fb8d"/>
+<path aria-label="Bespoke: breast; fatally Group Bicycle: 5; Course programming: Health pish" role="graphics-symbol" aria-roledescription="bar" d="M47.51219512195121,229.45454545454547h38.04878048780488v4.5454545454545325h-38.04878048780488Z" fill="#14fb8d"/>
+<path aria-label="Bespoke: horizon; fatally Group Bicycle: 34; Course programming: Health pish" role="graphics-symbol" aria-roledescription="bar" d="M190.1951219512195,203.0909090909091h38.04878048780488v30.909090909090907h-38.04878048780488Z" fill="#14fb8d"/>
+<path aria-label="Bespoke: flanker; fatally Group Bicycle: 112; Course programming: Health pish" role="graphics-symbol" aria-roledescription="bar" d="M142.6341463414634,132.1818181818182h38.04878048780488v101.81818181818181h-38.04878048780488Z" fill="#14fb8d"/>
+<path aria-label="Bespoke: morale; fatally Group Bicycle: 208; Course programming: Health pish" role="graphics-symbol" aria-roledescription="bar" d="M285.3170731707317,44.909090909090914h38.04878048780488v189.0909090909091h-38.04878048780488Z" fill="#14fb8d"/>
+<path aria-label="Bespoke: wallaby; fatally Group Bicycle: 175; Course programming: Health pish" role="graphics-symbol" aria-roledescription="bar" d="M380.4390243902439,74.90909090909092h38.04878048780488v159.09090909090907h-38.04878048780488Z" fill="#14fb8d"/>
+<path aria-label="Bespoke: eddy; fatally Group Bicycle: 67; Course programming: Health pish" role="graphics-symbol" aria-roledescription="bar" d="M95.07317073170731,173.0909090909091h38.04878048780488v60.90909090909091h-38.04878048780488Z" fill="#14fb8d"/>
+</svg>

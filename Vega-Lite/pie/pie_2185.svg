@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="293" height="286" viewBox="0 0 293 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="7,228,0,26" text-anchor="middle" x="118.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">mail worth Future</text>
+<path aria-label="transform Reactive: 75; Towels: cyan" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.99999999999999,106.0A75,75,0,0,0,91.80917822897945,110.72169001065382L100.8886631095999,135.08483747362715A49,49,0,0,1,117.99999999999999,132.0Z" fill="#daa2ed" stroke="black" stroke-width="1"/>
+<path aria-label="transform Reactive: 239; Towels: Manat" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.8177863751792,247.42832040577562A75,75,0,0,0,192.91088576623932,177.34497691971126L166.9417787006097,178.6120515875447A49,49,0,0,1,140.74762043178373,224.39983599844007Z" fill="#cd8edf" stroke="black" stroke-width="1"/>
+<path aria-label="transform Reactive: 248; Towels: Trans" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.86687971866425,238.51697777163247A75,75,0,0,0,152.8177863751792,247.42832040577562L140.74762043178373,224.39983599844007A49,49,0,0,1,86.55302808286065,218.57775881079988Z" fill="#35f1d9" stroke="black" stroke-width="1"/>
+<path aria-label="transform Reactive: 439; Towels: concept" role="graphics-symbol" aria-roledescription="arc mark"  d="M91.80917822897945,110.72169001065382A75,75,0,0,0,69.86687971866425,238.51697777163247L86.55302808286065,218.57775881079988A49,49,0,0,1,100.8886631095999,135.08483747362715Z" fill="#ef2ca9" stroke="black" stroke-width="1"/>
+<path aria-label="transform Reactive: 320; Towels: Agent" role="graphics-symbol" aria-roledescription="arc mark"  d="M192.91088576623932,177.34497691971126A75,75,0,0,0,118.0,106.0L118.0,132.0A49,49,0,0,1,166.9417787006097,178.6120515875447Z" fill="#e4ad39" stroke="black" stroke-width="1"/>
+<text aria-label="96,108,84,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.03218046897734" y="95.42783315609417" font-family="Balto" font-size="11px" fill="#daa2ed" opacity="1">75</text>
+<text aria-label="187,205,217,229" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.12003807396445" y="228.6907110183128" font-family="Balto" font-size="11px" fill="#cd8edf" opacity="1">239</text>
+<text aria-label="99,117,262,274" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.38669401052924" y="273.4851068499826" font-family="Balto" font-size="11px" fill="#35f1d9" opacity="1">248</text>
+<text aria-label="20,38,157,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="29.29799203512465" y="168.76997101121637" font-family="Balto" font-size="11px" fill="#ef2ca9" opacity="1">439</text>
+<text aria-label="171,189,107,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.06954771596463" y="118.82814068683024" font-family="Balto" font-size="11px" fill="#e4ad39" opacity="1">320</text>
+<path  d="M29.0,56.25A5,5,0,1,1,19.0,56.25A5,5,0,1,1,29.0,56.25" fill="#e4ad39" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M85.0,56.25A5,5,0,1,1,75.0,56.25A5,5,0,1,1,85.0,56.25" fill="#cd8edf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M143.0,56.25A5,5,0,1,1,133.0,56.25A5,5,0,1,1,143.0,56.25" fill="#35f1d9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M195.0,56.25A5,5,0,1,1,185.0,56.25A5,5,0,1,1,195.0,56.25" fill="#ef2ca9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M261.0,56.25A5,5,0,1,1,251.0,56.25A5,5,0,1,1,261.0,56.25" fill="#daa2ed" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="34,61,49,60" text-anchor="start" x="34.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Agent</text>
+<text aria-label="90,117,49,60" text-anchor="start" x="90.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Manat</text>
+<text aria-label="148,175,49,60" text-anchor="start" x="148.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Trans</text>
+<text aria-label="200,238,49,60" text-anchor="start" x="200.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">concept</text>
+<text aria-label="266,288,49,60" text-anchor="start" x="266.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">cyan</text>
+<text aria-label="18,54,32,44" text-anchor="start" x="18.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Towels</text>
+</svg>

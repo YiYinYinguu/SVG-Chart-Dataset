@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="300" height="239" viewBox="0 0 300 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="204,295,0,26" text-anchor="end" x="295.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">neutral</text>
+<path aria-label="yellow XSS content: 18; ADP Grocery: bus" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.84189490597481,122.79395480718046A75,75,0,0,0,126.46804738969227,164.46918888678422L195.0,134.0Z" fill="#d4cfbf" stroke="black" stroke-width="3"/>
+<path aria-label="yellow XSS content: 59; ADP Grocery: AI" role="graphics-symbol" aria-roledescription="arc mark"  d="M266.8240102286947,155.59424818483748A75,75,0,0,0,195.0,59.0L195.0,134.0Z" fill="#97f3a9" stroke="black" stroke-width="3"/>
+<path aria-label="yellow XSS content: 45; ADP Grocery: streamline" role="graphics-symbol" aria-roledescription="arc mark"  d="M195.0,59.0A75,75,0,0,0,120.84189490597481,122.79395480718046L195.0,134.0Z" fill="#4eacd0" stroke="black" stroke-width="3"/>
+<path aria-label="yellow XSS content: 50; ADP Grocery: Malaysia" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.83949127739973,205.65132136363962A75,75,0,0,0,266.8240102286947,155.59424818483748L195.0,134.0Z" fill="#5f75ae" stroke="black" stroke-width="3"/>
+<path aria-label="yellow XSS content: 27; ADP Grocery: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.46804738969227,164.46918888678422A75,75,0,0,0,172.83949127739973,205.65132136363962L195.0,134.0Z" fill="#2704b2" stroke="black" stroke-width="3"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#97f3a9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#5f75ae" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#2704b2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#d4cfbf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#4eacd0" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,32,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">AI</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Malaysia</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,37,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">bus</text>
+<text aria-label="21,76,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">streamline</text>
+<text aria-label="5,71,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">ADP Grocery</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="291" height="239" viewBox="0 0 291 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="195,286,0,26" text-anchor="end" x="286.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">virtual</text>
+<path aria-label="Zambian East: 334; East: Wyoming" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.972347050413376,154.90495660301417A75,75,0,0,0,153.79804159165803,190.9539387296332L105.0,134.0Z" fill="#346c6b" stroke="white" stroke-width="0"/>
+<path aria-label="Zambian East: 7; East: Catalina" role="graphics-symbol" aria-roledescription="arc mark"  d="M108.13768750298794,59.065662629648926A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#cc2dce" stroke="white" stroke-width="0"/>
+<path aria-label="Zambian East: 400; East: Paradigm" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.79804159165803,190.9539387296332A75,75,0,0,0,108.13768750298794,59.065662629648926L105.0,134.0Z" fill="#c5f5bd" stroke="white" stroke-width="0"/>
+<path aria-label="Zambian East: 310; East: dizzy" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.972347050413376,154.90495660301417L105.0,134.0Z" fill="#6e2e79" stroke="white" stroke-width="0"/>
+<text aria-label="73,85,215,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="79.26885497623452" y="222.24330800569948" font-family="Balto" font-size="7px" fill="#346c6b" opacity="1">334</text>
+<text aria-label="104,108,39,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.88302469475099" y="46.019700945157126" font-family="Balto" font-size="7px" fill="#cc2dce" opacity="1">7</text>
+<text aria-label="184,196,99,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.04740700643688" y="106.55617957055387" font-family="Balto" font-size="7px" fill="#c5f5bd" opacity="1">400</text>
+<text aria-label="27,39,74,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.03565009976977" y="81.9524991934203" font-family="Balto" font-size="7px" fill="#6e2e79" opacity="1">310</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#cc2dce" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#c5f5bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#346c6b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#6e2e79" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Catalina</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Paradigm</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Wyoming</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">dizzy</text>
+<text aria-label="223,247,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">East</text>
+</svg>

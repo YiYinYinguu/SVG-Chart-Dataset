@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="262" height="286" viewBox="0 0 262 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="59,150,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">payment</text>
+<path aria-label="parse United cyan: 128; Lamborghini West North: Ball" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.77124461550036,97.95636836099871A75,75,0,0,0,105.0,59.0L105.0,92.0A42,42,0,0,1,141.8318969846802,113.81556628215928Z" fill="#e55ef2" stroke="black" stroke-width="0"/>
+<path aria-label="parse United cyan: 148; Lamborghini West North: International" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.62390792359682,184.30885476044176A75,75,0,0,0,170.77124461550036,97.95636836099871L141.8318969846802,113.81556628215928A42,42,0,0,1,136.1493884372142,162.17295866584737Z" fill="#36efba" stroke="black" stroke-width="0"/>
+<path aria-label="parse United cyan: 173; Lamborghini West North: Wells" role="graphics-symbol" aria-roledescription="arc mark"  d="M62.03882130972879,195.47631353247027A75,75,0,0,0,160.62390792359682,184.30885476044176L136.1493884372142,162.17295866584737A42,42,0,0,1,80.94173993344812,168.42673557818335Z" fill="#eff0fe" stroke="black" stroke-width="0"/>
+<path aria-label="parse United cyan: 303; Lamborghini West North: astrakhan" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,62.03882130972879,195.47631353247027L80.94173993344812,168.42673557818335A42,42,0,0,1,104.99999999999999,92.0Z" fill="#a60056" stroke="black" stroke-width="0"/>
+<text aria-label="142,159,49,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.86549783327257" y="59.563857866587455" font-family="serif" font-size="10px" fill="#e55ef2" opacity="1">128</text>
+<text aria-label="186,202,137,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.38496846924767" y="147.50368562703585" font-family="serif" font-size="10px" fill="#36efba" opacity="1">148</text>
+<text aria-label="106,123,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.13017595810317" y="226.42806905584996" font-family="serif" font-size="10px" fill="#eff0fe" opacity="1">173</text>
+<text aria-label="10,27,99,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.15292124508025" y="109.97632391315706" font-family="serif" font-size="10px" fill="#a60056" opacity="1">303</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#e55ef2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,274.25A5,5,0,1,1,53.0,274.25A5,5,0,1,1,63.0,274.25" fill="#36efba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,274.25A5,5,0,1,1,145.0,274.25A5,5,0,1,1,155.0,274.25" fill="#eff0fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,274.25A5,5,0,1,1,197.0,274.25A5,5,0,1,1,207.0,274.25" fill="#a60056" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Ball</text>
+<text aria-label="68,139,267,278" text-anchor="start" x="68.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">International</text>
+<text aria-label="160,187,267,278" text-anchor="start" x="160.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Wells</text>
+<text aria-label="212,261,267,278" text-anchor="start" x="212.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">astrakhan</text>
+<text aria-label="5,137,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Lamborghini West North</text>
+</svg>

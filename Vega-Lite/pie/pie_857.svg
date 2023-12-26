@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="477" height="286" viewBox="0 0 477 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="381,472,0,26" text-anchor="end" x="472.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle</text>
+<path aria-label="Checking green: 19; whether: Vista" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.89541517331597,126.85329295341066A75,75,0,0,0,153.6913073281056,123.95478468197382L136.16243668998757,144.49106219646325A48,48,0,0,1,138.21306571092222,146.34610749018282Z" fill="#7157d5" stroke="white" stroke-width="4"/>
+<path aria-label="Checking green: 132; whether: reciprocal" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.24000494869408,153.45833900357908A75,75,0,0,0,30.02206836594584,182.81927674615517L57.014123754205336,182.1643371175393A48,48,0,0,1,60.35360316716421,163.3733369622906Z" fill="#6fd48e" stroke="white" stroke-width="4"/>
+<path aria-label="Checking green: 284; whether: red" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.44385309585081,110.13395983108803A75,75,0,0,0,35.24000494869408,153.45833900357908L60.35360316716421,163.3733369622906A48,48,0,0,1,89.28406598134453,135.64573429189633Z" fill="#ab3a6f" stroke="white" stroke-width="4"/>
+<path aria-label="Checking green: 473; whether: neque" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.02206836594584,182.81927674615517A75,75,0,0,0,96.60266429225189,255.52841574199317L99.6257051470412,228.69818607487565A48,48,0,0,1,57.014123754205336,182.1643371175393Z" fill="#fb373a" stroke="white" stroke-width="4"/>
+<path aria-label="Checking green: 497; whether: asphalt" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.60266429225189,255.52841574199317A75,75,0,0,0,178.84296189600622,194.12314666629067L152.25949561344396,189.39881386642602A48,48,0,0,1,99.6257051470412,228.69818607487565Z" fill="#ce2881" stroke="white" stroke-width="4"/>
+<path aria-label="Checking green: 61; whether: Copper" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.6913073281056,123.95478468197382A75,75,0,0,0,142.36861559040605,115.97241686133135L128.91591397785987,139.38234679125208A48,48,0,0,1,136.16243668998757,144.49106219646325Z" fill="#8ccec0" stroke="white" stroke-width="4"/>
+<path aria-label="Checking green: 172; whether: Car" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.36861559040605,115.97241686133135A75,75,0,0,0,105.0,106.0L105.0,133.0A48,48,0,0,1,128.91591397785987,139.38234679125208Z" fill="#c002fb" stroke="white" stroke-width="4"/>
+<path aria-label="Checking green: 110; whether: vortals" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,80.44385309585081,110.13395983108803L89.28406598134453,135.64573429189633A48,48,0,0,1,104.99999999999999,133.0Z" fill="#f2c105" stroke="white" stroke-width="4"/>
+<path aria-label="Checking green: 324; whether: a" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.84296189600622,194.12314666629067A75,75,0,0,0,156.89541517331597,126.85329295341066L138.21306571092222,146.34610749018282A48,48,0,0,1,152.25949561344396,189.39881386642602Z" fill="#5bb5bd" stroke="white" stroke-width="4"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#c002fb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M58.0,56.25A5,5,0,1,1,48.0,56.25A5,5,0,1,1,58.0,56.25" fill="#8ccec0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M115.0,56.25A5,5,0,1,1,105.0,56.25A5,5,0,1,1,115.0,56.25" fill="#7157d5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M167.0,56.25A5,5,0,1,1,157.0,56.25A5,5,0,1,1,167.0,56.25" fill="#5bb5bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M199.0,56.25A5,5,0,1,1,189.0,56.25A5,5,0,1,1,199.0,56.25" fill="#ce2881" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M261.0,56.25A5,5,0,1,1,251.0,56.25A5,5,0,1,1,261.0,56.25" fill="#fb373a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M313.0,56.25A5,5,0,1,1,303.0,56.25A5,5,0,1,1,313.0,56.25" fill="#6fd48e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M390.0,56.25A5,5,0,1,1,380.0,56.25A5,5,0,1,1,390.0,56.25" fill="#ab3a6f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M432.0,56.25A5,5,0,1,1,422.0,56.25A5,5,0,1,1,432.0,56.25" fill="#f2c105" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Car</text>
+<text aria-label="63,96,49,60" text-anchor="start" x="63.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Copper</text>
+<text aria-label="120,147,49,60" text-anchor="start" x="120.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Vista</text>
+<text aria-label="172,177,49,60" text-anchor="start" x="172.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">a</text>
+<text aria-label="204,242,49,60" text-anchor="start" x="204.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">asphalt</text>
+<text aria-label="266,293,49,60" text-anchor="start" x="266.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">neque</text>
+<text aria-label="318,373,49,60" text-anchor="start" x="318.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">reciprocal</text>
+<text aria-label="395,411,49,60" text-anchor="start" x="395.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">red</text>
+<text aria-label="437,475,49,60" text-anchor="start" x="437.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">vortals</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">whether</text>
+</svg>

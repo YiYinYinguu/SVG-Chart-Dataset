@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="239" viewBox="0 0 308 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="238,303,0,26" text-anchor="end" x="303.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Franc</text>
+<path aria-label="Guinea hose: 622; Maryland Bacon: Dollar" role="graphics-symbol" aria-roledescription="arc mark"  d="M277.98713121515027,135.38929914771202A75,75,0,0,0,203.0,59.0L203.0,85.0A49,49,0,0,1,251.9915923938982,134.90767544317185Z" fill="#fedceb" stroke="black" stroke-width="1"/>
+<path aria-label="Guinea hose: 146; Maryland Bacon: wireless" role="graphics-symbol" aria-roledescription="arc mark"  d="M203.0,59.0A75,75,0,0,0,175.66527018670888,64.15866162483445L185.14130985531645,88.37032559489184A49,49,0,0,1,203.0,85.0Z" fill="#8195fb" stroke="black" stroke-width="1"/>
+<path aria-label="Guinea hose: 229; Maryland Bacon: Haven" role="graphics-symbol" aria-roledescription="arc mark"  d="M264.7447176886371,176.5745209902649A75,75,0,0,0,277.98713121515027,135.38929914771202L251.9915923938982,134.90767544317185A49,49,0,0,1,243.3398822232429,161.81535371363972Z" fill="#79d590" stroke="black" stroke-width="1"/>
+<path aria-label="Guinea hose: 107; Maryland Bacon: indexing" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.64048063568194,105.4648099086271A75,75,0,0,0,128.51187216908676,125.25249679934163L154.33442315047,128.28496457556986A49,49,0,0,1,157.6851140153122,115.35700914030303Z" fill="#564e7e" stroke="black" stroke-width="1"/>
+<path aria-label="Guinea hose: 316; Maryland Bacon: interfaces" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.66527018670888,64.15866162483445A75,75,0,0,0,133.64048063568194,105.4648099086271L157.6851140153122,115.35700914030303A49,49,0,0,1,185.14130985531645,88.37032559489184Z" fill="#cebfdb" stroke="black" stroke-width="1"/>
+<path aria-label="Guinea hose: 123; Maryland Bacon: Hip" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.55885449809676,193.57676373235833A75,75,0,0,0,264.7447176886371,176.5745209902649L243.3398822232429,161.81535371363972A49,49,0,0,1,232.7651182720899,172.92348563847412Z" fill="#ffb33a" stroke="black" stroke-width="1"/>
+<path aria-label="Guinea hose: 916; Maryland Bacon: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.51187216908676,125.25249679934163A75,75,0,0,0,248.55885449809676,193.57676373235833L232.7651182720899,172.92348563847412A49,49,0,0,1,154.33442315047,128.28496457556986Z" fill="#aed3c8" stroke="black" stroke-width="1"/>
+<text aria-label="260,273,64,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="267.22633536156684" y="72.95257462811387" font-family="serif" font-size="8px" fill="#fedceb" opacity="1">622</text>
+<text aria-label="179,193,39,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.30965165908577" y="47.56113822386145" font-family="serif" font-size="8px" fill="#8195fb" opacity="1">146</text>
+<text aria-label="281,295,155,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="288.6799600900505" y="163.54894624059807" font-family="serif" font-size="8px" fill="#79d590" opacity="1">229</text>
+<text aria-label="109,122,105,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.87864018398284" y="113.41972843812391" font-family="serif" font-size="8px" fill="#564e7e" opacity="1">107</text>
+<text aria-label="133,146,63,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="139.9115600476353" y="71.81395210501837" font-family="serif" font-size="8px" fill="#cebfdb" opacity="1">316</text>
+<text aria-label="261,274,190,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="268.1853344735308" y="198.05539597467666" font-family="serif" font-size="8px" fill="#ffb33a" opacity="1">123</text>
+<text aria-label="151,165,206,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="158.48214975204203" y="214.2186743003254" font-family="serif" font-size="8px" fill="#aed3c8" opacity="1">916</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fedceb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#79d590" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ffb33a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#aed3c8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#564e7e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#cebfdb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#8195fb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Dollar</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Haven</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Hip</text>
+<text aria-label="21,43,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="21,65,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">indexing</text>
+<text aria-label="21,76,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">interfaces</text>
+<text aria-label="21,65,145,156" text-anchor="start" x="21.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">wireless</text>
+<text aria-label="5,89,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Maryland Bacon</text>
+</svg>

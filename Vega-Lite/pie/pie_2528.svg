@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="316" height="270" viewBox="0 0 316 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="12,311,0,26" text-anchor="end" x="311.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">azure Executive Account</text>
+<path aria-label="male confidence Lithium: 11; sediment: panel" role="graphics-symbol" aria-roledescription="arc mark"  d="M211.0,59.0A75,75,0,0,0,136.05003637223206,136.7391517293244L211.0,134.0Z" fill="#0d5bed" stroke="black" stroke-width="2"/>
+<path aria-label="male confidence Lithium: 13; sediment: Passenger" role="graphics-symbol" aria-roledescription="arc mark"  d="M281.98298298682073,158.21603035785844A75,75,0,0,0,211.0,59.0L211.0,134.0Z" fill="#e7fd97" stroke="black" stroke-width="2"/>
+<path aria-label="male confidence Lithium: 19; sediment: Samoa" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.05003637223206,136.7391517293244A75,75,0,0,0,281.98298298682073,158.21603035785844L211.0,134.0Z" fill="#df9be2" stroke="black" stroke-width="2"/>
+<text aria-label="140,152,63,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="146.20868736178033" y="74.53332243014299" font-family="avenir" font-size="11px" fill="#0d5bed" opacity="1">11</text>
+<text aria-label="278,290,73,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="284.1960766662009" y="84.63269759978425" font-family="avenir" font-size="11px" fill="#e7fd97" opacity="1">13</text>
+<text aria-label="191,203,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="197.89589490384955" y="226.04090312675993" font-family="avenir" font-size="11px" fill="#df9be2" opacity="1">19</text>
+<path  d="M122.0,258.25A5,5,0,1,1,112.0,258.25A5,5,0,1,1,122.0,258.25" fill="#e7fd97" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M198.0,258.25A5,5,0,1,1,188.0,258.25A5,5,0,1,1,198.0,258.25" fill="#df9be2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,258.25A5,5,0,1,1,248.0,258.25A5,5,0,1,1,258.0,258.25" fill="#0d5bed" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="127,176,251,262" text-anchor="start" x="127.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Passenger</text>
+<text aria-label="203,230,251,262" text-anchor="start" x="203.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Samoa</text>
+<text aria-label="263,290,251,262" text-anchor="start" x="263.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">panel</text>
+</svg>

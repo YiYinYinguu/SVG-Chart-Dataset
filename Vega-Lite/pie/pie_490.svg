@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="306" height="239" viewBox="0 0 306 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="175,227,0,26" text-anchor="middle" x="201.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Kids</text>
+<path aria-label="Spring: 186; male Cadmium override: when" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.25652441742254,147.6711304946519A75,75,0,0,0,176.10077210591572,204.7462256963469L201.0,134.0Z" fill="#c07fea" stroke="black" stroke-width="0"/>
+<path aria-label="Spring: 391; male Cadmium override: outside" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.10077210591572,204.7462256963469A75,75,0,0,0,272.7358988502211,112.11482656795128L201.0,134.0Z" fill="#97cd2a" stroke="black" stroke-width="0"/>
+<path aria-label="Spring: 226; male Cadmium override: International" role="graphics-symbol" aria-roledescription="arc mark"  d="M272.7358988502211,112.11482656795128A75,75,0,0,0,201.0,59.0L201.0,134.0Z" fill="#95fe4b" stroke="black" stroke-width="0"/>
+<path aria-label="Spring: 311; male Cadmium override: whiteboard" role="graphics-symbol" aria-roledescription="arc mark"  d="M201.0,59.0A75,75,0,0,0,127.25652441742254,147.6711304946519L201.0,134.0Z" fill="#a0d616" stroke="black" stroke-width="0"/>
+<text aria-label="122,142,184,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="132.6211889623095" y="196.51784515061894" font-family="Balto" font-size="12px" fill="#c07fea" opacity="1">186</text>
+<text aria-label="253,273,190,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.2794504332329" y="202.9713017703546" font-family="Balto" font-size="12px" fill="#97cd2a" opacity="1">391</text>
+<text aria-label="244,264,53,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="254.5555845329819" y="65.6688216235168" font-family="Balto" font-size="12px" fill="#95fe4b" opacity="1">226</text>
+<text aria-label="122,141,68,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.80288267051003" y="80.45211599642607" font-family="Balto" font-size="12px" fill="#a0d616" opacity="1">311</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#95fe4b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#97cd2a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#c07fea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#a0d616" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,92,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">International</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">outside</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">when</text>
+<text aria-label="21,76,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">whiteboard</text>
+</svg>

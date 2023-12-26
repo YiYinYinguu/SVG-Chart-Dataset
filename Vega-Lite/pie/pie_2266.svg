@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="305" height="239" viewBox="0 0 305 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="144,300,0,26" text-anchor="end" x="300.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">grey Thorium</text>
+<path aria-label="male: 45; orange hightail: Cotton" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.45996085344893,125.01589015523211A75,75,0,0,0,168.49732950839058,94.08647916679276L105.0,134.0Z" fill="#b631ee" stroke="black" stroke-width="4"/>
+<path aria-label="male: 157; orange hightail: Tandem" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.35122291900478,208.13602186685674A75,75,0,0,0,179.45996085344893,125.01589015523211L105.0,134.0Z" fill="#b1648b" stroke="black" stroke-width="4"/>
+<path aria-label="male: 103; orange hightail: Copernicium" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.49732950839058,94.08647916679276A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#a6d6e8" stroke="black" stroke-width="4"/>
+<path aria-label="male: 98; orange hightail: perferendis" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,43.534328160688176,91.0235973429368L105.0,134.0Z" fill="#df8f9c" stroke="black" stroke-width="4"/>
+<path aria-label="male: 143; orange hightail: orchid" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.534328160688176,91.0235973429368A75,75,0,0,0,52.292883408378664,187.35691014852L105.0,134.0Z" fill="#2eeac2" stroke="black" stroke-width="4"/>
+<path aria-label="male: 95; orange hightail: lavender" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.292883408378664,187.35691014852A75,75,0,0,0,116.35122291900478,208.13602186685674L105.0,134.0Z" fill="#aafd33" stroke="black" stroke-width="4"/>
+<text aria-label="184,195,96,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.8291416560734" y="106.93312909706381" font-family="avenir" font-size="10px" fill="#b631ee" opacity="1">45</text>
+<text aria-label="168,184,181,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.6805803563807" y="191.42328913041226" font-family="avenir" font-size="10px" fill="#b1648b" opacity="1">157</text>
+<text aria-label="140,156,48,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.52780576834547" y="58.22608220360503" font-family="avenir" font-size="10px" fill="#a6d6e8" opacity="1">103</text>
+<text aria-label="57,68,47,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="63.41545651905521" y="57.1831738072641" font-family="avenir" font-size="10px" fill="#df8f9c" opacity="1">98</text>
+<text aria-label="7,23,135,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.369693748657383" y="145.14912273134553" font-family="avenir" font-size="10px" fill="#2eeac2" opacity="1">143</text>
+<text aria-label="71,82,212,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="77.2304246864487" y="222.6087068405136" font-family="avenir" font-size="10px" fill="#aafd33" opacity="1">95</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#a6d6e8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#b631ee" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#b1648b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#aafd33" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#2eeac2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#df8f9c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,299,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Copernicium</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Cotton</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Tandem</text>
+<text aria-label="239,283,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">lavender</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">orchid</text>
+<text aria-label="239,299,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">perferendis</text>
+</svg>

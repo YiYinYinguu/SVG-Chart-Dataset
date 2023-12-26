@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="258" height="286" viewBox="0 0 258 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="28,184,0,26" text-anchor="middle" x="106.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bedfordshire</text>
+<path aria-label="radiator Spur: 72; Pickup North: Berkshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.1223026990718,111.47204813241096A75,75,0,0,0,106.0,106.0L106.0,122.0A59,59,0,0,1,128.12287812326983,126.3046778641633Z" fill="#0c1c0b" stroke="white" stroke-width="1"/>
+<path aria-label="radiator Spur: 307; Pickup North: Louisiana" role="graphics-symbol" aria-roledescription="arc mark"  d="M112.99633870565827,255.67296193881498A75,75,0,0,0,180.02423581475375,168.9412889560399L164.23239884093962,171.5138139787514A59,59,0,0,1,111.50378644845117,239.74273005853445Z" fill="#7d6ed7" stroke="white" stroke-width="1"/>
+<path aria-label="radiator Spur: 606; Pickup North: card" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.99999999999999,106.0A75,75,0,1,0,112.99633870565827,255.67296193881498L111.50378644845117,239.74273005853445A59,59,0,1,1,105.99999999999999,122.0Z" fill="#5e3bab" stroke="white" stroke-width="1"/>
+<path aria-label="radiator Spur: 192; Pickup North: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M180.02423581475375,168.9412889560399A75,75,0,0,0,134.1223026990718,111.47204813241096L128.12287812326983,126.3046778641633A59,59,0,0,1,164.23239884093962,171.5138139787514Z" fill="#ab7c1f" stroke="white" stroke-width="1"/>
+<text aria-label="116,130,83,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.18983999780662" y="96.65686557038057" font-family="monospace" font-size="13px" fill="#0c1c0b" opacity="1">72</text>
+<text aria-label="166,187,227,241" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="177.21248467679754" y="240.03437131608644" font-family="monospace" font-size="13px" fill="#7d6ed7" opacity="1">307</text>
+<text aria-label="5,26,176,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.098164953678463" y="189.20238685796443" font-family="monospace" font-size="13px" fill="#5e3bab" opacity="1">606</text>
+<text aria-label="165,186,115,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.3220195218557" y="128.8322728751844" font-family="monospace" font-size="13px" fill="#ab7c1f" opacity="1">192</text>
+<path  d="M17.0,56.25A5,5,0,1,1,7.0,56.25A5,5,0,1,1,17.0,56.25" fill="#0c1c0b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M89.0,56.25A5,5,0,1,1,79.0,56.25A5,5,0,1,1,89.0,56.25" fill="#ab7c1f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M156.0,56.25A5,5,0,1,1,146.0,56.25A5,5,0,1,1,156.0,56.25" fill="#7d6ed7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M228.0,56.25A5,5,0,1,1,218.0,56.25A5,5,0,1,1,228.0,56.25" fill="#5e3bab" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="22,71,49,60" text-anchor="start" x="22.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Berkshire</text>
+<text aria-label="94,138,49,60" text-anchor="start" x="94.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="161,210,49,60" text-anchor="start" x="161.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Louisiana</text>
+<text aria-label="233,255,49,60" text-anchor="start" x="233.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">card</text>
+<text aria-label="6,78,32,44" text-anchor="start" x="6.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Pickup North</text>
+</svg>

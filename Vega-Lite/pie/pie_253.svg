@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="293" height="239" viewBox="0 0 293 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">escort</text>
+<path aria-label="Hybrid SDR override: 607; dutiful: aggregate" role="graphics-symbol" aria-roledescription="arc mark"  d="M86.35883650648849,206.6464522437825A75,75,0,0,0,175.48213287336534,159.63725698317336L142.59047086579486,147.67320372435913A40,40,0,0,1,95.05804613679386,172.74477453001734Z" fill="#9afe90" stroke="white" stroke-width="2"/>
+<path aria-label="Hybrid SDR override: 551; dutiful: New" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.48213287336534,159.63725698317336A75,75,0,0,0,146.2554062039478,71.36621152327392L127.00288330877217,100.59531281241276A40,40,0,0,1,142.59047086579486,147.67320372435913Z" fill="#9eabf0" stroke="white" stroke-width="2"/>
+<path aria-label="Hybrid SDR override: 655; dutiful: near" role="graphics-symbol" aria-roledescription="arc mark"  d="M77.10995490136182,64.37855657632537A75,75,0,0,0,35.91540396009604,163.19449588541113L68.15488211205123,149.5703978055526A40,40,0,0,1,90.1253092807263,96.86856350737352Z" fill="#c3c392" stroke="white" stroke-width="2"/>
+<path aria-label="Hybrid SDR override: 109; dutiful: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.60914626756993,61.60883076882203A75,75,0,0,0,105.0,59.0L105.0,94.0A40,40,0,0,1,115.45821134270396,95.39137641003842Z" fill="#ef6e73" stroke="white" stroke-width="2"/>
+<path aria-label="Hybrid SDR override: 157; dutiful: parsing" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,77.10995490136182,64.37855657632537L90.1253092807263,96.86856350737352A40,40,0,0,1,104.99999999999999,94.0Z" fill="#7b9817" stroke="white" stroke-width="2"/>
+<path aria-label="Hybrid SDR override: 379; dutiful: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.91540396009604,163.19449588541113A75,75,0,0,0,86.35883650648849,206.6464522437825L95.05804613679386,172.74477453001734A40,40,0,0,1,68.15488211205123,149.5703978055526Z" fill="#5c7df9" stroke="white" stroke-width="2"/>
+<path aria-label="Hybrid SDR override: 131; dutiful: Identity" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.2554062039478,71.36621152327392A75,75,0,0,0,124.60914626756993,61.60883076882203L115.45821134270396,95.39137641003842A40,40,0,0,1,127.00288330877217,100.59531281241276Z" fill="#2e43bb" stroke="white" stroke-width="2"/>
+<text aria-label="136,157,204,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="146.98864365879766" y="217.60498604795123" font-family="avenir" font-size="13px" fill="#9afe90" opacity="1">607</text>
+<text aria-label="179,200,96,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.4385149568365" y="109.71113006904622" font-family="avenir" font-size="13px" fill="#9eabf0" opacity="1">551</text>
+<text aria-label="11,32,90,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.92941845168687" y="103.36939964099585" font-family="avenir" font-size="13px" fill="#c3c392" opacity="1">655</text>
+<text aria-label="106,127,35,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="116.86915588895813" y="48.786082148110935" font-family="avenir" font-size="13px" fill="#ef6e73" opacity="1">109</text>
+<text aria-label="77,98,36,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="87.95763939116503" y="49.628296695840305" font-family="avenir" font-size="13px" fill="#7b9817" opacity="1">157</text>
+<text aria-label="35,56,193,207" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="46.26161984740811" y="206.18946177415978" font-family="avenir" font-size="13px" fill="#5c7df9" opacity="1">379</text>
+<text aria-label="131,152,42,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.9850250997397" y="55.95057636782799" font-family="avenir" font-size="13px" fill="#2e43bb" opacity="1">131</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ef6e73" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#2e43bb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#9eabf0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#9afe90" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#5c7df9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#c3c392" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#7b9817" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Identity</text>
+<text aria-label="239,255,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">New</text>
+<text aria-label="239,288,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">aggregate</text>
+<text aria-label="239,261,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="239,261,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">near</text>
+<text aria-label="239,277,145,156" text-anchor="start" x="239.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">parsing</text>
+<text aria-label="223,265,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">dutiful</text>
+</svg>

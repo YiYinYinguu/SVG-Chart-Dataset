@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="502" height="336" viewBox="0 0 502 336" style="background-color: rgb(255, 255, 255);">
+<line x1="55.5" y1="43.5" x2="55.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="107.5" y1="43.5" x2="107.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="158.5" y1="43.5" x2="158.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="209.5" y1="43.5" x2="209.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="260.5" y1="43.5" x2="260.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="312.5" y1="43.5" x2="312.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="363.5" y1="43.5" x2="363.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="414.5" y1="43.5" x2="414.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="466.5" y1="43.5" x2="466.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="44,60,250,282" text-anchor="end" x="55.78260869565216" y="250.5" transform="rotate(270.0, 60.78260869565216, 250.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">bath</text>
+<text aria-label="96,112,250,314" text-anchor="end" x="107.08695652173911" y="250.5" transform="rotate(270.0, 112.08695652173911, 250.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">cannibal</text>
+<text aria-label="147,163,250,322" text-anchor="end" x="158.39130434782606" y="250.5" transform="rotate(270.0, 163.39130434782606, 250.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">checkbook</text>
+<text aria-label="198,214,250,298" text-anchor="end" x="209.69565217391303" y="250.5" transform="rotate(270.0, 214.69565217391303, 250.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">glider</text>
+<text aria-label="250,266,250,314" text-anchor="end" x="261.0" y="250.5" transform="rotate(270.0, 266.0, 250.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">hazelnut</text>
+<text aria-label="301,317,250,274" text-anchor="end" x="312.3043478260869" y="250.5" transform="rotate(270.0, 317.3043478260869, 250.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">joy</text>
+<text aria-label="352,368,250,314" text-anchor="end" x="363.6086956521739" y="250.5" transform="rotate(270.0, 368.6086956521739, 250.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">magazine</text>
+<text aria-label="403,419,250,314" text-anchor="end" x="414.9130434782609" y="250.5" transform="rotate(270.0, 419.9130434782609, 250.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">occasion</text>
+<text aria-label="455,471,250,322" text-anchor="end" x="466.21739130434776" y="250.5" transform="rotate(270.0, 471.21739130434776, 250.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">submitter</text>
+<line aria-label="55,55,243,248" x1="55.5" y1="243.5" x2="55.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="107,107,243,248" x1="107.5" y1="243.5" x2="107.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="158,158,243,248" x1="158.5" y1="243.5" x2="158.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="209,209,243,248" x1="209.5" y1="243.5" x2="209.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="260,260,243,248" x1="260.5" y1="243.5" x2="260.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="312,312,243,248" x1="312.5" y1="243.5" x2="312.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="363,363,243,248" x1="363.5" y1="243.5" x2="363.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="414,414,243,248" x1="414.5" y1="243.5" x2="414.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="466,466,243,248" x1="466.5" y1="243.5" x2="466.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,497,243,243" x1="25.5" y1="243.5" x2="497.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="131,391,0,26" text-anchor="middle" x="261.0" y="25.659428571428563" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southwest boo system</text>
+<text aria-label="15,23,233,249" text-anchor="end" x="23.5" y="248.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="7,23,204,220" text-anchor="end" x="23.5" y="219.92857142857144" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">10</text>
+<text aria-label="7,23,176,192" text-anchor="end" x="23.5" y="191.35714285714286" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="7,23,147,163" text-anchor="end" x="23.5" y="162.78571428571428" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">30</text>
+<text aria-label="7,23,119,135" text-anchor="end" x="23.5" y="134.21428571428572" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="7,23,90,106" text-anchor="end" x="23.5" y="105.64285714285714" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="7,23,62,78" text-anchor="end" x="23.5" y="77.07142857142858" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="7,23,33,49" text-anchor="end" x="23.5" y="48.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">70</text>
+<line aria-label="25,25,43,243" x1="25.5" y1="243.5" x2="25.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Distributed: submitter; Potassium: 7; Ball: red" role="graphics-symbol" aria-roledescription="bar" d="M445.695652173913,223.0h20.52173913043478v20h-20.52173913043478Z" fill="#612b48"/>
+<path aria-label="Distributed: submitter; Potassium: 34; Ball: sensor" role="graphics-symbol" aria-roledescription="bar" d="M466.21739130434776,145.85714285714283h20.52173913043478v97.14285714285715h-20.52173913043478Z" fill="#67bc7b"/>
+<path aria-label="Distributed: occasion; Potassium: 33; Ball: red" role="graphics-symbol" aria-roledescription="bar" d="M394.39130434782606,148.71428571428572h20.52173913043478v94.28571428571428h-20.52173913043478Z" fill="#612b48"/>
+<path aria-label="Distributed: occasion; Potassium: 22; Ball: sensor" role="graphics-symbol" aria-roledescription="bar" d="M414.9130434782609,180.14285714285714h20.52173913043478v62.85714285714286h-20.52173913043478Z" fill="#67bc7b"/>
+<path aria-label="Distributed: bath; Potassium: 34; Ball: red" role="graphics-symbol" aria-roledescription="bar" d="M35.26086956521738,145.85714285714283h20.52173913043478v97.14285714285715h-20.52173913043478Z" fill="#612b48"/>
+<path aria-label="Distributed: bath; Potassium: 2; Ball: sensor" role="graphics-symbol" aria-roledescription="bar" d="M55.78260869565216,237.28571428571428h20.52173913043478v5.714285714285722h-20.52173913043478Z" fill="#67bc7b"/>
+<path aria-label="Distributed: cannibal; Potassium: 27; Ball: red" role="graphics-symbol" aria-roledescription="bar" d="M86.56521739130433,165.85714285714286h20.52173913043478v77.14285714285714h-20.52173913043478Z" fill="#612b48"/>
+<path aria-label="Distributed: cannibal; Potassium: 47; Ball: sensor" role="graphics-symbol" aria-roledescription="bar" d="M107.08695652173911,108.71428571428572h20.52173913043478v134.28571428571428h-20.52173913043478Z" fill="#67bc7b"/>
+<path aria-label="Distributed: checkbook; Potassium: 34; Ball: red" role="graphics-symbol" aria-roledescription="bar" d="M137.86956521739128,145.85714285714283h20.52173913043478v97.14285714285715h-20.52173913043478Z" fill="#612b48"/>
+<path aria-label="Distributed: checkbook; Potassium: 59; Ball: sensor" role="graphics-symbol" aria-roledescription="bar" d="M158.39130434782606,74.42857142857143h20.52173913043478v168.57142857142858h-20.52173913043478Z" fill="#67bc7b"/>
+<path aria-label="Distributed: hazelnut; Potassium: 66; Ball: red" role="graphics-symbol" aria-roledescription="bar" d="M240.4782608695652,54.42857142857143h20.52173913043478v188.57142857142856h-20.52173913043478Z" fill="#612b48"/>
+<path aria-label="Distributed: hazelnut; Potassium: 15; Ball: sensor" role="graphics-symbol" aria-roledescription="bar" d="M261.0,200.14285714285714h20.52173913043478v42.85714285714286h-20.52173913043478Z" fill="#67bc7b"/>
+<path aria-label="Distributed: magazine; Potassium: 35; Ball: red" role="graphics-symbol" aria-roledescription="bar" d="M343.0869565217391,143.0h20.52173913043478v100h-20.52173913043478Z" fill="#612b48"/>
+<path aria-label="Distributed: magazine; Potassium: 13; Ball: sensor" role="graphics-symbol" aria-roledescription="bar" d="M363.6086956521739,205.85714285714286h20.52173913043478v37.14285714285714h-20.52173913043478Z" fill="#67bc7b"/>
+<path aria-label="Distributed: glider; Potassium: 2; Ball: red" role="graphics-symbol" aria-roledescription="bar" d="M189.17391304347825,237.28571428571428h20.52173913043478v5.714285714285722h-20.52173913043478Z" fill="#612b48"/>
+<path aria-label="Distributed: glider; Potassium: 43; Ball: sensor" role="graphics-symbol" aria-roledescription="bar" d="M209.69565217391303,120.14285714285714h20.52173913043478v122.85714285714286h-20.52173913043478Z" fill="#67bc7b"/>
+<path aria-label="Distributed: joy; Potassium: 60; Ball: red" role="graphics-symbol" aria-roledescription="bar" d="M291.78260869565213,71.57142857142858h20.52173913043478v171.42857142857142h-20.52173913043478Z" fill="#612b48"/>
+<path aria-label="Distributed: joy; Potassium: 67; Ball: sensor" role="graphics-symbol" aria-roledescription="bar" d="M312.3043478260869,51.57142857142856h20.52173913043478v191.42857142857144h-20.52173913043478Z" fill="#67bc7b"/>
+<text aria-label="452,459,202,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="455.9565217391304" y="217.088" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">7</text>
+<text aria-label="468,484,125,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="476.4782608695652" y="139.94514285714286" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">34</text>
+<text aria-label="397,412,128,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="404.65217391304344" y="142.80228571428572" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">33</text>
+<text aria-label="417,432,160,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="425.17391304347825" y="174.23085714285713" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">22</text>
+<text aria-label="37,53,125,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.52173913043477" y="139.94514285714286" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">34</text>
+<text aria-label="62,69,217,232" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="66.04347826086955" y="231.37371428571427" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">2</text>
+<text aria-label="89,104,145,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="96.82608695652172" y="159.94514285714286" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">27</text>
+<text aria-label="109,124,88,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.3478260869565" y="102.80228571428572" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">47</text>
+<text aria-label="140,155,125,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.1304347826087" y="139.94514285714286" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">34</text>
+<text aria-label="161,176,54,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.65217391304344" y="68.51657142857142" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">59</text>
+<text aria-label="243,258,34,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="250.73913043478257" y="48.51657142857143" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">66</text>
+<text aria-label="263,278,180,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.2608695652174" y="194.23085714285713" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">15</text>
+<text aria-label="345,360,122,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="353.3478260869565" y="137.088" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">35</text>
+<text aria-label="366,381,185,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="373.8695652173913" y="199.94514285714286" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">13</text>
+<text aria-label="195,203,217,232" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="199.43478260869563" y="231.37371428571427" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">2</text>
+<text aria-label="212,227,100,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="219.95652173913044" y="114.23085714285713" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">43</text>
+<text aria-label="294,309,51,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="302.0434782608695" y="65.65942857142858" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">60</text>
+<text aria-label="314,330,31,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="322.5652173913043" y="45.65942857142856" font-family="monospace" font-size="14.16px" fill="#000" opacity="1">67</text>
+</svg>

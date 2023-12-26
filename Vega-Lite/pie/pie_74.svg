@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="331" height="239" viewBox="0 0 331 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="200,252,0,26" text-anchor="middle" x="226.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">blue</text>
+<path aria-label="Cotton FTM: 306; Southwest Granite: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.8620928930855,150.6086286014332A75,75,0,0,0,289.4603839873733,173.97223616680876L264.92236884558895,158.51630484897603A46,46,0,0,1,181.14208364109243,144.18662554221237Z" fill="#02fdca" stroke="black" stroke-width="0"/>
+<path aria-label="Cotton FTM: 115; Southwest Granite: IP" role="graphics-symbol" aria-roledescription="arc mark"  d="M289.4603839873733,173.97223616680876A75,75,0,0,0,297.11204856932244,110.16564353135738L269.6153897891844,119.38159469923252A46,46,0,0,1,264.92236884558895,158.51630484897603Z" fill="#b13bb2" stroke="black" stroke-width="0"/>
+<path aria-label="Cotton FTM: 162; Southwest Granite: Convertible" role="graphics-symbol" aria-roledescription="arc mark"  d="M297.11204856932244,110.16564353135738A75,75,0,0,0,226.0,59.0L226.0,88.0A46,46,0,0,1,269.6153897891844,119.38159469923252Z" fill="#9daab5" stroke="black" stroke-width="0"/>
+<path aria-label="Cotton FTM: 233; Southwest Granite: healthily" role="graphics-symbol" aria-roledescription="arc mark"  d="M226.0,59.0A75,75,0,0,0,152.8620928930855,150.6086286014332L181.14208364109243,144.18662554221237A46,46,0,0,1,226.0,88.0Z" fill="#f188f0" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#9daab5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#b13bb2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#02fdca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#f188f0" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Convertible</text>
+<text aria-label="21,32,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">IP</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">healthily</text>
+<text aria-label="5,107,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Southwest Granite</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,196,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">adapter gopher</text>
+<path aria-label="index channels: 231; Cargo Hong: Josue" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.01692606576594,174.6677640056813A75,75,0,0,0,105.0,59.0L105.0,102.0A32,32,0,0,1,131.88722178806015,151.35157930909068Z" fill="#93f512" stroke="black" stroke-width="0"/>
+<path aria-label="index channels: 54; Cargo Hong: Plaza" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.7282699365927,199.9430870322126A75,75,0,0,0,168.01692606576594,174.6677640056813L131.88722178806015,151.35157930909068A32,32,0,0,1,120.24406183961288,162.13571713374404Z" fill="#90bcdb" stroke="black" stroke-width="0"/>
+<path aria-label="index channels: 392; Cargo Hong: allocation" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,140.7282699365927,199.9430870322126L120.24406183961288,162.13571713374404A32,32,0,1,1,105.0,102.0Z" fill="#72bd5b" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#93f512" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M70.0,258.25A5,5,0,1,1,60.0,258.25A5,5,0,1,1,70.0,258.25" fill="#90bcdb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M122.0,258.25A5,5,0,1,1,112.0,258.25A5,5,0,1,1,122.0,258.25" fill="#72bd5b" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Josue</text>
+<text aria-label="75,102,251,262" text-anchor="start" x="75.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Plaza</text>
+<text aria-label="127,182,251,262" text-anchor="start" x="127.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">allocation</text>
+</svg>

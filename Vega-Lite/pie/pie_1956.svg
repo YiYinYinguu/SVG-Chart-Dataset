@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="484" height="286" viewBox="0 0 484 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,304,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Arecibo Southwest Pizza</text>
+<path aria-label="above: 80; application Jones: compress" role="graphics-symbol" aria-roledescription="arc mark"  d="M49.226749022473065,184.14323957821026A75,75,0,0,0,166.01941489642763,177.60769434053614L105.0,134.0Z" fill="#e32cbe" stroke="white" stroke-width="3"/>
+<path aria-label="above: 41; application Jones: open" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,45.47723724682071,88.37061567116282L105.0,134.0Z" fill="#74f03d" stroke="white" stroke-width="3"/>
+<path aria-label="above: 14; application Jones: benchmark" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.01941489642763,177.60769434053614A75,75,0,0,0,176.48309981504934,156.69727826924833L105.0,134.0Z" fill="#308275" stroke="white" stroke-width="3"/>
+<path aria-label="above: 8; application Jones: Southern" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.48309981504934,156.69727826924833A75,75,0,0,0,179.38096426921825,143.61624429708803L105.0,134.0Z" fill="#736e88" stroke="white" stroke-width="3"/>
+<path aria-label="above: 40; application Jones: infrastructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M45.47723724682071,88.37061567116282A75,75,0,0,0,32.156270406579836,151.85472091410793L105.0,134.0Z" fill="#a7918f" stroke="white" stroke-width="3"/>
+<path aria-label="above: 22; application Jones: hack" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.156270406579836,151.85472091410793A75,75,0,0,0,49.226749022473065,184.14323957821026L105.0,134.0Z" fill="#dfaead" stroke="white" stroke-width="3"/>
+<path aria-label="above: 76; application Jones: Rwanda" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.38096426921825,143.61624429708803A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#bedc97" stroke="white" stroke-width="3"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#bedc97" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,274.25A5,5,0,1,1,72.0,274.25A5,5,0,1,1,82.0,274.25" fill="#736e88" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M153.0,274.25A5,5,0,1,1,143.0,274.25A5,5,0,1,1,153.0,274.25" fill="#308275" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,274.25A5,5,0,1,1,224.0,274.25A5,5,0,1,1,234.0,274.25" fill="#e32cbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M307.0,274.25A5,5,0,1,1,297.0,274.25A5,5,0,1,1,307.0,274.25" fill="#dfaead" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M357.0,274.25A5,5,0,1,1,347.0,274.25A5,5,0,1,1,357.0,274.25" fill="#a7918f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M449.0,274.25A5,5,0,1,1,439.0,274.25A5,5,0,1,1,449.0,274.25" fill="#74f03d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Rwanda</text>
+<text aria-label="87,131,267,278" text-anchor="start" x="87.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Southern</text>
+<text aria-label="158,207,267,278" text-anchor="start" x="158.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">benchmark</text>
+<text aria-label="239,283,267,278" text-anchor="start" x="239.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">compress</text>
+<text aria-label="312,334,267,278" text-anchor="start" x="312.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">hack</text>
+<text aria-label="362,439,267,278" text-anchor="start" x="362.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">infrastructure</text>
+<text aria-label="454,476,267,278" text-anchor="start" x="454.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">open</text>
+<text aria-label="5,107,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">application Jones</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="288" height="270" viewBox="0 0 288 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="20,189,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">brand program</text>
+<path aria-label="hub Awesome: 27; female Thulium: Outdoors" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.06567095940379,161.86211357189913A75,75,0,0,0,32.5106265517731,184.2429399282827L47.97502622072817,180.13777941024907A59,59,0,0,1,46.05166115473098,162.53152934322733Z" fill="#d63b3a" stroke="black" stroke-width="4"/>
+<path aria-label="hub Awesome: 9; female Thulium: Awesome" role="graphics-symbol" aria-roledescription="arc mark"  d="M112.52046628017894,90.37800199050757A75,75,0,0,0,105.0,90.0L105.0,106.0A59,59,0,0,1,110.91610014040742,106.29736156586596Z" fill="#d0245f" stroke="black" stroke-width="4"/>
+<path aria-label="hub Awesome: 283; female Thulium: Kids" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.5106265517731,184.2429399282827A75,75,0,1,0,177.15709941534783,144.5463205275039L161.76358487340696,148.90977214830306A59,59,0,1,1,47.97502622072817,180.13777941024907Z" fill="#8bcbc8" stroke="black" stroke-width="4"/>
+<path aria-label="hub Awesome: 107; female Thulium: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.15709941534783,144.5463205275039A75,75,0,0,0,112.52046628017894,90.37800199050757L110.91610014040742,106.29736156586596A59,59,0,0,1,161.76358487340696,148.90977214830306Z" fill="#76cd59" stroke="black" stroke-width="4"/>
+<path aria-label="hub Awesome: 137; female Thulium: USB" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,30.06567095940379,161.86211357189913L46.05166115473098,162.53152934322733A59,59,0,0,1,104.99999999999999,106.0Z" fill="#73c86d" stroke="black" stroke-width="4"/>
+<text aria-label="8,23,164,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.532275094273558" y="178.77375056942097" font-family="Balto" font-size="14px" fill="#d63b3a" opacity="1">27</text>
+<text aria-label="105,113,65,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.51797603882635" y="79.11347213006505" font-family="Balto" font-size="14px" fill="#d0245f" opacity="1">9</text>
+<text aria-label="117,140,241,256" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.81880599941894" y="255.79092395384464" font-family="Balto" font-size="14px" fill="#8bcbc8" opacity="1">283</text>
+<text aria-label="151,174,86,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.8081277588591" y="100.02014522329418" font-family="Balto" font-size="14px" fill="#76cd59" opacity="1">107</text>
+<text aria-label="31,53,90,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="42.70590611556697" y="104.04273814947676" font-family="Balto" font-size="14px" fill="#73c86d" opacity="1">137</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#d0245f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M90.0,40.25A5,5,0,1,1,80.0,40.25A5,5,0,1,1,90.0,40.25" fill="#76cd59" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M137.0,40.25A5,5,0,1,1,127.0,40.25A5,5,0,1,1,137.0,40.25" fill="#8bcbc8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M185.0,40.25A5,5,0,1,1,175.0,40.25A5,5,0,1,1,185.0,40.25" fill="#d63b3a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,40.25A5,5,0,1,1,248.0,40.25A5,5,0,1,1,258.0,40.25" fill="#73c86d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Awesome</text>
+<text aria-label="95,117,33,44" text-anchor="start" x="95.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="142,164,33,44" text-anchor="start" x="142.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Kids</text>
+<text aria-label="190,234,33,44" text-anchor="start" x="190.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Outdoors</text>
+<text aria-label="263,279,33,44" text-anchor="start" x="263.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">USB</text>
+</svg>

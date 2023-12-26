@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="291" height="239" viewBox="0 0 291 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="168,285,0,26" text-anchor="end" x="285.22419743095924" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Macao web</text>
+<path aria-label="Hybrid collaborative Mountain: 184; Realigned: introduce" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.80860888336056,59.44866794232152A75,75,0,0,0,131.0003873326227,81.95154342563822L155.48021174183373,105.5468437393489A41,41,0,0,1,180.52203952290375,93.24527180846908Z" fill="#c22aa0" stroke="black" stroke-width="0"/>
+<path aria-label="Hybrid collaborative Mountain: 509; Realigned: Soft" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.97745378687436,96.62262069162767A75,75,0,0,0,172.1854834770413,207.8971458601942L177.99473096744924,174.39710640357282A41,41,0,0,1,149.4543414034913,113.56703264475647Z" fill="#6a23a2" stroke="black" stroke-width="0"/>
+<path aria-label="Hybrid collaborative Mountain: 29; Realigned: wisely" role="graphics-symbol" aria-roledescription="arc mark"  d="M185.0,59.0A75,75,0,0,0,176.80860888336056,59.44866794232152L180.52203952290375,93.24527180846908A41,41,0,0,1,185.0,93.0Z" fill="#dcba44" stroke="black" stroke-width="0"/>
+<path aria-label="Hybrid collaborative Mountain: 65; Realigned: Tesla" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.0003873326227,81.95154342563822A75,75,0,0,0,119.97745378687436,96.62262069162767L149.4543414034913,113.56703264475647A41,41,0,0,1,155.48021174183373,105.5468437393489Z" fill="#efbde0" stroke="black" stroke-width="0"/>
+<path aria-label="Hybrid collaborative Mountain: 878; Realigned: Designer" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.1854834770413,207.8971458601942A75,75,0,1,0,185.0,59.0L185.0,93.0A41,41,0,1,1,177.99473096744924,174.39710640357282Z" fill="#43a1fd" stroke="black" stroke-width="0"/>
+<text aria-label="135,155,45,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.3178109423731" y="57.22052320301427" font-family="Balto" font-size="12px" fill="#c22aa0" opacity="1">184</text>
+<text aria-label="93,113,164,177" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="103.5222350375663" y="176.2279193355643" font-family="Balto" font-size="12px" fill="#6a23a2" opacity="1">509</text>
+<text aria-label="173,186,36,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.0777983701029" y="48.13470118496997" font-family="Balto" font-size="12px" fill="#dcba44" opacity="1">29</text>
+<text aria-label="106,119,71,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="113.04622780854838" y="83.93841782355344" font-family="Balto" font-size="12px" fill="#efbde0" opacity="1">65</text>
+<text aria-label="264,284,133,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="274.66853336845924" y="145.717131821442" font-family="Balto" font-size="12px" fill="#43a1fd" opacity="1">878</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#43a1fd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#6a23a2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#efbde0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c22aa0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#dcba44" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Designer</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Soft</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Tesla</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">introduce</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">wisely</text>
+</svg>

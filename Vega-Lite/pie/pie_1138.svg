@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="328" height="239" viewBox="0 0 328 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="11,323,0,26" text-anchor="end" x="323.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Hybrid firewall Expanded</text>
+<path aria-label="SUV junior: 61; Smart: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M254.9481323319792,66.14488346116893A75,75,0,0,0,223.0,59.0L223.0,134.0Z" fill="#bff5bb" stroke="white" stroke-width="2"/>
+<path aria-label="SUV junior: 120; Smart: Oval" role="graphics-symbol" aria-roledescription="arc mark"  d="M295.3798609811985,114.34915461507117A75,75,0,0,0,254.9481323319792,66.14488346116893L223.0,134.0Z" fill="#c473cf" stroke="white" stroke-width="2"/>
+<path aria-label="SUV junior: 310; Smart: portals" role="graphics-symbol" aria-roledescription="arc mark"  d="M223.0,59.0A75,75,0,0,0,164.00297103378927,180.30713306997197L223.0,134.0Z" fill="#26c679" stroke="white" stroke-width="2"/>
+<path aria-label="SUV junior: 380; Smart: decoration" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.00297103378927,180.30713306997197A75,75,0,0,0,295.3798609811985,114.34915461507117L223.0,134.0Z" fill="#f1cf6a" stroke="white" stroke-width="2"/>
+<path  d="M48.0,56.0A5,5,0,1,1,38.0,56.0A5,5,0,1,1,48.0,56.0" fill="#bff5bb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M48.0,72.0A5,5,0,1,1,38.0,72.0A5,5,0,1,1,48.0,72.0" fill="#c473cf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M48.0,88.0A5,5,0,1,1,38.0,88.0A5,5,0,1,1,48.0,88.0" fill="#f1cf6a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M48.0,104.0A5,5,0,1,1,38.0,104.0A5,5,0,1,1,48.0,104.0" fill="#26c679" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="53,91,49,60" text-anchor="start" x="53.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="53,75,65,76" text-anchor="start" x="53.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Oval</text>
+<text aria-label="53,108,81,92" text-anchor="start" x="53.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">decoration</text>
+<text aria-label="53,91,97,108" text-anchor="start" x="53.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">portals</text>
+<text aria-label="37,67,32,44" text-anchor="start" x="37.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Smart</text>
+</svg>

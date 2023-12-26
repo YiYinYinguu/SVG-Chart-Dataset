@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="282" height="239" viewBox="0 0 282 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,278,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Assistant leading ack</text>
+<path aria-label="Sudan wireless Bentley: 174; AI female nulla: Road" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.1376457969053,102.65895302872812A75,75,0,0,0,217.611905346602,72.98359473027743L174.0,134.0Z" fill="#fd1dfc" stroke="white" stroke-width="3"/>
+<path aria-label="Sudan wireless Bentley: 408; AI female nulla: mortar" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.24754716361025,69.78748253523003A75,75,0,0,0,100.34190687942267,148.12392713944524L174.0,134.0Z" fill="#7cfaf6" stroke="white" stroke-width="3"/>
+<path aria-label="Sudan wireless Bentley: 793; AI female nulla: group" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.30005340928548,204.08646696797456A75,75,0,0,0,242.1376457969053,102.65895302872812L174.0,134.0Z" fill="#df921b" stroke="white" stroke-width="3"/>
+<path aria-label="Sudan wireless Bentley: 208; AI female nulla: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M217.611905346602,72.98359473027743A75,75,0,0,0,174.0,59.0L174.0,134.0Z" fill="#7cbe7f" stroke="white" stroke-width="3"/>
+<path aria-label="Sudan wireless Bentley: 182; AI female nulla: program" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.0,59.0A75,75,0,0,0,135.24754716361025,69.78748253523003L174.0,134.0Z" fill="#e22a16" stroke="white" stroke-width="3"/>
+<path aria-label="Sudan wireless Bentley: 341; AI female nulla: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M100.34190687942267,148.12392713944524A75,75,0,0,0,147.30005340928548,204.08646696797456L174.0,134.0Z" fill="#be1b0a" stroke="white" stroke-width="3"/>
+<text aria-label="232,253,67,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="243.37356892599692" y="80.66495020957987" font-family="monospace" font-size="13px" fill="#fd1dfc" opacity="1">174</text>
+<text aria-label="81,102,88,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="91.79183384598483" y="101.36917394333246" font-family="monospace" font-size="13px" fill="#7cfaf6" opacity="1">408</text>
+<text aria-label="229,250,186,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="239.73936765579327" y="199.46816688511575" font-family="monospace" font-size="13px" fill="#df921b" opacity="1">793</text>
+<text aria-label="190,211,39,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="201.47933979256018" y="52.297690319542625" font-family="monospace" font-size="13px" fill="#7cbe7f" opacity="1">208</text>
+<text aria-label="139,160,38,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="149.86446485154266" y="51.29662092457076" font-family="monospace" font-size="13px" fill="#e22a16" opacity="1">182</text>
+<text aria-label="94,115,182,196" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="105.056000119292" y="195.85088487178854" font-family="monospace" font-size="13px" fill="#be1b0a" opacity="1">341</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#7cbe7f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fd1dfc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#df921b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#be1b0a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#7cfaf6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#e22a16" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Road</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">group</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">mortar</text>
+<text aria-label="21,59,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">program</text>
+</svg>

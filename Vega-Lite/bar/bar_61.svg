@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="969" height="379" viewBox="0 0 969 379" style="background-color: rgb(255, 255, 255);">
+<line x1="37.5" y1="243.5" x2="964.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="210.5" x2="964.5" y2="210.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="176.5" x2="964.5" y2="176.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="143.5" x2="964.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="110.5" x2="964.5" y2="110.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="76.5" x2="964.5" y2="76.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="43.5" x2="964.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="90,110,250,310" text-anchor="end" x="104.82926829268288" y="250.5" transform="rotate(270.0, 110.82926829268288, 250.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">cuckoo</text>
+<text aria-label="203,223,250,320" text-anchor="end" x="217.87804878048777" y="250.5" transform="rotate(270.0, 223.87804878048777, 250.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">jasmine</text>
+<text aria-label="316,336,250,310" text-anchor="end" x="330.9268292682927" y="250.5" transform="rotate(270.0, 336.9268292682927, 250.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">litter</text>
+<text aria-label="429,449,250,350" text-anchor="end" x="443.9756097560976" y="250.5" transform="rotate(270.0, 449.9756097560976, 250.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">locomotive</text>
+<text aria-label="543,563,250,330" text-anchor="end" x="557.0243902439024" y="250.5" transform="rotate(270.0, 563.0243902439024, 250.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">marksman</text>
+<text aria-label="656,676,250,320" text-anchor="end" x="670.0731707317073" y="250.5" transform="rotate(270.0, 676.0731707317073, 250.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">monitor</text>
+<text aria-label="769,789,250,280" text-anchor="end" x="783.1219512195123" y="250.5" transform="rotate(270.0, 789.1219512195123, 250.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">pad</text>
+<text aria-label="882,902,250,380" text-anchor="end" x="896.1707317073171" y="250.5" transform="rotate(270.0, 902.1707317073171, 250.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">perpendicular</text>
+<line aria-label="104,104,243,248" x1="104.5" y1="243.5" x2="104.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="217,217,243,248" x1="217.5" y1="243.5" x2="217.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="330,330,243,248" x1="330.5" y1="243.5" x2="330.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="443,443,243,248" x1="443.5" y1="243.5" x2="443.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="557,557,243,248" x1="557.5" y1="243.5" x2="557.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="670,670,243,248" x1="670.5" y1="243.5" x2="670.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="783,783,243,248" x1="783.5" y1="243.5" x2="783.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="896,896,243,248" x1="896.5" y1="243.5" x2="896.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,964,243,243" x1="37.5" y1="243.5" x2="964.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="461,539,0,26" text-anchor="middle" x="500.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Nevada</text>
+<text aria-label="25,35,230,250" text-anchor="end" x="35.5" y="249.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="15,35,197,217" text-anchor="end" x="35.5" y="216.16666666666669" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="5,35,163,183" text-anchor="end" x="35.5" y="182.83333333333334" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="5,35,130,150" text-anchor="end" x="35.5" y="149.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="5,35,97,117" text-anchor="end" x="35.5" y="116.16666666666667" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="5,35,63,83" text-anchor="end" x="35.5" y="82.83333333333333" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">250</text>
+<text aria-label="5,35,30,50" text-anchor="end" x="35.5" y="49.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">300</text>
+<line aria-label="37,37,43,243" x1="37.5" y1="243.5" x2="37.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="male Ferrari liberalize: litter; payment: 215; Tools: Hydrogen Facilitator" role="graphics-symbol" aria-roledescription="bar" d="M285.7073170731707,99.66666666666666h45.21951219512196v143.33333333333334h-45.21951219512196Z" fill="#3f7ccc"/>
+<path aria-label="male Ferrari liberalize: litter; payment: 196; Tools: Southeast Chair" role="graphics-symbol" aria-roledescription="bar" d="M330.9268292682927,112.33333333333334h45.21951219512196v130.66666666666666h-45.21951219512196Z" fill="#da7ed8"/>
+<path aria-label="male Ferrari liberalize: jasmine; payment: 188; Tools: Hydrogen Facilitator" role="graphics-symbol" aria-roledescription="bar" d="M172.65853658536582,117.66666666666666h45.21951219512196v125.33333333333334h-45.21951219512196Z" fill="#3f7ccc"/>
+<path aria-label="male Ferrari liberalize: jasmine; payment: 229; Tools: Southeast Chair" role="graphics-symbol" aria-roledescription="bar" d="M217.87804878048777,90.33333333333334h45.21951219512196v152.66666666666666h-45.21951219512196Z" fill="#da7ed8"/>
+<path aria-label="male Ferrari liberalize: perpendicular; payment: 89; Tools: Hydrogen Facilitator" role="graphics-symbol" aria-roledescription="bar" d="M850.9512195121952,183.66666666666669h45.21951219512196v59.333333333333314h-45.21951219512196Z" fill="#3f7ccc"/>
+<path aria-label="male Ferrari liberalize: perpendicular; payment: 9; Tools: Southeast Chair" role="graphics-symbol" aria-roledescription="bar" d="M896.1707317073171,237.0h45.21951219512196v6h-45.21951219512196Z" fill="#da7ed8"/>
+<path aria-label="male Ferrari liberalize: pad; payment: 133; Tools: Hydrogen Facilitator" role="graphics-symbol" aria-roledescription="bar" d="M737.9024390243903,154.33333333333331h45.21951219512196v88.66666666666667h-45.21951219512196Z" fill="#3f7ccc"/>
+<path aria-label="male Ferrari liberalize: pad; payment: 186; Tools: Southeast Chair" role="graphics-symbol" aria-roledescription="bar" d="M783.1219512195123,119.0h45.21951219512196v124h-45.21951219512196Z" fill="#da7ed8"/>
+<path aria-label="male Ferrari liberalize: cuckoo; payment: 247; Tools: Hydrogen Facilitator" role="graphics-symbol" aria-roledescription="bar" d="M59.60975609756093,78.33333333333333h45.21951219512196v164.66666666666669h-45.21951219512196Z" fill="#3f7ccc"/>
+<path aria-label="male Ferrari liberalize: cuckoo; payment: 60; Tools: Southeast Chair" role="graphics-symbol" aria-roledescription="bar" d="M104.82926829268288,203.0h45.21951219512196v40h-45.21951219512196Z" fill="#da7ed8"/>
+<path aria-label="male Ferrari liberalize: locomotive; payment: 290; Tools: Hydrogen Facilitator" role="graphics-symbol" aria-roledescription="bar" d="M398.7560975609756,49.666666666666664h45.21951219512196v193.33333333333334h-45.21951219512196Z" fill="#3f7ccc"/>
+<path aria-label="male Ferrari liberalize: locomotive; payment: 135; Tools: Southeast Chair" role="graphics-symbol" aria-roledescription="bar" d="M443.9756097560976,153.0h45.21951219512196v89.99999999999999h-45.21951219512196Z" fill="#da7ed8"/>
+<path aria-label="male Ferrari liberalize: marksman; payment: 152; Tools: Hydrogen Facilitator" role="graphics-symbol" aria-roledescription="bar" d="M511.8048780487805,141.66666666666666h45.21951219512196v101.33333333333334h-45.21951219512196Z" fill="#3f7ccc"/>
+<path aria-label="male Ferrari liberalize: marksman; payment: 27; Tools: Southeast Chair" role="graphics-symbol" aria-roledescription="bar" d="M557.0243902439024,225.0h45.21951219512196v18h-45.21951219512196Z" fill="#da7ed8"/>
+<path aria-label="male Ferrari liberalize: monitor; payment: 32; Tools: Hydrogen Facilitator" role="graphics-symbol" aria-roledescription="bar" d="M624.8536585365853,221.66666666666666h45.21951219512196v21.333333333333343h-45.21951219512196Z" fill="#3f7ccc"/>
+<path aria-label="male Ferrari liberalize: monitor; payment: 89; Tools: Southeast Chair" role="graphics-symbol" aria-roledescription="bar" d="M670.0731707317073,183.66666666666669h45.21951219512196v59.333333333333314h-45.21951219512196Z" fill="#da7ed8"/>
+</svg>

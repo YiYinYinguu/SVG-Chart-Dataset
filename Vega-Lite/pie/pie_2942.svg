@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="306" height="239" viewBox="0 0 306 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">BMW</text>
+<path aria-label="West Cadillac strategic: 61; bypassing: Metal" role="graphics-symbol" aria-roledescription="arc mark"  d="M227.43602391252804,63.81355800657619A75,75,0,0,0,201.0,59.0L201.0,88.0A46,46,0,0,1,217.21409466635055,90.95231557736673Z" fill="#8eebae" stroke="white" stroke-width="0"/>
+<path aria-label="West Cadillac strategic: 539; bypassing: revolutionize" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.68610593117828,203.0340178065995A75,75,0,1,0,227.43602391252804,63.81355800657619L217.21409466635055,90.95231557736673A46,46,0,1,1,183.02081163778934,176.34086425471438Z" fill="#75ae84" stroke="white" stroke-width="0"/>
+<path aria-label="West Cadillac strategic: 464; bypassing: wetland" role="graphics-symbol" aria-roledescription="arc mark"  d="M201.0,59.0A75,75,0,0,0,171.68610593117828,203.0340178065995L183.02081163778934,176.34086425471438A46,46,0,0,1,201.0,88.0Z" fill="#a72a97" stroke="white" stroke-width="0"/>
+<text aria-label="211,223,37,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="217.1224108729158" y="48.45584227265536" font-family="sans-serif" font-size="11px" fill="#8eebae" opacity="1">61</text>
+<text aria-label="275,293,159,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="284.55012078317964" y="170.45709666298163" font-family="sans-serif" font-size="11px" fill="#75ae84" opacity="1">539</text>
+<text aria-label="103,121,108,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.80795409133329" y="119.05109924135678" font-family="sans-serif" font-size="11px" fill="#a72a97" opacity="1">464</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#8eebae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#75ae84" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#a72a97" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Metal</text>
+<text aria-label="21,92,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">revolutionize</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">wetland</text>
+<text aria-label="5,59,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">bypassing</text>
+</svg>

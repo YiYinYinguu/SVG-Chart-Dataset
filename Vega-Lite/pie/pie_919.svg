@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="468" height="270" viewBox="0 0 468 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Ergonomic</text>
+<path aria-label="API West: 185; Pants Bismuth territory: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.32556909673215,229.85088477511232A75,75,0,0,0,86.07576534641788,237.57322745183762L93.14081295042187,210.47922253648494A47,47,0,0,1,81.39068996728548,205.63988779240373Z" fill="#c57bad" stroke="black" stroke-width="2"/>
+<path aria-label="API West: 852; Pants Bismuth territory: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M86.07576534641788,237.57322745183762A75,75,0,0,0,167.8633395430678,205.90477406725242L144.39435944698917,190.63365841547818A47,47,0,0,1,93.14081295042187,210.47922253648494Z" fill="#56f34d" stroke="black" stroke-width="2"/>
+<path aria-label="API West: 831; Pants Bismuth territory: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,34.613318580856344,139.10183252042768L60.89101297733664,148.77048171280134A47,47,0,0,1,104.99999999999999,118.0Z" fill="#cac69e" stroke="black" stroke-width="2"/>
+<path aria-label="API West: 439; Pants Bismuth territory: Mobility" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.94806254084817,194.271657505809A75,75,0,0,0,67.32556909673215,229.85088477511232L81.39068996728548,205.63988779240373A47,47,0,0,1,61.72745252559819,183.34357203697365Z" fill="#a40ecc" stroke="black" stroke-width="2"/>
+<path aria-label="API West: 952; Pants Bismuth territory: 1080p" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.8520803140166,151.92826586515622A75,75,0,0,0,105.0,90.0L105.0,118.0A47,47,0,0,1,151.28063699678376,156.80837994216458Z" fill="#ab9c6e" stroke="black" stroke-width="2"/>
+<path aria-label="API West: 513; Pants Bismuth territory: Bedfordshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.8633395430678,205.90477406725242A75,75,0,0,0,178.8520803140166,151.92826586515622L151.28063699678376,156.80837994216458A47,47,0,0,1,144.39435944698917,190.63365841547818Z" fill="#2d1112" stroke="black" stroke-width="2"/>
+<path aria-label="API West: 514; Pants Bismuth territory: Oriental" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.613318580856344,139.10183252042768A75,75,0,0,0,35.94806254084817,194.271657505809L61.72745252559819,183.34357203697365A47,47,0,0,1,60.89101297733664,148.77048171280134Z" fill="#47ffd5" stroke="black" stroke-width="2"/>
+<text aria-label="64,76,243,251" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="70.72616643963133" y="250.21841342561243" font-family="serif" font-size="7px" fill="#c57bad" opacity="1">185</text>
+<text aria-label="131,143,243,251" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.49727551924798" y="250.9281066379201" font-family="serif" font-size="7px" fill="#56f34d" opacity="1">852</text>
+<text aria-label="47,59,86,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="53.50729220459372" y="93.18603760874976" font-family="serif" font-size="7px" fill="#cac69e" opacity="1">831</text>
+<text aria-label="31,43,219,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="37.49960235607357" y="226.52895361008632" font-family="serif" font-size="7px" fill="#a40ecc" opacity="1">439</text>
+<text aria-label="156,168,91,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.82842170350523" y="98.03715751738793" font-family="serif" font-size="7px" fill="#ab9c6e" opacity="1">952</text>
+<text aria-label="187,199,177,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.19095762707389" y="184.95424720838108" font-family="serif" font-size="7px" fill="#2d1112" opacity="1">513</text>
+<text aria-label="9,21,162,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.026327803643056" y="169.1767662948757" font-family="serif" font-size="7px" fill="#47ffd5" opacity="1">514</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#ab9c6e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,40.25A5,5,0,1,1,58.0,40.25A5,5,0,1,1,68.0,40.25" fill="#2d1112" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,40.25A5,5,0,1,1,145.0,40.25A5,5,0,1,1,155.0,40.25" fill="#56f34d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,40.25A5,5,0,1,1,207.0,40.25A5,5,0,1,1,217.0,40.25" fill="#c57bad" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,40.25A5,5,0,1,1,269.0,40.25A5,5,0,1,1,279.0,40.25" fill="#a40ecc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M346.0,40.25A5,5,0,1,1,336.0,40.25A5,5,0,1,1,346.0,40.25" fill="#47ffd5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M413.0,40.25A5,5,0,1,1,403.0,40.25A5,5,0,1,1,413.0,40.25" fill="#cac69e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">1080p</text>
+<text aria-label="73,139,33,44" text-anchor="start" x="73.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Bedfordshire</text>
+<text aria-label="160,198,33,44" text-anchor="start" x="160.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="222,260,33,44" text-anchor="start" x="222.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="284,328,33,44" text-anchor="start" x="284.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Mobility</text>
+<text aria-label="351,395,33,44" text-anchor="start" x="351.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Oriental</text>
+<text aria-label="418,467,33,44" text-anchor="start" x="418.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+</svg>

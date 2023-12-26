@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="329" height="286" viewBox="0 0 329 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">microchip</text>
+<path aria-label="DRAM Bacon: 681; interfaces: hard" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.30639932884969,115.54355339012038A75,75,0,0,0,70.13073160124624,200.4013111416911L105.0,134.0Z" fill="#a3301c" stroke="white" stroke-width="0"/>
+<path aria-label="DRAM Bacon: 759; interfaces: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.0725935023795,145.7580139407659A75,75,0,0,0,122.77830584538192,61.137582792855L105.0,134.0Z" fill="#be2d26" stroke="white" stroke-width="0"/>
+<path aria-label="DRAM Bacon: 122; interfaces: Carolina" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.77830584538192,61.137582792855A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#3c2bd8" stroke="white" stroke-width="0"/>
+<path aria-label="DRAM Bacon: 674; interfaces: ivory" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.30639932884969,115.54355339012038L105.0,134.0Z" fill="#8ec523" stroke="white" stroke-width="0"/>
+<path aria-label="DRAM Bacon: 809; interfaces: group" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.13073160124624,200.4013111416911A75,75,0,0,0,171.95690363753266,167.79013251341527L105.0,134.0Z" fill="#b2fbbe" stroke="white" stroke-width="0"/>
+<path aria-label="DRAM Bacon: 158; interfaces: Islands" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.95690363753266,167.79013251341527A75,75,0,0,0,179.0725935023795,145.7580139407659L105.0,134.0Z" fill="#ca7de3" stroke="white" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#3c2bd8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#be2d26" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,274.25A5,5,0,1,1,120.0,274.25A5,5,0,1,1,130.0,274.25" fill="#ca7de3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M190.0,274.25A5,5,0,1,1,180.0,274.25A5,5,0,1,1,190.0,274.25" fill="#b2fbbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M246.0,274.25A5,5,0,1,1,236.0,274.25A5,5,0,1,1,246.0,274.25" fill="#a3301c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M295.0,274.25A5,5,0,1,1,285.0,274.25A5,5,0,1,1,295.0,274.25" fill="#8ec523" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Carolina</text>
+<text aria-label="88,110,267,278" text-anchor="start" x="88.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="135,173,267,278" text-anchor="start" x="135.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Islands</text>
+<text aria-label="195,222,267,278" text-anchor="start" x="195.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">group</text>
+<text aria-label="251,273,267,278" text-anchor="start" x="251.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">hard</text>
+<text aria-label="300,327,267,278" text-anchor="start" x="300.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">ivory</text>
+<text aria-label="5,65,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">interfaces</text>
+</svg>

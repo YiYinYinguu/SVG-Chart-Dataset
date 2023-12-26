@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="499" height="324" viewBox="0 0 499 324" style="background-color: rgb(255, 255, 255);">
+<line x1="64.5" y1="43.5" x2="64.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="115.5" y1="43.5" x2="115.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="165.5" y1="43.5" x2="165.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="216.5" y1="43.5" x2="216.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="267.5" y1="43.5" x2="267.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="317.5" y1="43.5" x2="317.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="51,69,250,277" text-anchor="end" x="64.33333333333333" y="250.5" transform="rotate(270.0, 69.33333333333333, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">bob</text>
+<text aria-label="102,120,250,286" text-anchor="end" x="115.0" y="250.5" transform="rotate(270.0, 120.0, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">crop</text>
+<text aria-label="152,170,250,295" text-anchor="end" x="165.66666666666666" y="250.5" transform="rotate(270.0, 170.66666666666666, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">ghost</text>
+<text aria-label="203,221,250,304" text-anchor="end" x="216.33333333333334" y="250.5" transform="rotate(270.0, 221.33333333333334, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">monkey</text>
+<text aria-label="254,272,250,286" text-anchor="end" x="267.0" y="250.5" transform="rotate(270.0, 272.0, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">rake</text>
+<text aria-label="304,322,250,295" text-anchor="end" x="317.66666666666663" y="250.5" transform="rotate(270.0, 322.66666666666663, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">sight</text>
+<line aria-label="64,64,243,248" x1="64.5" y1="243.5" x2="64.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="115,115,243,248" x1="115.5" y1="243.5" x2="115.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="165,165,243,248" x1="165.5" y1="243.5" x2="165.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="216,216,243,248" x1="216.5" y1="243.5" x2="216.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="267,267,243,248" x1="267.5" y1="243.5" x2="267.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="317,317,243,248" x1="317.5" y1="243.5" x2="317.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,343,243,243" x1="39.5" y1="243.5" x2="343.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,460,0,26" text-anchor="start" x="5.54833984375" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">methodologies Handcrafted transform</text>
+<text aria-label="28,37,231,249" text-anchor="end" x="37.5" y="248.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="10,37,191,209" text-anchor="end" x="37.5" y="208.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="10,37,151,169" text-anchor="end" x="37.5" y="168.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="10,37,111,129" text-anchor="end" x="37.5" y="128.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="10,37,71,89" text-anchor="end" x="37.5" y="88.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="10,37,31,49" text-anchor="end" x="37.5" y="48.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="39,39,43,243" x1="39.5" y1="243.5" x2="39.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Cole generate Van: monkey; haptic gray magenta: 433; black: solution Recycled" role="graphics-symbol" aria-roledescription="bar" d="M202.65333333333334,69.8h27.360000000000007v173.2h-27.360000000000007Z" fill="#80cd71"/>
+<path aria-label="Cole generate Van: rake; haptic gray magenta: 99; black: solution Recycled" role="graphics-symbol" aria-roledescription="bar" d="M253.32,203.4h27.360000000000007v39.599999999999994h-27.360000000000007Z" fill="#80cd71"/>
+<path aria-label="Cole generate Van: ghost; haptic gray magenta: 24; black: solution Recycled" role="graphics-symbol" aria-roledescription="bar" d="M151.98666666666665,233.39999999999998h27.360000000000007v9.600000000000023h-27.360000000000007Z" fill="#80cd71"/>
+<path aria-label="Cole generate Van: bob; haptic gray magenta: 468; black: solution Recycled" role="graphics-symbol" aria-roledescription="bar" d="M50.65333333333333,55.79999999999999h27.360000000000007v187.20000000000002h-27.360000000000007Z" fill="#80cd71"/>
+<path aria-label="Cole generate Van: crop; haptic gray magenta: 129; black: solution Recycled" role="graphics-symbol" aria-roledescription="bar" d="M101.32,191.4h27.360000000000007v51.599999999999994h-27.360000000000007Z" fill="#80cd71"/>
+<path aria-label="Cole generate Van: sight; haptic gray magenta: 461; black: solution Recycled" role="graphics-symbol" aria-roledescription="bar" d="M303.9866666666666,58.599999999999994h27.360000000000007v184.4h-27.360000000000007Z" fill="#80cd71"/>
+<path  d="M362.0,60.0h10v10h-10Z" fill="#80cd71" stroke-width="1.5" opacity="1"/>
+<text aria-label="377,470,58,69" text-anchor="start" x="377.0" y="68.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">solution Recycled</text>
+<text aria-label="361,391,41,53" text-anchor="start" x="361.0" y="52.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">black</text>
+</svg>

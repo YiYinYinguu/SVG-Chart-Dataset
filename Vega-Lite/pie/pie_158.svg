@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="379" height="270" viewBox="0 0 379 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="2,314,0,26" text-anchor="middle" x="158.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">before Bronze Industrial</text>
+<path aria-label="Fiat: 398; UTF8 Northwest Electronic: alias" role="graphics-symbol" aria-roledescription="arc mark"  d="M158.0,90.0A75,75,0,0,0,84.66299121306344,149.2938501794746L104.21952688957987,153.48215679828135A55,55,0,0,1,158.0,110.0Z" fill="#1bd7f1" stroke="white" stroke-width="0"/>
+<path aria-label="Fiat: 313; UTF8 Northwest Electronic: Industrial" role="graphics-symbol" aria-roledescription="arc mark"  d="M232.9111266635776,168.65008246392216A75,75,0,0,0,197.20650819658653,101.06370580780433L186.75143934416343,118.11338425905652A55,55,0,0,1,212.9348262199569,167.67672714020958Z" fill="#6cedbe" stroke="white" stroke-width="0"/>
+<path aria-label="Fiat: 441; UTF8 Northwest Electronic: Liaison" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.1530676979542,239.99113570872183A75,75,0,0,0,232.9111266635776,168.65008246392216L212.9348262199569,167.67672714020958A55,55,0,0,1,158.84558297849975,219.99349951972934Z" fill="#a7023f" stroke="white" stroke-width="0"/>
+<path aria-label="Fiat: 161; UTF8 Northwest Electronic: Designer" role="graphics-symbol" aria-roledescription="arc mark"  d="M197.20650819658653,101.06370580780433A75,75,0,0,0,158.0,90.0L158.0,110.0A55,55,0,0,1,186.75143934416343,118.11338425905652Z" fill="#c67b8f" stroke="white" stroke-width="0"/>
+<path aria-label="Fiat: 526; UTF8 Northwest Electronic: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M84.66299121306344,149.2938501794746A75,75,0,0,0,159.1530676979542,239.99113570872183L158.84558297849975,219.99349951972934A55,55,0,0,1,104.21952688957987,153.48215679828135Z" fill="#b7312c" stroke="white" stroke-width="0"/>
+<text aria-label="94,108,89,98" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="101.41494976858618" y="97.01334348385846" font-family="sans-serif" font-size="8px" fill="#1bd7f1" opacity="1">398</text>
+<text aria-label="230,244,116,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="237.57808141950227" y="124.9603882321558" font-family="sans-serif" font-size="8px" fill="#6cedbe" opacity="1">313</text>
+<text aria-label="213,227,223,232" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="220.57084556804907" y="231.69072023790858" font-family="sans-serif" font-size="8px" fill="#a7023f" opacity="1">441</text>
+<text aria-label="175,189,72,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.44258811217492" y="80.3826813715723" font-family="sans-serif" font-size="8px" fill="#c67b8f" opacity="1">161</text>
+<text aria-label="81,95,216,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="88.45040026524856" y="224.12138983547112" font-family="sans-serif" font-size="8px" fill="#b7312c" opacity="1">526</text>
+<path  d="M69.0,40.25A5,5,0,1,1,59.0,40.25A5,5,0,1,1,69.0,40.25" fill="#c67b8f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,40.25A5,5,0,1,1,129.0,40.25A5,5,0,1,1,139.0,40.25" fill="#6cedbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M211.0,40.25A5,5,0,1,1,201.0,40.25A5,5,0,1,1,211.0,40.25" fill="#a7023f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M272.0,40.25A5,5,0,1,1,262.0,40.25A5,5,0,1,1,272.0,40.25" fill="#b7312c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M347.0,40.25A5,5,0,1,1,337.0,40.25A5,5,0,1,1,347.0,40.25" fill="#1bd7f1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="74,118,33,44" text-anchor="start" x="74.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Designer</text>
+<text aria-label="144,199,33,44" text-anchor="start" x="144.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Industrial</text>
+<text aria-label="216,254,33,44" text-anchor="start" x="216.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Liaison</text>
+<text aria-label="277,326,33,44" text-anchor="start" x="277.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="352,379,33,44" text-anchor="start" x="352.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">alias</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="270" viewBox="0 0 309 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">District</text>
+<path aria-label="plus: 175; circa: intermediate" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.019944164271237,135.72951636910332A75,75,0,0,0,59.55919380656191,193.66685120307926L80.15902594758718,166.61787865768332A41,41,0,0,1,64.0109028098016,134.94546894844316Z" fill="#3cdf95" stroke="white" stroke-width="1"/>
+<path aria-label="plus: 189; circa: Human" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.55919380656191,193.66685120307926A75,75,0,0,0,128.43201590054858,205.24563587221633L117.80950202563322,172.9476142768116A41,41,0,0,1,80.15902594758718,166.61787865768332Z" fill="#ebafbf" stroke="white" stroke-width="1"/>
+<path aria-label="plus: 107; circa: Coupe" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.09722766271796,69.99682203913932A75,75,0,0,0,105.0,59.0L105.0,93.0A41,41,0,0,1,126.3731511222858,99.01159604806281Z" fill="#8f6994" stroke="white" stroke-width="1"/>
+<path aria-label="plus: 311; circa: under" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.019944164271237,135.72951636910332L64.0109028098016,134.94546894844316A41,41,0,0,1,104.99999999999999,93.0Z" fill="#f8fe35" stroke="white" stroke-width="1"/>
+<path aria-label="plus: 444; circa: Designer" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.43201590054858,205.24563587221633A75,75,0,0,0,144.09722766271796,69.99682203913932L126.3731511222858,99.01159604806281A41,41,0,0,1,117.80950202563322,172.9476142768116Z" fill="#ee1e4e" stroke="white" stroke-width="1"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#8f6994" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,258.25A5,5,0,1,1,58.0,258.25A5,5,0,1,1,68.0,258.25" fill="#ee1e4e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,258.25A5,5,0,1,1,125.0,258.25A5,5,0,1,1,135.0,258.25" fill="#ebafbf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,258.25A5,5,0,1,1,177.0,258.25A5,5,0,1,1,187.0,258.25" fill="#3cdf95" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M274.0,258.25A5,5,0,1,1,264.0,258.25A5,5,0,1,1,274.0,258.25" fill="#f8fe35" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Coupe</text>
+<text aria-label="73,117,251,262" text-anchor="start" x="73.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Designer</text>
+<text aria-label="140,167,251,262" text-anchor="start" x="140.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Human</text>
+<text aria-label="192,258,251,262" text-anchor="start" x="192.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">intermediate</text>
+<text aria-label="279,306,251,262" text-anchor="start" x="279.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">under</text>
+</svg>

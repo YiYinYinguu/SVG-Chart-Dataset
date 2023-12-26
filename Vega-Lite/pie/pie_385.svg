@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="306" height="270" viewBox="0 0 306 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="171,301,0,26" text-anchor="end" x="301.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">lime ipsum</text>
+<path aria-label="Madison: 811; override Northwest: Colombia" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.10413894414256,196.4137908994907A75,75,0,0,0,145.34487116181177,101.77586401589335L135.12417046748612,117.79264513186703A56,56,0,0,1,155.85109041162644,188.45563053828639Z" fill="#d4c2db" stroke="white" stroke-width="3"/>
+<path aria-label="Madison: 321; override Northwest: ADP" role="graphics-symbol" aria-roledescription="arc mark"  d="M145.34487116181177,101.77586401589335A75,75,0,0,0,105.0,90.0L105.0,109.0A56,56,0,0,1,135.12417046748612,117.79264513186703Z" fill="#dd4860" stroke="white" stroke-width="3"/>
+<path aria-label="Madison: 727; override Northwest: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.17717411030388,97.56364407372908A75,75,0,0,0,31.06265279560553,177.5804883997729L49.79344742071879,174.3934313384971A56,56,0,0,1,80.49229000236024,114.6475209083844Z" fill="#a49c1e" stroke="white" stroke-width="3"/>
+<path aria-label="Madison: 256; override Northwest: tesla" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,72.17717411030388,97.56364407372908L80.49229000236024,114.6475209083844A56,56,0,0,1,104.99999999999999,109.0Z" fill="#2f6d7d" stroke="white" stroke-width="3"/>
+<path aria-label="Madison: 526; override Northwest: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.06265279560553,177.5804883997729A75,75,0,0,0,70.93002182238762,231.8149428419797L79.56108296071609,214.88849065534487A56,56,0,0,1,49.79344742071879,174.3934313384971Z" fill="#dfd6ae" stroke="white" stroke-width="3"/>
+<path aria-label="Madison: 910; override Northwest: Small" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.93002182238762,231.8149428419797A75,75,0,0,0,173.10413894414256,196.4137908994907L155.85109041162644,188.45563053828639A56,56,0,0,1,79.56108296071609,214.88849065534487Z" fill="#600cde" stroke="white" stroke-width="3"/>
+<text aria-label="184,198,133,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.36150183503725" y="141.66837942813646" font-family="serif" font-size="8px" fill="#d4c2db" opacity="1">811</text>
+<text aria-label="123,136,72,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.21699143153762" y="80.60495764720201" font-family="serif" font-size="8px" fill="#dd4860" opacity="1">321</text>
+<text aria-label="18,31,117,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="24.949048871407754" y="125.86795381448019" font-family="serif" font-size="8px" fill="#a49c1e" opacity="1">727</text>
+<text aria-label="78,91,71,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="84.79018109973836" y="79.29844231703392" font-family="serif" font-size="8px" fill="#2f6d7d" opacity="1">256</text>
+<text aria-label="25,39,212,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="32.48444981567978" y="220.30567494615687" font-family="serif" font-size="8px" fill="#dfd6ae" opacity="1">526</text>
+<text aria-label="127,141,244,253" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="134.46461669286396" y="252.0402043926436" font-family="serif" font-size="8px" fill="#600cde" opacity="1">910</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#dd4860" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M58.0,40.25A5,5,0,1,1,48.0,40.25A5,5,0,1,1,58.0,40.25" fill="#d4c2db" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,40.25A5,5,0,1,1,115.0,40.25A5,5,0,1,1,125.0,40.25" fill="#600cde" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M177.0,40.25A5,5,0,1,1,167.0,40.25A5,5,0,1,1,177.0,40.25" fill="#dfd6ae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M224.0,40.25A5,5,0,1,1,214.0,40.25A5,5,0,1,1,224.0,40.25" fill="#a49c1e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M271.0,40.25A5,5,0,1,1,261.0,40.25A5,5,0,1,1,271.0,40.25" fill="#2f6d7d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">ADP</text>
+<text aria-label="63,107,33,44" text-anchor="start" x="63.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Colombia</text>
+<text aria-label="130,157,33,44" text-anchor="start" x="130.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Small</text>
+<text aria-label="182,204,33,44" text-anchor="start" x="182.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="229,251,33,44" text-anchor="start" x="229.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="276,303,33,44" text-anchor="start" x="276.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">tesla</text>
+</svg>

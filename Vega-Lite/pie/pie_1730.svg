@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="258" height="270" viewBox="0 0 258 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="16,211,0,26" text-anchor="middle" x="114.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle summons</text>
+<path aria-label="pfft Facilitator SUV: 37; Analyst considering Ohio: Common" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.0274989690365,64.43377758178428A75,75,0,0,0,114.0,59.0L114.0,98.0A36,36,0,0,1,127.45319950513752,100.60821323925646Z" fill="#8a6cf9" stroke="black" stroke-width="3"/>
+<path aria-label="pfft Facilitator SUV: 93; Analyst considering Ohio: ratione" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.50834682762664,179.66993762660553A75,75,0,0,0,117.4922706350909,208.9186495194039L115.67628990484363,169.96095176931388A36,36,0,0,1,85.44400647726079,155.92157006077065Z" fill="#9fa21a" stroke="black" stroke-width="3"/>
+<path aria-label="pfft Facilitator SUV: 262; Analyst considering Ohio: phew" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.4922706350909,208.9186495194039A75,75,0,0,0,142.0274989690365,64.43377758178428L127.45319950513752,100.60821323925646A36,36,0,0,1,115.67628990484363,169.96095176931388Z" fill="#4c2ba2" stroke="black" stroke-width="3"/>
+<path aria-label="pfft Facilitator SUV: 215; Analyst considering Ohio: worldly" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.99999999999999,59.0A75,75,0,0,0,54.50834682762664,179.66993762660553L85.44400647726079,155.92157006077065A36,36,0,0,1,114.0,98.0Z" fill="#bd0fcc" stroke="black" stroke-width="3"/>
+<text aria-label="123,138,35,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.12962315453413" y="49.64516985142437" font-family="Balto" font-size="14px" fill="#8a6cf9" opacity="1">37</text>
+<text aria-label="68,83,205,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="76.09339797475725" y="219.6277497111115" font-family="Balto" font-size="14px" fill="#9fa21a" opacity="1">93</text>
+<text aria-label="191,213,139,154" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="202.72978459402424" y="153.0673596193247" font-family="Balto" font-size="14px" fill="#4c2ba2" opacity="1">262</text>
+<text aria-label="22,44,84,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.27716164655321" y="98.20272159854017" font-family="Balto" font-size="14px" fill="#bd0fcc" opacity="1">215</text>
+<path  d="M25.0,258.25A5,5,0,1,1,15.0,258.25A5,5,0,1,1,25.0,258.25" fill="#8a6cf9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M97.0,258.25A5,5,0,1,1,87.0,258.25A5,5,0,1,1,97.0,258.25" fill="#4c2ba2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M151.0,258.25A5,5,0,1,1,141.0,258.25A5,5,0,1,1,151.0,258.25" fill="#9fa21a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M212.0,258.25A5,5,0,1,1,202.0,258.25A5,5,0,1,1,212.0,258.25" fill="#bd0fcc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="30,63,251,262" text-anchor="start" x="30.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Common</text>
+<text aria-label="102,124,251,262" text-anchor="start" x="102.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">phew</text>
+<text aria-label="156,194,251,262" text-anchor="start" x="156.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">ratione</text>
+<text aria-label="217,255,251,262" text-anchor="start" x="217.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">worldly</text>
+</svg>

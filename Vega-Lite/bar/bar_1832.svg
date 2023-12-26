@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="426" height="292" viewBox="0 0 426 292" style="background-color: rgb(255, 255, 255);">
+<line x1="70.5" y1="34.5" x2="70.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="117.5" y1="34.5" x2="117.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="163.5" y1="34.5" x2="163.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="210.5" y1="34.5" x2="210.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="257.5" y1="34.5" x2="257.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="304.5" y1="34.5" x2="304.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="350.5" y1="34.5" x2="350.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="397.5" y1="34.5" x2="397.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="61,73,241,277" text-anchor="end" x="70.375" y="241.5" transform="rotate(270.0, 73.375, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">access</text>
+<text aria-label="108,120,241,283" text-anchor="end" x="117.125" y="241.5" transform="rotate(270.0, 120.125, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">midline</text>
+<text aria-label="154,166,241,265" text-anchor="end" x="163.875" y="241.5" transform="rotate(270.0, 166.875, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">poll</text>
+<text aria-label="201,213,241,283" text-anchor="end" x="210.625" y="241.5" transform="rotate(270.0, 213.625, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">prophet</text>
+<text aria-label="248,260,241,259" text-anchor="end" x="257.375" y="241.5" transform="rotate(270.0, 260.375, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">put</text>
+<text aria-label="295,307,241,283" text-anchor="end" x="304.125" y="241.5" transform="rotate(270.0, 307.125, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">setback</text>
+<text aria-label="341,353,241,283" text-anchor="end" x="350.875" y="241.5" transform="rotate(270.0, 353.875, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">warlord</text>
+<text aria-label="388,400,241,283" text-anchor="end" x="397.625" y="241.5" transform="rotate(270.0, 400.625, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">wiseguy</text>
+<line aria-label="70,70,234,239" x1="70.5" y1="234.5" x2="70.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="117,117,234,239" x1="117.5" y1="234.5" x2="117.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="163,163,234,239" x1="163.5" y1="234.5" x2="163.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="210,210,234,239" x1="210.5" y1="234.5" x2="210.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="257,257,234,239" x1="257.5" y1="234.5" x2="257.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="304,304,234,239" x1="304.5" y1="234.5" x2="304.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="350,350,234,239" x1="350.5" y1="234.5" x2="350.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="397,397,234,239" x1="397.5" y1="234.5" x2="397.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,421,234,234" x1="47.5" y1="234.5" x2="421.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="188,279,0,26" text-anchor="middle" x="234.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gallium</text>
+<text aria-label="34,40,226,238" text-anchor="end" x="40.5" y="237.5" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="22,40,182,194" text-anchor="end" x="40.5" y="193.05555555555557" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,40,137,149" text-anchor="end" x="40.5" y="148.61111111111111" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="22,40,93,105" text-anchor="end" x="40.5" y="104.16666666666667" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="22,40,48,60" text-anchor="end" x="40.5" y="59.72222222222223" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">800</text>
+<line aria-label="42,47,234,234" x1="47.5" y1="234.5" x2="42.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,190,190" x1="47.5" y1="190.5" x2="42.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,145,145" x1="47.5" y1="145.5" x2="42.5" y2="145.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,101,101" x1="47.5" y1="101.5" x2="42.5" y2="101.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,56,56" x1="47.5" y1="56.5" x2="42.5" y2="56.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,107,161" text-anchor="middle" x="17.14794921875" y="134.5" transform="rotate(-90.0, 15.14794921875, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Southwest</text>
+<path aria-label="woman consequuntur Benz: prophet; Southwest: 503; Man: synthesize Brand" role="graphics-symbol" aria-roledescription="bar" d="M195.89875,122.22222222222223h29.452500000000004v111.77777777777777h-29.452500000000004Z" fill="#d7be0c"/>
+<path aria-label="woman consequuntur Benz: warlord; Southwest: 264; Man: synthesize Brand" role="graphics-symbol" aria-roledescription="bar" d="M336.14874999999995,175.33333333333334h29.452500000000004v58.66666666666666h-29.452500000000004Z" fill="#d7be0c"/>
+<path aria-label="woman consequuntur Benz: access; Southwest: 509; Man: synthesize Brand" role="graphics-symbol" aria-roledescription="bar" d="M55.64875000000001,120.88888888888889h29.452500000000004v113.11111111111111h-29.452500000000004Z" fill="#d7be0c"/>
+<path aria-label="woman consequuntur Benz: midline; Southwest: 830; Man: synthesize Brand" role="graphics-symbol" aria-roledescription="bar" d="M102.39875,49.55555555555554h29.452500000000004v184.44444444444446h-29.452500000000004Z" fill="#d7be0c"/>
+<path aria-label="woman consequuntur Benz: poll; Southwest: 75; Man: synthesize Brand" role="graphics-symbol" aria-roledescription="bar" d="M149.14875,217.33333333333331h29.452500000000004v16.666666666666686h-29.452500000000004Z" fill="#d7be0c"/>
+<path aria-label="woman consequuntur Benz: setback; Southwest: 471; Man: synthesize Brand" role="graphics-symbol" aria-roledescription="bar" d="M289.39875,129.33333333333334h29.452500000000004v104.66666666666666h-29.452500000000004Z" fill="#d7be0c"/>
+<path aria-label="woman consequuntur Benz: wiseguy; Southwest: 662; Man: synthesize Brand" role="graphics-symbol" aria-roledescription="bar" d="M382.89874999999995,86.8888888888889h29.452500000000004v147.1111111111111h-29.452500000000004Z" fill="#d7be0c"/>
+<path aria-label="woman consequuntur Benz: put; Southwest: 800; Man: synthesize Brand" role="graphics-symbol" aria-roledescription="bar" d="M242.64875,56.22222222222223h29.452500000000004v177.77777777777777h-29.452500000000004Z" fill="#d7be0c"/>
+<text aria-label="205,215,114,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="210.625" y="120.29522222222224" font-family="Balto" font-size="5.609999999999999px" fill="#000" opacity="1">503</text>
+<text aria-label="345,355,167,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="350.875" y="173.40633333333335" font-family="Balto" font-size="5.609999999999999px" fill="#000" opacity="1">264</text>
+<text aria-label="65,75,113,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="70.375" y="118.9618888888889" font-family="Balto" font-size="5.609999999999999px" fill="#000" opacity="1">509</text>
+<text aria-label="112,122,42,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.125" y="47.62855555555554" font-family="Balto" font-size="5.609999999999999px" fill="#000" opacity="1">830</text>
+<text aria-label="160,167,209,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.875" y="215.40633333333332" font-family="Balto" font-size="5.609999999999999px" fill="#000" opacity="1">75</text>
+<text aria-label="299,309,121,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="304.125" y="127.40633333333335" font-family="Balto" font-size="5.609999999999999px" fill="#000" opacity="1">471</text>
+<text aria-label="392,402,79,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="397.625" y="84.9618888888889" font-family="Balto" font-size="5.609999999999999px" fill="#000" opacity="1">662</text>
+<text aria-label="252,262,48,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="257.375" y="54.295222222222236" font-family="Balto" font-size="5.609999999999999px" fill="#000" opacity="1">800</text>
+</svg>

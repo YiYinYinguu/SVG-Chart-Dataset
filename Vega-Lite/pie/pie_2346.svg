@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="313" height="239" viewBox="0 0 313 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="-4,308,0,26" text-anchor="end" x="308.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">North Industrial Bugatti</text>
+<path aria-label="Home: 635; Bicycle: Carolina" role="graphics-symbol" aria-roledescription="arc mark"  d="M268.88601914760403,90.20624847814938A75,75,0,0,0,208.0,59.0L208.0,134.0Z" fill="#b1b24a" stroke="white" stroke-width="4"/>
+<path aria-label="Home: 636; Bicycle: cyan" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.13690011490536,173.32562107667755A75,75,0,0,0,202.7459431931617,208.8157395677575L208.0,134.0Z" fill="#7fc4d8" stroke="white" stroke-width="4"/>
+<path aria-label="Home: 346; Bicycle: Minot" role="graphics-symbol" aria-roledescription="arc mark"  d="M282.5678229135571,125.96011281594141A75,75,0,0,0,268.88601914760403,90.20624847814938L208.0,134.0Z" fill="#1c3dcc" stroke="white" stroke-width="4"/>
+<path aria-label="Home: 690; Bicycle: Provo" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.32354290959995,193.75597424627645A75,75,0,0,0,282.5678229135571,125.96011281594141L208.0,134.0Z" fill="#becacb" stroke="white" stroke-width="4"/>
+<path aria-label="Home: 704; Bicycle: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.1181002391868,98.15902786047567A75,75,0,0,0,144.13690011490536,173.32562107667755L208.0,134.0Z" fill="#f0e190" stroke="white" stroke-width="4"/>
+<path aria-label="Home: 719; Bicycle: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M208.0,59.0A75,75,0,0,0,142.1181002391868,98.15902786047567L208.0,134.0Z" fill="#ca2f2c" stroke="white" stroke-width="4"/>
+<path aria-label="Home: 482; Bicycle: Rap" role="graphics-symbol" aria-roledescription="arc mark"  d="M202.7459431931617,208.8157395677575A75,75,0,0,0,253.32354290959995,193.75597424627645L208.0,134.0Z" fill="#bbabb2" stroke="white" stroke-width="4"/>
+<text aria-label="237,260,43,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.05042530620196" y="57.9071627286189" font-family="Balto" font-size="14px" fill="#b1b24a" opacity="1">635</text>
+<text aria-label="150,172,200,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="161.38216275407322" y="214.98556520876028" font-family="Balto" font-size="14px" fill="#7fc4d8" opacity="1">636</text>
+<text aria-label="280,303,91,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="292.0558717277828" y="105.83463931365732" font-family="Balto" font-size="14px" fill="#1c3dcc" opacity="1">346</text>
+<text aria-label="279,301,159,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="290.63944961922465" y="173.64717894352412" font-family="Balto" font-size="14px" fill="#becacb" opacity="1">690</text>
+<text aria-label="106,129,126,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.03244250962031" y="140.41631935290553" font-family="Balto" font-size="14px" fill="#f0e190" opacity="1">704</text>
+<text aria-label="150,173,46,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.01535577537112" y="60.63455231478133" font-family="Balto" font-size="14px" fill="#ca2f2c" opacity="1">719</text>
+<text aria-label="222,244,210,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="233.6836463397995" y="224.25746524615772" font-family="Balto" font-size="14px" fill="#bbabb2" opacity="1">482</text>
+<path  d="M43.0,56.0A5,5,0,1,1,33.0,56.0A5,5,0,1,1,43.0,56.0" fill="#b1b24a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M43.0,72.0A5,5,0,1,1,33.0,72.0A5,5,0,1,1,43.0,72.0" fill="#1c3dcc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M43.0,88.0A5,5,0,1,1,33.0,88.0A5,5,0,1,1,43.0,88.0" fill="#becacb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M43.0,104.0A5,5,0,1,1,33.0,104.0A5,5,0,1,1,43.0,104.0" fill="#bbabb2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M43.0,120.0A5,5,0,1,1,33.0,120.0A5,5,0,1,1,43.0,120.0" fill="#7fc4d8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M43.0,136.0A5,5,0,1,1,33.0,136.0A5,5,0,1,1,43.0,136.0" fill="#f0e190" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M43.0,152.0A5,5,0,1,1,33.0,152.0A5,5,0,1,1,43.0,152.0" fill="#ca2f2c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="48,92,49,60" text-anchor="start" x="48.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Carolina</text>
+<text aria-label="48,75,65,76" text-anchor="start" x="48.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Minot</text>
+<text aria-label="48,75,81,92" text-anchor="start" x="48.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Provo</text>
+<text aria-label="48,64,97,108" text-anchor="start" x="48.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Rap</text>
+<text aria-label="48,70,113,124" text-anchor="start" x="48.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">cyan</text>
+<text aria-label="48,86,129,140" text-anchor="start" x="48.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="48,86,145,156" text-anchor="start" x="48.0" y="155.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="32,74,32,44" text-anchor="start" x="32.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bicycle</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="403" height="286" viewBox="0 0 403 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="203,398,0,26" text-anchor="end" x="398.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">tesla Northeast</text>
+<path aria-label="Northeast: 30; amet Computer: Savings" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.39209806716816,213.46800881237704A75,75,0,0,0,58.556780969339854,239.8899601466169L77.7533115020127,215.5487766193486A44,44,0,0,1,65.33669753273865,200.0478985032612Z" fill="#44fb51" stroke="black" stroke-width="2"/>
+<path aria-label="Northeast: 86; amet Computer: sedately" role="graphics-symbol" aria-roledescription="arc mark"  d="M101.58640506502773,106.07772447649543A75,75,0,0,0,31.808726730886917,164.62814863107985L62.06111968212032,171.39518053023352A44,44,0,0,1,102.9973576381496,137.045598359544Z" fill="#2bfba2" stroke="black" stroke-width="2"/>
+<path aria-label="Northeast: 90; amet Computer: Radon" role="graphics-symbol" aria-roledescription="arc mark"  d="M58.556780969339854,239.8899601466169A75,75,0,0,0,153.20907072649047,238.45333323392333L133.28265482620773,214.70595549723504A44,44,0,0,1,77.7533115020127,215.5487766193486Z" fill="#fe932c" stroke="black" stroke-width="2"/>
+<path aria-label="Northeast: 113; amet Computer: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.20907072649047,238.45333323392333A75,75,0,0,0,154.93050897730805,125.03622356142358L134.29256526668738,148.16791782270184A44,44,0,0,1,133.28265482620773,214.70595549723504Z" fill="#b46758" stroke="black" stroke-width="2"/>
+<path aria-label="Northeast: 44; amet Computer: bypass" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.808726730886917,164.62814863107985A75,75,0,0,0,37.39209806716816,213.46800881237704L65.33669753273865,200.0478985032612A44,44,0,0,1,62.06111968212032,171.39518053023352Z" fill="#ed795a" stroke="black" stroke-width="2"/>
+<path aria-label="Northeast: 3; amet Computer: term" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,101.58640506502773,106.07772447649543L102.9973576381496,137.045598359544A44,44,0,0,1,104.99999999999999,137.0Z" fill="#a4667e" stroke="black" stroke-width="2"/>
+<path aria-label="Northeast: 48; amet Computer: Isle" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.93050897730805,125.03622356142358A75,75,0,0,0,105.0,106.0L105.0,137.0A44,44,0,0,1,134.29256526668738,148.16791782270184Z" fill="#540bfc" stroke="black" stroke-width="2"/>
+<text aria-label="27,41,228,242" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.75699341627181" y="241.26650892030108" font-family="monospace" font-size="13px" fill="#44fb51" opacity="1">30</text>
+<text aria-label="40,54,103,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="47.14911512821145" y="116.056000119292" font-family="monospace" font-size="13px" fill="#2bfba2" opacity="1">86</text>
+<text aria-label="99,113,261,275" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.36585741395622" y="274.98963514496955" font-family="monospace" font-size="13px" fill="#fe932c" opacity="1">90</text>
+<text aria-label="184,205,173,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.98963514496955" y="186.36585741395623" font-family="monospace" font-size="13px" fill="#b46758" opacity="1">113</text>
+<text aria-label="8,22,182,196" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.582405060147195" y="195.22221674454275" font-family="monospace" font-size="13px" fill="#ed795a" opacity="1">44</text>
+<text aria-label="99,106,82,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.95131219295044" y="95.02332036427858" font-family="monospace" font-size="13px" fill="#a4667e" opacity="1">3</text>
+<text aria-label="130,144,87,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.06175404304753" y="100.90455465553961" font-family="monospace" font-size="13px" fill="#540bfc" opacity="1">48</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#540bfc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,56.25A5,5,0,1,1,53.0,56.25A5,5,0,1,1,63.0,56.25" fill="#b46758" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,56.25A5,5,0,1,1,125.0,56.25A5,5,0,1,1,135.0,56.25" fill="#fe932c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,56.25A5,5,0,1,1,177.0,56.25A5,5,0,1,1,187.0,56.25" fill="#44fb51" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M249.0,56.25A5,5,0,1,1,239.0,56.25A5,5,0,1,1,249.0,56.25" fill="#ed795a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M306.0,56.25A5,5,0,1,1,296.0,56.25A5,5,0,1,1,306.0,56.25" fill="#2bfba2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M373.0,56.25A5,5,0,1,1,363.0,56.25A5,5,0,1,1,373.0,56.25" fill="#a4667e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Isle</text>
+<text aria-label="68,117,49,60" text-anchor="start" x="68.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="140,167,49,60" text-anchor="start" x="140.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Radon</text>
+<text aria-label="192,230,49,60" text-anchor="start" x="192.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Savings</text>
+<text aria-label="254,287,49,60" text-anchor="start" x="254.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">bypass</text>
+<text aria-label="311,355,49,60" text-anchor="start" x="311.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">sedately</text>
+<text aria-label="378,400,49,60" text-anchor="start" x="378.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">term</text>
+<text aria-label="5,83,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">amet Computer</text>
+</svg>

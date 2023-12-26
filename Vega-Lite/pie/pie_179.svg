@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="330" height="239" viewBox="0 0 330 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="52,325,0,26" text-anchor="middle" x="189.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">ASCII Assimilated Cis</text>
+<path aria-label="Garden: 52; Actinium: Music" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.11853051068397,198.73016506490632A75,75,0,1,0,189.0,59.0L189.0,91.0A43,43,0,1,1,167.28129082612546,171.1119613038796Z" fill="#ce30ba" stroke="black" stroke-width="0"/>
+<path aria-label="Garden: 18; Actinium: overriding" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,117.35064434336132,111.83313657757375L147.9210360901938,121.29099830447562A43,43,0,0,1,189.0,91.0Z" fill="#cecff9" stroke="black" stroke-width="0"/>
+<path aria-label="Garden: 19; Actinium: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.35064434336132,111.83313657757375A75,75,0,0,0,151.11853051068397,198.73016506490632L167.28129082612546,171.1119613038796A43,43,0,0,1,147.9210360901938,121.29099830447562Z" fill="#bce584" stroke="black" stroke-width="0"/>
+<text aria-label="271,279,152,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="275.86442835536843" y="159.54933303715967" font-family="serif" font-size="7px" fill="#ce30ba" opacity="1">52</text>
+<text aria-label="131,139,56,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="135.58661801393794" y="63.56374785502068" font-family="serif" font-size="7px" fill="#cecff9" opacity="1">18</text>
+<text aria-label="101,109,161,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="105.11129826878043" y="168.5988607446714" font-family="serif" font-size="7px" fill="#bce584" opacity="1">19</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#ce30ba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#bce584" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#cecff9" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Music</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="21,76,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">overriding</text>
+</svg>

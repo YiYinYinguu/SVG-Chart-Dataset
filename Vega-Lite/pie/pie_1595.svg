@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="354" height="239" viewBox="0 0 354 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="245,349,0,26" text-anchor="end" x="349.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">gah esse</text>
+<path aria-label="Card white: 536; lavender Bronze female: Director" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.55234589751161,206.91718009834244A75,75,0,0,0,174.42282448361672,105.61917124682672L105.0,134.0Z" fill="#7e201c" stroke="white" stroke-width="0"/>
+<path aria-label="Card white: 487; lavender Bronze female: Pants" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.18269294548898,151.96217674250704A75,75,0,0,0,122.55234589751161,206.91718009834244L105.0,134.0Z" fill="#2e4a0c" stroke="white" stroke-width="0"/>
+<path aria-label="Card white: 368; lavender Bronze female: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.42282448361672,105.61917124682672A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#86be6a" stroke="white" stroke-width="0"/>
+<path aria-label="Card white: 51; lavender Bronze female: Passenger" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.22766754412565,139.8393748901916A75,75,0,0,0,32.18269294548898,151.96217674250704L105.0,134.0Z" fill="#7b42fa" stroke="white" stroke-width="0"/>
+<path aria-label="Card white: 143; lavender Bronze female: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.39618432573327,106.06599127259568A75,75,0,0,0,30.22766754412565,139.8393748901916L105.0,134.0Z" fill="#2ecc9a" stroke="white" stroke-width="0"/>
+<path aria-label="Card white: 370; lavender Bronze female: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,35.39618432573327,106.06599127259568L105.0,134.0Z" fill="#0ca741" stroke="white" stroke-width="0"/>
+<text aria-label="175,194,167,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.10835205918858" y="179.02014054536014" font-family="monospace" font-size="12px" fill="#7e201c" opacity="1">536</text>
+<text aria-label="48,67,202,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="58.23744449681097" y="214.89774640918398" font-family="monospace" font-size="12px" fill="#2e4a0c" opacity="1">487</text>
+<text aria-label="145,164,51,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.1740495408597" y="63.28343722660044" font-family="monospace" font-size="12px" fill="#86be6a" opacity="1">368</text>
+<text aria-label="9,22,140,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.147993575833297" y="152.3290248935452" font-family="monospace" font-size="12px" fill="#7b42fa" opacity="1">51</text>
+<text aria-label="6,25,112,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.035732496940184" y="124.38533483173327" font-family="monospace" font-size="12px" fill="#2ecc9a" opacity="1">143</text>
+<text aria-label="44,64,51,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.58607802679736" y="63.44507748458298" font-family="monospace" font-size="12px" fill="#0ca741" opacity="1">370</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#86be6a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#7e201c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#2e4a0c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#7b42fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#2ecc9a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#0ca741" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Director</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Pants</text>
+<text aria-label="239,288,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Passenger</text>
+<text aria-label="239,261,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="239,261,129,140" text-anchor="start" x="239.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="223,355,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">lavender Bronze female</text>
+</svg>

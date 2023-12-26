@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="239" viewBox="0 0 314 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="244,309,0,26" text-anchor="end" x="309.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Spain</text>
+<path aria-label="deposit Wyoming: 722; Credit Concrete: Infrastructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.42125001122137,206.44180456063773A75,75,0,0,0,142.93943457551768,69.30379219699184L127.25780161763703,96.04489142223521A44,44,0,0,1,116.3938000065832,176.49919200890747Z" fill="#00b15f" stroke="black" stroke-width="0"/>
+<path aria-label="deposit Wyoming: 812; Credit Concrete: dozen" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,69.07823354771848,199.83788191419694L83.92589701466152,172.62489072299553A44,44,0,0,1,104.99999999999999,90.0Z" fill="#ae11eb" stroke="black" stroke-width="0"/>
+<path aria-label="deposit Wyoming: 163; Credit Concrete: Chips" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.93943457551768,69.30379219699184A75,75,0,0,0,105.0,59.0L105.0,90.0A44,44,0,0,1,127.25780161763703,96.04489142223521Z" fill="#cc47f6" stroke="black" stroke-width="0"/>
+<path aria-label="deposit Wyoming: 234; Credit Concrete: Loan" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.07823354771848,199.83788191419694A75,75,0,0,0,124.42125001122137,206.44180456063773L116.3938000065832,176.49919200890747A44,44,0,0,1,83.92589701466152,172.62489072299553Z" fill="#d75334" stroke="black" stroke-width="0"/>
+<text aria-label="185,202,139,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.19052486487513" y="149.04368192572733" font-family="monospace" font-size="10px" fill="#00b15f" opacity="1">722</text>
+<text aria-label="9,26,104,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.791940605431222" y="114.75692519831478" font-family="monospace" font-size="10px" fill="#ae11eb" opacity="1">812</text>
+<text aria-label="120,136,40,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.5882339024684" y="50.146127194220966" font-family="monospace" font-size="10px" fill="#cc47f6" opacity="1">163</text>
+<text aria-label="86,102,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.33621167825086" y="226.36600930235682" font-family="monospace" font-size="10px" fill="#d75334" opacity="1">234</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#cc47f6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#00b15f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#d75334" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#ae11eb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Chips</text>
+<text aria-label="239,316,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Infrastructure</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Loan</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">dozen</text>
+<text aria-label="223,313,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Credit Concrete</text>
+</svg>

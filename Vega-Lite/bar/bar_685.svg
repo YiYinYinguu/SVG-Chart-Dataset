@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="966" height="350" viewBox="0 0 966 350" style="background-color: rgb(255, 255, 255);">
+<line x1="119.5" y1="35.5" x2="119.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="272.5" y1="35.5" x2="272.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="425.5" y1="35.5" x2="425.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="578.5" y1="35.5" x2="578.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="731.5" y1="35.5" x2="731.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="884.5" y1="35.5" x2="884.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="105,125,242,312" text-anchor="end" x="119.49999999999999" y="242.5" transform="rotate(270.0, 125.49999999999999, 242.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">bonfire</text>
+<text aria-label="258,278,242,332" text-anchor="end" x="272.5" y="242.5" transform="rotate(270.0, 278.5, 242.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">criterion</text>
+<text aria-label="411,431,242,312" text-anchor="end" x="425.5" y="242.5" transform="rotate(270.0, 431.5, 242.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">gesture</text>
+<text aria-label="564,584,242,302" text-anchor="end" x="578.5" y="242.5" transform="rotate(270.0, 584.5, 242.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">mirror</text>
+<text aria-label="717,737,242,352" text-anchor="end" x="731.5" y="242.5" transform="rotate(270.0, 737.5, 242.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">nightingale</text>
+<text aria-label="870,890,242,332" text-anchor="end" x="884.5" y="242.5" transform="rotate(270.0, 890.5, 242.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">quotation</text>
+<line aria-label="119,119,235,240" x1="119.5" y1="235.5" x2="119.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="272,272,235,240" x1="272.5" y1="235.5" x2="272.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="425,425,235,240" x1="425.5" y1="235.5" x2="425.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="578,578,235,240" x1="578.5" y1="235.5" x2="578.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="731,731,235,240" x1="731.5" y1="235.5" x2="731.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="884,884,235,240" x1="884.5" y1="235.5" x2="884.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,961,235,235" x1="43.5" y1="235.5" x2="961.5" y2="235.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="883,961,0,26" text-anchor="end" x="961.0" y="25.58322222222223" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">wilted</text>
+<text aria-label="31,41,222,242" text-anchor="end" x="41.5" y="241.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="11,41,178,198" text-anchor="end" x="41.5" y="197.05555555555557" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="11,41,133,153" text-anchor="end" x="41.5" y="152.61111111111111" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="11,41,89,109" text-anchor="end" x="41.5" y="108.16666666666667" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="11,41,44,64" text-anchor="end" x="41.5" y="63.72222222222223" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">800</text>
+<path aria-label="Berkshire Maserati: bonfire; hack models: 469; Producer rein: ampere virtual secondary" role="graphics-symbol" aria-roledescription="bar" d="M78.18999999999997,130.77777777777777h82.62000000000002v104.22222222222221h-82.62000000000002Z" fill="#02d2db"/>
+<path aria-label="Berkshire Maserati: mirror; hack models: 543; Producer rein: ampere virtual secondary" role="graphics-symbol" aria-roledescription="bar" d="M537.19,114.33333333333333h82.62000000000002v120.66666666666667h-82.62000000000002Z" fill="#02d2db"/>
+<path aria-label="Berkshire Maserati: criterion; hack models: 401; Producer rein: ampere virtual secondary" role="graphics-symbol" aria-roledescription="bar" d="M231.18999999999997,145.8888888888889h82.62000000000002v89.1111111111111h-82.62000000000002Z" fill="#02d2db"/>
+<path aria-label="Berkshire Maserati: quotation; hack models: 827; Producer rein: ampere virtual secondary" role="graphics-symbol" aria-roledescription="bar" d="M843.1899999999999,51.22222222222223h82.62000000000002v183.77777777777777h-82.62000000000002Z" fill="#02d2db"/>
+<path aria-label="Berkshire Maserati: nightingale; hack models: 320; Producer rein: ampere virtual secondary" role="graphics-symbol" aria-roledescription="bar" d="M690.1899999999999,163.88888888888889h82.62000000000002v71.11111111111111h-82.62000000000002Z" fill="#02d2db"/>
+<path aria-label="Berkshire Maserati: gesture; hack models: 179; Producer rein: ampere virtual secondary" role="graphics-symbol" aria-roledescription="bar" d="M384.19,195.22222222222223h82.62000000000002v39.77777777777777h-82.62000000000002Z" fill="#02d2db"/>
+<text aria-label="108,130,111,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.49999999999999" y="125.13877777777779" font-family="sans-serif" font-size="13.77px" fill="#000" opacity="1">469</text>
+<text aria-label="567,589,94,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="578.5" y="108.69433333333333" font-family="sans-serif" font-size="13.77px" fill="#000" opacity="1">543</text>
+<text aria-label="261,283,126,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="272.5" y="140.2498888888889" font-family="sans-serif" font-size="13.77px" fill="#000" opacity="1">401</text>
+<text aria-label="873,895,31,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="884.5" y="45.58322222222223" font-family="sans-serif" font-size="13.77px" fill="#000" opacity="1">827</text>
+<text aria-label="720,742,144,159" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="731.5" y="158.2498888888889" font-family="sans-serif" font-size="13.77px" fill="#000" opacity="1">320</text>
+<text aria-label="414,436,175,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="425.5" y="189.58322222222222" font-family="sans-serif" font-size="13.77px" fill="#000" opacity="1">179</text>
+</svg>

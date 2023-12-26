@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="75,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">lime green</text>
+<path aria-label="North invoice: 24; Gasoline: input" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.27039302445527,231.18911825897408A75,75,0,0,0,150.55588893583104,224.57903140590844L134.15576891893187,203.1305800997814A48,48,0,0,1,127.57305153565137,207.36103568574342Z" fill="#ac7635" stroke="black" stroke-width="0"/>
+<path aria-label="North invoice: 366; Gasoline: XML" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.55588893583104,224.57903140590844A75,75,0,0,0,105.0,90.0L105.0,117.0A48,48,0,0,1,134.15576891893187,203.1305800997814Z" fill="#8f6bf5" stroke="black" stroke-width="0"/>
+<path aria-label="North invoice: 424; Gasoline: to" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,85.83499384990104,237.51001682020677L92.73439606393666,211.40641076493233A48,48,0,0,1,104.99999999999999,117.0Z" fill="#6b6eeb" stroke="black" stroke-width="0"/>
+<path aria-label="North invoice: 110; Gasoline: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M85.83499384990104,237.51001682020677A75,75,0,0,0,140.27039302445527,231.18911825897408L127.57305153565137,207.36103568574342A48,48,0,0,1,92.73439606393666,211.40641076493233Z" fill="#8dffcf" stroke="black" stroke-width="0"/>
+<text aria-label="147,159,232,244" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.65767357100376" y="243.71281795480633" font-family="sans-serif" font-size="11px" fill="#ac7635" opacity="1">24</text>
+<text aria-label="181,199,128,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.2482709262719" y="139.14289855025382" font-family="sans-serif" font-size="11px" fill="#8f6bf5" opacity="1">366</text>
+<text aria-label="6,24,145,157" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.75012096203622" y="156.40435031105048" font-family="sans-serif" font-size="11px" fill="#6b6eeb" opacity="1">424</text>
+<text aria-label="106,124,246,258" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.3808192450244" y="257.3993209806547" font-family="sans-serif" font-size="11px" fill="#8dffcf" opacity="1">110</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#8f6bf5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M65.0,40.25A5,5,0,1,1,55.0,40.25A5,5,0,1,1,65.0,40.25" fill="#ac7635" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M118.0,40.25A5,5,0,1,1,108.0,40.25A5,5,0,1,1,118.0,40.25" fill="#8dffcf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M169.0,40.25A5,5,0,1,1,159.0,40.25A5,5,0,1,1,169.0,40.25" fill="#6b6eeb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">XML</text>
+<text aria-label="70,97,33,44" text-anchor="start" x="70.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">input</text>
+<text aria-label="123,145,33,44" text-anchor="start" x="123.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="174,185,33,44" text-anchor="start" x="174.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">to</text>
+</svg>

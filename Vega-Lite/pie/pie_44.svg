@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">West</text>
+<path aria-label="Rustic: 103; Minivan: aw" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,60.73034256502489,120.4591259512224L105.0,181.0Z" fill="#e52bd1" stroke="black" stroke-width="1"/>
+<path aria-label="Rustic: 80; Minivan: Rhode" role="graphics-symbol" aria-roledescription="arc mark"  d="M60.73034256502489,120.4591259512224A75,75,0,0,0,37.43446066928408,148.44392691141206L105.0,181.0Z" fill="#56d3ab" stroke="black" stroke-width="1"/>
+<path aria-label="Rustic: 842; Minivan: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.43446066928408,148.44392691141206A75,75,0,1,0,105.0,106.0L105.0,181.0Z" fill="#88d30e" stroke="black" stroke-width="1"/>
+<text aria-label="65,88,85,100" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="77.05733009596237" y="99.44763475722024" font-family="avenir" font-size="14px" fill="#e52bd1" opacity="1">103</text>
+<text aria-label="28,43,113,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="35.82996519196473" y="127.4195668247" font-family="avenir" font-size="14px" fill="#56d3ab" opacity="1">80</text>
+<text aria-label="141,164,247,262" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.87454494004356" y="261.2104188860273" font-family="avenir" font-size="14px" fill="#88d30e" opacity="1">842</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#88d30e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M80.0,56.25A5,5,0,1,1,70.0,56.25A5,5,0,1,1,80.0,56.25" fill="#56d3ab" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,56.25A5,5,0,1,1,129.0,56.25A5,5,0,1,1,139.0,56.25" fill="#e52bd1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="85,112,49,60" text-anchor="start" x="85.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rhode</text>
+<text aria-label="144,155,49,60" text-anchor="start" x="144.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">aw</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Minivan</text>
+</svg>

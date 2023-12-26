@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="470" height="302" viewBox="0 0 470 302" style="background-color: rgb(255, 255, 255);">
+<line x1="68.5" y1="34.5" x2="68.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="120.5" y1="34.5" x2="120.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="172.5" y1="34.5" x2="172.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="224.5" y1="34.5" x2="224.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="277.5" y1="34.5" x2="277.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="329.5" y1="34.5" x2="329.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="381.5" y1="34.5" x2="381.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="433.5" y1="34.5" x2="433.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="57,72,241,294" text-anchor="end" x="68.31707317073167" y="241.5" transform="rotate(270.0, 72.31707317073167, 241.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">benefit</text>
+<text aria-label="109,124,241,286" text-anchor="end" x="120.51219512195121" y="241.5" transform="rotate(270.0, 124.51219512195121, 241.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">cactus</text>
+<text aria-label="161,176,241,279" text-anchor="end" x="172.7073170731707" y="241.5" transform="rotate(270.0, 176.7073170731707, 241.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">chill</text>
+<text aria-label="213,228,241,294" text-anchor="end" x="224.90243902439025" y="241.5" transform="rotate(270.0, 228.90243902439025, 241.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">climate</text>
+<text aria-label="266,281,241,294" text-anchor="end" x="277.0975609756098" y="241.5" transform="rotate(270.0, 281.0975609756098, 241.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">cuticle</text>
+<text aria-label="318,333,241,294" text-anchor="end" x="329.29268292682923" y="241.5" transform="rotate(270.0, 333.29268292682923, 241.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">product</text>
+<text aria-label="370,385,241,286" text-anchor="end" x="381.4878048780488" y="241.5" transform="rotate(270.0, 385.4878048780488, 241.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">prompt</text>
+<text aria-label="422,437,241,279" text-anchor="end" x="433.68292682926835" y="241.5" transform="rotate(270.0, 437.68292682926835, 241.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">quill</text>
+<line aria-label="68,68,234,239" x1="68.5" y1="234.5" x2="68.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="120,120,234,239" x1="120.5" y1="234.5" x2="120.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="172,172,234,239" x1="172.5" y1="234.5" x2="172.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="224,224,234,239" x1="224.5" y1="234.5" x2="224.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="277,277,234,239" x1="277.5" y1="234.5" x2="277.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="329,329,234,239" x1="329.5" y1="234.5" x2="329.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="381,381,234,239" x1="381.5" y1="234.5" x2="381.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="433,433,234,239" x1="433.5" y1="234.5" x2="433.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,465,234,234" x1="37.5" y1="234.5" x2="465.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="348,465,0,26" text-anchor="end" x="465.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Architect</text>
+<text aria-label="23,30,224,239" text-anchor="end" x="30.5" y="238.5" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="8,30,188,203" text-anchor="end" x="30.5" y="202.13636363636363" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="8,30,151,166" text-anchor="end" x="30.5" y="165.77272727272725" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="8,30,115,130" text-anchor="end" x="30.5" y="129.40909090909093" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="8,30,79,94" text-anchor="end" x="30.5" y="93.04545454545453" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="8,30,42,57" text-anchor="end" x="30.5" y="56.68181818181819" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">500</text>
+<line aria-label="32,37,234,234" x1="37.5" y1="234.5" x2="32.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,37,198,198" x1="37.5" y1="198.5" x2="32.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,37,161,161" x1="37.5" y1="161.5" x2="32.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,37,125,125" x1="37.5" y1="125.5" x2="32.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,37,89,89" x1="37.5" y1="89.5" x2="32.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,37,52,52" x1="37.5" y1="52.5" x2="32.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,37,34,234" x1="37.5" y1="234.5" x2="37.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="IP ullam: chill; gybe: 184; Director Northeast Hybrid: Holmium echo" role="graphics-symbol" aria-roledescription="bar" d="M151.8292682926829,167.0909090909091h13.918699186991873v66.9090909090909h-13.918699186991873Z" fill="#9ebdca"/>
+<path aria-label="IP ullam: chill; gybe: 308; Director Northeast Hybrid: pusher paltry overriding" role="graphics-symbol" aria-roledescription="bar" d="M179.66666666666666,121.99999999999999h13.918699186991873v112.00000000000001h-13.918699186991873Z" fill="#0cefc2"/>
+<path aria-label="IP ullam: chill; gybe: 111; Director Northeast Hybrid: boo circuit" role="graphics-symbol" aria-roledescription="bar" d="M165.7479674796748,193.63636363636365h13.918699186991873v40.363636363636346h-13.918699186991873Z" fill="#bdafdc"/>
+<path aria-label="IP ullam: cactus; gybe: 287; Director Northeast Hybrid: Holmium echo" role="graphics-symbol" aria-roledescription="bar" d="M99.63414634146339,129.63636363636363h13.918699186991873v104.36363636363637h-13.918699186991873Z" fill="#9ebdca"/>
+<path aria-label="IP ullam: cactus; gybe: 216; Director Northeast Hybrid: pusher paltry overriding" role="graphics-symbol" aria-roledescription="bar" d="M127.47154471544714,155.45454545454544h13.918699186991873v78.54545454545455h-13.918699186991873Z" fill="#0cefc2"/>
+<path aria-label="IP ullam: cactus; gybe: 149; Director Northeast Hybrid: boo circuit" role="graphics-symbol" aria-roledescription="bar" d="M113.55284552845526,179.8181818181818h13.918699186991873v54.18181818181819h-13.918699186991873Z" fill="#bdafdc"/>
+<path aria-label="IP ullam: quill; gybe: 59; Director Northeast Hybrid: Holmium echo" role="graphics-symbol" aria-roledescription="bar" d="M412.80487804878055,212.54545454545453h13.918699186991873v21.454545454545467h-13.918699186991873Z" fill="#9ebdca"/>
+<path aria-label="IP ullam: quill; gybe: 21; Director Northeast Hybrid: pusher paltry overriding" role="graphics-symbol" aria-roledescription="bar" d="M440.6422764227643,226.36363636363635h13.918699186991873v7.6363636363636545h-13.918699186991873Z" fill="#0cefc2"/>
+<path aria-label="IP ullam: quill; gybe: 79; Director Northeast Hybrid: boo circuit" role="graphics-symbol" aria-roledescription="bar" d="M426.72357723577244,205.27272727272725h13.918699186991873v28.727272727272748h-13.918699186991873Z" fill="#bdafdc"/>
+<path aria-label="IP ullam: prompt; gybe: 143; Director Northeast Hybrid: Holmium echo" role="graphics-symbol" aria-roledescription="bar" d="M360.609756097561,182.0h13.918699186991873v52h-13.918699186991873Z" fill="#9ebdca"/>
+<path aria-label="IP ullam: prompt; gybe: 101; Director Northeast Hybrid: pusher paltry overriding" role="graphics-symbol" aria-roledescription="bar" d="M388.44715447154476,197.27272727272728h13.918699186991873v36.72727272727272h-13.918699186991873Z" fill="#0cefc2"/>
+<path aria-label="IP ullam: prompt; gybe: 512; Director Northeast Hybrid: boo circuit" role="graphics-symbol" aria-roledescription="bar" d="M374.5284552845529,47.81818181818182h13.918699186991873v186.1818181818182h-13.918699186991873Z" fill="#bdafdc"/>
+<path aria-label="IP ullam: cuticle; gybe: 131; Director Northeast Hybrid: Holmium echo" role="graphics-symbol" aria-roledescription="bar" d="M256.219512195122,186.36363636363637h13.918699186991873v47.636363636363626h-13.918699186991873Z" fill="#9ebdca"/>
+<path aria-label="IP ullam: cuticle; gybe: 283; Director Northeast Hybrid: pusher paltry overriding" role="graphics-symbol" aria-roledescription="bar" d="M284.0569105691057,131.0909090909091h13.918699186991873v102.9090909090909h-13.918699186991873Z" fill="#0cefc2"/>
+<path aria-label="IP ullam: cuticle; gybe: 249; Director Northeast Hybrid: boo circuit" role="graphics-symbol" aria-roledescription="bar" d="M270.1382113821138,143.45454545454547h13.918699186991873v90.54545454545453h-13.918699186991873Z" fill="#bdafdc"/>
+<path aria-label="IP ullam: benefit; gybe: 18; Director Northeast Hybrid: Holmium echo" role="graphics-symbol" aria-roledescription="bar" d="M47.43902439024387,227.45454545454547h13.918699186991873v6.5454545454545325h-13.918699186991873Z" fill="#9ebdca"/>
+<path aria-label="IP ullam: benefit; gybe: 348; Director Northeast Hybrid: pusher paltry overriding" role="graphics-symbol" aria-roledescription="bar" d="M75.27642276422762,107.45454545454547h13.918699186991873v126.54545454545453h-13.918699186991873Z" fill="#0cefc2"/>
+<path aria-label="IP ullam: benefit; gybe: 387; Director Northeast Hybrid: boo circuit" role="graphics-symbol" aria-roledescription="bar" d="M61.357723577235745,93.27272727272728h13.918699186991873v140.72727272727272h-13.918699186991873Z" fill="#bdafdc"/>
+<path aria-label="IP ullam: product; gybe: 347; Director Northeast Hybrid: Holmium echo" role="graphics-symbol" aria-roledescription="bar" d="M308.4146341463414,107.81818181818183h13.918699186991873v126.18181818181817h-13.918699186991873Z" fill="#9ebdca"/>
+<path aria-label="IP ullam: product; gybe: 265; Director Northeast Hybrid: pusher paltry overriding" role="graphics-symbol" aria-roledescription="bar" d="M336.2520325203252,137.63636363636363h13.918699186991873v96.36363636363636h-13.918699186991873Z" fill="#0cefc2"/>
+<path aria-label="IP ullam: product; gybe: 42; Director Northeast Hybrid: boo circuit" role="graphics-symbol" aria-roledescription="bar" d="M322.3333333333333,218.72727272727272h13.918699186991873v15.27272727272728h-13.918699186991873Z" fill="#bdafdc"/>
+<path aria-label="IP ullam: climate; gybe: 103; Director Northeast Hybrid: Holmium echo" role="graphics-symbol" aria-roledescription="bar" d="M204.02439024390245,196.54545454545456h13.918699186991873v37.45454545454544h-13.918699186991873Z" fill="#9ebdca"/>
+<path aria-label="IP ullam: climate; gybe: 227; Director Northeast Hybrid: pusher paltry overriding" role="graphics-symbol" aria-roledescription="bar" d="M231.8617886178862,151.45454545454544h13.918699186991873v82.54545454545455h-13.918699186991873Z" fill="#0cefc2"/>
+<path aria-label="IP ullam: climate; gybe: 330; Director Northeast Hybrid: boo circuit" role="graphics-symbol" aria-roledescription="bar" d="M217.9430894308943,114.0h13.918699186991873v120h-13.918699186991873Z" fill="#bdafdc"/>
+</svg>

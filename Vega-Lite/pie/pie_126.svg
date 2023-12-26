@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="125,242,0,26" text-anchor="middle" x="184.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southwest</text>
+<path aria-label="Intranet: 554; Response Tandem: Luxurious" role="graphics-symbol" aria-roledescription="arc mark"  d="M239.74281748323065,184.17706945439556A75,75,0,0,0,184.0,59.0L184.0,84.0A50,50,0,0,1,221.16187832215377,167.4513796362637Z" fill="#5adfc2" stroke="black" stroke-width="2"/>
+<path aria-label="Intranet: 492; Response Tandem: quantify" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.0,59.0A75,75,0,0,0,117.30597269388815,168.30607412240008L139.5373151292588,156.87071608160005A50,50,0,0,1,184.0,84.0Z" fill="#7f4a7d" stroke="black" stroke-width="2"/>
+<path aria-label="Intranet: 254; Response Tandem: Savannah" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.75645691603458,207.2198559687149A75,75,0,0,0,239.74281748323065,184.17706945439556L221.16187832215377,167.4513796362637A50,50,0,0,1,173.1709712773564,182.81323731247662Z" fill="#3036a3" stroke="black" stroke-width="2"/>
+<path aria-label="Intranet: 211; Response Tandem: platforms" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.30597269388815,168.30607412240008A75,75,0,0,0,167.75645691603458,207.2198559687149L173.1709712773564,182.81323731247662A50,50,0,0,1,139.5373151292588,156.87071608160005Z" fill="#41cdb3" stroke="black" stroke-width="2"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#5adfc2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#3036a3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#41cdb3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#7f4a7d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Luxurious</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Savannah</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">platforms</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">quantify</text>
+</svg>

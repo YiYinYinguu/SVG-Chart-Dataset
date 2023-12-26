@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="561" height="309" viewBox="0 0 561 309" style="background-color: rgb(255, 255, 255);">
+<line x1="106.5" y1="34.5" x2="106.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="234.5" y1="34.5" x2="234.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="363.5" y1="34.5" x2="363.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="491.5" y1="34.5" x2="491.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="96,110,241,304" text-anchor="end" x="106.25000000000001" y="241.5" transform="rotate(270.0, 110.25000000000001, 241.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">antiquity</text>
+<text aria-label="224,238,241,269" text-anchor="end" x="234.75" y="241.5" transform="rotate(270.0, 238.75, 241.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">bulb</text>
+<text aria-label="353,367,241,304" text-anchor="end" x="363.25" y="241.5" transform="rotate(270.0, 367.25, 241.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">intellect</text>
+<text aria-label="481,495,241,283" text-anchor="end" x="491.75" y="241.5" transform="rotate(270.0, 495.75, 241.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">prison</text>
+<line aria-label="106,106,234,239" x1="106.5" y1="234.5" x2="106.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="234,234,234,239" x1="234.5" y1="234.5" x2="234.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="363,363,234,239" x1="363.5" y1="234.5" x2="363.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="491,491,234,239" x1="491.5" y1="234.5" x2="491.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,556,234,234" x1="42.5" y1="234.5" x2="556.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="400,556,0,26" text-anchor="end" x="556.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Lights among</text>
+<text aria-label="33,40,225,239" text-anchor="end" x="40.5" y="238.5" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,40,163,177" text-anchor="end" x="40.5" y="176.0" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="5,40,100,114" text-anchor="end" x="40.5" y="113.5" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="5,40,38,52" text-anchor="end" x="40.5" y="51.0" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<line aria-label="42,42,34,234" x1="42.5" y1="234.5" x2="42.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="amet: antiquity; Thailand: 305; a: connect" role="graphics-symbol" aria-roledescription="bar" d="M54.20750000000001,195.875h104.08500000000001v38.125h-104.08500000000001Z" fill="#c4b7de"/>
+<path aria-label="amet: antiquity; Thailand: 216; a: Northeast bless" role="graphics-symbol" aria-roledescription="bar" d="M54.20750000000001,168.875h104.08500000000001v27h-104.08500000000001Z" fill="#c0dba7"/>
+<path aria-label="amet: intellect; Thailand: 668; a: connect" role="graphics-symbol" aria-roledescription="bar" d="M311.2075,150.5h104.08500000000001v83.5h-104.08500000000001Z" fill="#c4b7de"/>
+<path aria-label="amet: intellect; Thailand: 180; a: Northeast bless" role="graphics-symbol" aria-roledescription="bar" d="M311.2075,128.0h104.08500000000001v22.5h-104.08500000000001Z" fill="#c0dba7"/>
+<path aria-label="amet: bulb; Thailand: 841; a: connect" role="graphics-symbol" aria-roledescription="bar" d="M182.7075,128.875h104.08500000000001v105.125h-104.08500000000001Z" fill="#c4b7de"/>
+<path aria-label="amet: bulb; Thailand: 44; a: Northeast bless" role="graphics-symbol" aria-roledescription="bar" d="M182.7075,123.375h104.08500000000001v5.5h-104.08500000000001Z" fill="#c0dba7"/>
+<path aria-label="amet: prison; Thailand: 687; a: connect" role="graphics-symbol" aria-roledescription="bar" d="M439.7075,148.125h104.08500000000001v85.87500000000001h-104.08500000000001Z" fill="#c4b7de"/>
+<path aria-label="amet: prison; Thailand: 731; a: Northeast bless" role="graphics-symbol" aria-roledescription="bar" d="M439.7075,56.75h104.08500000000001v91.37499999999999h-104.08500000000001Z" fill="#c0dba7"/>
+<text aria-label="99,112,184,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.25000000000001" y="192.478" font-family="serif" font-size="7.71px" fill="#000" opacity="1">305</text>
+<text aria-label="99,112,157,166" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.25000000000001" y="165.478" font-family="serif" font-size="7.71px" fill="#000" opacity="1">216</text>
+<text aria-label="356,369,139,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="363.25" y="147.103" font-family="serif" font-size="7.71px" fill="#000" opacity="1">668</text>
+<text aria-label="356,369,116,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="363.25" y="124.603" font-family="serif" font-size="7.71px" fill="#000" opacity="1">180</text>
+<text aria-label="228,241,117,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="234.75" y="125.478" font-family="serif" font-size="7.71px" fill="#000" opacity="1">841</text>
+<text aria-label="230,239,112,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="234.75" y="119.978" font-family="serif" font-size="7.71px" fill="#000" opacity="1">44</text>
+<text aria-label="485,498,137,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="491.75" y="144.72799999999998" font-family="serif" font-size="7.71px" fill="#000" opacity="1">687</text>
+<text aria-label="485,498,45,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="491.75" y="53.35300000000001" font-family="serif" font-size="7.71px" fill="#000" opacity="1">731</text>
+</svg>

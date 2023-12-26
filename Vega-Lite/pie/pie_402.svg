@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="319" height="270" viewBox="0 0 319 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="46,163,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southwest</text>
+<path aria-label="content Corners invoice: 178; Oriental: generally" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.89936676410332,198.1236248612925A75,75,0,0,0,179.93960277339198,137.00930825377168L159.95570870048746,136.2068260527659A55,55,0,0,1,133.52620229367577,181.02399156494786Z" fill="#9fbfd5" stroke="white" stroke-width="1"/>
+<path aria-label="content Corners invoice: 61; Oriental: Pickup" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.93960277339198,137.00930825377168A75,75,0,0,0,176.70428545157512,112.01147008372243L157.58314266448843,117.87507806139645A55,55,0,0,1,159.95570870048746,136.2068260527659Z" fill="#62dfed" stroke="white" stroke-width="1"/>
+<path aria-label="content Corners invoice: 338; Oriental: mobile" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.23899464808909,152.1889004664711A75,75,0,0,0,143.89936676410332,198.1236248612925L133.52620229367577,181.02399156494786A55,55,0,0,1,51.64192940859866,147.33852700874547Z" fill="#7f3eb7" stroke="white" stroke-width="1"/>
+<path aria-label="content Corners invoice: 328; Oriental: seemingly" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.23899464808909,152.1889004664711L51.64192940859866,147.33852700874547A55,55,0,0,1,104.99999999999999,79.0Z" fill="#2b791a" stroke="white" stroke-width="1"/>
+<path aria-label="content Corners invoice: 230; Oriental: Pants" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.70428545157512,112.01147008372243A75,75,0,0,0,105.0,59.0L105.0,79.0A55,55,0,0,1,157.58314266448843,117.87507806139645Z" fill="#1ffffe" stroke="white" stroke-width="1"/>
+<text aria-label="176,188,174,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.52378631565097" y="181.71720196255768" font-family="sans-serif" font-size="7px" fill="#9fbfd5" opacity="1">178</text>
+<text aria-label="190,198,117,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.25556493624663" y="124.44819806647217" font-family="sans-serif" font-size="7px" fill="#62dfed" opacity="1">61</text>
+<text aria-label="64,76,212,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="70.75997356442875" y="219.23232899355503" font-family="sans-serif" font-size="7px" fill="#7f3eb7" opacity="1">338</text>
+<text aria-label="28,40,73,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.061994493857924" y="80.61228137203558" font-family="sans-serif" font-size="7px" fill="#2b791a" opacity="1">328</text>
+<text aria-label="152,164,56,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="158.50345208041264" y="63.630250688018904" font-family="sans-serif" font-size="7px" fill="#1ffffe" opacity="1">230</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#1ffffe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M69.0,258.25A5,5,0,1,1,59.0,258.25A5,5,0,1,1,69.0,258.25" fill="#62dfed" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M128.0,258.25A5,5,0,1,1,118.0,258.25A5,5,0,1,1,128.0,258.25" fill="#9fbfd5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M199.0,258.25A5,5,0,1,1,189.0,258.25A5,5,0,1,1,199.0,258.25" fill="#7f3eb7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M260.0,258.25A5,5,0,1,1,250.0,258.25A5,5,0,1,1,260.0,258.25" fill="#2b791a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Pants</text>
+<text aria-label="74,107,251,262" text-anchor="start" x="74.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Pickup</text>
+<text aria-label="133,182,251,262" text-anchor="start" x="133.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">generally</text>
+<text aria-label="204,237,251,262" text-anchor="start" x="204.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">mobile</text>
+<text aria-label="265,314,251,262" text-anchor="start" x="265.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">seemingly</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="224" height="286" viewBox="0 0 224 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="59,150,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">copying</text>
+<path aria-label="Gloves: 168; SUV Eritrea reboot: personal" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.37498059397907,202.12202722121117A75,75,0,0,0,177.4739723563289,153.3008634753494L105.0,134.0Z" fill="#feff76" stroke="white" stroke-width="2"/>
+<path aria-label="Gloves: 683; SUV Eritrea reboot: revolutionary" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,136.37498059397907,202.12202722121117L105.0,134.0Z" fill="#86e8cc" stroke="white" stroke-width="2"/>
+<path aria-label="Gloves: 350; SUV Eritrea reboot: Grocery" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.4739723563289,153.3008634753494A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#e20a33" stroke="white" stroke-width="2"/>
+<text aria-label="167,180,185,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.8514341246077" y="193.96102154883755" font-family="avenir" font-size="8px" fill="#feff76" opacity="1">168</text>
+<text aria-label="10,23,147,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.087603434183407" y="155.2720141670402" font-family="avenir" font-size="8px" fill="#86e8cc" opacity="1">683</text>
+<text aria-label="169,183,73,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.35997917368576" y="81.15701163930677" font-family="avenir" font-size="8px" fill="#e20a33" opacity="1">350</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#e20a33" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M81.0,274.25A5,5,0,1,1,71.0,274.25A5,5,0,1,1,81.0,274.25" fill="#feff76" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M150.0,274.25A5,5,0,1,1,140.0,274.25A5,5,0,1,1,150.0,274.25" fill="#86e8cc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Grocery</text>
+<text aria-label="86,130,267,278" text-anchor="start" x="86.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">personal</text>
+<text aria-label="155,226,267,278" text-anchor="start" x="155.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">revolutionary</text>
+<text aria-label="5,113,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">SUV Eritrea reboot</text>
+</svg>

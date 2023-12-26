@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="346" height="286" viewBox="0 0 346 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="107,341,0,26" text-anchor="end" x="341.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Sedan vice genuine</text>
+<path aria-label="FTM: 7; ADP lavender: like" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.1099939611657,176.93958185609375L67.05573027365729,178.94272147375418A38,38,0,0,1,105.0,143.0Z" fill="#f8e3ed" stroke="black" stroke-width="0"/>
+<path aria-label="FTM: 3; ADP lavender: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.33346071172339,245.2642882125692A75,75,0,0,0,113.10892638179564,255.56034678657699L109.10852270010979,218.77724237186567A38,38,0,0,1,85.40895342727319,213.5605726943684Z" fill="#94b1b9" stroke="black" stroke-width="0"/>
+<path aria-label="FTM: 6; ADP lavender: Buckinghamshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.2662494389417,160.93537461030843A75,75,0,0,0,105.0,106.0L105.0,143.0A38,38,0,0,1,141.61489971573047,170.83392313588962Z" fill="#de702f" stroke="black" stroke-width="0"/>
+<path aria-label="FTM: 5; ADP lavender: ivory" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.1099939611657,176.93958185609375A75,75,0,0,0,66.33346071172339,245.2642882125692L85.40895342727319,213.5605726943684A38,38,0,0,1,67.05573027365729,178.94272147375418Z" fill="#2ca5f7" stroke="black" stroke-width="0"/>
+<path aria-label="FTM: 8; ADP lavender: Martinique" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.10892638179564,255.56034678657699A75,75,0,0,0,177.2662494389417,160.93537461030843L141.61489971573047,170.83392313588962A38,38,0,0,1,109.10852270010979,218.77724237186567Z" fill="#597cc2" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#de702f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,56.25A5,5,0,1,1,115.0,56.25A5,5,0,1,1,125.0,56.25" fill="#597cc2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M205.0,56.25A5,5,0,1,1,195.0,56.25A5,5,0,1,1,205.0,56.25" fill="#94b1b9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M268.0,56.25A5,5,0,1,1,258.0,56.25A5,5,0,1,1,268.0,56.25" fill="#2ca5f7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M319.0,56.25A5,5,0,1,1,309.0,56.25A5,5,0,1,1,319.0,56.25" fill="#f8e3ed" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,103,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Buckinghamshire</text>
+<text aria-label="130,185,49,60" text-anchor="start" x="130.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Martinique</text>
+<text aria-label="210,248,49,60" text-anchor="start" x="210.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="273,300,49,60" text-anchor="start" x="273.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">ivory</text>
+<text aria-label="324,346,49,60" text-anchor="start" x="324.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">like</text>
+<text aria-label="5,77,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">ADP lavender</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1079" height="365" viewBox="0 0 1079 365" style="background-color: rgb(255, 255, 255);">
+<text aria-label="187,206,266,333" text-anchor="end" x="201.48387096774195" y="266.5" transform="rotate(270.0, 206.48387096774195, 266.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">adviser</text>
+<text aria-label="343,362,266,333" text-anchor="end" x="357.2903225806452" y="266.5" transform="rotate(270.0, 362.2903225806452, 266.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">canteen</text>
+<text aria-label="499,518,266,333" text-anchor="end" x="513.0967741935484" y="266.5" transform="rotate(270.0, 518.0967741935484, 266.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">captain</text>
+<text aria-label="654,673,266,333" text-anchor="end" x="668.9032258064517" y="266.5" transform="rotate(270.0, 673.9032258064517, 266.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">geology</text>
+<text aria-label="810,829,266,361" text-anchor="end" x="824.709677419355" y="266.5" transform="rotate(270.0, 829.709677419355, 266.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">overcharge</text>
+<text aria-label="966,985,266,352" text-anchor="end" x="980.5161290322582" y="266.5" transform="rotate(270.0, 985.5161290322582, 266.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">structure</text>
+<line aria-label="201,201,259,264" x1="201.5" y1="259.5" x2="201.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="357,357,259,264" x1="357.5" y1="259.5" x2="357.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="513,513,259,264" x1="513.5" y1="259.5" x2="513.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="668,668,259,264" x1="668.5" y1="259.5" x2="668.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="824,824,259,264" x1="824.5" y1="259.5" x2="824.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="980,980,259,264" x1="980.5" y1="259.5" x2="980.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="108,1074,259,259" x1="108.5" y1="259.5" x2="1074.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="571,610,0,26" text-anchor="middle" x="591.0" y="25.714000000000006" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Van</text>
+<text aria-label="97,106,246,265" text-anchor="end" x="106.5" y="264.5" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="87,106,217,236" text-anchor="end" x="106.5" y="235.92857142857144" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="87,106,189,208" text-anchor="end" x="106.5" y="207.35714285714286" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="87,106,160,179" text-anchor="end" x="106.5" y="178.78571428571428" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">60</text>
+<text aria-label="87,106,132,151" text-anchor="end" x="106.5" y="150.21428571428572" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">80</text>
+<text aria-label="78,106,103,122" text-anchor="end" x="106.5" y="121.64285714285714" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="78,106,75,94" text-anchor="end" x="106.5" y="93.07142857142858" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">120</text>
+<text aria-label="78,106,46,65" text-anchor="end" x="106.5" y="64.5" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">140</text>
+<text aria-label="61,73,153,165" text-anchor="middle" x="75.5" y="159.5" transform="rotate(-90.0, 73.5, 159.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">oh</text>
+<line aria-label="108,108,59,259" x1="108.5" y1="259.5" x2="108.5" y2="59.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Sleek transitional: overcharge; oh: 122; Tasty: drive" role="graphics-symbol" aria-roledescription="bar" d="M762.3870967741937,84.71428571428571h124.64516129032259v174.28571428571428h-124.64516129032259Z" fill="#f8cbc4"/>
+<path aria-label="Sleek transitional: canteen; oh: 129; Tasty: drive" role="graphics-symbol" aria-roledescription="bar" d="M294.9677419354839,74.71428571428572h124.64516129032259v184.28571428571428h-124.64516129032259Z" fill="#f8cbc4"/>
+<path aria-label="Sleek transitional: structure; oh: 70; Tasty: drive" role="graphics-symbol" aria-roledescription="bar" d="M918.1935483870968,159.0h124.64516129032259v100h-124.64516129032259Z" fill="#f8cbc4"/>
+<path aria-label="Sleek transitional: adviser; oh: 100; Tasty: drive" role="graphics-symbol" aria-roledescription="bar" d="M139.16129032258067,116.14285714285714h124.64516129032259v142.85714285714286h-124.64516129032259Z" fill="#f8cbc4"/>
+<path aria-label="Sleek transitional: geology; oh: 49; Tasty: drive" role="graphics-symbol" aria-roledescription="bar" d="M606.5806451612904,189.0h124.64516129032259v70h-124.64516129032259Z" fill="#f8cbc4"/>
+<path aria-label="Sleek transitional: captain; oh: 133; Tasty: drive" role="graphics-symbol" aria-roledescription="bar" d="M450.77419354838713,69.00000000000001h124.64516129032259v190h-124.64516129032259Z" fill="#f8cbc4"/>
+<text aria-label="802,847,44,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="824.709677419355" y="73.42828571428572" font-family="monospace" font-size="28.98px" fill="#000" opacity="1">122</text>
+<text aria-label="334,379,34,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="357.2903225806452" y="63.42828571428573" font-family="monospace" font-size="28.98px" fill="#000" opacity="1">129</text>
+<text aria-label="965,995,118,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="980.5161290322582" y="147.714" font-family="monospace" font-size="28.98px" fill="#000" opacity="1">70</text>
+<text aria-label="178,223,75,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="201.48387096774195" y="104.85685714285714" font-family="monospace" font-size="28.98px" fill="#000" opacity="1">100</text>
+<text aria-label="653,683,148,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="668.9032258064517" y="177.714" font-family="monospace" font-size="28.98px" fill="#000" opacity="1">49</text>
+<text aria-label="490,535,28,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="513.0967741935484" y="57.71400000000001" font-family="monospace" font-size="28.98px" fill="#000" opacity="1">133</text>
+<path  d="M6.0,76.0h10v10h-10Z" fill="#f8cbc4" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,74,85" text-anchor="start" x="21.0" y="84.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">drive</text>
+<text aria-label="5,35,57,69" text-anchor="start" x="5.0" y="68.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Tasty</text>
+</svg>

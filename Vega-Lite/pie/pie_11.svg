@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">interbreed tan</text>
+<path aria-label="Sharable: 331; hacking: drive" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.090536171210232,177.74327887715A75,75,0,0,0,161.8637863329122,213.9030653833163L105.0,165.0Z" fill="#fc938b" stroke="white" stroke-width="1"/>
+<path aria-label="Sharable: 255; hacking: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,31.090536171210232,177.74327887715L105.0,165.0Z" fill="#8ec8ac" stroke="white" stroke-width="1"/>
+<path aria-label="Sharable: 271; hacking: Central" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.07891911539554,185.72750392971295A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#8ed87f" stroke="white" stroke-width="1"/>
+<path aria-label="Sharable: 63; hacking: Pop" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.8637863329122,213.9030653833163A75,75,0,0,0,177.07891911539554,185.72750392971295L105.0,165.0Z" fill="#e7fbf4" stroke="white" stroke-width="1"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#8ed87f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,40.25A5,5,0,1,1,68.0,40.25A5,5,0,1,1,78.0,40.25" fill="#e7fbf4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M124.0,40.25A5,5,0,1,1,114.0,40.25A5,5,0,1,1,124.0,40.25" fill="#fc938b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M175.0,40.25A5,5,0,1,1,165.0,40.25A5,5,0,1,1,175.0,40.25" fill="#8ec8ac" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Central</text>
+<text aria-label="83,99,33,44" text-anchor="start" x="83.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Pop</text>
+<text aria-label="129,156,33,44" text-anchor="start" x="129.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">drive</text>
+<text aria-label="180,202,33,44" text-anchor="start" x="180.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">male</text>
+</svg>

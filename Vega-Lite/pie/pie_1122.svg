@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">silver mobile</text>
+<path aria-label="Wooden: 203; female: Shoes" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.67002273777308,204.82647794517075A75,75,0,0,0,162.57426880277131,182.0645771002537L105.0,134.0Z" fill="#bbfbaf" stroke="white" stroke-width="1"/>
+<path aria-label="Wooden: 852; female: SMS" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.57426880277131,182.0645771002537A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#a9eaaf" stroke="white" stroke-width="1"/>
+<path aria-label="Wooden: 186; female: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M93.08025324768904,208.0467395457813A75,75,0,0,0,129.67002273777308,204.82647794517075L105.0,134.0Z" fill="#6ebc7d" stroke="white" stroke-width="1"/>
+<path aria-label="Wooden: 422; female: red" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,37.40879657333825,101.49724289639985L105.0,134.0Z" fill="#7b58fe" stroke="white" stroke-width="1"/>
+<path aria-label="Wooden: 699; female: Wagon" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.40879657333825,101.49724289639985A75,75,0,0,0,93.08025324768904,208.0467395457813L105.0,134.0Z" fill="#d7a5ba" stroke="white" stroke-width="1"/>
+<text aria-label="147,165,200,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="156.20158145593518" y="211.0162013103296" font-family="sans-serif" font-size="11px" fill="#bbfbaf" opacity="1">203</text>
+<text aria-label="177,195,87,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.51985747910567" y="98.86192405762583" font-family="sans-serif" font-size="11px" fill="#a9eaaf" opacity="1">852</text>
+<text aria-label="103,121,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.89039061729231" y="226.6534535637448" font-family="sans-serif" font-size="11px" fill="#6ebc7d" opacity="1">186</text>
+<text aria-label="48,66,49,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="57.09539566591127" y="60.80847236342872" font-family="sans-serif" font-size="11px" fill="#7b58fe" opacity="1">422</text>
+<text aria-label="16,34,167,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.232067116817802" y="178.6782543245772" font-family="sans-serif" font-size="11px" fill="#d7a5ba" opacity="1">699</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#a9eaaf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#bbfbaf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#6ebc7d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#d7a5ba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#7b58fe" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,255,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">SMS</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Shoes</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Wagon</text>
+<text aria-label="239,255,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">red</text>
+</svg>

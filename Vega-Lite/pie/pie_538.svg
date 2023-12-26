@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="298" height="239" viewBox="0 0 298 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="141,245,0,26" text-anchor="middle" x="193.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Checking</text>
+<path aria-label="connecting joule: 370; bongo: Cheese" role="graphics-symbol" aria-roledescription="arc mark"  d="M236.7563616030331,73.08710465538016A75,75,0,0,0,193.0,59.0L193.0,134.0Z" fill="#271b4e" stroke="black" stroke-width="4"/>
+<path aria-label="connecting joule: 293; bongo: Towels" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.06921188928197,201.3837012519125A75,75,0,0,0,195.90347969637713,208.9437776313199L193.0,134.0Z" fill="#b5b7bf" stroke="black" stroke-width="4"/>
+<path aria-label="connecting joule: 405; bongo: Hailey" role="graphics-symbol" aria-roledescription="arc mark"  d="M202.069177063534,208.4496475974888A75,75,0,0,0,246.96217891589916,186.08726568604354L193.0,134.0Z" fill="#e87eaa" stroke="black" stroke-width="4"/>
+<path aria-label="connecting joule: 129; bongo: circuit" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.32293212665408,192.704781191544A75,75,0,0,0,160.06921188928197,201.3837012519125L193.0,134.0Z" fill="#df9aec" stroke="black" stroke-width="4"/>
+<path aria-label="connecting joule: 477; bongo: Distributed" role="graphics-symbol" aria-roledescription="arc mark"  d="M267.2152238552479,123.17869933347029A75,75,0,0,0,236.7563616030331,73.08710465538016L193.0,134.0Z" fill="#242c83" stroke="black" stroke-width="4"/>
+<path aria-label="connecting joule: 705; bongo: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M193.0,59.0A75,75,0,0,0,123.45805791217634,105.91231069215947L193.0,134.0Z" fill="#74d6d6" stroke="black" stroke-width="4"/>
+<path aria-label="connecting joule: 762; bongo: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.45805791217634,105.91231069215947A75,75,0,0,0,146.32293212665408,192.704781191544L193.0,134.0Z" fill="#a9bf5d" stroke="black" stroke-width="4"/>
+<path aria-label="connecting joule: 49; bongo: Intersex" role="graphics-symbol" aria-roledescription="arc mark"  d="M195.90347969637713,208.9437776313199A75,75,0,0,0,202.069177063534,208.4496475974888L193.0,134.0Z" fill="#8891cd" stroke="black" stroke-width="4"/>
+<path aria-label="connecting joule: 542; bongo: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M246.96217891589916,186.08726568604354A75,75,0,0,0,267.2152238552479,123.17869933347029L193.0,134.0Z" fill="#7bec47" stroke="black" stroke-width="4"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#271b4e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#242c83" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#7bec47" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#e87eaa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#8891cd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#b5b7bf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#df9aec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#a9bf5d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,184.0A5,5,0,1,1,6.0,184.0A5,5,0,1,1,16.0,184.0" fill="#74d6d6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Cheese</text>
+<text aria-label="21,81,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Distributed</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hailey</text>
+<text aria-label="21,65,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Intersex</text>
+<text aria-label="21,54,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Towels</text>
+<text aria-label="21,59,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">circuit</text>
+<text aria-label="21,59,161,172" text-anchor="start" x="21.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="21,43,177,188" text-anchor="start" x="21.0" y="187.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="5,35,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">bongo</text>
+</svg>

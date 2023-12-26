@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="350" height="270" viewBox="0 0 350 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="280,345,0,26" text-anchor="end" x="345.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Agent</text>
+<path aria-label="unde target payment: 149; off Bespoke: Wooden" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.11738068655066,129.80556025707557A75,75,0,0,0,36.74548016993258,165.08569643368043L77.69819206797303,146.43427857347217A30,30,0,0,1,75.04695227462027,132.32222410283023Z" fill="#bde7a3" stroke="white" stroke-width="0"/>
+<path aria-label="unde target payment: 613; off Bespoke: Nissan" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.5537879657193,164.4200288552A75,75,0,0,0,105.0,59.0L105.0,104.0A30,30,0,0,1,132.4215151862877,146.16801154208Z" fill="#d25f3c" stroke="white" stroke-width="0"/>
+<path aria-label="unde target payment: 160; off Bespoke: feed" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.05888429096501,93.21500333085866A75,75,0,0,0,30.11738068655066,129.80556025707557L75.04695227462027,132.32222410283023A30,30,0,0,1,79.823553716386,117.68600133234347Z" fill="#4ebac3" stroke="white" stroke-width="0"/>
+<path aria-label="unde target payment: 68; off Bespoke: Oxygen" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.23716804406888,178.68202755057794A75,75,0,0,0,173.5537879657193,164.4200288552L132.4215151862877,146.16801154208A30,30,0,0,1,129.09486721762755,151.87281102023118Z" fill="#4df02d" stroke="white" stroke-width="0"/>
+<path aria-label="unde target payment: 307; off Bespoke: mostly" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,42.05888429096501,93.21500333085866L79.823553716386,117.68600133234347A30,30,0,0,1,105.0,104.0Z" fill="#de0da8" stroke="white" stroke-width="0"/>
+<path aria-label="unde target payment: 640; off Bespoke: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.74548016993258,165.08569643368043A75,75,0,0,0,165.23716804406888,178.68202755057794L129.09486721762755,151.87281102023118A30,30,0,0,1,77.69819206797303,146.43427857347217Z" fill="#1211f8" stroke="white" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#d25f3c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M75.0,258.25A5,5,0,1,1,65.0,258.25A5,5,0,1,1,75.0,258.25" fill="#4df02d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,258.25A5,5,0,1,1,129.0,258.25A5,5,0,1,1,139.0,258.25" fill="#1211f8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M190.0,258.25A5,5,0,1,1,180.0,258.25A5,5,0,1,1,190.0,258.25" fill="#bde7a3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,258.25A5,5,0,1,1,248.0,258.25A5,5,0,1,1,258.0,258.25" fill="#4ebac3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M307.0,258.25A5,5,0,1,1,297.0,258.25A5,5,0,1,1,307.0,258.25" fill="#de0da8" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Nissan</text>
+<text aria-label="80,113,251,262" text-anchor="start" x="80.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Oxygen</text>
+<text aria-label="144,166,251,262" text-anchor="start" x="144.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="195,228,251,262" text-anchor="start" x="195.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Wooden</text>
+<text aria-label="263,285,251,262" text-anchor="start" x="263.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">feed</text>
+<text aria-label="312,345,251,262" text-anchor="start" x="312.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">mostly</text>
+</svg>

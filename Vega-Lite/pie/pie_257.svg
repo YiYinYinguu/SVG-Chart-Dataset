@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="288" height="239" viewBox="0 0 288 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="101,283,0,26" text-anchor="end" x="283.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">portals Global</text>
+<path aria-label="quantify West mmm: 138; Analyst exploit psst: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M244.8156765360795,91.52857272957749A75,75,0,0,0,183.0,59.0L183.0,134.0Z" fill="#80de91" stroke="black" stroke-width="3"/>
+<path aria-label="quantify West mmm: 488; Analyst exploit psst: Movies" role="graphics-symbol" aria-roledescription="arc mark"  d="M111.75255295975947,157.42650828117843A75,75,0,1,0,244.8156765360795,91.52857272957749L183.0,134.0Z" fill="#57fad6" stroke="black" stroke-width="3"/>
+<path aria-label="quantify West mmm: 65; Analyst exploit psst: implicate" role="graphics-symbol" aria-roledescription="arc mark"  d="M183.0,59.0A75,75,0,0,0,149.95137884571184,66.674012151322L183.0,134.0Z" fill="#a95aee" stroke="black" stroke-width="3"/>
+<path aria-label="quantify West mmm: 204; Analyst exploit psst: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.95137884571184,66.674012151322A75,75,0,0,0,111.75255295975947,157.42650828117843L183.0,134.0Z" fill="#f14cf6" stroke="black" stroke-width="3"/>
+<text aria-label="215,234,46,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="224.91113130657754" y="58.35417730600797" font-family="sans-serif" font-size="12px" fill="#80de91" opacity="1">138</text>
+<text aria-label="213,232,206,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="222.94169042154078" y="218.65148086842424" font-family="sans-serif" font-size="12px" fill="#57fad6" opacity="1">488</text>
+<text aria-label="156,169,38,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.64326509060476" y="50.332427067765764" font-family="sans-serif" font-size="12px" fill="#a95aee" opacity="1">65</text>
+<text aria-label="90,109,91,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.04864834091335" y="103.08477040129134" font-family="sans-serif" font-size="12px" fill="#f14cf6" opacity="1">204</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#80de91" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#57fad6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#f14cf6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#a95aee" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Movies</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">implicate</text>
+</svg>

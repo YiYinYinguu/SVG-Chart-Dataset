@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="384" height="286" viewBox="0 0 384 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="314,379,0,26" text-anchor="end" x="379.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">circa</text>
+<path aria-label="watt male sugary: 207; embrace Copper: Configuration" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.65671800939765,106.19817207161992A75,75,0,0,0,105.0,59.0L105.0,78.0A56,56,0,0,1,157.01034944701692,113.24130181347621Z" fill="#ccd0f8" stroke="white" stroke-width="0"/>
+<path aria-label="watt male sugary: 66; embrace Copper: transmitter" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,77.19817207161992,64.34328199060232L84.24130181347621,81.98965055298308A56,56,0,0,1,104.99999999999999,78.0Z" fill="#d8e654" stroke="white" stroke-width="0"/>
+<path aria-label="watt male sugary: 257; embrace Copper: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.0877321106189,200.80588686302042A75,75,0,0,0,174.65671800939765,106.19817207161992L157.01034944701692,113.24130181347621A56,56,0,0,1,130.4521733092621,183.8817288577219Z" fill="#8dec25" stroke="white" stroke-width="0"/>
+<path aria-label="watt male sugary: 317; embrace Copper: molestiae" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.7855913661505,150.2680782022863A75,75,0,0,0,139.0877321106189,200.80588686302042L130.4521733092621,183.8817288577219A56,56,0,0,1,50.33324155339237,146.14683172437378Z" fill="#ca4a74" stroke="white" stroke-width="0"/>
+<path aria-label="watt male sugary: 245; embrace Copper: quadruple" role="graphics-symbol" aria-roledescription="arc mark"  d="M77.19817207161992,64.34328199060232A75,75,0,0,0,31.7855913661505,150.2680782022863L50.33324155339237,146.14683172437378A56,56,0,0,1,84.24130181347621,81.98965055298308Z" fill="#bf11d5" stroke="white" stroke-width="0"/>
+<text aria-label="144,166,49,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.48466392744905" y="63.49296202282281" font-family="serif" font-size="14px" fill="#ccd0f8" opacity="1">207</text>
+<text aria-label="80,95,35,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="88.01361640923744" y="49.61751999119127" font-family="serif" font-size="14px" fill="#d8e654" opacity="1">66</text>
+<text aria-label="177,200,155,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.24292864301435" y="169.6722113791884" font-family="serif" font-size="14px" fill="#8dec25" opacity="1">257</text>
+<text aria-label="55,77,205,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="66.65175243647116" y="219.4212006101992" font-family="serif" font-size="14px" fill="#ca4a74" opacity="1">317</text>
+<text aria-label="14,36,81,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.429614584585096" y="95.94582345542446" font-family="serif" font-size="14px" fill="#bf11d5" opacity="1">245</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#ccd0f8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M108.0,274.25A5,5,0,1,1,98.0,274.25A5,5,0,1,1,108.0,274.25" fill="#8dec25" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M175.0,274.25A5,5,0,1,1,165.0,274.25A5,5,0,1,1,175.0,274.25" fill="#ca4a74" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M247.0,274.25A5,5,0,1,1,237.0,274.25A5,5,0,1,1,247.0,274.25" fill="#bf11d5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M319.0,274.25A5,5,0,1,1,309.0,274.25A5,5,0,1,1,319.0,274.25" fill="#d8e654" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,92,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Configuration</text>
+<text aria-label="113,157,267,278" text-anchor="start" x="113.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="180,229,267,278" text-anchor="start" x="180.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">molestiae</text>
+<text aria-label="252,301,267,278" text-anchor="start" x="252.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">quadruple</text>
+<text aria-label="324,384,267,278" text-anchor="start" x="324.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">transmitter</text>
+<text aria-label="5,89,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">embrace Copper</text>
+</svg>

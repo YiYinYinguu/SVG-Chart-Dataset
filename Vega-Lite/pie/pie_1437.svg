@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="267" height="270" viewBox="0 0 267 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="184,262,0,26" text-anchor="end" x="262.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Course</text>
+<path aria-label="male sensor when: 46; Forest: wherever" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,41.745641564033576,93.7025293739882L60.300253371917066,105.52312075761833A53,53,0,0,1,104.99999999999999,81.0Z" fill="#cabad5" stroke="black" stroke-width="0"/>
+<path aria-label="male sensor when: 113; Forest: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.745641564033576,93.7025293739882A75,75,0,0,0,129.10795989773712,205.01975971213292L122.03629166106757,184.1872968632406A53,53,0,0,1,60.300253371917066,105.52312075761833Z" fill="#a276df" stroke="black" stroke-width="0"/>
+<path aria-label="male sensor when: 19; Forest: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.20600173940528,65.35163906604147A75,75,0,0,0,105.0,59.0L105.0,81.0A53,53,0,0,1,126.34557456251308,85.4884916066693Z" fill="#de0dcb" stroke="black" stroke-width="0"/>
+<path aria-label="male sensor when: 110; Forest: furthermore" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.10795989773712,205.01975971213292A75,75,0,0,0,135.20600173940528,65.35163906604147L126.34557456251308,85.4884916066693A53,53,0,0,1,122.03629166106757,184.1872968632406Z" fill="#cde98f" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#de0dcb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,258.25A5,5,0,1,1,66.0,258.25A5,5,0,1,1,76.0,258.25" fill="#cde98f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M162.0,258.25A5,5,0,1,1,152.0,258.25A5,5,0,1,1,162.0,258.25" fill="#a276df" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M213.0,258.25A5,5,0,1,1,203.0,258.25A5,5,0,1,1,213.0,258.25" fill="#cabad5" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="81,141,251,262" text-anchor="start" x="81.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">furthermore</text>
+<text aria-label="167,189,251,262" text-anchor="start" x="167.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="218,262,251,262" text-anchor="start" x="218.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">wherever</text>
+</svg>

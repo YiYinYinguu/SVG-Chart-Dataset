@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="280" height="286" viewBox="0 0 280 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="16,263,0,26" text-anchor="middle" x="140.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">bandwidth Southeast</text>
+<path aria-label="towards Web Small: 86; oh: Lead" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.87378179859388,154.40463347180983A75,75,0,1,0,214.93917486286773,184.01994550820612L140.0,181.0Z" fill="#b2d21b" stroke="black" stroke-width="0"/>
+<path aria-label="towards Web Small: 30; oh: Puerto" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.0,106.0A75,75,0,0,0,69.87378179859388,154.40463347180983L140.0,181.0Z" fill="#e1a3fc" stroke="black" stroke-width="0"/>
+<path aria-label="towards Web Small: 40; oh: Applications" role="graphics-symbol" aria-roledescription="arc mark"  d="M214.93917486286773,184.01994550820612A75,75,0,0,0,140.0,106.0L140.0,181.0Z" fill="#893b9f" stroke="black" stroke-width="0"/>
+<path  d="M51.0,56.25A5,5,0,1,1,41.0,56.25A5,5,0,1,1,51.0,56.25" fill="#893b9f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M138.0,56.25A5,5,0,1,1,128.0,56.25A5,5,0,1,1,138.0,56.25" fill="#b2d21b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M188.0,56.25A5,5,0,1,1,178.0,56.25A5,5,0,1,1,188.0,56.25" fill="#e1a3fc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="56,122,49,60" text-anchor="start" x="56.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Applications</text>
+<text aria-label="143,165,49,60" text-anchor="start" x="143.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Lead</text>
+<text aria-label="193,226,49,60" text-anchor="start" x="193.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Puerto</text>
+<text aria-label="40,52,32,44" text-anchor="start" x="40.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">oh</text>
+</svg>

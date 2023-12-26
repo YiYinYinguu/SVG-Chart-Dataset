@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,304,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">helpfully SDD Assistant</text>
+<path aria-label="Dominican Loan: 820; SDR: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.91952327130127,198.01340749138137A75,75,0,0,0,247.82787751520516,155.58138113422507L176.0,134.0Z" fill="#5addbe" stroke="black" stroke-width="1"/>
+<path aria-label="Dominican Loan: 18; SDR: Refined" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.6905606234845,77.48823849521462A75,75,0,0,0,124.4643896657507,79.51072704213776L176.0,134.0Z" fill="#92a53f" stroke="black" stroke-width="1"/>
+<path aria-label="Dominican Loan: 836; SDR: Bacon" role="graphics-symbol" aria-roledescription="arc mark"  d="M247.82787751520516,155.58138113422507A75,75,0,0,0,176.0,59.0L176.0,134.0Z" fill="#213fce" stroke="black" stroke-width="1"/>
+<path aria-label="Dominican Loan: 824; SDR: Lock" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.4643896657507,79.51072704213776A75,75,0,0,0,136.91952327130127,198.01340749138137L176.0,134.0Z" fill="#02474c" stroke="black" stroke-width="1"/>
+<path aria-label="Dominican Loan: 322; SDR: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.0,59.0A75,75,0,0,0,126.6905606234845,77.48823849521462L176.0,134.0Z" fill="#d0fde5" stroke="black" stroke-width="1"/>
+<text aria-label="197,218,209,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="208.15949133392402" y="222.05811749702264" font-family="avenir" font-size="13px" fill="#5addbe" opacity="1">820</text>
+<text aria-label="108,122,58,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.4808028474265" y="71.3859866393869" font-family="avenir" font-size="13px" fill="#92a53f" opacity="1">18</text>
+<text aria-label="237,258,71,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="248.21768883901058" y="84.29147722426313" font-family="avenir" font-size="13px" fill="#213fce" opacity="1">836</text>
+<text aria-label="75,96,134,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.4930294168554" y="147.40756169408888" font-family="avenir" font-size="13px" fill="#02474c" opacity="1">824</text>
+<text aria-label="133,154,40,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="144.40308751251806" y="53.72880016720772" font-family="avenir" font-size="13px" fill="#d0fde5" opacity="1">322</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#213fce" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#5addbe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#02474c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#92a53f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#d0fde5" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bacon</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Lock</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Refined</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="5,23,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">SDR</text>
+</svg>

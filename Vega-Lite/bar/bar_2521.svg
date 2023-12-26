@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="590" height="339" viewBox="0 0 590 339" style="background-color: rgb(255, 255, 255);">
+<line x1="91.5" y1="43.5" x2="91.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="201.5" y1="43.5" x2="201.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="311.5" y1="43.5" x2="311.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="420.5" y1="43.5" x2="420.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="530.5" y1="43.5" x2="530.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="78,96,250,331" text-anchor="end" x="91.80000000000001" y="250.5" transform="rotate(270.0, 96.80000000000001, 250.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">columnist</text>
+<text aria-label="188,206,250,331" text-anchor="end" x="201.4" y="250.5" transform="rotate(270.0, 206.4, 250.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">confusion</text>
+<text aria-label="298,316,250,286" text-anchor="end" x="311.0" y="250.5" transform="rotate(270.0, 316.0, 250.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">debt</text>
+<text aria-label="407,425,250,331" text-anchor="end" x="420.59999999999997" y="250.5" transform="rotate(270.0, 425.59999999999997, 250.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">stopwatch</text>
+<text aria-label="517,535,250,331" text-anchor="end" x="530.2" y="250.5" transform="rotate(270.0, 535.2, 250.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">tomatillo</text>
+<line aria-label="91,91,243,248" x1="91.5" y1="243.5" x2="91.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="201,201,243,248" x1="201.5" y1="243.5" x2="201.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="311,311,243,248" x1="311.5" y1="243.5" x2="311.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="420,420,243,248" x1="420.5" y1="243.5" x2="420.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="530,530,243,248" x1="530.5" y1="243.5" x2="530.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,585,243,243" x1="37.5" y1="243.5" x2="585.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="265,356,0,26" text-anchor="middle" x="311.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">towards</text>
+<text aria-label="26,35,231,249" text-anchor="end" x="35.5" y="248.5" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="8,35,191,209" text-anchor="end" x="35.5" y="208.5" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="8,35,151,169" text-anchor="end" x="35.5" y="168.5" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="8,35,111,129" text-anchor="end" x="35.5" y="128.5" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="8,35,71,89" text-anchor="end" x="35.5" y="88.5" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="8,35,31,49" text-anchor="end" x="35.5" y="48.5" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">500</text>
+<line aria-label="37,37,43,243" x1="37.5" y1="243.5" x2="37.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Response: tomatillo; North Arizona: 404; Plainfield Accountability: Dickinson" role="graphics-symbol" aria-roledescription="bar" d="M495.676,81.39999999999999h69.048v161.60000000000002h-69.048Z" fill="#ac35df"/>
+<path aria-label="Response: stopwatch; North Arizona: 106; Plainfield Accountability: Dickinson" role="graphics-symbol" aria-roledescription="bar" d="M386.07599999999996,200.6h69.048v42.400000000000006h-69.048Z" fill="#ac35df"/>
+<path aria-label="Response: confusion; North Arizona: 488; Plainfield Accountability: Dickinson" role="graphics-symbol" aria-roledescription="bar" d="M166.876,47.800000000000004h69.048v195.2h-69.048Z" fill="#ac35df"/>
+<path aria-label="Response: columnist; North Arizona: 210; Plainfield Accountability: Dickinson" role="graphics-symbol" aria-roledescription="bar" d="M57.27600000000002,159.0h69.048v83.99999999999999h-69.048Z" fill="#ac35df"/>
+<path aria-label="Response: debt; North Arizona: 219; Plainfield Accountability: Dickinson" role="graphics-symbol" aria-roledescription="bar" d="M276.476,155.4h69.048v87.6h-69.048Z" fill="#ac35df"/>
+<text aria-label="523,537,69,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="530.2" y="77.64599999999999" font-family="Balto" font-size="8.219999999999999px" fill="#000" opacity="1">404</text>
+<text aria-label="413,427,188,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="420.59999999999997" y="196.846" font-family="Balto" font-size="8.219999999999999px" fill="#000" opacity="1">106</text>
+<text aria-label="194,208,35,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="201.4" y="44.04600000000001" font-family="Balto" font-size="8.219999999999999px" fill="#000" opacity="1">488</text>
+<text aria-label="84,98,147,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="91.80000000000001" y="155.246" font-family="Balto" font-size="8.219999999999999px" fill="#000" opacity="1">210</text>
+<text aria-label="304,317,143,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="311.0" y="151.64600000000002" font-family="Balto" font-size="8.219999999999999px" fill="#000" opacity="1">219</text>
+</svg>

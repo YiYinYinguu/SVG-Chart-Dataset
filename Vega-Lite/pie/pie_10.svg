@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="213" height="270" viewBox="0 0 213 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="59,150,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Borders</text>
+<path aria-label="Directives Administrator: 251; South ADP: swarm" role="graphics-symbol" aria-roledescription="arc mark"  d="M58.64634218273776,75.03951826044698A75,75,0,0,0,93.59312778352991,208.12747983195652L96.02659385637686,192.3136174678058A59,59,0,0,1,68.53512251708705,87.61775436488497Z" fill="#c58b78" stroke="white" stroke-width="3"/>
+<path aria-label="Directives Administrator: 356; South ADP: SMS" role="graphics-symbol" aria-roledescription="arc mark"  d="M93.59312778352991,208.12747983195652A75,75,0,1,0,105.0,59.0L105.0,75.0A59,59,0,1,1,96.02659385637686,192.3136174678058Z" fill="#54aeb4" stroke="white" stroke-width="3"/>
+<path aria-label="Directives Administrator: 72; South ADP: transmitting" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,58.64634218273776,75.03951826044698L68.53512251708705,87.61775436488497A59,59,0,0,1,104.99999999999999,75.0Z" fill="#ecdf7d" stroke="white" stroke-width="3"/>
+<text aria-label="6,29,146,161" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.95101169908162" y="160.8576822050394" font-family="avenir" font-size="14px" fill="#c58b78" opacity="1">251</text>
+<text aria-label="183,205,130,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.7378621927537" y="144.8641160446446" font-family="avenir" font-size="14px" fill="#54aeb4" opacity="1">356</text>
+<text aria-label="68,83,38,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="75.56984563302223" y="52.947862966672844" font-family="avenir" font-size="14px" fill="#ecdf7d" opacity="1">72</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#54aeb4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M65.0,258.25A5,5,0,1,1,55.0,258.25A5,5,0,1,1,65.0,258.25" fill="#c58b78" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M124.0,258.25A5,5,0,1,1,114.0,258.25A5,5,0,1,1,124.0,258.25" fill="#ecdf7d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">SMS</text>
+<text aria-label="70,97,251,262" text-anchor="start" x="70.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">swarm</text>
+<text aria-label="129,195,251,262" text-anchor="start" x="129.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">transmitting</text>
+</svg>

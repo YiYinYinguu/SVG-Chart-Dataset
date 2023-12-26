@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="213" height="270" viewBox="0 0 213 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="46,163,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">calculate</text>
+<path aria-label="Markets blue: 961; invoice Folk: Movies" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,59.330062373394455,193.49165317237333L73.94444241390823,174.45432415721388A51,51,0,0,1,104.99999999999999,83.0Z" fill="#e3bf7c" stroke="black" stroke-width="0"/>
+<path aria-label="Markets blue: 646; invoice Folk: F2M" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.61835973475135,141.55648003340428A75,75,0,0,0,105.0,59.0L105.0,83.0A51,51,0,0,1,155.74048461963093,139.13840642271492Z" fill="#9dab6c" stroke="black" stroke-width="0"/>
+<path aria-label="Markets blue: 821; invoice Folk: Implementation" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.330062373394455,193.49165317237333A75,75,0,0,0,179.61835973475135,141.55648003340428L155.74048461963093,139.13840642271492A51,51,0,0,1,73.94444241390823,174.45432415721388Z" fill="#62ce6c" stroke="black" stroke-width="0"/>
+<text aria-label="10,28,97,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.77940817321108" y="108.06125903409345" font-family="Balto" font-size="11px" fill="#e3bf7c" opacity="1">961</text>
+<text aria-label="162,180,65,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="171.76862977329873" y="76.65142853226627" font-family="Balto" font-size="11px" fill="#9dab6c" opacity="1">646</text>
+<text aria-label="131,149,208,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="140.6748988302614" y="219.62748691235026" font-family="Balto" font-size="11px" fill="#62ce6c" opacity="1">821</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#9dab6c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M64.0,258.25A5,5,0,1,1,54.0,258.25A5,5,0,1,1,64.0,258.25" fill="#62ce6c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M168.0,258.25A5,5,0,1,1,158.0,258.25A5,5,0,1,1,168.0,258.25" fill="#e3bf7c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">F2M</text>
+<text aria-label="69,146,251,262" text-anchor="start" x="69.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Implementation</text>
+<text aria-label="173,206,251,262" text-anchor="start" x="173.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Movies</text>
+</svg>

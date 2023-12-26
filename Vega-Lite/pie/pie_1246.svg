@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="408" height="270" viewBox="0 0 408 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Implementation</text>
+<path aria-label="black Diesel Customer: 46; digital: arrow" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.00644690341285,165.9833585050045A75,75,0,0,0,39.02469409331911,200.6687399626042L59.257121238034586,189.73032637407223A52,52,0,0,1,53.004469853032916,165.68179523013646Z" fill="#5c8f9a" stroke="black" stroke-width="2"/>
+<path aria-label="black Diesel Customer: 165; digital: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.02469409331911,200.6687399626042A75,75,0,0,0,150.72209433373172,224.45157768921982L136.7006520713873,206.2197605311924A52,52,0,0,1,59.257121238034586,189.73032637407223Z" fill="#e551dc" stroke="black" stroke-width="2"/>
+<path aria-label="black Diesel Customer: 15; digital: convergence" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.77873512642863,154.22021147855122A75,75,0,0,0,30.00644690341285,165.9833585050045L53.004469853032916,165.68179523013646A52,52,0,0,1,53.539923020990514,157.5260132917955Z" fill="#d7c579" stroke="black" stroke-width="2"/>
+<path aria-label="black Diesel Customer: 237; digital: Bhutanese" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.72209433373172,224.45157768921982A75,75,0,0,0,105.0,90.0L105.0,113.0A52,52,0,0,1,136.7006520713873,206.2197605311924Z" fill="#b6afea" stroke="black" stroke-width="2"/>
+<path aria-label="black Diesel Customer: 18; digital: lipoprotein" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.121040894212854,140.48116731815819A75,75,0,0,0,30.77873512642863,154.22021147855122L53.539923020990514,157.5260132917955A52,52,0,0,1,55.85725501998758,148.00027600725633Z" fill="#bef480" stroke="black" stroke-width="2"/>
+<path aria-label="black Diesel Customer: 118; digital: now" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,34.121040894212854,140.48116731815819L55.85725501998758,148.00027600725633A52,52,0,0,1,104.99999999999999,113.0Z" fill="#bf6967" stroke="black" stroke-width="2"/>
+<text aria-label="11,24,179,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.896003751864" y="191.64715959242372" font-family="avenir" font-size="12px" fill="#5c8f9a" opacity="1">46</text>
+<text aria-label="76,96,245,258" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.25716825648527" y="257.0267360421497" font-family="avenir" font-size="12px" fill="#e551dc" opacity="1">165</text>
+<text aria-label="8,21,151,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.193340610286256" y="163.1039055926877" font-family="avenir" font-size="12px" fill="#d7c579" opacity="1">15</text>
+<text aria-label="180,199,128,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.20789397243584" y="140.02389251845358" font-family="avenir" font-size="12px" fill="#b6afea" opacity="1">237</text>
+<text aria-label="11,24,135,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.550465524461202" y="147.72609767786946" font-family="avenir" font-size="12px" fill="#bef480" opacity="1">18</text>
+<text aria-label="43,62,83,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="52.7890525351192" y="95.69231305777369" font-family="avenir" font-size="12px" fill="#bf6967" opacity="1">118</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#b6afea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M93.0,40.25A5,5,0,1,1,83.0,40.25A5,5,0,1,1,93.0,40.25" fill="#e551dc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M154.0,40.25A5,5,0,1,1,144.0,40.25A5,5,0,1,1,154.0,40.25" fill="#5c8f9a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M209.0,40.25A5,5,0,1,1,199.0,40.25A5,5,0,1,1,209.0,40.25" fill="#d7c579" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M297.0,40.25A5,5,0,1,1,287.0,40.25A5,5,0,1,1,297.0,40.25" fill="#bef480" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M377.0,40.25A5,5,0,1,1,367.0,40.25A5,5,0,1,1,377.0,40.25" fill="#bf6967" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bhutanese</text>
+<text aria-label="98,131,33,44" text-anchor="start" x="98.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="159,186,33,44" text-anchor="start" x="159.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">arrow</text>
+<text aria-label="214,274,33,44" text-anchor="start" x="214.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">convergence</text>
+<text aria-label="302,362,33,44" text-anchor="start" x="302.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">lipoprotein</text>
+<text aria-label="382,398,33,44" text-anchor="start" x="382.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">now</text>
+</svg>

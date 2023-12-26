@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="286" viewBox="0 0 289 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="53,157,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Engineer</text>
+<path aria-label="Recumbent: 438; mundane venison: Rubber" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.61266494358469,172.4612933263159A75,75,0,0,0,164.70872471157628,179.38577082431456L105.0,134.0Z" fill="#eadcdd" stroke="white" stroke-width="3"/>
+<path aria-label="Recumbent: 279; mundane venison: Engineer" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.03430475367807,109.93493095456428A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#f1fac9" stroke="white" stroke-width="3"/>
+<path aria-label="Recumbent: 247; mundane venison: garland" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.575247314374906,93.97125099672373A75,75,0,0,0,40.61266494358469,172.4612933263159L105.0,134.0Z" fill="#3e26ea" stroke="white" stroke-width="3"/>
+<path aria-label="Recumbent: 226; mundane venison: joule" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,41.575247314374906,93.97125099672373L105.0,134.0Z" fill="#693c35" stroke="white" stroke-width="3"/>
+<path aria-label="Recumbent: 219; mundane venison: Pizza" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.70872471157628,179.38577082431456A75,75,0,0,0,176.03430475367807,109.93493095456428L105.0,134.0Z" fill="#bffe49" stroke="white" stroke-width="3"/>
+<text aria-label="93,106,217,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.98585979289729" y="225.86021587990714" font-family="monospace" font-size="8px" fill="#eadcdd" opacity="1">438</text>
+<text aria-label="150,164,54,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.44507862084365" y="62.85962996775632" font-family="monospace" font-size="8px" fill="#f1fac9" opacity="1">279</text>
+<text aria-label="8,21,126,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.006767218657629" y="134.8963453605748" font-family="monospace" font-size="8px" fill="#3e26ea" opacity="1">247</text>
+<text aria-label="54,68,49,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="61.543728256751194" y="57.18659729350017" font-family="monospace" font-size="8px" fill="#693c35" opacity="1">226</text>
+<text aria-label="187,200,142,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.82666946616754" y="150.48526118329315" font-family="monospace" font-size="8px" fill="#bffe49" opacity="1">219</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#f1fac9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#bffe49" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,274.25A5,5,0,1,1,125.0,274.25A5,5,0,1,1,135.0,274.25" fill="#eadcdd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,274.25A5,5,0,1,1,182.0,274.25A5,5,0,1,1,192.0,274.25" fill="#3e26ea" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,274.25A5,5,0,1,1,244.0,274.25A5,5,0,1,1,254.0,274.25" fill="#693c35" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Engineer</text>
+<text aria-label="88,115,267,278" text-anchor="start" x="88.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Pizza</text>
+<text aria-label="140,173,267,278" text-anchor="start" x="140.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Rubber</text>
+<text aria-label="197,235,267,278" text-anchor="start" x="197.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">garland</text>
+<text aria-label="259,286,267,278" text-anchor="start" x="259.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">joule</text>
+<text aria-label="5,95,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">mundane venison</text>
+</svg>

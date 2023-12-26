@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Funk GB Car</text>
+<path aria-label="Pickup: 22; generation: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.68017729979832,69.15245387329013A75,75,0,0,0,132.80437802492415,64.34429985530893L117.97537641163127,101.49400659914417A35,35,0,0,1,122.58408273990588,103.7378118075354Z" fill="#97f5d4" stroke="white" stroke-width="4"/>
+<path aria-label="Pickup: 88; generation: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.045881957700672,136.62301134215184A75,75,0,0,0,44.01679648303703,177.65831981202064L76.54117169208395,154.37388257894298A35,35,0,0,1,70.02141158026032,135.22407195967085Z" fill="#ba7a34" stroke="white" stroke-width="4"/>
+<path aria-label="Pickup: 57; generation: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.80437802492415,64.34429985530893A75,75,0,0,0,105.0,59.0L105.0,99.0A35,35,0,0,1,117.97537641163127,101.49400659914417Z" fill="#2c3d4b" stroke="white" stroke-width="4"/>
+<path aria-label="Pickup: 89; generation: magni" role="graphics-symbol" aria-roledescription="arc mark"  d="M56.13483366715876,190.8963576976924A75,75,0,0,0,96.2746485886314,208.4907258841537L100.92816934136131,168.7623387459384A35,35,0,0,1,82.19625571134075,160.55163359225645Z" fill="#ceeab8" stroke="white" stroke-width="4"/>
+<path aria-label="Pickup: 160; generation: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.98241601235583,135.6239731986712A75,75,0,0,0,142.68017729979832,69.15245387329013L122.58408273990588,103.7378118075354A35,35,0,0,1,139.9917941390994,134.7578541593799Z" fill="#40a65d" stroke="white" stroke-width="4"/>
+<path aria-label="Pickup: 36; generation: mobile" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.01679648303703,177.65831981202064A75,75,0,0,0,56.13483366715876,190.8963576976924L82.19625571134075,160.55163359225645A35,35,0,0,1,76.54117169208395,154.37388257894298Z" fill="#deaaeb" stroke="white" stroke-width="4"/>
+<path aria-label="Pickup: 250; generation: cheerful" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.2746485886314,208.4907258841537A75,75,0,0,0,179.98241601235583,135.6239731986712L139.9917941390994,134.7578541593799A35,35,0,0,1,100.92816934136131,168.7623387459384Z" fill="#3a1cbe" stroke="white" stroke-width="4"/>
+<path aria-label="Pickup: 241; generation: velit" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.045881957700672,136.62301134215184L70.02141158026032,135.22407195967085A35,35,0,0,1,105.0,99.0Z" fill="#0a5fb9" stroke="white" stroke-width="4"/>
+<text aria-label="138,150,45,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="144.39650135747357" y="56.08080771046596" font-family="avenir" font-size="11px" fill="#97f5d4" opacity="1">22</text>
+<text aria-label="13,25,155,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.802425526236448" y="166.0064355581225" font-family="avenir" font-size="11px" fill="#ba7a34" opacity="1">88</text>
+<text aria-label="115,127,37,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.98800141825645" y="48.61783093964418" font-family="avenir" font-size="11px" fill="#2c3d4b" opacity="1">57</text>
+<text aria-label="62,74,208,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="68.8690903887864" y="219.4291051186795" font-family="avenir" font-size="11px" fill="#ceeab8" opacity="1">89</text>
+<text aria-label="174,192,81,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="183.48615300018193" y="92.955434078288" font-family="avenir" font-size="11px" fill="#40a65d" opacity="1">160</text>
+<text aria-label="32,44,186,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="38.6141008793293" y="197.76933764605414" font-family="avenir" font-size="11px" fill="#deaaeb" opacity="1">36</text>
+<text aria-label="155,173,193,205" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.09181341207938" y="204.88341172681288" font-family="avenir" font-size="11px" fill="#3a1cbe" opacity="1">250</text>
+<text aria-label="31,49,63,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="40.257103768241905" y="74.4831431730305" font-family="avenir" font-size="11px" fill="#0a5fb9" opacity="1">241</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#2c3d4b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#97f5d4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#40a65d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#3a1cbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#ceeab8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#deaaeb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#ba7a34" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#0a5fb9" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="239,283,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">cheerful</text>
+<text aria-label="239,266,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">magni</text>
+<text aria-label="239,272,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">mobile</text>
+<text aria-label="239,277,145,156" text-anchor="start" x="239.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="239,266,161,172" text-anchor="start" x="239.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">velit</text>
+<text aria-label="223,283,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">generation</text>
+</svg>

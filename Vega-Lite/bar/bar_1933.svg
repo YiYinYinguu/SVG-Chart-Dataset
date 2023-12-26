@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="635" height="328" viewBox="0 0 635 328" style="background-color: rgb(255, 255, 255);">
+<line x1="228.5" y1="34.5" x2="228.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="263.5" y1="34.5" x2="263.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="298.5" y1="34.5" x2="298.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="333.5" y1="34.5" x2="333.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="368.5" y1="34.5" x2="368.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="403.5" y1="34.5" x2="403.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="437.5" y1="34.5" x2="437.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="472.5" y1="34.5" x2="472.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="507.5" y1="34.5" x2="507.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="542.5" y1="34.5" x2="542.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="577.5" y1="34.5" x2="577.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="612.5" y1="34.5" x2="612.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="214,233,241,317" text-anchor="end" x="228.45833333333334" y="241.5" transform="rotate(270.0, 233.45833333333334, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">dynamics</text>
+<text aria-label="249,268,241,317" text-anchor="end" x="263.375" y="241.5" transform="rotate(270.0, 268.375, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">exterior</text>
+<text aria-label="284,303,241,289" text-anchor="end" x="298.29166666666663" y="241.5" transform="rotate(270.0, 303.29166666666663, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">flume</text>
+<text aria-label="319,338,241,270" text-anchor="end" x="333.20833333333337" y="241.5" transform="rotate(270.0, 338.20833333333337, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">hop</text>
+<text aria-label="354,373,241,289" text-anchor="end" x="368.125" y="241.5" transform="rotate(270.0, 373.125, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">means</text>
+<text aria-label="389,408,241,308" text-anchor="end" x="403.04166666666663" y="241.5" transform="rotate(270.0, 408.04166666666663, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">opossum</text>
+<text aria-label="423,442,241,289" text-anchor="end" x="437.95833333333337" y="241.5" transform="rotate(270.0, 442.95833333333337, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">pansy</text>
+<text aria-label="458,477,241,279" text-anchor="end" x="472.875" y="241.5" transform="rotate(270.0, 477.875, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">rope</text>
+<text aria-label="493,512,241,289" text-anchor="end" x="507.79166666666663" y="241.5" transform="rotate(270.0, 512.7916666666666, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">score</text>
+<text aria-label="528,547,241,279" text-anchor="end" x="542.7083333333333" y="241.5" transform="rotate(270.0, 547.7083333333333, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">scow</text>
+<text aria-label="563,582,241,289" text-anchor="end" x="577.625" y="241.5" transform="rotate(270.0, 582.625, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">smell</text>
+<text aria-label="598,617,241,289" text-anchor="end" x="612.5416666666666" y="241.5" transform="rotate(270.0, 617.5416666666666, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">toque</text>
+<line aria-label="228,228,234,239" x1="228.5" y1="234.5" x2="228.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="263,263,234,239" x1="263.5" y1="234.5" x2="263.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="298,298,234,239" x1="298.5" y1="234.5" x2="298.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="333,333,234,239" x1="333.5" y1="234.5" x2="333.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="368,368,234,239" x1="368.5" y1="234.5" x2="368.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="403,403,234,239" x1="403.5" y1="234.5" x2="403.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="437,437,234,239" x1="437.5" y1="234.5" x2="437.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="472,472,234,239" x1="472.5" y1="234.5" x2="472.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="507,507,234,239" x1="507.5" y1="234.5" x2="507.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="542,542,234,239" x1="542.5" y1="234.5" x2="542.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="577,577,234,239" x1="577.5" y1="234.5" x2="577.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="612,612,234,239" x1="612.5" y1="234.5" x2="612.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="211,630,234,234" x1="211.5" y1="234.5" x2="630.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="461,630,0,26" text-anchor="end" x="630.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Advanced phew</text>
+<text aria-label="200,209,221,240" text-anchor="end" x="209.5" y="239.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="181,209,159,178" text-anchor="end" x="209.5" y="177.0" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="162,209,96,115" text-anchor="end" x="209.5" y="114.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="162,209,34,53" text-anchor="end" x="209.5" y="52.0" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<text aria-label="141,153,113,155" text-anchor="middle" x="155.9560546875" y="134.5" transform="rotate(-90.0, 153.9560546875, 134.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Florida</text>
+<line aria-label="211,211,34,234" x1="211.5" y1="234.5" x2="211.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Savings: exterior; Florida: 154; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M249.23375,199.5h28.2825v19.25h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: exterior; Florida: 122; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M249.23375,218.75h28.2825v15.25h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: exterior; Florida: 284; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M249.23375,164.0h28.2825v35.5h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: rope; Florida: 7; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M458.73375,214.875h28.2825v0.875h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: rope; Florida: 146; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M458.73375,215.75h28.2825v18.25h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: rope; Florida: 183; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M458.73375,192.0h28.2825v22.875h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: opossum; Florida: 390; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M388.9004166666666,139.875h28.2825v48.750000000000014h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: opossum; Florida: 363; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M388.9004166666666,188.625h28.2825v45.375h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: opossum; Florida: 378; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M388.9004166666666,92.625h28.2825v47.24999999999999h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: pansy; Florida: 603; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M423.81708333333336,147.75h28.2825v75.375h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: pansy; Florida: 87; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M423.81708333333336,223.125h28.2825v10.875h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: pansy; Florida: 331; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M423.81708333333336,106.37499999999999h28.2825v41.375000000000014h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: dynamics; Florida: 335; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M214.31708333333333,171.375h28.2825v41.875h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: dynamics; Florida: 166; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M214.31708333333333,213.25h28.2825v20.75h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: dynamics; Florida: 369; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M214.31708333333333,125.25000000000001h28.2825v46.124999999999986h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: flume; Florida: 535; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M284.1504166666667,109.25h28.2825v66.875h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: flume; Florida: 463; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M284.1504166666667,176.125h28.2825v57.875h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: flume; Florida: 240; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M284.1504166666667,79.25h28.2825v30.000000000000007h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: toque; Florida: 581; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M598.4004166666666,126.375h28.2825v72.625h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: toque; Florida: 280; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M598.4004166666666,199.0h28.2825v35h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: toque; Florida: 39; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M598.4004166666666,121.5h28.2825v4.875h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: scow; Florida: 312; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M528.5670833333334,130.125h28.2825v38.99999999999997h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: scow; Florida: 519; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M528.5670833333334,169.12499999999997h28.2825v64.87500000000003h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: scow; Florida: 611; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M528.5670833333334,53.75h28.2825v76.375h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: smell; Florida: 489; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M563.48375,152.75h28.2825v61.125h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: smell; Florida: 161; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M563.48375,213.875h28.2825v20.125h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: smell; Florida: 148; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M563.48375,134.25h28.2825v18.5h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: hop; Florida: 42; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M319.06708333333336,203.25h28.2825v5.25h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: hop; Florida: 204; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M319.06708333333336,208.5h28.2825v25.5h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: hop; Florida: 272; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M319.06708333333336,169.25h28.2825v34h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: score; Florida: 49; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M493.6504166666667,179.5h28.2825v6.125h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: score; Florida: 387; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M493.6504166666667,185.625h28.2825v48.375h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: score; Florida: 272; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M493.6504166666667,145.5h28.2825v34h-28.2825Z" fill="#cabb5f"/>
+<path aria-label="Savings: means; Florida: 167; Regional sanitize: Hat when" role="graphics-symbol" aria-roledescription="bar" d="M353.98375,166.375h28.2825v20.875h-28.2825Z" fill="#b7340a"/>
+<path aria-label="Savings: means; Florida: 374; Regional sanitize: modi" role="graphics-symbol" aria-roledescription="bar" d="M353.98375,187.25h28.2825v46.75h-28.2825Z" fill="#ebff85"/>
+<path aria-label="Savings: means; Florida: 126; Regional sanitize: Circles Bentley Dodge" role="graphics-symbol" aria-roledescription="bar" d="M353.98375,150.625h28.2825v15.75h-28.2825Z" fill="#cabb5f"/>
+<text aria-label="257,268,190,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.375" y="197.1005" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">154</text>
+<text aria-label="257,268,210,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.375" y="216.3505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">122</text>
+<text aria-label="257,268,155,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.375" y="161.6005" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">284</text>
+<text aria-label="471,474,206,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="472.875" y="212.4755" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">7</text>
+<text aria-label="467,478,207,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="472.875" y="213.3505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">146</text>
+<text aria-label="467,478,183,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="472.875" y="189.6005" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">183</text>
+<text aria-label="397,408,131,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="403.04166666666663" y="137.47549999999998" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">390</text>
+<text aria-label="397,408,179,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="403.04166666666663" y="186.2255" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">363</text>
+<text aria-label="397,408,83,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="403.04166666666663" y="90.2255" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">378</text>
+<text aria-label="432,443,139,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="437.95833333333337" y="145.3505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">603</text>
+<text aria-label="434,441,214,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="437.95833333333337" y="220.7255" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">87</text>
+<text aria-label="432,443,97,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="437.95833333333337" y="103.97549999999998" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">331</text>
+<text aria-label="222,233,162,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="228.45833333333334" y="168.9755" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">335</text>
+<text aria-label="222,233,204,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="228.45833333333334" y="210.8505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">166</text>
+<text aria-label="222,233,116,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="228.45833333333334" y="122.85050000000001" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">369</text>
+<text aria-label="292,303,100,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="298.29166666666663" y="106.8505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">535</text>
+<text aria-label="292,303,167,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="298.29166666666663" y="173.7255" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">463</text>
+<text aria-label="292,303,70,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="298.29166666666663" y="76.8505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">240</text>
+<text aria-label="607,618,117,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="612.5416666666666" y="123.9755" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">581</text>
+<text aria-label="607,618,190,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="612.5416666666666" y="196.6005" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">280</text>
+<text aria-label="608,616,112,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="612.5416666666666" y="119.1005" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">39</text>
+<text aria-label="537,548,121,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="542.7083333333333" y="127.7255" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">312</text>
+<text aria-label="537,548,160,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="542.7083333333333" y="166.72549999999998" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">519</text>
+<text aria-label="537,548,45,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="542.7083333333333" y="51.3505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">611</text>
+<text aria-label="572,583,144,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="577.625" y="150.3505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">489</text>
+<text aria-label="572,583,205,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="577.625" y="211.4755" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">161</text>
+<text aria-label="572,583,125,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="577.625" y="131.8505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">148</text>
+<text aria-label="329,336,194,201" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="333.20833333333337" y="200.8505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">42</text>
+<text aria-label="327,338,199,207" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="333.20833333333337" y="206.1005" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">204</text>
+<text aria-label="327,338,160,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="333.20833333333337" y="166.8505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">272</text>
+<text aria-label="504,511,170,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="507.79166666666663" y="177.1005" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">49</text>
+<text aria-label="502,513,176,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="507.79166666666663" y="183.2255" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">387</text>
+<text aria-label="502,513,136,144" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="507.79166666666663" y="143.1005" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">272</text>
+<text aria-label="362,373,157,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="368.125" y="163.9755" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">167</text>
+<text aria-label="362,373,178,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="368.125" y="184.8505" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">374</text>
+<text aria-label="362,373,141,149" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="368.125" y="148.2255" font-family="avenir" font-size="6.285px" fill="#000" opacity="1">126</text>
+<path  d="M6.0,35.0h10v10h-10Z" fill="#b7340a" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,48.0h10v10h-10Z" fill="#ebff85" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,61.0h10v10h-10Z" fill="#cabb5f" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hat when</text>
+<text aria-label="21,43,46,57" text-anchor="start" x="21.0" y="56.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">modi</text>
+<text aria-label="21,136,59,70" text-anchor="start" x="21.0" y="69.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Circles Bentley Dodge</text>
+</svg>

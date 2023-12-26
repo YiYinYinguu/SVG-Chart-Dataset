@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="502" height="286" viewBox="0 0 502 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="263,497,0,26" text-anchor="end" x="497.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Administrator molt</text>
+<path aria-label="North: 199; Steel Concrete: Directives" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.21056589507754,157.5383794026441A75,75,0,0,0,175.3285634127036,107.94442155112787L105.0,134.0Z" fill="#da93f1" stroke="black" stroke-width="0"/>
+<path aria-label="North: 344; Steel Concrete: Face" role="graphics-symbol" aria-roledescription="arc mark"  d="M111.46989562290108,208.7204152198632A75,75,0,0,0,176.21056589507754,157.5383794026441L105.0,134.0Z" fill="#dcce7c" stroke="black" stroke-width="0"/>
+<path aria-label="North: 28; Steel Concrete: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.08339013805896,116.44528535573757A75,75,0,0,0,30.748673164639186,123.42926382940018L105.0,134.0Z" fill="#740b8c" stroke="black" stroke-width="0"/>
+<path aria-label="North: 141; Steel Concrete: Practical" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.748673164639186,123.42926382940018A75,75,0,0,0,34.19826867871829,158.74095474934296L105.0,134.0Z" fill="#41094e" stroke="black" stroke-width="0"/>
+<path aria-label="North: 141; Steel Concrete: maroon" role="graphics-symbol" aria-roledescription="arc mark"  d="M48.311220824838955,84.89417228444441A75,75,0,0,0,32.08339013805896,116.44528535573757L105.0,134.0Z" fill="#b6c5bc" stroke="black" stroke-width="0"/>
+<path aria-label="North: 390; Steel Concrete: International" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.19826867871829,158.74095474934296A75,75,0,0,0,111.46989562290108,208.7204152198632L105.0,134.0Z" fill="#cccf9e" stroke="black" stroke-width="0"/>
+<path aria-label="North: 253; Steel Concrete: oh" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,48.311220824838955,84.89417228444441L105.0,134.0Z" fill="#8bd8fd" stroke="black" stroke-width="0"/>
+<path aria-label="North: 359; Steel Concrete: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.3285634127036,107.94442155112787A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#01ced5" stroke="black" stroke-width="0"/>
+<text aria-label="188,201,126,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.98577043627392" y="134.39965035376383" font-family="sans-serif" font-size="8px" fill="#da93f1" opacity="1">199</text>
+<text aria-label="154,167,198,207" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.8156587449692" y="206.60178637162903" font-family="sans-serif" font-size="8px" fill="#dcce7c" opacity="1">344</text>
+<text aria-label="12,21,111,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.599864723281186" y="119.1057381617955" font-family="sans-serif" font-size="8px" fill="#740b8c" opacity="1">28</text>
+<text aria-label="8,22,136,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.426399700362836" y="144.75043595261633" font-family="sans-serif" font-size="8px" fill="#41094e" opacity="1">141</text>
+<text aria-label="18,31,86,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="24.965690749163088" y="94.83558159354854" font-family="sans-serif" font-size="8px" fill="#b6c5bc" opacity="1">141</text>
+<text aria-label="49,62,203,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="56.12105402968285" y="211.57015707824627" font-family="sans-serif" font-size="8px" fill="#cccf9e" opacity="1">390</text>
+<text aria-label="60,74,46,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="67.60634675028396" y="54.13599877455292" font-family="sans-serif" font-size="8px" fill="#8bd8fd" opacity="1">253</text>
+<text aria-label="149,163,54,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="156.41010371280052" y="62.12848156265437" font-family="sans-serif" font-size="8px" fill="#01ced5" opacity="1">359</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#01ced5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#da93f1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M157.0,274.25A5,5,0,1,1,147.0,274.25A5,5,0,1,1,157.0,274.25" fill="#dcce7c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M206.0,274.25A5,5,0,1,1,196.0,274.25A5,5,0,1,1,206.0,274.25" fill="#cccf9e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M295.0,274.25A5,5,0,1,1,285.0,274.25A5,5,0,1,1,295.0,274.25" fill="#41094e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M363.0,274.25A5,5,0,1,1,353.0,274.25A5,5,0,1,1,363.0,274.25" fill="#740b8c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M414.0,274.25A5,5,0,1,1,404.0,274.25A5,5,0,1,1,414.0,274.25" fill="#b6c5bc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M479.0,274.25A5,5,0,1,1,469.0,274.25A5,5,0,1,1,479.0,274.25" fill="#8bd8fd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="88,143,267,278" text-anchor="start" x="88.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Directives</text>
+<text aria-label="162,184,267,278" text-anchor="start" x="162.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Face</text>
+<text aria-label="211,282,267,278" text-anchor="start" x="211.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">International</text>
+<text aria-label="300,349,267,278" text-anchor="start" x="300.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Practical</text>
+<text aria-label="368,395,267,278" text-anchor="start" x="368.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="419,452,267,278" text-anchor="start" x="419.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">maroon</text>
+<text aria-label="484,495,267,278" text-anchor="start" x="484.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">oh</text>
+<text aria-label="5,89,250,262" text-anchor="start" x="5.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Steel Concrete</text>
+</svg>

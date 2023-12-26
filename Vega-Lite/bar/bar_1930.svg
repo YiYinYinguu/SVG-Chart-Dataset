@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="839" height="324" viewBox="0 0 839 324" style="background-color: rgb(255, 255, 255);">
+<text aria-label="102,113,250,278" text-anchor="end" x="110.39999999999998" y="250.5" transform="rotate(270.0, 113.39999999999998, 250.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">hedge</text>
+<text aria-label="263,274,250,316" text-anchor="end" x="271.2" y="250.5" transform="rotate(270.0, 274.2, 250.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">neighborhood</text>
+<text aria-label="424,435,250,278" text-anchor="end" x="432.0" y="250.5" transform="rotate(270.0, 435.0, 250.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">paper</text>
+<text aria-label="584,595,250,278" text-anchor="end" x="592.8" y="250.5" transform="rotate(270.0, 595.8, 250.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">sloth</text>
+<text aria-label="745,756,250,283" text-anchor="end" x="753.6" y="250.5" transform="rotate(270.0, 756.6, 250.5)" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">tackle</text>
+<line aria-label="110,110,243,248" x1="110.5" y1="243.5" x2="110.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="271,271,243,248" x1="271.5" y1="243.5" x2="271.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="432,432,243,248" x1="432.5" y1="243.5" x2="432.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="592,592,243,248" x1="592.5" y1="243.5" x2="592.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="753,753,243,248" x1="753.5" y1="243.5" x2="753.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,834,243,243" x1="30.5" y1="243.5" x2="834.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="386,477,0,26" text-anchor="middle" x="432.0" y="25.391333333333336" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Granite</text>
+<text aria-label="18,23,236,247" text-anchor="end" x="23.5" y="246.5" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="12,23,194,205" text-anchor="end" x="23.5" y="204.83333333333331" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="7,23,153,164" text-anchor="end" x="23.5" y="163.16666666666666" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="7,23,111,122" text-anchor="end" x="23.5" y="121.5" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="7,23,69,80" text-anchor="end" x="23.5" y="79.83333333333333" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">200</text>
+<line aria-label="25,30,243,243" x1="30.5" y1="243.5" x2="25.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,201,201" x1="30.5" y1="201.5" x2="25.5" y2="201.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,160,160" x1="30.5" y1="160.5" x2="25.5" y2="160.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,118,118" x1="30.5" y1="118.5" x2="25.5" y2="118.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,76,76" x1="30.5" y1="76.5" x2="25.5" y2="76.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,30,43,243" x1="30.5" y1="243.5" x2="30.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="where JBOD Interactions: tackle; promenade: 233; Northeast Jewelery: Wooden" role="graphics-symbol" aria-roledescription="bar" d="M717.4200000000001,48.833333333333336h72.36000000000001v194.16666666666666h-72.36000000000001Z" fill="#7ab1ba"/>
+<path aria-label="where JBOD Interactions: neighborhood; promenade: 122; Northeast Jewelery: Wooden" role="graphics-symbol" aria-roledescription="bar" d="M235.01999999999998,141.33333333333334h72.36000000000001v101.66666666666666h-72.36000000000001Z" fill="#7ab1ba"/>
+<path aria-label="where JBOD Interactions: sloth; promenade: 166; Northeast Jewelery: Wooden" role="graphics-symbol" aria-roledescription="bar" d="M556.62,104.66666666666667h72.36000000000001v138.33333333333331h-72.36000000000001Z" fill="#7ab1ba"/>
+<path aria-label="where JBOD Interactions: hedge; promenade: 109; Northeast Jewelery: Wooden" role="graphics-symbol" aria-roledescription="bar" d="M74.21999999999997,152.16666666666669h72.36000000000001v90.83333333333331h-72.36000000000001Z" fill="#7ab1ba"/>
+<path aria-label="where JBOD Interactions: paper; promenade: 82; Northeast Jewelery: Wooden" role="graphics-symbol" aria-roledescription="bar" d="M395.82,174.66666666666666h72.36000000000001v68.33333333333334h-72.36000000000001Z" fill="#7ab1ba"/>
+<text aria-label="743,763,32,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="753.6" y="44.391333333333336" font-family="Balto" font-size="12.059999999999999px" fill="#000" opacity="1">233</text>
+<text aria-label="261,280,124,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.2" y="136.89133333333336" font-family="Balto" font-size="12.059999999999999px" fill="#000" opacity="1">122</text>
+<text aria-label="583,602,88,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="592.8" y="100.22466666666668" font-family="Balto" font-size="12.059999999999999px" fill="#000" opacity="1">166</text>
+<text aria-label="100,120,135,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.39999999999998" y="147.72466666666668" font-family="Balto" font-size="12.059999999999999px" fill="#000" opacity="1">109</text>
+<text aria-label="425,438,158,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="432.0" y="170.22466666666668" font-family="Balto" font-size="12.059999999999999px" fill="#000" opacity="1">82</text>
+</svg>

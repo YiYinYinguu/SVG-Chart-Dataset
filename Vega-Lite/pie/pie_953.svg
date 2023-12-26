@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="367" height="239" viewBox="0 0 367 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="27,183,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">SUV Reynolds</text>
+<path aria-label="tan: 127; ubiquitous Rhodium well: siemens" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,37.11776866865134,165.89047929205933L105.0,134.0Z" fill="#294cb1" stroke="black" stroke-width="0"/>
+<path aria-label="tan: 141; ubiquitous Rhodium well: iure" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.11776866865134,165.89047929205933A75,75,0,0,0,171.8389562481075,168.0228442030288L105.0,134.0Z" fill="#dd4bac" stroke="black" stroke-width="0"/>
+<path aria-label="tan: 37; ubiquitous Rhodium well: grey" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.8389562481075,168.0228442030288A75,75,0,0,0,179.50681545638008,125.41312335310907L105.0,134.0Z" fill="#1fb0b9" stroke="black" stroke-width="0"/>
+<path aria-label="tan: 92; ubiquitous Rhodium well: adult" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.50681545638008,125.41312335310907A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#6a62cf" stroke="black" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#6a62cf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#1fb0b9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#dd4bac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#294cb1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">adult</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">grey</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">iure</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">siemens</text>
+<text aria-label="223,361,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">ubiquitous Rhodium well</text>
+</svg>

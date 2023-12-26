@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="311" height="239" viewBox="0 0 311 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,239,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">discrete Usability</text>
+<path aria-label="Arkansas AI: 64; invoice Factors teal: Branding" role="graphics-symbol" aria-roledescription="arc mark"  d="M271.79543222460177,169.99945969563754A75,75,0,0,0,280.3335547995091,143.9761029900647L237.71565004779055,138.25647060909427A32,32,0,0,1,234.07271774916342,149.3597694701387Z" fill="#52b87a" stroke="black" stroke-width="2"/>
+<path aria-label="Arkansas AI: 374; invoice Factors teal: Licensed" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.99908470198483,169.62133040502874A75,75,0,0,0,271.79543222460177,169.99945969563754L234.07271774916342,149.3597694701387A32,32,0,0,1,177.83960947284686,149.1984343061456Z" fill="#851ba3" stroke="black" stroke-width="2"/>
+<path aria-label="Arkansas AI: 360; invoice Factors teal: asynchronous" role="graphics-symbol" aria-roledescription="arc mark"  d="M206.0,59.0A75,75,0,0,0,139.99908470198483,169.62133040502874L177.83960947284686,149.1984343061456A32,32,0,0,1,206.0,102.0Z" fill="#f4dffd" stroke="black" stroke-width="2"/>
+<path aria-label="Arkansas AI: 297; invoice Factors teal: Analyst" role="graphics-symbol" aria-roledescription="arc mark"  d="M280.3335547995091,143.9761029900647A75,75,0,0,0,206.0,59.0L206.0,102.0A32,32,0,0,1,237.71565004779055,138.25647060909427Z" fill="#aa221f" stroke="black" stroke-width="2"/>
+<text aria-label="285,297,154,166" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="291.5149420598904" y="165.05698994000582" font-family="avenir" font-size="11px" fill="#52b87a" opacity="1">64</text>
+<text aria-label="196,214,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="205.741787259425" y="226.99962958913" font-family="avenir" font-size="11px" fill="#851ba3" opacity="1">374</text>
+<text aria-label="119,137,79,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.71124375517775" y="90.88657290844188" font-family="avenir" font-size="11px" fill="#f4dffd" opacity="1">360</text>
+<text aria-label="264,282,66,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="273.7400144778808" y="77.7438573771756" font-family="avenir" font-size="11px" fill="#aa221f" opacity="1">297</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#aa221f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#52b87a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#851ba3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f4dffd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Analyst</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Branding</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Licensed</text>
+<text aria-label="21,87,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">asynchronous</text>
+</svg>

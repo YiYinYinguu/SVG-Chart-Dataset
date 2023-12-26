@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="540" height="281" viewBox="0 0 540 281" style="background-color: rgb(255, 255, 255);">
+<line x1="101.5" y1="34.5" x2="101.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="225.5" y1="34.5" x2="225.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="349.5" y1="34.5" x2="349.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="473.5" y1="34.5" x2="473.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="92,104,241,277" text-anchor="end" x="101.875" y="241.5" transform="rotate(270.0, 104.875, 241.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">eating</text>
+<text aria-label="216,228,241,277" text-anchor="end" x="225.625" y="241.5" transform="rotate(270.0, 228.625, 241.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">nephew</text>
+<text aria-label="340,352,241,259" text-anchor="end" x="349.375" y="241.5" transform="rotate(270.0, 352.375, 241.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">sin</text>
+<text aria-label="464,476,241,277" text-anchor="end" x="473.125" y="241.5" transform="rotate(270.0, 476.125, 241.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">spread</text>
+<line aria-label="101,101,234,239" x1="101.5" y1="234.5" x2="101.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="225,225,234,239" x1="225.5" y1="234.5" x2="225.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="349,349,234,239" x1="349.5" y1="234.5" x2="349.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="473,473,234,239" x1="473.5" y1="234.5" x2="473.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,535,234,234" x1="40.5" y1="234.5" x2="535.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="92,482,0,26" text-anchor="middle" x="287.5" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">calculating Gasoline Northwest</text>
+<text aria-label="27,33,226,238" text-anchor="end" x="33.5" y="237.5" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="15,33,170,182" text-anchor="end" x="33.5" y="181.94444444444443" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="3,33,115,127" text-anchor="end" x="33.5" y="126.38888888888889" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="3,33,59,71" text-anchor="end" x="33.5" y="70.83333333333333" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<line aria-label="35,40,234,234" x1="40.5" y1="234.5" x2="35.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,178,178" x1="40.5" y1="178.5" x2="35.5" y2="178.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,123,123" x1="40.5" y1="123.5" x2="35.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,67,67" x1="40.5" y1="67.5" x2="35.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Northwest orange stereotype: eating; Dakota: 865; newton Steel: groupware Alaska" role="graphics-symbol" aria-roledescription="bar" d="M74.03125,137.88888888888886h55.6875v96.11111111111113h-55.6875Z" fill="#c7de9f"/>
+<path aria-label="Northwest orange stereotype: eating; Dakota: 844; newton Steel: Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M74.03125,44.111111111111114h55.6875v93.77777777777776h-55.6875Z" fill="#b4da36"/>
+<path aria-label="Northwest orange stereotype: nephew; Dakota: 687; newton Steel: groupware Alaska" role="graphics-symbol" aria-roledescription="bar" d="M197.78125,157.66666666666669h55.6875v76.33333333333331h-55.6875Z" fill="#c7de9f"/>
+<path aria-label="Northwest orange stereotype: nephew; Dakota: 871; newton Steel: Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M197.78125,60.8888888888889h55.6875v96.77777777777779h-55.6875Z" fill="#b4da36"/>
+<path aria-label="Northwest orange stereotype: sin; Dakota: 791; newton Steel: groupware Alaska" role="graphics-symbol" aria-roledescription="bar" d="M321.53125,146.1111111111111h55.6875v87.8888888888889h-55.6875Z" fill="#c7de9f"/>
+<path aria-label="Northwest orange stereotype: sin; Dakota: 159; newton Steel: Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M321.53125,128.44444444444446h55.6875v17.666666666666657h-55.6875Z" fill="#b4da36"/>
+<path aria-label="Northwest orange stereotype: spread; Dakota: 872; newton Steel: groupware Alaska" role="graphics-symbol" aria-roledescription="bar" d="M445.28125,137.11111111111111h55.6875v96.88888888888889h-55.6875Z" fill="#c7de9f"/>
+<path aria-label="Northwest orange stereotype: spread; Dakota: 424; newton Steel: Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M445.28125,90.0h55.6875v47.11111111111111h-55.6875Z" fill="#b4da36"/>
+</svg>

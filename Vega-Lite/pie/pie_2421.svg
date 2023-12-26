@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="343" height="239" viewBox="0 0 343 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,303,0,26" text-anchor="middle" x="154.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">spotted Producer Robust</text>
+<path aria-label="Electric: 138; Facilitator: bandwidth" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.23185564707623,208.54687486813714A75,75,0,0,0,206.202472952986,187.8507364628634L154.0,134.0Z" fill="#d299cd" stroke="black" stroke-width="3"/>
+<path aria-label="Electric: 150; Facilitator: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.0,59.0A75,75,0,0,0,104.70091044092146,77.4792094124122L154.0,134.0Z" fill="#ccfaa1" stroke="black" stroke-width="3"/>
+<path aria-label="Electric: 530; Facilitator: magenta" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.70091044092146,77.4792094124122A75,75,0,0,0,162.23185564707623,208.54687486813714L154.0,134.0Z" fill="#93440f" stroke="black" stroke-width="3"/>
+<path aria-label="Electric: 496; Facilitator: Alabama" role="graphics-symbol" aria-roledescription="arc mark"  d="M206.202472952986,187.8507364628634A75,75,0,0,0,154.0,59.0L154.0,134.0Z" fill="#7494cc" stroke="black" stroke-width="3"/>
+<text aria-label="186,198,210,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.3279240053906" y="217.43076962326344" font-family="serif" font-size="7px" fill="#d299cd" opacity="1">138</text>
+<text aria-label="116,128,44,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.41080393124483" y="51.725907351489425" font-family="serif" font-size="7px" fill="#ccfaa1" opacity="1">150</text>
+<text aria-label="65,77,165,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="71.58950172149845" y="172.17332958809698" font-family="serif" font-size="7px" fill="#93440f" opacity="1">530</text>
+<text aria-label="231,243,95,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="237.41426598007456" y="102.20561835148663" font-family="serif" font-size="7px" fill="#7494cc" opacity="1">496</text>
+<path  d="M283.0,40.0A5,5,0,1,1,273.0,40.0A5,5,0,1,1,283.0,40.0" fill="#7494cc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M283.0,56.0A5,5,0,1,1,273.0,56.0A5,5,0,1,1,283.0,56.0" fill="#d299cd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M283.0,72.0A5,5,0,1,1,273.0,72.0A5,5,0,1,1,283.0,72.0" fill="#93440f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M283.0,88.0A5,5,0,1,1,273.0,88.0A5,5,0,1,1,283.0,88.0" fill="#ccfaa1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="288,326,33,44" text-anchor="start" x="288.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Alabama</text>
+<text aria-label="288,337,49,60" text-anchor="start" x="288.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">bandwidth</text>
+<text aria-label="288,326,65,76" text-anchor="start" x="288.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">magenta</text>
+<text aria-label="288,343,81,92" text-anchor="start" x="288.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+</svg>

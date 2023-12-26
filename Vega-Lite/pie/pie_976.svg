@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="349" height="286" viewBox="0 0 349 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="19,344,0,26" text-anchor="end" x="344.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cambridgeshire card Lesch</text>
+<path aria-label="defect: 19; ADP: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M192.8380285573387,193.36223663219405A75,75,0,0,0,217.24508227732014,160.27981004216971L147.0,134.0Z" fill="#8adb41" stroke="black" stroke-width="0"/>
+<path aria-label="defect: 47; ADP: indeed" role="graphics-symbol" aria-roledescription="arc mark"  d="M97.77260216947855,190.58324224393272A75,75,0,0,0,192.8380285573387,193.36223663219405L147.0,134.0Z" fill="#bc3fed" stroke="black" stroke-width="0"/>
+<path aria-label="defect: 24; ADP: Egyptian" role="graphics-symbol" aria-roledescription="arc mark"  d="M195.39537435322725,76.70351021911557A75,75,0,0,0,147.0,59.0L147.0,134.0Z" fill="#5b9aaa" stroke="black" stroke-width="0"/>
+<path aria-label="defect: 83; ADP: linseed" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.0,59.0A75,75,0,0,0,97.77260216947855,190.58324224393272L147.0,134.0Z" fill="#cea9c3" stroke="black" stroke-width="0"/>
+<path aria-label="defect: 42; ADP: Ferrari" role="graphics-symbol" aria-roledescription="arc mark"  d="M217.24508227732014,160.27981004216971A75,75,0,0,0,195.39537435322725,76.70351021911557L147.0,134.0Z" fill="#fc7581" stroke="black" stroke-width="0"/>
+<text aria-label="212,226,178,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="219.42309579995162" y="191.43121928939135" font-family="Balto" font-size="13px" fill="#8adb41" opacity="1">19</text>
+<text aria-label="137,151,214,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="144.37020377276224" y="227.96157052766034" font-family="Balto" font-size="13px" fill="#bc3fed" opacity="1">47</text>
+<text aria-label="170,184,40,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="177.91908070807153" y="53.477751756311164" font-family="Balto" font-size="13px" fill="#5b9aaa" opacity="1">24</text>
+<text aria-label="55,69,93,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="62.70590126721582" y="106.46422794939639" font-family="Balto" font-size="13px" fill="#cea9c3" opacity="1">83</text>
+<text aria-label="227,241,102,116" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="234.07353273516827" y="115.23599558474874" font-family="Balto" font-size="13px" fill="#fc7581" opacity="1">42</text>
+<path  d="M58.0,274.25A5,5,0,1,1,48.0,274.25A5,5,0,1,1,58.0,274.25" fill="#5b9aaa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M127.0,274.25A5,5,0,1,1,117.0,274.25A5,5,0,1,1,127.0,274.25" fill="#fc7581" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M185.0,274.25A5,5,0,1,1,175.0,274.25A5,5,0,1,1,185.0,274.25" fill="#8adb41" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M245.0,274.25A5,5,0,1,1,235.0,274.25A5,5,0,1,1,245.0,274.25" fill="#bc3fed" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M305.0,274.25A5,5,0,1,1,295.0,274.25A5,5,0,1,1,305.0,274.25" fill="#cea9c3" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="63,107,267,278" text-anchor="start" x="63.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Egyptian</text>
+<text aria-label="132,170,267,278" text-anchor="start" x="132.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Ferrari</text>
+<text aria-label="190,223,267,278" text-anchor="start" x="190.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="250,283,267,278" text-anchor="start" x="250.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">indeed</text>
+<text aria-label="310,348,267,278" text-anchor="start" x="310.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">linseed</text>
+<text aria-label="47,65,250,262" text-anchor="start" x="47.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">ADP</text>
+</svg>

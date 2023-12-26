@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="498" height="286" viewBox="0 0 498 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">North</text>
+<path aria-label="program: 630; passivize Seamless: Programmable" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.006996302660838,182.02440053244635A75,75,0,0,0,70.26792919373919,247.47317697770197L105.0,181.0Z" fill="#defec7" stroke="white" stroke-width="2"/>
+<path aria-label="program: 265; passivize Seamless: Polarised" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.26792919373919,247.47317697770197A75,75,0,0,0,102.82338683474075,255.96840904760364L105.0,181.0Z" fill="#ee8dc8" stroke="white" stroke-width="2"/>
+<path aria-label="program: 503; passivize Seamless: Annie" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.78020701631704,131.99991743696563A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#dedde3" stroke="white" stroke-width="2"/>
+<path aria-label="program: 405; passivize Seamless: commodi" role="graphics-symbol" aria-roledescription="arc mark"  d="M46.5799773565114,133.9670226932817A75,75,0,0,0,30.006996302660838,182.02440053244635L105.0,181.0Z" fill="#cae8fa" stroke="white" stroke-width="2"/>
+<path aria-label="program: 604; passivize Seamless: Coordinator" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.20959089552383,204.54132885994608A75,75,0,0,0,161.78020701631704,131.99991743696563L105.0,181.0Z" fill="#6b7e45" stroke="white" stroke-width="2"/>
+<path aria-label="program: 750; passivize Seamless: Dominican" role="graphics-symbol" aria-roledescription="arc mark"  d="M102.82338683474075,255.96840904760364A75,75,0,0,0,176.20959089552383,204.54132885994608L105.0,181.0Z" fill="#b2d532" stroke="white" stroke-width="2"/>
+<path aria-label="program: 523; passivize Seamless: implement" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,46.5799773565114,133.9670226932817L105.0,181.0Z" fill="#3a2a93" stroke="white" stroke-width="2"/>
+<text aria-label="17,39,218,233" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="28.342786688527625" y="232.15582304784238" font-family="monospace" font-size="14px" fill="#defec7" opacity="1">630</text>
+<text aria-label="71,93,258,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="82.27575806863578" y="272.0839183124234" font-family="monospace" font-size="14px" fill="#ee8dc8" opacity="1">265</text>
+<text aria-label="131,153,89,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.46992849734497" y="103.1708825759201" font-family="monospace" font-size="14px" fill="#dedde3" opacity="1">503</text>
+<text aria-label="8,31,141,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.917234539596294" y="155.65851023533511" font-family="monospace" font-size="14px" fill="#cae8fa" opacity="1">405</text>
+<text aria-label="182,204,153,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.27067523629074" y="167.44187101854845" font-family="monospace" font-size="14px" fill="#6b7e45" opacity="1">604</text>
+<text aria-label="145,167,244,259" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="156.64984775133985" y="258.7040923372876" font-family="monospace" font-size="14px" fill="#b2d532" opacity="1">750</text>
+<text aria-label="54,77,89,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="66.13846084575127" y="103.82253530343047" font-family="monospace" font-size="14px" fill="#3a2a93" opacity="1">523</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#dedde3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,56.25A5,5,0,1,1,58.0,56.25A5,5,0,1,1,68.0,56.25" fill="#6b7e45" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M150.0,56.25A5,5,0,1,1,140.0,56.25A5,5,0,1,1,150.0,56.25" fill="#b2d532" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M222.0,56.25A5,5,0,1,1,212.0,56.25A5,5,0,1,1,222.0,56.25" fill="#ee8dc8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M294.0,56.25A5,5,0,1,1,284.0,56.25A5,5,0,1,1,294.0,56.25" fill="#defec7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M381.0,56.25A5,5,0,1,1,371.0,56.25A5,5,0,1,1,381.0,56.25" fill="#cae8fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M443.0,56.25A5,5,0,1,1,433.0,56.25A5,5,0,1,1,443.0,56.25" fill="#3a2a93" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Annie</text>
+<text aria-label="73,133,49,60" text-anchor="start" x="73.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Coordinator</text>
+<text aria-label="155,204,49,60" text-anchor="start" x="155.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Dominican</text>
+<text aria-label="227,276,49,60" text-anchor="start" x="227.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Polarised</text>
+<text aria-label="299,365,49,60" text-anchor="start" x="299.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Programmable</text>
+<text aria-label="386,424,49,60" text-anchor="start" x="386.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">commodi</text>
+<text aria-label="448,497,49,60" text-anchor="start" x="448.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">implement</text>
+<text aria-label="5,113,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">passivize Seamless</text>
+</svg>

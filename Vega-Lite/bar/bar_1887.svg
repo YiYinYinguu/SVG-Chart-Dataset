@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="746" height="324" viewBox="0 0 746 324" style="background-color: rgb(255, 255, 255);">
+<line x1="160.5" y1="240.5" x2="741.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="211.5" x2="741.5" y2="211.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="183.5" x2="741.5" y2="183.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="154.5" x2="741.5" y2="154.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="126.5" x2="741.5" y2="126.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="97.5" x2="741.5" y2="97.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="69.5" x2="741.5" y2="69.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="40.5" x2="741.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="206,220,247,310" text-anchor="end" x="216.22580645161293" y="247.5" transform="rotate(270.0, 220.22580645161293, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">alpenhorn</text>
+<text aria-label="299,313,247,275" text-anchor="end" x="309.93548387096774" y="247.5" transform="rotate(270.0, 313.93548387096774, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">cria</text>
+<text aria-label="393,407,247,282" text-anchor="end" x="403.64516129032256" y="247.5" transform="rotate(270.0, 407.64516129032256, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">goose</text>
+<text aria-label="487,501,247,289" text-anchor="end" x="497.35483870967744" y="247.5" transform="rotate(270.0, 501.35483870967744, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">sandal</text>
+<text aria-label="581,595,247,296" text-anchor="end" x="591.0645161290322" y="247.5" transform="rotate(270.0, 595.0645161290322, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">senator</text>
+<text aria-label="674,688,247,296" text-anchor="end" x="684.7741935483871" y="247.5" transform="rotate(270.0, 688.7741935483871, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">sibling</text>
+<line aria-label="216,216,240,245" x1="216.5" y1="240.5" x2="216.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="309,309,240,245" x1="309.5" y1="240.5" x2="309.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="403,403,240,245" x1="403.5" y1="240.5" x2="403.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="497,497,240,245" x1="497.5" y1="240.5" x2="497.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="591,591,240,245" x1="591.5" y1="240.5" x2="591.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="684,684,240,245" x1="684.5" y1="240.5" x2="684.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="160,741,240,240" x1="160.5" y1="240.5" x2="741.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,239,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">vendor Bicycle SAS</text>
+<text aria-label="151,158,231,245" text-anchor="end" x="158.5" y="244.5" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="144,158,202,216" text-anchor="end" x="158.5" y="215.92857142857144" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="144,158,174,188" text-anchor="end" x="158.5" y="187.35714285714286" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="144,158,145,159" text-anchor="end" x="158.5" y="158.78571428571428" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="144,158,117,131" text-anchor="end" x="158.5" y="130.21428571428572" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">80</text>
+<text aria-label="137,158,88,102" text-anchor="end" x="158.5" y="101.64285714285714" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="137,158,60,74" text-anchor="end" x="158.5" y="73.07142857142858" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">120</text>
+<text aria-label="137,158,31,45" text-anchor="end" x="158.5" y="44.5" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">140</text>
+<text aria-label="116,128,68,212" text-anchor="middle" x="130.5" y="140.5" transform="rotate(-90.0, 128.5, 140.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Oriental program Krypton</text>
+<line aria-label="160,160,40,240" x1="160.5" y1="240.5" x2="160.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Table: goose; Oriental program Krypton: 103; Honduras: Home lumen Sedan" role="graphics-symbol" aria-roledescription="bar" d="M366.1612903225806,92.85714285714285h74.96774193548387v147.14285714285717h-74.96774193548387Z" fill="#e8b6f3"/>
+<path aria-label="Table: sibling; Oriental program Krypton: 52; Honduras: Home lumen Sedan" role="graphics-symbol" aria-roledescription="bar" d="M647.2903225806451,165.71428571428572h74.96774193548387v74.28571428571429h-74.96774193548387Z" fill="#e8b6f3"/>
+<path aria-label="Table: alpenhorn; Oriental program Krypton: 100; Honduras: Home lumen Sedan" role="graphics-symbol" aria-roledescription="bar" d="M178.74193548387098,97.14285714285714h74.96774193548387v142.85714285714286h-74.96774193548387Z" fill="#e8b6f3"/>
+<path aria-label="Table: sandal; Oriental program Krypton: 37; Honduras: Home lumen Sedan" role="graphics-symbol" aria-roledescription="bar" d="M459.8709677419355,187.14285714285717h74.96774193548387v52.85714285714283h-74.96774193548387Z" fill="#e8b6f3"/>
+<path aria-label="Table: cria; Oriental program Krypton: 100; Honduras: Home lumen Sedan" role="graphics-symbol" aria-roledescription="bar" d="M272.4516129032258,97.14285714285714h74.96774193548387v142.85714285714286h-74.96774193548387Z" fill="#e8b6f3"/>
+<path aria-label="Table: senator; Oriental program Krypton: 136; Honduras: Home lumen Sedan" role="graphics-symbol" aria-roledescription="bar" d="M553.5806451612902,45.714285714285715h74.96774193548387v194.28571428571428h-74.96774193548387Z" fill="#e8b6f3"/>
+<path  d="M6.0,57.0h10v10h-10Z" fill="#e8b6f3" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,109,55,66" text-anchor="start" x="21.0" y="65.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Home lumen Sedan</text>
+<text aria-label="5,53,38,50" text-anchor="start" x="5.0" y="49.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Honduras</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1121" height="360" viewBox="0 0 1121 360" style="background-color: rgb(255, 255, 255);">
+<line x1="297.5" y1="43.5" x2="297.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="443.5" y1="43.5" x2="443.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="589.5" y1="43.5" x2="589.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="736.5" y1="43.5" x2="736.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="882.5" y1="43.5" x2="882.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="1028.5" y1="43.5" x2="1028.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="283,303,250,360" text-anchor="end" x="297.6774193548387" y="250.5" transform="rotate(270.0, 303.6774193548387, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">distributor</text>
+<text aria-label="429,449,250,310" text-anchor="end" x="443.80645161290323" y="250.5" transform="rotate(270.0, 449.80645161290323, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">silica</text>
+<text aria-label="575,595,250,300" text-anchor="end" x="589.9354838709678" y="250.5" transform="rotate(270.0, 595.9354838709678, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">swamp</text>
+<text aria-label="722,742,250,350" text-anchor="end" x="736.0645161290323" y="250.5" transform="rotate(270.0, 742.0645161290323, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">tabernacle</text>
+<text aria-label="868,888,250,310" text-anchor="end" x="882.1935483870968" y="250.5" transform="rotate(270.0, 888.1935483870968, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">tassel</text>
+<text aria-label="1014,1034,250,320" text-anchor="end" x="1028.3225806451615" y="250.5" transform="rotate(270.0, 1034.3225806451615, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">vulture</text>
+<line aria-label="297,297,243,248" x1="297.5" y1="243.5" x2="297.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="443,443,243,248" x1="443.5" y1="243.5" x2="443.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="589,589,243,248" x1="589.5" y1="243.5" x2="589.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="736,736,243,248" x1="736.5" y1="243.5" x2="736.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="882,882,243,248" x1="882.5" y1="243.5" x2="882.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="1028,1028,243,248" x1="1028.5" y1="243.5" x2="1028.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="210,1116,243,243" x1="210.5" y1="243.5" x2="1116.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="947,1116,0,26" text-anchor="end" x="1116.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electric Jazz</text>
+<text aria-label="193,203,230,250" text-anchor="end" x="203.5" y="249.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="183,203,201,221" text-anchor="end" x="203.5" y="220.92857142857144" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="173,203,173,193" text-anchor="end" x="203.5" y="192.35714285714286" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="173,203,144,164" text-anchor="end" x="203.5" y="163.78571428571428" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="173,203,116,136" text-anchor="end" x="203.5" y="135.21428571428572" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="173,203,87,107" text-anchor="end" x="203.5" y="106.64285714285714" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">250</text>
+<text aria-label="173,203,59,79" text-anchor="end" x="203.5" y="78.07142857142858" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="173,203,30,50" text-anchor="end" x="203.5" y="49.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">350</text>
+<line aria-label="205,210,243,243" x1="210.5" y1="243.5" x2="205.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="205,210,214,214" x1="210.5" y1="214.5" x2="205.5" y2="214.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="205,210,186,186" x1="210.5" y1="186.5" x2="205.5" y2="186.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="205,210,157,157" x1="210.5" y1="157.5" x2="205.5" y2="157.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="205,210,129,129" x1="210.5" y1="129.5" x2="205.5" y2="129.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="205,210,100,100" x1="210.5" y1="100.5" x2="205.5" y2="100.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="205,210,72,72" x1="210.5" y1="72.5" x2="205.5" y2="72.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="205,210,43,43" x1="210.5" y1="43.5" x2="205.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="157,169,119,167" text-anchor="middle" x="171.0" y="143.5" transform="rotate(-90.0, 169.0, 143.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Research</text>
+<path aria-label="before aliquam West: silica; Research: 192; female: Martin bus" role="graphics-symbol" aria-roledescription="bar" d="M385.35483870967744,133.28571428571428h58.45161290322581v109.71428571428572h-58.45161290322581Z" fill="#ecf9ee"/>
+<path aria-label="before aliquam West: silica; Research: 307; female: or Mendelevium tantalise" role="graphics-symbol" aria-roledescription="bar" d="M443.80645161290323,67.57142857142858h58.45161290322581v175.42857142857142h-58.45161290322581Z" fill="#a854ea"/>
+<path aria-label="before aliquam West: swamp; Research: 55; female: Martin bus" role="graphics-symbol" aria-roledescription="bar" d="M531.483870967742,211.57142857142858h58.45161290322581v31.428571428571416h-58.45161290322581Z" fill="#ecf9ee"/>
+<path aria-label="before aliquam West: swamp; Research: 281; female: or Mendelevium tantalise" role="graphics-symbol" aria-roledescription="bar" d="M589.9354838709678,82.42857142857144h58.45161290322581v160.57142857142856h-58.45161290322581Z" fill="#a854ea"/>
+<path aria-label="before aliquam West: vulture; Research: 265; female: Martin bus" role="graphics-symbol" aria-roledescription="bar" d="M969.8709677419355,91.57142857142858h58.45161290322581v151.42857142857142h-58.45161290322581Z" fill="#ecf9ee"/>
+<path aria-label="before aliquam West: vulture; Research: 212; female: or Mendelevium tantalise" role="graphics-symbol" aria-roledescription="bar" d="M1028.3225806451615,121.85714285714285h58.45161290322581v121.14285714285715h-58.45161290322581Z" fill="#a854ea"/>
+<path aria-label="before aliquam West: distributor; Research: 260; female: Martin bus" role="graphics-symbol" aria-roledescription="bar" d="M239.22580645161293,94.42857142857142h58.45161290322581v148.57142857142858h-58.45161290322581Z" fill="#ecf9ee"/>
+<path aria-label="before aliquam West: distributor; Research: 17; female: or Mendelevium tantalise" role="graphics-symbol" aria-roledescription="bar" d="M297.6774193548387,233.28571428571428h58.45161290322581v9.714285714285722h-58.45161290322581Z" fill="#a854ea"/>
+<path aria-label="before aliquam West: tassel; Research: 214; female: Martin bus" role="graphics-symbol" aria-roledescription="bar" d="M823.741935483871,120.71428571428571h58.45161290322581v122.28571428571429h-58.45161290322581Z" fill="#ecf9ee"/>
+<path aria-label="before aliquam West: tassel; Research: 303; female: or Mendelevium tantalise" role="graphics-symbol" aria-roledescription="bar" d="M882.1935483870968,69.85714285714285h58.45161290322581v173.14285714285717h-58.45161290322581Z" fill="#a854ea"/>
+<path aria-label="before aliquam West: tabernacle; Research: 124; female: Martin bus" role="graphics-symbol" aria-roledescription="bar" d="M677.6129032258065,172.14285714285714h58.45161290322581v70.85714285714286h-58.45161290322581Z" fill="#ecf9ee"/>
+<path aria-label="before aliquam West: tabernacle; Research: 194; female: or Mendelevium tantalise" role="graphics-symbol" aria-roledescription="bar" d="M736.0645161290323,132.14285714285714h58.45161290322581v110.85714285714286h-58.45161290322581Z" fill="#a854ea"/>
+<path  d="M6.0,60.0h10v10h-10Z" fill="#ecf9ee" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,73.0h10v10h-10Z" fill="#a854ea" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,58,69" text-anchor="start" x="21.0" y="68.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Martin bus</text>
+<text aria-label="21,153,71,82" text-anchor="start" x="21.0" y="81.0" font-family="serif" font-size="10px" fill="#000" opacity="1">or Mendelevium tantalise</text>
+<text aria-label="5,41,41,53" text-anchor="start" x="5.0" y="52.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">female</text>
+</svg>

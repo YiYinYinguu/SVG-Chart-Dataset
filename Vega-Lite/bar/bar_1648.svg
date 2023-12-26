@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="658" height="340" viewBox="0 0 658 340" style="background-color: rgb(255, 255, 255);">
+<line x1="116.5" y1="43.5" x2="116.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="235.5" y1="43.5" x2="235.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="355.5" y1="43.5" x2="355.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="474.5" y1="43.5" x2="474.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="593.5" y1="43.5" x2="593.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="243.5" x2="653.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="203.5" x2="653.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="163.5" x2="653.5" y2="163.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="123.5" x2="653.5" y2="123.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="83.5" x2="653.5" y2="83.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="43.5" x2="653.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="102,121,250,326" text-anchor="end" x="116.59999999999998" y="250.5" transform="rotate(270.0, 121.59999999999998, 250.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">beancurd</text>
+<text aria-label="221,240,250,336" text-anchor="end" x="235.79999999999998" y="250.5" transform="rotate(270.0, 240.79999999999998, 250.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">hardening</text>
+<text aria-label="341,360,250,288" text-anchor="end" x="355.0" y="250.5" transform="rotate(270.0, 360.0, 250.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">lung</text>
+<text aria-label="460,479,250,307" text-anchor="end" x="474.2" y="250.5" transform="rotate(270.0, 479.2, 250.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">mitten</text>
+<text aria-label="579,598,250,298" text-anchor="end" x="593.4" y="250.5" transform="rotate(270.0, 598.4, 250.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">piety</text>
+<line aria-label="116,116,243,248" x1="116.5" y1="243.5" x2="116.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="235,235,243,248" x1="235.5" y1="243.5" x2="235.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="355,355,243,248" x1="355.5" y1="243.5" x2="355.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="474,474,243,248" x1="474.5" y1="243.5" x2="474.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="593,593,243,248" x1="593.5" y1="243.5" x2="593.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,653,243,243" x1="57.5" y1="243.5" x2="653.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">nearly quos</text>
+<text aria-label="41,50,230,249" text-anchor="end" x="50.5" y="248.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="22,50,190,209" text-anchor="end" x="50.5" y="208.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,50,150,169" text-anchor="end" x="50.5" y="168.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="22,50,110,129" text-anchor="end" x="50.5" y="128.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="22,50,70,89" text-anchor="end" x="50.5" y="88.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="3,50,30,49" text-anchor="end" x="50.5" y="48.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<line aria-label="52,57,243,243" x1="57.5" y1="243.5" x2="52.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,203,203" x1="57.5" y1="203.5" x2="52.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,163,163" x1="57.5" y1="163.5" x2="52.5" y2="163.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,123,123" x1="57.5" y1="123.5" x2="52.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,83,83" x1="57.5" y1="83.5" x2="52.5" y2="83.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,43,43" x1="57.5" y1="43.5" x2="52.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="during Southeast scale: beancurd; Networked: 348; Cambridgeshire: lavender" role="graphics-symbol" aria-roledescription="bar" d="M73.68799999999997,173.4h85.82400000000001v69.6h-85.82400000000001Z" fill="#f4ad0e"/>
+<path aria-label="during Southeast scale: beancurd; Networked: 78; Cambridgeshire: intelligence input salmon" role="graphics-symbol" aria-roledescription="bar" d="M73.68799999999997,157.8h85.82400000000001v15.599999999999994h-85.82400000000001Z" fill="#7fa3fb"/>
+<path aria-label="during Southeast scale: beancurd; Networked: 77; Cambridgeshire: Games" role="graphics-symbol" aria-roledescription="bar" d="M73.68799999999997,142.4h85.82400000000001v15.400000000000006h-85.82400000000001Z" fill="#9f4cd6"/>
+<path aria-label="during Southeast scale: mitten; Networked: 142; Cambridgeshire: lavender" role="graphics-symbol" aria-roledescription="bar" d="M431.288,214.6h85.82400000000001v28.400000000000006h-85.82400000000001Z" fill="#f4ad0e"/>
+<path aria-label="during Southeast scale: mitten; Networked: 108; Cambridgeshire: intelligence input salmon" role="graphics-symbol" aria-roledescription="bar" d="M431.288,193.0h85.82400000000001v21.599999999999994h-85.82400000000001Z" fill="#7fa3fb"/>
+<path aria-label="during Southeast scale: mitten; Networked: 113; Cambridgeshire: Games" role="graphics-symbol" aria-roledescription="bar" d="M431.288,170.4h85.82400000000001v22.599999999999994h-85.82400000000001Z" fill="#9f4cd6"/>
+<path aria-label="during Southeast scale: piety; Networked: 330; Cambridgeshire: lavender" role="graphics-symbol" aria-roledescription="bar" d="M550.488,177.0h85.82400000000001v66h-85.82400000000001Z" fill="#f4ad0e"/>
+<path aria-label="during Southeast scale: piety; Networked: 254; Cambridgeshire: intelligence input salmon" role="graphics-symbol" aria-roledescription="bar" d="M550.488,126.2h85.82400000000001v50.8h-85.82400000000001Z" fill="#7fa3fb"/>
+<path aria-label="during Southeast scale: piety; Networked: 370; Cambridgeshire: Games" role="graphics-symbol" aria-roledescription="bar" d="M550.488,52.20000000000001h85.82400000000001v74h-85.82400000000001Z" fill="#9f4cd6"/>
+<path aria-label="during Southeast scale: lung; Networked: 219; Cambridgeshire: lavender" role="graphics-symbol" aria-roledescription="bar" d="M312.08799999999997,199.20000000000002h85.82400000000001v43.79999999999998h-85.82400000000001Z" fill="#f4ad0e"/>
+<path aria-label="during Southeast scale: lung; Networked: 277; Cambridgeshire: intelligence input salmon" role="graphics-symbol" aria-roledescription="bar" d="M312.08799999999997,143.8h85.82400000000001v55.40000000000002h-85.82400000000001Z" fill="#7fa3fb"/>
+<path aria-label="during Southeast scale: lung; Networked: 99; Cambridgeshire: Games" role="graphics-symbol" aria-roledescription="bar" d="M312.08799999999997,124.0h85.82400000000001v19.799999999999997h-85.82400000000001Z" fill="#9f4cd6"/>
+<path aria-label="during Southeast scale: hardening; Networked: 176; Cambridgeshire: lavender" role="graphics-symbol" aria-roledescription="bar" d="M192.88799999999998,207.8h85.82400000000001v35.19999999999999h-85.82400000000001Z" fill="#f4ad0e"/>
+<path aria-label="during Southeast scale: hardening; Networked: 48; Cambridgeshire: intelligence input salmon" role="graphics-symbol" aria-roledescription="bar" d="M192.88799999999998,198.20000000000002h85.82400000000001v9.599999999999994h-85.82400000000001Z" fill="#7fa3fb"/>
+<path aria-label="during Southeast scale: hardening; Networked: 72; Cambridgeshire: Games" role="graphics-symbol" aria-roledescription="bar" d="M192.88799999999998,183.79999999999998h85.82400000000001v14.400000000000034h-85.82400000000001Z" fill="#9f4cd6"/>
+</svg>

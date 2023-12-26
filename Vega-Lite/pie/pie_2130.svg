@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="510" height="286" viewBox="0 0 510 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Pickup kilogram</text>
+<path aria-label="Northwest directional: 53; sympathetically Gender ROI: feed" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.34642494521586,199.6133831357668A75,75,0,0,0,48.47623807005727,230.29568274491345L105.0,181.0Z" fill="#dbd2ad" stroke="black" stroke-width="1"/>
+<path aria-label="Northwest directional: 100; sympathetically Gender ROI: implement" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.36254264654876,136.8627281573908A75,75,0,0,0,32.34642494521586,199.6133831357668L105.0,181.0Z" fill="#fbd3e8" stroke="black" stroke-width="1"/>
+<path aria-label="Northwest directional: 1; sympathetically Gender ROI: stable" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,104.34001006167075,106.00290396767817L105.0,181.0Z" fill="#6f3afd" stroke="black" stroke-width="1"/>
+<path aria-label="Northwest directional: 152; sympathetically Gender ROI: Chips" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.96990067701245,163.66813353423998A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#75baa6" stroke="black" stroke-width="1"/>
+<path aria-label="Northwest directional: 124; sympathetically Gender ROI: copying" role="graphics-symbol" aria-roledescription="arc mark"  d="M48.47623807005727,230.29568274491345A75,75,0,0,0,122.6527644705632,253.8929345447611L105.0,181.0Z" fill="#5aefbe" stroke="black" stroke-width="1"/>
+<path aria-label="Northwest directional: 106; sympathetically Gender ROI: magenta" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.34001006167075,106.00290396767817A75,75,0,0,0,44.36254264654876,136.8627281573908L105.0,181.0Z" fill="#d15fc0" stroke="black" stroke-width="1"/>
+<path aria-label="Northwest directional: 71; sympathetically Gender ROI: Infrastructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.32249432048883,209.62502019537794A75,75,0,0,0,177.96990067701245,163.66813353423998L105.0,181.0Z" fill="#ceaaf8" stroke="black" stroke-width="1"/>
+<path aria-label="Northwest directional: 107; sympathetically Gender ROI: content" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.6527644705632,253.8929345447611A75,75,0,0,0,174.32249432048883,209.62502019537794L105.0,181.0Z" fill="#fcabe4" stroke="black" stroke-width="1"/>
+<text aria-label="19,31,214,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.337288246522718" y="225.87902047663474" font-family="monospace" font-size="11px" fill="#dbd2ad" opacity="1">53</text>
+<text aria-label="7,25,156,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.606041793340665" y="167.07344829685138" font-family="monospace" font-size="11px" fill="#fbd3e8" opacity="1">100</text>
+<text aria-label="101,107,83,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="104.60400220376789" y="94.00087119452" font-family="monospace" font-size="11px" fill="#6f3afd" opacity="1">1</text>
+<text aria-label="151,169,102,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.80393544230515" y="113.38894711767115" font-family="monospace" font-size="11px" fill="#75baa6" opacity="1">152</text>
+<text aria-label="68,86,258,270" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="77.71625932982604" y="269.7647800384441" font-family="monospace" font-size="11px" fill="#5aefbe" opacity="1">124</text>
+<text aria-label="54,72,92,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="63.8236222372209" y="103.97184299050171" font-family="monospace" font-size="11px" fill="#d15fc0" opacity="1">106</text>
+<text aria-label="188,200,180,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.71788003545032" y="191.12053382440823" font-family="monospace" font-size="11px" fill="#ceaaf8" opacity="1">71</text>
+<text aria-label="154,172,241,253" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.55564701838176" y="252.34644249892364" font-family="monospace" font-size="11px" fill="#fcabe4" opacity="1">107</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#75baa6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,56.25A5,5,0,1,1,58.0,56.25A5,5,0,1,1,68.0,56.25" fill="#ceaaf8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M165.0,56.25A5,5,0,1,1,155.0,56.25A5,5,0,1,1,165.0,56.25" fill="#fcabe4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M227.0,56.25A5,5,0,1,1,217.0,56.25A5,5,0,1,1,227.0,56.25" fill="#5aefbe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M289.0,56.25A5,5,0,1,1,279.0,56.25A5,5,0,1,1,289.0,56.25" fill="#dbd2ad" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M336.0,56.25A5,5,0,1,1,326.0,56.25A5,5,0,1,1,336.0,56.25" fill="#fbd3e8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M408.0,56.25A5,5,0,1,1,398.0,56.25A5,5,0,1,1,408.0,56.25" fill="#d15fc0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M470.0,56.25A5,5,0,1,1,460.0,56.25A5,5,0,1,1,470.0,56.25" fill="#6f3afd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Chips</text>
+<text aria-label="73,150,49,60" text-anchor="start" x="73.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Infrastructure</text>
+<text aria-label="170,208,49,60" text-anchor="start" x="170.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">content</text>
+<text aria-label="232,270,49,60" text-anchor="start" x="232.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">copying</text>
+<text aria-label="294,316,49,60" text-anchor="start" x="294.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">feed</text>
+<text aria-label="341,390,49,60" text-anchor="start" x="341.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">implement</text>
+<text aria-label="413,451,49,60" text-anchor="start" x="413.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">magenta</text>
+<text aria-label="475,508,49,60" text-anchor="start" x="475.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">stable</text>
+<text aria-label="5,161,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">sympathetically Gender ROI</text>
+</svg>

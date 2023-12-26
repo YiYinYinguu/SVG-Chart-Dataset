@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="485" height="346" viewBox="0 0 485 346" style="background-color: rgb(255, 255, 255);">
+<line x1="87.5" y1="63.5" x2="87.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="139.5" y1="63.5" x2="139.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="191.5" y1="63.5" x2="191.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="242.5" y1="63.5" x2="242.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="294.5" y1="63.5" x2="294.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="345.5" y1="63.5" x2="345.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="397.5" y1="63.5" x2="397.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="449.5" y1="63.5" x2="449.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="74,92,270,342" text-anchor="end" x="87.9512195121951" y="270.5" transform="rotate(270.0, 92.9512195121951, 270.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">chestnut</text>
+<text aria-label="126,144,270,333" text-anchor="end" x="139.53658536585363" y="270.5" transform="rotate(270.0, 144.53658536585363, 270.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">circuit</text>
+<text aria-label="178,196,270,324" text-anchor="end" x="191.1219512195122" y="270.5" transform="rotate(270.0, 196.1219512195122, 270.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">cobweb</text>
+<text aria-label="229,247,270,306" text-anchor="end" x="242.7073170731707" y="270.5" transform="rotate(270.0, 247.7073170731707, 270.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">dish</text>
+<text aria-label="281,299,270,297" text-anchor="end" x="294.2926829268293" y="270.5" transform="rotate(270.0, 299.2926829268293, 270.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">dog</text>
+<text aria-label="332,350,270,315" text-anchor="end" x="345.8780487804878" y="270.5" transform="rotate(270.0, 350.8780487804878, 270.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">flare</text>
+<text aria-label="384,402,270,315" text-anchor="end" x="397.4634146341464" y="270.5" transform="rotate(270.0, 402.4634146341464, 270.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">glove</text>
+<text aria-label="436,454,270,306" text-anchor="end" x="449.04878048780483" y="270.5" transform="rotate(270.0, 454.04878048780483, 270.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">kick</text>
+<line aria-label="87,87,263,268" x1="87.5" y1="263.5" x2="87.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="139,139,263,268" x1="139.5" y1="263.5" x2="139.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="191,191,263,268" x1="191.5" y1="263.5" x2="191.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="242,242,263,268" x1="242.5" y1="263.5" x2="242.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="294,294,263,268" x1="294.5" y1="263.5" x2="294.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="345,345,263,268" x1="345.5" y1="263.5" x2="345.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="397,397,263,268" x1="397.5" y1="263.5" x2="397.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="449,449,263,268" x1="449.5" y1="263.5" x2="449.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,480,263,263" x1="57.5" y1="263.5" x2="480.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,148,0,26" text-anchor="start" x="5.09228515625" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Auto online</text>
+<text aria-label="41,50,251,269" text-anchor="end" x="50.5" y="268.5" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="32,50,215,233" text-anchor="end" x="50.5" y="232.78571428571428" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="23,50,180,198" text-anchor="end" x="50.5" y="197.07142857142856" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="23,50,144,162" text-anchor="end" x="50.5" y="161.35714285714286" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="23,50,108,126" text-anchor="end" x="50.5" y="125.64285714285714" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="23,50,72,90" text-anchor="end" x="50.5" y="89.92857142857142" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">250</text>
+<line aria-label="52,57,263,263" x1="57.5" y1="263.5" x2="52.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,227,227" x1="57.5" y1="227.5" x2="52.5" y2="227.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,192,192" x1="57.5" y1="192.5" x2="52.5" y2="192.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,156,156" x1="57.5" y1="156.5" x2="52.5" y2="156.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,120,120" x1="57.5" y1="120.5" x2="52.5" y2="120.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,84,84" x1="57.5" y1="84.5" x2="52.5" y2="84.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,142,184" text-anchor="middle" x="16.59228515625" y="163.5" transform="rotate(-90.0, 14.59228515625, 163.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">connect</text>
+<path aria-label="mall Technetium: kick; connect: 7; Ridge deliver interface: Granite Flerovium Internal" role="graphics-symbol" aria-roledescription="bar" d="M428.4146341463414,258.0h41.26829268292684v5h-41.26829268292684Z" fill="#bfd2ff"/>
+<path aria-label="mall Technetium: dog; connect: 12; Ridge deliver interface: Granite Flerovium Internal" role="graphics-symbol" aria-roledescription="bar" d="M273.6585365853658,254.42857142857144h41.26829268292684v8.571428571428555h-41.26829268292684Z" fill="#bfd2ff"/>
+<path aria-label="mall Technetium: dish; connect: 41; Ridge deliver interface: Granite Flerovium Internal" role="graphics-symbol" aria-roledescription="bar" d="M222.0731707317073,233.7142857142857h41.26829268292684v29.285714285714306h-41.26829268292684Z" fill="#bfd2ff"/>
+<path aria-label="mall Technetium: flare; connect: 268; Ridge deliver interface: Granite Flerovium Internal" role="graphics-symbol" aria-roledescription="bar" d="M325.2439024390244,71.57142857142856h41.26829268292684v191.42857142857144h-41.26829268292684Z" fill="#bfd2ff"/>
+<path aria-label="mall Technetium: cobweb; connect: 111; Ridge deliver interface: Granite Flerovium Internal" role="graphics-symbol" aria-roledescription="bar" d="M170.48780487804876,183.71428571428572h41.26829268292684v79.28571428571428h-41.26829268292684Z" fill="#bfd2ff"/>
+<path aria-label="mall Technetium: circuit; connect: 163; Ridge deliver interface: Granite Flerovium Internal" role="graphics-symbol" aria-roledescription="bar" d="M118.90243902439022,146.57142857142856h41.26829268292684v116.42857142857143h-41.26829268292684Z" fill="#bfd2ff"/>
+<path aria-label="mall Technetium: glove; connect: 111; Ridge deliver interface: Granite Flerovium Internal" role="graphics-symbol" aria-roledescription="bar" d="M376.82926829268297,183.71428571428572h41.26829268292684v79.28571428571428h-41.26829268292684Z" fill="#bfd2ff"/>
+<path aria-label="mall Technetium: chestnut; connect: 261; Ridge deliver interface: Granite Flerovium Internal" role="graphics-symbol" aria-roledescription="bar" d="M67.31707317073167,76.57142857142857h41.26829268292684v186.42857142857144h-41.26829268292684Z" fill="#bfd2ff"/>
+<path  d="M58.0,35.0h10v10h-10Z" fill="#bfd2ff" stroke-width="1.5" opacity="1"/>
+<text aria-label="73,216,33,44" text-anchor="start" x="73.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Granite Flerovium Internal</text>
+</svg>

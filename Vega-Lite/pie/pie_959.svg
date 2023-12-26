@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">black Sedan</text>
+<path aria-label="bookmark: 6; Genderqueer: Kingdom" role="graphics-symbol" aria-roledescription="arc mark"  d="M211.08901316773532,60.972843209166584A75,75,0,0,0,194.0,59.0L194.0,134.0Z" fill="#aeecc9" stroke="white" stroke-width="0"/>
+<path aria-label="bookmark: 40; Genderqueer: gold" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.1005724875826,189.9914916208972A75,75,0,0,0,248.03911952005905,186.00743755941812L194.0,134.0Z" fill="#4ced77" stroke="white" stroke-width="0"/>
+<path aria-label="bookmark: 52; Genderqueer: teal" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,125.56222876425875,164.6801477878505L194.0,134.0Z" fill="#33c2fa" stroke="white" stroke-width="0"/>
+<path aria-label="bookmark: 55; Genderqueer: Robust" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.03911952005905,186.00743755941812A75,75,0,0,0,211.08901316773532,60.972843209166584L194.0,134.0Z" fill="#c0fa35" stroke="white" stroke-width="0"/>
+<path aria-label="bookmark: 11; Genderqueer: quantifying" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.56222876425875,164.6801477878505A75,75,0,0,0,144.1005724875826,189.9914916208972L194.0,134.0Z" fill="#cffdad" stroke="white" stroke-width="0"/>
+<text aria-label="201,207,36,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="204.32150828585605" y="47.59381192162925" font-family="serif" font-size="11px" fill="#aeecc9" opacity="1">6</text>
+<text aria-label="191,203,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="197.44724603210318" y="226.9339562945729" font-family="serif" font-size="11px" fill="#4ced77" opacity="1">40</text>
+<text aria-label="112,124,77,89" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.45711164812447" y="88.07892049989015" font-family="serif" font-size="11px" fill="#33c2fa" opacity="1">52</text>
+<text aria-label="274,286,100,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="280.31008038366315" y="111.49372578823785" font-family="serif" font-size="11px" fill="#c0fa35" opacity="1">55</text>
+<text aria-label="115,127,179,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.39167799549055" y="190.17924008191045" font-family="serif" font-size="11px" fill="#cffdad" opacity="1">11</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#aeecc9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#c0fa35" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#4ced77" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#cffdad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#33c2fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Kingdom</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Robust</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">gold</text>
+<text aria-label="21,81,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">quantifying</text>
+<text aria-label="21,43,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">teal</text>
+</svg>

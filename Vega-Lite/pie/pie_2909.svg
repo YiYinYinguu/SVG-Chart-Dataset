@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="425" height="270" viewBox="0 0 425 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="30,420,0,26" text-anchor="end" x="420.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Implementation bypassing Creek</text>
+<path aria-label="recipe mindshare or: 650; Metal transmit: Margate" role="graphics-symbol" aria-roledescription="arc mark"  d="M319.4550099257408,208.99801987932054A75,75,0,1,0,320.0,59.0L320.0,84.0A50,50,0,1,1,319.6366732838272,183.99867991954704Z" fill="#5cb35f" stroke="black" stroke-width="0"/>
+<path aria-label="recipe mindshare or: 479; Metal transmit: kilogram" role="graphics-symbol" aria-roledescription="arc mark"  d="M265.4793084662785,82.49762923238596A75,75,0,0,0,319.4550099257408,208.99801987932054L319.6366732838272,183.99867991954704A50,50,0,0,1,283.65287231085233,99.66508615492398Z" fill="#0ae49a" stroke="black" stroke-width="0"/>
+<path aria-label="recipe mindshare or: 168; Metal transmit: purple" role="graphics-symbol" aria-roledescription="arc mark"  d="M320.0,59.0A75,75,0,0,0,265.4793084662785,82.49762923238596L283.65287231085233,99.66508615492398A50,50,0,0,1,320.0,84.0Z" fill="#b6e2e7" stroke="black" stroke-width="0"/>
+<text aria-label="400,418,126,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="409.9994059618357" y="137.32699620286914" font-family="avenir" font-size="11px" fill="#5cb35f" opacity="1">650</text>
+<text aria-label="228,246,161,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="237.22048487143525" y="172.3207003764042" font-family="avenir" font-size="11px" fill="#0ae49a" opacity="1">479</text>
+<text aria-label="275,293,43,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="284.37877067605825" y="54.34936163917939" font-family="avenir" font-size="11px" fill="#b6e2e7" opacity="1">168</text>
+<path  d="M231.0,258.25A5,5,0,1,1,221.0,258.25A5,5,0,1,1,231.0,258.25" fill="#5cb35f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M299.0,258.25A5,5,0,1,1,289.0,258.25A5,5,0,1,1,299.0,258.25" fill="#0ae49a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M369.0,258.25A5,5,0,1,1,359.0,258.25A5,5,0,1,1,369.0,258.25" fill="#b6e2e7" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="236,274,251,262" text-anchor="start" x="236.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Margate</text>
+<text aria-label="304,348,251,262" text-anchor="start" x="304.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">kilogram</text>
+<text aria-label="374,407,251,262" text-anchor="start" x="374.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">purple</text>
+</svg>

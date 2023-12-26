@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="490" height="239" viewBox="0 0 490 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,447,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Buckinghamshire recusandae Redding</text>
+<path aria-label="Lucia: 116; envisioneer: mesh" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,42.341667643509915,92.7818803642909L105.0,134.0Z" fill="#0e3e08" stroke="black" stroke-width="0"/>
+<path aria-label="Lucia: 199; envisioneer: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.4078009456171,143.40633607933626A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#fbe214" stroke="black" stroke-width="0"/>
+<path aria-label="Lucia: 232; envisioneer: Klocko" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.90172513047702,198.60279755526284A75,75,0,0,0,179.4078009456171,143.40633607933626L105.0,134.0Z" fill="#fb71de" stroke="black" stroke-width="0"/>
+<path aria-label="Lucia: 190; envisioneer: Rock" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.341667643509915,92.7818803642909A75,75,0,0,0,66.90172513047702,198.60279755526284L105.0,134.0Z" fill="#fee9c6" stroke="black" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#fbe214" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#fb71de" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#fee9c6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#0e3e08" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Klocko</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rock</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">mesh</text>
+<text aria-label="223,289,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">envisioneer</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="361" height="239" viewBox="0 0 361 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,170,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Money DRAM</text>
+<path aria-label="ew Solomon: 298; Car Berkshire evergreen: Metal" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.808855392539,186.87439962163327A75,75,0,0,0,167.7616836641392,175.06057797501785L146.84112244275948,161.3737186500119A50,50,0,0,1,69.53923692835934,169.2495997477555Z" fill="#b560bb" stroke="white" stroke-width="0"/>
+<path aria-label="ew Solomon: 80; Car Berkshire evergreen: Producer" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.45254499004787,156.49359201192365A75,75,0,0,0,51.808855392539,186.87439962163327L69.53923692835934,169.2495997477555A50,50,0,0,1,57.301696660031915,148.9957280079491Z" fill="#451f41" stroke="white" stroke-width="0"/>
+<path aria-label="ew Solomon: 44; Car Berkshire evergreen: uniform" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,85.51646752314274,61.57492173132812L92.01097834876182,85.71661448755208A50,50,0,0,1,104.99999999999999,84.0Z" fill="#7e322e" stroke="white" stroke-width="0"/>
+<path aria-label="ew Solomon: 360; Car Berkshire evergreen: Brisa" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.7616836641392,175.06057797501785A75,75,0,0,0,105.0,59.0L105.0,84.0A50,50,0,0,1,146.84112244275948,161.3737186500119Z" fill="#aeda4d" stroke="white" stroke-width="0"/>
+<path aria-label="ew Solomon: 270; Car Berkshire evergreen: optical" role="graphics-symbol" aria-roledescription="arc mark"  d="M85.51646752314274,61.57492173132812A75,75,0,0,0,33.45254499004787,156.49359201192365L57.301696660031915,148.9957280079491A50,50,0,0,1,92.01097834876182,85.71661448755208Z" fill="#a889af" stroke="white" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#aeda4d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#b560bb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#451f41" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#a889af" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#7e322e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Brisa</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Metal</text>
+<text aria-label="239,283,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Producer</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">optical</text>
+<text aria-label="239,277,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">uniform</text>
+<text aria-label="223,361,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Car Berkshire evergreen</text>
+</svg>

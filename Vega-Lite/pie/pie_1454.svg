@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="364" height="270" viewBox="0 0 364 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Kip</text>
+<path aria-label="Salad: 161; meanwhile Unbranded: Coordinator" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.09221868705214,129.54836211085762A75,75,0,0,0,105.0,90.0L105.0,134.0A31,31,0,0,1,132.31811705731488,150.3466563391545Z" fill="#f59bc1" stroke="black" stroke-width="0"/>
+<path aria-label="Salad: 198; meanwhile Unbranded: Dollar" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.39599628784802,220.54496879245866A75,75,0,0,0,171.09221868705214,129.54836211085762L132.31811705731488,150.3466563391545A31,31,0,0,1,125.83034513231051,187.9585871008829Z" fill="#4ce5fe" stroke="black" stroke-width="0"/>
+<path aria-label="Salad: 127; meanwhile Unbranded: Infrastructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.4778691297634,239.51424887516856A75,75,0,0,0,155.39599628784802,220.54496879245866L125.83034513231051,187.9585871008829A31,31,0,0,1,101.47751924030221,195.799222868403Z" fill="#a44d7d" stroke="black" stroke-width="0"/>
+<path aria-label="Salad: 178; meanwhile Unbranded: newton" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,35.307526271805585,137.28792491268595L76.19377752567965,153.54567563057685A31,31,0,0,1,105.0,134.0Z" fill="#6e8650" stroke="black" stroke-width="0"/>
+<path aria-label="Salad: 274; meanwhile Unbranded: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.307526271805585,137.28792491268595A75,75,0,0,0,96.4778691297634,239.51424887516856L101.47751924030221,195.799222868403A31,31,0,0,1,76.19377752567965,153.54567563057685Z" fill="#10ccc3" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#f59bc1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M98.0,40.25A5,5,0,1,1,88.0,40.25A5,5,0,1,1,98.0,40.25" fill="#4ce5fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,40.25A5,5,0,1,1,145.0,40.25A5,5,0,1,1,155.0,40.25" fill="#a44d7d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M252.0,40.25A5,5,0,1,1,242.0,40.25A5,5,0,1,1,252.0,40.25" fill="#10ccc3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M324.0,40.25A5,5,0,1,1,314.0,40.25A5,5,0,1,1,324.0,40.25" fill="#6e8650" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Coordinator</text>
+<text aria-label="103,136,33,44" text-anchor="start" x="103.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Dollar</text>
+<text aria-label="160,237,33,44" text-anchor="start" x="160.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Infrastructure</text>
+<text aria-label="257,306,33,44" text-anchor="start" x="257.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="329,362,33,44" text-anchor="start" x="329.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">newton</text>
+</svg>

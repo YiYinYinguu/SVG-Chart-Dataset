@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="445" height="324" viewBox="0 0 445 324" style="background-color: rgb(255, 255, 255);">
+<line x1="77.5" y1="34.5" x2="77.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="156.5" y1="34.5" x2="156.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="235.5" y1="34.5" x2="235.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="313.5" y1="34.5" x2="313.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="392.5" y1="34.5" x2="392.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="234.5" x2="440.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="198.5" x2="440.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="161.5" x2="440.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="125.5" x2="440.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="89.5" x2="440.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="52.5" x2="440.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="63,83,241,291" text-anchor="end" x="77.30769230769234" y="241.5" transform="rotate(270.0, 83.30769230769234, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">break</text>
+<text aria-label="142,162,241,301" text-anchor="end" x="156.1538461538462" y="241.5" transform="rotate(270.0, 162.1538461538462, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">bucket</text>
+<text aria-label="221,241,241,281" text-anchor="end" x="235.00000000000003" y="241.5" transform="rotate(270.0, 241.00000000000003, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">lord</text>
+<text aria-label="299,319,241,311" text-anchor="end" x="313.84615384615387" y="241.5" transform="rotate(270.0, 319.84615384615387, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">luggage</text>
+<text aria-label="378,398,241,301" text-anchor="end" x="392.69230769230774" y="241.5" transform="rotate(270.0, 398.69230769230774, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">sphere</text>
+<line aria-label="77,77,234,239" x1="77.5" y1="234.5" x2="77.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="156,156,234,239" x1="156.5" y1="234.5" x2="156.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="235,235,234,239" x1="235.5" y1="234.5" x2="235.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="313,313,234,239" x1="313.5" y1="234.5" x2="313.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="392,392,234,239" x1="392.5" y1="234.5" x2="392.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,440,234,234" x1="30.5" y1="234.5" x2="440.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="92,378,0,26" text-anchor="middle" x="235.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">sleepily Blues Quality</text>
+<text aria-label="18,28,221,241" text-anchor="end" x="28.5" y="240.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="8,28,185,205" text-anchor="end" x="28.5" y="204.13636363636363" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="8,28,148,168" text-anchor="end" x="28.5" y="167.77272727272725" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="8,28,112,132" text-anchor="end" x="28.5" y="131.40909090909093" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="8,28,76,96" text-anchor="end" x="28.5" y="95.04545454545453" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="8,28,39,59" text-anchor="end" x="28.5" y="58.68181818181819" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">50</text>
+<line aria-label="30,30,34,234" x1="30.5" y1="234.5" x2="30.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="deposit azure: lord; as: 31; Honda Triathlon/Time compressing: Burg" role="graphics-symbol" aria-roledescription="bar" d="M203.46153846153848,121.27272727272728h63.07692307692307v112.72727272727272h-63.07692307692307Z" fill="#bb5be6"/>
+<path aria-label="deposit azure: bucket; as: 55; Honda Triathlon/Time compressing: Burg" role="graphics-symbol" aria-roledescription="bar" d="M124.61538461538464,34.0h63.07692307692307v200h-63.07692307692307Z" fill="#bb5be6"/>
+<path aria-label="deposit azure: break; as: 1; Honda Triathlon/Time compressing: Burg" role="graphics-symbol" aria-roledescription="bar" d="M45.7692307692308,230.36363636363637h63.07692307692307v3.636363636363626h-63.07692307692307Z" fill="#bb5be6"/>
+<path aria-label="deposit azure: sphere; as: 13; Honda Triathlon/Time compressing: Burg" role="graphics-symbol" aria-roledescription="bar" d="M361.1538461538462,186.72727272727275h63.07692307692307v47.27272727272725h-63.07692307692307Z" fill="#bb5be6"/>
+<path aria-label="deposit azure: luggage; as: 34; Honda Triathlon/Time compressing: Burg" role="graphics-symbol" aria-roledescription="bar" d="M282.3076923076923,110.36363636363637h63.07692307692307v123.63636363636363h-63.07692307692307Z" fill="#bb5be6"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="512" height="270" viewBox="0 0 512 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,170,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Soft Shoes</text>
+<path aria-label="Kids: 12; East: violet" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,41.67540558734884,93.8129903765753L105.0,134.0Z" fill="#93de0e" stroke="black" stroke-width="1"/>
+<path aria-label="Kids: 5; East: Connecticut" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.50524823068503,65.48409067680494A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#842fb5" stroke="black" stroke-width="1"/>
+<path aria-label="Kids: 13; East: enable" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.85200463212038,129.29071103530148A75,75,0,0,0,135.50524823068503,65.48409067680494L105.0,134.0Z" fill="#b9da56" stroke="black" stroke-width="1"/>
+<path aria-label="Kids: 13; East: moratorium" role="graphics-symbol" aria-roledescription="arc mark"  d="M77.39065854864913,203.73323644161883A75,75,0,0,0,154.00654529925794,190.77462917388172L105.0,134.0Z" fill="#cae391" stroke="black" stroke-width="1"/>
+<path aria-label="Kids: 10; East: programming" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.70385078810814,160.14290354913615A75,75,0,0,0,77.39065854864913,203.73323644161883L105.0,134.0Z" fill="#5bdf6f" stroke="black" stroke-width="1"/>
+<path aria-label="Kids: 11; East: intangible" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.00654529925794,190.77462917388172A75,75,0,0,0,179.85200463212038,129.29071103530148L105.0,134.0Z" fill="#dfc742" stroke="black" stroke-width="1"/>
+<path aria-label="Kids: 11; East: purple" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.67540558734884,93.8129903765753A75,75,0,0,0,34.70385078810814,160.14290354913615L105.0,134.0Z" fill="#fd2633" stroke="black" stroke-width="1"/>
+<text aria-label="56,67,48,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="61.642169330845626" y="58.13239879605227" font-family="Balto" font-size="10px" fill="#93de0e" opacity="1">12</text>
+<text aria-label="120,126,38,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.71205217359835" y="48.9667159339575" font-family="Balto" font-size="10px" fill="#842fb5" opacity="1">5</text>
+<text aria-label="173,184,75,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.90342882203336" y="85.63577890840114" font-family="Balto" font-size="10px" fill="#b9da56" opacity="1">13</text>
+<text aria-label="114,125,215,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.00918720444923" y="225.73964333634544" font-family="Balto" font-size="10px" fill="#cae391" opacity="1">13</text>
+<text aria-label="35,46,189,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="40.69745883304769" y="199.96970064620288" font-family="Balto" font-size="10px" fill="#5bdf6f" opacity="1">10</text>
+<text aria-label="182,193,161,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.96768364296503" y="171.87640278068926" font-family="Balto" font-size="10px" fill="#dfc742" opacity="1">11</text>
+<text aria-label="9,20,117,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.493029416855407" y="127.59243830591114" font-family="Balto" font-size="10px" fill="#fd2633" opacity="1">11</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#842fb5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M101.0,258.25A5,5,0,1,1,91.0,258.25A5,5,0,1,1,101.0,258.25" fill="#b9da56" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M161.0,258.25A5,5,0,1,1,151.0,258.25A5,5,0,1,1,161.0,258.25" fill="#dfc742" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M237.0,258.25A5,5,0,1,1,227.0,258.25A5,5,0,1,1,237.0,258.25" fill="#cae391" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M322.0,258.25A5,5,0,1,1,312.0,258.25A5,5,0,1,1,322.0,258.25" fill="#5bdf6f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M416.0,258.25A5,5,0,1,1,406.0,258.25A5,5,0,1,1,416.0,258.25" fill="#fd2633" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M475.0,258.25A5,5,0,1,1,465.0,258.25A5,5,0,1,1,475.0,258.25" fill="#93de0e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Connecticut</text>
+<text aria-label="106,139,251,262" text-anchor="start" x="106.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">enable</text>
+<text aria-label="166,221,251,262" text-anchor="start" x="166.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">intangible</text>
+<text aria-label="242,297,251,262" text-anchor="start" x="242.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">moratorium</text>
+<text aria-label="327,387,251,262" text-anchor="start" x="327.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">programming</text>
+<text aria-label="421,454,251,262" text-anchor="start" x="421.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">purple</text>
+<text aria-label="480,513,251,262" text-anchor="start" x="480.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">violet</text>
+</svg>

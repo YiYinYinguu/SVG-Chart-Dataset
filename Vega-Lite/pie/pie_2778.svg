@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="305" height="270" viewBox="0 0 305 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="59,150,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle</text>
+<path aria-label="Program: 1; extensible Intersex Chrysler: array" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.12994176310725,205.9619730210873A75,75,0,0,0,131.20981346993239,204.2712293749821L105.0,134.0Z" fill="#bdd3e2" stroke="white" stroke-width="4"/>
+<path aria-label="Program: 13; extensible Intersex Chrysler: fuchsia" role="graphics-symbol" aria-roledescription="arc mark"  d="M60.05417501164898,194.04059306932703A75,75,0,0,0,126.12994176310725,205.9619730210873L105.0,134.0Z" fill="#38ed8b" stroke="white" stroke-width="4"/>
+<path aria-label="Program: 29; extensible Intersex Chrysler: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.82592421754418,169.94367400400424A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#43afba" stroke="white" stroke-width="4"/>
+<path aria-label="Program: 10; extensible Intersex Chrysler: Interactions" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.20981346993239,204.2712293749821A75,75,0,0,0,170.82592421754418,169.94367400400424L105.0,134.0Z" fill="#eeaac8" stroke="white" stroke-width="4"/>
+<path aria-label="Program: 35; extensible Intersex Chrysler: violet" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,60.05417501164898,194.04059306932703L105.0,134.0Z" fill="#09fccb" stroke="white" stroke-width="4"/>
+<text aria-label="130,135,213,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.42196288535226" y="222.39433251535877" font-family="avenir" font-size="9px" fill="#bdd3e2" opacity="1">1</text>
+<text aria-label="84,94,216,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="89.0202123371127" y="225.57000839025045" font-family="avenir" font-size="9px" fill="#38ed8b" opacity="1">13</text>
+<text aria-label="177,187,82,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.40128161869305" y="91.07569702451903" font-family="avenir" font-size="9px" fill="#43afba" opacity="1">29</text>
+<text aria-label="158,168,196,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.93746605507567" y="205.01746169188323" font-family="avenir" font-size="9px" fill="#eeaac8" opacity="1">10</text>
+<text aria-label="14,24,99,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.60566748464123" y="108.57803711464777" font-family="avenir" font-size="9px" fill="#09fccb" opacity="1">35</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#43afba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M72.0,258.25A5,5,0,1,1,62.0,258.25A5,5,0,1,1,72.0,258.25" fill="#eeaac8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M156.0,258.25A5,5,0,1,1,146.0,258.25A5,5,0,1,1,156.0,258.25" fill="#bdd3e2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,258.25A5,5,0,1,1,197.0,258.25A5,5,0,1,1,207.0,258.25" fill="#38ed8b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M268.0,258.25A5,5,0,1,1,258.0,258.25A5,5,0,1,1,268.0,258.25" fill="#09fccb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="77,143,251,262" text-anchor="start" x="77.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Interactions</text>
+<text aria-label="161,188,251,262" text-anchor="start" x="161.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">array</text>
+<text aria-label="212,250,251,262" text-anchor="start" x="212.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">fuchsia</text>
+<text aria-label="273,306,251,262" text-anchor="start" x="273.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">violet</text>
+</svg>

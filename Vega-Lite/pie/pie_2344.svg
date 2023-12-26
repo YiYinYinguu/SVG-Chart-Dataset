@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="322" height="239" viewBox="0 0 322 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="213,317,0,26" text-anchor="end" x="317.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">JBOD Pop</text>
+<path aria-label="Northwest Borders Funk: 49; holistic Small Tin: Corporate" role="graphics-symbol" aria-roledescription="arc mark"  d="M249.49713005625603,66.40609096888403A75,75,0,0,0,217.0,59.0L217.0,98.0A36,36,0,0,1,232.5986224270029,101.55492366506434Z" fill="#fecd76" stroke="black" stroke-width="0"/>
+<path aria-label="Northwest Borders Funk: 55; holistic Small Tin: Sedan" role="graphics-symbol" aria-roledescription="arc mark"  d="M278.05700414157883,90.44495155260152A75,75,0,0,0,249.49713005625603,66.40609096888403L232.5986224270029,101.55492366506434A36,36,0,0,1,246.30736198795782,113.09357674524873Z" fill="#2cbd47" stroke="black" stroke-width="0"/>
+<path aria-label="Northwest Borders Funk: 97; holistic Small Tin: Volvo" role="graphics-symbol" aria-roledescription="arc mark"  d="M289.3322955267587,153.82521182307136A75,75,0,0,0,278.05700414157883,90.44495155260152L246.30736198795782,113.09357674524873A36,36,0,0,1,251.71950185284416,143.51610167507425Z" fill="#dbc8fb" stroke="black" stroke-width="0"/>
+<path aria-label="Northwest Borders Funk: 486; holistic Small Tin: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M217.0,59.0A75,75,0,1,0,289.3322955267587,153.82521182307136L251.71950185284416,143.51610167507425A36,36,0,1,1,217.0,98.0Z" fill="#cf9ac5" stroke="black" stroke-width="0"/>
+<text aria-label="229,244,36,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="236.99822272902617" y="50.249951067362574" font-family="sans-serif" font-size="14px" fill="#fecd76" opacity="1">49</text>
+<text aria-label="267,282,55,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="274.95590930803485" y="69.1442625754481" font-family="sans-serif" font-size="14px" fill="#2cbd47" opacity="1">55</text>
+<text aria-label="298,313,108,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="305.6087724599903" y="122.23657895209075" font-family="sans-serif" font-size="14px" fill="#dbc8fb" opacity="1">97</text>
+<text aria-label="134,156,178,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.441901657144" y="192.58423363531037" font-family="sans-serif" font-size="14px" fill="#cf9ac5" opacity="1">486</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fecd76" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#2cbd47" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#dbc8fb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#cf9ac5" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Corporate</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Sedan</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Volvo</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="5,113,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">holistic Small Tin</text>
+</svg>

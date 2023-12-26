@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="298" height="239" viewBox="0 0 298 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bronze Sodium</text>
+<path aria-label="Arcadia: 301; USB: Reggae" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,64.84551993961276,197.34522658480245L105.0,134.0Z" fill="#dbdd49" stroke="black" stroke-width="4"/>
+<path aria-label="Arcadia: 67; USB: Integration" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.1814558450861,203.5039966221473A75,75,0,0,0,166.38521483116227,177.0912450520063L105.0,134.0Z" fill="#1ab8ad" stroke="black" stroke-width="4"/>
+<path aria-label="Arcadia: 50; USB: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M101.79090577530795,208.9313133093038A75,75,0,0,0,133.1814558450861,203.5039966221473L105.0,134.0Z" fill="#ce46aa" stroke="black" stroke-width="4"/>
+<path aria-label="Arcadia: 255; USB: FTM" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.38521483116227,177.0912450520063A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#deffb6" stroke="black" stroke-width="4"/>
+<path aria-label="Arcadia: 61; USB: Program" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.84551993961276,197.34522658480245A75,75,0,0,0,101.79090577530795,208.9313133093038L105.0,134.0Z" fill="#5df91c" stroke="black" stroke-width="4"/>
+<text aria-label="10,26,101,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.56712294746096" y="111.912996105141" font-family="Balto" font-size="10px" fill="#dbdd49" opacity="1">301</text>
+<text aria-label="155,166,197,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="161.02799210173487" y="207.43340188467357" font-family="Balto" font-size="10px" fill="#1ab8ad" opacity="1">67</text>
+<text aria-label="114,125,215,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.33319471199889" y="225.6842327582752" font-family="Balto" font-size="10px" fill="#ce46aa" opacity="1">50</text>
+<text aria-label="176,193,85,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.85566500135315" y="95.49008832589908" font-family="Balto" font-size="10px" fill="#deffb6" opacity="1">255</text>
+<text aria-label="72,83,212,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="78.0691754130793" y="222.87625217176463" font-family="Balto" font-size="10px" fill="#5df91c" opacity="1">61</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#deffb6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#1ab8ad" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ce46aa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#5df91c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#dbdd49" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,255,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">FTM</text>
+<text aria-label="239,299,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Integration</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Program</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Reggae</text>
+</svg>

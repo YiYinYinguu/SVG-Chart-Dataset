@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="354" height="239" viewBox="0 0 354 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Regional</text>
+<path aria-label="grow Unbranded East: 40; invoice Metal Recycled: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.3531118061007,63.78238470201971A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#d0f7e0" stroke="white" stroke-width="3"/>
+<path aria-label="grow Unbranded East: 244; invoice Metal Recycled: optical" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,43.930478901421615,177.53749640011802L105.0,134.0Z" fill="#918fa2" stroke="white" stroke-width="3"/>
+<path aria-label="grow Unbranded East: 210; invoice Metal Recycled: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.63736118510224,180.761735139405A75,75,0,0,0,131.3531118061007,63.78238470201971L105.0,134.0Z" fill="#d0f7e0" stroke="white" stroke-width="3"/>
+<path aria-label="grow Unbranded East: 206; invoice Metal Recycled: Ford" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.930478901421615,177.53749640011802A75,75,0,0,0,163.63736118510224,180.761735139405L105.0,134.0Z" fill="#2ab17b" stroke="white" stroke-width="3"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#d0f7e0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#2ab17b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#918fa2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Ford</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">optical</text>
+<text aria-label="223,355,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">invoice Metal Recycled</text>
+</svg>

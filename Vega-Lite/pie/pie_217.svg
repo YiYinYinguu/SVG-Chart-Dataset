@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="291" height="239" viewBox="0 0 291 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="147,225,0,26" text-anchor="middle" x="186.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">deploy</text>
+<path aria-label="Connecticut: 99; Berkshire: Future" role="graphics-symbol" aria-roledescription="arc mark"  d="M238.5557685023645,187.50599216093346A75,75,0,0,0,186.0,59.0L186.0,75.0A59,59,0,0,1,227.34387122186007,176.09138049993433Z" fill="#425d76" stroke="black" stroke-width="4"/>
+<path aria-label="Connecticut: 113; Berkshire: within" role="graphics-symbol" aria-roledescription="arc mark"  d="M186.0,59.0A75,75,0,0,0,153.920714234611,201.79321075729126L160.76429519789397,187.33065912906912A59,59,0,0,1,186.0,75.0Z" fill="#0517bc" stroke="black" stroke-width="4"/>
+<path aria-label="Connecticut: 23; Berkshire: columnist" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.920714234611,201.79321075729126A75,75,0,0,0,194.0475002104432,208.5670016854836L192.33070016554865,192.6593746592471A59,59,0,0,1,160.76429519789397,187.33065912906912Z" fill="#4bf96e" stroke="black" stroke-width="4"/>
+<path aria-label="Connecticut: 28; Berkshire: Georgia" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0475002104432,208.5670016854836A75,75,0,0,0,238.5557685023645,187.50599216093346L227.34387122186007,176.09138049993433A59,59,0,0,1,192.33070016554865,192.6593746592471Z" fill="#fddc5e" stroke="black" stroke-width="4"/>
+<text aria-label="264,274,93,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="269.3026024604898" y="102.93129847925529" font-family="sans-serif" font-size="9px" fill="#425d76" opacity="1">99</text>
+<text aria-label="90,105,108,118" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="98.18864890634168" y="117.27269356687862" font-family="sans-serif" font-size="9px" fill="#0517bc" opacity="1">113</text>
+<text aria-label="166,176,216,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="171.01908060968233" y="225.7444198483533" font-family="sans-serif" font-size="9px" fill="#4bf96e" opacity="1">23</text>
+<text aria-label="219,229,209,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="224.49514291846683" y="218.3518529087495" font-family="sans-serif" font-size="9px" fill="#fddc5e" opacity="1">28</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#425d76" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#fddc5e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#4bf96e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#0517bc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Future</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Georgia</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">columnist</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">within</text>
+<text aria-label="5,59,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Berkshire</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="692" height="332" viewBox="0 0 692 332" style="background-color: rgb(255, 255, 255);">
+<line x1="95.5" y1="34.5" x2="95.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="201.5" y1="34.5" x2="201.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="306.5" y1="34.5" x2="306.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="412.5" y1="34.5" x2="412.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="517.5" y1="34.5" x2="517.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="623.5" y1="34.5" x2="623.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="81,101,241,331" text-anchor="end" x="95.38709677419354" y="241.5" transform="rotate(270.0, 101.38709677419354, 241.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">confusion</text>
+<text aria-label="187,207,241,301" text-anchor="end" x="201.03225806451613" y="241.5" transform="rotate(270.0, 207.03225806451613, 241.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">harbor</text>
+<text aria-label="292,312,241,331" text-anchor="end" x="306.6774193548387" y="241.5" transform="rotate(270.0, 312.6774193548387, 241.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">inability</text>
+<text aria-label="398,418,241,331" text-anchor="end" x="412.3225806451613" y="241.5" transform="rotate(270.0, 418.3225806451613, 241.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">jewellery</text>
+<text aria-label="503,523,241,301" text-anchor="end" x="517.9677419354839" y="241.5" transform="rotate(270.0, 523.9677419354839, 241.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">mukluk</text>
+<text aria-label="609,629,241,281" text-anchor="end" x="623.6129032258065" y="241.5" transform="rotate(270.0, 629.6129032258065, 241.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">suck</text>
+<line aria-label="95,95,234,239" x1="95.5" y1="234.5" x2="95.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="201,201,234,239" x1="201.5" y1="234.5" x2="201.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="306,306,234,239" x1="306.5" y1="234.5" x2="306.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="412,412,234,239" x1="412.5" y1="234.5" x2="412.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="517,517,234,239" x1="517.5" y1="234.5" x2="517.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="623,623,234,239" x1="623.5" y1="234.5" x2="623.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,687,234,234" x1="32.5" y1="234.5" x2="687.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,135,0,26" text-anchor="start" x="5.2578125" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Equatorial</text>
+<text aria-label="15,25,221,241" text-anchor="end" x="25.5" y="240.5" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="5,25,190,210" text-anchor="end" x="25.5" y="209.73076923076923" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">10</text>
+<text aria-label="5,25,159,179" text-anchor="end" x="25.5" y="178.96153846153845" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="5,25,129,149" text-anchor="end" x="25.5" y="148.19230769230768" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">30</text>
+<text aria-label="5,25,98,118" text-anchor="end" x="25.5" y="117.42307692307692" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="5,25,67,87" text-anchor="end" x="25.5" y="86.65384615384615" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="5,25,36,56" text-anchor="end" x="25.5" y="55.88461538461537" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">60</text>
+<line aria-label="27,32,234,234" x1="32.5" y1="234.5" x2="27.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,203,203" x1="32.5" y1="203.5" x2="27.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,172,172" x1="32.5" y1="172.5" x2="27.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,142,142" x1="32.5" y1="142.5" x2="27.5" y2="142.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,111,111" x1="32.5" y1="111.5" x2="27.5" y2="111.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,80,80" x1="32.5" y1="80.5" x2="27.5" y2="80.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,49,49" x1="32.5" y1="49.5" x2="27.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,32,34,234" x1="32.5" y1="234.5" x2="32.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="optimal Causeway: confusion; National Dakota: 23; Engineer male wireless: violently streamline energetically" role="graphics-symbol" aria-roledescription="bar" d="M109.47311827956989,163.23076923076923h28.172043010752688v70.76923076923077h-28.172043010752688Z" fill="#60caa3"/>
+<path aria-label="optimal Causeway: confusion; National Dakota: 19; Engineer male wireless: Accountability Minivan email" role="graphics-symbol" aria-roledescription="bar" d="M53.12903225806451,175.53846153846152h28.172043010752688v58.46153846153848h-28.172043010752688Z" fill="#7f17e6"/>
+<path aria-label="optimal Causeway: confusion; National Dakota: 59; Engineer male wireless: Southeast Group red" role="graphics-symbol" aria-roledescription="bar" d="M81.3010752688172,52.46153846153847h28.172043010752688v181.53846153846155h-28.172043010752688Z" fill="#c38edb"/>
+<path aria-label="optimal Causeway: jewellery; National Dakota: 34; Engineer male wireless: violently streamline energetically" role="graphics-symbol" aria-roledescription="bar" d="M426.4086021505376,129.38461538461536h28.172043010752688v104.61538461538463h-28.172043010752688Z" fill="#60caa3"/>
+<path aria-label="optimal Causeway: jewellery; National Dakota: 62; Engineer male wireless: Accountability Minivan email" role="graphics-symbol" aria-roledescription="bar" d="M370.06451612903226,43.23076923076922h28.172043010752688v190.76923076923077h-28.172043010752688Z" fill="#7f17e6"/>
+<path aria-label="optimal Causeway: jewellery; National Dakota: 39; Engineer male wireless: Southeast Group red" role="graphics-symbol" aria-roledescription="bar" d="M398.23655913978496,114.0h28.172043010752688v120h-28.172043010752688Z" fill="#c38edb"/>
+<path aria-label="optimal Causeway: mukluk; National Dakota: 4; Engineer male wireless: violently streamline energetically" role="graphics-symbol" aria-roledescription="bar" d="M532.0537634408602,221.69230769230768h28.172043010752688v12.30769230769232h-28.172043010752688Z" fill="#60caa3"/>
+<path aria-label="optimal Causeway: mukluk; National Dakota: 46; Engineer male wireless: Accountability Minivan email" role="graphics-symbol" aria-roledescription="bar" d="M475.7096774193548,92.46153846153845h28.172043010752688v141.53846153846155h-28.172043010752688Z" fill="#7f17e6"/>
+<path aria-label="optimal Causeway: mukluk; National Dakota: 22; Engineer male wireless: Southeast Group red" role="graphics-symbol" aria-roledescription="bar" d="M503.8817204301075,166.3076923076923h28.172043010752688v67.69230769230771h-28.172043010752688Z" fill="#c38edb"/>
+<path aria-label="optimal Causeway: harbor; National Dakota: 30; Engineer male wireless: violently streamline energetically" role="graphics-symbol" aria-roledescription="bar" d="M215.11827956989248,141.69230769230768h28.172043010752688v92.3076923076923h-28.172043010752688Z" fill="#60caa3"/>
+<path aria-label="optimal Causeway: harbor; National Dakota: 23; Engineer male wireless: Accountability Minivan email" role="graphics-symbol" aria-roledescription="bar" d="M158.77419354838707,163.23076923076923h28.172043010752688v70.76923076923077h-28.172043010752688Z" fill="#7f17e6"/>
+<path aria-label="optimal Causeway: harbor; National Dakota: 15; Engineer male wireless: Southeast Group red" role="graphics-symbol" aria-roledescription="bar" d="M186.94623655913978,187.84615384615384h28.172043010752688v46.15384615384616h-28.172043010752688Z" fill="#c38edb"/>
+<path aria-label="optimal Causeway: inability; National Dakota: 58; Engineer male wireless: violently streamline energetically" role="graphics-symbol" aria-roledescription="bar" d="M320.76344086021504,55.53846153846153h28.172043010752688v178.46153846153848h-28.172043010752688Z" fill="#60caa3"/>
+<path aria-label="optimal Causeway: inability; National Dakota: 41; Engineer male wireless: Accountability Minivan email" role="graphics-symbol" aria-roledescription="bar" d="M264.41935483870964,107.84615384615385h28.172043010752688v126.15384615384615h-28.172043010752688Z" fill="#7f17e6"/>
+<path aria-label="optimal Causeway: inability; National Dakota: 18; Engineer male wireless: Southeast Group red" role="graphics-symbol" aria-roledescription="bar" d="M292.59139784946234,178.6153846153846h28.172043010752688v55.38461538461539h-28.172043010752688Z" fill="#c38edb"/>
+<path aria-label="optimal Causeway: suck; National Dakota: 11; Engineer male wireless: violently streamline energetically" role="graphics-symbol" aria-roledescription="bar" d="M637.6989247311828,200.15384615384613h28.172043010752688v33.84615384615387h-28.172043010752688Z" fill="#60caa3"/>
+<path aria-label="optimal Causeway: suck; National Dakota: 5; Engineer male wireless: Accountability Minivan email" role="graphics-symbol" aria-roledescription="bar" d="M581.3548387096774,218.6153846153846h28.172043010752688v15.384615384615387h-28.172043010752688Z" fill="#7f17e6"/>
+<path aria-label="optimal Causeway: suck; National Dakota: 2; Engineer male wireless: Southeast Group red" role="graphics-symbol" aria-roledescription="bar" d="M609.5268817204301,227.84615384615384h28.172043010752688v6.15384615384616h-28.172043010752688Z" fill="#c38edb"/>
+</svg>

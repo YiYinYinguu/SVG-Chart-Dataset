@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Transgender</text>
+<path aria-label="grown Customer Cotton: 314; interfaces whenever female: moderator" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,116.67005175958786,149.73908164596895L137.20243726690325,145.33213878509764A54,54,0,0,1,190.0,80.0Z" fill="#eecabb" stroke="black" stroke-width="4"/>
+<path aria-label="grown Customer Cotton: 254; interfaces whenever female: Security" role="graphics-symbol" aria-roledescription="arc mark"  d="M264.37561128380844,124.3424409833627A75,75,0,0,0,190.0,59.0L190.0,80.0A54,54,0,0,1,243.55044012434206,127.04655750802115Z" fill="#3bb0ab" stroke="black" stroke-width="4"/>
+<path aria-label="grown Customer Cotton: 539; interfaces whenever female: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.67005175958786,149.73908164596895A75,75,0,0,0,264.37561128380844,124.3424409833627L243.55044012434206,127.04655750802115A54,54,0,0,1,137.20243726690325,145.33213878509764Z" fill="#32db6a" stroke="black" stroke-width="4"/>
+<text aria-label="108,131,67,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.00063993947998" y="81.4306656295332" font-family="sans-serif" font-size="14px" fill="#eecabb" opacity="1">314</text>
+<text aria-label="238,260,56,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.40110952752974" y="70.38707085994267" font-family="sans-serif" font-size="14px" fill="#3bb0ab" opacity="1">254</text>
+<text aria-label="194,216,212,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="205.2508949420194" y="226.6984227789169" font-family="sans-serif" font-size="14px" fill="#32db6a" opacity="1">539</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#3bb0ab" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#32db6a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#eecabb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Security</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">moderator</text>
+</svg>

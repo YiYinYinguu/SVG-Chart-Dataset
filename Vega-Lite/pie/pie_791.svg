@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="322" height="239" viewBox="0 0 322 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">where</text>
+<path aria-label="solution bench: 538; Communications: Maryland" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.69320910544502,140.77676276184013A75,75,0,0,0,147.1789462106958,71.98438505863841L105.0,134.0Z" fill="#85dc54" stroke="white" stroke-width="0"/>
+<path aria-label="solution bench: 792; Communications: panel" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.00074254177933,133.66626250505553L105.0,134.0Z" fill="#7be5ea" stroke="white" stroke-width="0"/>
+<path aria-label="solution bench: 99; Communications: index" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.00074254177933,133.66626250505553A75,75,0,0,0,31.368778180627373,148.2633507068411L105.0,134.0Z" fill="#0ea335" stroke="white" stroke-width="0"/>
+<path aria-label="solution bench: 277; Communications: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.23297063565235,178.6876856460999A75,75,0,0,0,179.69320910544502,140.77676276184013L105.0,134.0Z" fill="#9df003" stroke="white" stroke-width="0"/>
+<path aria-label="solution bench: 500; Communications: aquaplane" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.368778180627373,148.2633507068411A75,75,0,0,0,76.44440811980046,203.35112235841234L105.0,134.0Z" fill="#ab8f7f" stroke="white" stroke-width="0"/>
+<path aria-label="solution bench: 669; Communications: Principal" role="graphics-symbol" aria-roledescription="arc mark"  d="M76.44440811980046,203.35112235841234A75,75,0,0,0,165.23297063565235,178.6876856460999L105.0,134.0Z" fill="#ed30bf" stroke="white" stroke-width="0"/>
+<path aria-label="solution bench: 295; Communications: Bespoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.3163893847653,71.40642230862295A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#18bc14" stroke="white" stroke-width="0"/>
+<path aria-label="solution bench: 7; Communications: Fork" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.1789462106958,71.98438505863841A75,75,0,0,0,146.3163893847653,71.40642230862295L105.0,134.0Z" fill="#63b9be" stroke="white" stroke-width="0"/>
+<text aria-label="179,193,89,98" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.36914089867264" y="97.54141306012451" font-family="sans-serif" font-size="8px" fill="#85dc54" opacity="1">538</text>
+<text aria-label="34,48,64,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="41.502140388254034" y="72.21895403235379" font-family="sans-serif" font-size="8px" fill="#7be5ea" opacity="1">792</text>
+<text aria-label="10,19,136,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.392667891891747" y="144.39797787965605" font-family="sans-serif" font-size="8px" fill="#0ea335" opacity="1">99</text>
+<text aria-label="182,195,160,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.09061980534307" y="168.07440819022614" font-family="sans-serif" font-size="8px" fill="#9df003" opacity="1">277</text>
+<text aria-label="28,42,184,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="35.34620833968607" y="192.9942918838508" font-family="sans-serif" font-size="8px" fill="#ab8f7f" opacity="1">500</text>
+<text aria-label="122,135,214,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="129.08789979845307" y="222.71662518398466" font-family="sans-serif" font-size="8px" fill="#ed30bf" opacity="1">669</text>
+<text aria-label="124,137,41,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.8833306331631" y="49.80224367575245" font-family="sans-serif" font-size="8px" fill="#18bc14" opacity="1">295</text>
+<text aria-label="152,157,53,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.09840155703642" y="61.23269323140005" font-family="sans-serif" font-size="8px" fill="#63b9be" opacity="1">7</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#18bc14" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#63b9be" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#85dc54" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#9df003" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#ed30bf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#ab8f7f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#0ea335" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#7be5ea" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bespoke</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Fork</text>
+<text aria-label="239,283,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Maryland</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="239,288,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Principal</text>
+<text aria-label="239,288,129,140" text-anchor="start" x="239.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">aquaplane</text>
+<text aria-label="239,266,145,156" text-anchor="start" x="239.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">index</text>
+<text aria-label="239,266,161,172" text-anchor="start" x="239.0" y="171.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">panel</text>
+<text aria-label="223,307,32,44" text-anchor="start" x="223.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Communications</text>
+</svg>

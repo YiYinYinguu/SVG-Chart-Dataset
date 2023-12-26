@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="316" height="286" viewBox="0 0 316 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="33,176,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Toys sticky</text>
+<path aria-label="Southeast: 142; Cargo: sint" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.77655487113708,117.77264397813367A75,75,0,0,0,41.69316237413739,174.21497618813999L67.85998859282726,157.59278603037546A44,44,0,0,1,62.04224552440042,124.47995113383843Z" fill="#aaf8de" stroke="black" stroke-width="4"/>
+<path aria-label="Southeast: 1; Cargo: red" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.69316237413739,174.21497618813999A75,75,0,0,0,41.91616321012435,174.5638944859629L67.99081574993963,157.79748476509823A44,44,0,0,1,67.85998859282726,157.59278603037546Z" fill="#e59bdf" stroke="black" stroke-width="4"/>
+<path aria-label="Southeast: 267; Cargo: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.06515834742444,165.49816215495812A75,75,0,0,0,142.91760430495216,69.29099534243264L127.24499452557193,96.03738393422715A44,44,0,0,1,144.93155956382233,152.47892179757542Z" fill="#1545c4" stroke="black" stroke-width="4"/>
+<path aria-label="Southeast: 387; Cargo: lux" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.91616321012435,174.5638944859629A75,75,0,0,0,173.06515834742444,165.49816215495812L144.93155956382233,152.47892179757542A44,44,0,0,1,67.99081574993963,157.79748476509823Z" fill="#1d18ce" stroke="black" stroke-width="4"/>
+<path aria-label="Southeast: 96; Cargo: Producer" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.91760430495216,69.29099534243264A75,75,0,0,0,105.0,59.0L105.0,90.0A44,44,0,0,1,127.24499452557193,96.03738393422715Z" fill="#9ae0b6" stroke="black" stroke-width="4"/>
+<path aria-label="Southeast: 245; Cargo: suddenly" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.77655487113708,117.77264397813367L62.04224552440042,124.47995113383843A44,44,0,0,1,104.99999999999999,90.0Z" fill="#3372cb" stroke="black" stroke-width="4"/>
+<text aria-label="10,22,144,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.357731353600784" y="151.57395933022786" font-family="monospace" font-size="7px" fill="#aaf8de" opacity="1">142</text>
+<text aria-label="27,31,177,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="29.16530638047159" y="184.4675070911663" font-family="monospace" font-size="7px" fill="#e59bdf" opacity="1">1</text>
+<text aria-label="184,196,102,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.88212487583382" y="109.08790928204044" font-family="monospace" font-size="7px" fill="#1545c4" opacity="1">267</text>
+<text aria-label="105,117,218,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.20647920938795" y="225.7857428316068" font-family="monospace" font-size="7px" fill="#1d18ce" opacity="1">387</text>
+<text aria-label="124,132,42,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.5735815796277" y="49.1421491659583" font-family="monospace" font-size="7px" fill="#9ae0b6" opacity="1">96</text>
+<text aria-label="42,54,58,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="48.66419633288951" y="65.81255649918013" font-family="monospace" font-size="7px" fill="#3372cb" opacity="1">245</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#9ae0b6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#1545c4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,274.25A5,5,0,1,1,125.0,274.25A5,5,0,1,1,135.0,274.25" fill="#1d18ce" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M177.0,274.25A5,5,0,1,1,167.0,274.25A5,5,0,1,1,177.0,274.25" fill="#e59bdf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M219.0,274.25A5,5,0,1,1,209.0,274.25A5,5,0,1,1,219.0,274.25" fill="#aaf8de" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,274.25A5,5,0,1,1,256.0,274.25A5,5,0,1,1,266.0,274.25" fill="#3372cb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Producer</text>
+<text aria-label="88,115,267,278" text-anchor="start" x="88.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="140,156,267,278" text-anchor="start" x="140.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">lux</text>
+<text aria-label="182,198,267,278" text-anchor="start" x="182.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">red</text>
+<text aria-label="224,246,267,278" text-anchor="start" x="224.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">sint</text>
+<text aria-label="271,315,267,278" text-anchor="start" x="271.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">suddenly</text>
+<text aria-label="5,35,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Cargo</text>
+</svg>

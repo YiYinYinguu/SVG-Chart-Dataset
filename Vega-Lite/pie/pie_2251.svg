@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="229,294,0,26" text-anchor="end" x="294.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Efren</text>
+<path aria-label="connecting: 335; Northeast ducimus frame: weber" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,151.11735683467188,195.53112151712446L172.27279412956707,165.17576823534307A38,38,0,0,1,194.0,96.0Z" fill="#beb28c" stroke="black" stroke-width="3"/>
+<path aria-label="connecting: 161; Northeast ducimus frame: less" role="graphics-symbol" aria-roledescription="arc mark"  d="M268.6785224628114,140.93673430162747A75,75,0,0,0,226.3586918479955,66.33970838160339L210.39507053631772,99.71878558001238A38,38,0,0,1,231.83711804782445,137.5146120461579Z" fill="#9dec5e" stroke="black" stroke-width="3"/>
+<path aria-label="connecting: 276; Northeast ducimus frame: transparent" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.11735683467188,195.53112151712446A75,75,0,0,0,268.6785224628114,140.93673430162747L231.83711804782445,137.5146120461579A38,38,0,0,1,172.27279412956707,165.17576823534307Z" fill="#b40eab" stroke="black" stroke-width="3"/>
+<path aria-label="connecting: 59; Northeast ducimus frame: Titanium" role="graphics-symbol" aria-roledescription="arc mark"  d="M226.3586918479955,66.33970838160339A75,75,0,0,0,194.0,59.0L194.0,96.0A38,38,0,0,1,210.39507053631772,99.71878558001238Z" fill="#787fc3" stroke="black" stroke-width="3"/>
+<text aria-label="101,114,101,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.1356851659275" y="109.03113947391773" font-family="Balto" font-size="8px" fill="#beb28c" opacity="1">335</text>
+<text aria-label="265,279,83,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="272.280299874687" y="91.5906017657402" font-family="Balto" font-size="8px" fill="#9dec5e" opacity="1">161</text>
+<text aria-label="225,238,209,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="231.9071104156578" y="217.6275136209301" font-family="Balto" font-size="8px" fill="#b40eab" opacity="1">276</text>
+<text aria-label="209,218,40,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="213.90839653529594" y="48.22952804391777" font-family="Balto" font-size="8px" fill="#787fc3" opacity="1">59</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#787fc3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#9dec5e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#b40eab" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#beb28c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Titanium</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">less</text>
+<text aria-label="21,81,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">transparent</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">weber</text>
+</svg>

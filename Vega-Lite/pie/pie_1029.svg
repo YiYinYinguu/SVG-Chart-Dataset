@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="320" height="239" viewBox="0 0 320 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="224,315,0,26" text-anchor="end" x="315.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Liaison</text>
+<path aria-label="stand: 117; Modern XML Trans: Covina" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.33931640466807,84.49362235979387A75,75,0,0,0,105.0,59.0L105.0,82.0A52,52,0,0,1,144.06192604056986,99.67557816945708Z" fill="#e53cdc" stroke="white" stroke-width="1"/>
+<path aria-label="stand: 190; Modern XML Trans: ivory" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.035735688853592,131.6850321193198A75,75,0,0,0,88.51965424849128,207.16692014777394L93.57362694562062,184.72906463578994A52,52,0,0,1,53.024776744271826,132.39495560272837Z" fill="#b37da2" stroke="white" stroke-width="1"/>
+<path aria-label="stand: 194; Modern XML Trans: Jayme" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.92715266035506,181.6386920964873A75,75,0,0,0,161.33931640466807,84.49362235979387L144.06192604056986,99.67557816945708A52,52,0,0,1,145.16282584451284,167.02949318689787Z" fill="#1cecba" stroke="white" stroke-width="1"/>
+<path aria-label="stand: 196; Modern XML Trans: lux" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.30305191218264,59.505952627355455A75,75,0,0,0,30.035735688853592,131.6850321193198L53.024776744271826,132.39495560272837A52,52,0,0,1,98.97011599244664,82.35079382163312Z" fill="#2737fa" stroke="white" stroke-width="1"/>
+<path aria-label="stand: 16; Modern XML Trans: markets" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,96.30305191218264,59.505952627355455L98.97011599244664,82.35079382163312A52,52,0,0,1,104.99999999999999,82.0Z" fill="#e81cc5" stroke="white" stroke-width="1"/>
+<path aria-label="stand: 152; Modern XML Trans: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M88.51965424849128,207.16692014777394A75,75,0,0,0,162.92715266035506,181.6386920964873L145.16282584451284,167.02949318689787A52,52,0,0,1,93.57362694562062,184.72906463578994Z" fill="#6b21bd" stroke="white" stroke-width="1"/>
+<text aria-label="132,151,44,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.10330992551567" y="56.00399770372259" font-family="serif" font-size="12px" fill="#e53cdc" opacity="1">117</text>
+<text aria-label="24,43,181,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.85600821751416" y="193.12288484153916" font-family="serif" font-size="12px" fill="#b37da2" opacity="1">190</text>
+<text aria-label="185,204,124,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.98798025083443" y="136.529146378652" font-family="serif" font-size="12px" fill="#1cecba" opacity="1">194</text>
+<text aria-label="28,48,65,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="38.70334494490797" y="77.1333134752175" font-family="serif" font-size="12px" fill="#2737fa" opacity="1">196</text>
+<text aria-label="93,106,36,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.77300833392721" y="48.151913998556395" font-family="serif" font-size="12px" fill="#e81cc5" opacity="1">16</text>
+<text aria-label="124,143,211,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="134.20668010808436" y="223.1291362405612" font-family="serif" font-size="12px" fill="#6b21bd" opacity="1">152</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#e53cdc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#1cecba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#6b21bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#b37da2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#2737fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#e81cc5" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Covina</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Jayme</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">ivory</text>
+<text aria-label="239,255,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">lux</text>
+<text aria-label="239,277,129,140" text-anchor="start" x="239.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">markets</text>
+<text aria-label="223,319,32,44" text-anchor="start" x="223.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Modern XML Trans</text>
+</svg>

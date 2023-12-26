@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="356" height="270" viewBox="0 0 356 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="247,351,0,26" text-anchor="end" x="351.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Tricycle</text>
+<path aria-label="Cambridgeshire: 59; Hatchback: Cloned" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.45279208747021,176.9948176488069A75,75,0,0,0,178.41762476856627,149.32489390964932L105.0,134.0Z" fill="#4bba86" stroke="black" stroke-width="0"/>
+<path aria-label="Cambridgeshire: 309; Hatchback: esse" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.70784733856625,97.09559916709078A75,75,0,0,0,107.57176047523993,208.95589401813572L105.0,134.0Z" fill="#2fec58" stroke="black" stroke-width="0"/>
+<path aria-label="Cambridgeshire: 154; Hatchback: transmitting" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,39.70784733856625,97.09559916709078L105.0,134.0Z" fill="#ff83e6" stroke="black" stroke-width="0"/>
+<path aria-label="Cambridgeshire: 67; Hatchback: Recycled" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.0052297995603,199.79227482828705A75,75,0,0,0,166.45279208747021,176.9948176488069L105.0,134.0Z" fill="#97cf70" stroke="black" stroke-width="0"/>
+<path aria-label="Cambridgeshire: 259; Hatchback: Cargo" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.41762476856627,149.32489390964932A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#1fcc53" stroke="black" stroke-width="0"/>
+<path aria-label="Cambridgeshire: 68; Hatchback: SCSI" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.57176047523993,208.95589401813572A75,75,0,0,0,141.0052297995603,199.79227482828705L105.0,134.0Z" fill="#bccdcf" stroke="black" stroke-width="0"/>
+<text aria-label="181,193,161,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.60772026968584" y="172.72064601662933" font-family="monospace" font-size="11px" fill="#4bba86" opacity="1">59</text>
+<text aria-label="19,37,172,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="28.053483914767355" y="183.6822628237432" font-family="monospace" font-size="11px" fill="#2fec58" opacity="1">309</text>
+<text aria-label="50,68,48,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="59.64404829547832" y="59.26430906605964" font-family="monospace" font-size="11px" fill="#ff83e6" opacity="1">154</text>
+<text aria-label="159,171,193,205" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.05334653650812" y="204.03428652388317" font-family="monospace" font-size="11px" fill="#97cf70" opacity="1">67</text>
+<text aria-label="165,183,69,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.83941774614865" y="80.23332202005355" font-family="monospace" font-size="11px" fill="#1fcc53" opacity="1">259</text>
+<text aria-label="122,134,212,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.79025418768566" y="223.7987546321104" font-family="monospace" font-size="11px" fill="#bccdcf" opacity="1">68</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#1fcc53" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,258.25A5,5,0,1,1,58.0,258.25A5,5,0,1,1,68.0,258.25" fill="#4bba86" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,258.25A5,5,0,1,1,115.0,258.25A5,5,0,1,1,125.0,258.25" fill="#97cf70" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,258.25A5,5,0,1,1,182.0,258.25A5,5,0,1,1,192.0,258.25" fill="#bccdcf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,258.25A5,5,0,1,1,229.0,258.25A5,5,0,1,1,239.0,258.25" fill="#2fec58" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M286.0,258.25A5,5,0,1,1,276.0,258.25A5,5,0,1,1,286.0,258.25" fill="#ff83e6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cargo</text>
+<text aria-label="73,106,251,262" text-anchor="start" x="73.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cloned</text>
+<text aria-label="130,174,251,262" text-anchor="start" x="130.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Recycled</text>
+<text aria-label="197,219,251,262" text-anchor="start" x="197.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">SCSI</text>
+<text aria-label="244,266,251,262" text-anchor="start" x="244.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">esse</text>
+<text aria-label="291,357,251,262" text-anchor="start" x="291.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">transmitting</text>
+</svg>

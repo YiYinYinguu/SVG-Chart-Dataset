@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="79,131,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">male</text>
+<path aria-label="Applications primary: 199; Coordinator: Peso" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.43151764188906,204.90910340509225A75,75,0,0,0,105.0,59.0L105.0,78.0A56,56,0,0,1,123.24219983927718,186.9454638758022Z" fill="#4ba1bc" stroke="black" stroke-width="0"/>
+<path aria-label="Applications primary: 28; Coordinator: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M100.23786850361923,208.84866133479727A75,75,0,0,0,129.43151764188906,204.90910340509225L123.24219983927718,186.9454638758022A56,56,0,0,1,101.44427514936902,189.8870004633153Z" fill="#a261fd" stroke="black" stroke-width="0"/>
+<path aria-label="Applications primary: 218; Coordinator: tesla" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,100.23786850361923,208.84866133479727L101.44427514936902,189.8870004633153A56,56,0,0,1,104.99999999999999,78.0Z" fill="#384f3c" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#4ba1bc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M66.0,258.25A5,5,0,1,1,56.0,258.25A5,5,0,1,1,66.0,258.25" fill="#a261fd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M122.0,258.25A5,5,0,1,1,112.0,258.25A5,5,0,1,1,122.0,258.25" fill="#384f3c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Peso</text>
+<text aria-label="71,98,251,262" text-anchor="start" x="71.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="127,154,251,262" text-anchor="start" x="127.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">tesla</text>
+</svg>

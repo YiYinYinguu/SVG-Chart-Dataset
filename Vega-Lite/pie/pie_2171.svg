@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,239,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Operations invoice</text>
+<path aria-label="Bicycle matrices: 130; Developer: Fundamental" role="graphics-symbol" aria-roledescription="arc mark"  d="M216.50634762502554,62.45655643889157A75,75,0,0,0,194.0,59.0L194.0,92.0A42,42,0,0,1,206.60355467001432,93.93567160577928Z" fill="#fdcc49" stroke="black" stroke-width="1"/>
+<path aria-label="Bicycle matrices: 639; Developer: transmitter" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,119.19799472825176,128.55389980579244L152.11087704782096,130.95018389124377A42,42,0,0,1,194.0,92.0Z" fill="#e0baa1" stroke="black" stroke-width="1"/>
+<path aria-label="Bicycle matrices: 287; Developer: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.1887409333305,92.07673079151502A75,75,0,0,0,216.50634762502554,62.45655643889157L206.60355467001432,93.93567160577928A42,42,0,0,1,228.82569492266506,110.52296924324841Z" fill="#ae2df7" stroke="black" stroke-width="1"/>
+<path aria-label="Bicycle matrices: 355; Developer: bypassing" role="graphics-symbol" aria-roledescription="arc mark"  d="M266.86572125807334,151.76475909042296A75,75,0,0,0,256.1887409333305,92.07673079151502L228.82569492266506,110.52296924324841A42,42,0,0,1,234.80480390452107,143.94826509063685Z" fill="#acf5fe" stroke="black" stroke-width="1"/>
+<path aria-label="Bicycle matrices: 243; Developer: kiddingly" role="graphics-symbol" aria-roledescription="arc mark"  d="M245.77520412130977,188.26166453580933A75,75,0,0,0,266.86572125807334,151.76475909042296L234.80480390452107,143.94826509063685A42,42,0,0,1,222.99411430793347,164.38653214005322Z" fill="#ce16ca" stroke="black" stroke-width="1"/>
+<path aria-label="Bicycle matrices: 199; Developer: rearrange" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.19799472825176,128.55389980579244A75,75,0,0,0,124.74272731065625,162.78246305710962L155.2159272939675,150.11817931198138A42,42,0,0,1,152.11087704782096,130.95018389124377Z" fill="#86d74a" stroke="black" stroke-width="1"/>
+<path aria-label="Bicycle matrices: 827; Developer: magenta" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.74272731065625,162.78246305710962A75,75,0,0,0,245.77520412130977,188.26166453580933L222.99411430793347,164.38653214005322A42,42,0,0,1,155.2159272939675,150.11817931198138Z" fill="#17facc" stroke="black" stroke-width="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fdcc49" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ae2df7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#acf5fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#ce16ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#17facc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#86d74a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#e0baa1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Fundamental</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">bypassing</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">kiddingly</text>
+<text aria-label="21,59,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">magenta</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">rearrange</text>
+<text aria-label="21,81,145,156" text-anchor="start" x="21.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">transmitter</text>
+<text aria-label="5,59,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Developer</text>
+</svg>

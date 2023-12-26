@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="636" height="371" viewBox="0 0 636 371" style="background-color: rgb(255, 255, 255);">
+<line x1="131.5" y1="44.5" x2="131.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="274.5" y1="44.5" x2="274.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="416.5" y1="44.5" x2="416.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="559.5" y1="44.5" x2="559.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="117,137,251,361" text-anchor="end" x="131.375" y="251.5" transform="rotate(270.0, 137.375, 251.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">cornerstone</text>
+<text aria-label="260,280,251,301" text-anchor="end" x="274.125" y="251.5" transform="rotate(270.0, 280.125, 251.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">crust</text>
+<text aria-label="402,422,251,311" text-anchor="end" x="416.875" y="251.5" transform="rotate(270.0, 422.875, 251.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">pirate</text>
+<text aria-label="545,565,251,311" text-anchor="end" x="559.625" y="251.5" transform="rotate(270.0, 565.625, 251.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">rowing</text>
+<line aria-label="131,131,244,249" x1="131.5" y1="244.5" x2="131.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="274,274,244,249" x1="274.5" y1="244.5" x2="274.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="416,416,244,249" x1="416.5" y1="244.5" x2="416.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="559,559,244,249" x1="559.5" y1="244.5" x2="559.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="60,631,244,244" x1="60.5" y1="244.5" x2="631.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="280,631,0,26" text-anchor="end" x="631.0" y="25.115611111111107" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Granite Coordinator Agender</text>
+<text aria-label="48,58,231,251" text-anchor="end" x="58.5" y="250.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="28,58,175,195" text-anchor="end" x="58.5" y="194.94444444444443" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="8,58,120,140" text-anchor="end" x="58.5" y="139.38888888888889" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="8,58,64,84" text-anchor="end" x="58.5" y="83.83333333333333" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<path aria-label="VGA: crust; Northeast labore: 300; generating: concept layout Iran" role="graphics-symbol" aria-roledescription="bar" d="M235.58249999999998,130.11111111111111h77.08500000000001v33.33333333333333h-77.08500000000001Z" fill="#aeace6"/>
+<path aria-label="VGA: crust; Northeast labore: 416; generating: Rubber" role="graphics-symbol" aria-roledescription="bar" d="M235.58249999999998,83.88888888888889h77.08500000000001v46.22222222222223h-77.08500000000001Z" fill="#a51dac"/>
+<path aria-label="VGA: crust; Northeast labore: 725; generating: vortals Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M235.58249999999998,163.44444444444446h77.08500000000001v80.55555555555556h-77.08500000000001Z" fill="#fc3acb"/>
+<path aria-label="VGA: cornerstone; Northeast labore: 64; generating: concept layout Iran" role="graphics-symbol" aria-roledescription="bar" d="M92.83249999999998,165.88888888888889h77.08500000000001v7.111111111111114h-77.08500000000001Z" fill="#aeace6"/>
+<path aria-label="VGA: cornerstone; Northeast labore: 289; generating: Rubber" role="graphics-symbol" aria-roledescription="bar" d="M92.83249999999998,133.77777777777777h77.08500000000001v32.111111111111114h-77.08500000000001Z" fill="#a51dac"/>
+<path aria-label="VGA: cornerstone; Northeast labore: 639; generating: vortals Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M92.83249999999998,173.0h77.08500000000001v71h-77.08500000000001Z" fill="#fc3acb"/>
+<path aria-label="VGA: rowing; Northeast labore: 607; generating: concept layout Iran" role="graphics-symbol" aria-roledescription="bar" d="M521.0825,107.22222222222223h77.08500000000001v67.44444444444443h-77.08500000000001Z" fill="#aeace6"/>
+<path aria-label="VGA: rowing; Northeast labore: 568; generating: Rubber" role="graphics-symbol" aria-roledescription="bar" d="M521.0825,44.11111111111111h77.08500000000001v63.111111111111114h-77.08500000000001Z" fill="#a51dac"/>
+<path aria-label="VGA: rowing; Northeast labore: 624; generating: vortals Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M521.0825,174.66666666666666h77.08500000000001v69.33333333333334h-77.08500000000001Z" fill="#fc3acb"/>
+<path aria-label="VGA: pirate; Northeast labore: 143; generating: concept layout Iran" role="graphics-symbol" aria-roledescription="bar" d="M378.3325,148.0h77.08500000000001v15.888888888888886h-77.08500000000001Z" fill="#aeace6"/>
+<path aria-label="VGA: pirate; Northeast labore: 239; generating: Rubber" role="graphics-symbol" aria-roledescription="bar" d="M378.3325,121.44444444444444h77.08500000000001v26.555555555555557h-77.08500000000001Z" fill="#a51dac"/>
+<path aria-label="VGA: pirate; Northeast labore: 721; generating: vortals Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M378.3325,163.88888888888889h77.08500000000001v80.11111111111111h-77.08500000000001Z" fill="#fc3acb"/>
+<text aria-label="266,281,118,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="274.125" y="127.11561111111112" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">300</text>
+<text aria-label="266,281,72,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="274.125" y="80.8933888888889" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">416</text>
+<text aria-label="266,281,151,161" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="274.125" y="160.44894444444446" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">725</text>
+<text aria-label="126,136,154,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.375" y="162.8933888888889" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">64</text>
+<text aria-label="124,138,122,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.375" y="130.78227777777778" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">289</text>
+<text aria-label="124,138,161,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.375" y="170.0045" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">639</text>
+<text aria-label="552,566,95,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="559.625" y="104.22672222222222" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">607</text>
+<text aria-label="552,566,32,42" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="559.625" y="41.11561111111111" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">568</text>
+<text aria-label="552,566,163,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="559.625" y="171.67116666666666" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">624</text>
+<text aria-label="409,424,136,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="416.875" y="145.0045" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">143</text>
+<text aria-label="409,424,109,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="416.875" y="118.44894444444445" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">239</text>
+<text aria-label="409,424,152,161" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="416.875" y="160.8933888888889" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">721</text>
+</svg>

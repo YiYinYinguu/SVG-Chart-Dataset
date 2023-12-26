@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="237" height="286" viewBox="0 0 237 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="128,232,0,26" text-anchor="end" x="232.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Chlorine</text>
+<path aria-label="Branding: 285; adipisci: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.41266222077866,130.4585628854314A75,75,0,0,0,105.0,106.0L105.0,139.0A42,42,0,0,1,136.03109084363604,152.6967952158416Z" fill="#9a71eb" stroke="white" stroke-width="3"/>
+<path aria-label="Branding: 741; adipisci: Web" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.11635742010078,255.17160236713624A75,75,0,0,0,160.41266222077866,130.4585628854314L136.03109084363604,152.6967952158416A42,42,0,0,1,111.22516015525643,222.5360973255963Z" fill="#9fcad4" stroke="white" stroke-width="3"/>
+<path aria-label="Branding: 424; adipisci: redundant" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.571256740494206,215.81697960712074A75,75,0,0,0,116.11635742010078,255.17160236713624L111.22516015525643,222.5360973255963A42,42,0,0,1,67.79990377467675,200.49750857998762Z" fill="#a4fd3b" stroke="white" stroke-width="3"/>
+<path aria-label="Branding: 704; adipisci: strategic" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,38.571256740494206,215.81697960712074L67.79990377467675,200.49750857998762A42,42,0,0,1,104.99999999999999,139.0Z" fill="#c4efbe" stroke="white" stroke-width="3"/>
+<text aria-label="132,150,90,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.34229486168005" y="101.6638742459502" font-family="serif" font-size="11px" fill="#9a71eb" opacity="1">285</text>
+<text aria-label="180,198,203,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.8092150748434" y="214.12303169319046" font-family="serif" font-size="11px" fill="#9fcad4" opacity="1">741</text>
+<text aria-label="55,73,253,265" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="64.26956065129025" y="264.2560359752528" font-family="serif" font-size="11px" fill="#a4fd3b" opacity="1">424</text>
+<text aria-label="18,36,126,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="27.992747752016726" y="137.41799595105988" font-family="serif" font-size="11px" fill="#c4efbe" opacity="1">704</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#9a71eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,56.25A5,5,0,1,1,58.0,56.25A5,5,0,1,1,68.0,56.25" fill="#9fcad4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M110.0,56.25A5,5,0,1,1,100.0,56.25A5,5,0,1,1,110.0,56.25" fill="#a4fd3b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M182.0,56.25A5,5,0,1,1,172.0,56.25A5,5,0,1,1,182.0,56.25" fill="#c4efbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="73,89,49,60" text-anchor="start" x="73.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Web</text>
+<text aria-label="115,164,49,60" text-anchor="start" x="115.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">redundant</text>
+<text aria-label="187,236,49,60" text-anchor="start" x="187.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">strategic</text>
+<text aria-label="5,53,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">adipisci</text>
+</svg>

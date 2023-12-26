@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="405" height="286" viewBox="0 0 405 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="205,400,0,26" text-anchor="end" x="400.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">calculating RSS</text>
+<path aria-label="Smart scalable Silver: 500; Southwest District: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.29785463513167,242.23965858816496A75,75,0,0,0,170.4586685183159,144.39176710343372L105.0,181.0Z" fill="#babf5e" stroke="black" stroke-width="1"/>
+<path aria-label="Smart scalable Silver: 479; Southwest District: Celsius" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.81180135333191,233.87736306513946A75,75,0,0,0,148.29785463513167,242.23965858816496L105.0,181.0Z" fill="#b21b65" stroke="black" stroke-width="1"/>
+<path aria-label="Smart scalable Silver: 292; Southwest District: Silver" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.201199634127676,175.51005793961554A75,75,0,0,0,51.81180135333191,233.87736306513946L105.0,181.0Z" fill="#23ecea" stroke="black" stroke-width="1"/>
+<path aria-label="Smart scalable Silver: 362; Southwest District: Administrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.4586685183159,144.39176710343372A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#3fc9ac" stroke="black" stroke-width="1"/>
+<path aria-label="Smart scalable Silver: 52; Southwest District: fortunately" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,93.61488399451133,106.86917555064178L105.0,181.0Z" fill="#95ff08" stroke="black" stroke-width="1"/>
+<path aria-label="Smart scalable Silver: 459; Southwest District: Tactics" role="graphics-symbol" aria-roledescription="arc mark"  d="M93.61488399451133,106.86917555064178A75,75,0,0,0,30.201199634127676,175.51005793961554L105.0,181.0Z" fill="#caabaa" stroke="black" stroke-width="1"/>
+<text aria-label="183,201,192,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.77692652808187" y="203.87991874439422" font-family="sans-serif" font-size="11px" fill="#babf5e" opacity="1">500</text>
+<text aria-label="88,106,262,274" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="97.22897170323382" y="273.6638785643966" font-family="sans-serif" font-size="11px" fill="#b21b65" opacity="1">479</text>
+<text aria-label="11,29,204,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.599353553502127" y="215.24949406651675" font-family="sans-serif" font-size="11px" fill="#23ecea" opacity="1">292</text>
+<text aria-label="141,159,95,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.53191653758296" y="106.36724546678393" font-family="sans-serif" font-size="11px" fill="#3fc9ac" opacity="1">362</text>
+<text aria-label="92,104,83,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="98.14905263962301" y="94.26113149662882" font-family="sans-serif" font-size="11px" fill="#95ff08" opacity="1">52</text>
+<text aria-label="29,47,111,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="38.89307340794491" y="122.92730351005747" font-family="sans-serif" font-size="11px" fill="#caabaa" opacity="1">459</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#3fc9ac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M109.0,56.25A5,5,0,1,1,99.0,56.25A5,5,0,1,1,109.0,56.25" fill="#babf5e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M169.0,56.25A5,5,0,1,1,159.0,56.25A5,5,0,1,1,169.0,56.25" fill="#b21b65" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M230.0,56.25A5,5,0,1,1,220.0,56.25A5,5,0,1,1,230.0,56.25" fill="#23ecea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M283.0,56.25A5,5,0,1,1,273.0,56.25A5,5,0,1,1,283.0,56.25" fill="#caabaa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M342.0,56.25A5,5,0,1,1,332.0,56.25A5,5,0,1,1,342.0,56.25" fill="#95ff08" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,92,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Administrator</text>
+<text aria-label="114,152,49,60" text-anchor="start" x="114.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="174,212,49,60" text-anchor="start" x="174.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Celsius</text>
+<text aria-label="235,268,49,60" text-anchor="start" x="235.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Silver</text>
+<text aria-label="288,326,49,60" text-anchor="start" x="288.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Tactics</text>
+<text aria-label="347,407,49,60" text-anchor="start" x="347.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">fortunately</text>
+<text aria-label="5,113,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Southwest District</text>
+</svg>

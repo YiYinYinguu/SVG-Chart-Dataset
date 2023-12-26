@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="377" height="286" viewBox="0 0 377 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="85,124,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">rem</text>
+<path aria-label="District: 285; churn withdrawal: Kansas" role="graphics-symbol" aria-roledescription="arc mark"  d="M58.47563787122675,192.82587635140482A75,75,0,0,0,107.39822294345441,208.9616470384255L106.15114701285812,169.98159057844424A36,36,0,0,1,82.66830617818884,162.2364206486743Z" fill="#9bfe9c" stroke="black" stroke-width="2"/>
+<path aria-label="District: 478; churn withdrawal: Copper" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.39822294345441,208.9616470384255A75,75,0,0,0,175.1161473023693,160.62190615775756L138.65575070513728,146.77851495572364A36,36,0,0,1,106.15114701285812,169.98159057844424Z" fill="#1d5d3a" stroke="black" stroke-width="2"/>
+<path aria-label="District: 70; churn withdrawal: Porsche" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,92.14803385666967,60.109358060369445L98.83105625120145,98.53249186897733A36,36,0,0,1,105.0,98.0Z" fill="#05dace" stroke="black" stroke-width="2"/>
+<path aria-label="District: 935; churn withdrawal: Montenegro" role="graphics-symbol" aria-roledescription="arc mark"  d="M92.14803385666967,60.109358060369445A75,75,0,0,0,58.47563787122675,192.82587635140482L82.66830617818884,162.2364206486743A36,36,0,0,1,98.83105625120145,98.53249186897733Z" fill="#dc8cbd" stroke="black" stroke-width="2"/>
+<path aria-label="District: 786; churn withdrawal: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.1161473023693,160.62190615775756A75,75,0,0,0,105.0,59.0L105.0,98.0A36,36,0,0,1,138.65575070513728,146.77851495572364Z" fill="#1a807b" stroke="black" stroke-width="2"/>
+<text aria-label="67,85,211,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="76.80970855376182" y="222.4710914179534" font-family="sans-serif" font-size="11px" fill="#9bfe9c" opacity="1">285</text>
+<text aria-label="148,166,199,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.2898001392343" y="210.25146279357796" font-family="sans-serif" font-size="11px" fill="#1d5d3a" opacity="1">478</text>
+<text aria-label="91,103,36,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="97.26014630241954" y="47.33342504176905" font-family="sans-serif" font-size="11px" fill="#05dace" opacity="1">70</text>
+<text aria-label="8,26,103,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.76399750622636" y="114.86677002996807" font-family="sans-serif" font-size="11px" fill="#dc8cbd" opacity="1">935</text>
+<text aria-label="170,188,74,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.0782217154199" y="85.88819052820482" font-family="sans-serif" font-size="11px" fill="#1a807b" opacity="1">786</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#1a807b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M119.0,274.25A5,5,0,1,1,109.0,274.25A5,5,0,1,1,119.0,274.25" fill="#1d5d3a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M182.0,274.25A5,5,0,1,1,172.0,274.25A5,5,0,1,1,182.0,274.25" fill="#9bfe9c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M242.0,274.25A5,5,0,1,1,232.0,274.25A5,5,0,1,1,242.0,274.25" fill="#dc8cbd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M329.0,274.25A5,5,0,1,1,319.0,274.25A5,5,0,1,1,329.0,274.25" fill="#05dace" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,267,278" text-anchor="start" x="21.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="124,157,267,278" text-anchor="start" x="124.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Copper</text>
+<text aria-label="187,220,267,278" text-anchor="start" x="187.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Kansas</text>
+<text aria-label="247,302,267,278" text-anchor="start" x="247.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Montenegro</text>
+<text aria-label="334,372,267,278" text-anchor="start" x="334.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Porsche</text>
+<text aria-label="5,101,250,262" text-anchor="start" x="5.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">churn withdrawal</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="897" height="409" viewBox="0 0 897 409" style="background-color: rgb(255, 255, 255);">
+<line x1="125.5" y1="49.5" x2="125.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="265.5" y1="49.5" x2="265.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="404.5" y1="49.5" x2="404.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="543.5" y1="49.5" x2="543.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="683.5" y1="49.5" x2="683.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="822.5" y1="49.5" x2="822.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="56.5" y1="249.5" x2="892.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="56.5" y1="187.5" x2="892.5" y2="187.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="56.5" y1="124.5" x2="892.5" y2="124.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="56.5" y1="62.5" x2="892.5" y2="62.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="111,131,256,286" text-anchor="end" x="125.66666666666664" y="256.5" transform="rotate(270.0, 131.66666666666663, 256.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">dip</text>
+<text aria-label="251,271,256,376" text-anchor="end" x="265.0" y="256.5" transform="rotate(270.0, 271.0, 256.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">disagreement</text>
+<text aria-label="390,410,256,296" text-anchor="end" x="404.3333333333333" y="256.5" transform="rotate(270.0, 410.3333333333333, 256.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">flat</text>
+<text aria-label="529,549,256,306" text-anchor="end" x="543.6666666666666" y="256.5" transform="rotate(270.0, 549.6666666666666, 256.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">omega</text>
+<text aria-label="669,689,256,316" text-anchor="end" x="683.0" y="256.5" transform="rotate(270.0, 689.0, 256.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">prince</text>
+<text aria-label="808,828,256,326" text-anchor="end" x="822.3333333333335" y="256.5" transform="rotate(270.0, 828.3333333333335, 256.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">trooper</text>
+<line aria-label="125,125,249,254" x1="125.5" y1="249.5" x2="125.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="265,265,249,254" x1="265.5" y1="249.5" x2="265.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="404,404,249,254" x1="404.5" y1="249.5" x2="404.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="543,543,249,254" x1="543.5" y1="249.5" x2="543.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="683,683,249,254" x1="683.5" y1="249.5" x2="683.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="822,822,249,254" x1="822.5" y1="249.5" x2="822.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,892,249,249" x1="56.5" y1="249.5" x2="892.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,135,0,26" text-anchor="start" x="5.5" y="25.222" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Hutchinson</text>
+<text aria-label="39,49,236,256" text-anchor="end" x="49.5" y="255.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="29,49,174,194" text-anchor="end" x="49.5" y="193.0" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="19,49,111,131" text-anchor="end" x="49.5" y="130.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,49,49,69" text-anchor="end" x="49.5" y="68.0" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="51,56,249,249" x1="56.5" y1="249.5" x2="51.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,187,187" x1="56.5" y1="187.5" x2="51.5" y2="187.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,124,124" x1="56.5" y1="124.5" x2="51.5" y2="124.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,62,62" x1="56.5" y1="62.5" x2="51.5" y2="62.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,71,227" text-anchor="middle" x="17.0" y="149.5" transform="rotate(-90.0, 15.0, 149.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">benchmark Granite likewise</text>
+<line aria-label="56,56,49,249" x1="56.5" y1="249.5" x2="56.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Tamiami: prince; benchmark Granite likewise: 82; Strategist orchid: Bicycle Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M651.65,146.5h62.7v102.49999999999999h-62.7Z" fill="#09112b"/>
+<path aria-label="Tamiami: omega; benchmark Granite likewise: 149; Strategist orchid: Bicycle Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M512.3166666666666,62.75h62.7v186.25h-62.7Z" fill="#09112b"/>
+<path aria-label="Tamiami: disagreement; benchmark Granite likewise: 160; Strategist orchid: Bicycle Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M233.64999999999998,49.0h62.7v200h-62.7Z" fill="#09112b"/>
+<path aria-label="Tamiami: dip; benchmark Granite likewise: 68; Strategist orchid: Bicycle Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M94.31666666666663,164.0h62.7v85.00000000000001h-62.7Z" fill="#09112b"/>
+<path aria-label="Tamiami: trooper; benchmark Granite likewise: 135; Strategist orchid: Bicycle Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M790.9833333333335,80.25h62.7v168.75h-62.7Z" fill="#09112b"/>
+<path aria-label="Tamiami: flat; benchmark Granite likewise: 50; Strategist orchid: Bicycle Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M372.98333333333335,186.5h62.7v62.5h-62.7Z" fill="#09112b"/>
+<text aria-label="676,689,129,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="683.0" y="141.722" font-family="serif" font-size="12.54px" fill="#000" opacity="1">82</text>
+<text aria-label="533,553,45,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="543.6666666666666" y="57.971999999999994" font-family="serif" font-size="12.54px" fill="#000" opacity="1">149</text>
+<text aria-label="254,275,31,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="265.0" y="44.222" font-family="serif" font-size="12.54px" fill="#000" opacity="1">160</text>
+<text aria-label="118,132,146,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="125.66666666666664" y="159.22199999999998" font-family="serif" font-size="12.54px" fill="#000" opacity="1">68</text>
+<text aria-label="812,832,62,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="822.3333333333335" y="75.47200000000001" font-family="serif" font-size="12.54px" fill="#000" opacity="1">135</text>
+<text aria-label="397,411,169,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="404.3333333333333" y="181.722" font-family="serif" font-size="12.54px" fill="#000" opacity="1">50</text>
+<path  d="M57.0,394.0h10v10h-10Z" fill="#09112b" stroke-width="1.5" opacity="1"/>
+<text aria-label="72,198,392,403" text-anchor="start" x="72.0" y="402.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bicycle Buckinghamshire</text>
+</svg>

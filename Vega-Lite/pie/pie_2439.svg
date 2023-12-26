@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="142,246,0,26" text-anchor="middle" x="194.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">discrete</text>
+<path aria-label="Tunisian: 87; Realigned: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M260.1578089960151,98.67091412381593A75,75,0,0,0,194.0,59.0L194.0,134.0Z" fill="#6ddbfa" stroke="black" stroke-width="2"/>
+<path aria-label="Tunisian: 205; Realigned: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,151.89768091492246,196.0676624955243L194.0,134.0Z" fill="#e8feb9" stroke="black" stroke-width="2"/>
+<path aria-label="Tunisian: 214; Realigned: comfortable" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.89768091492246,196.0676624955243A75,75,0,0,0,260.1578089960151,98.67091412381593L194.0,134.0Z" fill="#7bad0b" stroke="black" stroke-width="2"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#6ddbfa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#7bad0b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#e8feb9" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="21,81,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">comfortable</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">female</text>
+</svg>

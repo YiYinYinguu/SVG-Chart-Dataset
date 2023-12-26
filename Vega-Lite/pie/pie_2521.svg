@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="133,224,0,26" text-anchor="middle" x="179.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">contend</text>
+<path aria-label="Electric morph: 386; red: Honduras" role="graphics-symbol" aria-roledescription="arc mark"  d="M218.5828661785748,197.7039771528359A75,75,0,0,0,179.0,59.0L179.0,100.0A34,34,0,0,1,196.94423266762058,162.87913630928563Z" fill="#3bba4c" stroke="black" stroke-width="0"/>
+<path aria-label="Electric morph: 279; red: nail" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.0,59.0A75,75,0,0,0,107.30740404504955,156.026613113237L146.49935650042246,143.98539794466743A34,34,0,0,1,179.0,100.0Z" fill="#f61d45" stroke="black" stroke-width="0"/>
+<path aria-label="Electric morph: 273; red: Rap" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.30740404504955,156.026613113237A75,75,0,0,0,218.5828661785748,197.7039771528359L196.94423266762058,162.87913630928563A34,34,0,0,1,146.49935650042246,143.98539794466743Z" fill="#8016c5" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#3bba4c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#8016c5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f61d45" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Honduras</text>
+<text aria-label="21,37,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Rap</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">nail</text>
+<text aria-label="5,23,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">red</text>
+</svg>

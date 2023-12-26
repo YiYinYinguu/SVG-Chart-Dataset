@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Forward</text>
+<path aria-label="global: 12; Agent withdrawal becquerel: Operative" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.82070999132836,147.24774608664407A75,75,0,0,0,171.59139138017815,99.4951221701636L105.0,134.0Z" fill="#085c7a" stroke="black" stroke-width="0"/>
+<path aria-label="global: 30; Agent withdrawal becquerel: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.82084087329073,59.447324957584726A75,75,0,0,0,31.17929000867163,147.24774608664404L105.0,134.0Z" fill="#f6b2dd" stroke="black" stroke-width="0"/>
+<path aria-label="global: 14; Agent withdrawal becquerel: Handcrafted" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.59139138017815,99.4951221701636A75,75,0,0,0,129.14837540338038,62.99397233067171L105.0,134.0Z" fill="#cfe323" stroke="black" stroke-width="0"/>
+<path aria-label="global: 6; Agent withdrawal becquerel: District" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.14837540338038,62.99397233067171A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#24cd3a" stroke="black" stroke-width="0"/>
+<path aria-label="global: 22; Agent withdrawal becquerel: Peso" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.25480327837056,207.63287705566688A75,75,0,0,0,178.82070999132836,147.24774608664407L105.0,134.0Z" fill="#a70e71" stroke="black" stroke-width="0"/>
+<path aria-label="global: 29; Agent withdrawal becquerel: Platinum" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.17929000867163,147.24774608664404A75,75,0,0,0,119.25480327837056,207.63287705566688L105.0,134.0Z" fill="#2ff972" stroke="black" stroke-width="0"/>
+<path aria-label="global: 1; Agent withdrawal becquerel: fuchsia" role="graphics-symbol" aria-roledescription="arc mark"  d="M100.90430886059178,59.1119147387879A75,75,0,0,0,96.82084087329073,59.447324957584726L105.0,134.0Z" fill="#9ba31d" stroke="black" stroke-width="0"/>
+<path aria-label="global: 1; Agent withdrawal becquerel: who" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,100.90430886059178,59.1119147387879L105.0,134.0Z" fill="#2adacf" stroke="black" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#24cd3a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#cfe323" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#085c7a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#a70e71" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#2ff972" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#f6b2dd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#9ba31d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#2adacf" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">District</text>
+<text aria-label="239,299,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Handcrafted</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Operative</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Peso</text>
+<text aria-label="239,283,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Platinum</text>
+<text aria-label="239,272,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="239,277,129,140" text-anchor="start" x="239.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">fuchsia</text>
+<text aria-label="239,255,145,156" text-anchor="start" x="239.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">who</text>
+</svg>

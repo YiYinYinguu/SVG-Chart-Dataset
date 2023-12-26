@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1021" height="318" viewBox="0 0 1021 318" style="background-color: rgb(255, 255, 255);">
+<text aria-label="220,238,241,295" text-anchor="end" x="233.50000000000003" y="241.5" transform="rotate(270.0, 238.50000000000003, 241.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">cellar</text>
+<text aria-label="533,551,241,277" text-anchor="end" x="546.5" y="241.5" transform="rotate(270.0, 551.5, 241.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">meal</text>
+<text aria-label="846,864,241,313" text-anchor="end" x="859.5000000000001" y="241.5" transform="rotate(270.0, 864.5000000000001, 241.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">republic</text>
+<line aria-label="233,233,234,239" x1="233.5" y1="234.5" x2="233.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="546,546,234,239" x1="546.5" y1="234.5" x2="546.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="859,859,234,239" x1="859.5" y1="234.5" x2="859.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="77,1016,234,234" x1="77.5" y1="234.5" x2="1016.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="507,585,0,26" text-anchor="middle" x="546.5" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Pickup</text>
+<text aria-label="61,70,222,240" text-anchor="end" x="70.5" y="239.5" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="43,70,186,204" text-anchor="end" x="70.5" y="203.13636363636363" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="43,70,149,167" text-anchor="end" x="70.5" y="166.77272727272725" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="43,70,113,131" text-anchor="end" x="70.5" y="130.40909090909093" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="43,70,77,95" text-anchor="end" x="70.5" y="94.04545454545453" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="25,70,40,58" text-anchor="end" x="70.5" y="57.68181818181819" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<line aria-label="72,77,234,234" x1="77.5" y1="234.5" x2="72.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,198,198" x1="77.5" y1="198.5" x2="72.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,161,161" x1="77.5" y1="161.5" x2="72.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,125,125" x1="77.5" y1="125.5" x2="72.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,89,89" x1="77.5" y1="89.5" x2="72.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,52,52" x1="77.5" y1="52.5" x2="72.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,113,155" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Ferrari</text>
+<path aria-label="area: meal; Ferrari: 310; Home: Stage carefully until" role="graphics-symbol" aria-roledescription="bar" d="M476.07500000000005,177.63636363636365h140.85v56.363636363636346h-140.85Z" fill="#facf2d"/>
+<path aria-label="area: meal; Ferrari: 732; Home: Baby olive Honda" role="graphics-symbol" aria-roledescription="bar" d="M476.07500000000005,44.54545454545455h140.85v133.09090909090912h-140.85Z" fill="#1ebfce"/>
+<path aria-label="area: cellar; Ferrari: 702; Home: Stage carefully until" role="graphics-symbol" aria-roledescription="bar" d="M163.07500000000005,106.36363636363636h140.85v127.63636363636364h-140.85Z" fill="#facf2d"/>
+<path aria-label="area: cellar; Ferrari: 231; Home: Baby olive Honda" role="graphics-symbol" aria-roledescription="bar" d="M163.07500000000005,64.36363636363637h140.85v41.999999999999986h-140.85Z" fill="#1ebfce"/>
+<path aria-label="area: republic; Ferrari: 118; Home: Stage carefully until" role="graphics-symbol" aria-roledescription="bar" d="M789.075,212.54545454545453h140.85v21.454545454545467h-140.85Z" fill="#facf2d"/>
+<path aria-label="area: republic; Ferrari: 548; Home: Baby olive Honda" role="graphics-symbol" aria-roledescription="bar" d="M789.075,112.9090909090909h140.85v99.63636363636363h-140.85Z" fill="#1ebfce"/>
+</svg>

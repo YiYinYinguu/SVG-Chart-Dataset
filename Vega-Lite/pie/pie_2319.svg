@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">boo Bicycle</text>
+<path aria-label="District port: 60; Avon: Loti" role="graphics-symbol" aria-roledescription="arc mark"  d="M243.0243968908033,194.71945716490745A75,75,0,0,0,258.7338169636506,179.3527409420102L199.0,134.0Z" fill="#bd5fff" stroke="white" stroke-width="1"/>
+<path aria-label="District port: 124; Avon: bandwidth" role="graphics-symbol" aria-roledescription="arc mark"  d="M200.4702299951756,208.98558810705754A75,75,0,0,0,243.0243968908033,194.71945716490745L199.0,134.0Z" fill="#5bb5db" stroke="white" stroke-width="1"/>
+<path aria-label="District port: 302; Avon: contingency" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.45555398001547,142.253821392156A75,75,0,0,0,200.4702299951756,208.98558810705754L199.0,134.0Z" fill="#0cb9eb" stroke="white" stroke-width="1"/>
+<path aria-label="District port: 164; Avon: lux" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.32413298691904,86.0573846740773A75,75,0,0,0,124.45555398001547,142.253821392156L199.0,134.0Z" fill="#c3b798" stroke="white" stroke-width="1"/>
+<path aria-label="District port: 179; Avon: partnerships" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.0,59.0A75,75,0,0,0,141.32413298691904,86.0573846740773L199.0,134.0Z" fill="#a3cffe" stroke="white" stroke-width="1"/>
+<path aria-label="District port: 269; Avon: Factors" role="graphics-symbol" aria-roledescription="arc mark"  d="M271.6235838494448,115.26994210199399A75,75,0,0,0,199.0,59.0L199.0,134.0Z" fill="#ede79e" stroke="white" stroke-width="1"/>
+<path aria-label="District port: 184; Avon: Guinea" role="graphics-symbol" aria-roledescription="arc mark"  d="M258.7338169636506,179.3527409420102A75,75,0,0,0,271.6235838494448,115.26994210199399L199.0,134.0Z" fill="#4dc7f6" stroke="white" stroke-width="1"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#ede79e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#4dc7f6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#bd5fff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#5bb5db" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#0cb9eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#c3b798" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#a3cffe" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Factors</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Guinea</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Loti</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">bandwidth</text>
+<text aria-label="21,81,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">contingency</text>
+<text aria-label="21,37,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">lux</text>
+<text aria-label="21,87,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">partnerships</text>
+</svg>

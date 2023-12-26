@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="319" height="239" viewBox="0 0 319 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">engage Loan</text>
+<path aria-label="visualize: 241; eyeballs chasten: index" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.7546807411054,80.19083149187142A75,75,0,0,0,70.64889737864247,200.67084631753946L89.88551484660269,163.33517237971736A33,33,0,0,1,82.01205952608638,110.32396585642343Z" fill="#afbced" stroke="white" stroke-width="1"/>
+<path aria-label="visualize: 214; eyeballs chasten: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.64889737864247,200.67084631753946A75,75,0,0,0,175.0939913586563,160.68018694485886L135.84135619780875,145.73928225573792A33,33,0,0,1,89.88551484660269,163.33517237971736Z" fill="#cee93b" stroke="white" stroke-width="1"/>
+<path aria-label="visualize: 246; eyeballs chasten: Carbon" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.0939913586563,160.68018694485886A75,75,0,0,0,105.0,59.0L105.0,101.0A33,33,0,0,1,135.84135619780875,145.73928225573792Z" fill="#5e54dc" stroke="white" stroke-width="1"/>
+<path aria-label="visualize: 59; eyeballs chasten: navigating" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,71.4376993437132,66.92860539203758L90.2325877112338,104.48858637249654A33,33,0,0,1,105.0,101.0Z" fill="#3efd7e" stroke="white" stroke-width="1"/>
+<path aria-label="visualize: 39; eyeballs chasten: modular" role="graphics-symbol" aria-roledescription="arc mark"  d="M71.4376993437132,66.92860539203758A75,75,0,0,0,52.7546807411054,80.19083149187142L82.01205952608638,110.32396585642343A33,33,0,0,1,90.2325877112338,104.48858637249654Z" fill="#cde457" stroke="white" stroke-width="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#5e54dc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#cee93b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#afbced" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#cde457" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#3efd7e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Carbon</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">index</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">modular</text>
+<text aria-label="239,294,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">navigating</text>
+<text aria-label="223,319,32,44" text-anchor="start" x="223.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">eyeballs chasten</text>
+</svg>

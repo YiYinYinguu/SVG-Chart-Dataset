@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="85,124,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">ohm</text>
+<path aria-label="whenever Refined Northeast: 301; Response Home: productize" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,83.31355664298724,236.796226742936L105.0,165.0Z" fill="#bac88d" stroke="white" stroke-width="3"/>
+<path aria-label="whenever Refined Northeast: 201; Response Home: pink" role="graphics-symbol" aria-roledescription="arc mark"  d="M83.31355664298724,236.796226742936A75,75,0,0,0,179.94628161122486,162.16188924617472L105.0,165.0Z" fill="#2db6b2" stroke="white" stroke-width="3"/>
+<path aria-label="whenever Refined Northeast: 162; Response Home: Pakistan" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.94628161122486,162.16188924617472A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#efea8d" stroke="white" stroke-width="3"/>
+<text aria-label="7,24,144,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.966319608147472" y="154.8469107856194" font-family="monospace" font-size="10px" fill="#bac88d" opacity="1">301</text>
+<text aria-label="151,168,229,240" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.01347192824963" y="239.2286312264927" font-family="monospace" font-size="10px" fill="#2db6b2" opacity="1">201</text>
+<text aria-label="159,175,93,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="167.42388981226208" y="103.16746202170884" font-family="monospace" font-size="10px" fill="#efea8d" opacity="1">162</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#efea8d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,40.25A5,5,0,1,1,73.0,40.25A5,5,0,1,1,83.0,40.25" fill="#2db6b2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,40.25A5,5,0,1,1,120.0,40.25A5,5,0,1,1,130.0,40.25" fill="#bac88d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Pakistan</text>
+<text aria-label="88,110,33,44" text-anchor="start" x="88.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">pink</text>
+<text aria-label="135,190,33,44" text-anchor="start" x="135.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">productize</text>
+</svg>

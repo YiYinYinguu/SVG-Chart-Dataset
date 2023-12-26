@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="239" viewBox="0 0 309 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,291,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Dam indexing capacitor</text>
+<path aria-label="Minivan: 222; hertz 24/7: haptic" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.082589510333,176.32297577267076A75,75,0,0,0,170.17868560343658,171.10443292934642L144.10721136206195,156.26265975760785A45,45,0,0,1,67.8495537061998,159.39378546360246Z" fill="#fc4c42" stroke="black" stroke-width="0"/>
+<path aria-label="Minivan: 238; hertz 24/7: overriding" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,43.082589510333,176.32297577267076L67.8495537061998,159.39378546360246A45,45,0,0,1,104.99999999999999,89.0Z" fill="#3daecc" stroke="black" stroke-width="0"/>
+<path aria-label="Minivan: 229; hertz 24/7: Awesome" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.17868560343658,171.10443292934642A75,75,0,0,0,105.0,59.0L105.0,89.0A45,45,0,0,1,144.10721136206195,156.26265975760785Z" fill="#aaf645" stroke="black" stroke-width="0"/>
+<text aria-label="100,116,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.69227270378418" y="226.92422989540077" font-family="Balto" font-size="10px" fill="#fc4c42" opacity="1">222</text>
+<text aria-label="17,33,84,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.404518396304525" y="94.9933420958561" font-family="Balto" font-size="10px" fill="#3daecc" opacity="1">238</text>
+<text aria-label="174,191,81,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.80513722232428" y="91.76328237133806" font-family="Balto" font-size="10px" fill="#aaf645" opacity="1">229</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#aaf645" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#fc4c42" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#3daecc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Awesome</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">haptic</text>
+<text aria-label="239,294,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">overriding</text>
+</svg>

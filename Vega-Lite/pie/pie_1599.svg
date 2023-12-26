@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="249" height="286" viewBox="0 0 249 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Loan deposit</text>
+<path aria-label="Regional Altoona innovate: 54; bypassing deploy: program" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.905217019443256,192.61736351605634A75,75,0,0,0,42.078539694127386,221.815313706702L78.15351026949435,198.41453384819286A32,32,0,0,1,73.38622592829579,185.9567417668507Z" fill="#2bfbda" stroke="black" stroke-width="3"/>
+<path aria-label="Regional Altoona innovate: 195; bypassing deploy: at" role="graphics-symbol" aria-roledescription="arc mark"  d="M78.1950154806117,251.0463618249753A75,75,0,0,0,173.4842437671464,211.57627112062664L134.2199440073158,194.04587567813405A32,32,0,0,1,93.563206605061,210.88644771198946Z" fill="#75ebad" stroke="black" stroke-width="3"/>
+<path aria-label="Regional Altoona innovate: 256; bypassing deploy: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.4842437671464,211.57627112062664A75,75,0,0,0,105.0,106.0L105.0,149.0A32,32,0,0,1,134.2199440073158,194.04587567813405Z" fill="#4a7ff9" stroke="black" stroke-width="3"/>
+<path aria-label="Regional Altoona innovate: 222; bypassing deploy: while" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.905217019443256,192.61736351605634L73.38622592829579,185.9567417668507A32,32,0,0,1,105.0,149.0Z" fill="#ccdbcd" stroke="black" stroke-width="3"/>
+<path aria-label="Regional Altoona innovate: 81; bypassing deploy: parse" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.078539694127386,221.815313706702A75,75,0,0,0,78.1950154806117,251.0463618249753L93.563206605061,210.88644771198946A32,32,0,0,1,78.15351026949435,198.41453384819286Z" fill="#e100f0" stroke="black" stroke-width="3"/>
+<text aria-label="13,27,204,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.94436581002968" y="217.16598142326598" font-family="serif" font-size="13px" fill="#2bfbda" opacity="1">54</text>
+<text aria-label="128,149,255,269" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="139.44150891285807" y="268.1491579260158" font-family="serif" font-size="13px" fill="#75ebad" opacity="1">195</text>
+<text aria-label="170,191,123,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.5057523670471" y="136.02162355195753" font-family="serif" font-size="13px" fill="#4a7ff9" opacity="1">256</text>
+<text aria-label="26,47,113,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="36.608936037907355" y="126.49647557511639" font-family="serif" font-size="13px" fill="#ccdbcd" opacity="1">222</text>
+<text aria-label="41,55,241,255" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="48.37929648064748" y="254.95781538165397" font-family="serif" font-size="13px" fill="#e100f0" opacity="1">81</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#4a7ff9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,56.25A5,5,0,1,1,53.0,56.25A5,5,0,1,1,63.0,56.25" fill="#75ebad" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M100.0,56.25A5,5,0,1,1,90.0,56.25A5,5,0,1,1,100.0,56.25" fill="#e100f0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M152.0,56.25A5,5,0,1,1,142.0,56.25A5,5,0,1,1,152.0,56.25" fill="#2bfbda" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M214.0,56.25A5,5,0,1,1,204.0,56.25A5,5,0,1,1,214.0,56.25" fill="#ccdbcd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="68,79,49,60" text-anchor="start" x="68.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">at</text>
+<text aria-label="105,132,49,60" text-anchor="start" x="105.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">parse</text>
+<text aria-label="157,195,49,60" text-anchor="start" x="157.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">program</text>
+<text aria-label="219,246,49,60" text-anchor="start" x="219.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">while</text>
+<text aria-label="5,101,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">bypassing deploy</text>
+</svg>

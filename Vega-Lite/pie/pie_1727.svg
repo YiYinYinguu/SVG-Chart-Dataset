@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="492" height="270" viewBox="0 0 492 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Nissan capacity</text>
+<path aria-label="Demiflux: 746; Oman: mole" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.43322906525269,146.0510222939623A75,75,0,0,0,69.14956233221649,230.87674945706087L105.0,165.0Z" fill="#bf13aa" stroke="black" stroke-width="0"/>
+<path aria-label="Demiflux: 613; Oman: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.88438799093906,237.58360620834208A75,75,0,0,0,178.10684119903155,181.74484308375514L105.0,165.0Z" fill="#fa69d1" stroke="black" stroke-width="0"/>
+<path aria-label="Demiflux: 499; Oman: now" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.92669130409556,96.739839681634A75,75,0,0,0,32.43322906525269,146.0510222939623L105.0,165.0Z" fill="#65fedc" stroke="black" stroke-width="0"/>
+<path aria-label="Demiflux: 253; Oman: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.5929961739168,126.88510992700658A75,75,0,0,0,146.56364944907958,102.57033522055377L105.0,165.0Z" fill="#280bfc" stroke="black" stroke-width="0"/>
+<path aria-label="Demiflux: 426; Oman: Licensed" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.10684119903155,181.74484308375514A75,75,0,0,0,169.5929961739168,126.88510992700658L105.0,165.0Z" fill="#e6dedb" stroke="black" stroke-width="0"/>
+<path aria-label="Demiflux: 423; Oman: face" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.14956233221649,230.87674945706087A75,75,0,0,0,123.88438799093906,237.58360620834208L105.0,165.0Z" fill="#2d56e3" stroke="black" stroke-width="0"/>
+<path aria-label="Demiflux: 330; Oman: Bedfordshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.56364944907958,102.57033522055377A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#f4e440" stroke="black" stroke-width="0"/>
+<path aria-label="Demiflux: 240; Oman: preview" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,73.92669130409556,96.739839681634L105.0,165.0Z" fill="#141fe4" stroke="black" stroke-width="0"/>
+<text aria-label="14,30,193,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.40526506145366" y="203.7506609789424" font-family="sans-serif" font-size="10px" fill="#bf13aa" opacity="1">746</text>
+<text aria-label="161,177,220,231" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="169.56723114289136" y="230.69826682246043" font-family="sans-serif" font-size="10px" fill="#fa69d1" opacity="1">613</text>
+<text aria-label="27,44,100,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="36.13615476078377" y="110.05372471962261" font-family="sans-serif" font-size="10px" fill="#65fedc" opacity="1">499</text>
+<text aria-label="162,178,96,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.34339296686937" y="106.1110591819727" font-family="sans-serif" font-size="10px" fill="#280bfc" opacity="1">253</text>
+<text aria-label="185,202,144,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.93537424694284" y="154.19785496539714" font-family="sans-serif" font-size="10px" fill="#e6dedb" opacity="1">426</text>
+<text aria-label="85,102,247,258" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.05384282576897" y="257.3318624182717" font-family="sans-serif" font-size="10px" fill="#2d56e3" opacity="1">423</text>
+<text aria-label="122,139,71,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.0537540847745" y="81.85360194360942" font-family="sans-serif" font-size="10px" fill="#f4e440" opacity="1">330</text>
+<text aria-label="77,94,70,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="85.92249117918597" y="80.04518968702301" font-family="sans-serif" font-size="10px" fill="#141fe4" opacity="1">240</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#f4e440" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M105.0,40.25A5,5,0,1,1,95.0,40.25A5,5,0,1,1,105.0,40.25" fill="#280bfc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M152.0,40.25A5,5,0,1,1,142.0,40.25A5,5,0,1,1,152.0,40.25" fill="#e6dedb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M221.0,40.25A5,5,0,1,1,211.0,40.25A5,5,0,1,1,221.0,40.25" fill="#fa69d1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M297.0,40.25A5,5,0,1,1,287.0,40.25A5,5,0,1,1,297.0,40.25" fill="#2d56e3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M344.0,40.25A5,5,0,1,1,334.0,40.25A5,5,0,1,1,344.0,40.25" fill="#bf13aa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M396.0,40.25A5,5,0,1,1,386.0,40.25A5,5,0,1,1,396.0,40.25" fill="#65fedc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M444.0,40.25A5,5,0,1,1,434.0,40.25A5,5,0,1,1,444.0,40.25" fill="#141fe4" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,87,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bedfordshire</text>
+<text aria-label="110,132,33,44" text-anchor="start" x="110.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="157,201,33,44" text-anchor="start" x="157.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Licensed</text>
+<text aria-label="226,275,33,44" text-anchor="start" x="226.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="302,324,33,44" text-anchor="start" x="302.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">face</text>
+<text aria-label="349,371,33,44" text-anchor="start" x="349.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">mole</text>
+<text aria-label="401,417,33,44" text-anchor="start" x="401.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">now</text>
+<text aria-label="449,487,33,44" text-anchor="start" x="449.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">preview</text>
+</svg>

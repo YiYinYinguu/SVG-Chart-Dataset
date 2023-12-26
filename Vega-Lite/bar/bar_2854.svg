@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="564" height="361" viewBox="0 0 564 361" style="background-color: rgb(255, 255, 255);">
+<line x1="54.5" y1="234.5" x2="559.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="54.5" y1="198.5" x2="559.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="54.5" y1="161.5" x2="559.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="54.5" y1="125.5" x2="559.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="54.5" y1="89.5" x2="559.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="54.5" y1="52.5" x2="559.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="72,91,241,298" text-anchor="end" x="86.93478260869568" y="241.5" transform="rotate(270.0, 91.93478260869568, 241.5)" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">banana</text>
+<text aria-label="127,146,241,298" text-anchor="end" x="141.82608695652175" y="241.5" transform="rotate(270.0, 146.82608695652175, 241.5)" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">beaver</text>
+<text aria-label="182,201,241,289" text-anchor="end" x="196.71739130434784" y="241.5" transform="rotate(270.0, 201.71739130434784, 241.5)" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">comma</text>
+<text aria-label="237,256,241,270" text-anchor="end" x="251.60869565217394" y="241.5" transform="rotate(270.0, 256.60869565217394, 241.5)" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">fav</text>
+<text aria-label="292,311,241,336" text-anchor="end" x="306.5" y="241.5" transform="rotate(270.0, 311.5, 241.5)" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">hydrolysis</text>
+<text aria-label="347,366,241,308" text-anchor="end" x="361.39130434782606" y="241.5" transform="rotate(270.0, 366.39130434782606, 241.5)" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">liberty</text>
+<text aria-label="402,421,241,298" text-anchor="end" x="416.2826086956522" y="241.5" transform="rotate(270.0, 421.2826086956522, 241.5)" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">motive</text>
+<text aria-label="457,476,241,327" text-anchor="end" x="471.17391304347825" y="241.5" transform="rotate(270.0, 476.17391304347825, 241.5)" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">submitter</text>
+<text aria-label="512,531,241,317" text-anchor="end" x="526.0652173913043" y="241.5" transform="rotate(270.0, 531.0652173913043, 241.5)" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">thinking</text>
+<line aria-label="86,86,234,239" x1="86.5" y1="234.5" x2="86.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="141,141,234,239" x1="141.5" y1="234.5" x2="141.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="196,196,234,239" x1="196.5" y1="234.5" x2="196.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="251,251,234,239" x1="251.5" y1="234.5" x2="251.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="306,306,234,239" x1="306.5" y1="234.5" x2="306.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="361,361,234,239" x1="361.5" y1="234.5" x2="361.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="416,416,234,239" x1="416.5" y1="234.5" x2="416.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="471,471,234,239" x1="471.5" y1="234.5" x2="471.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="526,526,234,239" x1="526.5" y1="234.5" x2="526.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,559,234,234" x1="54.5" y1="234.5" x2="559.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="248,365,0,26" text-anchor="middle" x="306.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">oof Franc</text>
+<text aria-label="43,52,221,240" text-anchor="end" x="52.5" y="239.5" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="24,52,185,204" text-anchor="end" x="52.5" y="203.13636363636363" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="24,52,148,167" text-anchor="end" x="52.5" y="166.77272727272725" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="24,52,112,131" text-anchor="end" x="52.5" y="130.40909090909093" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="24,52,76,95" text-anchor="end" x="52.5" y="94.04545454545453" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="24,52,39,58" text-anchor="end" x="52.5" y="57.68181818181819" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="2,14,119,149" text-anchor="middle" x="16.8330078125" y="134.5" transform="rotate(-90.0, 14.8330078125, 134.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">North</text>
+<line aria-label="54,54,34,234" x1="54.5" y1="234.5" x2="54.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="International Mews: beaver; North: 400; City: payment Recumbent Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M149.1449275362319,88.54545454545453h14.63768115942029v145.45454545454547h-14.63768115942029Z" fill="#cffc6e"/>
+<path aria-label="International Mews: beaver; North: 81; City: National generate farad" role="graphics-symbol" aria-roledescription="bar" d="M134.50724637681162,204.54545454545456h14.63768115942029v29.45454545454544h-14.63768115942029Z" fill="#ac5bb7"/>
+<path aria-label="International Mews: beaver; North: 332; City: Card" role="graphics-symbol" aria-roledescription="bar" d="M119.86956521739133,113.27272727272727h14.63768115942029v120.72727272727273h-14.63768115942029Z" fill="#ded26f"/>
+<path aria-label="International Mews: motive; North: 325; City: payment Recumbent Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M423.6014492753623,115.81818181818181h14.63768115942029v118.18181818181819h-14.63768115942029Z" fill="#cffc6e"/>
+<path aria-label="International Mews: motive; North: 296; City: National generate farad" role="graphics-symbol" aria-roledescription="bar" d="M408.96376811594206,126.36363636363636h14.63768115942029v107.63636363636364h-14.63768115942029Z" fill="#ac5bb7"/>
+<path aria-label="International Mews: motive; North: 129; City: Card" role="graphics-symbol" aria-roledescription="bar" d="M394.32608695652175,187.09090909090907h14.63768115942029v46.909090909090935h-14.63768115942029Z" fill="#ded26f"/>
+<path aria-label="International Mews: liberty; North: 412; City: payment Recumbent Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M368.7101449275362,84.18181818181817h14.63768115942029v149.8181818181818h-14.63768115942029Z" fill="#cffc6e"/>
+<path aria-label="International Mews: liberty; North: 421; City: National generate farad" role="graphics-symbol" aria-roledescription="bar" d="M354.07246376811594,80.9090909090909h14.63768115942029v153.0909090909091h-14.63768115942029Z" fill="#ac5bb7"/>
+<path aria-label="International Mews: liberty; North: 44; City: Card" role="graphics-symbol" aria-roledescription="bar" d="M339.4347826086956,218.0h14.63768115942029v16h-14.63768115942029Z" fill="#ded26f"/>
+<path aria-label="International Mews: hydrolysis; North: 194; City: payment Recumbent Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M313.8188405797101,163.45454545454544h14.63768115942029v70.54545454545456h-14.63768115942029Z" fill="#cffc6e"/>
+<path aria-label="International Mews: hydrolysis; North: 414; City: National generate farad" role="graphics-symbol" aria-roledescription="bar" d="M299.1811594202899,83.45454545454547h14.63768115942029v150.54545454545453h-14.63768115942029Z" fill="#ac5bb7"/>
+<path aria-label="International Mews: hydrolysis; North: 268; City: Card" role="graphics-symbol" aria-roledescription="bar" d="M284.54347826086956,136.54545454545453h14.63768115942029v97.45454545454547h-14.63768115942029Z" fill="#ded26f"/>
+<path aria-label="International Mews: comma; North: 160; City: payment Recumbent Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M204.036231884058,175.8181818181818h14.63768115942029v58.18181818181819h-14.63768115942029Z" fill="#cffc6e"/>
+<path aria-label="International Mews: comma; North: 544; City: National generate farad" role="graphics-symbol" aria-roledescription="bar" d="M189.3985507246377,36.18181818181817h14.63768115942029v197.8181818181818h-14.63768115942029Z" fill="#ac5bb7"/>
+<path aria-label="International Mews: comma; North: 275; City: Card" role="graphics-symbol" aria-roledescription="bar" d="M174.7608695652174,134.0h14.63768115942029v100h-14.63768115942029Z" fill="#ded26f"/>
+<path aria-label="International Mews: fav; North: 434; City: payment Recumbent Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M258.92753623188406,76.18181818181819h14.63768115942029v157.8181818181818h-14.63768115942029Z" fill="#cffc6e"/>
+<path aria-label="International Mews: fav; North: 356; City: National generate farad" role="graphics-symbol" aria-roledescription="bar" d="M244.28985507246378,104.54545454545456h14.63768115942029v129.45454545454544h-14.63768115942029Z" fill="#ac5bb7"/>
+<path aria-label="International Mews: fav; North: 36; City: Card" role="graphics-symbol" aria-roledescription="bar" d="M229.6521739130435,220.9090909090909h14.63768115942029v13.090909090909093h-14.63768115942029Z" fill="#ded26f"/>
+<path aria-label="International Mews: thinking; North: 108; City: payment Recumbent Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M533.3840579710145,194.72727272727275h14.63768115942029v39.27272727272725h-14.63768115942029Z" fill="#cffc6e"/>
+<path aria-label="International Mews: thinking; North: 114; City: National generate farad" role="graphics-symbol" aria-roledescription="bar" d="M518.7463768115942,192.54545454545453h14.63768115942029v41.45454545454547h-14.63768115942029Z" fill="#ac5bb7"/>
+<path aria-label="International Mews: thinking; North: 205; City: Card" role="graphics-symbol" aria-roledescription="bar" d="M504.1086956521739,159.45454545454544h14.63768115942029v74.54545454545456h-14.63768115942029Z" fill="#ded26f"/>
+<path aria-label="International Mews: submitter; North: 112; City: payment Recumbent Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M478.4927536231884,193.27272727272728h14.63768115942029v40.72727272727272h-14.63768115942029Z" fill="#cffc6e"/>
+<path aria-label="International Mews: submitter; North: 21; City: National generate farad" role="graphics-symbol" aria-roledescription="bar" d="M463.8550724637681,226.36363636363635h14.63768115942029v7.6363636363636545h-14.63768115942029Z" fill="#ac5bb7"/>
+<path aria-label="International Mews: submitter; North: 431; City: Card" role="graphics-symbol" aria-roledescription="bar" d="M449.2173913043478,77.27272727272727h14.63768115942029v156.72727272727275h-14.63768115942029Z" fill="#ded26f"/>
+<path aria-label="International Mews: banana; North: 83; City: payment Recumbent Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M94.25362318840583,203.8181818181818h14.63768115942029v30.181818181818187h-14.63768115942029Z" fill="#cffc6e"/>
+<path aria-label="International Mews: banana; North: 130; City: National generate farad" role="graphics-symbol" aria-roledescription="bar" d="M79.61594202898553,186.72727272727275h14.63768115942029v47.27272727272725h-14.63768115942029Z" fill="#ac5bb7"/>
+<path aria-label="International Mews: banana; North: 418; City: Card" role="graphics-symbol" aria-roledescription="bar" d="M64.97826086956525,82.0h14.63768115942029v152h-14.63768115942029Z" fill="#ded26f"/>
+<path  d="M55.0,346.0h10v10h-10Z" fill="#cffc6e" stroke-width="1.5" opacity="1"/>
+<path  d="M241.0,346.0h10v10h-10Z" fill="#ac5bb7" stroke-width="1.5" opacity="1"/>
+<path  d="M381.0,346.0h10v10h-10Z" fill="#ded26f" stroke-width="1.5" opacity="1"/>
+<text aria-label="70,224,344,355" text-anchor="start" x="70.0" y="354.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">payment Recumbent Bedfordsh…</text>
+<text aria-label="256,382,344,355" text-anchor="start" x="256.0" y="354.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">National generate farad</text>
+<text aria-label="396,418,344,355" text-anchor="start" x="396.0" y="354.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Card</text>
+</svg>

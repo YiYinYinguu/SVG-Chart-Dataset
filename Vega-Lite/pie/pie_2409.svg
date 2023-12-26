@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cobalt</text>
+<path aria-label="Account especially Berkshire: 163; maroon: Liberian" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.84418209049868,145.22117062399832A75,75,0,0,0,182.70552010570984,208.64442754199268L186.10961072304525,173.81036135572944A40,40,0,0,1,150.45023044826596,139.98462433279911Z" fill="#7589aa" stroke="black" stroke-width="4"/>
+<path aria-label="Account especially Berkshire: 191; maroon: Electronic" role="graphics-symbol" aria-roledescription="arc mark"  d="M264.9845554878606,132.47801501717123A75,75,0,0,0,190.0,59.0L190.0,94.0A40,40,0,0,1,229.991762926859,133.18827467582466Z" fill="#31d368" stroke="black" stroke-width="4"/>
+<path aria-label="Account especially Berkshire: 79; maroon: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.95108915833202,78.14208629421637A75,75,0,0,0,116.4784587369964,119.18166776211103L150.78851132639807,126.09688947312588A40,40,0,0,1,163.30724755111044,104.20911269024873Z" fill="#bca4d8" stroke="black" stroke-width="4"/>
+<path aria-label="Account especially Berkshire: 43; maroon: Loan" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.4784587369964,119.18166776211103A75,75,0,0,0,115.84418209049868,145.22117062399832L150.45023044826596,139.98462433279911A40,40,0,0,1,150.78851132639807,126.09688947312588Z" fill="#0db8f0" stroke="black" stroke-width="4"/>
+<path aria-label="Account especially Berkshire: 208; maroon: Guiana" role="graphics-symbol" aria-roledescription="arc mark"  d="M182.70552010570984,208.64442754199268A75,75,0,0,0,264.9845554878606,132.47801501717123L229.991762926859,133.18827467582466A40,40,0,0,1,186.10961072304525,173.81036135572944Z" fill="#8af171" stroke="black" stroke-width="4"/>
+<path aria-label="Account especially Berkshire: 90; maroon: awe" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,139.95108915833202,78.14208629421637L163.30724755111044,104.20911269024873A40,40,0,0,1,190.0,94.0Z" fill="#274a75" stroke="black" stroke-width="4"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#31d368" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#8af171" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#7589aa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#0db8f0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#bca4d8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#274a75" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Electronic</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Guiana</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Liberian</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Loan</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="21,37,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">awe</text>
+</svg>

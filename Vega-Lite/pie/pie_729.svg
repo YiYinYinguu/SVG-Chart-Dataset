@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="127,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">orchid</text>
+<path aria-label="Gasoline: 142; blue: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,35.649549978491905,152.44277531316624L105.0,181.0Z" fill="#adce69" stroke="white" stroke-width="1"/>
+<path aria-label="Gasoline: 92; blue: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.91973524623597,126.87661233846534A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#5fddba" stroke="white" stroke-width="1"/>
+<path aria-label="Gasoline: 522; blue: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.649549978491905,152.44277531316624A75,75,0,1,0,156.91973524623597,126.87661233846534L105.0,181.0Z" fill="#661e4a" stroke="white" stroke-width="1"/>
+<text aria-label="45,63,98,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.920963798102264" y="109.21972096141245" font-family="sans-serif" font-size="11px" fill="#adce69" opacity="1">142</text>
+<text aria-label="132,144,89,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.57584051482746" y="100.49752737958671" font-family="sans-serif" font-size="11px" fill="#5fddba" opacity="1">92</text>
+<text aria-label="114,132,261,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.56569585168597" y="272.0642659513079" font-family="sans-serif" font-size="11px" fill="#661e4a" opacity="1">522</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#5fddba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,56.25A5,5,0,1,1,68.0,56.25A5,5,0,1,1,78.0,56.25" fill="#661e4a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M129.0,56.25A5,5,0,1,1,119.0,56.25A5,5,0,1,1,129.0,56.25" fill="#adce69" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="83,105,49,60" text-anchor="start" x="83.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="134,167,49,60" text-anchor="start" x="134.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="5,29,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">blue</text>
+</svg>

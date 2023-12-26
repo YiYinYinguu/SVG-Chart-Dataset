@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="319" height="239" viewBox="0 0 319 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="194,233,0,26" text-anchor="middle" x="214.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">B2C</text>
+<path aria-label="withdrawal decry Pizza: 308; Configuration: parse" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.42943577620025,170.40743203485457A75,75,0,0,0,195.45965255457583,206.67224722411544L214.0,134.0Z" fill="#c3bbb8" stroke="white" stroke-width="4"/>
+<path aria-label="withdrawal decry Pizza: 764; Configuration: fare" role="graphics-symbol" aria-roledescription="arc mark"  d="M195.45965255457583,206.67224722411544A75,75,0,0,0,287.5211869942504,119.17991015693688L214.0,134.0Z" fill="#1cfda3" stroke="white" stroke-width="4"/>
+<path aria-label="withdrawal decry Pizza: 207; Configuration: disintermediate" role="graphics-symbol" aria-roledescription="arc mark"  d="M287.5211869942504,119.17991015693688A75,75,0,0,0,269.0767113624398,83.0926737541786L214.0,134.0Z" fill="#aecd0c" stroke="white" stroke-width="4"/>
+<path aria-label="withdrawal decry Pizza: 312; Configuration: Fresh" role="graphics-symbol" aria-roledescription="arc mark"  d="M269.0767113624398,83.0926737541786A75,75,0,0,0,214.0,59.0L214.0,134.0Z" fill="#cafcdf" stroke="white" stroke-width="4"/>
+<path aria-label="withdrawal decry Pizza: 786; Configuration: ubiquitous" role="graphics-symbol" aria-roledescription="arc mark"  d="M214.0,59.0A75,75,0,0,0,148.42943577620025,170.40743203485457L214.0,134.0Z" fill="#4ea67e" stroke="white" stroke-width="4"/>
+<text aria-label="150,167,198,209" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="159.04254716861305" y="208.27186245837748" font-family="sans-serif" font-size="10px" fill="#c3bbb8" opacity="1">308</text>
+<text aria-label="267,284,192,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="276.0000696343916" y="202.2379595429731" font-family="sans-serif" font-size="10px" fill="#1cfda3" opacity="1">764</text>
+<text aria-label="285,302,86,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="294.13922206672976" y="96.04020158082596" font-family="sans-serif" font-size="10px" fill="#aecd0c" opacity="1">207</text>
+<text aria-label="241,258,44,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="250.06943834779864" y="54.54397767734393" font-family="sans-serif" font-size="10px" fill="#cafcdf" opacity="1">312</text>
+<text aria-label="128,144,81,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="136.4371137084098" y="91.34916572374769" font-family="sans-serif" font-size="10px" fill="#4ea67e" opacity="1">786</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#cafcdf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#aecd0c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#1cfda3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c3bbb8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#4ea67e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="21,103,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">disintermediate</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">fare</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">parse</text>
+<text aria-label="21,76,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">ubiquitous</text>
+</svg>

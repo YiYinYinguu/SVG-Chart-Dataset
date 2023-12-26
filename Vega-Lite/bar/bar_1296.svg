@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="723" height="343" viewBox="0 0 723 343" style="background-color: rgb(255, 255, 255);">
+<line x1="95.5" y1="63.5" x2="95.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="208.5" y1="63.5" x2="208.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="321.5" y1="63.5" x2="321.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="435.5" y1="63.5" x2="435.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="548.5" y1="63.5" x2="548.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="661.5" y1="63.5" x2="661.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="263.5" x2="718.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="232.5" x2="718.5" y2="232.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="201.5" x2="718.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="171.5" x2="718.5" y2="171.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="140.5" x2="718.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="109.5" x2="718.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="78.5" x2="718.5" y2="78.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="86,99,270,322" text-anchor="end" x="95.58333333333331" y="270.5" transform="rotate(270.0, 99.58333333333331, 270.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">addition</text>
+<text aria-label="199,212,270,303" text-anchor="end" x="208.74999999999997" y="270.5" transform="rotate(270.0, 212.74999999999997, 270.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">broad</text>
+<text aria-label="312,325,270,296" text-anchor="end" x="321.91666666666663" y="270.5" transform="rotate(270.0, 325.91666666666663, 270.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">disk</text>
+<text aria-label="426,439,270,335" text-anchor="end" x="435.0833333333333" y="270.5" transform="rotate(270.0, 439.0833333333333, 270.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">dramaturge</text>
+<text aria-label="539,552,270,316" text-anchor="end" x="548.25" y="270.5" transform="rotate(270.0, 552.25, 270.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">kitchen</text>
+<text aria-label="652,665,270,290" text-anchor="end" x="661.4166666666666" y="270.5" transform="rotate(270.0, 665.4166666666666, 270.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">lad</text>
+<line aria-label="95,95,263,268" x1="95.5" y1="263.5" x2="95.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="208,208,263,268" x1="208.5" y1="263.5" x2="208.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="321,321,263,268" x1="321.5" y1="263.5" x2="321.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="435,435,263,268" x1="435.5" y1="263.5" x2="435.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="548,548,263,268" x1="548.5" y1="263.5" x2="548.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="661,661,263,268" x1="661.5" y1="263.5" x2="661.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,718,263,263" x1="39.5" y1="263.5" x2="718.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="471,718,0,26" text-anchor="end" x="718.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">HTTP input Scranton</text>
+<text aria-label="31,37,255,268" text-anchor="end" x="37.5" y="267.5" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="18,37,224,237" text-anchor="end" x="37.5" y="236.73076923076923" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="18,37,193,206" text-anchor="end" x="37.5" y="205.96153846153845" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="18,37,163,176" text-anchor="end" x="37.5" y="175.19230769230768" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="18,37,132,145" text-anchor="end" x="37.5" y="144.4230769230769" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="5,37,101,114" text-anchor="end" x="37.5" y="113.65384615384615" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="5,37,70,83" text-anchor="end" x="37.5" y="82.88461538461537" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">1,200</text>
+<line aria-label="39,39,63,263" x1="39.5" y1="263.5" x2="39.5" y2="63.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="District: kitchen; teal: 224; cultivate Reggae Avon: Folk Key implement" role="graphics-symbol" aria-roledescription="bar" d="M502.41749999999996,178.69230769230768h91.665v34.46153846153847h-91.665Z" fill="#d5a9e4"/>
+<path aria-label="District: kitchen; teal: 324; cultivate Reggae Avon: Implementation withdrawal Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M502.41749999999996,213.15384615384616h91.665v49.84615384615384h-91.665Z" fill="#542fca"/>
+<path aria-label="District: dramaturge; teal: 197; cultivate Reggae Avon: Folk Key implement" role="graphics-symbol" aria-roledescription="bar" d="M389.2508333333333,189.9230769230769h91.665v30.307692307692307h-91.665Z" fill="#d5a9e4"/>
+<path aria-label="District: dramaturge; teal: 278; cultivate Reggae Avon: Implementation withdrawal Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M389.2508333333333,220.23076923076923h91.665v42.769230769230774h-91.665Z" fill="#542fca"/>
+<path aria-label="District: lad; teal: 590; cultivate Reggae Avon: Folk Key implement" role="graphics-symbol" aria-roledescription="bar" d="M615.5841666666666,78.23076923076923h91.665v90.76923076923077h-91.665Z" fill="#d5a9e4"/>
+<path aria-label="District: lad; teal: 611; cultivate Reggae Avon: Implementation withdrawal Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M615.5841666666666,169.0h91.665v94h-91.665Z" fill="#542fca"/>
+<path aria-label="District: disk; teal: 44; cultivate Reggae Avon: Folk Key implement" role="graphics-symbol" aria-roledescription="bar" d="M276.08416666666665,239.9230769230769h91.665v6.769230769230774h-91.665Z" fill="#d5a9e4"/>
+<path aria-label="District: disk; teal: 106; cultivate Reggae Avon: Implementation withdrawal Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M276.08416666666665,246.69230769230768h91.665v16.30769230769232h-91.665Z" fill="#542fca"/>
+<path aria-label="District: broad; teal: 444; cultivate Reggae Avon: Folk Key implement" role="graphics-symbol" aria-roledescription="bar" d="M162.91749999999996,164.07692307692307h91.665v68.30769230769232h-91.665Z" fill="#d5a9e4"/>
+<path aria-label="District: broad; teal: 199; cultivate Reggae Avon: Implementation withdrawal Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M162.91749999999996,232.3846153846154h91.665v30.615384615384613h-91.665Z" fill="#542fca"/>
+<path aria-label="District: addition; teal: 557; cultivate Reggae Avon: Folk Key implement" role="graphics-symbol" aria-roledescription="bar" d="M49.750833333333304,164.23076923076923h91.665v85.6923076923077h-91.665Z" fill="#d5a9e4"/>
+<path aria-label="District: addition; teal: 85; cultivate Reggae Avon: Implementation withdrawal Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M49.750833333333304,249.92307692307693h91.665v13.076923076923066h-91.665Z" fill="#542fca"/>
+<text aria-label="539,556,164,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="548.25" y="174.5628076923077" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">224</text>
+<text aria-label="539,556,198,210" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="548.25" y="209.02434615384615" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">324</text>
+<text aria-label="426,443,175,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="435.0833333333333" y="185.79357692307693" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">197</text>
+<text aria-label="426,443,205,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="435.0833333333333" y="216.10126923076922" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">278</text>
+<text aria-label="653,669,63,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="661.4166666666666" y="74.10126923076922" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">590</text>
+<text aria-label="653,669,154,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="661.4166666666666" y="164.8705" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">611</text>
+<text aria-label="316,327,225,236" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="321.91666666666663" y="235.7935769230769" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">44</text>
+<text aria-label="313,330,232,243" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="321.91666666666663" y="242.56280769230767" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">106</text>
+<text aria-label="200,217,149,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="208.74999999999997" y="159.94742307692306" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">444</text>
+<text aria-label="200,217,218,229" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="208.74999999999997" y="228.25511538461538" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">199</text>
+<text aria-label="87,103,149,161" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="95.58333333333331" y="160.10126923076925" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">557</text>
+<text aria-label="89,101,235,246" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="95.58333333333331" y="245.79357692307693" font-family="sans-serif" font-size="10.185px" fill="#000" opacity="1">85</text>
+<path  d="M40.0,35.0h10v10h-10Z" fill="#d5a9e4" stroke-width="1.5" opacity="1"/>
+<path  d="M161.0,35.0h10v10h-10Z" fill="#542fca" stroke-width="1.5" opacity="1"/>
+<text aria-label="55,154,33,44" text-anchor="start" x="55.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Folk Key implement</text>
+<text aria-label="176,335,33,44" text-anchor="start" x="176.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Implementation withdrawal Bu…</text>
+</svg>

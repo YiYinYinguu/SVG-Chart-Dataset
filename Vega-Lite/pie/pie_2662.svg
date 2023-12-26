@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="502" height="286" viewBox="0 0 502 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Modern clean</text>
+<path aria-label="Brazil: 106; leverage: National" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.61408310600152,226.51001093639448A75,75,0,0,0,174.219867150426,152.12769507508324L158.53003059632945,158.6720841913977A58,58,0,0,1,151.1015576019745,216.1944084574784Z" fill="#40bace" stroke="black" stroke-width="3"/>
+<path aria-label="Brazil: 62; leverage: calculating" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.19128803103733,156.2790309798244A75,75,0,0,0,32.85116139578146,201.48279981014372L49.204898146070995,196.84003185317783A58,58,0,0,1,50.2412627440022,161.88245062439753Z" fill="#a2cffb" stroke="black" stroke-width="3"/>
+<path aria-label="Brazil: 125; leverage: meter" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,34.19128803103733,156.2790309798244L50.2412627440022,161.88245062439753A58,58,0,0,1,104.99999999999999,123.0Z" fill="#2e91cc" stroke="black" stroke-width="3"/>
+<path aria-label="Brazil: 59; leverage: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.219867150426,152.12769507508324A75,75,0,0,0,146.89850743527393,118.79457359123487L137.40151241661187,132.8944702438883A58,58,0,0,1,158.53003059632945,158.6720841913977Z" fill="#abdbcc" stroke="black" stroke-width="3"/>
+<path aria-label="Brazil: 39; leverage: College" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.89850743527393,118.79457359123487A75,75,0,0,0,120.44839640558237,107.6082630775372L116.9467598869837,124.24372344662876A58,58,0,0,1,137.40151241661187,132.8944702438883Z" fill="#00dbc8" stroke="black" stroke-width="3"/>
+<path aria-label="Brazil: 111; leverage: across" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.85116139578146,201.48279981014372A75,75,0,0,0,90.27739894383386,254.54077112827264L93.61452184989818,237.8715296725308A58,58,0,0,1,49.204898146070995,196.84003185317783Z" fill="#6fff9b" stroke="black" stroke-width="3"/>
+<path aria-label="Brazil: 113; leverage: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M90.27739894383386,254.54077112827264A75,75,0,0,0,164.61408310600152,226.51001093639448L151.1015576019745,216.1944084574784A58,58,0,0,1,93.61452184989818,237.8715296725308Z" fill="#fc8bf6" stroke="black" stroke-width="3"/>
+<path aria-label="Brazil: 21; leverage: Chrysler" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.44839640558237,107.6082630775372A75,75,0,0,0,105.0,106.0L105.0,123.0A58,58,0,0,1,116.9467598869837,124.24372344662876Z" fill="#fcfab1" stroke="black" stroke-width="3"/>
+<text aria-label="185,203,184,196" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.25877903357355" y="195.5269408533094" font-family="avenir" font-size="11px" fill="#40bace" opacity="1">106</text>
+<text aria-label="9,21,170,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.039524714208511" y="181.33300049596957" font-family="avenir" font-size="11px" fill="#a2cffb" opacity="1">62</text>
+<text aria-label="43,61,99,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="52.893688742048546" y="110.61790186231057" font-family="avenir" font-size="11px" fill="#2e91cc" opacity="1">125</text>
+<text aria-label="168,180,115,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.60618116972782" y="126.94757198008986" font-family="avenir" font-size="11px" fill="#abdbcc" opacity="1">59</text>
+<text aria-label="134,146,90,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="140.05664462402046" y="101.10831363939361" font-family="avenir" font-size="11px" fill="#00dbc8" opacity="1">39</text>
+<text aria-label="34,52,239,251" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="43.92425746941125" y="250.10411238597212" font-family="avenir" font-size="11px" fill="#6fff9b" opacity="1">111</text>
+<text aria-label="127,145,257,269" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="136.75450714345126" y="268.2119425976892" font-family="avenir" font-size="11px" fill="#fc8bf6" opacity="1">113</text>
+<text aria-label="108,120,83,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="114.31913119271367" y="94.48377915811575" font-family="avenir" font-size="11px" fill="#fcfab1" opacity="1">21</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#fcfab1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,56.25A5,5,0,1,1,73.0,56.25A5,5,0,1,1,83.0,56.25" fill="#00dbc8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M147.0,56.25A5,5,0,1,1,137.0,56.25A5,5,0,1,1,147.0,56.25" fill="#abdbcc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M203.0,56.25A5,5,0,1,1,193.0,56.25A5,5,0,1,1,203.0,56.25" fill="#40bace" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M271.0,56.25A5,5,0,1,1,261.0,56.25A5,5,0,1,1,271.0,56.25" fill="#fc8bf6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M327.0,56.25A5,5,0,1,1,317.0,56.25A5,5,0,1,1,327.0,56.25" fill="#6fff9b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M384.0,56.25A5,5,0,1,1,374.0,56.25A5,5,0,1,1,384.0,56.25" fill="#a2cffb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M463.0,56.25A5,5,0,1,1,453.0,56.25A5,5,0,1,1,463.0,56.25" fill="#2e91cc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Chrysler</text>
+<text aria-label="88,126,49,60" text-anchor="start" x="88.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">College</text>
+<text aria-label="152,185,49,60" text-anchor="start" x="152.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="208,252,49,60" text-anchor="start" x="208.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">National</text>
+<text aria-label="276,303,49,60" text-anchor="start" x="276.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="332,365,49,60" text-anchor="start" x="332.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">across</text>
+<text aria-label="389,449,49,60" text-anchor="start" x="389.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">calculating</text>
+<text aria-label="468,495,49,60" text-anchor="start" x="468.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">meter</text>
+<text aria-label="5,53,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">leverage</text>
+</svg>

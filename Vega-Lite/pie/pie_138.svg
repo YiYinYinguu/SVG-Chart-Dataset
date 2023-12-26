@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="68,289,0,26" text-anchor="end" x="289.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Principal program</text>
+<path aria-label="Omnigender: 78; Mazda oof indexing: Innovative" role="graphics-symbol" aria-roledescription="arc mark"  d="M182.1939376238014,59.30945498303487A75,75,0,0,0,122.0424116176602,100.21122437818804L189.0,134.0Z" fill="#adcdc4" stroke="black" stroke-width="3"/>
+<path aria-label="Omnigender: 399; Mazda oof indexing: Bespoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.0424116176602,100.21122437818804A75,75,0,1,0,189.0,59.0L189.0,134.0Z" fill="#be8f42" stroke="black" stroke-width="3"/>
+<path aria-label="Omnigender: 7; Mazda oof indexing: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,182.1939376238014,59.30945498303487L189.0,134.0Z" fill="#bcce2d" stroke="black" stroke-width="3"/>
+<text aria-label="132,144,51,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.39317112644295" y="62.575885148948444" font-family="monospace" font-size="11px" fill="#adcdc4" opacity="1">78</text>
+<text aria-label="227,245,202,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="236.1742102893324" y="213.6458993265644" font-family="monospace" font-size="11px" fill="#be8f42" opacity="1">399</text>
+<text aria-label="181,187,36,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.9121437055734" y="47.09288442555774" font-family="monospace" font-size="11px" fill="#bcce2d" opacity="1">7</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#be8f42" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#adcdc4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#bcce2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bespoke</text>
+<text aria-label="21,76,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Innovative</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">West</text>
+</svg>

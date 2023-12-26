@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="590" height="309" viewBox="0 0 590 309" style="background-color: rgb(255, 255, 255);">
+<line x1="124.5" y1="34.5" x2="124.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="172.5" y1="34.5" x2="172.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="221.5" y1="34.5" x2="221.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="269.5" y1="34.5" x2="269.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="318.5" y1="34.5" x2="318.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="366.5" y1="34.5" x2="366.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="415.5" y1="34.5" x2="415.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="463.5" y1="34.5" x2="463.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="512.5" y1="34.5" x2="512.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="560.5" y1="34.5" x2="560.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="100.5" y1="234.5" x2="585.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="100.5" y1="203.5" x2="585.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="100.5" y1="172.5" x2="585.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="100.5" y1="142.5" x2="585.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="100.5" y1="111.5" x2="585.5" y2="111.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="100.5" y1="80.5" x2="585.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="100.5" y1="49.5" x2="585.5" y2="49.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="114,128,241,290" text-anchor="end" x="124.24999999999999" y="241.5" transform="rotate(270.0, 128.25, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">battery</text>
+<text aria-label="162,176,241,304" text-anchor="end" x="172.75" y="241.5" transform="rotate(270.0, 176.75, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">diplomacy</text>
+<text aria-label="211,225,241,304" text-anchor="end" x="221.25" y="241.5" transform="rotate(270.0, 225.25, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">ferryboat</text>
+<text aria-label="259,273,241,283" text-anchor="end" x="269.75" y="241.5" transform="rotate(270.0, 273.75, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">filing</text>
+<text aria-label="308,322,241,276" text-anchor="end" x="318.25" y="241.5" transform="rotate(270.0, 322.25, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">first</text>
+<text aria-label="356,370,241,304" text-anchor="end" x="366.75" y="241.5" transform="rotate(270.0, 370.75, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">footprint</text>
+<text aria-label="405,419,241,283" text-anchor="end" x="415.24999999999994" y="241.5" transform="rotate(270.0, 419.24999999999994, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">geyser</text>
+<text aria-label="453,467,241,290" text-anchor="end" x="463.74999999999994" y="241.5" transform="rotate(270.0, 467.74999999999994, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">mailman</text>
+<text aria-label="502,516,241,290" text-anchor="end" x="512.25" y="241.5" transform="rotate(270.0, 516.25, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">nursing</text>
+<text aria-label="550,564,241,297" text-anchor="end" x="560.75" y="241.5" transform="rotate(270.0, 564.75, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">security</text>
+<line aria-label="124,124,234,239" x1="124.5" y1="234.5" x2="124.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="172,172,234,239" x1="172.5" y1="234.5" x2="172.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="221,221,234,239" x1="221.5" y1="234.5" x2="221.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="269,269,234,239" x1="269.5" y1="234.5" x2="269.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="318,318,234,239" x1="318.5" y1="234.5" x2="318.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="366,366,234,239" x1="366.5" y1="234.5" x2="366.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="415,415,234,239" x1="415.5" y1="234.5" x2="415.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="463,463,234,239" x1="463.5" y1="234.5" x2="463.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="512,512,234,239" x1="512.5" y1="234.5" x2="512.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="560,560,234,239" x1="560.5" y1="234.5" x2="560.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="100,585,234,234" x1="100.5" y1="234.5" x2="585.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="297,388,0,26" text-anchor="middle" x="342.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Web red</text>
+<text aria-label="91,98,225,239" text-anchor="end" x="98.5" y="238.5" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="77,98,194,208" text-anchor="end" x="98.5" y="207.73076923076923" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="77,98,163,177" text-anchor="end" x="98.5" y="176.96153846153845" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="77,98,133,147" text-anchor="end" x="98.5" y="146.19230769230768" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="77,98,102,116" text-anchor="end" x="98.5" y="115.42307692307692" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="77,98,71,85" text-anchor="end" x="98.5" y="84.65384615384615" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="77,98,40,54" text-anchor="end" x="98.5" y="53.88461538461537" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="56,68,68,200" text-anchor="middle" x="70.5" y="134.5" transform="rotate(-90.0, 68.5, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">miniature Applications</text>
+<line aria-label="100,100,34,234" x1="100.5" y1="234.5" x2="100.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="to orchid Actinium: geyser; miniature Applications: 261; ASCII: Riel" role="graphics-symbol" aria-roledescription="bar" d="M395.60749999999996,153.69230769230768h39.285v80.3076923076923h-39.285Z" fill="#9a82ec"/>
+<path aria-label="to orchid Actinium: security; miniature Applications: 646; ASCII: Riel" role="graphics-symbol" aria-roledescription="bar" d="M541.1075,35.23076923076923h39.285v198.76923076923077h-39.285Z" fill="#9a82ec"/>
+<path aria-label="to orchid Actinium: nursing; miniature Applications: 486; ASCII: Riel" role="graphics-symbol" aria-roledescription="bar" d="M492.60749999999996,84.46153846153847h39.285v149.53846153846155h-39.285Z" fill="#9a82ec"/>
+<path aria-label="to orchid Actinium: filing; miniature Applications: 577; ASCII: Riel" role="graphics-symbol" aria-roledescription="bar" d="M250.1075,56.46153846153847h39.285v177.53846153846155h-39.285Z" fill="#9a82ec"/>
+<path aria-label="to orchid Actinium: battery; miniature Applications: 122; ASCII: Riel" role="graphics-symbol" aria-roledescription="bar" d="M104.60749999999999,196.46153846153845h39.285v37.53846153846155h-39.285Z" fill="#9a82ec"/>
+<path aria-label="to orchid Actinium: first; miniature Applications: 433; ASCII: Riel" role="graphics-symbol" aria-roledescription="bar" d="M298.60749999999996,100.76923076923076h39.285v133.23076923076923h-39.285Z" fill="#9a82ec"/>
+<path aria-label="to orchid Actinium: mailman; miniature Applications: 367; ASCII: Riel" role="graphics-symbol" aria-roledescription="bar" d="M444.10749999999996,121.07692307692308h39.285v112.92307692307692h-39.285Z" fill="#9a82ec"/>
+<path aria-label="to orchid Actinium: footprint; miniature Applications: 8; ASCII: Riel" role="graphics-symbol" aria-roledescription="bar" d="M347.10749999999996,231.53846153846152h39.285v2.461538461538481h-39.285Z" fill="#9a82ec"/>
+<path aria-label="to orchid Actinium: diplomacy; miniature Applications: 16; ASCII: Riel" role="graphics-symbol" aria-roledescription="bar" d="M153.1075,229.0769230769231h39.285v4.923076923076906h-39.285Z" fill="#9a82ec"/>
+<path aria-label="to orchid Actinium: ferryboat; miniature Applications: 559; ASCII: Riel" role="graphics-symbol" aria-roledescription="bar" d="M201.6075,62.0h39.285v172h-39.285Z" fill="#9a82ec"/>
+<path  d="M6.0,51.0h10v10h-10Z" fill="#9a82ec" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Riel</text>
+<text aria-label="5,35,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">ASCII</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="619" height="330" viewBox="0 0 619 330" style="background-color: rgb(255, 255, 255);">
+<line x1="108.5" y1="34.5" x2="108.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="252.5" y1="34.5" x2="252.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="397.5" y1="34.5" x2="397.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="541.5" y1="34.5" x2="541.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="234.5" x2="614.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="198.5" x2="614.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="161.5" x2="614.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="125.5" x2="614.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="89.5" x2="614.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="52.5" x2="614.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="96,113,241,309" text-anchor="end" x="108.25000000000003" y="241.5" transform="rotate(270.0, 113.25000000000003, 241.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">catacomb</text>
+<text aria-label="240,257,241,318" text-anchor="end" x="252.75000000000003" y="241.5" transform="rotate(270.0, 257.75, 241.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">imbalance</text>
+<text aria-label="385,402,241,284" text-anchor="end" x="397.25" y="241.5" transform="rotate(270.0, 402.25, 241.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">phase</text>
+<text aria-label="529,546,241,326" text-anchor="end" x="541.75" y="241.5" transform="rotate(270.0, 546.75, 241.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">priesthood</text>
+<line aria-label="108,108,234,239" x1="108.5" y1="234.5" x2="108.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="252,252,234,239" x1="252.5" y1="234.5" x2="252.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="397,397,234,239" x1="397.5" y1="234.5" x2="397.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="541,541,234,239" x1="541.5" y1="234.5" x2="541.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,614,234,234" x1="36.5" y1="234.5" x2="614.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="458,614,0,26" text-anchor="end" x="614.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">siemens mole</text>
+<text aria-label="26,34,223,240" text-anchor="end" x="34.5" y="239.5" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="9,34,187,204" text-anchor="end" x="34.5" y="203.13636363636363" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="9,34,150,167" text-anchor="end" x="34.5" y="166.77272727272725" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="9,34,114,131" text-anchor="end" x="34.5" y="130.40909090909093" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="9,34,78,95" text-anchor="end" x="34.5" y="94.04545454545453" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="9,34,41,58" text-anchor="end" x="34.5" y="57.68181818181819" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">500</text>
+<line aria-label="36,36,34,234" x1="36.5" y1="234.5" x2="36.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="azure impactful: phase; Lamborghini lovingly Dubnium: 521; hm Trans: Meridian red" role="graphics-symbol" aria-roledescription="bar" d="M338.7275,44.54545454545455h117.04500000000002v189.45454545454544h-117.04500000000002Z" fill="#25dfff"/>
+<path aria-label="azure impactful: catacomb; Lamborghini lovingly Dubnium: 26; hm Trans: Meridian red" role="graphics-symbol" aria-roledescription="bar" d="M49.72750000000002,224.54545454545456h117.04500000000002v9.454545454545439h-117.04500000000002Z" fill="#25dfff"/>
+<path aria-label="azure impactful: priesthood; Lamborghini lovingly Dubnium: 399; hm Trans: Meridian red" role="graphics-symbol" aria-roledescription="bar" d="M483.2275,88.9090909090909h117.04500000000002v145.0909090909091h-117.04500000000002Z" fill="#25dfff"/>
+<path aria-label="azure impactful: imbalance; Lamborghini lovingly Dubnium: 309; hm Trans: Meridian red" role="graphics-symbol" aria-roledescription="bar" d="M194.22750000000002,121.63636363636364h117.04500000000002v112.36363636363636h-117.04500000000002Z" fill="#25dfff"/>
+<text aria-label="389,404,32,42" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="397.25" y="41.476454545454544" font-family="avenir" font-size="8.67px" fill="#000" opacity="1">521</text>
+<text aria-label="103,113,212,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.25000000000003" y="221.47645454545457" font-family="avenir" font-size="8.67px" fill="#000" opacity="1">26</text>
+<text aria-label="534,549,77,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="541.75" y="85.8400909090909" font-family="avenir" font-size="8.67px" fill="#000" opacity="1">399</text>
+<text aria-label="245,260,109,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="252.75000000000003" y="118.56736363636364" font-family="avenir" font-size="8.67px" fill="#000" opacity="1">309</text>
+</svg>

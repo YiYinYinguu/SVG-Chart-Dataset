@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="326" height="239" viewBox="0 0 326 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Worcester Hatchback</text>
+<path aria-label="Southeast Borders: 135; Tasty Northeast: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.94838081915529,178.93109206060768A75,75,0,0,0,90.12014368659825,207.50911423825292L96.66728046449502,175.16510397342162A42,42,0,0,1,71.37109325872697,159.1614115539403Z" fill="#06edfc" stroke="white" stroke-width="0"/>
+<path aria-label="Southeast Borders: 53; Tasty Northeast: truthfully" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,83.83474756690141,62.04840453858432L93.1474586374648,93.70710654160722A42,42,0,0,1,104.99999999999999,92.0Z" fill="#ef6b3c" stroke="white" stroke-width="0"/>
+<path aria-label="Southeast Borders: 357; Tasty Northeast: Tesla" role="graphics-symbol" aria-roledescription="arc mark"  d="M83.83474756690141,62.04840453858432A75,75,0,0,0,44.94838081915529,178.93109206060768L71.37109325872697,159.1614115539403A42,42,0,0,1,93.1474586374648,93.70710654160722Z" fill="#54eaaf" stroke="white" stroke-width="0"/>
+<path aria-label="Southeast Borders: 392; Tasty Northeast: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.12713961430399,172.89357228241659A75,75,0,0,0,105.0,59.0L105.0,92.0A42,42,0,0,1,140.91119818401023,155.7804004781533Z" fill="#9cbc8c" stroke="white" stroke-width="0"/>
+<path aria-label="Southeast Borders: 227; Tasty Northeast: Buckinghamshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M90.12014368659825,207.50911423825292A75,75,0,0,0,169.12713961430399,172.89357228241659L140.91119818401023,155.7804004781533A42,42,0,0,1,96.66728046449502,175.16510397342162Z" fill="#e5c8d8" stroke="white" stroke-width="0"/>
+<text aria-label="48,65,203,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="56.88228420135571" y="213.0571194979201" font-family="avenir" font-size="10px" fill="#06edfc" opacity="1">135</text>
+<text aria-label="86,97,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.16980728579834" y="47.91921556858378" font-family="avenir" font-size="10px" fill="#ef6b3c" opacity="1">53</text>
+<text aria-label="11,27,98,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.602181317286494" y="108.58851351593185" font-family="avenir" font-size="10px" fill="#54eaaf" opacity="1">357</text>
+<text aria-label="175,191,82,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="183.4235481424457" y="92.84405932663756" font-family="avenir" font-size="10px" fill="#9cbc8c" opacity="1">392</text>
+<text aria-label="132,149,209,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.11746165872694" y="219.43499841287309" font-family="avenir" font-size="10px" fill="#e5c8d8" opacity="1">227</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#9cbc8c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#e5c8d8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#06edfc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#54eaaf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#ef6b3c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="239,321,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Buckinghamshire</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Tesla</text>
+<text aria-label="239,294,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">truthfully</text>
+<text aria-label="223,313,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Tasty Northeast</text>
+</svg>

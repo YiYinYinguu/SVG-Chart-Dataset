@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="347" height="239" viewBox="0 0 347 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,342,0,26" text-anchor="end" x="342.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Representative Hybrid Tuna</text>
+<path aria-label="Lead Handcrafted South: 245; East: CSS" role="graphics-symbol" aria-roledescription="arc mark"  d="M316.9012887400029,137.84667974839547A75,75,0,0,0,242.0,59.0L242.0,134.0Z" fill="#0cd8c4" stroke="black" stroke-width="1"/>
+<path aria-label="Lead Handcrafted South: 313; East: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M202.61697375226242,197.8277153246927A75,75,0,0,0,316.9012887400029,137.84667974839547L242.0,134.0Z" fill="#dba75d" stroke="black" stroke-width="1"/>
+<path aria-label="Lead Handcrafted South: 391; East: New" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.0,59.0A75,75,0,0,0,202.61697375226242,197.8277153246927L242.0,134.0Z" fill="#c376bd" stroke="black" stroke-width="1"/>
+<text aria-label="297,317,64,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="307.2512122984191" y="76.01387821788941" font-family="serif" font-size="12px" fill="#0cd8c4" opacity="1">245</text>
+<text aria-label="274,293,205,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="283.8250854839392" y="217.6910423087889" font-family="serif" font-size="12px" fill="#dba75d" opacity="1">313</text>
+<text aria-label="145,165,101,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.41653375191424" y="113.43776532017917" font-family="serif" font-size="12px" fill="#c376bd" opacity="1">391</text>
+<path  d="M89.0,40.0A5,5,0,1,1,79.0,40.0A5,5,0,1,1,89.0,40.0" fill="#0cd8c4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M89.0,56.0A5,5,0,1,1,79.0,56.0A5,5,0,1,1,89.0,56.0" fill="#dba75d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M89.0,72.0A5,5,0,1,1,79.0,72.0A5,5,0,1,1,89.0,72.0" fill="#c376bd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="94,110,33,44" text-anchor="start" x="94.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">CSS</text>
+<text aria-label="94,127,49,60" text-anchor="start" x="94.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="94,110,65,76" text-anchor="start" x="94.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">New</text>
+</svg>

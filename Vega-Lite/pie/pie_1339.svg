@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="332" height="270" viewBox="0 0 332 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Sharable lender</text>
+<path aria-label="pixel: 168; Global driver Honda: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.78033917197524,118.41811804115733A75,75,0,0,0,105.0,90.0L105.0,119.0A46,46,0,0,1,141.0519413588115,136.42977906524317Z" fill="#57a033" stroke="black" stroke-width="0"/>
+<path aria-label="pixel: 411; Global driver Honda: quibusdam" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,44.5133527037526,209.34371994836886L67.90152299163492,192.1974815683329A46,46,0,0,1,104.99999999999999,119.0Z" fill="#4f3ad5" stroke="black" stroke-width="0"/>
+<path aria-label="pixel: 234; Global driver Honda: Leone" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.5549952813752,206.37478175588518A75,75,0,0,0,163.78033917197524,118.41811804115733L141.0519413588115,136.42977906524317A46,46,0,0,1,143.36706377257678,190.37653281027625Z" fill="#e2520b" stroke="black" stroke-width="0"/>
+<path aria-label="pixel: 271; Global driver Honda: Mobility" role="graphics-symbol" aria-roledescription="arc mark"  d="M71.27353869899432,231.98899766462972A75,75,0,0,0,167.5549952813752,206.37478175588518L143.36706377257678,190.37653281027625A46,46,0,0,1,84.31443706871652,206.08658523430623Z" fill="#ff95ff" stroke="black" stroke-width="0"/>
+<path aria-label="pixel: 88; Global driver Honda: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.5133527037526,209.34371994836886A75,75,0,0,0,71.27353869899432,231.98899766462972L84.31443706871652,206.08658523430623A46,46,0,0,1,67.90152299163492,192.1974815683329Z" fill="#7cde1e" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#57a033" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,40.25A5,5,0,1,1,66.0,40.25A5,5,0,1,1,76.0,40.25" fill="#e2520b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M132.0,40.25A5,5,0,1,1,122.0,40.25A5,5,0,1,1,132.0,40.25" fill="#ff95ff" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M199.0,40.25A5,5,0,1,1,189.0,40.25A5,5,0,1,1,199.0,40.25" fill="#7cde1e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M268.0,40.25A5,5,0,1,1,258.0,40.25A5,5,0,1,1,268.0,40.25" fill="#4f3ad5" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="81,108,33,44" text-anchor="start" x="81.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Leone</text>
+<text aria-label="137,181,33,44" text-anchor="start" x="137.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Mobility</text>
+<text aria-label="204,242,33,44" text-anchor="start" x="204.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="273,322,33,44" text-anchor="start" x="273.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">quibusdam</text>
+</svg>

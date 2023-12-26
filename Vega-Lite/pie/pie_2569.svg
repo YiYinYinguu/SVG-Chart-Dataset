@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Response</text>
+<path aria-label="Chair Applications: 50; through indexing: maximize" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.80076422469858,139.46311920069977A75,75,0,0,0,128.45974552666704,62.76349012041629L116.5734744598224,98.85665512607204A37,37,0,0,1,141.9017103508513,136.69513880567857Z" fill="#d7c8ea" stroke="black" stroke-width="4"/>
+<path aria-label="Chair Applications: 12; through indexing: Electronic" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.45974552666704,62.76349012041629A75,75,0,0,0,105.0,59.0L105.0,97.0A37,37,0,0,1,116.5734744598224,98.85665512607204Z" fill="#e8b0b0" stroke="black" stroke-width="4"/>
+<path aria-label="Chair Applications: 175; through indexing: program" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,179.80076422469858,139.46311920069977L141.9017103508513,136.69513880567857A37,37,0,1,1,105.0,97.0Z" fill="#8ea1b4" stroke="black" stroke-width="4"/>
+<text aria-label="175,184,77,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.7908143822118" y="85.93669922942017" font-family="serif" font-size="8px" fill="#d7c8ea" opacity="1">50</text>
+<text aria-label="114,123,39,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.25582219664936" y="47.13621922573" font-family="serif" font-size="8px" fill="#e8b0b0" opacity="1">12</text>
+<text aria-label="32,45,189,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="39.08332201303085" y="197.27798595876186" font-family="serif" font-size="8px" fill="#8ea1b4" opacity="1">175</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#e8b0b0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M93.0,258.25A5,5,0,1,1,83.0,258.25A5,5,0,1,1,93.0,258.25" fill="#d7c8ea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M160.0,258.25A5,5,0,1,1,150.0,258.25A5,5,0,1,1,160.0,258.25" fill="#8ea1b4" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Electronic</text>
+<text aria-label="98,142,251,262" text-anchor="start" x="98.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">maximize</text>
+<text aria-label="165,203,251,262" text-anchor="start" x="165.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">program</text>
+</svg>

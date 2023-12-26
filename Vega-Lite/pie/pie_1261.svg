@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,170,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Pizza male</text>
+<path aria-label="miscalculate: 15; ew SCSI Producer: Jazz" role="graphics-symbol" aria-roledescription="arc mark"  d="M45.69181972967259,88.0920513089253A75,75,0,0,0,56.14706379583335,190.90685920195932L105.0,134.0Z" fill="#d2ddcb" stroke="white" stroke-width="2"/>
+<path aria-label="miscalculate: 38; ew SCSI Producer: Global" role="graphics-symbol" aria-roledescription="arc mark"  d="M56.14706379583335,190.90685920195932A75,75,0,1,0,105.0,59.0L105.0,134.0Z" fill="#f86f46" stroke="white" stroke-width="2"/>
+<path aria-label="miscalculate: 4; ew SCSI Producer: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,75.4233108665011,65.07816412848271L105.0,134.0Z" fill="#aab12b" stroke="white" stroke-width="2"/>
+<path aria-label="miscalculate: 5; ew SCSI Producer: where" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.4233108665011,65.07816412848271A75,75,0,0,0,45.69181972967259,88.0920513089253L105.0,134.0Z" fill="#b613d2" stroke="white" stroke-width="2"/>
+<text aria-label="9,21,135,147" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.461760894729437" y="146.10514897886887" font-family="serif" font-size="11px" fill="#d2ddcb" opacity="1">15</text>
+<text aria-label="183,195,157,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.39769189323727" y="168.25747275603382" font-family="serif" font-size="11px" fill="#f86f46" opacity="1">38</text>
+<text aria-label="83,89,37,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.88313319202058" y="48.842305287275494" font-family="serif" font-size="11px" fill="#aab12b" opacity="1">4</text>
+<text aria-label="46,52,54,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="49.91046157071036" y="65.83018367560712" font-family="serif" font-size="11px" fill="#b613d2" opacity="1">5</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#f86f46" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#d2ddcb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#b613d2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#aab12b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Global</text>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Jazz</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">where</text>
+<text aria-label="239,294,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+</svg>

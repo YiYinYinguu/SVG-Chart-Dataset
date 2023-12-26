@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="302" height="239" viewBox="0 0 302 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="132,262,0,26" text-anchor="middle" x="197.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Man Bronze</text>
+<path aria-label="fuchsia: 79; sensor omnis: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M268.14225525322627,110.255958274026A75,75,0,0,0,211.84546004383367,60.48393157896065L207.4907917643091,82.04864498246553A53,53,0,0,1,247.27386037894658,117.2208771803117Z" fill="#adbd58" stroke="black" stroke-width="4"/>
+<path aria-label="fuchsia: 15; sensor omnis: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M211.84546004383367,60.48393157896065A75,75,0,0,0,197.0,59.0L197.0,81.0A53,53,0,0,1,207.4907917643091,82.04864498246553Z" fill="#f9fbe7" stroke="black" stroke-width="4"/>
+<path aria-label="fuchsia: 92; sensor omnis: ouch" role="graphics-symbol" aria-roledescription="arc mark"  d="M197.0,59.0A75,75,0,0,0,126.51359305266945,108.37449638240624L147.18960575721974,115.89131077690041A53,53,0,0,1,197.0,81.0Z" fill="#acdf77" stroke="black" stroke-width="4"/>
+<path aria-label="fuchsia: 63; sensor omnis: RAM" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.87597215182143,188.16533497822613A75,75,0,0,0,271.9665033458702,131.75871106422343L249.9763290310816,132.4161558187179A53,53,0,0,1,233.65902032062047,172.27683671794645Z" fill="#df1339" stroke="black" stroke-width="4"/>
+<path aria-label="fuchsia: 20; sensor omnis: azure" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.02026400400446,135.74332727013876A75,75,0,0,0,125.10859456513735,155.3688049408525L146.19674015936374,149.1006221582024A53,53,0,0,1,144.01431989616316,135.23195127089807Z" fill="#6e03c0" stroke="black" stroke-width="4"/>
+<path aria-label="fuchsia: 28; sensor omnis: generate" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.51359305266945,108.37449638240624A75,75,0,0,0,122.02026400400446,135.74332727013876L144.01431989616316,135.23195127089807A53,53,0,0,1,147.18960575721974,115.89131077690041Z" fill="#c4c66e" stroke="black" stroke-width="4"/>
+<path aria-label="fuchsia: 22; sensor omnis: Intelligent" role="graphics-symbol" aria-roledescription="arc mark"  d="M271.9665033458702,131.75871106422343A75,75,0,0,0,268.14225525322627,110.255958274026L247.27386037894658,117.2208771803117A53,53,0,0,1,249.9763290310816,132.4161558187179Z" fill="#d029e1" stroke="black" stroke-width="4"/>
+<path aria-label="fuchsia: 77; sensor omnis: abundance" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.10859456513735,155.3688049408525A75,75,0,0,0,177.7891309931056,206.49787936208855L183.42431923512794,185.23183474920924A53,53,0,0,1,146.19674015936374,149.1006221582024Z" fill="#50cd4c" stroke="black" stroke-width="4"/>
+<path aria-label="fuchsia: 77; sensor omnis: Toys" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.7891309931056,206.49787936208855A75,75,0,0,0,248.87597215182143,188.16533497822613L233.65902032062047,172.27683671794645A53,53,0,0,1,183.42431923512794,185.23183474920924Z" fill="#fbe551" stroke="black" stroke-width="4"/>
+<text aria-label="252,260,61,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="256.61217204903136" y="68.57308442768061" font-family="sans-serif" font-size="7px" fill="#adbd58" opacity="1">79</text>
+<text aria-label="201,209,39,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="205.9516649436781" y="46.44628598022233" font-family="sans-serif" font-size="7px" fill="#f9fbe7" opacity="1">15</text>
+<text aria-label="141,149,55,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.3645199049148" y="62.285841283033974" font-family="sans-serif" font-size="7px" fill="#acdf77" opacity="1">92</text>
+<text aria-label="276,284,163,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="280.2914130762167" y="170.096048272007" font-family="sans-serif" font-size="7px" fill="#df1339" opacity="1">63</text>
+<text aria-label="104,112,142,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.09406678268058" y="149.99053389823064" font-family="sans-serif" font-size="7px" fill="#6e03c0" opacity="1">20</text>
+<text aria-label="104,112,114,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.18895005175868" y="121.4192796100129" font-family="sans-serif" font-size="7px" fill="#c4c66e" opacity="1">28</text>
+<text aria-label="281,289,113,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="285.6095343520839" y="120.24086227273656" font-family="sans-serif" font-size="7px" fill="#d029e1" opacity="1">22</text>
+<text aria-label="130,138,193,201" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="134.31850035721817" y="200.58350875054668" font-family="sans-serif" font-size="7px" fill="#50cd4c" opacity="1">77</text>
+<text aria-label="215,223,216,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="219.47471496904473" y="223.1486499439905" font-family="sans-serif" font-size="7px" fill="#fbe551" opacity="1">77</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#f9fbe7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#adbd58" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#d029e1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#df1339" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#fbe551" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#50cd4c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#6e03c0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#c4c66e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,184.0A5,5,0,1,1,6.0,184.0A5,5,0,1,1,16.0,184.0" fill="#acdf77" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="21,81,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Intelligent</text>
+<text aria-label="21,37,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">RAM</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Toys</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">abundance</text>
+<text aria-label="21,48,145,156" text-anchor="start" x="21.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">azure</text>
+<text aria-label="21,65,161,172" text-anchor="start" x="21.0" y="171.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">generate</text>
+<text aria-label="21,43,177,188" text-anchor="start" x="21.0" y="187.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">ouch</text>
+<text aria-label="5,77,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">sensor omnis</text>
+</svg>

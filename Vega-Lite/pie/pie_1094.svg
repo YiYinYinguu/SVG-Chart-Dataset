@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="239" viewBox="0 0 279 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,196,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electric penny</text>
+<path aria-label="program Sedan: 621; incubate: Frozen" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.1658991175807,154.4226101307146A75,75,0,0,0,171.82446526522563,99.94870278511178L105.0,134.0Z" fill="#a9fe85" stroke="black" stroke-width="0"/>
+<path aria-label="program Sedan: 914; incubate: Bespoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.82446526522563,99.94870278511178A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#a325a8" stroke="black" stroke-width="0"/>
+<path aria-label="program Sedan: 745; incubate: scale" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.84077579107496,79.15719027674696A75,75,0,0,0,30.21700136890881,139.701150387616L105.0,134.0Z" fill="#df39cd" stroke="black" stroke-width="0"/>
+<path aria-label="program Sedan: 374; incubate: via" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.78254002408444,62.366317474119825A75,75,0,0,0,53.84077579107496,79.15719027674696L105.0,134.0Z" fill="#dca71e" stroke="black" stroke-width="0"/>
+<path aria-label="program Sedan: 250; incubate: viral" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,82.78254002408444,62.366317474119825L105.0,134.0Z" fill="#b7c32c" stroke="black" stroke-width="0"/>
+<path aria-label="program Sedan: 768; incubate: Lead" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.19949477262605,203.89411623387113A75,75,0,0,0,177.1658991175807,154.4226101307146L105.0,134.0Z" fill="#af1dbf" stroke="black" stroke-width="0"/>
+<path aria-label="program Sedan: 671; incubate: Sports" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.32066689198207,201.9810256897558A75,75,0,0,0,132.19949477262605,203.89411623387113L105.0,134.0Z" fill="#13be6a" stroke="black" stroke-width="0"/>
+<path aria-label="program Sedan: 880; incubate: however" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.21700136890881,139.701150387616A75,75,0,0,0,73.32066689198207,201.9810256897558L105.0,134.0Z" fill="#13cdf9" stroke="black" stroke-width="0"/>
+<text aria-label="187,202,119,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.57043078044524" y="128.21717984896276" font-family="serif" font-size="9px" fill="#a9fe85" opacity="1">621</text>
+<text aria-label="144,159,51,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.0237168926068" y="60.2616780897317" font-family="serif" font-size="9px" fill="#a325a8" opacity="1">914</text>
+<text aria-label="13,28,95,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.1565431537756" y="104.28494621622474" font-family="serif" font-size="9px" fill="#df39cd" opacity="1">745</text>
+<text aria-label="52,67,50,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="59.83601402758053" y="59.15262129600575" font-family="serif" font-size="9px" fill="#dca71e" opacity="1">374</text>
+<text aria-label="84,99,39,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="91.51737623448348" y="48.01562577397351" font-family="serif" font-size="9px" fill="#b7c32c" opacity="1">250</text>
+<text aria-label="164,179,188,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="171.59976059165237" y="197.53488159015913" font-family="serif" font-size="9px" fill="#af1dbf" opacity="1">768</text>
+<text aria-label="94,109,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.0772629097295" y="226.95252974709024" font-family="serif" font-size="9px" fill="#13be6a" opacity="1">671</text>
+<text aria-label="23,38,179,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="30.995378921906834" y="188.21831761282138" font-family="serif" font-size="9px" fill="#13cdf9" opacity="1">880</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#a325a8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#a9fe85" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#af1dbf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#13be6a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#13cdf9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#df39cd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#dca71e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#b7c32c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bespoke</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Frozen</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Lead</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Sports</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">however</text>
+<text aria-label="239,266,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">scale</text>
+<text aria-label="239,255,129,140" text-anchor="start" x="239.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">via</text>
+<text aria-label="239,266,145,156" text-anchor="start" x="239.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">viral</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="136,279,0,26" text-anchor="end" x="279.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">programming</text>
+<path aria-label="Honolulu Clara decoration: 469; green Trans optical: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M87.27234788907793,206.87475797993514A75,75,0,0,0,179.93871586938468,130.96868611858986L105.0,134.0Z" fill="#5d626a" stroke="white" stroke-width="0"/>
+<path aria-label="Honolulu Clara decoration: 388; green Trans optical: Minivan" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.93871586938468,130.96868611858986A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#92e3de" stroke="white" stroke-width="0"/>
+<path aria-label="Honolulu Clara decoration: 736; green Trans optical: whenever" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,87.27234788907793,206.87475797993514L105.0,134.0Z" fill="#635b2e" stroke="white" stroke-width="0"/>
+<text aria-label="153,171,195,207" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.03105752347616" y="206.6236919284948" font-family="monospace" font-size="11px" fill="#5d626a" opacity="1">469</text>
+<text aria-label="158,176,61,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="167.34026828947606" y="72.08705098675497" font-family="monospace" font-size="11px" fill="#92e3de" opacity="1">388</text>
+<text aria-label="6,24,115,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.639847074232819" y="126.28724736197542" font-family="monospace" font-size="11px" fill="#635b2e" opacity="1">736</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#92e3de" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#5d626a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#635b2e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Minivan</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">whenever</text>
+</svg>

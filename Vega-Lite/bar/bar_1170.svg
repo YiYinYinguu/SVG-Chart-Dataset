@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="957" height="364" viewBox="0 0 957 364" style="background-color: rgb(255, 255, 255);">
+<text aria-label="193,213,254,364" text-anchor="end" x="207.75" y="254.5" transform="rotate(270.0, 213.75, 254.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">combination</text>
+<text aria-label="480,500,254,364" text-anchor="end" x="494.0" y="254.5" transform="rotate(270.0, 500.0, 254.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">grasshopper</text>
+<text aria-label="766,786,254,334" text-anchor="end" x="780.25" y="254.5" transform="rotate(270.0, 786.25, 254.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">sequence</text>
+<line aria-label="207,207,247,252" x1="207.5" y1="247.5" x2="207.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="494,494,247,252" x1="494.5" y1="247.5" x2="494.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="780,780,247,252" x1="780.5" y1="247.5" x2="780.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,952,247,247" x1="36.5" y1="247.5" x2="952.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,135,0,26" text-anchor="start" x="5.5" y="25.96999999999999" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Table Audi</text>
+<text aria-label="24,34,234,254" text-anchor="end" x="34.5" y="253.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="4,34,201,221" text-anchor="end" x="34.5" y="220.16666666666669" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="4,34,167,187" text-anchor="end" x="34.5" y="186.83333333333334" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="4,34,134,154" text-anchor="end" x="34.5" y="153.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="4,34,101,121" text-anchor="end" x="34.5" y="120.16666666666667" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="4,34,67,87" text-anchor="end" x="34.5" y="86.83333333333333" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="4,34,34,54" text-anchor="end" x="34.5" y="53.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">600</text>
+<line aria-label="36,36,47,247" x1="36.5" y1="247.5" x2="36.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="grey to: grasshopper; connecting optical Dynamic: 348; benchmark Pop tan: Radon unfortunate" role="graphics-symbol" aria-roledescription="bar" d="M379.5,131.0h76.33333333333333v115.99999999999999h-76.33333333333333Z" fill="#e0df2c"/>
+<path aria-label="grey to: grasshopper; connecting optical Dynamic: 15; benchmark Pop tan: TCP quash" role="graphics-symbol" aria-roledescription="bar" d="M455.8333333333333,242.0h76.33333333333333v5h-76.33333333333333Z" fill="#ba6a8e"/>
+<path aria-label="grey to: grasshopper; connecting optical Dynamic: 308; benchmark Pop tan: plum considering" role="graphics-symbol" aria-roledescription="bar" d="M532.1666666666666,144.33333333333334h76.33333333333333v102.66666666666666h-76.33333333333333Z" fill="#c4cb50"/>
+<path aria-label="grey to: sequence; connecting optical Dynamic: 518; benchmark Pop tan: Radon unfortunate" role="graphics-symbol" aria-roledescription="bar" d="M665.75,74.33333333333334h76.33333333333333v172.66666666666666h-76.33333333333333Z" fill="#e0df2c"/>
+<path aria-label="grey to: sequence; connecting optical Dynamic: 244; benchmark Pop tan: TCP quash" role="graphics-symbol" aria-roledescription="bar" d="M742.0833333333334,165.66666666666666h76.33333333333333v81.33333333333334h-76.33333333333333Z" fill="#ba6a8e"/>
+<path aria-label="grey to: sequence; connecting optical Dynamic: 536; benchmark Pop tan: plum considering" role="graphics-symbol" aria-roledescription="bar" d="M818.4166666666666,68.33333333333334h76.33333333333333v178.66666666666666h-76.33333333333333Z" fill="#c4cb50"/>
+<path aria-label="grey to: combination; connecting optical Dynamic: 489; benchmark Pop tan: Radon unfortunate" role="graphics-symbol" aria-roledescription="bar" d="M93.25,84.00000000000001h76.33333333333333v163h-76.33333333333333Z" fill="#e0df2c"/>
+<path aria-label="grey to: combination; connecting optical Dynamic: 555; benchmark Pop tan: TCP quash" role="graphics-symbol" aria-roledescription="bar" d="M169.58333333333331,61.99999999999999h76.33333333333333v185h-76.33333333333333Z" fill="#ba6a8e"/>
+<path aria-label="grey to: combination; connecting optical Dynamic: 385; benchmark Pop tan: plum considering" role="graphics-symbol" aria-roledescription="bar" d="M245.91666666666666,118.66666666666666h76.33333333333333v128.33333333333334h-76.33333333333333Z" fill="#c4cb50"/>
+<text aria-label="399,435,99,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="417.6666666666667" y="121.97000000000001" font-family="serif" font-size="22.9px" fill="#000" opacity="1">348</text>
+<text aria-label="482,505,210,233" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="494.0" y="232.97" font-family="serif" font-size="22.9px" fill="#000" opacity="1">15</text>
+<text aria-label="552,588,112,136" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="570.3333333333333" y="135.30333333333334" font-family="serif" font-size="22.9px" fill="#000" opacity="1">308</text>
+<text aria-label="685,721,42,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="703.9166666666666" y="65.30333333333334" font-family="serif" font-size="22.9px" fill="#000" opacity="1">518</text>
+<text aria-label="762,798,133,157" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="780.25" y="156.63666666666666" font-family="serif" font-size="22.9px" fill="#000" opacity="1">244</text>
+<text aria-label="838,874,36,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="856.5833333333333" y="59.30333333333334" font-family="serif" font-size="22.9px" fill="#000" opacity="1">536</text>
+<text aria-label="113,149,52,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.41666666666666" y="74.97000000000001" font-family="serif" font-size="22.9px" fill="#000" opacity="1">489</text>
+<text aria-label="189,225,30,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="207.75" y="52.96999999999999" font-family="serif" font-size="22.9px" fill="#000" opacity="1">555</text>
+<text aria-label="266,302,86,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="284.0833333333333" y="109.63666666666666" font-family="serif" font-size="22.9px" fill="#000" opacity="1">385</text>
+</svg>

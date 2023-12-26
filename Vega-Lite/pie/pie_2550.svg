@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">haptic</text>
+<path aria-label="haptic: 21; Gasoline red: Midwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.9408560453811,208.9375849508437A75,75,0,0,0,268.6101899642753,126.36327599721234L235.78170637999418,129.7234345584389A42,42,0,0,1,192.2868793854134,175.96504757247249Z" fill="#52ce4a" stroke="white" stroke-width="0"/>
+<path aria-label="haptic: 2; Gasoline red: Jeep" role="graphics-symbol" aria-roledescription="arc mark"  d="M268.6101899642753,126.36327599721234A75,75,0,0,0,266.3780196701855,114.34237377956735L234.53169101530386,122.99172931655771A42,42,0,0,1,235.78170637999418,129.7234345584389Z" fill="#fb6070" stroke="white" stroke-width="0"/>
+<path aria-label="haptic: 16; Gasoline red: help" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,121.6219803298145,114.34237377956731L153.46830898469614,122.9917293165577A42,42,0,0,1,194.0,92.0Z" fill="#54a95b" stroke="white" stroke-width="0"/>
+<path aria-label="haptic: 15; Gasoline red: VGA" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.01560538580951,132.4701096956446A75,75,0,0,0,167.07479751143012,204.00023907780252L178.92188660640088,173.2001338835694A42,42,0,0,1,152.0087390160533,133.14326142956097Z" fill="#efc409" stroke="white" stroke-width="0"/>
+<path aria-label="haptic: 3; Gasoline red: fooey" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.6219803298145,114.34237377956731A75,75,0,0,0,119.01560538580951,132.4701096956446L152.0087390160533,133.14326142956097A42,42,0,0,1,153.46830898469614,122.9917293165577Z" fill="#c61ddb" stroke="white" stroke-width="0"/>
+<path aria-label="haptic: 16; Gasoline red: Handcrafted" role="graphics-symbol" aria-roledescription="arc mark"  d="M266.3780196701855,114.34237377956735A75,75,0,0,0,194.0,59.0L194.0,92.0A42,42,0,0,1,234.53169101530386,122.99172931655771Z" fill="#9a53ef" stroke="white" stroke-width="0"/>
+<path aria-label="haptic: 3; Gasoline red: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.07479751143012,204.00023907780252A75,75,0,0,0,184.84292623443804,208.4388876868271L188.8720386912853,175.68577710462318A42,42,0,0,1,178.92188660640088,173.2001338835694Z" fill="#2e9d6d" stroke="white" stroke-width="0"/>
+<path aria-label="haptic: 1; Gasoline red: New" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.84292623443804,208.4388876868271A75,75,0,0,0,190.9408560453811,208.9375849508437L192.2868793854134,175.96504757247249A42,42,0,0,1,188.8720386912853,175.68577710462318Z" fill="#b41d26" stroke="white" stroke-width="0"/>
+<text aria-label="253,265,187,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="259.5568816092442" y="198.662754347106" font-family="serif" font-size="11px" fill="#52ce4a" opacity="1">21</text>
+<text aria-label="279,285,109,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="282.4873601719553" y="120.56871612445745" font-family="serif" font-size="11px" fill="#fb6070" opacity="1">2</text>
+<text aria-label="133,145,54,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="139.33293327700267" y="65.5051623129099" font-family="serif" font-size="11px" fill="#54a95b" opacity="1">16</text>
+<text aria-label="113,125,176,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.29548112204274" y="187.19198002881464" font-family="serif" font-size="11px" fill="#efc409" opacity="1">15</text>
+<text aria-label="101,107,113,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="104.91607023071604" y="124.19166455540436" font-family="serif" font-size="11px" fill="#c61ddb" opacity="1">3</text>
+<text aria-label="242,254,54,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="248.66706672299728" y="65.50516231290987" font-family="serif" font-size="11px" fill="#9a53ef" opacity="1">16</text>
+<text aria-label="169,175,213,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="172.18744366161087" y="224.3167360016658" font-family="serif" font-size="11px" fill="#2e9d6d" opacity="1">3</text>
+<text aria-label="183,189,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.66416448076433" y="226.7005324244774" font-family="serif" font-size="11px" fill="#b41d26" opacity="1">1</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#9a53ef" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#fb6070" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#52ce4a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#b41d26" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#2e9d6d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#efc409" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#c61ddb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#54a95b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Handcrafted</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Jeep</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Midwest</text>
+<text aria-label="21,37,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">New</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="21,37,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">VGA</text>
+<text aria-label="21,48,145,156" text-anchor="start" x="21.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">fooey</text>
+<text aria-label="21,43,161,172" text-anchor="start" x="21.0" y="171.0" font-family="serif" font-size="10px" fill="#000" opacity="1">help</text>
+<text aria-label="5,77,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Gasoline red</text>
+</svg>

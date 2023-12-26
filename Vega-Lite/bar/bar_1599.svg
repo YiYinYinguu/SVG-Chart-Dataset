@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="771" height="339" viewBox="0 0 771 339" style="background-color: rgb(255, 255, 255);">
+<line x1="115.5" y1="34.5" x2="115.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="233.5" y1="34.5" x2="233.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="351.5" y1="34.5" x2="351.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="470.5" y1="34.5" x2="470.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="588.5" y1="34.5" x2="588.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="706.5" y1="34.5" x2="706.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="56.5" y1="234.5" x2="766.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="56.5" y1="189.5" x2="766.5" y2="189.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="56.5" y1="143.5" x2="766.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="56.5" y1="98.5" x2="766.5" y2="98.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="56.5" y1="52.5" x2="766.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="101,121,241,321" text-anchor="end" x="115.16666666666669" y="241.5" transform="rotate(270.0, 121.16666666666669, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">aardvark</text>
+<text aria-label="219,239,241,321" text-anchor="end" x="233.5" y="241.5" transform="rotate(270.0, 239.5, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">ambience</text>
+<text aria-label="337,357,241,311" text-anchor="end" x="351.83333333333337" y="241.5" transform="rotate(270.0, 357.83333333333337, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">glimpse</text>
+<text aria-label="456,476,241,281" text-anchor="end" x="470.1666666666667" y="241.5" transform="rotate(270.0, 476.1666666666667, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">idea</text>
+<text aria-label="574,594,241,311" text-anchor="end" x="588.5" y="241.5" transform="rotate(270.0, 594.5, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">officer</text>
+<text aria-label="692,712,241,321" text-anchor="end" x="706.8333333333333" y="241.5" transform="rotate(270.0, 712.8333333333333, 241.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">softball</text>
+<line aria-label="115,115,234,239" x1="115.5" y1="234.5" x2="115.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="233,233,234,239" x1="233.5" y1="234.5" x2="233.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="351,351,234,239" x1="351.5" y1="234.5" x2="351.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="470,470,234,239" x1="470.5" y1="234.5" x2="470.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="588,588,234,239" x1="588.5" y1="234.5" x2="588.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="706,706,234,239" x1="706.5" y1="234.5" x2="706.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,766,234,234" x1="56.5" y1="234.5" x2="766.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="346,476,0,26" text-anchor="middle" x="411.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">reciprocal</text>
+<text aria-label="44,54,221,241" text-anchor="end" x="54.5" y="240.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="34,54,176,196" text-anchor="end" x="54.5" y="195.04545454545453" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="24,54,130,150" text-anchor="end" x="54.5" y="149.59090909090907" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="24,54,85,105" text-anchor="end" x="54.5" y="104.13636363636365" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="24,54,39,59" text-anchor="end" x="54.5" y="58.68181818181819" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="3,15,101,167" text-anchor="middle" x="17.07373046875" y="134.5" transform="rotate(-90.0, 15.07373046875, 134.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">furthermore</text>
+<path aria-label="Granite Cambridgeshire: softball; furthermore: 18; Ringgit in override: Polygender" role="graphics-symbol" aria-roledescription="bar" d="M664.2333333333332,217.63636363636365h85.2v16.363636363636346h-85.2Z" fill="#d7b564"/>
+<path aria-label="Granite Cambridgeshire: glimpse; furthermore: 84; Ringgit in override: Polygender" role="graphics-symbol" aria-roledescription="bar" d="M309.23333333333335,157.63636363636363h85.2v76.36363636363637h-85.2Z" fill="#d7b564"/>
+<path aria-label="Granite Cambridgeshire: aardvark; furthermore: 163; Ringgit in override: Polygender" role="graphics-symbol" aria-roledescription="bar" d="M72.56666666666669,85.81818181818181h85.2v148.1818181818182h-85.2Z" fill="#d7b564"/>
+<path aria-label="Granite Cambridgeshire: ambience; furthermore: 203; Ringgit in override: Polygender" role="graphics-symbol" aria-roledescription="bar" d="M190.9,49.45454545454545h85.2v184.54545454545456h-85.2Z" fill="#d7b564"/>
+<path aria-label="Granite Cambridgeshire: idea; furthermore: 86; Ringgit in override: Polygender" role="graphics-symbol" aria-roledescription="bar" d="M427.56666666666666,155.8181818181818h85.2v78.18181818181817h-85.2Z" fill="#d7b564"/>
+<path aria-label="Granite Cambridgeshire: officer; furthermore: 67; Ringgit in override: Polygender" role="graphics-symbol" aria-roledescription="bar" d="M545.9,173.0909090909091h85.2v60.90909090909091h-85.2Z" fill="#d7b564"/>
+</svg>

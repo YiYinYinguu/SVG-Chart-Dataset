@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="213" height="286" viewBox="0 0 213 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="104,208,0,26" text-anchor="end" x="208.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electric</text>
+<path aria-label="Music: 96; Functionality Developer: Rial" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.8172826028213,177.8891573946068A75,75,0,0,0,179.22097639256444,123.21822540884887L105.0,134.0Z" fill="#dc9f5b" stroke="black" stroke-width="3"/>
+<path aria-label="Music: 510; Functionality Developer: Soft" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,165.8172826028213,177.8891573946068L105.0,134.0Z" fill="#1eea2c" stroke="black" stroke-width="3"/>
+<path aria-label="Music: 66; Functionality Developer: Bermuda" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.84649105252595,69.24937749325436A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#c705d3" stroke="black" stroke-width="3"/>
+<path aria-label="Music: 112; Functionality Developer: Ernie" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.22097639256444,123.21822540884887A75,75,0,0,0,142.84649105252595,69.24937749325436L105.0,134.0Z" fill="#d13bd7" stroke="black" stroke-width="3"/>
+<text aria-label="188,196,150,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.41125322754874" y="157.43065116111384" font-family="Balto" font-size="7px" fill="#dc9f5b" opacity="1">96</text>
+<text aria-label="18,30,169,177" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="24.87500702459458" y="176.98762619000073" font-family="Balto" font-size="7px" fill="#1eea2c" opacity="1">510</text>
+<text aria-label="124,132,42,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.52586628874133" y="49.12921310725761" font-family="Balto" font-size="7px" fill="#c705d3" opacity="1">66</text>
+<text aria-label="173,185,78,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.63130288130756" y="85.69921839336357" font-family="Balto" font-size="7px" fill="#d13bd7" opacity="1">112</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#c705d3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M87.0,274.25A5,5,0,1,1,77.0,274.25A5,5,0,1,1,87.0,274.25" fill="#d13bd7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M138.0,274.25A5,5,0,1,1,128.0,274.25A5,5,0,1,1,138.0,274.25" fill="#dc9f5b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M183.0,274.25A5,5,0,1,1,173.0,274.25A5,5,0,1,1,183.0,274.25" fill="#1eea2c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Bermuda</text>
+<text aria-label="92,119,267,278" text-anchor="start" x="92.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Ernie</text>
+<text aria-label="143,165,267,278" text-anchor="start" x="143.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Rial</text>
+<text aria-label="188,210,267,278" text-anchor="start" x="188.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Soft</text>
+<text aria-label="5,143,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Functionality Developer</text>
+</svg>

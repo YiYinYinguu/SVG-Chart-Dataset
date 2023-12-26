@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="492" height="239" viewBox="0 0 492 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,460,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">connecting Rutherfordium Operations</text>
+<path aria-label="withdrawal: 14; Gloves Dram: base" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.00823266223028,201.8267870523183A75,75,0,0,0,175.2383430897791,160.29781663945658L142.4604496478822,148.0255022077102A40,40,0,0,1,122.07105741985615,170.1742864279031Z" fill="#cbebcb" stroke="white" stroke-width="0"/>
+<path aria-label="withdrawal: 35; Gloves Dram: Metal" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.2383430897791,160.29781663945658A75,75,0,0,0,105.0,59.0L105.0,94.0A40,40,0,0,1,142.4604496478822,148.0255022077102Z" fill="#6e64dc" stroke="white" stroke-width="0"/>
+<path aria-label="withdrawal: 11; Gloves Dram: definite" role="graphics-symbol" aria-roledescription="arc mark"  d="M92.65540572894496,207.97709775520417A75,75,0,0,0,137.00823266223028,201.8267870523183L122.07105741985615,170.1742864279031A40,40,0,0,1,98.41621638877065,173.4544521361089Z" fill="#efddff" stroke="white" stroke-width="0"/>
+<path aria-label="withdrawal: 54; Gloves Dram: theory" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,92.65540572894496,207.97709775520417L98.41621638877065,173.4544521361089A40,40,0,0,1,104.99999999999999,94.0Z" fill="#a809e0" stroke="white" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#6e64dc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#cbebcb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#efddff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#a809e0" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Metal</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">base</text>
+<text aria-label="239,283,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">definite</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">theory</text>
+<text aria-label="223,289,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Gloves Dram</text>
+</svg>

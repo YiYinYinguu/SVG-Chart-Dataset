@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="419" height="305" viewBox="0 0 419 305" style="background-color: rgb(255, 255, 255);">
+<line x1="62.5" y1="240.5" x2="414.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="62.5" y1="190.5" x2="414.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="62.5" y1="140.5" x2="414.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="62.5" y1="90.5" x2="414.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="62.5" y1="40.5" x2="414.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="81,95,247,282" text-anchor="end" x="91.33333333333336" y="247.5" transform="rotate(270.0, 95.33333333333336, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">caddy</text>
+<text aria-label="130,144,247,275" text-anchor="end" x="140.22222222222223" y="247.5" transform="rotate(270.0, 144.22222222222223, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">land</text>
+<text aria-label="179,193,247,275" text-anchor="end" x="189.11111111111114" y="247.5" transform="rotate(270.0, 193.11111111111114, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">mole</text>
+<text aria-label="228,242,247,296" text-anchor="end" x="238.0" y="247.5" transform="rotate(270.0, 242.0, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">passage</text>
+<text aria-label="276,290,247,289" text-anchor="end" x="286.8888888888889" y="247.5" transform="rotate(270.0, 290.8888888888889, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">shaker</text>
+<text aria-label="325,339,247,282" text-anchor="end" x="335.77777777777777" y="247.5" transform="rotate(270.0, 339.77777777777777, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">slang</text>
+<text aria-label="374,388,247,282" text-anchor="end" x="384.66666666666663" y="247.5" transform="rotate(270.0, 388.66666666666663, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">stole</text>
+<line aria-label="91,91,240,245" x1="91.5" y1="240.5" x2="91.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="140,140,240,245" x1="140.5" y1="240.5" x2="140.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="189,189,240,245" x1="189.5" y1="240.5" x2="189.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="238,238,240,245" x1="238.5" y1="240.5" x2="238.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="286,286,240,245" x1="286.5" y1="240.5" x2="286.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="335,335,240,245" x1="335.5" y1="240.5" x2="335.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="384,384,240,245" x1="384.5" y1="240.5" x2="384.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="62,414,240,240" x1="62.5" y1="240.5" x2="414.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="50,414,0,26" text-anchor="end" x="414.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Implementation what Beaumont</text>
+<text aria-label="48,55,231,245" text-anchor="end" x="55.5" y="244.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="34,55,181,195" text-anchor="end" x="55.5" y="194.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="34,55,131,145" text-anchor="end" x="55.5" y="144.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="34,55,81,95" text-anchor="end" x="55.5" y="94.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="34,55,31,45" text-anchor="end" x="55.5" y="44.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">400</text>
+<line aria-label="57,62,240,240" x1="62.5" y1="240.5" x2="57.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,62,190,190" x1="62.5" y1="190.5" x2="57.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,62,140,140" x1="62.5" y1="140.5" x2="57.5" y2="140.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,62,90,90" x1="62.5" y1="90.5" x2="57.5" y2="90.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,62,40,40" x1="62.5" y1="40.5" x2="57.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="62,62,40,240" x1="62.5" y1="240.5" x2="62.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Dakota Boca: shaker; female quantify duh: 5; Hybrid Mobility Hatchback: female Fantastic" role="graphics-symbol" aria-roledescription="bar" d="M286.8888888888889,237.5h19.555555555555557v2.5h-19.555555555555557Z" fill="#8c28cb"/>
+<path aria-label="Dakota Boca: shaker; female quantify duh: 186; Hybrid Mobility Hatchback: AGP Volvo Bethlehem" role="graphics-symbol" aria-roledescription="bar" d="M267.33333333333337,147.0h19.555555555555557v93.00000000000001h-19.555555555555557Z" fill="#c551f0"/>
+<path aria-label="Dakota Boca: caddy; female quantify duh: 132; Hybrid Mobility Hatchback: female Fantastic" role="graphics-symbol" aria-roledescription="bar" d="M91.33333333333336,174.0h19.555555555555557v66h-19.555555555555557Z" fill="#8c28cb"/>
+<path aria-label="Dakota Boca: caddy; female quantify duh: 6; Hybrid Mobility Hatchback: AGP Volvo Bethlehem" role="graphics-symbol" aria-roledescription="bar" d="M71.7777777777778,237.0h19.555555555555557v3h-19.555555555555557Z" fill="#c551f0"/>
+<path aria-label="Dakota Boca: mole; female quantify duh: 194; Hybrid Mobility Hatchback: female Fantastic" role="graphics-symbol" aria-roledescription="bar" d="M189.11111111111114,143.0h19.555555555555557v97h-19.555555555555557Z" fill="#8c28cb"/>
+<path aria-label="Dakota Boca: mole; female quantify duh: 361; Hybrid Mobility Hatchback: AGP Volvo Bethlehem" role="graphics-symbol" aria-roledescription="bar" d="M169.55555555555557,59.50000000000001h19.555555555555557v180.5h-19.555555555555557Z" fill="#c551f0"/>
+<path aria-label="Dakota Boca: stole; female quantify duh: 335; Hybrid Mobility Hatchback: female Fantastic" role="graphics-symbol" aria-roledescription="bar" d="M384.66666666666663,72.5h19.555555555555557v167.5h-19.555555555555557Z" fill="#8c28cb"/>
+<path aria-label="Dakota Boca: stole; female quantify duh: 141; Hybrid Mobility Hatchback: AGP Volvo Bethlehem" role="graphics-symbol" aria-roledescription="bar" d="M365.1111111111111,169.5h19.555555555555557v70.5h-19.555555555555557Z" fill="#c551f0"/>
+<path aria-label="Dakota Boca: land; female quantify duh: 115; Hybrid Mobility Hatchback: female Fantastic" role="graphics-symbol" aria-roledescription="bar" d="M140.22222222222223,182.5h19.555555555555557v57.5h-19.555555555555557Z" fill="#8c28cb"/>
+<path aria-label="Dakota Boca: land; female quantify duh: 264; Hybrid Mobility Hatchback: AGP Volvo Bethlehem" role="graphics-symbol" aria-roledescription="bar" d="M120.66666666666669,108.0h19.555555555555557v132h-19.555555555555557Z" fill="#c551f0"/>
+<path aria-label="Dakota Boca: passage; female quantify duh: 323; Hybrid Mobility Hatchback: female Fantastic" role="graphics-symbol" aria-roledescription="bar" d="M238.0,78.5h19.555555555555557v161.5h-19.555555555555557Z" fill="#8c28cb"/>
+<path aria-label="Dakota Boca: passage; female quantify duh: 321; Hybrid Mobility Hatchback: AGP Volvo Bethlehem" role="graphics-symbol" aria-roledescription="bar" d="M218.44444444444446,79.5h19.555555555555557v160.5h-19.555555555555557Z" fill="#c551f0"/>
+<path aria-label="Dakota Boca: slang; female quantify duh: 375; Hybrid Mobility Hatchback: female Fantastic" role="graphics-symbol" aria-roledescription="bar" d="M335.77777777777777,52.5h19.555555555555557v187.5h-19.555555555555557Z" fill="#8c28cb"/>
+<path aria-label="Dakota Boca: slang; female quantify duh: 167; Hybrid Mobility Hatchback: AGP Volvo Bethlehem" role="graphics-symbol" aria-roledescription="bar" d="M316.22222222222223,156.5h19.555555555555557v83.5h-19.555555555555557Z" fill="#c551f0"/>
+<text aria-label="294,299,225,235" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="296.6666666666667" y="234.34" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">5</text>
+<text aria-label="269,284,135,144" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="277.1111111111111" y="143.83999999999997" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">186</text>
+<text aria-label="93,108,162,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="101.11111111111114" y="170.84" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">132</text>
+<text aria-label="79,84,225,234" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="81.55555555555557" y="233.84" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">6</text>
+<text aria-label="191,206,131,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="198.8888888888889" y="139.84" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">194</text>
+<text aria-label="171,186,47,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.33333333333334" y="56.34" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">361</text>
+<text aria-label="387,401,60,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="394.4444444444444" y="69.33999999999999" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">335</text>
+<text aria-label="367,382,157,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="374.88888888888886" y="166.34" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">141</text>
+<text aria-label="142,157,170,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.00000000000003" y="179.34" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">115</text>
+<text aria-label="123,137,96,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.44444444444446" y="104.84" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">264</text>
+<text aria-label="240,255,66,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="247.7777777777778" y="75.34" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">323</text>
+<text aria-label="220,235,67,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="228.22222222222223" y="76.34" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">321</text>
+<text aria-label="338,352,40,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="345.55555555555554" y="49.34" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">375</text>
+<text aria-label="318,333,144,154" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="326.0" y="153.34" font-family="avenir" font-size="8.799999999999999px" fill="#000" opacity="1">167</text>
+</svg>

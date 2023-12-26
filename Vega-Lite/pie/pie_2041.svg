@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="331" height="270" viewBox="0 0 331 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="222,326,0,26" text-anchor="end" x="326.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Accounts</text>
+<path aria-label="Coupe purple: 121; tan: quas" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.476803984946045,156.55646663405378A75,75,0,0,0,60.60076015723509,225.44590557998646L105.0,165.0Z" fill="#d6e76a" stroke="black" stroke-width="2"/>
+<path aria-label="Coupe purple: 226; tan: and" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.4675833763264,233.04929611591197A75,75,0,0,0,179.92940308294595,168.25339109751778L105.0,165.0Z" fill="#7ff8ef" stroke="black" stroke-width="2"/>
+<path aria-label="Coupe purple: 23; tan: program" role="graphics-symbol" aria-roledescription="arc mark"  d="M60.60076015723509,225.44590557998646A75,75,0,0,0,73.4675833763264,233.04929611591197L105.0,165.0Z" fill="#12dd91" stroke="black" stroke-width="2"/>
+<path aria-label="Coupe purple: 49; tan: vortals" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,74.05932463058211,96.67961791906974L105.0,165.0Z" fill="#7b93fa" stroke="black" stroke-width="2"/>
+<path aria-label="Coupe purple: 119; tan: system" role="graphics-symbol" aria-roledescription="arc mark"  d="M74.05932463058211,96.67961791906974A75,75,0,0,0,30.476803984946045,156.55646663405378L105.0,165.0Z" fill="#abcf79" stroke="black" stroke-width="2"/>
+<path aria-label="Coupe purple: 186; tan: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.92940308294595,168.25339109751778A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#5b8fd7" stroke="black" stroke-width="2"/>
+<text aria-label="15,30,195,205" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.539171738871843" y="204.0584498070664" font-family="serif" font-size="9px" fill="#d6e76a" opacity="1">121</text>
+<text aria-label="144,159,235,245" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.79156747453172" y="244.8800963401864" font-family="serif" font-size="9px" fill="#7ff8ef" opacity="1">226</text>
+<text aria-label="54,64,236,246" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="59.21316695275319" y="245.48268141658204" font-family="serif" font-size="9px" fill="#12dd91" opacity="1">23</text>
+<text aria-label="81,91,71,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.00791302595303" y="80.02670500447175" font-family="serif" font-size="9px" fill="#7b93fa" opacity="1">49</text>
+<text aria-label="24,39,106,116" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="32.23440741258611" y="115.03615822655522" font-family="serif" font-size="9px" fill="#abcf79" opacity="1">119</text>
+<text aria-label="162,177,96,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.0052545511973" y="105.75598919788314" font-family="serif" font-size="9px" fill="#5b8fd7" opacity="1">186</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#5b8fd7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,40.25A5,5,0,1,1,68.0,40.25A5,5,0,1,1,78.0,40.25" fill="#7ff8ef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M120.0,40.25A5,5,0,1,1,110.0,40.25A5,5,0,1,1,120.0,40.25" fill="#12dd91" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M182.0,40.25A5,5,0,1,1,172.0,40.25A5,5,0,1,1,182.0,40.25" fill="#d6e76a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M229.0,40.25A5,5,0,1,1,219.0,40.25A5,5,0,1,1,229.0,40.25" fill="#abcf79" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M286.0,40.25A5,5,0,1,1,276.0,40.25A5,5,0,1,1,286.0,40.25" fill="#7b93fa" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="83,99,33,44" text-anchor="start" x="83.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">and</text>
+<text aria-label="125,163,33,44" text-anchor="start" x="125.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">program</text>
+<text aria-label="187,209,33,44" text-anchor="start" x="187.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">quas</text>
+<text aria-label="234,267,33,44" text-anchor="start" x="234.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">system</text>
+<text aria-label="291,329,33,44" text-anchor="start" x="291.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">vortals</text>
+</svg>

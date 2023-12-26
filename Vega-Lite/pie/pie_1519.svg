@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="580" height="286" viewBox="0 0 580 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="13,221,0,26" text-anchor="middle" x="117.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Hybrid Tennessee</text>
+<path aria-label="Kansas: 204; Chair Division West: Pennsylvania" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.95055922960104,192.9029543219814A75,75,0,0,0,50.9870619288871,216.59904503240801L117.0,181.0Z" fill="#eaa9f8" stroke="black" stroke-width="0"/>
+<path aria-label="Kansas: 452; Chair Division West: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M95.37610202686864,252.81508919751894A75,75,0,0,0,149.63641509990225,248.52676809552543L117.0,181.0Z" fill="#8eb497" stroke="black" stroke-width="0"/>
+<path aria-label="Kansas: 939; Chair Division West: Consultant" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.84387749986183,194.11799358840364A75,75,0,0,0,132.1752575187971,107.55129981246645L117.0,181.0Z" fill="#7bddfe" stroke="black" stroke-width="0"/>
+<path aria-label="Kansas: 575; Chair Division West: Lead" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.63641509990225,248.52676809552543A75,75,0,0,0,190.84387749986183,194.11799358840364L117.0,181.0Z" fill="#e2a1cb" stroke="black" stroke-width="0"/>
+<path aria-label="Kansas: 103; Chair Division West: virtual" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.79385354654694,132.49786800617852A75,75,0,0,0,52.4418389079011,142.8261367372045L117.0,181.0Z" fill="#aed34e" stroke="black" stroke-width="0"/>
+<path aria-label="Kansas: 528; Chair Division West: yuck" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.99999999999999,106.0A75,75,0,0,0,59.79385354654694,132.49786800617852L117.0,181.0Z" fill="#aaaf4a" stroke="black" stroke-width="0"/>
+<path aria-label="Kansas: 422; Chair Division West: silver" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.4418389079011,142.8261367372045A75,75,0,0,0,42.95055922960104,192.9029543219814L117.0,181.0Z" fill="#facc22" stroke="black" stroke-width="0"/>
+<path aria-label="Kansas: 477; Chair Division West: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M50.9870619288871,216.59904503240801A75,75,0,0,0,95.37610202686864,252.81508919751894L117.0,181.0Z" fill="#aeb6da" stroke="black" stroke-width="0"/>
+<path aria-label="Kansas: 124; Chair Division West: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.1752575187971,107.55129981246645A75,75,0,0,0,117.0,106.0L117.0,181.0Z" fill="#0b2bfb" stroke="black" stroke-width="0"/>
+<path  d="M28.0,56.25A5,5,0,1,1,18.0,56.25A5,5,0,1,1,28.0,56.25" fill="#0b2bfb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,56.25A5,5,0,1,1,78.0,56.25A5,5,0,1,1,88.0,56.25" fill="#7bddfe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M167.0,56.25A5,5,0,1,1,157.0,56.25A5,5,0,1,1,167.0,56.25" fill="#e2a1cb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,56.25A5,5,0,1,1,207.0,56.25A5,5,0,1,1,217.0,56.25" fill="#8eb497" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M273.0,56.25A5,5,0,1,1,263.0,56.25A5,5,0,1,1,273.0,56.25" fill="#aeb6da" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M349.0,56.25A5,5,0,1,1,339.0,56.25A5,5,0,1,1,349.0,56.25" fill="#eaa9f8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M438.0,56.25A5,5,0,1,1,428.0,56.25A5,5,0,1,1,438.0,56.25" fill="#facc22" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M490.0,56.25A5,5,0,1,1,480.0,56.25A5,5,0,1,1,490.0,56.25" fill="#aed34e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M548.0,56.25A5,5,0,1,1,538.0,56.25A5,5,0,1,1,548.0,56.25" fill="#aaaf4a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="33,71,49,60" text-anchor="start" x="33.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="93,148,49,60" text-anchor="start" x="93.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Consultant</text>
+<text aria-label="172,194,49,60" text-anchor="start" x="172.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Lead</text>
+<text aria-label="222,249,49,60" text-anchor="start" x="222.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="278,327,49,60" text-anchor="start" x="278.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="354,420,49,60" text-anchor="start" x="354.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Pennsylvania</text>
+<text aria-label="443,476,49,60" text-anchor="start" x="443.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">silver</text>
+<text aria-label="495,533,49,60" text-anchor="start" x="495.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">virtual</text>
+<text aria-label="553,575,49,60" text-anchor="start" x="553.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">yuck</text>
+<text aria-label="17,131,32,44" text-anchor="start" x="17.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Chair Division West</text>
+</svg>

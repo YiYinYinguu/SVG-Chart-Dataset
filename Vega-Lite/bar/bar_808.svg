@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="440" height="281" viewBox="0 0 440 281" style="background-color: rgb(255, 255, 255);">
+<line x1="78.5" y1="34.5" x2="78.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="180.5" y1="34.5" x2="180.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="282.5" y1="34.5" x2="282.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="384.5" y1="34.5" x2="384.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="70,81,241,274" text-anchor="end" x="78.875" y="241.5" transform="rotate(270.0, 81.875, 241.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">impala</text>
+<text aria-label="172,183,241,258" text-anchor="end" x="180.625" y="241.5" transform="rotate(270.0, 183.625, 241.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">jam</text>
+<text aria-label="274,285,241,280" text-anchor="end" x="282.375" y="241.5" transform="rotate(270.0, 285.375, 241.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">viscose</text>
+<text aria-label="376,387,241,269" text-anchor="end" x="384.125" y="241.5" transform="rotate(270.0, 387.125, 241.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">vista</text>
+<line aria-label="78,78,234,239" x1="78.5" y1="234.5" x2="78.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="180,180,234,239" x1="180.5" y1="234.5" x2="180.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="282,282,234,239" x1="282.5" y1="234.5" x2="282.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="384,384,234,239" x1="384.5" y1="234.5" x2="384.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="28,435,234,234" x1="28.5" y1="234.5" x2="435.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="82,381,0,26" text-anchor="middle" x="231.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Arsenic Chips repurpose</text>
+<text aria-label="16,21,227,238" text-anchor="end" x="21.5" y="237.5" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="5,21,191,202" text-anchor="end" x="21.5" y="201.13636363636363" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="5,21,154,165" text-anchor="end" x="21.5" y="164.77272727272725" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="5,21,118,129" text-anchor="end" x="21.5" y="128.40909090909093" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="5,21,82,93" text-anchor="end" x="21.5" y="92.04545454545453" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="5,21,45,56" text-anchor="end" x="21.5" y="55.68181818181819" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="23,28,234,234" x1="28.5" y1="234.5" x2="23.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,198,198" x1="28.5" y1="198.5" x2="23.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,161,161" x1="28.5" y1="161.5" x2="23.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,125,125" x1="28.5" y1="125.5" x2="23.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,89,89" x1="28.5" y1="89.5" x2="23.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,52,52" x1="28.5" y1="52.5" x2="23.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="28,28,34,234" x1="28.5" y1="234.5" x2="28.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Southern channels Sedan: jam; grey: 138; ad: katal" role="graphics-symbol" aria-roledescription="bar" d="M157.73125000000002,183.8181818181818h45.7875v50.18181818181819h-45.7875Z" fill="#0ecc3d"/>
+<path aria-label="Southern channels Sedan: viscose; grey: 346; ad: katal" role="graphics-symbol" aria-roledescription="bar" d="M259.48125000000005,108.18181818181817h45.7875v125.81818181818183h-45.7875Z" fill="#0ecc3d"/>
+<path aria-label="Southern channels Sedan: impala; grey: 175; ad: katal" role="graphics-symbol" aria-roledescription="bar" d="M55.98125,170.36363636363637h45.7875v63.636363636363626h-45.7875Z" fill="#0ecc3d"/>
+<path aria-label="Southern channels Sedan: vista; grey: 509; ad: katal" role="graphics-symbol" aria-roledescription="bar" d="M361.23125,48.90909090909092h45.7875v185.0909090909091h-45.7875Z" fill="#0ecc3d"/>
+</svg>

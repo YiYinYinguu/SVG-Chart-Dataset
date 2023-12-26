@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="726" height="341" viewBox="0 0 726 341" style="background-color: rgb(255, 255, 255);">
+<line x1="92.5" y1="79.5" x2="92.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="206.5" y1="79.5" x2="206.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="320.5" y1="79.5" x2="320.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="435.5" y1="79.5" x2="435.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="549.5" y1="79.5" x2="549.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="663.5" y1="79.5" x2="663.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="83,96,286,325" text-anchor="end" x="92.16666666666663" y="286.5" transform="rotate(270.0, 96.16666666666663, 286.5)" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">finger</text>
+<text aria-label="197,210,286,312" text-anchor="end" x="206.49999999999997" y="286.5" transform="rotate(270.0, 210.49999999999997, 286.5)" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">heel</text>
+<text aria-label="311,324,286,338" text-anchor="end" x="320.8333333333333" y="286.5" transform="rotate(270.0, 324.8333333333333, 286.5)" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">prestige</text>
+<text aria-label="426,439,286,319" text-anchor="end" x="435.16666666666663" y="286.5" transform="rotate(270.0, 439.16666666666663, 286.5)" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">quart</text>
+<text aria-label="540,553,286,312" text-anchor="end" x="549.5" y="286.5" transform="rotate(270.0, 553.5, 286.5)" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">shoe</text>
+<text aria-label="654,667,286,332" text-anchor="end" x="663.8333333333333" y="286.5" transform="rotate(270.0, 667.8333333333333, 286.5)" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">testing</text>
+<line aria-label="92,92,279,284" x1="92.5" y1="279.5" x2="92.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="206,206,279,284" x1="206.5" y1="279.5" x2="206.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="320,320,279,284" x1="320.5" y1="279.5" x2="320.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="435,435,279,284" x1="435.5" y1="279.5" x2="435.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="549,549,279,284" x1="549.5" y1="279.5" x2="549.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="663,663,279,284" x1="663.5" y1="279.5" x2="663.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,721,279,279" x1="35.5" y1="279.5" x2="721.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,265,0,26" text-anchor="start" x="5.798828125" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">without accidentally</text>
+<text aria-label="22,28,271,284" text-anchor="end" x="28.5" y="283.5" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="9,28,235,248" text-anchor="end" x="28.5" y="247.13636363636363" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="9,28,198,211" text-anchor="end" x="28.5" y="210.77272727272725" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="9,28,162,175" text-anchor="end" x="28.5" y="174.40909090909093" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="9,28,126,139" text-anchor="end" x="28.5" y="138.04545454545453" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="9,28,89,102" text-anchor="end" x="28.5" y="101.68181818181819" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="30,35,279,279" x1="35.5" y1="279.5" x2="30.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,243,243" x1="35.5" y1="243.5" x2="30.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,206,206" x1="35.5" y1="206.5" x2="30.5" y2="206.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,170,170" x1="35.5" y1="170.5" x2="30.5" y2="170.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,134,134" x1="35.5" y1="134.5" x2="30.5" y2="134.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,97,97" x1="35.5" y1="97.5" x2="30.5" y2="97.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="optical transmitting: finger; amet black: 411; Electric transmitter: Diesel unaccountably" role="graphics-symbol" aria-roledescription="bar" d="M56.151666666666635,129.54545454545453h72.03v149.45454545454547h-72.03Z" fill="#1508e7"/>
+<path aria-label="optical transmitting: shoe; amet black: 460; Electric transmitter: Diesel unaccountably" role="graphics-symbol" aria-roledescription="bar" d="M513.4849999999999,111.72727272727275h72.03v167.27272727272725h-72.03Z" fill="#1508e7"/>
+<path aria-label="optical transmitting: heel; amet black: 295; Electric transmitter: Diesel unaccountably" role="graphics-symbol" aria-roledescription="bar" d="M170.48499999999996,171.72727272727272h72.03v107.27272727272728h-72.03Z" fill="#1508e7"/>
+<path aria-label="optical transmitting: quart; amet black: 238; Electric transmitter: Diesel unaccountably" role="graphics-symbol" aria-roledescription="bar" d="M399.15166666666664,192.45454545454544h72.03v86.54545454545455h-72.03Z" fill="#1508e7"/>
+<path aria-label="optical transmitting: testing; amet black: 341; Electric transmitter: Diesel unaccountably" role="graphics-symbol" aria-roledescription="bar" d="M627.8183333333332,155.0h72.03v124h-72.03Z" fill="#1508e7"/>
+<path aria-label="optical transmitting: prestige; amet black: 502; Electric transmitter: Diesel unaccountably" role="graphics-symbol" aria-roledescription="bar" d="M284.81833333333327,96.45454545454545h72.03v182.54545454545453h-72.03Z" fill="#1508e7"/>
+<text aria-label="83,100,115,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.16666666666663" y="125.34245454545454" font-family="avenir" font-size="10.29px" fill="#000" opacity="1">411</text>
+<text aria-label="541,557,97,108" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="549.5" y="107.52427272727274" font-family="avenir" font-size="10.29px" fill="#000" opacity="1">460</text>
+<text aria-label="198,214,157,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="206.49999999999997" y="167.52427272727272" font-family="avenir" font-size="10.29px" fill="#000" opacity="1">295</text>
+<text aria-label="426,443,177,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="435.16666666666663" y="188.25154545454546" font-family="avenir" font-size="10.29px" fill="#000" opacity="1">238</text>
+<text aria-label="655,672,140,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="663.8333333333333" y="150.797" font-family="avenir" font-size="10.29px" fill="#000" opacity="1">341</text>
+<text aria-label="312,329,81,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="320.8333333333333" y="92.25154545454546" font-family="avenir" font-size="10.29px" fill="#000" opacity="1">502</text>
+<path  d="M36.0,51.0h10v10h-10Z" fill="#1508e7" stroke-width="1.5" opacity="1"/>
+<text aria-label="51,161,49,60" text-anchor="start" x="51.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Diesel unaccountably</text>
+<text aria-label="35,155,32,44" text-anchor="start" x="35.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Electric transmitter</text>
+</svg>

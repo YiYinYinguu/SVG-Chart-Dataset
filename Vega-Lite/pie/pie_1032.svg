@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="85,124,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">SSD</text>
+<path aria-label="Tesla: 82; boo: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.24322442794525,207.82152129800005A75,75,0,0,0,149.76491878213915,194.17559344475538L128.27775776671234,165.29130859127278A39,39,0,0,1,111.88647670253152,172.38719107496001Z" fill="#abf249" stroke="white" stroke-width="0"/>
+<path aria-label="Tesla: 279; boo: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.99992557459353,134.10565891079872A75,75,0,0,0,105.0,59.0L105.0,95.0A39,39,0,0,1,143.99996129878863,134.05494263361533Z" fill="#fd7f2c" stroke="white" stroke-width="0"/>
+<path aria-label="Tesla: 70; boo: Wisconsin" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.68546890655884,169.03402582999882A75,75,0,0,0,57.24206481177777,191.82888228694694L80.16587370212444,164.07101878921242A39,39,0,0,1,70.5164438314106,152.2176934315994Z" fill="#3972d6" stroke="white" stroke-width="0"/>
+<path aria-label="Tesla: 164; boo: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.76491878213915,194.17559344475538A75,75,0,0,0,179.9981393722238,134.528290360025L143.99903247355638,134.274710987213A39,39,0,0,1,128.27775776671234,165.29130859127278Z" fill="#ad7e33" stroke="white" stroke-width="0"/>
+<path aria-label="Tesla: 62; boo: compress" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.699179718159073,144.21704974273766A75,75,0,0,0,38.68546890655884,169.03402582999882L70.5164438314106,152.2176934315994A39,39,0,0,1,66.36357345344271,139.31286586622358Z" fill="#f0d384" stroke="white" stroke-width="0"/>
+<path aria-label="Tesla: 1; boo: Dodge" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.9981393722238,134.528290360025A75,75,0,0,0,179.99992557459353,134.10565891079872L143.99996129878863,134.05494263361533A39,39,0,0,1,143.99903247355638,134.274710987213Z" fill="#ddaaa9" stroke="white" stroke-width="0"/>
+<path aria-label="Tesla: 303; boo: scale" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.699179718159073,144.21704974273766L66.36357345344271,139.31286586622358A39,39,0,0,1,104.99999999999999,95.0Z" fill="#8a5d6e" stroke="white" stroke-width="0"/>
+<path aria-label="Tesla: 154; boo: Supervisor" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.24206481177777,191.82888228694694A75,75,0,0,0,118.24322442794525,207.82152129800005L111.88647670253152,172.38719107496001A39,39,0,0,1,80.16587370212444,164.07101878921242Z" fill="#7edabc" stroke="white" stroke-width="0"/>
+<text aria-label="135,145,210,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="140.75494608074166" y="219.592880024632" font-family="avenir" font-size="9px" fill="#abf249" opacity="1">82</text>
+<text aria-label="161,176,64,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.68442180928653" y="73.40523277173767" font-family="avenir" font-size="9px" fill="#fd7f2c" opacity="1">279</text>
+<text aria-label="30,40,184,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="35.20338191566391" y="193.81929341332335" font-family="avenir" font-size="9px" fill="#3972d6" opacity="1">70</text>
+<text aria-label="177,192,168,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.27675074986607" y="177.6895968159415" font-family="avenir" font-size="9px" fill="#ad7e33" opacity="1">164</text>
+<text aria-label="14,24,155,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.326892410608195" y="164.57024910980124" font-family="avenir" font-size="9px" fill="#f0d384" opacity="1">62</text>
+<text aria-label="192,197,128,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.99919620667364" y="137.38037107232134" font-family="avenir" font-size="9px" fill="#ddaaa9" opacity="1">1</text>
+<text aria-label="29,44,68,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="37.16401628849309" y="77.85374640865096" font-family="avenir" font-size="9px" fill="#8a5d6e" opacity="1">303</text>
+<text aria-label="74,89,215,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="82.17609336451714" y="224.05785022555267" font-family="avenir" font-size="9px" fill="#7edabc" opacity="1">154</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#fd7f2c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ddaaa9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ad7e33" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#abf249" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#7edabc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#3972d6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#f0d384" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#8a5d6e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Dodge</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="239,294,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Supervisor</text>
+<text aria-label="239,288,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Wisconsin</text>
+<text aria-label="239,283,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">compress</text>
+<text aria-label="239,266,145,156" text-anchor="start" x="239.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">scale</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="462" height="302" viewBox="0 0 462 302" style="background-color: rgb(255, 255, 255);">
+<text aria-label="90,106,241,297" text-anchor="end" x="101.5" y="241.5" transform="rotate(270.0, 106.5, 241.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">illegal</text>
+<text aria-label="169,185,241,289" text-anchor="end" x="180.5" y="241.5" transform="rotate(270.0, 185.5, 241.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">morsel</text>
+<text aria-label="248,264,241,289" text-anchor="end" x="259.5" y="241.5" transform="rotate(270.0, 264.5, 241.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">nephew</text>
+<text aria-label="327,343,241,297" text-anchor="end" x="338.5" y="241.5" transform="rotate(270.0, 343.5, 241.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">prairie</text>
+<text aria-label="406,422,241,273" text-anchor="end" x="417.5" y="241.5" transform="rotate(270.0, 422.5, 241.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">spat</text>
+<line aria-label="101,101,234,239" x1="101.5" y1="234.5" x2="101.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="180,180,234,239" x1="180.5" y1="234.5" x2="180.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="259,259,234,239" x1="259.5" y1="234.5" x2="259.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="338,338,234,239" x1="338.5" y1="234.5" x2="338.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="417,417,234,239" x1="417.5" y1="234.5" x2="417.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="62,457,234,234" x1="62.5" y1="234.5" x2="457.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="327,457,0,26" text-anchor="end" x="457.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Salad Ball</text>
+<text aria-label="52,60,224,240" text-anchor="end" x="60.5" y="239.5" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="36,60,193,209" text-anchor="end" x="60.5" y="208.73076923076923" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="36,60,162,178" text-anchor="end" x="60.5" y="177.96153846153845" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="36,60,132,148" text-anchor="end" x="60.5" y="147.19230769230768" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="36,60,101,117" text-anchor="end" x="60.5" y="116.42307692307692" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="20,60,70,86" text-anchor="end" x="60.5" y="85.65384615384615" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="20,60,39,55" text-anchor="end" x="60.5" y="54.88461538461537" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">1,200</text>
+<text aria-label="2,14,119,149" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Human</text>
+<path aria-label="Southeast: illegal; Human: 568; afore Lenexa: female yew Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M73.05999999999999,146.6153846153846h56.88000000000001v87.38461538461539h-56.88000000000001Z" fill="#8c2418"/>
+<path aria-label="Southeast: illegal; Human: 225; afore Lenexa: Electric" role="graphics-symbol" aria-roledescription="bar" d="M73.05999999999999,112.0h56.88000000000001v34.61538461538461h-56.88000000000001Z" fill="#afb1bd"/>
+<path aria-label="Southeast: spat; Human: 229; afore Lenexa: female yew Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M389.06,198.76923076923077h56.88000000000001v35.230769230769226h-56.88000000000001Z" fill="#8c2418"/>
+<path aria-label="Southeast: spat; Human: 302; afore Lenexa: Electric" role="graphics-symbol" aria-roledescription="bar" d="M389.06,152.30769230769232h56.88000000000001v46.46153846153845h-56.88000000000001Z" fill="#afb1bd"/>
+<path aria-label="Southeast: prairie; Human: 612; afore Lenexa: female yew Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M310.06,139.84615384615384h56.88000000000001v94.15384615384616h-56.88000000000001Z" fill="#8c2418"/>
+<path aria-label="Southeast: prairie; Human: 638; afore Lenexa: Electric" role="graphics-symbol" aria-roledescription="bar" d="M310.06,41.692307692307686h56.88000000000001v98.15384615384615h-56.88000000000001Z" fill="#afb1bd"/>
+<path aria-label="Southeast: nephew; Human: 24; afore Lenexa: female yew Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M231.06,230.30769230769232h56.88000000000001v3.692307692307679h-56.88000000000001Z" fill="#8c2418"/>
+<path aria-label="Southeast: nephew; Human: 842; afore Lenexa: Electric" role="graphics-symbol" aria-roledescription="bar" d="M231.06,100.76923076923076h56.88000000000001v129.53846153846155h-56.88000000000001Z" fill="#afb1bd"/>
+<path aria-label="Southeast: morsel; Human: 758; afore Lenexa: female yew Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M152.06,117.38461538461539h56.88000000000001v116.61538461538461h-56.88000000000001Z" fill="#8c2418"/>
+<path aria-label="Southeast: morsel; Human: 317; afore Lenexa: Electric" role="graphics-symbol" aria-roledescription="bar" d="M152.06,68.61538461538463h56.88000000000001v48.76923076923076h-56.88000000000001Z" fill="#afb1bd"/>
+</svg>

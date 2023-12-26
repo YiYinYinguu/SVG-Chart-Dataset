@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="468" height="298" viewBox="0 0 468 298" style="background-color: rgb(255, 255, 255);">
+<line x1="116.5" y1="34.5" x2="116.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="250.5" y1="34.5" x2="250.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="383.5" y1="34.5" x2="383.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="234.5" x2="463.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="198.5" x2="463.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="161.5" x2="463.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="125.5" x2="463.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="89.5" x2="463.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="52.5" x2="463.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="104,121,241,275" text-anchor="end" x="116.875" y="241.5" transform="rotate(270.0, 121.875, 241.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">dart</text>
+<text aria-label="238,255,241,292" text-anchor="end" x="250.0" y="241.5" transform="rotate(270.0, 255.0, 241.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">e-mail</text>
+<text aria-label="371,388,241,301" text-anchor="end" x="383.125" y="241.5" transform="rotate(270.0, 388.125, 241.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">stealth</text>
+<line aria-label="116,116,234,239" x1="116.5" y1="234.5" x2="116.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="250,250,234,239" x1="250.5" y1="234.5" x2="250.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="383,383,234,239" x1="383.5" y1="234.5" x2="383.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,463,234,234" x1="37.5" y1="234.5" x2="463.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="138,463,0,26" text-anchor="end" x="463.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gasoline quantify Savings</text>
+<text aria-label="27,35,223,240" text-anchor="end" x="35.5" y="239.5" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="10,35,187,204" text-anchor="end" x="35.5" y="203.13636363636363" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="10,35,150,167" text-anchor="end" x="35.5" y="166.77272727272725" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="10,35,114,131" text-anchor="end" x="35.5" y="130.40909090909093" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="10,35,78,95" text-anchor="end" x="35.5" y="94.04545454545453" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="10,35,41,58" text-anchor="end" x="35.5" y="57.68181818181819" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="37,37,34,234" x1="37.5" y1="234.5" x2="37.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="SCSI monk: dart; Hybrid: 502; nor: Legacy" role="graphics-symbol" aria-roledescription="bar" d="M99.125,51.45454545454545h35.5v182.54545454545453h-35.5Z" fill="#a0c26b"/>
+<path aria-label="SCSI monk: dart; Hybrid: 453; nor: Female" role="graphics-symbol" aria-roledescription="bar" d="M63.625,69.27272727272728h35.5v164.72727272727272h-35.5Z" fill="#d1aadb"/>
+<path aria-label="SCSI monk: dart; Hybrid: 331; nor: Soul" role="graphics-symbol" aria-roledescription="bar" d="M134.625,113.63636363636364h35.5v120.36363636363636h-35.5Z" fill="#c57e42"/>
+<path aria-label="SCSI monk: e-mail; Hybrid: 456; nor: Legacy" role="graphics-symbol" aria-roledescription="bar" d="M232.25,68.18181818181819h35.5v165.8181818181818h-35.5Z" fill="#a0c26b"/>
+<path aria-label="SCSI monk: e-mail; Hybrid: 86; nor: Female" role="graphics-symbol" aria-roledescription="bar" d="M196.75,202.72727272727272h35.5v31.27272727272728h-35.5Z" fill="#d1aadb"/>
+<path aria-label="SCSI monk: e-mail; Hybrid: 392; nor: Soul" role="graphics-symbol" aria-roledescription="bar" d="M267.75,91.45454545454544h35.5v142.54545454545456h-35.5Z" fill="#c57e42"/>
+<path aria-label="SCSI monk: stealth; Hybrid: 397; nor: Legacy" role="graphics-symbol" aria-roledescription="bar" d="M365.375,89.63636363636364h35.5v144.36363636363637h-35.5Z" fill="#a0c26b"/>
+<path aria-label="SCSI monk: stealth; Hybrid: 464; nor: Female" role="graphics-symbol" aria-roledescription="bar" d="M329.875,65.27272727272728h35.5v168.72727272727272h-35.5Z" fill="#d1aadb"/>
+<path aria-label="SCSI monk: stealth; Hybrid: 143; nor: Soul" role="graphics-symbol" aria-roledescription="bar" d="M400.875,182.0h35.5v52h-35.5Z" fill="#c57e42"/>
+</svg>

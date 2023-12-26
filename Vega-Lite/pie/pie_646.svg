@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="239" viewBox="0 0 279 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="183,274,0,26" text-anchor="end" x="274.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Pop CLI</text>
+<path aria-label="communities Sedan: 131; Account: spray" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.0,59.0A75,75,0,0,0,99.30628489443336,127.228816667048L174.0,134.0Z" fill="#88decd" stroke="black" stroke-width="0"/>
+<path aria-label="communities Sedan: 94; Account: program" role="graphics-symbol" aria-roledescription="arc mark"  d="M99.30628489443336,127.228816667048A75,75,0,0,0,131.71765508292745,195.94516372012998L174.0,134.0Z" fill="#1fe690" stroke="black" stroke-width="0"/>
+<path aria-label="communities Sedan: 117; Account: Fish" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.87863524991207,163.6771563009256A75,75,0,0,0,219.7131209378499,74.54152226871673L174.0,134.0Z" fill="#4caa2d" stroke="black" stroke-width="0"/>
+<path aria-label="communities Sedan: 12; Account: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.139480038827,59.688554417625355A75,75,0,0,0,174.0,59.0L174.0,134.0Z" fill="#e8d6b8" stroke="black" stroke-width="0"/>
+<path aria-label="communities Sedan: 101; Account: negate" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.71765508292745,195.94516372012998A75,75,0,0,0,212.71661243618655,198.2341336165292L174.0,134.0Z" fill="#2da393" stroke="black" stroke-width="0"/>
+<path aria-label="communities Sedan: 55; Account: absent" role="graphics-symbol" aria-roledescription="arc mark"  d="M212.71661243618655,198.2341336165292A75,75,0,0,0,242.87863524991207,163.6771563009256L174.0,134.0Z" fill="#df4dbc" stroke="black" stroke-width="0"/>
+<path aria-label="communities Sedan: 46; Account: Cotton" role="graphics-symbol" aria-roledescription="arc mark"  d="M219.7131209378499,74.54152226871673A75,75,0,0,0,184.139480038827,59.688554417625355L174.0,134.0Z" fill="#815d73" stroke="black" stroke-width="0"/>
+<text aria-label="105,120,61,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="113.30110297525505" y="70.54968848846977" font-family="monospace" font-size="9px" fill="#88decd" opacity="1">131</text>
+<text aria-label="87,97,166,176" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.60024207980538" y="175.3937418146983" font-family="monospace" font-size="9px" fill="#1fe690" opacity="1">94</text>
+<text aria-label="253,268,105,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="261.106345707916" y="114.36187866864768" font-family="monospace" font-size="9px" fill="#4caa2d" opacity="1">117</text>
+<text aria-label="175,185,38,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.09769944747762" y="47.206803924527605" font-family="monospace" font-size="9px" fill="#e8d6b8" opacity="1">12</text>
+<text aria-label="163,178,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="171.45768230304077" y="226.96408517140452" font-family="monospace" font-size="9px" fill="#2da393" opacity="1">101</text>
+<text aria-label="236,246,187,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="241.8051024783287" y="196.18165322043092" font-family="monospace" font-size="9px" fill="#df4dbc" opacity="1">55</text>
+<text aria-label="203,213,44,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="208.67628192791668" y="53.94847700580296" font-family="monospace" font-size="9px" fill="#815d73" opacity="1">46</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#e8d6b8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#815d73" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#4caa2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#df4dbc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#2da393" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#1fe690" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#88decd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cotton</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Fish</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">absent</text>
+<text aria-label="21,54,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">negate</text>
+<text aria-label="21,59,129,140" text-anchor="start" x="21.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">program</text>
+<text aria-label="21,48,145,156" text-anchor="start" x="21.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">spray</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Account</text>
+</svg>

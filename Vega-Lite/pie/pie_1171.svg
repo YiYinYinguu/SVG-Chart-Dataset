@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="239" viewBox="0 0 309 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="106,301,0,26" text-anchor="middle" x="204.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Human Ergonomic</text>
+<path aria-label="up Fields: 339; male under: exploit" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.41402986747894,101.48636222681364A75,75,0,0,0,133.0015515583246,158.17064994729685L204.0,134.0Z" fill="#1125af" stroke="black" stroke-width="0"/>
+<path aria-label="up Fields: 101; male under: ohm" role="graphics-symbol" aria-roledescription="arc mark"  d="M145.66993131532885,86.85550841040339A75,75,0,0,0,136.41402986747894,101.48636222681364L204.0,134.0Z" fill="#c40203" stroke="black" stroke-width="0"/>
+<path aria-label="up Fields: 476; male under: XML" role="graphics-symbol" aria-roledescription="arc mark"  d="M218.0890352866871,207.66477506034A75,75,0,0,0,275.8364265566807,155.55290745042586L204.0,134.0Z" fill="#f5acd8" stroke="black" stroke-width="0"/>
+<path aria-label="up Fields: 240; male under: Minivan" role="graphics-symbol" aria-roledescription="arc mark"  d="M254.05486169958579,78.14741885789573A75,75,0,0,0,217.49800442574772,60.22463909595227L204.0,134.0Z" fill="#3b33ac" stroke="black" stroke-width="0"/>
+<path aria-label="up Fields: 407; male under: architectures" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.24547387541307,189.2175522625607A75,75,0,0,0,218.0890352866871,207.66477506034L204.0,134.0Z" fill="#48ccac" stroke="black" stroke-width="0"/>
+<path aria-label="up Fields: 389; male under: route" role="graphics-symbol" aria-roledescription="arc mark"  d="M204.0,59.0A75,75,0,0,0,145.66993131532885,86.85550841040339L204.0,134.0Z" fill="#5f3774" stroke="black" stroke-width="0"/>
+<path aria-label="up Fields: 494; male under: Rubber" role="graphics-symbol" aria-roledescription="arc mark"  d="M275.8364265566807,155.55290745042586A75,75,0,0,0,254.05486169958579,78.14741885789573L204.0,134.0Z" fill="#c46fbc" stroke="black" stroke-width="0"/>
+<path aria-label="up Fields: 79; male under: Factors" role="graphics-symbol" aria-roledescription="arc mark"  d="M217.49800442574772,60.22463909595227A75,75,0,0,0,204.0,59.0L204.0,134.0Z" fill="#bcfbf2" stroke="black" stroke-width="0"/>
+<path aria-label="up Fields: 218; male under: coulomb" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.0015515583246,158.17064994729685A75,75,0,0,0,153.24547387541307,189.2175522625607L204.0,134.0Z" fill="#c9e85d" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#bcfbf2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#3b33ac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c46fbc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#f5acd8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#48ccac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#c9e85d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#1125af" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#c40203" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,184.0A5,5,0,1,1,6.0,184.0A5,5,0,1,1,16.0,184.0" fill="#5f3774" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Factors</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Minivan</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Rubber</text>
+<text aria-label="21,37,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">XML</text>
+<text aria-label="21,92,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">architectures</text>
+<text aria-label="21,59,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">coulomb</text>
+<text aria-label="21,59,145,156" text-anchor="start" x="21.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">exploit</text>
+<text aria-label="21,37,161,172" text-anchor="start" x="21.0" y="171.0" font-family="serif" font-size="10px" fill="#000" opacity="1">ohm</text>
+<text aria-label="21,48,177,188" text-anchor="start" x="21.0" y="187.0" font-family="serif" font-size="10px" fill="#000" opacity="1">route</text>
+<text aria-label="5,65,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">male under</text>
+</svg>

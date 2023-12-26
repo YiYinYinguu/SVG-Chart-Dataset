@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="250" height="270" viewBox="0 0 250 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Tuna</text>
+<path aria-label="Martin: 310; Toys opposite: Engineer" role="graphics-symbol" aria-roledescription="arc mark"  d="M47.89035703627846,182.61572462235085A75,75,0,0,0,149.1423907219409,194.63373105253797L105.0,134.0Z" fill="#9e78b4" stroke="black" stroke-width="0"/>
+<path aria-label="Martin: 423; Toys opposite: distinctio" role="graphics-symbol" aria-roledescription="arc mark"  d="M87.44324772721774,61.083880728386575A75,75,0,0,0,47.89035703627846,182.61572462235085L105.0,134.0Z" fill="#ac438d" stroke="black" stroke-width="0"/>
+<path aria-label="Martin: 521; Toys opposite: DNS" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.1423907219409,194.63373105253797A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#f7f904" stroke="black" stroke-width="0"/>
+<path aria-label="Martin: 49; Toys opposite: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,87.44324772721774,61.083880728386575L105.0,134.0Z" fill="#6d4be6" stroke="black" stroke-width="0"/>
+<text aria-label="83,105,213,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.39200493340641" y="227.37264928750363" font-family="avenir" font-size="14px" fill="#9e78b4" opacity="1">310</text>
+<text aria-label="8,30,96,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.418334458617537" y="110.14719900686916" font-family="avenir" font-size="14px" fill="#ac438d" opacity="1">423</text>
+<text aria-label="179,201,96,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.58166554138245" y="110.14719900686917" font-family="avenir" font-size="14px" fill="#f7f904" opacity="1">521</text>
+<text aria-label="86,101,34,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.3920049334064" y="48.62735071249635" font-family="avenir" font-size="14px" fill="#6d4be6" opacity="1">49</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#f7f904" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M65.0,258.25A5,5,0,1,1,55.0,258.25A5,5,0,1,1,65.0,258.25" fill="#9e78b4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,258.25A5,5,0,1,1,125.0,258.25A5,5,0,1,1,135.0,258.25" fill="#ac438d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M206.0,258.25A5,5,0,1,1,196.0,258.25A5,5,0,1,1,206.0,258.25" fill="#6d4be6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">DNS</text>
+<text aria-label="70,114,251,262" text-anchor="start" x="70.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Engineer</text>
+<text aria-label="140,195,251,262" text-anchor="start" x="140.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">distinctio</text>
+<text aria-label="211,249,251,262" text-anchor="start" x="211.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">invoice</text>
+</svg>

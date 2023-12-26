@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="320" height="239" viewBox="0 0 320 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Keyboard</text>
+<path aria-label="Hatchback: 752; scarily risk hic: Baby" role="graphics-symbol" aria-roledescription="arc mark"  d="M289.90583946756925,137.75702191353025A75,75,0,0,0,215.0,59.0L215.0,134.0Z" fill="#c0d0cd" stroke="black" stroke-width="0"/>
+<path aria-label="Hatchback: 432; scarily risk hic: Female" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.69716620730065,196.34056729193875A75,75,0,0,0,289.90583946756925,137.75702191353025L215.0,134.0Z" fill="#ca639a" stroke="black" stroke-width="0"/>
+<path aria-label="Hatchback: 740; scarily risk hic: Turkish" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.66674488252625,174.173359284792A75,75,0,0,0,256.69716620730065,196.34056729193875L215.0,134.0Z" fill="#92f760" stroke="black" stroke-width="0"/>
+<path aria-label="Hatchback: 703; scarily risk hic: bandwidth" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.3751061279572,72.99288045930211A75,75,0,0,0,151.66674488252625,174.173359284792L215.0,134.0Z" fill="#3cbade" stroke="black" stroke-width="0"/>
+<path aria-label="Hatchback: 288; scarily risk hic: holistic" role="graphics-symbol" aria-roledescription="arc mark"  d="M215.0,59.0A75,75,0,0,0,171.3751061279572,72.99288045930211L215.0,134.0Z" fill="#6ce529" stroke="black" stroke-width="0"/>
+<text aria-label="271,288,64,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="280.2141026414581" y="74.97483722980353" font-family="serif" font-size="10px" fill="#c0d0cd" opacity="1">752</text>
+<text aria-label="285,301,171,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="293.2955003799478" y="181.3825936629845" font-family="serif" font-size="10px" fill="#ca639a" opacity="1">432</text>
+<text aria-label="188,204,215,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.4144689745499" y="225.06008196965314" font-family="serif" font-size="10px" fill="#92f760" opacity="1">740</text>
+<text aria-label="118,134,109,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="126.66024351956334" y="119.79280891670146" font-family="serif" font-size="10px" fill="#3cbade" opacity="1">703</text>
+<text aria-label="179,195,41,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.51153796949862" y="51.300615782855914" font-family="serif" font-size="10px" fill="#6ce529" opacity="1">288</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#c0d0cd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ca639a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#92f760" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#3cbade" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#6ce529" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Baby</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Female</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Turkish</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">bandwidth</text>
+<text aria-label="21,65,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">holistic</text>
+<text aria-label="5,101,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">scarily risk hic</text>
+</svg>

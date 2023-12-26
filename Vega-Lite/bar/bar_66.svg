@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="655" height="316" viewBox="0 0 655 316" style="background-color: rgb(255, 255, 255);">
+<line x1="113.5" y1="40.5" x2="113.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="229.5" y1="40.5" x2="229.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="346.5" y1="40.5" x2="346.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="463.5" y1="40.5" x2="463.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="579.5" y1="40.5" x2="579.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="104,116,247,295" text-anchor="end" x="113.03846153846156" y="247.5" transform="rotate(270.0, 116.03846153846156, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">antennae</text>
+<text aria-label="220,232,247,283" text-anchor="end" x="229.76923076923077" y="247.5" transform="rotate(270.0, 232.76923076923077, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">empire</text>
+<text aria-label="337,349,247,313" text-anchor="end" x="346.5" y="247.5" transform="rotate(270.0, 349.5, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">exclamation</text>
+<text aria-label="454,466,247,301" text-anchor="end" x="463.2307692307692" y="247.5" transform="rotate(270.0, 466.2307692307692, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">formamide</text>
+<text aria-label="570,582,247,271" text-anchor="end" x="579.9615384615385" y="247.5" transform="rotate(270.0, 582.9615384615385, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">pump</text>
+<line aria-label="113,113,240,245" x1="113.5" y1="240.5" x2="113.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="229,229,240,245" x1="229.5" y1="240.5" x2="229.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="346,346,240,245" x1="346.5" y1="240.5" x2="346.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="463,463,240,245" x1="463.5" y1="240.5" x2="463.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="579,579,240,245" x1="579.5" y1="240.5" x2="579.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,650,240,240" x1="43.5" y1="240.5" x2="650.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,226,0,26" text-anchor="start" x="5.64892578125" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">temporibus Legacy</text>
+<text aria-label="35,41,232,244" text-anchor="end" x="41.5" y="243.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="23,41,182,194" text-anchor="end" x="41.5" y="193.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="23,41,132,144" text-anchor="end" x="41.5" y="143.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="23,41,82,94" text-anchor="end" x="41.5" y="93.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="23,41,32,44" text-anchor="end" x="41.5" y="43.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="3,15,128,152" text-anchor="middle" x="17.14892578125" y="140.5" transform="rotate(-90.0, 15.14892578125, 140.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">UTF8</text>
+<path aria-label="withdrawal: empire; UTF8: 83; Northwest Bronze Berkshire: orange Territories" role="graphics-symbol" aria-roledescription="bar" d="M229.76923076923077,219.25h46.69230769230769v20.75h-46.69230769230769Z" fill="#bc2be5"/>
+<path aria-label="withdrawal: empire; UTF8: 84; Northwest Bronze Berkshire: female" role="graphics-symbol" aria-roledescription="bar" d="M183.0769230769231,219.0h46.69230769230769v21h-46.69230769230769Z" fill="#5d6dea"/>
+<path aria-label="withdrawal: exclamation; UTF8: 760; Northwest Bronze Berkshire: orange Territories" role="graphics-symbol" aria-roledescription="bar" d="M346.5,50.00000000000001h46.69230769230769v190h-46.69230769230769Z" fill="#bc2be5"/>
+<path aria-label="withdrawal: exclamation; UTF8: 547; Northwest Bronze Berkshire: female" role="graphics-symbol" aria-roledescription="bar" d="M299.8076923076923,103.25h46.69230769230769v136.75h-46.69230769230769Z" fill="#5d6dea"/>
+<path aria-label="withdrawal: pump; UTF8: 709; Northwest Bronze Berkshire: orange Territories" role="graphics-symbol" aria-roledescription="bar" d="M579.9615384615385,62.75h46.69230769230769v177.25h-46.69230769230769Z" fill="#bc2be5"/>
+<path aria-label="withdrawal: pump; UTF8: 521; Northwest Bronze Berkshire: female" role="graphics-symbol" aria-roledescription="bar" d="M533.2692307692307,109.75h46.69230769230769v130.25h-46.69230769230769Z" fill="#5d6dea"/>
+<path aria-label="withdrawal: antennae; UTF8: 490; Northwest Bronze Berkshire: orange Territories" role="graphics-symbol" aria-roledescription="bar" d="M113.03846153846156,117.49999999999999h46.69230769230769v122.50000000000001h-46.69230769230769Z" fill="#bc2be5"/>
+<path aria-label="withdrawal: antennae; UTF8: 602; Northwest Bronze Berkshire: female" role="graphics-symbol" aria-roledescription="bar" d="M66.34615384615387,89.50000000000001h46.69230769230769v150.5h-46.69230769230769Z" fill="#5d6dea"/>
+<path aria-label="withdrawal: formamide; UTF8: 422; Northwest Bronze Berkshire: orange Territories" role="graphics-symbol" aria-roledescription="bar" d="M463.2307692307692,134.5h46.69230769230769v105.5h-46.69230769230769Z" fill="#bc2be5"/>
+<path aria-label="withdrawal: formamide; UTF8: 532; Northwest Bronze Berkshire: female" role="graphics-symbol" aria-roledescription="bar" d="M416.53846153846155,107.0h46.69230769230769v133h-46.69230769230769Z" fill="#5d6dea"/>
+</svg>

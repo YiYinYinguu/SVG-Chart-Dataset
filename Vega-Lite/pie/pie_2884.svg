@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="285" height="239" viewBox="0 0 285 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Pants</text>
+<path aria-label="Northeast Latvia: 125; Mercedes Fantastic: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.77338554591657,80.17267661619682A75,75,0,0,0,113.13269458976798,98.13221392397881L132.45377084343602,108.65343117294503A53,53,0,0,1,142.0931924524477,95.96202480877909Z" fill="#ae5b49" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast Latvia: 275; Mercedes Fantastic: Canadian" role="graphics-symbol" aria-roledescription="arc mark"  d="M225.22375164893808,74.93761955781588A75,75,0,0,0,179.0,59.0L179.0,81.0A53,53,0,0,1,211.66478449858292,92.26258448752321Z" fill="#fe5849" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast Latvia: 10; Mercedes Fantastic: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.08828172673552,78.92734850705165A75,75,0,0,0,126.77338554591657,80.17267661619682L142.0931924524477,95.96202480877909A53,53,0,0,1,143.02238575355977,95.08199294498317Z" fill="#cf2158" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast Latvia: 671; Mercedes Fantastic: Dirham" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.13269458976798,98.13221392397881A75,75,0,0,0,146.43541132516935,201.5614354823748L155.98769066978633,181.74341440754483A53,53,0,0,1,132.45377084343602,108.65343117294503Z" fill="#dc32f8" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast Latvia: 675; Mercedes Fantastic: Chips" role="graphics-symbol" aria-roledescription="arc mark"  d="M235.2259809552451,183.63505883566992A75,75,0,0,0,225.22375164893808,74.93761955781588L211.66478449858292,92.26258448752321A53,53,0,0,1,218.73302654170652,169.07544157720676Z" fill="#b2a9be" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast Latvia: 537; Mercedes Fantastic: Denver" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.43541132516935,201.5614354823748A75,75,0,0,0,235.2259809552451,183.63505883566992L218.73302654170652,169.07544157720676A53,53,0,0,1,155.98769066978633,181.74341440754483Z" fill="#c0b7ef" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast Latvia: 309; Mercedes Fantastic: stagnate" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.0,59.0A75,75,0,0,0,128.08828172673552,78.92734850705165L143.02238575355977,95.08199294498317A53,53,0,0,1,179.0,81.0Z" fill="#ccaeb1" stroke="black" stroke-width="4"/>
+<text aria-label="96,117,70,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.32895424146214" y="83.56415519276317" font-family="serif" font-size="13px" fill="#ae5b49" opacity="1">125</text>
+<text aria-label="197,218,39,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="208.33652085919627" y="52.915521134122585" font-family="serif" font-size="13px" fill="#fe5849" opacity="1">275</text>
+<text aria-label="110,124,59,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.11248957054777" y="72.65525229335994" font-family="serif" font-size="13px" fill="#cf2158" opacity="1">10</text>
+<text aria-label="82,103,152,166" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="93.33134183188372" y="165.5840716297367" font-family="serif" font-size="13px" fill="#dc32f8" opacity="1">671</text>
+<text aria-label="258,279,116,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="268.6213655656022" y="129.75313185768715" font-family="serif" font-size="13px" fill="#b2a9be" opacity="1">675</text>
+<text aria-label="186,207,213,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.8111742217571" y="226.21996413988285" font-family="serif" font-size="13px" fill="#c0b7ef" opacity="1">537</text>
+<text aria-label="135,156,41,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="146.19639014710745" y="54.19115094085106" font-family="serif" font-size="13px" fill="#ccaeb1" opacity="1">309</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#fe5849" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#b2a9be" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#c0b7ef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#dc32f8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#ae5b49" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#cf2158" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#ccaeb1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Canadian</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Chips</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Denver</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Dirham</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="21,54,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="21,65,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">stagnate</text>
+</svg>

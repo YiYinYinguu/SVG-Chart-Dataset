@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="692" height="317" viewBox="0 0 692 317" style="background-color: rgb(255, 255, 255);">
+<line x1="138.5" y1="41.5" x2="138.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="290.5" y1="41.5" x2="290.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="443.5" y1="41.5" x2="443.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="595.5" y1="41.5" x2="595.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="127,142,248,308" text-anchor="end" x="138.42857142857144" y="248.5" transform="rotate(270.0, 142.42857142857144, 248.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">donation</text>
+<text aria-label="279,294,248,308" text-anchor="end" x="290.80952380952385" y="248.5" transform="rotate(270.0, 294.80952380952385, 248.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">outhouse</text>
+<text aria-label="432,447,248,278" text-anchor="end" x="443.1904761904762" y="248.5" transform="rotate(270.0, 447.1904761904762, 248.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">pair</text>
+<text aria-label="584,599,248,293" text-anchor="end" x="595.5714285714286" y="248.5" transform="rotate(270.0, 599.5714285714286, 248.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">vanity</text>
+<line aria-label="138,138,241,246" x1="138.5" y1="241.5" x2="138.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="290,290,241,246" x1="290.5" y1="241.5" x2="290.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="443,443,241,246" x1="443.5" y1="241.5" x2="443.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="595,595,241,246" x1="595.5" y1="241.5" x2="595.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,687,241,241" x1="47.5" y1="241.5" x2="687.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,57,0,26" text-anchor="start" x="5.3701171875" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">East</text>
+<text aria-label="38,45,231,246" text-anchor="end" x="45.5" y="245.5" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="30,45,181,196" text-anchor="end" x="45.5" y="195.5" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="23,45,131,146" text-anchor="end" x="45.5" y="145.5" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="23,45,81,96" text-anchor="end" x="45.5" y="95.5" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="23,45,31,46" text-anchor="end" x="45.5" y="45.5" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="2,14,99,183" text-anchor="middle" x="16.8701171875" y="141.5" transform="rotate(-90.0, 14.8701171875, 141.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">which cool SUV</text>
+<line aria-label="47,47,41,241" x1="47.5" y1="241.5" x2="47.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="over: donation; which cool SUV: 171; Burke: deliver" role="graphics-symbol" aria-roledescription="bar" d="M77.47619047619048,70.0h121.90476190476191v171h-121.90476190476191Z" fill="#c61afe"/>
+<path aria-label="over: pair; which cool SUV: 183; Burke: deliver" role="graphics-symbol" aria-roledescription="bar" d="M382.23809523809524,57.99999999999999h121.90476190476191v183h-121.90476190476191Z" fill="#c61afe"/>
+<path aria-label="over: outhouse; which cool SUV: 38; Burke: deliver" role="graphics-symbol" aria-roledescription="bar" d="M229.85714285714286,203.0h121.90476190476191v38h-121.90476190476191Z" fill="#c61afe"/>
+<path aria-label="over: vanity; which cool SUV: 103; Burke: deliver" role="graphics-symbol" aria-roledescription="bar" d="M534.6190476190476,138.0h121.90476190476191v103h-121.90476190476191Z" fill="#c61afe"/>
+</svg>

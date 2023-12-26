@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="427" height="270" viewBox="0 0 427 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,317,0,26" text-anchor="start" x="5.711416597846224" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Diesel generating garden</text>
+<path aria-label="North above Zinc: 583; Diesel: Toy" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.31539909357038,229.84497555341602A75,75,0,0,0,170.28446640018296,205.25017158279098L107.0,165.0Z" fill="#eed2c2" stroke="white" stroke-width="1"/>
+<path aria-label="North above Zinc: 358; Diesel: Incredible" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.28446640018296,205.25017158279098A75,75,0,0,0,176.82922610792656,137.63434303423233L107.0,165.0Z" fill="#aba01e" stroke="white" stroke-width="1"/>
+<path aria-label="North above Zinc: 146; Diesel: baritone" role="graphics-symbol" aria-roledescription="arc mark"  d="M46.43387558524523,120.76489433293455A75,75,0,0,0,34.284813907949896,146.6287803453738L107.0,165.0Z" fill="#cedddd" stroke="white" stroke-width="1"/>
+<path aria-label="North above Zinc: 260; Diesel: Toyota" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.85231847765719,191.53870337902674A75,75,0,0,0,69.31539909357038,229.84497555341602L107.0,165.0Z" fill="#7d72b4" stroke="white" stroke-width="1"/>
+<path aria-label="North above Zinc: 456; Diesel: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.82922610792656,137.63434303423233A75,75,0,0,0,107.0,90.0L107.0,165.0Z" fill="#69ccf1" stroke="white" stroke-width="1"/>
+<path aria-label="North above Zinc: 232; Diesel: Van" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.284813907949896,146.6287803453738A75,75,0,0,0,36.85231847765719,191.53870337902674L107.0,165.0Z" fill="#feb5fd" stroke="white" stroke-width="1"/>
+<path aria-label="North above Zinc: 358; Diesel: reiciendis" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.99999999999999,90.0A75,75,0,0,0,46.43387558524523,120.76489433293455L107.0,165.0Z" fill="#5dacbb" stroke="white" stroke-width="1"/>
+<text aria-label="117,138,243,257" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.30006334344165" y="256.44316612271865" font-family="avenir" font-size="13px" fill="#eed2c2" opacity="1">583</text>
+<text aria-label="186,207,164,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.5813370364753" y="177.67087393273715" font-family="avenir" font-size="13px" fill="#aba01e" opacity="1">358</text>
+<text aria-label="15,36,117,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.53942426653687" y="130.73546549123174" font-family="avenir" font-size="13px" fill="#cedddd" opacity="1">146</text>
+<text aria-label="27,48,214,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="38.33951803394545" y="227.18709664684343" font-family="avenir" font-size="13px" fill="#7d72b4" opacity="1">260</text>
+<text aria-label="147,168,81,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.71739863053455" y="94.65119048598388" font-family="avenir" font-size="13px" fill="#69ccf1" opacity="1">456</text>
+<text aria-label="6,27,161,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.146719332221224" y="174.13692059870243" font-family="avenir" font-size="13px" fill="#feb5fd" opacity="1">232</text>
+<text aria-label="55,76,75,89" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="66.24089924963425" y="88.75851630221726" font-family="avenir" font-size="13px" fill="#5dacbb" opacity="1">358</text>
+<path  d="M18.0,40.25A5,5,0,1,1,8.0,40.25A5,5,0,1,1,18.0,40.25" fill="#69ccf1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M80.0,40.25A5,5,0,1,1,70.0,40.25A5,5,0,1,1,80.0,40.25" fill="#aba01e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,40.25A5,5,0,1,1,145.0,40.25A5,5,0,1,1,155.0,40.25" fill="#eed2c2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M199.0,40.25A5,5,0,1,1,189.0,40.25A5,5,0,1,1,199.0,40.25" fill="#7d72b4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,40.25A5,5,0,1,1,248.0,40.25A5,5,0,1,1,258.0,40.25" fill="#feb5fd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M303.0,40.25A5,5,0,1,1,293.0,40.25A5,5,0,1,1,303.0,40.25" fill="#cedddd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M371.0,40.25A5,5,0,1,1,361.0,40.25A5,5,0,1,1,371.0,40.25" fill="#5dacbb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="23,67,33,44" text-anchor="start" x="23.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="85,140,33,44" text-anchor="start" x="85.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Incredible</text>
+<text aria-label="160,176,33,44" text-anchor="start" x="160.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Toy</text>
+<text aria-label="204,237,33,44" text-anchor="start" x="204.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Toyota</text>
+<text aria-label="263,279,33,44" text-anchor="start" x="263.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Van</text>
+<text aria-label="308,352,33,44" text-anchor="start" x="308.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">baritone</text>
+<text aria-label="376,431,33,44" text-anchor="start" x="376.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">reiciendis</text>
+</svg>

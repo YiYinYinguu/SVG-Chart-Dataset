@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="332" height="239" viewBox="0 0 332 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">South</text>
+<path aria-label="Metal eligendi: 3; Wagon Tennessine: GB" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.62345311290468,76.89693697027137A75,75,0,0,0,151.73900590596017,75.34452006058922L105.0,134.0Z" fill="#f4ba4e" stroke="black" stroke-width="0"/>
+<path aria-label="Metal eligendi: 85; Wagon Tennessine: SCSI" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.87831557021084,138.27058044859473A75,75,0,0,0,153.62345311290468,76.89693697027137L105.0,134.0Z" fill="#a13c7c" stroke="black" stroke-width="0"/>
+<path aria-label="Metal eligendi: 83; Wagon Tennessine: parse" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.90911293148703,113.3141593916295A75,75,0,0,0,44.014284543503265,177.65481084896848L105.0,134.0Z" fill="#313fc7" stroke="black" stroke-width="0"/>
+<path aria-label="Metal eligendi: 18; Wagon Tennessine: program" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.29501212925439,99.71524255352415A75,75,0,0,0,32.90911293148703,113.3141593916295L105.0,134.0Z" fill="#9eadfa" stroke="black" stroke-width="0"/>
+<path aria-label="Metal eligendi: 82; Wagon Tennessine: overriding" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.014284543503265,177.65481084896848A75,75,0,0,0,100.52629461311939,208.86645417081934L105.0,134.0Z" fill="#4ce9bc" stroke="black" stroke-width="0"/>
+<path aria-label="Metal eligendi: 101; Wagon Tennessine: tribe" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,38.29501212925439,99.71524255352415L105.0,134.0Z" fill="#abed2a" stroke="black" stroke-width="0"/>
+<path aria-label="Metal eligendi: 145; Wagon Tennessine: fancy" role="graphics-symbol" aria-roledescription="arc mark"  d="M100.52629461311939,208.86645417081934A75,75,0,0,0,179.87831557021084,138.27058044859473L105.0,134.0Z" fill="#e7bcac" stroke="black" stroke-width="0"/>
+<path aria-label="Metal eligendi: 62; Wagon Tennessine: Chips" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.73900590596017,75.34452006058922A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#919bb1" stroke="black" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#919bb1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#f4ba4e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#a13c7c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#e7bcac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#4ce9bc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#313fc7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#9eadfa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#abed2a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Chips</text>
+<text aria-label="239,250,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">GB</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">SCSI</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">fancy</text>
+<text aria-label="239,294,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">overriding</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">parse</text>
+<text aria-label="239,277,145,156" text-anchor="start" x="239.0" y="155.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">program</text>
+<text aria-label="239,266,161,172" text-anchor="start" x="239.0" y="171.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">tribe</text>
+<text aria-label="223,319,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Wagon Tennessine</text>
+</svg>

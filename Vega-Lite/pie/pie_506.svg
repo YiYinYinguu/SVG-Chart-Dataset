@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="286" viewBox="0 0 304 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">South</text>
+<path aria-label="SUV Yorba: 50; And: safely" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.00907025548878,132.83361410597368L105.0,134.0Z" fill="#eb271d" stroke="white" stroke-width="4"/>
+<path aria-label="SUV Yorba: 77; And: Passenger" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.93146551494144,189.05438965695953A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#85c4b1" stroke="white" stroke-width="4"/>
+<path aria-label="SUV Yorba: 12; And: Toys" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.34886447119914,203.83580465732445A75,75,0,0,0,155.93146551494144,189.05438965695953L105.0,134.0Z" fill="#da821f" stroke="white" stroke-width="4"/>
+<path aria-label="SUV Yorba: 54; And: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.60612218549234,153.5991442409646A75,75,0,0,0,132.34886447119914,203.83580465732445L105.0,134.0Z" fill="#c1aa94" stroke="white" stroke-width="4"/>
+<path aria-label="SUV Yorba: 9; And: naturally" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.00907025548878,132.83361410597368A75,75,0,0,0,32.60612218549234,153.5991442409646L105.0,134.0Z" fill="#a242f4" stroke="white" stroke-width="4"/>
+<text aria-label="35,48,61,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="41.85718440137007" y="73.86744322672442" font-family="serif" font-size="12px" fill="#eb271d" opacity="1">50</text>
+<text aria-label="182,195,93,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.80296558878936" y="105.18136263456104" font-family="serif" font-size="12px" fill="#85c4b1" opacity="1">77</text>
+<text aria-label="146,159,202,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.79820190315476" y="214.25832344619997" font-family="serif" font-size="12px" fill="#da821f" opacity="1">12</text>
+<text aria-label="58,71,206,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="64.5154461593128" y="218.38035145681124" font-family="serif" font-size="12px" fill="#c1aa94" opacity="1">54</text>
+<text aria-label="12,18,137,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.695711487305104" y="149.16888773519332" font-family="serif" font-size="12px" fill="#a242f4" opacity="1">9</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#85c4b1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,274.25A5,5,0,1,1,78.0,274.25A5,5,0,1,1,88.0,274.25" fill="#da821f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,274.25A5,5,0,1,1,125.0,274.25A5,5,0,1,1,135.0,274.25" fill="#c1aa94" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,274.25A5,5,0,1,1,182.0,274.25A5,5,0,1,1,192.0,274.25" fill="#a242f4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M264.0,274.25A5,5,0,1,1,254.0,274.25A5,5,0,1,1,264.0,274.25" fill="#eb271d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Passenger</text>
+<text aria-label="93,115,267,278" text-anchor="start" x="93.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Toys</text>
+<text aria-label="140,173,267,278" text-anchor="start" x="140.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="197,246,267,278" text-anchor="start" x="197.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">naturally</text>
+<text aria-label="269,302,267,278" text-anchor="start" x="269.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">safely</text>
+<text aria-label="5,23,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">And</text>
+</svg>

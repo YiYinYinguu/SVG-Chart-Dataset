@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="449" height="369" viewBox="0 0 449 369" style="background-color: rgb(255, 255, 255);">
+<line x1="78.5" y1="34.5" x2="78.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="143.5" y1="34.5" x2="143.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="208.5" y1="34.5" x2="208.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="274.5" y1="34.5" x2="274.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="339.5" y1="34.5" x2="339.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="404.5" y1="34.5" x2="404.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="234.5" x2="444.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="190.5" x2="444.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="145.5" x2="444.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="101.5" x2="444.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="56.5" x2="444.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="64,83,241,289" text-anchor="end" x="78.19354838709677" y="241.5" transform="rotate(270.0, 83.19354838709677, 241.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">bunch</text>
+<text aria-label="129,148,241,317" text-anchor="end" x="143.51612903225808" y="241.5" transform="rotate(270.0, 148.51612903225808, 241.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">ceramics</text>
+<text aria-label="194,213,241,308" text-anchor="end" x="208.83870967741936" y="241.5" transform="rotate(270.0, 213.83870967741936, 241.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">mapping</text>
+<text aria-label="260,279,241,298" text-anchor="end" x="274.16129032258067" y="241.5" transform="rotate(270.0, 279.16129032258067, 241.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">outset</text>
+<text aria-label="325,344,241,289" text-anchor="end" x="339.48387096774195" y="241.5" transform="rotate(270.0, 344.48387096774195, 241.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">sword</text>
+<text aria-label="390,409,241,289" text-anchor="end" x="404.80645161290323" y="241.5" transform="rotate(270.0, 409.80645161290323, 241.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">today</text>
+<line aria-label="78,78,234,239" x1="78.5" y1="234.5" x2="78.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="143,143,234,239" x1="143.5" y1="234.5" x2="143.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="208,208,234,239" x1="208.5" y1="234.5" x2="208.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="274,274,234,239" x1="274.5" y1="234.5" x2="274.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="339,339,234,239" x1="339.5" y1="234.5" x2="339.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="404,404,234,239" x1="404.5" y1="234.5" x2="404.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,444,234,234" x1="39.5" y1="234.5" x2="444.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="150,332,0,26" text-anchor="middle" x="241.5" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Kwacha circuit</text>
+<text aria-label="28,37,221,240" text-anchor="end" x="37.5" y="239.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="9,37,177,196" text-anchor="end" x="37.5" y="195.05555555555557" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="9,37,132,151" text-anchor="end" x="37.5" y="150.61111111111111" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="9,37,88,107" text-anchor="end" x="37.5" y="106.16666666666667" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="9,37,43,62" text-anchor="end" x="37.5" y="61.72222222222223" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">800</text>
+<line aria-label="39,39,34,234" x1="39.5" y1="234.5" x2="39.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Tanzanian lest Evangeline: today; pariatur: 604; Flat Hill: Plastic" role="graphics-symbol" aria-roledescription="bar" d="M404.80645161290323,99.77777777777779h26.12903225806452v134.22222222222223h-26.12903225806452Z" fill="#4b7bd0"/>
+<path aria-label="Tanzanian lest Evangeline: today; pariatur: 802; Flat Hill: Facilitator Peso" role="graphics-symbol" aria-roledescription="bar" d="M378.6774193548387,55.777777777777786h26.12903225806452v178.22222222222223h-26.12903225806452Z" fill="#2ce072"/>
+<path aria-label="Tanzanian lest Evangeline: mapping; pariatur: 229; Flat Hill: Plastic" role="graphics-symbol" aria-roledescription="bar" d="M208.83870967741936,183.11111111111111h26.12903225806452v50.888888888888886h-26.12903225806452Z" fill="#4b7bd0"/>
+<path aria-label="Tanzanian lest Evangeline: mapping; pariatur: 365; Flat Hill: Facilitator Peso" role="graphics-symbol" aria-roledescription="bar" d="M182.70967741935485,152.88888888888889h26.12903225806452v81.11111111111111h-26.12903225806452Z" fill="#2ce072"/>
+<path aria-label="Tanzanian lest Evangeline: outset; pariatur: 673; Flat Hill: Plastic" role="graphics-symbol" aria-roledescription="bar" d="M274.16129032258067,84.44444444444446h26.12903225806452v149.55555555555554h-26.12903225806452Z" fill="#4b7bd0"/>
+<path aria-label="Tanzanian lest Evangeline: outset; pariatur: 732; Flat Hill: Facilitator Peso" role="graphics-symbol" aria-roledescription="bar" d="M248.03225806451616,71.33333333333333h26.12903225806452v162.66666666666669h-26.12903225806452Z" fill="#2ce072"/>
+<path aria-label="Tanzanian lest Evangeline: bunch; pariatur: 429; Flat Hill: Plastic" role="graphics-symbol" aria-roledescription="bar" d="M78.19354838709677,138.66666666666666h26.12903225806452v95.33333333333334h-26.12903225806452Z" fill="#4b7bd0"/>
+<path aria-label="Tanzanian lest Evangeline: bunch; pariatur: 468; Flat Hill: Facilitator Peso" role="graphics-symbol" aria-roledescription="bar" d="M52.064516129032256,130.0h26.12903225806452v104h-26.12903225806452Z" fill="#2ce072"/>
+<path aria-label="Tanzanian lest Evangeline: ceramics; pariatur: 762; Flat Hill: Plastic" role="graphics-symbol" aria-roledescription="bar" d="M143.51612903225808,64.66666666666666h26.12903225806452v169.33333333333334h-26.12903225806452Z" fill="#4b7bd0"/>
+<path aria-label="Tanzanian lest Evangeline: ceramics; pariatur: 634; Flat Hill: Facilitator Peso" role="graphics-symbol" aria-roledescription="bar" d="M117.38709677419355,93.11111111111111h26.12903225806452v140.88888888888889h-26.12903225806452Z" fill="#2ce072"/>
+<path aria-label="Tanzanian lest Evangeline: sword; pariatur: 546; Flat Hill: Plastic" role="graphics-symbol" aria-roledescription="bar" d="M339.48387096774195,112.66666666666666h26.12903225806452v121.33333333333334h-26.12903225806452Z" fill="#4b7bd0"/>
+<path aria-label="Tanzanian lest Evangeline: sword; pariatur: 691; Flat Hill: Facilitator Peso" role="graphics-symbol" aria-roledescription="bar" d="M313.35483870967744,80.44444444444444h26.12903225806452v153.55555555555554h-26.12903225806452Z" fill="#2ce072"/>
+<path  d="M40.0,354.0h10v10h-10Z" fill="#4b7bd0" stroke-width="1.5" opacity="1"/>
+<path  d="M97.0,354.0h10v10h-10Z" fill="#2ce072" stroke-width="1.5" opacity="1"/>
+<text aria-label="55,93,352,363" text-anchor="start" x="55.0" y="362.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Plastic</text>
+<text aria-label="112,200,352,363" text-anchor="start" x="112.0" y="362.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Facilitator Peso</text>
+<text aria-label="39,93,335,347" text-anchor="start" x="39.0" y="346.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Flat Hill</text>
+</svg>

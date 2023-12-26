@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1078" height="356" viewBox="0 0 1078 356" style="background-color: rgb(255, 255, 255);">
+<text aria-label="85,101,259,307" text-anchor="end" x="96.45652173913045" y="259.5" transform="rotate(270.0, 101.45652173913045, 259.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">caviar</text>
+<text aria-label="181,197,259,291" text-anchor="end" x="192.2173913043478" y="259.5" transform="rotate(270.0, 197.2173913043478, 259.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">drum</text>
+<text aria-label="276,292,259,331" text-anchor="end" x="287.9782608695652" y="259.5" transform="rotate(270.0, 292.9782608695652, 259.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">invention</text>
+<text aria-label="372,388,259,331" text-anchor="end" x="383.73913043478257" y="259.5" transform="rotate(270.0, 388.73913043478257, 259.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">regulator</text>
+<text aria-label="468,484,259,299" text-anchor="end" x="479.49999999999994" y="259.5" transform="rotate(270.0, 484.49999999999994, 259.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">smolt</text>
+<text aria-label="564,580,259,347" text-anchor="end" x="575.2608695652174" y="259.5" transform="rotate(270.0, 580.2608695652174, 259.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">spreadsheet</text>
+<text aria-label="660,676,259,347" text-anchor="end" x="671.0217391304348" y="259.5" transform="rotate(270.0, 676.0217391304348, 259.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">stimulation</text>
+<text aria-label="755,771,259,339" text-anchor="end" x="766.7826086956521" y="259.5" transform="rotate(270.0, 771.7826086956521, 259.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">vernacular</text>
+<text aria-label="851,867,259,307" text-anchor="end" x="862.5434782608695" y="259.5" transform="rotate(270.0, 867.5434782608695, 259.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">warden</text>
+<line aria-label="96,96,252,257" x1="96.5" y1="252.5" x2="96.5" y2="257.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="192,192,252,257" x1="192.5" y1="252.5" x2="192.5" y2="257.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="287,287,252,257" x1="287.5" y1="252.5" x2="287.5" y2="257.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="383,383,252,257" x1="383.5" y1="252.5" x2="383.5" y2="257.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="479,479,252,257" x1="479.5" y1="252.5" x2="479.5" y2="257.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="575,575,252,257" x1="575.5" y1="252.5" x2="575.5" y2="257.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="671,671,252,257" x1="671.5" y1="252.5" x2="671.5" y2="257.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="766,766,252,257" x1="766.5" y1="252.5" x2="766.5" y2="257.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="862,862,252,257" x1="862.5" y1="252.5" x2="862.5" y2="257.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,920,252,252" x1="39.5" y1="252.5" x2="920.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="388,570,0,26" text-anchor="middle" x="479.5" y="25.498999999999995" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Other navigate</text>
+<text aria-label="24,32,242,258" text-anchor="end" x="32.5" y="257.5" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="16,32,192,208" text-anchor="end" x="32.5" y="207.5" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="8,32,142,158" text-anchor="end" x="32.5" y="157.5" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="8,32,92,108" text-anchor="end" x="32.5" y="107.5" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="8,32,42,58" text-anchor="end" x="32.5" y="57.5" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<line aria-label="34,39,252,252" x1="39.5" y1="252.5" x2="34.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,202,202" x1="39.5" y1="202.5" x2="34.5" y2="202.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,152,152" x1="39.5" y1="152.5" x2="34.5" y2="152.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,102,102" x1="39.5" y1="102.5" x2="34.5" y2="102.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,52,52" x1="39.5" y1="52.5" x2="34.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Intelligent: drum; person International: 132; assemble Focused: demote along bifurcated" role="graphics-symbol" aria-roledescription="bar" d="M153.91304347826087,120.0h38.30434782608695v132h-38.30434782608695Z" fill="#cff759"/>
+<path aria-label="Intelligent: drum; person International: 99; assemble Focused: pascal" role="graphics-symbol" aria-roledescription="bar" d="M192.2173913043478,153.0h38.30434782608695v99h-38.30434782608695Z" fill="#c6ddfc"/>
+<path aria-label="Intelligent: invention; person International: 150; assemble Focused: demote along bifurcated" role="graphics-symbol" aria-roledescription="bar" d="M249.67391304347825,102.0h38.30434782608695v150h-38.30434782608695Z" fill="#cff759"/>
+<path aria-label="Intelligent: invention; person International: 119; assemble Focused: pascal" role="graphics-symbol" aria-roledescription="bar" d="M287.9782608695652,133.0h38.30434782608695v119h-38.30434782608695Z" fill="#c6ddfc"/>
+<path aria-label="Intelligent: warden; person International: 177; assemble Focused: demote along bifurcated" role="graphics-symbol" aria-roledescription="bar" d="M824.2391304347825,75.0h38.30434782608695v177h-38.30434782608695Z" fill="#cff759"/>
+<path aria-label="Intelligent: warden; person International: 186; assemble Focused: pascal" role="graphics-symbol" aria-roledescription="bar" d="M862.5434782608695,65.99999999999999h38.30434782608695v186h-38.30434782608695Z" fill="#c6ddfc"/>
+<path aria-label="Intelligent: stimulation; person International: 27; assemble Focused: demote along bifurcated" role="graphics-symbol" aria-roledescription="bar" d="M632.7173913043478,225.0h38.30434782608695v27h-38.30434782608695Z" fill="#cff759"/>
+<path aria-label="Intelligent: stimulation; person International: 125; assemble Focused: pascal" role="graphics-symbol" aria-roledescription="bar" d="M671.0217391304348,127.0h38.30434782608695v125h-38.30434782608695Z" fill="#c6ddfc"/>
+<path aria-label="Intelligent: spreadsheet; person International: 166; assemble Focused: demote along bifurcated" role="graphics-symbol" aria-roledescription="bar" d="M536.9565217391304,86.0h38.30434782608695v166h-38.30434782608695Z" fill="#cff759"/>
+<path aria-label="Intelligent: spreadsheet; person International: 78; assemble Focused: pascal" role="graphics-symbol" aria-roledescription="bar" d="M575.2608695652174,174.0h38.30434782608695v78h-38.30434782608695Z" fill="#c6ddfc"/>
+<path aria-label="Intelligent: vernacular; person International: 161; assemble Focused: demote along bifurcated" role="graphics-symbol" aria-roledescription="bar" d="M728.4782608695651,91.0h38.30434782608695v161h-38.30434782608695Z" fill="#cff759"/>
+<path aria-label="Intelligent: vernacular; person International: 140; assemble Focused: pascal" role="graphics-symbol" aria-roledescription="bar" d="M766.7826086956521,112.0h38.30434782608695v140h-38.30434782608695Z" fill="#c6ddfc"/>
+<path aria-label="Intelligent: caviar; person International: 162; assemble Focused: demote along bifurcated" role="graphics-symbol" aria-roledescription="bar" d="M58.1521739130435,89.99999999999999h38.30434782608695v162h-38.30434782608695Z" fill="#cff759"/>
+<path aria-label="Intelligent: caviar; person International: 9; assemble Focused: pascal" role="graphics-symbol" aria-roledescription="bar" d="M96.45652173913045,243.0h38.30434782608695v9h-38.30434782608695Z" fill="#c6ddfc"/>
+<path aria-label="Intelligent: regulator; person International: 50; assemble Focused: demote along bifurcated" role="graphics-symbol" aria-roledescription="bar" d="M345.4347826086956,202.0h38.30434782608695v50h-38.30434782608695Z" fill="#cff759"/>
+<path aria-label="Intelligent: regulator; person International: 37; assemble Focused: pascal" role="graphics-symbol" aria-roledescription="bar" d="M383.73913043478257,215.0h38.30434782608695v37h-38.30434782608695Z" fill="#c6ddfc"/>
+<path aria-label="Intelligent: smolt; person International: 78; assemble Focused: demote along bifurcated" role="graphics-symbol" aria-roledescription="bar" d="M441.195652173913,174.0h38.30434782608695v78h-38.30434782608695Z" fill="#cff759"/>
+<path aria-label="Intelligent: smolt; person International: 86; assemble Focused: pascal" role="graphics-symbol" aria-roledescription="bar" d="M479.49999999999994,166.0h38.30434782608695v85.99999999999999h-38.30434782608695Z" fill="#c6ddfc"/>
+<text aria-label="152,193,83,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.06521739130434" y="109.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">132</text>
+<text aria-label="197,225,116,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="211.3695652173913" y="142.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">99</text>
+<text aria-label="248,289,65,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="268.82608695652175" y="91.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">150</text>
+<text aria-label="286,327,96,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="307.1304347826087" y="122.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">119</text>
+<text aria-label="822,863,38,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="843.391304347826" y="64.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">177</text>
+<text aria-label="861,902,29,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="881.6956521739129" y="55.498999999999995" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">186</text>
+<text aria-label="638,665,188,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="651.8695652173913" y="214.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">27</text>
+<text aria-label="669,710,90,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="690.1739130434781" y="116.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">125</text>
+<text aria-label="535,576,49,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="556.1086956521739" y="75.49900000000001" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">166</text>
+<text aria-label="580,608,137,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="594.4130434782608" y="163.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">78</text>
+<text aria-label="727,768,54,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="747.6304347826086" y="80.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">161</text>
+<text aria-label="765,806,75,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="785.9347826086955" y="101.49900000000001" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">140</text>
+<text aria-label="56,97,53,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="77.30434782608697" y="79.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">162</text>
+<text aria-label="108,122,206,233" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.60869565217394" y="232.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">9</text>
+<text aria-label="350,378,165,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="364.5869565217391" y="191.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">50</text>
+<text aria-label="389,416,178,205" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="402.89130434782606" y="204.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">37</text>
+<text aria-label="446,474,137,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="460.3478260869565" y="163.499" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">78</text>
+<text aria-label="484,512,129,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="498.65217391304344" y="155.49900000000002" font-family="Balto" font-size="26.43px" fill="#000" opacity="1">86</text>
+<path  d="M939.0,53.0h10v10h-10Z" fill="#cff759" stroke-width="1.5" opacity="1"/>
+<path  d="M939.0,66.0h10v10h-10Z" fill="#c6ddfc" stroke-width="1.5" opacity="1"/>
+<text aria-label="954,1080,51,62" text-anchor="start" x="954.0" y="61.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">demote along bifurcated</text>
+<text aria-label="954,987,64,75" text-anchor="start" x="954.0" y="74.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">pascal</text>
+</svg>

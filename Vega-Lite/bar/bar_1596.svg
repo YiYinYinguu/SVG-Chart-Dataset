@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1020" height="353" viewBox="0 0 1020 353" style="background-color: rgb(255, 255, 255);">
+<line x1="114.5" y1="43.5" x2="114.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="232.5" y1="43.5" x2="232.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="351.5" y1="43.5" x2="351.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="469.5" y1="43.5" x2="469.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="588.5" y1="43.5" x2="588.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="706.5" y1="43.5" x2="706.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="825.5" y1="43.5" x2="825.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="943.5" y1="43.5" x2="943.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="100,120,250,310" text-anchor="end" x="114.12195121951218" y="250.5" transform="rotate(270.0, 120.12195121951218, 250.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">airbag</text>
+<text aria-label="218,238,250,290" text-anchor="end" x="232.65853658536588" y="250.5" transform="rotate(270.0, 238.65853658536588, 250.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">food</text>
+<text aria-label="337,357,250,290" text-anchor="end" x="351.1951219512195" y="250.5" transform="rotate(270.0, 357.1951219512195, 250.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">halt</text>
+<text aria-label="455,475,250,320" text-anchor="end" x="469.7317073170732" y="250.5" transform="rotate(270.0, 475.7317073170732, 250.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">harbour</text>
+<text aria-label="574,594,250,350" text-anchor="end" x="588.2682926829268" y="250.5" transform="rotate(270.0, 594.2682926829268, 250.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">missionary</text>
+<text aria-label="692,712,250,310" text-anchor="end" x="706.8048780487806" y="250.5" transform="rotate(270.0, 712.8048780487806, 250.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">pimple</text>
+<text aria-label="811,831,250,330" text-anchor="end" x="825.3414634146342" y="250.5" transform="rotate(270.0, 831.3414634146342, 250.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">quadrant</text>
+<text aria-label="929,949,250,300" text-anchor="end" x="943.8780487804878" y="250.5" transform="rotate(270.0, 949.8780487804878, 250.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">style</text>
+<line aria-label="114,114,243,248" x1="114.5" y1="243.5" x2="114.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="232,232,243,248" x1="232.5" y1="243.5" x2="232.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="351,351,243,248" x1="351.5" y1="243.5" x2="351.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="469,469,243,248" x1="469.5" y1="243.5" x2="469.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="588,588,243,248" x1="588.5" y1="243.5" x2="588.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="706,706,243,248" x1="706.5" y1="243.5" x2="706.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="825,825,243,248" x1="825.5" y1="243.5" x2="825.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="943,943,243,248" x1="943.5" y1="243.5" x2="943.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,1015,243,243" x1="43.5" y1="243.5" x2="1015.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="386,672,0,26" text-anchor="middle" x="529.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">fluster explicit pixel</text>
+<text aria-label="31,41,230,250" text-anchor="end" x="41.5" y="249.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="11,41,180,200" text-anchor="end" x="41.5" y="199.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="11,41,130,150" text-anchor="end" x="41.5" y="149.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="11,41,80,100" text-anchor="end" x="41.5" y="99.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="11,41,30,50" text-anchor="end" x="41.5" y="49.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<line aria-label="43,43,43,243" x1="43.5" y1="243.5" x2="43.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Clint olive beyond: food; Triathlon/Time why Oklahoma: 99; National: integrate" role="graphics-symbol" aria-roledescription="bar" d="M232.65853658536588,193.5h47.41463414634147v49.5h-47.41463414634147Z" fill="#d44aa2"/>
+<path aria-label="Clint olive beyond: food; Triathlon/Time why Oklahoma: 340; National: Hyundai Leone red" role="graphics-symbol" aria-roledescription="bar" d="M185.2439024390244,73.0h47.41463414634147v170h-47.41463414634147Z" fill="#14fa15"/>
+<path aria-label="Clint olive beyond: harbour; Triathlon/Time why Oklahoma: 329; National: integrate" role="graphics-symbol" aria-roledescription="bar" d="M469.7317073170732,78.5h47.41463414634147v164.5h-47.41463414634147Z" fill="#d44aa2"/>
+<path aria-label="Clint olive beyond: harbour; Triathlon/Time why Oklahoma: 150; National: Hyundai Leone red" role="graphics-symbol" aria-roledescription="bar" d="M422.3170731707317,168.0h47.41463414634147v75h-47.41463414634147Z" fill="#14fa15"/>
+<path aria-label="Clint olive beyond: airbag; Triathlon/Time why Oklahoma: 98; National: integrate" role="graphics-symbol" aria-roledescription="bar" d="M114.12195121951218,194.0h47.41463414634147v49h-47.41463414634147Z" fill="#d44aa2"/>
+<path aria-label="Clint olive beyond: airbag; Triathlon/Time why Oklahoma: 80; National: Hyundai Leone red" role="graphics-symbol" aria-roledescription="bar" d="M66.70731707317071,203.0h47.41463414634147v40h-47.41463414634147Z" fill="#14fa15"/>
+<path aria-label="Clint olive beyond: quadrant; Triathlon/Time why Oklahoma: 77; National: integrate" role="graphics-symbol" aria-roledescription="bar" d="M825.3414634146342,204.5h47.41463414634147v38.5h-47.41463414634147Z" fill="#d44aa2"/>
+<path aria-label="Clint olive beyond: quadrant; Triathlon/Time why Oklahoma: 198; National: Hyundai Leone red" role="graphics-symbol" aria-roledescription="bar" d="M777.9268292682927,144.0h47.41463414634147v99h-47.41463414634147Z" fill="#14fa15"/>
+<path aria-label="Clint olive beyond: halt; Triathlon/Time why Oklahoma: 134; National: integrate" role="graphics-symbol" aria-roledescription="bar" d="M351.1951219512195,176.0h47.41463414634147v67h-47.41463414634147Z" fill="#d44aa2"/>
+<path aria-label="Clint olive beyond: halt; Triathlon/Time why Oklahoma: 149; National: Hyundai Leone red" role="graphics-symbol" aria-roledescription="bar" d="M303.780487804878,168.5h47.41463414634147v74.50000000000001h-47.41463414634147Z" fill="#14fa15"/>
+<path aria-label="Clint olive beyond: missionary; Triathlon/Time why Oklahoma: 35; National: integrate" role="graphics-symbol" aria-roledescription="bar" d="M588.2682926829268,225.5h47.41463414634147v17.5h-47.41463414634147Z" fill="#d44aa2"/>
+<path aria-label="Clint olive beyond: missionary; Triathlon/Time why Oklahoma: 246; National: Hyundai Leone red" role="graphics-symbol" aria-roledescription="bar" d="M540.8536585365854,120.0h47.41463414634147v123h-47.41463414634147Z" fill="#14fa15"/>
+<path aria-label="Clint olive beyond: style; Triathlon/Time why Oklahoma: 360; National: integrate" role="graphics-symbol" aria-roledescription="bar" d="M943.8780487804878,63.0h47.41463414634147v180h-47.41463414634147Z" fill="#d44aa2"/>
+<path aria-label="Clint olive beyond: style; Triathlon/Time why Oklahoma: 122; National: Hyundai Leone red" role="graphics-symbol" aria-roledescription="bar" d="M896.4634146341464,182.0h47.41463414634147v61h-47.41463414634147Z" fill="#14fa15"/>
+<path aria-label="Clint olive beyond: pimple; Triathlon/Time why Oklahoma: 354; National: integrate" role="graphics-symbol" aria-roledescription="bar" d="M706.8048780487806,66.0h47.41463414634147v177h-47.41463414634147Z" fill="#d44aa2"/>
+<path aria-label="Clint olive beyond: pimple; Triathlon/Time why Oklahoma: 123; National: Hyundai Leone red" role="graphics-symbol" aria-roledescription="bar" d="M659.3902439024391,181.5h47.41463414634147v61.5h-47.41463414634147Z" fill="#14fa15"/>
+</svg>

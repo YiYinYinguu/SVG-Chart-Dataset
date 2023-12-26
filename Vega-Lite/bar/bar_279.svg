@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="961" height="300" viewBox="0 0 961 300" style="background-color: rgb(255, 255, 255);">
+<line x1="95.5" y1="34.5" x2="95.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="193.5" y1="34.5" x2="193.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="290.5" y1="34.5" x2="290.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="388.5" y1="34.5" x2="388.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="485.5" y1="34.5" x2="485.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="583.5" y1="34.5" x2="583.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="680.5" y1="34.5" x2="680.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="778.5" y1="34.5" x2="778.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="47.5" y1="234.5" x2="827.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="47.5" y1="203.5" x2="827.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="47.5" y1="172.5" x2="827.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="47.5" y1="142.5" x2="827.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="47.5" y1="111.5" x2="827.5" y2="111.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="47.5" y1="80.5" x2="827.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="47.5" y1="49.5" x2="827.5" y2="49.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="86,99,241,280" text-anchor="end" x="95.75" y="241.5" transform="rotate(270.0, 99.75, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">ascent</text>
+<text aria-label="184,197,241,287" text-anchor="end" x="193.25" y="241.5" transform="rotate(270.0, 197.25, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">concern</text>
+<text aria-label="281,294,241,293" text-anchor="end" x="290.75" y="241.5" transform="rotate(270.0, 294.75, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">espalier</text>
+<text aria-label="379,392,241,287" text-anchor="end" x="388.25" y="241.5" transform="rotate(270.0, 392.25, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">gemsbok</text>
+<text aria-label="476,489,241,287" text-anchor="end" x="485.75" y="241.5" transform="rotate(270.0, 489.75, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">mapping</text>
+<text aria-label="574,587,241,267" text-anchor="end" x="583.25" y="241.5" transform="rotate(270.0, 587.25, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">soil</text>
+<text aria-label="671,684,241,300" text-anchor="end" x="680.75" y="241.5" transform="rotate(270.0, 684.75, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">stumbling</text>
+<text aria-label="769,782,241,274" text-anchor="end" x="778.25" y="241.5" transform="rotate(270.0, 782.25, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">wheat</text>
+<line aria-label="95,95,234,239" x1="95.5" y1="234.5" x2="95.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="193,193,234,239" x1="193.5" y1="234.5" x2="193.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="290,290,234,239" x1="290.5" y1="234.5" x2="290.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="388,388,234,239" x1="388.5" y1="234.5" x2="388.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="485,485,234,239" x1="485.5" y1="234.5" x2="485.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="583,583,234,239" x1="583.5" y1="234.5" x2="583.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="680,680,234,239" x1="680.5" y1="234.5" x2="680.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="778,778,234,239" x1="778.5" y1="234.5" x2="778.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,827,234,234" x1="47.5" y1="234.5" x2="827.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">trench</text>
+<text aria-label="34,40,226,239" text-anchor="end" x="40.5" y="238.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="21,40,195,208" text-anchor="end" x="40.5" y="207.73076923076923" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="21,40,164,177" text-anchor="end" x="40.5" y="176.96153846153845" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="21,40,134,147" text-anchor="end" x="40.5" y="146.19230769230768" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="21,40,103,116" text-anchor="end" x="40.5" y="115.42307692307692" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="8,40,72,85" text-anchor="end" x="40.5" y="84.65384615384615" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="8,40,41,54" text-anchor="end" x="40.5" y="53.88461538461537" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">1,200</text>
+<line aria-label="42,47,234,234" x1="47.5" y1="234.5" x2="42.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,203,203" x1="47.5" y1="203.5" x2="42.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,172,172" x1="47.5" y1="172.5" x2="42.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,142,142" x1="47.5" y1="142.5" x2="42.5" y2="142.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,111,111" x1="47.5" y1="111.5" x2="42.5" y2="111.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,80,80" x1="47.5" y1="80.5" x2="42.5" y2="80.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,49,49" x1="47.5" y1="49.5" x2="42.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Hip Gasoline cwtch: stumbling; alarm aw: 282; functionalities Sausages: noted quae optimize" role="graphics-symbol" aria-roledescription="bar" d="M654.425,190.6153846153846h52.650000000000006v43.38461538461539h-52.650000000000006Z" fill="#cd0dbe"/>
+<path aria-label="Hip Gasoline cwtch: stumbling; alarm aw: 227; functionalities Sausages: embrace Hop Folk" role="graphics-symbol" aria-roledescription="bar" d="M654.425,155.69230769230768h52.650000000000006v34.923076923076934h-52.650000000000006Z" fill="#df8346"/>
+<path aria-label="Hip Gasoline cwtch: gemsbok; alarm aw: 29; functionalities Sausages: noted quae optimize" role="graphics-symbol" aria-roledescription="bar" d="M361.925,229.53846153846152h52.650000000000006v4.461538461538481h-52.650000000000006Z" fill="#cd0dbe"/>
+<path aria-label="Hip Gasoline cwtch: gemsbok; alarm aw: 505; functionalities Sausages: embrace Hop Folk" role="graphics-symbol" aria-roledescription="bar" d="M361.925,151.84615384615384h52.650000000000006v77.69230769230768h-52.650000000000006Z" fill="#df8346"/>
+<path aria-label="Hip Gasoline cwtch: wheat; alarm aw: 645; functionalities Sausages: noted quae optimize" role="graphics-symbol" aria-roledescription="bar" d="M751.925,134.76923076923077h52.650000000000006v99.23076923076923h-52.650000000000006Z" fill="#cd0dbe"/>
+<path aria-label="Hip Gasoline cwtch: wheat; alarm aw: 650; functionalities Sausages: embrace Hop Folk" role="graphics-symbol" aria-roledescription="bar" d="M751.925,34.76923076923077h52.650000000000006v100h-52.650000000000006Z" fill="#df8346"/>
+<path aria-label="Hip Gasoline cwtch: espalier; alarm aw: 437; functionalities Sausages: noted quae optimize" role="graphics-symbol" aria-roledescription="bar" d="M264.425,166.76923076923077h52.650000000000006v67.23076923076923h-52.650000000000006Z" fill="#cd0dbe"/>
+<path aria-label="Hip Gasoline cwtch: espalier; alarm aw: 496; functionalities Sausages: embrace Hop Folk" role="graphics-symbol" aria-roledescription="bar" d="M264.425,90.46153846153845h52.650000000000006v76.30769230769232h-52.650000000000006Z" fill="#df8346"/>
+<path aria-label="Hip Gasoline cwtch: mapping; alarm aw: 565; functionalities Sausages: noted quae optimize" role="graphics-symbol" aria-roledescription="bar" d="M459.425,147.0769230769231h52.650000000000006v86.92307692307692h-52.650000000000006Z" fill="#cd0dbe"/>
+<path aria-label="Hip Gasoline cwtch: mapping; alarm aw: 351; functionalities Sausages: embrace Hop Folk" role="graphics-symbol" aria-roledescription="bar" d="M459.425,93.07692307692307h52.650000000000006v54.00000000000001h-52.650000000000006Z" fill="#df8346"/>
+<path aria-label="Hip Gasoline cwtch: ascent; alarm aw: 642; functionalities Sausages: noted quae optimize" role="graphics-symbol" aria-roledescription="bar" d="M69.425,135.23076923076923h52.650000000000006v98.76923076923076h-52.650000000000006Z" fill="#cd0dbe"/>
+<path aria-label="Hip Gasoline cwtch: ascent; alarm aw: 233; functionalities Sausages: embrace Hop Folk" role="graphics-symbol" aria-roledescription="bar" d="M69.425,99.38461538461537h52.650000000000006v35.84615384615387h-52.650000000000006Z" fill="#df8346"/>
+<path aria-label="Hip Gasoline cwtch: soil; alarm aw: 281; functionalities Sausages: noted quae optimize" role="graphics-symbol" aria-roledescription="bar" d="M556.925,190.76923076923077h52.650000000000006v43.230769230769226h-52.650000000000006Z" fill="#cd0dbe"/>
+<path aria-label="Hip Gasoline cwtch: soil; alarm aw: 642; functionalities Sausages: embrace Hop Folk" role="graphics-symbol" aria-roledescription="bar" d="M556.925,92.0h52.650000000000006v98.76923076923077h-52.650000000000006Z" fill="#df8346"/>
+<path aria-label="Hip Gasoline cwtch: concern; alarm aw: 48; functionalities Sausages: noted quae optimize" role="graphics-symbol" aria-roledescription="bar" d="M166.925,226.6153846153846h52.650000000000006v7.384615384615387h-52.650000000000006Z" fill="#cd0dbe"/>
+<path aria-label="Hip Gasoline cwtch: concern; alarm aw: 542; functionalities Sausages: embrace Hop Folk" role="graphics-symbol" aria-roledescription="bar" d="M166.925,143.23076923076923h52.650000000000006v83.38461538461537h-52.650000000000006Z" fill="#df8346"/>
+<path  d="M846.0,35.0h10v10h-10Z" fill="#cd0dbe" stroke-width="1.5" opacity="1"/>
+<path  d="M846.0,48.0h10v10h-10Z" fill="#df8346" stroke-width="1.5" opacity="1"/>
+<text aria-label="861,965,33,44" text-anchor="start" x="861.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">noted quae optimize</text>
+<text aria-label="861,949,46,57" text-anchor="start" x="861.0" y="56.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">embrace Hop Folk</text>
+</svg>

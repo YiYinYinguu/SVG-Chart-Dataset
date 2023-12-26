@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="285" height="239" viewBox="0 0 285 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="160,199,0,26" text-anchor="middle" x="180.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Car</text>
+<path aria-label="Dakota: 195; that: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M216.73987160452788,68.61512533863198A75,75,0,0,0,190.32088318945577,59.71353171546241L180.0,134.0Z" fill="#79dae3" stroke="black" stroke-width="0"/>
+<path aria-label="Dakota: 72; that: ASCII" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.32088318945577,59.71353171546241A75,75,0,0,0,180.0,59.0L180.0,134.0Z" fill="#0e6eaf" stroke="black" stroke-width="0"/>
+<path aria-label="Dakota: 851; that: Lead" role="graphics-symbol" aria-roledescription="arc mark"  d="M221.10186332415643,196.73465414969917A75,75,0,0,0,240.1178677830904,89.15758733949673L180.0,134.0Z" fill="#f9fedb" stroke="black" stroke-width="0"/>
+<path aria-label="Dakota: 785; that: parse" role="graphics-symbol" aria-roledescription="arc mark"  d="M180.0,59.0A75,75,0,0,0,105.16166023044435,129.07832340187352L180.0,134.0Z" fill="#fb7e59" stroke="black" stroke-width="0"/>
+<path aria-label="Dakota: 218; that: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M240.1178677830904,89.15758733949673A75,75,0,0,0,216.73987160452788,68.61512533863198L180.0,134.0Z" fill="#7a48fc" stroke="black" stroke-width="0"/>
+<path aria-label="Dakota: 830; that: moon" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.16166023044435,129.07832340187352A75,75,0,0,0,176.6217981871264,208.92387972143126L180.0,134.0Z" fill="#16a8de" stroke="black" stroke-width="0"/>
+<path aria-label="Dakota: 326; that: Wooden" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.6217981871264,208.92387972143126A75,75,0,0,0,221.10186332415643,196.73465414969917L180.0,134.0Z" fill="#51a978" stroke="black" stroke-width="0"/>
+<text aria-label="199,217,40,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="208.7371377122382" y="51.71121459354778" font-family="sans-serif" font-size="11px" fill="#79dae3" opacity="1">195</text>
+<text aria-label="180,192,36,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.20731122427173" y="47.214314685663666" font-family="sans-serif" font-size="11px" fill="#0e6eaf" opacity="1">72</text>
+<text aria-label="259,277,141,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="268.62603080815273" y="152.66609916961983" font-family="sans-serif" font-size="11px" fill="#f9fedb" opacity="1">851</text>
+<text aria-label="109,127,60,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.48390890424542" y="71.30547559880789" font-family="sans-serif" font-size="11px" fill="#fb7e59" opacity="1">785</text>
+<text aria-label="230,248,58,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="239.4073159868482" y="69.39252402848653" font-family="sans-serif" font-size="11px" fill="#7a48fc" opacity="1">218</text>
+<text aria-label="103,121,186,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.93636986566864" y="197.0205757487014" font-family="sans-serif" font-size="11px" fill="#16a8de" opacity="1">830</text>
+<text aria-label="194,212,212,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="203.78643875884546" y="223.7998002945381" font-family="sans-serif" font-size="11px" fill="#51a978" opacity="1">326</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#0e6eaf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#79dae3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#7a48fc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f9fedb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#51a978" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#16a8de" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#fb7e59" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">ASCII</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Lead</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Wooden</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">moon</text>
+<text aria-label="21,48,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">parse</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="502" height="270" viewBox="0 0 502 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,170,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Huntington</text>
+<path aria-label="Maryland virtual speedboat: 605; solid Southeast cum: bypass" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.81149626671477,148.61577217923A75,75,0,0,0,45.84984072598849,211.1113723267815L78.97392991943494,185.28900382378384A33,33,0,0,1,72.7970583573545,157.79093975886119Z" fill="#c81852" stroke="black" stroke-width="4"/>
+<path aria-label="Maryland virtual speedboat: 673; solid Southeast cum: Salad" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.73406735311103,239.9501492707563A75,75,0,0,0,168.83055991340353,204.37841567586742L133.08544636189754,182.32650289738166A33,33,0,0,1,106.20298963536885,197.97806567913278Z" fill="#d8fda5" stroke="black" stroke-width="4"/>
+<path aria-label="Maryland virtual speedboat: 765; solid Southeast cum: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,37.6320588331608,132.03698279979074L75.35810588659075,150.49627243190793A33,33,0,0,1,105.0,132.0Z" fill="#e0d6ef" stroke="black" stroke-width="4"/>
+<path aria-label="Maryland virtual speedboat: 114; solid Southeast cum: Minivan" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.83055991340353,204.37841567586742A75,75,0,0,0,174.46754004161016,193.2712023190965L135.56571761830847,177.43932902040245A33,33,0,0,1,133.08544636189754,182.32650289738166Z" fill="#eb183a" stroke="black" stroke-width="4"/>
+<path aria-label="Maryland virtual speedboat: 885; solid Southeast cum: Erdman" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.07852478617207,144.27112485808308A75,75,0,0,0,105.0,90.0L105.0,132.0A33,33,0,0,1,136.7145509059157,155.87929493755655Z" fill="#bc342f" stroke="black" stroke-width="4"/>
+<path aria-label="Maryland virtual speedboat: 457; solid Southeast cum: HTTP" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.46754004161016,193.2712023190965A75,75,0,0,0,177.07852478617207,144.27112485808308L136.7145509059157,155.87929493755655A33,33,0,0,1,135.56571761830847,177.43932902040245Z" fill="#505bc8" stroke="black" stroke-width="4"/>
+<path aria-label="Maryland virtual speedboat: 161; solid Southeast cum: spare" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.6320588331608,132.03698279979074A75,75,0,0,0,31.81149626671477,148.61577217923L72.7970583573545,157.79093975886119A33,33,0,0,1,75.35810588659075,150.49627243190793Z" fill="#016afc" stroke="black" stroke-width="4"/>
+<path aria-label="Maryland virtual speedboat: 648; solid Southeast cum: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M45.84984072598849,211.1113723267815A75,75,0,0,0,107.73406735311103,239.9501492707563L106.20298963536885,197.97806567913278A33,33,0,0,1,78.97392991943494,185.28900382378384Z" fill="#dc25f2" stroke="black" stroke-width="4"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#bc342f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M80.0,40.25A5,5,0,1,1,70.0,40.25A5,5,0,1,1,80.0,40.25" fill="#505bc8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M133.0,40.25A5,5,0,1,1,123.0,40.25A5,5,0,1,1,133.0,40.25" fill="#eb183a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M198.0,40.25A5,5,0,1,1,188.0,40.25A5,5,0,1,1,198.0,40.25" fill="#d8fda5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,40.25A5,5,0,1,1,241.0,40.25A5,5,0,1,1,251.0,40.25" fill="#dc25f2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M326.0,40.25A5,5,0,1,1,316.0,40.25A5,5,0,1,1,326.0,40.25" fill="#c81852" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M386.0,40.25A5,5,0,1,1,376.0,40.25A5,5,0,1,1,386.0,40.25" fill="#016afc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M439.0,40.25A5,5,0,1,1,429.0,40.25A5,5,0,1,1,439.0,40.25" fill="#e0d6ef" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Erdman</text>
+<text aria-label="85,107,33,44" text-anchor="start" x="85.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">HTTP</text>
+<text aria-label="138,176,33,44" text-anchor="start" x="138.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Minivan</text>
+<text aria-label="203,230,33,44" text-anchor="start" x="203.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Salad</text>
+<text aria-label="256,305,33,44" text-anchor="start" x="256.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="331,364,33,44" text-anchor="start" x="331.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">bypass</text>
+<text aria-label="391,418,33,44" text-anchor="start" x="391.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">spare</text>
+<text aria-label="444,499,33,44" text-anchor="start" x="444.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+</svg>

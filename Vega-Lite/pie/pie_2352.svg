@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="329" height="239" viewBox="0 0 329 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="194,324,0,26" text-anchor="end" x="324.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">lumen mesh</text>
+<path aria-label="leading scorpion: 186; Bicycle Ergonomic: Fiat" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.90903758348256,146.7457508010851A75,75,0,0,0,147.15816199935676,71.97025409663529L132.54333250624643,93.47389934313506A49,49,0,0,1,153.28723788787528,142.32722385670894Z" fill="#8b0cbc" stroke="black" stroke-width="2"/>
+<path aria-label="leading scorpion: 86; Bicycle Ergonomic: Phased" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.14096428795247,109.42364840016378A75,75,0,0,0,31.427068721463783,148.56103647010704L56.932351564689675,143.51321049380326A49,49,0,0,1,58.705430001462275,117.94345028810702Z" fill="#2efafc" stroke="black" stroke-width="2"/>
+<path aria-label="leading scorpion: 309; Bicycle Ergonomic: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.427068721463783,148.56103647010704A75,75,0,0,0,142.66642275893167,198.85553636001657L129.60872953583538,176.37228375521084A49,49,0,0,1,56.932351564689675,143.51321049380326Z" fill="#7fdde2" stroke="black" stroke-width="2"/>
+<path aria-label="leading scorpion: 201; Bicycle Ergonomic: considering" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,34.14096428795247,109.42364840016378L58.705430001462275,117.94345028810702A49,49,0,0,1,104.99999999999999,85.0Z" fill="#4c2ca4" stroke="black" stroke-width="2"/>
+<path aria-label="leading scorpion: 97; Bicycle Ergonomic: Bike" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.15816199935676,71.97025409663529A75,75,0,0,0,105.0,59.0L105.0,85.0A49,49,0,0,1,132.54333250624643,93.47389934313506Z" fill="#c837d8" stroke="black" stroke-width="2"/>
+<path aria-label="leading scorpion: 142; Bicycle Ergonomic: Genderqueer" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.66642275893167,198.85553636001657A75,75,0,0,0,178.90903758348256,146.7457508010851L153.28723788787528,142.32722385670894A49,49,0,0,1,129.60872953583538,176.37228375521084Z" fill="#b0d3aa" stroke="black" stroke-width="2"/>
+<text aria-label="176,199,88,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.84122827133808" y="102.82428538755671" font-family="Balto" font-size="14px" fill="#8b0cbc" opacity="1">186</text>
+<text aria-label="7,22,117,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.215601777734747" y="131.77409959397903" font-family="Balto" font-size="14px" fill="#2efafc" opacity="1">86</text>
+<text aria-label="56,79,206,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="67.92206766325779" y="220.00748096138528" font-family="Balto" font-size="14px" fill="#7fdde2" opacity="1">309</text>
+<text aria-label="41,64,50,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="52.81880593921945" y="64.67113128929942" font-family="Balto" font-size="14px" fill="#4c2ca4" opacity="1">201</text>
+<text aria-label="123,138,37,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.46495269631717" y="51.97903581811178" font-family="Balto" font-size="14px" fill="#c837d8" opacity="1">97</text>
+<text aria-label="167,190,175,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.88656655023976" y="189.3884742273692" font-family="Balto" font-size="14px" fill="#b0d3aa" opacity="1">142</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#c837d8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#8b0cbc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#b0d3aa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#7fdde2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#2efafc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#4c2ca4" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Bike</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Fiat</text>
+<text aria-label="239,299,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Genderqueer</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="239,272,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Phased</text>
+<text aria-label="239,299,129,140" text-anchor="start" x="239.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">considering</text>
+<text aria-label="223,325,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bicycle Ergonomic</text>
+</svg>

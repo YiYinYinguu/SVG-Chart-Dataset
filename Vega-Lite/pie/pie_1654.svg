@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="323" height="286" viewBox="0 0 323 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="19,318,0,26" text-anchor="end" x="318.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Fish Northeast Maryland</text>
+<path aria-label="Designer Coordinator: 543; Paradigm: given" role="graphics-symbol" aria-roledescription="arc mark"  d="M281.69339550589604,220.59989102168723A75,75,0,0,0,218.0,106.0L218.0,127.0A54,54,0,0,1,263.85924476424515,209.5119215356148Z" fill="#64ebe2" stroke="black" stroke-width="0"/>
+<path aria-label="Designer Coordinator: 601; Paradigm: impedit" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.99412474115417,198.17970249130758A75,75,0,0,0,281.69339550589604,220.59989102168723L263.85924476424515,209.5119215356148A54,54,0,0,1,165.435769813631,193.36938579374146Z" fill="#14df4c" stroke="black" stroke-width="0"/>
+<path aria-label="Designer Coordinator: 460; Paradigm: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M218.0,106.0A75,75,0,0,0,144.99412474115417,198.17970249130758L165.435769813631,193.36938579374146A54,54,0,0,1,218.0,127.0Z" fill="#cad39a" stroke="black" stroke-width="0"/>
+<path  d="M129.0,56.25A5,5,0,1,1,119.0,56.25A5,5,0,1,1,129.0,56.25" fill="#64ebe2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M183.0,56.25A5,5,0,1,1,173.0,56.25A5,5,0,1,1,183.0,56.25" fill="#14df4c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M247.0,56.25A5,5,0,1,1,237.0,56.25A5,5,0,1,1,247.0,56.25" fill="#cad39a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="134,161,49,60" text-anchor="start" x="134.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">given</text>
+<text aria-label="188,226,49,60" text-anchor="start" x="188.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">impedit</text>
+<text aria-label="252,290,49,60" text-anchor="start" x="252.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="118,166,32,44" text-anchor="start" x="118.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Paradigm</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Metal</text>
+<path aria-label="innovate: 320; connecting: Greece" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.70545026203868,175.14640333534624A75,75,0,0,0,178.46683097858013,118.91276214926214L155.93700281181555,123.53951509015508A52,52,0,0,1,148.4757788483468,162.5281729791734Z" fill="#8effc3" stroke="white" stroke-width="0"/>
+<path aria-label="innovate: 888; connecting: pink" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,43.21610840746929,176.51765209512882L62.163168495845376,163.47890545262266A52,52,0,0,1,104.99999999999999,82.0Z" fill="#dbb31c" stroke="white" stroke-width="0"/>
+<path aria-label="innovate: 621; connecting: Optional" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.09005085373578,198.7134897508059A75,75,0,0,0,167.70545026203868,175.14640333534624L148.4757788483468,162.5281729791734A52,52,0,0,1,78.71576859192348,178.86801956055876Z" fill="#aced97" stroke="white" stroke-width="0"/>
+<path aria-label="innovate: 168; connecting: Bedfordshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.97888127655233,65.2521514707087A75,75,0,0,0,105.0,59.0L105.0,82.0A52,52,0,0,1,125.78535768507629,86.33482501969137Z" fill="#ecdb58" stroke="white" stroke-width="0"/>
+<path aria-label="innovate: 391; connecting: Bespoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.46683097858013,118.91276214926214A75,75,0,0,0,134.97888127655233,65.2521514707087L125.78535768507629,86.33482501969137A52,52,0,0,1,155.93700281181555,123.53951509015508Z" fill="#520ae0" stroke="white" stroke-width="0"/>
+<path aria-label="innovate: 179; connecting: optical" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.21610840746929,176.51765209512882A75,75,0,0,0,67.09005085373578,198.7134897508059L78.71576859192348,178.86801956055876A52,52,0,0,1,62.163168495845376,163.47890545262266Z" fill="#7aa60d" stroke="white" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#ecdb58" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#520ae0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#8effc3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#aced97" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#7aa60d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#dbb31c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,305,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bedfordshire</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bespoke</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Greece</text>
+<text aria-label="239,283,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Optional</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">optical</text>
+<text aria-label="239,261,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">pink</text>
+</svg>

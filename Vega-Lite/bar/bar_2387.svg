@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="593" height="340" viewBox="0 0 593 340" style="background-color: rgb(255, 255, 255);">
+<line x1="45.5" y1="243.5" x2="458.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="210.5" x2="458.5" y2="210.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="176.5" x2="458.5" y2="176.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="143.5" x2="458.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="110.5" x2="458.5" y2="110.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="76.5" x2="458.5" y2="76.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="43.5" x2="458.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="65,85,250,300" text-anchor="end" x="79.41666666666666" y="250.5" transform="rotate(270.0, 85.41666666666666, 250.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">beach</text>
+<text aria-label="134,154,250,290" text-anchor="end" x="148.25" y="250.5" transform="rotate(270.0, 154.25, 250.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">cold</text>
+<text aria-label="203,223,250,290" text-anchor="end" x="217.08333333333331" y="250.5" transform="rotate(270.0, 223.08333333333331, 250.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">deer</text>
+<text aria-label="271,291,250,330" text-anchor="end" x="285.91666666666663" y="250.5" transform="rotate(270.0, 291.91666666666663, 250.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">deviance</text>
+<text aria-label="340,360,250,300" text-anchor="end" x="354.75" y="250.5" transform="rotate(270.0, 360.75, 250.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">grove</text>
+<text aria-label="409,429,250,300" text-anchor="end" x="423.5833333333333" y="250.5" transform="rotate(270.0, 429.5833333333333, 250.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">tempo</text>
+<line aria-label="79,79,243,248" x1="79.5" y1="243.5" x2="79.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="148,148,243,248" x1="148.5" y1="243.5" x2="148.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="217,217,243,248" x1="217.5" y1="243.5" x2="217.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="285,285,243,248" x1="285.5" y1="243.5" x2="285.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="354,354,243,248" x1="354.5" y1="243.5" x2="354.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="423,423,243,248" x1="423.5" y1="243.5" x2="423.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="45,458,243,243" x1="45.5" y1="243.5" x2="458.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="510,588,0,26" text-anchor="end" x="588.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">silver</text>
+<text aria-label="33,43,230,250" text-anchor="end" x="43.5" y="249.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="33,43,197,217" text-anchor="end" x="43.5" y="216.16666666666669" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">2</text>
+<text aria-label="33,43,163,183" text-anchor="end" x="43.5" y="182.83333333333334" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">4</text>
+<text aria-label="33,43,130,150" text-anchor="end" x="43.5" y="149.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">6</text>
+<text aria-label="33,43,97,117" text-anchor="end" x="43.5" y="116.16666666666667" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">8</text>
+<text aria-label="23,43,63,83" text-anchor="end" x="43.5" y="82.83333333333333" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="23,43,30,50" text-anchor="end" x="43.5" y="49.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">12</text>
+<text aria-label="3,15,86,200" text-anchor="middle" x="17.2158203125" y="143.5" transform="rotate(-90.0, 15.2158203125, 143.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Rubber Granite West</text>
+<line aria-label="45,45,43,243" x1="45.5" y1="243.5" x2="45.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Bedfordshire: deer; Rubber Granite West: 7; Concrete Fish Smart: array Technetium" role="graphics-symbol" aria-roledescription="bar" d="M195.4008333333333,126.33333333333333h43.365v116.66666666666667h-43.365Z" fill="#3d63f2"/>
+<path aria-label="Bedfordshire: deer; Rubber Granite West: 5; Concrete Fish Smart: Chief COM" role="graphics-symbol" aria-roledescription="bar" d="M195.4008333333333,43.0h43.365v83.33333333333333h-43.365Z" fill="#e6969e"/>
+<path aria-label="Bedfordshire: grove; Rubber Granite West: 5; Concrete Fish Smart: array Technetium" role="graphics-symbol" aria-roledescription="bar" d="M333.0675,159.66666666666666h43.365v83.33333333333334h-43.365Z" fill="#3d63f2"/>
+<path aria-label="Bedfordshire: grove; Rubber Granite West: 1; Concrete Fish Smart: Chief COM" role="graphics-symbol" aria-roledescription="bar" d="M333.0675,143.0h43.365v16.666666666666657h-43.365Z" fill="#e6969e"/>
+<path aria-label="Bedfordshire: tempo; Rubber Granite West: 2; Concrete Fish Smart: array Technetium" role="graphics-symbol" aria-roledescription="bar" d="M401.9008333333333,209.66666666666669h43.365v33.333333333333314h-43.365Z" fill="#3d63f2"/>
+<path aria-label="Bedfordshire: tempo; Rubber Granite West: 2; Concrete Fish Smart: Chief COM" role="graphics-symbol" aria-roledescription="bar" d="M401.9008333333333,176.33333333333334h43.365v33.33333333333334h-43.365Z" fill="#e6969e"/>
+<path aria-label="Bedfordshire: deviance; Rubber Granite West: 5; Concrete Fish Smart: array Technetium" role="graphics-symbol" aria-roledescription="bar" d="M264.2341666666666,159.66666666666666h43.365v83.33333333333334h-43.365Z" fill="#3d63f2"/>
+<path aria-label="Bedfordshire: deviance; Rubber Granite West: 7; Concrete Fish Smart: Chief COM" role="graphics-symbol" aria-roledescription="bar" d="M264.2341666666666,43.0h43.365v116.66666666666666h-43.365Z" fill="#e6969e"/>
+<path aria-label="Bedfordshire: cold; Rubber Granite West: 7; Concrete Fish Smart: array Technetium" role="graphics-symbol" aria-roledescription="bar" d="M126.5675,126.33333333333333h43.365v116.66666666666667h-43.365Z" fill="#3d63f2"/>
+<path aria-label="Bedfordshire: cold; Rubber Granite West: 1; Concrete Fish Smart: Chief COM" role="graphics-symbol" aria-roledescription="bar" d="M126.5675,109.66666666666667h43.365v16.666666666666657h-43.365Z" fill="#e6969e"/>
+<path aria-label="Bedfordshire: beach; Rubber Granite West: 3; Concrete Fish Smart: array Technetium" role="graphics-symbol" aria-roledescription="bar" d="M57.73416666666666,193.0h43.365v50h-43.365Z" fill="#3d63f2"/>
+<path aria-label="Bedfordshire: beach; Rubber Granite West: 2; Concrete Fish Smart: Chief COM" role="graphics-symbol" aria-roledescription="bar" d="M57.73416666666666,159.66666666666666h43.365v33.33333333333334h-43.365Z" fill="#e6969e"/>
+<text aria-label="215,218,117,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="217.08333333333331" y="123.99683333333333" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">7</text>
+<text aria-label="215,218,34,41" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="217.08333333333331" y="40.6635" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">5</text>
+<text aria-label="352,356,151,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="354.75" y="157.33016666666666" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">5</text>
+<text aria-label="352,356,134,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="354.75" y="140.6635" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">1</text>
+<text aria-label="421,425,201,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="423.5833333333333" y="207.33016666666668" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">2</text>
+<text aria-label="421,425,167,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="423.5833333333333" y="173.99683333333334" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">2</text>
+<text aria-label="284,287,151,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="285.91666666666663" y="157.33016666666666" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">5</text>
+<text aria-label="284,287,34,41" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="285.91666666666663" y="40.6635" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">7</text>
+<text aria-label="146,150,117,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.25" y="123.99683333333333" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">7</text>
+<text aria-label="146,150,101,108" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.25" y="107.33016666666667" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">1</text>
+<text aria-label="77,81,184,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="79.41666666666666" y="190.6635" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">3</text>
+<text aria-label="77,81,151,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="79.41666666666666" y="157.33016666666666" font-family="avenir" font-size="6.194999999999999px" fill="#000" opacity="1">2</text>
+<path  d="M477.0,60.0h10v10h-10Z" fill="#3d63f2" stroke-width="1.5" opacity="1"/>
+<path  d="M477.0,73.0h10v10h-10Z" fill="#e6969e" stroke-width="1.5" opacity="1"/>
+<text aria-label="492,580,58,69" text-anchor="start" x="492.0" y="68.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">array Technetium</text>
+<text aria-label="492,541,71,82" text-anchor="start" x="492.0" y="81.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Chief COM</text>
+<text aria-label="476,590,41,53" text-anchor="start" x="476.0" y="52.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Concrete Fish Smart</text>
+</svg>

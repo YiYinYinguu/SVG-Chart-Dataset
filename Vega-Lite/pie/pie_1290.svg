@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">minty tan</text>
+<path aria-label="index: 667; architectures Assistant: Mercedes" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.94726290019037,192.4889263551692A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#9c11ee" stroke="black" stroke-width="0"/>
+<path aria-label="index: 341; architectures Assistant: connect" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.64968312833387,196.57116983573826A75,75,0,0,0,151.94726290019037,192.4889263551692L105.0,134.0Z" fill="#a8a03e" stroke="black" stroke-width="0"/>
+<path aria-label="index: 692; architectures Assistant: loafer" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,63.64968312833387,196.57116983573826L105.0,134.0Z" fill="#f97583" stroke="black" stroke-width="0"/>
+<text aria-label="183,196,98,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.90230870346895" y="106.14036207820226" font-family="monospace" font-size="8px" fill="#9c11ee" opacity="1">667</text>
+<text aria-label="102,115,217,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.15651127811655" y="225.90396773221352" font-family="monospace" font-size="8px" fill="#a8a03e" opacity="1">341</text>
+<text aria-label="12,25,102,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.809262846116326" y="110.09330532719127" font-family="monospace" font-size="8px" fill="#f97583" opacity="1">692</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#9c11ee" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,258.25A5,5,0,1,1,73.0,258.25A5,5,0,1,1,83.0,258.25" fill="#a8a03e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,258.25A5,5,0,1,1,135.0,258.25A5,5,0,1,1,145.0,258.25" fill="#f97583" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Mercedes</text>
+<text aria-label="88,126,251,262" text-anchor="start" x="88.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">connect</text>
+<text aria-label="150,183,251,262" text-anchor="start" x="150.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">loafer</text>
+</svg>

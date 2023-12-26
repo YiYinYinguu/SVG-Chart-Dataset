@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="938" height="325" viewBox="0 0 938 325" style="background-color: rgb(255, 255, 255);">
+<line x1="102.5" y1="41.5" x2="102.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="230.5" y1="41.5" x2="230.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="358.5" y1="41.5" x2="358.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="486.5" y1="41.5" x2="486.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="613.5" y1="41.5" x2="613.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="741.5" y1="41.5" x2="741.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="869.5" y1="41.5" x2="869.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="241.5" x2="933.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="197.5" x2="933.5" y2="197.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="152.5" x2="933.5" y2="152.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="108.5" x2="933.5" y2="108.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="63.5" x2="933.5" y2="63.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="88,107,248,305" text-anchor="end" x="102.85714285714286" y="248.5" transform="rotate(270.0, 107.85714285714286, 248.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">aspect</text>
+<text aria-label="216,235,248,296" text-anchor="end" x="230.57142857142858" y="248.5" transform="rotate(270.0, 235.57142857142858, 248.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">candy</text>
+<text aria-label="344,363,248,324" text-anchor="end" x="358.2857142857143" y="248.5" transform="rotate(270.0, 363.2857142857143, 248.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">cohesion</text>
+<text aria-label="472,491,248,315" text-anchor="end" x="486.0" y="248.5" transform="rotate(270.0, 491.0, 248.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">illegal</text>
+<text aria-label="599,618,248,305" text-anchor="end" x="613.7142857142857" y="248.5" transform="rotate(270.0, 618.7142857142857, 248.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">pocket</text>
+<text aria-label="727,746,248,286" text-anchor="end" x="741.4285714285713" y="248.5" transform="rotate(270.0, 746.4285714285713, 248.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">verb</text>
+<text aria-label="855,874,248,296" text-anchor="end" x="869.1428571428571" y="248.5" transform="rotate(270.0, 874.1428571428571, 248.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">viola</text>
+<line aria-label="102,102,241,246" x1="102.5" y1="241.5" x2="102.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="230,230,241,246" x1="230.5" y1="241.5" x2="230.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="358,358,241,246" x1="358.5" y1="241.5" x2="358.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="486,486,241,246" x1="486.5" y1="241.5" x2="486.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="613,613,241,246" x1="613.5" y1="241.5" x2="613.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="741,741,241,246" x1="741.5" y1="241.5" x2="741.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="869,869,241,246" x1="869.5" y1="241.5" x2="869.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,933,241,241" x1="39.5" y1="241.5" x2="933.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.83522222222222" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">hacking effect</text>
+<text aria-label="23,32,228,247" text-anchor="end" x="32.5" y="246.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="4,32,184,203" text-anchor="end" x="32.5" y="202.05555555555557" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="4,32,139,158" text-anchor="end" x="32.5" y="157.61111111111111" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="4,32,95,114" text-anchor="end" x="32.5" y="113.16666666666667" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="4,32,50,69" text-anchor="end" x="32.5" y="68.72222222222223" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">800</text>
+<line aria-label="34,39,241,241" x1="39.5" y1="241.5" x2="34.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,197,197" x1="39.5" y1="197.5" x2="34.5" y2="197.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,152,152" x1="39.5" y1="152.5" x2="34.5" y2="152.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,108,108" x1="39.5" y1="108.5" x2="34.5" y2="108.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,63,63" x1="39.5" y1="63.5" x2="34.5" y2="63.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="dawn Junction: pocket; Marketing: 288; capacitor Diesel: transmit" role="graphics-symbol" aria-roledescription="bar" d="M579.2314285714285,177.0h68.9657142857143v64h-68.9657142857143Z" fill="#258287"/>
+<path aria-label="dawn Junction: pocket; Marketing: 149; capacitor Diesel: Account Markets lime" role="graphics-symbol" aria-roledescription="bar" d="M579.2314285714285,114.33333333333334h68.9657142857143v33.111111111111086h-68.9657142857143Z" fill="#3dd11c"/>
+<path aria-label="dawn Junction: pocket; Marketing: 133; capacitor Diesel: Representative West Polonium" role="graphics-symbol" aria-roledescription="bar" d="M579.2314285714285,147.44444444444443h68.9657142857143v29.55555555555557h-68.9657142857143Z" fill="#ddd2e5"/>
+<path aria-label="dawn Junction: viola; Marketing: 259; capacitor Diesel: transmit" role="graphics-symbol" aria-roledescription="bar" d="M834.66,183.44444444444443h68.9657142857143v57.55555555555557h-68.9657142857143Z" fill="#258287"/>
+<path aria-label="dawn Junction: viola; Marketing: 325; capacitor Diesel: Account Markets lime" role="graphics-symbol" aria-roledescription="bar" d="M834.66,51.22222222222222h68.9657142857143v72.22222222222223h-68.9657142857143Z" fill="#3dd11c"/>
+<path aria-label="dawn Junction: viola; Marketing: 270; capacitor Diesel: Representative West Polonium" role="graphics-symbol" aria-roledescription="bar" d="M834.66,123.44444444444446h68.9657142857143v59.99999999999997h-68.9657142857143Z" fill="#ddd2e5"/>
+<path aria-label="dawn Junction: verb; Marketing: 283; capacitor Diesel: transmit" role="graphics-symbol" aria-roledescription="bar" d="M706.9457142857142,178.1111111111111h68.9657142857143v62.888888888888914h-68.9657142857143Z" fill="#258287"/>
+<path aria-label="dawn Junction: verb; Marketing: 81; capacitor Diesel: Account Markets lime" role="graphics-symbol" aria-roledescription="bar" d="M706.9457142857142,99.44444444444446h68.9657142857143v17.999999999999986h-68.9657142857143Z" fill="#3dd11c"/>
+<path aria-label="dawn Junction: verb; Marketing: 273; capacitor Diesel: Representative West Polonium" role="graphics-symbol" aria-roledescription="bar" d="M706.9457142857142,117.44444444444444h68.9657142857143v60.66666666666664h-68.9657142857143Z" fill="#ddd2e5"/>
+<path aria-label="dawn Junction: illegal; Marketing: 113; capacitor Diesel: transmit" role="graphics-symbol" aria-roledescription="bar" d="M451.51714285714286,215.88888888888889h68.9657142857143v25.111111111111114h-68.9657142857143Z" fill="#258287"/>
+<path aria-label="dawn Junction: illegal; Marketing: 158; capacitor Diesel: Account Markets lime" role="graphics-symbol" aria-roledescription="bar" d="M451.51714285714286,108.11111111111111h68.9657142857143v35.1111111111111h-68.9657142857143Z" fill="#3dd11c"/>
+<path aria-label="dawn Junction: illegal; Marketing: 327; capacitor Diesel: Representative West Polonium" role="graphics-symbol" aria-roledescription="bar" d="M451.51714285714286,143.22222222222223h68.9657142857143v72.66666666666667h-68.9657142857143Z" fill="#ddd2e5"/>
+<path aria-label="dawn Junction: aspect; Marketing: 361; capacitor Diesel: transmit" role="graphics-symbol" aria-roledescription="bar" d="M68.37428571428572,160.77777777777777h68.9657142857143v80.22222222222221h-68.9657142857143Z" fill="#258287"/>
+<path aria-label="dawn Junction: aspect; Marketing: 240; capacitor Diesel: Account Markets lime" role="graphics-symbol" aria-roledescription="bar" d="M68.37428571428572,89.88888888888889h68.9657142857143v53.33333333333332h-68.9657142857143Z" fill="#3dd11c"/>
+<path aria-label="dawn Junction: aspect; Marketing: 79; capacitor Diesel: Representative West Polonium" role="graphics-symbol" aria-roledescription="bar" d="M68.37428571428572,143.22222222222223h68.9657142857143v17.55555555555557h-68.9657142857143Z" fill="#ddd2e5"/>
+<path aria-label="dawn Junction: candy; Marketing: 70; capacitor Diesel: transmit" role="graphics-symbol" aria-roledescription="bar" d="M196.08857142857144,225.44444444444446h68.9657142857143v15.555555555555543h-68.9657142857143Z" fill="#258287"/>
+<path aria-label="dawn Junction: candy; Marketing: 217; capacitor Diesel: Account Markets lime" role="graphics-symbol" aria-roledescription="bar" d="M196.08857142857144,106.11111111111111h68.9657142857143v48.222222222222214h-68.9657142857143Z" fill="#3dd11c"/>
+<path aria-label="dawn Junction: candy; Marketing: 320; capacitor Diesel: Representative West Polonium" role="graphics-symbol" aria-roledescription="bar" d="M196.08857142857144,154.33333333333331h68.9657142857143v71.11111111111113h-68.9657142857143Z" fill="#ddd2e5"/>
+<path aria-label="dawn Junction: cohesion; Marketing: 47; capacitor Diesel: transmit" role="graphics-symbol" aria-roledescription="bar" d="M323.80285714285714,230.55555555555557h68.9657142857143v10.444444444444429h-68.9657142857143Z" fill="#258287"/>
+<path aria-label="dawn Junction: cohesion; Marketing: 9; capacitor Diesel: Account Markets lime" role="graphics-symbol" aria-roledescription="bar" d="M323.80285714285714,197.0h68.9657142857143v2h-68.9657142857143Z" fill="#3dd11c"/>
+<path aria-label="dawn Junction: cohesion; Marketing: 142; capacitor Diesel: Representative West Polonium" role="graphics-symbol" aria-roledescription="bar" d="M323.80285714285714,199.0h68.9657142857143v31.55555555555557h-68.9657142857143Z" fill="#ddd2e5"/>
+<text aria-label="602,624,158,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="613.7142857142857" y="171.613" font-family="serif" font-size="13.41px" fill="#000" opacity="1">288</text>
+<text aria-label="602,624,95,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="613.7142857142857" y="108.94633333333334" font-family="serif" font-size="13.41px" fill="#000" opacity="1">149</text>
+<text aria-label="602,624,128,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="613.7142857142857" y="142.05744444444443" font-family="serif" font-size="13.41px" fill="#000" opacity="1">133</text>
+<text aria-label="858,879,164,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="869.1428571428571" y="178.05744444444443" font-family="serif" font-size="13.41px" fill="#000" opacity="1">259</text>
+<text aria-label="858,879,32,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="869.1428571428571" y="45.83522222222222" font-family="serif" font-size="13.41px" fill="#000" opacity="1">325</text>
+<text aria-label="858,879,104,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="869.1428571428571" y="118.05744444444446" font-family="serif" font-size="13.41px" fill="#000" opacity="1">270</text>
+<text aria-label="730,752,159,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="741.4285714285713" y="172.72411111111109" font-family="serif" font-size="13.41px" fill="#000" opacity="1">283</text>
+<text aria-label="734,748,80,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="741.4285714285713" y="94.05744444444446" font-family="serif" font-size="13.41px" fill="#000" opacity="1">81</text>
+<text aria-label="730,752,98,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="741.4285714285713" y="112.05744444444444" font-family="serif" font-size="13.41px" fill="#000" opacity="1">273</text>
+<text aria-label="475,496,197,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="486.0" y="210.50188888888889" font-family="serif" font-size="13.41px" fill="#000" opacity="1">113</text>
+<text aria-label="475,496,89,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="486.0" y="102.72411111111111" font-family="serif" font-size="13.41px" fill="#000" opacity="1">158</text>
+<text aria-label="475,496,124,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="486.0" y="137.83522222222223" font-family="serif" font-size="13.41px" fill="#000" opacity="1">327</text>
+<text aria-label="92,113,141,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.85714285714286" y="155.39077777777777" font-family="serif" font-size="13.41px" fill="#000" opacity="1">361</text>
+<text aria-label="92,113,71,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.85714285714286" y="84.50188888888889" font-family="serif" font-size="13.41px" fill="#000" opacity="1">240</text>
+<text aria-label="95,110,124,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.85714285714286" y="137.83522222222223" font-family="serif" font-size="13.41px" fill="#000" opacity="1">79</text>
+<text aria-label="223,237,206,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="230.57142857142858" y="220.05744444444446" font-family="serif" font-size="13.41px" fill="#000" opacity="1">70</text>
+<text aria-label="219,241,87,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="230.57142857142858" y="100.72411111111111" font-family="serif" font-size="13.41px" fill="#000" opacity="1">217</text>
+<text aria-label="219,241,135,149" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="230.57142857142858" y="148.9463333333333" font-family="serif" font-size="13.41px" fill="#000" opacity="1">320</text>
+<text aria-label="351,365,211,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="358.2857142857143" y="225.16855555555557" font-family="serif" font-size="13.41px" fill="#000" opacity="1">47</text>
+<text aria-label="354,361,178,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="358.2857142857143" y="191.613" font-family="serif" font-size="13.41px" fill="#000" opacity="1">9</text>
+<text aria-label="347,369,180,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="358.2857142857143" y="193.613" font-family="serif" font-size="13.41px" fill="#000" opacity="1">142</text>
+</svg>

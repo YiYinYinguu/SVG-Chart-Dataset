@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="227" height="286" viewBox="0 0 227 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="157,222,0,26" text-anchor="end" x="222.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Pants</text>
+<path aria-label="cyan drive: 151; enhance: anticipate" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.33763131278114,208.96356101363853A75,75,0,0,0,144.4694191340258,197.77432832435477L134.9967585418596,182.46848952650961A57,57,0,0,1,106.77659979771367,190.9723063703653Z" fill="#1aeb17" stroke="white" stroke-width="4"/>
+<path aria-label="cyan drive: 747; enhance: Metal" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.4694191340258,197.77432832435477A75,75,0,0,0,105.0,59.0L105.0,77.0A57,57,0,0,1,134.9967585418596,182.46848952650961Z" fill="#bbb506" stroke="white" stroke-width="4"/>
+<path aria-label="cyan drive: 804; enhance: jet" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,78.8067826986648,204.2774171936123L85.09315485098526,187.41083706714534A57,57,0,0,1,104.99999999999999,77.0Z" fill="#edcab5" stroke="white" stroke-width="4"/>
+<path aria-label="cyan drive: 112; enhance: guinea" role="graphics-symbol" aria-roledescription="arc mark"  d="M78.8067826986648,204.2774171936123A75,75,0,0,0,107.33763131278114,208.96356101363853L106.77659979771367,190.9723063703653A57,57,0,0,1,85.09315485098526,187.41083706714534Z" fill="#c47f98" stroke="white" stroke-width="4"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#bbb506" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,274.25A5,5,0,1,1,58.0,274.25A5,5,0,1,1,68.0,274.25" fill="#1aeb17" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,274.25A5,5,0,1,1,135.0,274.25A5,5,0,1,1,145.0,274.25" fill="#c47f98" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M202.0,274.25A5,5,0,1,1,192.0,274.25A5,5,0,1,1,202.0,274.25" fill="#edcab5" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Metal</text>
+<text aria-label="73,128,267,278" text-anchor="start" x="73.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">anticipate</text>
+<text aria-label="150,183,267,278" text-anchor="start" x="150.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">guinea</text>
+<text aria-label="207,223,267,278" text-anchor="start" x="207.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">jet</text>
+<text aria-label="5,47,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">enhance</text>
+</svg>

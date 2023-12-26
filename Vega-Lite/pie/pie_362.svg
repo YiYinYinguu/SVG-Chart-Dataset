@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Buckinghamshire SUV</text>
+<path aria-label="Fundamental: 60; Country: firmware" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.71626300869764,127.48232848210932A75,75,0,0,0,207.14502536595307,64.48124319904836L179.0,134.0Z" fill="#7c6dcd" stroke="white" stroke-width="0"/>
+<path aria-label="Fundamental: 166; Country: lime" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.31817843812372,147.99961325622337A75,75,0,0,0,253.71626300869764,127.48232848210932L179.0,134.0Z" fill="#ba202c" stroke="white" stroke-width="0"/>
+<path aria-label="Fundamental: 96; Country: porter" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.0,59.0A75,75,0,0,0,105.31817843812372,147.99961325622337L179.0,134.0Z" fill="#dddc6b" stroke="white" stroke-width="0"/>
+<path aria-label="Fundamental: 21; Country: Generic" role="graphics-symbol" aria-roledescription="arc mark"  d="M207.14502536595307,64.48124319904836A75,75,0,0,0,179.0,59.0L179.0,134.0Z" fill="#7fba74" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#7fba74" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#7c6dcd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ba202c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#dddc6b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Generic</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">firmware</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">lime</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">porter</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Country</text>
+</svg>

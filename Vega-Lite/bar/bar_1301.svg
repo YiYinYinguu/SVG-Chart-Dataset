@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="649" height="311" viewBox="0 0 649 311" style="background-color: rgb(255, 255, 255);">
+<line x1="110.5" y1="49.5" x2="110.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="258.5" y1="49.5" x2="258.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="407.5" y1="49.5" x2="407.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="555.5" y1="49.5" x2="555.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="102,113,256,311" text-anchor="end" x="110.85714285714283" y="256.5" transform="rotate(270.0, 113.85714285714283, 256.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">downstairs</text>
+<text aria-label="250,261,256,306" text-anchor="end" x="258.95238095238096" y="256.5" transform="rotate(270.0, 261.95238095238096, 256.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">flintlock</text>
+<text aria-label="399,410,256,311" text-anchor="end" x="407.04761904761904" y="256.5" transform="rotate(270.0, 410.04761904761904, 256.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">greenhouse</text>
+<text aria-label="547,558,256,300" text-anchor="end" x="555.1428571428571" y="256.5" transform="rotate(270.0, 558.1428571428571, 256.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">misnomer</text>
+<line aria-label="110,110,249,254" x1="110.5" y1="249.5" x2="110.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="258,258,249,254" x1="258.5" y1="249.5" x2="258.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="407,407,249,254" x1="407.5" y1="249.5" x2="407.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="555,555,249,254" x1="555.5" y1="249.5" x2="555.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="22,644,249,249" x1="22.5" y1="249.5" x2="644.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,356,0,26" text-anchor="start" x="5.0" y="25.67" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">furniture IB Cambridgeshire</text>
+<text aria-label="15,20,242,253" text-anchor="end" x="20.5" y="252.5" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="9,20,209,220" text-anchor="end" x="20.5" y="219.16666666666669" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="4,20,175,186" text-anchor="end" x="20.5" y="185.83333333333334" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="4,20,142,153" text-anchor="end" x="20.5" y="152.5" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="4,20,109,120" text-anchor="end" x="20.5" y="119.16666666666667" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="4,20,75,86" text-anchor="end" x="20.5" y="85.83333333333333" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">250</text>
+<text aria-label="4,20,42,53" text-anchor="end" x="20.5" y="52.5" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">300</text>
+<path aria-label="around: greenhouse; Roentgenium Avon: 203; South: by teal Tricycle" role="graphics-symbol" aria-roledescription="bar" d="M347.8095238095238,113.66666666666667h118.47619047619048v135.33333333333331h-118.47619047619048Z" fill="#6913dc"/>
+<path aria-label="around: flintlock; Roentgenium Avon: 150; South: by teal Tricycle" role="graphics-symbol" aria-roledescription="bar" d="M199.7142857142857,149.0h118.47619047619048v100h-118.47619047619048Z" fill="#6913dc"/>
+<path aria-label="around: misnomer; Roentgenium Avon: 70; South: by teal Tricycle" role="graphics-symbol" aria-roledescription="bar" d="M495.9047619047619,202.33333333333331h118.47619047619048v46.666666666666686h-118.47619047619048Z" fill="#6913dc"/>
+<path aria-label="around: downstairs; Roentgenium Avon: 297; South: by teal Tricycle" role="graphics-symbol" aria-roledescription="bar" d="M51.61904761904759,51.0h118.47619047619048v198h-118.47619047619048Z" fill="#6913dc"/>
+<text aria-label="396,417,95,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="407.04761904761904" y="108.33666666666667" font-family="monospace" font-size="13.328571428571426px" fill="#000" opacity="1">203</text>
+<text aria-label="248,269,130,144" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="258.95238095238096" y="143.67000000000002" font-family="monospace" font-size="13.328571428571426px" fill="#000" opacity="1">150</text>
+<text aria-label="547,562,183,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="555.1428571428571" y="197.00333333333333" font-family="monospace" font-size="13.328571428571426px" fill="#000" opacity="1">70</text>
+<text aria-label="100,121,32,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.85714285714283" y="45.67" font-family="monospace" font-size="13.328571428571426px" fill="#000" opacity="1">297</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="239" viewBox="0 0 314 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="183,235,0,26" text-anchor="middle" x="209.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Data</text>
+<path aria-label="Egyptian network: 380; Northeast Northwest: Gourde" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.7859677401033,177.3340772889458A75,75,0,0,0,235.57199664306765,204.135076776181L209.0,134.0Z" fill="#88bb4a" stroke="black" stroke-width="1"/>
+<path aria-label="Egyptian network: 384; Northeast Northwest: Fish" role="graphics-symbol" aria-roledescription="arc mark"  d="M235.57199664306765,204.135076776181A75,75,0,0,0,283.441049360051,124.86051586934762L209.0,134.0Z" fill="#bbcdfc" stroke="black" stroke-width="1"/>
+<path aria-label="Egyptian network: 418; Northeast Northwest: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M283.441049360051,124.86051586934762A75,75,0,0,0,209.0,59.0L209.0,134.0Z" fill="#50ddba" stroke="black" stroke-width="1"/>
+<path aria-label="Egyptian network: 6; Northeast Northwest: Recumbent" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.05699613763986,131.076616329273A75,75,0,0,0,134.0124137221976,132.63548388461604L209.0,134.0Z" fill="#6141e7" stroke="black" stroke-width="1"/>
+<path aria-label="Egyptian network: 183; Northeast Northwest: Orchestrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.0124137221976,132.63548388461604A75,75,0,0,0,147.7859677401033,177.3340772889458L209.0,134.0Z" fill="#ae85c8" stroke="black" stroke-width="1"/>
+<path aria-label="Egyptian network: 359; Northeast Northwest: generating" role="graphics-symbol" aria-roledescription="arc mark"  d="M209.0,59.0A75,75,0,0,0,137.9654584843937,109.93562983023236L209.0,134.0Z" fill="#8bd79c" stroke="black" stroke-width="1"/>
+<path aria-label="Egyptian network: 83; Northeast Northwest: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.9654584843937,109.93562983023236A75,75,0,0,0,134.05699613763986,131.076616329273L209.0,134.0Z" fill="#af5d6c" stroke="black" stroke-width="1"/>
+<text aria-label="172,193,211,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.72051914764535" y="224.07780716381387" font-family="serif" font-size="13px" fill="#88bb4a" opacity="1">380</text>
+<text aria-label="275,296,171,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="286.04357811737316" y="184.52189883132692" font-family="serif" font-size="13px" fill="#bbcdfc" opacity="1">384</text>
+<text aria-label="258,279,57,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="268.63612878905514" y="70.59427217917435" font-family="serif" font-size="13px" fill="#50ddba" opacity="1">418</text>
+<text aria-label="115,122,122,136" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.03678366121129" y="135.42712107158164" font-family="serif" font-size="13px" fill="#6141e7" opacity="1">6</text>
+<text aria-label="112,133,151,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.99078972539502" y="164.50312713509078" font-family="serif" font-size="13px" fill="#ae85c8" opacity="1">183</text>
+<text aria-label="146,167,51,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="156.55456158222577" y="64.85988796038488" font-family="serif" font-size="13px" fill="#8bd79c" opacity="1">359</text>
+<text aria-label="113,127,108,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.49972529250321" y="121.63841765911361" font-family="serif" font-size="13px" fill="#af5d6c" opacity="1">83</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#50ddba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#bbcdfc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#88bb4a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ae85c8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#6141e7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#af5d6c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#8bd79c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Fish</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Gourde</text>
+<text aria-label="21,87,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Orchestrator</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Recumbent</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="21,76,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">generating</text>
+</svg>

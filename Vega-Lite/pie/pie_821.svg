@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="297" height="270" viewBox="0 0 297 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">female Executive</text>
+<path aria-label="wireless Electric Loan: 348; invoice Mountain proactive: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.8133431621215,116.03834113571088A75,75,0,0,0,105.0,90.0L105.0,127.0A38,38,0,0,1,133.78542720214156,140.1927595087602Z" fill="#e62ab1" stroke="black" stroke-width="2"/>
+<path aria-label="wireless Electric Loan: 514; invoice Mountain proactive: boo" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.31426336314732,190.07043350453884A75,75,0,0,0,107.96299535254633,239.9414482015179L106.50125097862347,202.97033375543572A38,38,0,0,1,69.18589343732798,177.702352975633Z" fill="#bbf2a0" stroke="black" stroke-width="2"/>
+<path aria-label="wireless Electric Loan: 774; invoice Mountain proactive: transmitter" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,34.31426336314732,190.07043350453884L69.18589343732798,177.702352975633A38,38,0,0,1,105.0,127.0Z" fill="#e3dd3e" stroke="black" stroke-width="2"/>
+<path aria-label="wireless Electric Loan: 151; invoice Mountain proactive: Route" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.7474400803477,140.10422280631488A75,75,0,0,0,161.8133431621215,116.03834113571088L133.78542720214156,140.1927595087602A38,38,0,0,1,140.8453696407095,152.38613955519952Z" fill="#3ed1ba" stroke="black" stroke-width="2"/>
+<path aria-label="wireless Electric Loan: 757; invoice Mountain proactive: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.96299535254633,239.9414482015179A75,75,0,0,0,175.7474400803477,140.10422280631488L140.8453696407095,152.38613955519952A38,38,0,0,1,106.50125097862347,202.97033375543572Z" fill="#aef7b4" stroke="black" stroke-width="2"/>
+<text aria-label="131,153,73,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.49760554126607" y="87.18356168427024" font-family="avenir" font-size="14px" fill="#e62ab1" opacity="1">348</text>
+<text aria-label="43,65,229,244" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.53758224353239" y="243.52210674807674" font-family="avenir" font-size="14px" fill="#bbf2a0" opacity="1">514</text>
+<text aria-label="20,42,103,118" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="31.48943334972104" y="117.07508699328524" font-family="avenir" font-size="14px" fill="#e3dd3e" opacity="1">774</text>
+<text aria-label="171,194,109,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.88665629955918" y="123.90378319111082" font-family="avenir" font-size="14px" fill="#3ed1ba" opacity="1">151</text>
+<text aria-label="168,190,205,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.45973376177884" y="219.55440681211692" font-family="avenir" font-size="14px" fill="#aef7b4" opacity="1">757</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#e62ab1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,40.25A5,5,0,1,1,73.0,40.25A5,5,0,1,1,83.0,40.25" fill="#3ed1ba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,40.25A5,5,0,1,1,129.0,40.25A5,5,0,1,1,139.0,40.25" fill="#aef7b4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,40.25A5,5,0,1,1,177.0,40.25A5,5,0,1,1,187.0,40.25" fill="#bbf2a0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,40.25A5,5,0,1,1,224.0,40.25A5,5,0,1,1,234.0,40.25" fill="#e3dd3e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="88,115,33,44" text-anchor="start" x="88.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Route</text>
+<text aria-label="144,166,33,44" text-anchor="start" x="144.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="192,208,33,44" text-anchor="start" x="192.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">boo</text>
+<text aria-label="239,299,33,44" text-anchor="start" x="239.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">transmitter</text>
+</svg>

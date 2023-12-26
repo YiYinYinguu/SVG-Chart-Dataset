@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="469" height="270" viewBox="0 0 469 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="269,464,0,26" text-anchor="end" x="464.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cotton yum East</text>
+<path aria-label="quae: 397; Trafficway: Regional" role="graphics-symbol" aria-roledescription="arc mark"  d="M111.61623232669288,239.70759981286525A75,75,0,0,0,179.05202250405827,176.88688197377462L161.2795371030843,174.0340303000687A57,57,0,0,1,110.02833656828659,221.77777585777758Z" fill="#ab298c" stroke="white" stroke-width="0"/>
+<path aria-label="quae: 256; Trafficway: Wooden" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.060700187921206,219.10461288125987A75,75,0,0,0,111.61623232669288,239.70759981286525L110.02833656828659,221.77777585777758A57,57,0,0,1,65.52613214282012,206.1195057897575Z" fill="#cc5694" stroke="white" stroke-width="0"/>
+<path aria-label="quae: 54; Trafficway: Credit" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.05202250405827,176.88688197377462A75,75,0,0,0,179.98372531382768,163.43764982784373L161.98763123850904,163.81261386916123A57,57,0,0,1,161.2795371030843,174.0340303000687Z" fill="#04e421" stroke="white" stroke-width="0"/>
+<path aria-label="quae: 399; Trafficway: system" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.06893758059556,127.46392224689153A75,75,0,0,0,53.060700187921206,219.10461288125987L65.52613214282012,206.1195057897575A57,57,0,0,1,55.652392561252626,136.47258090763756Z" fill="#09d77a" stroke="white" stroke-width="0"/>
+<path aria-label="quae: 62; Trafficway: Communications" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.98372531382768,163.43764982784373A75,75,0,0,0,178.06758782337783,148.08469303639544L160.53136674576714,152.14436670766054A57,57,0,0,1,161.98763123850904,163.81261386916123Z" fill="#1eeacf" stroke="white" stroke-width="0"/>
+<path aria-label="quae: 314; Trafficway: toward" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,40.06893758059556,127.46392224689153L55.652392561252626,136.47258090763756A57,57,0,0,1,104.99999999999999,108.0Z" fill="#c4f593" stroke="white" stroke-width="0"/>
+<path aria-label="quae: 403; Trafficway: Bike" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.06758782337783,148.08469303639544A75,75,0,0,0,105.0,90.0L105.0,108.0A57,57,0,0,1,160.53136674576714,152.14436670766054Z" fill="#1a54e7" stroke="white" stroke-width="0"/>
+<text aria-label="160,172,225,233" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="166.34632485987038" y="232.85308213126586" font-family="sans-serif" font-size="7px" fill="#ab298c" opacity="1">397</text>
+<text aria-label="69,81,244,252" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="75.12829321843245" y="251.8980631931969" font-family="sans-serif" font-size="7px" fill="#cc5694" opacity="1">256</text>
+<text aria-label="190,198,166,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.78481469748985" y="173.21989145704407" font-family="sans-serif" font-size="7px" fill="#04e421" opacity="1">54</text>
+<text aria-label="9,21,172,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.891015103400719" y="179.63284650020097" font-family="sans-serif" font-size="7px" fill="#09d77a" opacity="1">399</text>
+<text aria-label="190,198,148,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.30714225301773" y="155.8539539477331" font-family="sans-serif" font-size="7px" fill="#1eeacf" opacity="1">62</text>
+<text aria-label="54,66,82,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="60.02165186078817" y="89.04521696093396" font-family="sans-serif" font-size="7px" fill="#c4f593" opacity="1">314</text>
+<text aria-label="155,167,89,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="161.00511962281087" y="96.54840969832799" font-family="sans-serif" font-size="7px" fill="#1a54e7" opacity="1">403</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#1a54e7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,40.25A5,5,0,1,1,53.0,40.25A5,5,0,1,1,63.0,40.25" fill="#1eeacf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M171.0,40.25A5,5,0,1,1,161.0,40.25A5,5,0,1,1,171.0,40.25" fill="#04e421" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M227.0,40.25A5,5,0,1,1,217.0,40.25A5,5,0,1,1,227.0,40.25" fill="#ab298c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,40.25A5,5,0,1,1,286.0,40.25A5,5,0,1,1,296.0,40.25" fill="#cc5694" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M364.0,40.25A5,5,0,1,1,354.0,40.25A5,5,0,1,1,364.0,40.25" fill="#09d77a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M425.0,40.25A5,5,0,1,1,415.0,40.25A5,5,0,1,1,425.0,40.25" fill="#c4f593" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bike</text>
+<text aria-label="68,145,33,44" text-anchor="start" x="68.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Communications</text>
+<text aria-label="176,209,33,44" text-anchor="start" x="176.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Credit</text>
+<text aria-label="232,276,33,44" text-anchor="start" x="232.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Regional</text>
+<text aria-label="301,334,33,44" text-anchor="start" x="301.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Wooden</text>
+<text aria-label="369,402,33,44" text-anchor="start" x="369.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">system</text>
+<text aria-label="430,463,33,44" text-anchor="start" x="430.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">toward</text>
+</svg>

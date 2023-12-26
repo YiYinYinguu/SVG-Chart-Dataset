@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="239" viewBox="0 0 314 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,317,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">interface Southeast Lats</text>
+<path aria-label="Berkshire: 254; Chevrolet: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.69523622663735,81.63759357548955A75,75,0,0,0,189.0,59.0L189.0,134.0Z" fill="#dae58d" stroke="black" stroke-width="0"/>
+<path aria-label="Berkshire: 666; Chevrolet: Tennessee" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.84002382329699,165.2924535246324A75,75,0,0,0,250.08905453028822,177.5100840793887L189.0,134.0Z" fill="#87a8c2" stroke="black" stroke-width="0"/>
+<path aria-label="Berkshire: 443; Chevrolet: Developer" role="graphics-symbol" aria-roledescription="arc mark"  d="M250.08905453028822,177.5100840793887A75,75,0,0,0,242.69523622663735,81.63759357548955L189.0,134.0Z" fill="#acbfb9" stroke="black" stroke-width="0"/>
+<path aria-label="Berkshire: 637; Chevrolet: tan" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,120.84002382329699,165.2924535246324L189.0,134.0Z" fill="#4ebdd4" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#dae58d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#acbfb9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#87a8c2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#4ebdd4" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Developer</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Tennessee</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">tan</text>
+</svg>

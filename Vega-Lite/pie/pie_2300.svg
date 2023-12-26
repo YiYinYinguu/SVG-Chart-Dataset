@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">but</text>
+<path aria-label="Handmade: 166; Roads Computer: Quincy" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.6820932779203,206.97321499540325A75,75,0,0,0,256.8664774682497,167.96872371738536L190.0,134.0Z" fill="#542a22" stroke="black" stroke-width="0"/>
+<path aria-label="Handmade: 24; Roads Computer: Alabama" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.8664774682497,167.96872371738536A75,75,0,0,0,262.1369232379614,154.52472425540623L190.0,134.0Z" fill="#2a1bdf" stroke="black" stroke-width="0"/>
+<path aria-label="Handmade: 142; Roads Computer: ADP" role="graphics-symbol" aria-roledescription="arc mark"  d="M258.1768119402858,102.74424351165214A75,75,0,0,0,190.0,59.0L190.0,134.0Z" fill="#941c8d" stroke="black" stroke-width="0"/>
+<path aria-label="Handmade: 138; Roads Computer: integrated" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.22916499267032,64.7378959821389A75,75,0,0,0,115.17484231070956,128.88181899764967L190.0,134.0Z" fill="#57ae7b" stroke="black" stroke-width="0"/>
+<path aria-label="Handmade: 88; Roads Computer: AI" role="graphics-symbol" aria-roledescription="arc mark"  d="M262.1369232379614,154.52472425540623A75,75,0,0,0,258.1768119402858,102.74424351165214L190.0,134.0Z" fill="#2faa9e" stroke="black" stroke-width="0"/>
+<path aria-label="Handmade: 49; Roads Computer: zowie" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,161.22916499267032,64.7378959821389L190.0,134.0Z" fill="#a2ebff" stroke="black" stroke-width="0"/>
+<path aria-label="Handmade: 175; Roads Computer: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.17484231070956,128.88181899764967A75,75,0,0,0,172.6820932779203,206.97321499540325L190.0,134.0Z" fill="#6e0e16" stroke="black" stroke-width="0"/>
+<text aria-label="220,235,209,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="227.83527498280236" y="218.66083496374335" font-family="Balto" font-size="9px" fill="#542a22" opacity="1">166</text>
+<text aria-label="268,278,160,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="273.791211654881" y="169.84863542686261" font-family="Balto" font-size="9px" fill="#2a1bdf" opacity="1">24</text>
+<text aria-label="231,246,52,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="238.6023574492968" y="61.25166107187046" font-family="Balto" font-size="9px" fill="#941c8d" opacity="1">142</text>
+<text aria-label="109,124,75,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="116.89209261275178" y="84.50967824962838" font-family="Balto" font-size="9px" fill="#57ae7b" opacity="1">138</text>
+<text aria-label="274,284,121,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="279.7379434111414" y="130.13694584468493" font-family="Balto" font-size="9px" fill="#2faa9e" opacity="1">88</text>
+<text aria-label="167,177,39,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="172.39754610755932" y="48.73815310699362" font-family="Balto" font-size="9px" fill="#a2ebff" opacity="1">49</text>
+<text aria-label="110,125,181,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.53000785650305" y="190.36759539946962" font-family="Balto" font-size="9px" fill="#6e0e16" opacity="1">175</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#941c8d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#2faa9e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#2a1bdf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#542a22" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#6e0e16" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#57ae7b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#a2ebff" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">ADP</text>
+<text aria-label="21,32,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">AI</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Alabama</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Quincy</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="21,76,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">integrated</text>
+<text aria-label="21,48,129,140" text-anchor="start" x="21.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">zowie</text>
+</svg>

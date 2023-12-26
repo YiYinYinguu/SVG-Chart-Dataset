@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="375" height="239" viewBox="0 0 375 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">asymmetric Toledo</text>
+<path aria-label="withdrawal portal: 273; Northwest RAM Electronic: embrace" role="graphics-symbol" aria-roledescription="arc mark"  d="M270.0,59.0A75,75,0,0,0,224.48998906360552,193.61408310600152L270.0,134.0Z" fill="#a8171b" stroke="white" stroke-width="2"/>
+<path aria-label="withdrawal portal: 305; Northwest RAM Electronic: Elegant" role="graphics-symbol" aria-roledescription="arc mark"  d="M234.24064485314244,199.92623544144556A75,75,0,0,0,326.7015718191337,84.90894426436091L270.0,134.0Z" fill="#af31f0" stroke="white" stroke-width="2"/>
+<path aria-label="withdrawal portal: 94; Northwest RAM Electronic: Cis" role="graphics-symbol" aria-roledescription="arc mark"  d="M326.7015718191337,84.90894426436091A75,75,0,0,0,270.0,59.0L270.0,134.0Z" fill="#c0268a" stroke="white" stroke-width="2"/>
+<path aria-label="withdrawal portal: 17; Northwest RAM Electronic: Sarasota" role="graphics-symbol" aria-roledescription="arc mark"  d="M224.48998906360552,193.61408310600152A75,75,0,0,0,234.24064485314244,199.92623544144556L270.0,134.0Z" fill="#4db3ee" stroke="white" stroke-width="2"/>
+<text aria-label="173,195,95,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.74062815312277" y="109.1757131523446" font-family="Balto" font-size="14px" fill="#a8171b" opacity="1">273</text>
+<text aria-label="328,351,180,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="340.1449879548826" y="194.38865723538183" font-family="Balto" font-size="14px" fill="#af31f0" opacity="1">305</text>
+<text aria-label="299,314,42,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="307.4043178025678" y="56.14087094450302" font-family="Balto" font-size="14px" fill="#c0268a" opacity="1">94</text>
+<text aria-label="213,228,199,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="221.0915229531258" y="213.55104812612052" font-family="Balto" font-size="14px" fill="#4db3ee" opacity="1">17</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#c0268a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#af31f0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#4db3ee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#a8171b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Cis</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Elegant</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Sarasota</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">embrace</text>
+<text aria-label="5,149,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northwest RAM Electronic</text>
+</svg>

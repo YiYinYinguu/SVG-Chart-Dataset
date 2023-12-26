@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="371" height="239" viewBox="0 0 371 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="197,366,0,26" text-anchor="end" x="366.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Kayley relish</text>
+<path aria-label="silver: 151; Non Technician physically: Investment" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.915098723728796,188.91204659811564A75,75,0,0,0,177.77771961928815,152.12190737798537L139.9333054172583,142.69851554143298A36,36,0,0,1,80.47924738738982,160.35778236709552Z" fill="#fc6480" stroke="white" stroke-width="3"/>
+<path aria-label="silver: 132; Non Technician physically: Applications" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.77771961928815,152.12190737798537A75,75,0,0,0,105.0,59.0L105.0,98.0A36,36,0,0,1,139.9333054172583,142.69851554143298Z" fill="#c49d52" stroke="white" stroke-width="3"/>
+<path aria-label="silver: 174; Non Technician physically: well" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,53.915098723728796,188.91204659811564L80.47924738738982,160.35778236709552A36,36,0,0,1,105.0,98.0Z" fill="#69ddc0" stroke="white" stroke-width="3"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#c49d52" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#fc6480" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#69ddc0" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,305,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Applications</text>
+<text aria-label="239,294,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Investment</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">well</text>
+<text aria-label="223,373,32,44" text-anchor="start" x="223.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Non Technician physically</text>
+</svg>

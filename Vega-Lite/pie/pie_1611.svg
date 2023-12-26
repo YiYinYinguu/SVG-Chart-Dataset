@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="360" height="239" viewBox="0 0 360 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,355,0,26" text-anchor="end" x="355.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Applications virtual Colton</text>
+<path aria-label="Pataca: 688; skinny Cab: Elegant" role="graphics-symbol" aria-roledescription="arc mark"  d="M180.0,59.0A75,75,0,0,0,127.21781146545885,187.28264795882572L157.4795995585958,156.73392979576565A32,32,0,0,1,180.0,102.0Z" fill="#5f300b" stroke="white" stroke-width="4"/>
+<path aria-label="Pataca: 445; skinny Cab: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.21781146545885,187.28264795882572A75,75,0,0,0,230.92304758460764,189.06217598947381L201.7271669694326,157.49319508884216A32,32,0,0,1,157.4795995585958,156.73392979576565Z" fill="#d7a5ac" stroke="white" stroke-width="4"/>
+<path aria-label="Pataca: 665; skinny Cab: Credit" role="graphics-symbol" aria-roledescription="arc mark"  d="M236.81889045729173,182.95522124556567A75,75,0,0,0,180.0,59.0L180.0,102.0A32,32,0,0,1,204.24272659511115,154.88756106477467Z" fill="#b5b7f9" stroke="white" stroke-width="4"/>
+<path aria-label="Pataca: 33; skinny Cab: Direct" role="graphics-symbol" aria-roledescription="arc mark"  d="M230.92304758460764,189.06217598947381A75,75,0,0,0,236.81889045729173,182.95522124556567L204.24272659511115,154.88756106477467A32,32,0,0,1,201.7271669694326,157.49319508884216Z" fill="#3bcdb0" stroke="white" stroke-width="4"/>
+<text aria-label="88,105,92,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="96.76981923739086" y="102.7547520052284" font-family="serif" font-size="10px" fill="#5f300b" opacity="1">688</text>
+<text aria-label="170,186,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.45587402389265" y="226.98675277489411" font-family="serif" font-size="10px" fill="#d7a5ac" opacity="1">445</text>
+<text aria-label="253,270,89,100" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="261.81431382869715" y="99.49775936374661" font-family="serif" font-size="10px" fill="#b5b7f9" opacity="1">665</text>
+<text aria-label="239,250,189,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="244.74892461915258" y="199.51061318418894" font-family="serif" font-size="10px" fill="#3bcdb0" opacity="1">33</text>
+<path  d="M309.0,56.0A5,5,0,1,1,299.0,56.0A5,5,0,1,1,309.0,56.0" fill="#b5b7f9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M309.0,72.0A5,5,0,1,1,299.0,72.0A5,5,0,1,1,309.0,72.0" fill="#3bcdb0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M309.0,88.0A5,5,0,1,1,299.0,88.0A5,5,0,1,1,309.0,88.0" fill="#d7a5ac" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M309.0,104.0A5,5,0,1,1,299.0,104.0A5,5,0,1,1,309.0,104.0" fill="#5f300b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="314,347,49,60" text-anchor="start" x="314.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Credit</text>
+<text aria-label="314,347,65,76" text-anchor="start" x="314.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Direct</text>
+<text aria-label="314,336,81,92" text-anchor="start" x="314.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="314,352,97,108" text-anchor="start" x="314.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Elegant</text>
+<text aria-label="298,358,32,44" text-anchor="start" x="298.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">skinny Cab</text>
+</svg>

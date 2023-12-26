@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="325" height="239" viewBox="0 0 325 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="99,320,0,26" text-anchor="end" x="320.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gloves ubiquitous</text>
+<path aria-label="World alarm: 7; Weston Automotive: once" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,36.77760034841114,165.15612597514152L60.42803222762861,154.35533563709248A49,49,0,0,1,104.99999999999999,85.0Z" fill="#f4fdf1" stroke="white" stroke-width="1"/>
+<path aria-label="World alarm: 1; Weston Automotive: Thulium" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.12994176310724,62.0380269789127A75,75,0,0,0,105.0,59.0L105.0,85.0A49,49,0,0,1,118.80489528523006,86.98484429288962Z" fill="#ee3a27" stroke="white" stroke-width="1"/>
+<path aria-label="World alarm: 14; Weston Automotive: Washington" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.77760034841114,165.15612597514152A75,75,0,1,0,126.12994176310724,62.0380269789127L118.80489528523006,86.98484429288962A49,49,0,1,1,60.42803222762861,154.35533563709248Z" fill="#fdaadf" stroke="white" stroke-width="1"/>
+<text aria-label="26,32,77,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="29.287182045193717" y="89.34232642899619" font-family="monospace" font-size="12px" fill="#f4fdf1" opacity="1">7</text>
+<text aria-label="114,121,36,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.80833544459566" y="48.91607023071606" font-family="monospace" font-size="12px" fill="#ee3a27" opacity="1">1</text>
+<text aria-label="166,179,184,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.01746169188323" y="196.93746605507567" font-family="monospace" font-size="12px" fill="#fdaadf" opacity="1">14</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ee3a27" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#fdaadf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#f4fdf1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Thulium</text>
+<text aria-label="239,294,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Washington</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">once</text>
+<text aria-label="223,325,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Weston Automotive</text>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="396" height="340" viewBox="0 0 396 340" style="background-color: rgb(255, 255, 255);">
+<line x1="35.5" y1="234.5" x2="391.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="178.5" x2="391.5" y2="178.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="123.5" x2="391.5" y2="123.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="67.5" x2="391.5" y2="67.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="33,49,241,281" text-anchor="end" x="44.88888888888891" y="241.5" transform="rotate(270.0, 49.88888888888891, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">draft</text>
+<text aria-label="53,69,241,297" text-anchor="end" x="64.66666666666669" y="241.5" transform="rotate(270.0, 69.66666666666669, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">dungeon</text>
+<text aria-label="73,89,241,281" text-anchor="end" x="84.44444444444446" y="241.5" transform="rotate(270.0, 89.44444444444446, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">fanny</text>
+<text aria-label="93,109,241,265" text-anchor="end" x="104.22222222222224" y="241.5" transform="rotate(270.0, 109.22222222222224, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">gig</text>
+<text aria-label="113,129,241,297" text-anchor="end" x="124.00000000000003" y="241.5" transform="rotate(270.0, 129.00000000000003, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">glucose</text>
+<text aria-label="132,148,241,297" text-anchor="end" x="143.7777777777778" y="241.5" transform="rotate(270.0, 148.7777777777778, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">holiday</text>
+<text aria-label="152,168,241,281" text-anchor="end" x="163.55555555555557" y="241.5" transform="rotate(270.0, 168.55555555555557, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">ketch</text>
+<text aria-label="172,188,241,273" text-anchor="end" x="183.33333333333337" y="241.5" transform="rotate(270.0, 188.33333333333337, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">lion</text>
+<text aria-label="192,208,241,281" text-anchor="end" x="203.11111111111114" y="241.5" transform="rotate(270.0, 208.11111111111114, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">molar</text>
+<text aria-label="211,227,241,289" text-anchor="end" x="222.8888888888889" y="241.5" transform="rotate(270.0, 227.8888888888889, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">office</text>
+<text aria-label="231,247,241,289" text-anchor="end" x="242.66666666666669" y="241.5" transform="rotate(270.0, 247.66666666666669, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">ribbon</text>
+<text aria-label="251,267,241,281" text-anchor="end" x="262.44444444444446" y="241.5" transform="rotate(270.0, 267.44444444444446, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">sabre</text>
+<text aria-label="271,287,241,281" text-anchor="end" x="282.2222222222223" y="241.5" transform="rotate(270.0, 287.2222222222223, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">sepal</text>
+<text aria-label="291,307,241,273" text-anchor="end" x="302.0" y="241.5" transform="rotate(270.0, 307.0, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">temp</text>
+<text aria-label="310,326,241,281" text-anchor="end" x="321.7777777777778" y="241.5" transform="rotate(270.0, 326.7777777777778, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">thumb</text>
+<text aria-label="330,346,241,281" text-anchor="end" x="341.55555555555554" y="241.5" transform="rotate(270.0, 346.55555555555554, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">truth</text>
+<text aria-label="350,366,241,297" text-anchor="end" x="361.33333333333337" y="241.5" transform="rotate(270.0, 366.33333333333337, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">windage</text>
+<text aria-label="370,386,241,281" text-anchor="end" x="381.1111111111111" y="241.5" transform="rotate(270.0, 386.1111111111111, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">young</text>
+<line aria-label="44,44,234,239" x1="44.5" y1="234.5" x2="44.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="64,64,234,239" x1="64.5" y1="234.5" x2="64.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="84,84,234,239" x1="84.5" y1="234.5" x2="84.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="104,104,234,239" x1="104.5" y1="234.5" x2="104.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="124,124,234,239" x1="124.5" y1="234.5" x2="124.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="143,143,234,239" x1="143.5" y1="234.5" x2="143.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="163,163,234,239" x1="163.5" y1="234.5" x2="163.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="183,183,234,239" x1="183.5" y1="234.5" x2="183.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="203,203,234,239" x1="203.5" y1="234.5" x2="203.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="222,222,234,239" x1="222.5" y1="234.5" x2="222.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="242,242,234,239" x1="242.5" y1="234.5" x2="242.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="262,262,234,239" x1="262.5" y1="234.5" x2="262.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="282,282,234,239" x1="282.5" y1="234.5" x2="282.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="302,302,234,239" x1="302.5" y1="234.5" x2="302.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="321,321,234,239" x1="321.5" y1="234.5" x2="321.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="341,341,234,239" x1="341.5" y1="234.5" x2="341.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="361,361,234,239" x1="361.5" y1="234.5" x2="361.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="381,381,234,239" x1="381.5" y1="234.5" x2="381.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,391,234,234" x1="35.5" y1="234.5" x2="391.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="53,391,0,26" text-anchor="end" x="391.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bahamas Northwest Optional</text>
+<text aria-label="25,33,224,240" text-anchor="end" x="33.5" y="239.5" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="17,33,168,184" text-anchor="end" x="33.5" y="183.94444444444443" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="9,33,113,129" text-anchor="end" x="33.5" y="128.38888888888889" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="9,33,57,73" text-anchor="end" x="33.5" y="72.83333333333333" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">150</text>
+<line aria-label="35,35,34,234" x1="35.5" y1="234.5" x2="35.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Handcrafted Louisiana: holiday; Facilitator: 85; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M136.6577777777778,139.55555555555554h14.240000000000002v94.44444444444444h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: holiday; Facilitator: 18; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M136.6577777777778,119.55555555555556h14.240000000000002v20h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: thumb; Facilitator: 44; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M314.6577777777778,185.11111111111111h14.240000000000002v48.888888888888886h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: thumb; Facilitator: 51; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M314.6577777777778,128.44444444444446h14.240000000000002v56.66666666666667h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: windage; Facilitator: 33; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M354.21333333333337,197.33333333333334h14.240000000000002v36.66666666666666h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: windage; Facilitator: 34; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M354.21333333333337,159.55555555555554h14.240000000000002v37.777777777777786h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: office; Facilitator: 34; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M215.7688888888889,196.22222222222223h14.240000000000002v37.77777777777777h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: office; Facilitator: 105; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M215.7688888888889,79.55555555555554h14.240000000000002v116.66666666666669h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: sabre; Facilitator: 51; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M255.32444444444448,177.33333333333334h14.240000000000002v56.66666666666666h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: sabre; Facilitator: 12; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M255.32444444444448,164.0h14.240000000000002v13.333333333333343h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: temp; Facilitator: 63; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M294.88,164.0h14.240000000000002v70h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: temp; Facilitator: 79; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M294.88,76.22222222222223h14.240000000000002v87.77777777777777h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: molar; Facilitator: 105; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M195.99111111111114,117.33333333333333h14.240000000000002v116.66666666666667h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: molar; Facilitator: 49; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M195.99111111111114,62.8888888888889h14.240000000000002v54.44444444444443h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: truth; Facilitator: 38; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M334.43555555555554,191.77777777777777h14.240000000000002v42.22222222222223h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: truth; Facilitator: 17; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M334.43555555555554,172.88888888888889h14.240000000000002v18.888888888888886h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: sepal; Facilitator: 56; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M275.1022222222223,171.77777777777777h14.240000000000002v62.22222222222223h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: sepal; Facilitator: 99; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M275.1022222222223,61.77777777777777h14.240000000000002v110h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: glucose; Facilitator: 21; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M116.88000000000002,210.66666666666666h14.240000000000002v23.333333333333343h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: glucose; Facilitator: 62; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M116.88000000000002,141.77777777777777h14.240000000000002v68.88888888888889h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: ketch; Facilitator: 40; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M156.4355555555556,189.55555555555557h14.240000000000002v44.44444444444443h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: ketch; Facilitator: 108; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M156.4355555555556,69.55555555555557h14.240000000000002v120h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: young; Facilitator: 14; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M373.9911111111111,218.44444444444446h14.240000000000002v15.555555555555543h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: young; Facilitator: 17; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M373.9911111111111,199.55555555555554h14.240000000000002v18.888888888888914h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: gig; Facilitator: 31; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M97.10222222222225,199.55555555555554h14.240000000000002v34.44444444444446h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: gig; Facilitator: 66; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M97.10222222222225,126.22222222222223h14.240000000000002v73.33333333333331h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: lion; Facilitator: 41; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M176.21333333333337,188.44444444444446h14.240000000000002v45.55555555555554h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: lion; Facilitator: 85; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M176.21333333333337,94.0h14.240000000000002v94.44444444444446h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: ribbon; Facilitator: 99; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M235.54666666666668,123.99999999999999h14.240000000000002v110.00000000000001h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: ribbon; Facilitator: 70; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M235.54666666666668,46.22222222222222h14.240000000000002v77.77777777777776h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: fanny; Facilitator: 85; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M77.32444444444447,139.55555555555554h14.240000000000002v94.44444444444444h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: fanny; Facilitator: 50; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M77.32444444444447,84.0h14.240000000000002v55.55555555555556h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: draft; Facilitator: 18; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M37.76888888888891,214.0h14.240000000000002v20h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: draft; Facilitator: 89; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M37.76888888888891,115.11111111111111h14.240000000000002v98.88888888888889h-14.240000000000002Z" fill="#5fc7d9"/>
+<path aria-label="Handcrafted Louisiana: dungeon; Facilitator: 35; middleware: program" role="graphics-symbol" aria-roledescription="bar" d="M57.54666666666669,195.11111111111111h14.240000000000002v38.888888888888886h-14.240000000000002Z" fill="#ad6c1f"/>
+<path aria-label="Handcrafted Louisiana: dungeon; Facilitator: 3; middleware: channels versus" role="graphics-symbol" aria-roledescription="bar" d="M57.54666666666669,191.77777777777777h14.240000000000002v3.333333333333343h-14.240000000000002Z" fill="#5fc7d9"/>
+<path  d="M36.0,325.0h10v10h-10Z" fill="#ad6c1f" stroke-width="1.5" opacity="1"/>
+<path  d="M104.0,325.0h10v10h-10Z" fill="#5fc7d9" stroke-width="1.5" opacity="1"/>
+<text aria-label="51,89,323,334" text-anchor="start" x="51.0" y="333.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">program</text>
+<text aria-label="119,201,323,334" text-anchor="start" x="119.0" y="333.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">channels versus</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="976" height="369" viewBox="0 0 976 369" style="background-color: rgb(255, 255, 255);">
+<line x1="41.5" y1="241.5" x2="971.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="197.5" x2="971.5" y2="197.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="152.5" x2="971.5" y2="152.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="108.5" x2="971.5" y2="108.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="63.5" x2="971.5" y2="63.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="143,163,248,308" text-anchor="end" x="157.25" y="248.5" transform="rotate(270.0, 163.25, 248.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">broker</text>
+<text aria-label="375,395,248,308" text-anchor="end" x="389.75" y="248.5" transform="rotate(270.0, 395.75, 248.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">factor</text>
+<text aria-label="608,628,248,368" text-anchor="end" x="622.25" y="248.5" transform="rotate(270.0, 628.25, 248.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">proof-reader</text>
+<text aria-label="840,860,248,368" text-anchor="end" x="854.75" y="248.5" transform="rotate(270.0, 860.75, 248.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">veterinarian</text>
+<line aria-label="157,157,241,246" x1="157.5" y1="241.5" x2="157.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="389,389,241,246" x1="389.5" y1="241.5" x2="389.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="622,622,241,246" x1="622.5" y1="241.5" x2="622.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="854,854,241,246" x1="854.5" y1="241.5" x2="854.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,971,241,241" x1="41.5" y1="241.5" x2="971.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="421,590,0,26" text-anchor="middle" x="506.0" y="25.90166666666667" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Configuration</text>
+<text aria-label="29,39,228,248" text-anchor="end" x="39.5" y="247.5" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="9,39,184,204" text-anchor="end" x="39.5" y="203.05555555555557" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="9,39,139,159" text-anchor="end" x="39.5" y="158.61111111111111" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="9,39,95,115" text-anchor="end" x="39.5" y="114.16666666666667" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="9,39,50,70" text-anchor="end" x="39.5" y="69.72222222222223" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">800</text>
+<path aria-label="Chips Hawaii: factor; indexing: 377; Pizza Director tangible: Bronze Northwest Home" role="graphics-symbol" aria-roledescription="bar" d="M295.5875,141.66666666666669h188.32500000000002v83.77777777777777h-188.32500000000002Z" fill="#fe76cd"/>
+<path aria-label="Chips Hawaii: factor; indexing: 70; Pizza Director tangible: Cambridgeshire Gabon Phyllis" role="graphics-symbol" aria-roledescription="bar" d="M295.5875,225.44444444444446h188.32500000000002v15.555555555555543h-188.32500000000002Z" fill="#cdce41"/>
+<path aria-label="Chips Hawaii: veterinarian; indexing: 605; Pizza Director tangible: Bronze Northwest Home" role="graphics-symbol" aria-roledescription="bar" d="M760.5875,51.66666666666667h188.32500000000002v134.44444444444446h-188.32500000000002Z" fill="#fe76cd"/>
+<path aria-label="Chips Hawaii: veterinarian; indexing: 247; Pizza Director tangible: Cambridgeshire Gabon Phyllis" role="graphics-symbol" aria-roledescription="bar" d="M760.5875,186.11111111111111h188.32500000000002v54.888888888888886h-188.32500000000002Z" fill="#cdce41"/>
+<path aria-label="Chips Hawaii: broker; indexing: 257; Pizza Director tangible: Bronze Northwest Home" role="graphics-symbol" aria-roledescription="bar" d="M63.0875,133.22222222222223h188.32500000000002v57.111111111111086h-188.32500000000002Z" fill="#fe76cd"/>
+<path aria-label="Chips Hawaii: broker; indexing: 228; Pizza Director tangible: Cambridgeshire Gabon Phyllis" role="graphics-symbol" aria-roledescription="bar" d="M63.0875,190.33333333333331h188.32500000000002v50.666666666666686h-188.32500000000002Z" fill="#cdce41"/>
+<path aria-label="Chips Hawaii: proof-reader; indexing: 13; Pizza Director tangible: Bronze Northwest Home" role="graphics-symbol" aria-roledescription="bar" d="M528.0875,128.55555555555557h188.32500000000002v2.8888888888888715h-188.32500000000002Z" fill="#fe76cd"/>
+<path aria-label="Chips Hawaii: proof-reader; indexing: 493; Pizza Director tangible: Cambridgeshire Gabon Phyllis" role="graphics-symbol" aria-roledescription="bar" d="M528.0875,131.44444444444446h188.32500000000002v109.55555555555556h-188.32500000000002Z" fill="#cdce41"/>
+<text aria-label="378,400,121,136" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="389.75" y="135.9016666666667" font-family="sans-serif" font-size="13.95px" fill="#000" opacity="1">377</text>
+<text aria-label="382,397,205,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="389.75" y="219.67944444444447" font-family="sans-serif" font-size="13.95px" fill="#000" opacity="1">70</text>
+<text aria-label="843,865,31,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="854.75" y="45.90166666666667" font-family="sans-serif" font-size="13.95px" fill="#000" opacity="1">605</text>
+<text aria-label="843,865,166,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="854.75" y="180.34611111111113" font-family="sans-serif" font-size="13.95px" fill="#000" opacity="1">247</text>
+<text aria-label="146,168,113,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.25" y="127.45722222222223" font-family="sans-serif" font-size="13.95px" fill="#000" opacity="1">257</text>
+<text aria-label="146,168,170,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.25" y="184.56833333333333" font-family="sans-serif" font-size="13.95px" fill="#000" opacity="1">228</text>
+<text aria-label="614,629,108,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="622.25" y="122.79055555555557" font-family="sans-serif" font-size="13.95px" fill="#000" opacity="1">13</text>
+<text aria-label="611,633,111,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="622.25" y="125.67944444444444" font-family="sans-serif" font-size="13.95px" fill="#000" opacity="1">493</text>
+</svg>

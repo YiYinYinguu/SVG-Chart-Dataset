@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1001" height="341" viewBox="0 0 1001 341" style="background-color: rgb(255, 255, 255);">
+<line x1="117.5" y1="63.5" x2="117.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="232.5" y1="63.5" x2="232.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="348.5" y1="63.5" x2="348.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="464.5" y1="63.5" x2="464.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="579.5" y1="63.5" x2="579.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="695.5" y1="63.5" x2="695.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="811.5" y1="63.5" x2="811.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="926.5" y1="63.5" x2="926.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="108,120,270,324" text-anchor="end" x="117.36585365853654" y="270.5" transform="rotate(270.0, 120.36585365853654, 270.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">barometer</text>
+<text aria-label="223,235,270,330" text-anchor="end" x="232.97560975609753" y="270.5" transform="rotate(270.0, 235.97560975609753, 270.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">department</text>
+<text aria-label="339,351,270,324" text-anchor="end" x="348.5853658536585" y="270.5" transform="rotate(270.0, 351.5853658536585, 270.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">doctorate</text>
+<text aria-label="455,467,270,318" text-anchor="end" x="464.1951219512195" y="270.5" transform="rotate(270.0, 467.1951219512195, 270.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">football</text>
+<text aria-label="570,582,270,300" text-anchor="end" x="579.8048780487804" y="270.5" transform="rotate(270.0, 582.8048780487804, 270.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">plane</text>
+<text aria-label="686,698,270,300" text-anchor="end" x="695.4146341463415" y="270.5" transform="rotate(270.0, 698.4146341463415, 270.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">quiet</text>
+<text aria-label="802,814,270,312" text-anchor="end" x="811.0243902439024" y="270.5" transform="rotate(270.0, 814.0243902439024, 270.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">seaside</text>
+<text aria-label="917,929,270,306" text-anchor="end" x="926.6341463414635" y="270.5" transform="rotate(270.0, 929.6341463414635, 270.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">turret</text>
+<line aria-label="117,117,263,268" x1="117.5" y1="263.5" x2="117.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="232,232,263,268" x1="232.5" y1="263.5" x2="232.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="348,348,263,268" x1="348.5" y1="263.5" x2="348.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="464,464,263,268" x1="464.5" y1="263.5" x2="464.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="579,579,263,268" x1="579.5" y1="263.5" x2="579.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="695,695,263,268" x1="695.5" y1="263.5" x2="695.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="811,811,263,268" x1="811.5" y1="263.5" x2="811.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="926,926,263,268" x1="926.5" y1="263.5" x2="926.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,996,263,263" x1="48.5" y1="263.5" x2="996.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="489,554,0,26" text-anchor="middle" x="522.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">magni</text>
+<text aria-label="35,41,255,267" text-anchor="end" x="41.5" y="266.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="29,41,215,227" text-anchor="end" x="41.5" y="226.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="29,41,175,187" text-anchor="end" x="41.5" y="186.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="29,41,135,147" text-anchor="end" x="41.5" y="146.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="29,41,95,107" text-anchor="end" x="41.5" y="106.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">80</text>
+<text aria-label="23,41,55,67" text-anchor="end" x="41.5" y="66.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">100</text>
+<line aria-label="43,48,263,263" x1="48.5" y1="263.5" x2="43.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,223,223" x1="48.5" y1="223.5" x2="43.5" y2="223.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,183,183" x1="48.5" y1="183.5" x2="43.5" y2="183.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,143,143" x1="48.5" y1="143.5" x2="43.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,103,103" x1="48.5" y1="103.5" x2="43.5" y2="103.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,63,63" x1="48.5" y1="63.5" x2="43.5" y2="63.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,118,208" text-anchor="middle" x="17.14892578125" y="163.5" transform="rotate(-90.0, 15.14892578125, 163.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Chips HDD Brand</text>
+<line aria-label="48,48,63,263" x1="48.5" y1="263.5" x2="48.5" y2="63.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="miserably Handcrafted: turret; Chips HDD Brand: 13; hacking: Shoes" role="graphics-symbol" aria-roledescription="bar" d="M880.3902439024391,237.0h92.48780487804879v26h-92.48780487804879Z" fill="#e213da"/>
+<path aria-label="miserably Handcrafted: quiet; Chips HDD Brand: 34; hacking: Shoes" role="graphics-symbol" aria-roledescription="bar" d="M649.1707317073171,194.99999999999997h92.48780487804879v68.00000000000003h-92.48780487804879Z" fill="#e213da"/>
+<path aria-label="miserably Handcrafted: doctorate; Chips HDD Brand: 4; hacking: Shoes" role="graphics-symbol" aria-roledescription="bar" d="M302.3414634146341,255.0h92.48780487804879v8h-92.48780487804879Z" fill="#e213da"/>
+<path aria-label="miserably Handcrafted: barometer; Chips HDD Brand: 95; hacking: Shoes" role="graphics-symbol" aria-roledescription="bar" d="M71.12195121951214,73.00000000000001h92.48780487804879v190h-92.48780487804879Z" fill="#e213da"/>
+<path aria-label="miserably Handcrafted: seaside; Chips HDD Brand: 100; hacking: Shoes" role="graphics-symbol" aria-roledescription="bar" d="M764.780487804878,63.0h92.48780487804879v200h-92.48780487804879Z" fill="#e213da"/>
+<path aria-label="miserably Handcrafted: plane; Chips HDD Brand: 53; hacking: Shoes" role="graphics-symbol" aria-roledescription="bar" d="M533.560975609756,157.0h92.48780487804879v106h-92.48780487804879Z" fill="#e213da"/>
+<path aria-label="miserably Handcrafted: football; Chips HDD Brand: 6; hacking: Shoes" role="graphics-symbol" aria-roledescription="bar" d="M417.9512195121951,251.0h92.48780487804879v12h-92.48780487804879Z" fill="#e213da"/>
+<path aria-label="miserably Handcrafted: department; Chips HDD Brand: 67; hacking: Shoes" role="graphics-symbol" aria-roledescription="bar" d="M186.73170731707313,129.0h92.48780487804879v134h-92.48780487804879Z" fill="#e213da"/>
+<path  d="M49.0,35.0h10v10h-10Z" fill="#e213da" stroke-width="1.5" opacity="1"/>
+<text aria-label="64,91,33,44" text-anchor="start" x="64.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Shoes</text>
+</svg>

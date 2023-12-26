@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="589" height="286" viewBox="0 0 589 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">duh</text>
+<path aria-label="aha: 138; Streamlined: maroon" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.396378025351027,148.40509743851013A75,75,0,0,0,58.92596592888441,193.17924792031138L79.19854092017528,167.14037883537438A42,42,0,0,1,63.78197169419657,142.06685456556568Z" fill="#b767b2" stroke="white" stroke-width="2"/>
+<path aria-label="aha: 163; Streamlined: haptic" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.71688636086338,200.70583272252918A75,75,0,0,0,132.18914918671305,203.89814136658185L120.22592354455931,173.14295916528584A42,42,0,0,1,85.8014563620835,171.35526632461634Z" fill="#f4d51f" stroke="white" stroke-width="2"/>
+<path aria-label="aha: 4; Streamlined: Riverton" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.8712037814545,158.54124028176952A75,75,0,0,0,176.36522682390557,157.0652205793161L144.96452702138714,146.91652352441702A42,42,0,0,1,144.6878741176145,147.74309455779093Z" fill="#2bcb68" stroke="white" stroke-width="2"/>
+<path aria-label="aha: 222; Streamlined: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.51327116271284,103.48882705328126A75,75,0,0,0,105.0,59.0L105.0,92.0A42,42,0,0,1,143.3674318511192,116.9137431498375Z" fill="#d8a607" stroke="white" stroke-width="2"/>
+<path aria-label="aha: 141; Streamlined: EXE" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.36522682390557,157.0652205793161A75,75,0,0,0,173.51327116271284,103.48882705328126L143.3674318511192,116.9137431498375A42,42,0,0,1,144.96452702138714,146.91652352441702Z" fill="#a197ed" stroke="white" stroke-width="2"/>
+<path aria-label="aha: 83; Streamlined: silver" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,73.6911029833782,65.84757548258044L87.4670176706918,95.83464227024504A42,42,0,0,1,104.99999999999999,92.0Z" fill="#303b4f" stroke="white" stroke-width="2"/>
+<path aria-label="aha: 71; Streamlined: orchid" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.146938804885906,120.9338088139377A75,75,0,0,0,31.396378025351027,148.40509743851013L63.78197169419657,142.06685456556568A42,42,0,0,1,63.642285730736106,126.68293293580511Z" fill="#8dfcaf" stroke="white" stroke-width="2"/>
+<path aria-label="aha: 36; Streamlined: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M58.92596592888441,193.17924792031138A75,75,0,0,0,70.71688636086338,200.70583272252918L85.8014563620835,171.35526632461634A42,42,0,0,1,79.19854092017528,167.14037883537438Z" fill="#efc7b4" stroke="white" stroke-width="2"/>
+<path aria-label="aha: 186; Streamlined: primary" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.6911029833782,65.84757548258044A75,75,0,0,0,31.146938804885906,120.9338088139377L63.642285730736106,126.68293293580511A42,42,0,0,1,87.4670176706918,95.83464227024504Z" fill="#6d702e" stroke="white" stroke-width="2"/>
+<path aria-label="aha: 167; Streamlined: exorcise" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.18914918671305,203.89814136658185A75,75,0,0,0,175.8712037814545,158.54124028176952L144.6878741176145,147.74309455779093A42,42,0,0,1,120.22592354455931,173.14295916528584Z" fill="#59ea13" stroke="white" stroke-width="2"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#d8a607" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,274.25A5,5,0,1,1,68.0,274.25A5,5,0,1,1,78.0,274.25" fill="#a197ed" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M120.0,274.25A5,5,0,1,1,110.0,274.25A5,5,0,1,1,120.0,274.25" fill="#2bcb68" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,274.25A5,5,0,1,1,177.0,274.25A5,5,0,1,1,187.0,274.25" fill="#59ea13" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,274.25A5,5,0,1,1,244.0,274.25A5,5,0,1,1,254.0,274.25" fill="#f4d51f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M311.0,274.25A5,5,0,1,1,301.0,274.25A5,5,0,1,1,311.0,274.25" fill="#efc7b4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M373.0,274.25A5,5,0,1,1,363.0,274.25A5,5,0,1,1,373.0,274.25" fill="#b767b2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M430.0,274.25A5,5,0,1,1,420.0,274.25A5,5,0,1,1,430.0,274.25" fill="#8dfcaf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M487.0,274.25A5,5,0,1,1,477.0,274.25A5,5,0,1,1,487.0,274.25" fill="#6d702e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M549.0,274.25A5,5,0,1,1,539.0,274.25A5,5,0,1,1,549.0,274.25" fill="#303b4f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="83,99,267,278" text-anchor="start" x="83.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">EXE</text>
+<text aria-label="125,169,267,278" text-anchor="start" x="125.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Riverton</text>
+<text aria-label="192,236,267,278" text-anchor="start" x="192.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">exorcise</text>
+<text aria-label="259,292,267,278" text-anchor="start" x="259.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">haptic</text>
+<text aria-label="316,354,267,278" text-anchor="start" x="316.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="378,411,267,278" text-anchor="start" x="378.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">maroon</text>
+<text aria-label="435,468,267,278" text-anchor="start" x="435.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">orchid</text>
+<text aria-label="492,530,267,278" text-anchor="start" x="492.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">primary</text>
+<text aria-label="554,587,267,278" text-anchor="start" x="554.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">silver</text>
+<text aria-label="5,71,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Streamlined</text>
+</svg>

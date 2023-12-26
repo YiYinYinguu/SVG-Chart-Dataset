@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="341" height="239" viewBox="0 0 341 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="7,267,0,26" text-anchor="middle" x="137.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Screen Savings Salad</text>
+<path aria-label="Crew: 86; orchid: killer" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.7617743274743,70.70793734814062A75,75,0,0,0,68.66349316548477,103.09495455987403L89.62002192806943,112.57250182817933A52,52,0,0,1,109.10149686704885,90.11750322804417Z" fill="#946dee" stroke="black" stroke-width="0"/>
+<path aria-label="Crew: 58; orchid: coherent" role="graphics-symbol" aria-roledescription="arc mark"  d="M210.85080517859274,147.07893628983425A75,75,0,0,0,210.26150222936144,117.9453342888346L187.79464154569058,122.86876510692534A52,52,0,0,1,188.20322492382428,143.06806249428507Z" fill="#ef77ab" stroke="black" stroke-width="0"/>
+<path aria-label="Crew: 34; orchid: Supervisor" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.04097815923114,60.96161924456014A75,75,0,0,0,137.0,59.0L137.0,82.0A52,52,0,0,1,148.81507819040027,83.3600560095617Z" fill="#49e54e" stroke="black" stroke-width="0"/>
+<path aria-label="Crew: 148; orchid: infrastructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.03748909848278,185.03060253809082A75,75,0,0,0,150.07893628983425,207.85080517859274L146.06806249428507,185.20322492382428A52,52,0,0,1,98.89265910828139,169.38121775974298Z" fill="#dceffc" stroke="black" stroke-width="0"/>
+<path aria-label="Crew: 174; orchid: joule" role="graphics-symbol" aria-roledescription="arc mark"  d="M68.66349316548477,103.09495455987403A75,75,0,0,0,82.03748909848278,185.03060253809082L98.89265910828139,169.38121775974298A52,52,0,0,1,89.62002192806943,112.57250182817933Z" fill="#e87b4b" stroke="black" stroke-width="0"/>
+<path aria-label="Crew: 167; orchid: black" role="graphics-symbol" aria-roledescription="arc mark"  d="M210.26150222936144,117.9453342888346A75,75,0,0,0,154.04097815923114,60.96161924456014L148.81507819040027,83.3600560095617A52,52,0,0,1,187.79464154569058,122.86876510692534Z" fill="#cee8bc" stroke="black" stroke-width="0"/>
+<path aria-label="Crew: 181; orchid: firmware" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.07893628983425,207.85080517859274A75,75,0,0,0,210.85080517859274,147.07893628983425L188.20322492382428,143.06806249428507A52,52,0,0,1,146.06806249428507,185.20322492382428Z" fill="#f203be" stroke="black" stroke-width="0"/>
+<path aria-label="Crew: 84; orchid: magenta" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.0,59.0A75,75,0,0,0,96.7617743274743,70.70793734814062L109.10149686704885,90.11750322804417A52,52,0,0,1,137.0,82.0Z" fill="#a6ce8f" stroke="black" stroke-width="0"/>
+<path  d="M266.0,40.0A5,5,0,1,1,256.0,40.0A5,5,0,1,1,266.0,40.0" fill="#49e54e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,56.0A5,5,0,1,1,256.0,56.0A5,5,0,1,1,266.0,56.0" fill="#cee8bc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,72.0A5,5,0,1,1,256.0,72.0A5,5,0,1,1,266.0,72.0" fill="#ef77ab" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,88.0A5,5,0,1,1,256.0,88.0A5,5,0,1,1,266.0,88.0" fill="#f203be" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,104.0A5,5,0,1,1,256.0,104.0A5,5,0,1,1,266.0,104.0" fill="#dceffc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,120.0A5,5,0,1,1,256.0,120.0A5,5,0,1,1,266.0,120.0" fill="#e87b4b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,136.0A5,5,0,1,1,256.0,136.0A5,5,0,1,1,266.0,136.0" fill="#946dee" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,152.0A5,5,0,1,1,256.0,152.0A5,5,0,1,1,266.0,152.0" fill="#a6ce8f" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="271,326,33,44" text-anchor="start" x="271.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Supervisor</text>
+<text aria-label="271,298,49,60" text-anchor="start" x="271.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">black</text>
+<text aria-label="271,315,65,76" text-anchor="start" x="271.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">coherent</text>
+<text aria-label="271,315,81,92" text-anchor="start" x="271.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">firmware</text>
+<text aria-label="271,348,97,108" text-anchor="start" x="271.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">infrastructure</text>
+<text aria-label="271,298,113,124" text-anchor="start" x="271.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">joule</text>
+<text aria-label="271,304,129,140" text-anchor="start" x="271.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">killer</text>
+<text aria-label="271,309,145,156" text-anchor="start" x="271.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">magenta</text>
+</svg>

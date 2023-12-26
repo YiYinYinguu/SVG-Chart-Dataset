@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="382" height="239" viewBox="0 0 382 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="182,377,0,26" text-anchor="end" x="377.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">invoice Kuwaiti</text>
+<path aria-label="Smyrna invoice restriction: 48; Vanadium swivel homogeneous: scalable" role="graphics-symbol" aria-roledescription="arc mark"  d="M202.25616302449976,140.19345091042496A75,75,0,0,0,208.75725297722215,165.11153289031486L237.87415837360737,151.83727885711386A43,43,0,0,1,234.1468668007132,137.55091185531032Z" fill="#9981f5" stroke="black" stroke-width="0"/>
+<path aria-label="Smyrna invoice restriction: 422; Vanadium swivel homogeneous: prisoner" role="graphics-symbol" aria-roledescription="arc mark"  d="M208.75725297722215,165.11153289031486A75,75,0,0,0,348.1947684310875,110.41388230242576L317.8183339004902,120.47729252005743A43,43,0,0,1,237.87415837360737,151.83727885711386Z" fill="#3ee838" stroke="black" stroke-width="0"/>
+<path aria-label="Smyrna invoice restriction: 230; Vanadium swivel homogeneous: weber" role="graphics-symbol" aria-roledescription="arc mark"  d="M277.0,59.0A75,75,0,0,0,202.25616302449976,140.19345091042496L234.1468668007132,137.55091185531032A43,43,0,0,1,277.0,91.0Z" fill="#559d25" stroke="black" stroke-width="0"/>
+<path aria-label="Smyrna invoice restriction: 174; Vanadium swivel homogeneous: Australia" role="graphics-symbol" aria-roledescription="arc mark"  d="M348.1947684310875,110.41388230242576A75,75,0,0,0,277.0,59.0L277.0,91.0A43,43,0,0,1,317.8183339004902,120.47729252005743Z" fill="#fff73c" stroke="black" stroke-width="0"/>
+<text aria-label="185,193,151,159" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.9150607469975" y="158.72032911955426" font-family="serif" font-size="7px" fill="#9981f5" opacity="1">48</text>
+<text aria-label="303,315,212,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="309.8663516028593" y="219.78426422853653" font-family="serif" font-size="7px" fill="#3ee838" opacity="1">422</text>
+<text aria-label="204,216,68,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="210.78484803941816" y="75.04465855368329" font-family="serif" font-size="7px" fill="#559d25" opacity="1">230</text>
+<text aria-label="323,335,56,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="329.69107746413044" y="63.03665059998268" font-family="serif" font-size="7px" fill="#fff73c" opacity="1">174</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fff73c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#3ee838" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#9981f5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#559d25" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Australia</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">prisoner</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">scalable</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">weber</text>
+<text aria-label="5,167,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Vanadium swivel homogeneous</text>
+</svg>

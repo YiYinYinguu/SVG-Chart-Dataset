@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="278" height="270" viewBox="0 0 278 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">above</text>
+<path aria-label="Cotton ack: 306; Grocery Northeast Namibia: Ytterbium" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,38.514549254065315,199.70857011041932L73.97345631856382,181.19733271819567A35,35,0,0,1,105.0,130.0Z" fill="#a03a5e" stroke="white" stroke-width="0"/>
+<path aria-label="Cotton ack: 134; Grocery Northeast Namibia: Berkshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.68212961535278,118.2944578898078A75,75,0,0,0,105.0,90.0L105.0,130.0A35,35,0,0,1,132.38499382049795,143.20408034857698Z" fill="#6daa4a" stroke="white" stroke-width="0"/>
+<path aria-label="Cotton ack: 62; Grocery Northeast Namibia: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.5464638245662,145.9734242032122A75,75,0,0,0,163.68212961535278,118.2944578898078L132.38499382049795,143.20408034857698A35,35,0,0,1,138.85501645146422,156.12093129483236Z" fill="#bcbbc0" stroke="white" stroke-width="0"/>
+<path aria-label="Cotton ack: 435; Grocery Northeast Namibia: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.514549254065315,199.70857011041932A75,75,0,0,0,177.5464638245662,145.9734242032122L138.85501645146422,156.12093129483236A35,35,0,0,1,73.97345631856382,181.19733271819567Z" fill="#cd0fc7" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#6daa4a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,40.25A5,5,0,1,1,78.0,40.25A5,5,0,1,1,88.0,40.25" fill="#bcbbc0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M144.0,40.25A5,5,0,1,1,134.0,40.25A5,5,0,1,1,144.0,40.25" fill="#cd0fc7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M220.0,40.25A5,5,0,1,1,210.0,40.25A5,5,0,1,1,220.0,40.25" fill="#a03a5e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Berkshire</text>
+<text aria-label="93,126,33,44" text-anchor="start" x="93.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="149,198,33,44" text-anchor="start" x="149.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="225,274,33,44" text-anchor="start" x="225.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Ytterbium</text>
+</svg>

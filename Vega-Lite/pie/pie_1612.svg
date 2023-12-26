@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="260" height="286" viewBox="0 0 260 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Wooden</text>
+<path aria-label="Portland who: 111; Maida: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.00997854821247,116.94360630141593A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#b6ba0e" stroke="white" stroke-width="1"/>
+<path aria-label="Portland who: 331; Maida: executive" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.36928350317626,208.8668857273101A75,75,0,0,0,137.0170284358122,248.82263552930095L105.0,181.0Z" fill="#53829c" stroke="white" stroke-width="1"/>
+<path aria-label="Portland who: 437; Maida: Warwick" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.0170284358122,248.82263552930095A75,75,0,0,0,144.00997854821247,116.94360630141593L105.0,181.0Z" fill="#7a47db" stroke="white" stroke-width="1"/>
+<path aria-label="Portland who: 396; Maida: facilis" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,35.36928350317626,208.8668857273101L105.0,181.0Z" fill="#9eddc0" stroke="white" stroke-width="1"/>
+<text aria-label="118,139,85,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="129.30956067633596" y="98.34525252634141" font-family="sans-serif" font-size="13px" fill="#b6ba0e" opacity="1">111</text>
+<text aria-label="61,82,255,269" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="72.07507737526882" y="268.7612647358877" font-family="sans-serif" font-size="13px" fill="#53829c" opacity="1">331</text>
+<text aria-label="184,205,176,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.8737395774277" y="189.76559905664607" font-family="sans-serif" font-size="13px" fill="#7a47db" opacity="1">437</text>
+<text aria-label="19,40,121,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="30.46938998455238" y="134.55014201481578" font-family="sans-serif" font-size="13px" fill="#9eddc0" opacity="1">396</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#b6ba0e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,56.25A5,5,0,1,1,73.0,56.25A5,5,0,1,1,83.0,56.25" fill="#7a47db" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M151.0,56.25A5,5,0,1,1,141.0,56.25A5,5,0,1,1,151.0,56.25" fill="#53829c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M223.0,56.25A5,5,0,1,1,213.0,56.25A5,5,0,1,1,223.0,56.25" fill="#9eddc0" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="88,126,49,60" text-anchor="start" x="88.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Warwick</text>
+<text aria-label="156,205,49,60" text-anchor="start" x="156.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">executive</text>
+<text aria-label="228,266,49,60" text-anchor="start" x="228.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">facilis</text>
+<text aria-label="5,35,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Maida</text>
+</svg>

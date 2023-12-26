@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="239" viewBox="0 0 279 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Tuna DNS East</text>
+<path aria-label="Southwest North: 171; World: gosh" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.95114558849383,64.85403802549915A75,75,0,0,0,38.68799365382969,98.96119559195165L72.28607686922265,116.71418982536281A37,37,0,0,1,90.66923182365696,99.88799209257958Z" fill="#3c1bea" stroke="white" stroke-width="0"/>
+<path aria-label="Southwest North: 535; World: Rempel" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.83186235023499,204.7698990547463A75,75,0,0,0,150.67702463766778,74.5137879820047L127.53399882124944,104.65346873778898A37,37,0,0,1,117.25038542611593,168.9131502003415Z" fill="#d33e1e" stroke="white" stroke-width="0"/>
+<path aria-label="Southwest North: 99; World: zero" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,75.95114558849383,64.85403802549915L90.66923182365696,99.88799209257958A37,37,0,0,1,105.0,97.0Z" fill="#c1a35d" stroke="white" stroke-width="0"/>
+<path aria-label="Southwest North: 533; World: evolve" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.026785004596746,116.6820932779203A75,75,0,0,0,129.83186235023499,204.7698990547463L117.25038542611593,168.9131502003415A37,37,0,0,1,68.99988060226772,125.45649935044068Z" fill="#870543" stroke="white" stroke-width="0"/>
+<path aria-label="Southwest North: 163; World: Liaison" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.67702463766778,74.5137879820047A75,75,0,0,0,105.0,59.0L105.0,97.0A37,37,0,0,1,127.53399882124944,104.65346873778898Z" fill="#162def" stroke="white" stroke-width="0"/>
+<path aria-label="Southwest North: 63; World: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.68799365382969,98.96119559195165A75,75,0,0,0,32.026785004596746,116.6820932779203L68.99988060226772,125.45649935044068A37,37,0,0,1,72.28607686922265,116.71418982536281Z" fill="#1ebb3e" stroke="white" stroke-width="0"/>
+<text aria-label="37,50,61,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="44.23391483553677" y="69.61112371951758" font-family="monospace" font-size="8px" fill="#3c1bea" opacity="1">171</text>
+<text aria-label="187,200,142,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.86921143896916" y="150.22192877973276" font-family="monospace" font-size="8px" fill="#d33e1e" opacity="1">535</text>
+<text aria-label="82,91,39,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="87.22029096478364" y="47.773689034262304" font-family="monospace" font-size="8px" fill="#c1a35d" opacity="1">99</text>
+<text aria-label="38,51,194,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="44.769289477961394" y="202.87496923371543" font-family="monospace" font-size="8px" fill="#870543" opacity="1">533</text>
+<text aria-label="127,140,42,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.94381714681487" y="50.78113208348901" font-family="monospace" font-size="8px" fill="#162def" opacity="1">163</text>
+<text aria-label="16,25,96,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.755207189830557" y="104.33274744516629" font-family="monospace" font-size="8px" fill="#1ebb3e" opacity="1">63</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#162def" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#d33e1e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#870543" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#1ebb3e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#3c1bea" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#c1a35d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Liaison</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Rempel</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">evolve</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="239,261,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">gosh</text>
+<text aria-label="239,261,129,140" text-anchor="start" x="239.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">zero</text>
+<text aria-label="223,253,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">World</text>
+</svg>

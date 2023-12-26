@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="246" height="286" viewBox="0 0 246 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southeast</text>
+<path aria-label="Cab Identity: 273; Engineer: Marysville" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.467406062955277,125.63983008452558A75,75,0,0,0,121.61613732146004,207.13620157291723L105.0,134.0Z" fill="#dcb7be" stroke="white" stroke-width="4"/>
+<path aria-label="Cab Identity: 74; Engineer: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.32372542187894,89.91610607806453A75,75,0,0,0,30.467406062955277,125.63983008452558L105.0,134.0Z" fill="#63f8e1" stroke="white" stroke-width="4"/>
+<path aria-label="Cab Identity: 135; Engineer: portal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,44.32372542187894,89.91610607806453L105.0,134.0Z" fill="#4352df" stroke="white" stroke-width="4"/>
+<path aria-label="Cab Identity: 418; Engineer: Idaho" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.61613732146004,207.13620157291723A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#6ad84a" stroke="white" stroke-width="4"/>
+<text aria-label="35,54,193,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.01207767754926" y="205.09283997145758" font-family="avenir" font-size="12px" fill="#dcb7be" opacity="1">273</text>
+<text aria-label="14,27,93,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.0908578906039" y="105.4537886926117" font-family="avenir" font-size="12px" fill="#63f8e1" opacity="1">74</text>
+<text aria-label="54,73,45,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="64.14085502344078" y="57.8094128230469" font-family="avenir" font-size="12px" fill="#4352df" opacity="1">135</text>
+<text aria-label="184,204,115,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.43911272445368" y="127.96779610143071" font-family="avenir" font-size="12px" fill="#6ad84a" opacity="1">418</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#6ad84a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M71.0,274.25A5,5,0,1,1,61.0,274.25A5,5,0,1,1,71.0,274.25" fill="#dcb7be" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M147.0,274.25A5,5,0,1,1,137.0,274.25A5,5,0,1,1,147.0,274.25" fill="#63f8e1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,274.25A5,5,0,1,1,197.0,274.25A5,5,0,1,1,207.0,274.25" fill="#4352df" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Idaho</text>
+<text aria-label="76,131,267,278" text-anchor="start" x="76.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Marysville</text>
+<text aria-label="152,185,267,278" text-anchor="start" x="152.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="212,245,267,278" text-anchor="start" x="212.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">portal</text>
+<text aria-label="5,53,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Engineer</text>
+</svg>

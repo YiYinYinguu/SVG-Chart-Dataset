@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="291" height="239" viewBox="0 0 291 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="59,150,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">exploit</text>
+<path aria-label="Music Sedan male: 266; Pickup ha Infrastructure: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,35.59796545370689,105.56836971197154L105.0,134.0Z" fill="#a61aed" stroke="white" stroke-width="3"/>
+<path aria-label="Music Sedan male: 318; Pickup ha Infrastructure: Folding" role="graphics-symbol" aria-roledescription="arc mark"  d="M99.67222632952829,208.81052618259162A75,75,0,0,0,178.0447129960159,151.01381507274795L105.0,134.0Z" fill="#bcdadb" stroke="white" stroke-width="3"/>
+<path aria-label="Music Sedan male: 425; Pickup ha Infrastructure: Movies" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.59796545370689,105.56836971197154A75,75,0,0,0,99.67222632952829,208.81052618259162L105.0,134.0Z" fill="#07d8f5" stroke="white" stroke-width="3"/>
+<path aria-label="Music Sedan male: 405; Pickup ha Infrastructure: Anderson" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.0447129960159,151.01381507274795A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#8dad9c" stroke="white" stroke-width="3"/>
+<text aria-label="47,62,53,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.85329557741146" y="62.26508155116821" font-family="Balto" font-size="9px" fill="#a61aed" opacity="1">266</text>
+<text aria-label="150,165,200,210" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="158.4169984857283" y="209.43358525418785" font-family="Balto" font-size="9px" fill="#bcdadb" opacity="1">318</text>
+<text aria-label="21,36,175,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="28.53003622876075" y="184.45887315166001" font-family="Balto" font-size="9px" fill="#07d8f5" opacity="1">425</text>
+<text aria-label="167,182,72,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="175.4893326250745" y="81.04239116910364" font-family="Balto" font-size="9px" fill="#8dad9c" opacity="1">405</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#8dad9c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#bcdadb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#07d8f5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#a61aed" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Anderson</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Folding</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Movies</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">West</text>
+</svg>

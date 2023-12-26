@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="276" height="239" viewBox="0 0 276 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="206,271,0,26" text-anchor="end" x="271.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Sleek</text>
+<path aria-label="Jazz withdrawal: 204; Reunion Chevrolet Chicken: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.9736763867254,132.01308051029437A75,75,0,0,0,105.0,59.0L105.0,90.0A44,44,0,0,1,148.98455681354557,132.83434056603937Z" fill="#8fda00" stroke="black" stroke-width="3"/>
+<path aria-label="Jazz withdrawal: 373; Reunion Chevrolet Chicken: Sports" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.40513966859179,159.32519881045295A75,75,0,0,0,179.9736763867254,132.01308051029437L148.98455681354557,132.83434056603937A44,44,0,0,1,63.58434860557385,148.85744996879907Z" fill="#34e0ce" stroke="black" stroke-width="3"/>
+<path aria-label="Jazz withdrawal: 253; Reunion Chevrolet Chicken: if" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,34.40513966859179,159.32519881045295L63.58434860557385,148.85744996879907A44,44,0,0,1,104.99999999999999,90.0Z" fill="#57a9ee" stroke="black" stroke-width="3"/>
+<text aria-label="158,176,61,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="167.79097345603026" y="72.52292149574312" font-family="sans-serif" font-size="11px" fill="#8fda00" opacity="1">204</text>
+<text aria-label="112,130,214,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.59654485101458" y="225.45651303894056" font-family="sans-serif" font-size="11px" fill="#34e0ce" opacity="1">373</text>
+<text aria-label="22,40,74,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="31.395919027784473" y="85.20772968641421" font-family="sans-serif" font-size="11px" fill="#57a9ee" opacity="1">253</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#8fda00" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#34e0ce" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#57a9ee" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Sports</text>
+<text aria-label="239,250,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">if</text>
+</svg>

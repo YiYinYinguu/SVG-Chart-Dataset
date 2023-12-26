@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="719" height="288" viewBox="0 0 719 288" style="background-color: rgb(255, 255, 255);">
+<text aria-label="113,124,246,279" text-anchor="end" x="121.62500000000004" y="246.5" transform="rotate(270.0, 124.62500000000004, 246.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">consul</text>
+<text aria-label="282,293,246,279" text-anchor="end" x="290.87500000000006" y="246.5" transform="rotate(270.0, 293.87500000000006, 246.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">knight</text>
+<text aria-label="452,463,246,274" text-anchor="end" x="460.12500000000006" y="246.5" transform="rotate(270.0, 463.12500000000006, 246.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">range</text>
+<text aria-label="621,632,246,285" text-anchor="end" x="629.3750000000001" y="246.5" transform="rotate(270.0, 632.3750000000001, 246.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">tornado</text>
+<line aria-label="121,121,239,244" x1="121.5" y1="239.5" x2="121.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="290,290,239,244" x1="290.5" y1="239.5" x2="290.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="460,460,239,244" x1="460.5" y1="239.5" x2="460.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="629,629,239,244" x1="629.5" y1="239.5" x2="629.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,714,239,239" x1="37.5" y1="239.5" x2="714.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Fresh</text>
+<text aria-label="30,35,232,243" text-anchor="end" x="35.5" y="242.5" font-family="serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,35,182,193" text-anchor="end" x="35.5" y="192.5" font-family="serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,35,132,143" text-anchor="end" x="35.5" y="142.5" font-family="serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="19,35,82,93" text-anchor="end" x="35.5" y="92.5" font-family="serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="19,35,32,43" text-anchor="end" x="35.5" y="42.5" font-family="serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="2,14,88,190" text-anchor="middle" x="16.5" y="139.5" transform="rotate(-90.0, 14.5, 139.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">cohort ivory laze</text>
+<path aria-label="stable aperiam GB: knight; cohort ivory laze: 233; Tricycle: Italy huzzah folklore" role="graphics-symbol" aria-roledescription="bar" d="M237.56125000000003,180.75h106.62750000000003v58.25h-106.62750000000003Z" fill="#eaf6af"/>
+<path aria-label="stable aperiam GB: knight; cohort ivory laze: 149; Tricycle: Egyptian Card" role="graphics-symbol" aria-roledescription="bar" d="M237.56125000000003,143.5h106.62750000000003v37.25h-106.62750000000003Z" fill="#617aac"/>
+<path aria-label="stable aperiam GB: tornado; cohort ivory laze: 439; Tricycle: Italy huzzah folklore" role="graphics-symbol" aria-roledescription="bar" d="M576.0612500000001,129.25h106.62750000000003v109.74999999999999h-106.62750000000003Z" fill="#eaf6af"/>
+<path aria-label="stable aperiam GB: tornado; cohort ivory laze: 357; Tricycle: Egyptian Card" role="graphics-symbol" aria-roledescription="bar" d="M576.0612500000001,40.0h106.62750000000003v89.25000000000001h-106.62750000000003Z" fill="#617aac"/>
+<path aria-label="stable aperiam GB: range; cohort ivory laze: 403; Tricycle: Italy huzzah folklore" role="graphics-symbol" aria-roledescription="bar" d="M406.81125000000003,138.25h106.62750000000003v100.75h-106.62750000000003Z" fill="#eaf6af"/>
+<path aria-label="stable aperiam GB: range; cohort ivory laze: 333; Tricycle: Egyptian Card" role="graphics-symbol" aria-roledescription="bar" d="M406.81125000000003,54.99999999999999h106.62750000000003v83.25h-106.62750000000003Z" fill="#617aac"/>
+<path aria-label="stable aperiam GB: consul; cohort ivory laze: 343; Tricycle: Italy huzzah folklore" role="graphics-symbol" aria-roledescription="bar" d="M68.31125000000003,153.25h106.62750000000003v85.75h-106.62750000000003Z" fill="#eaf6af"/>
+<path aria-label="stable aperiam GB: consul; cohort ivory laze: 39; Tricycle: Egyptian Card" role="graphics-symbol" aria-roledescription="bar" d="M68.31125000000003,143.5h106.62750000000003v9.75h-106.62750000000003Z" fill="#617aac"/>
+</svg>

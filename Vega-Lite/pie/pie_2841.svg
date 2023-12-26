@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="259" height="286" viewBox="0 0 259 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">late</text>
+<path aria-label="hybrid Northeast: 216; Communications Principal Radial: USB" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.08620063906295,227.19329923311818A75,75,0,0,0,179.14422454712866,192.29752036090065L150.47512438890558,187.9291458213524A46,46,0,0,1,141.2395363919586,209.3318901963125Z" fill="#d3ed2c" stroke="white" stroke-width="0"/>
+<path aria-label="hybrid Northeast: 621; Communications Principal Radial: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.79947328007106,244.31601417840733A75,75,0,0,0,164.08620063906295,227.19329923311818L141.2395363919586,209.3318901963125A46,46,0,0,1,80.34367694511025,219.83382202942317Z" fill="#eec4f1" stroke="white" stroke-width="0"/>
+<path aria-label="hybrid Northeast: 551; Communications Principal Radial: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.390339561006684,158.7052353272775A75,75,0,0,0,64.79947328007106,244.31601417840733L80.34367694511025,219.83382202942317A46,46,0,0,1,61.079408264084094,167.32587766739687Z" fill="#acdf0a" stroke="white" stroke-width="0"/>
+<path aria-label="hybrid Northeast: 535; Communications Principal Radial: online" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,33.390339561006684,158.7052353272775L61.079408264084094,167.32587766739687A46,46,0,0,1,104.99999999999999,135.0Z" fill="#a02b6c" stroke="white" stroke-width="0"/>
+<path aria-label="hybrid Northeast: 726; Communications Principal Radial: And" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.14422454712866,192.29752036090065A75,75,0,0,0,105.0,106.0L105.0,135.0A46,46,0,0,1,150.47512438890558,187.9291458213524Z" fill="#a5addf" stroke="white" stroke-width="0"/>
+<text aria-label="179,195,209,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.63475157717335" y="219.6580682564107" font-family="monospace" font-size="10px" fill="#d3ed2c" opacity="1">216</text>
+<text aria-label="112,128,262,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.29536455047396" y="272.69076515211776" font-family="monospace" font-size="10px" fill="#eec4f1" opacity="1">621</text>
+<text aria-label="12,28,204,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.50703918737547" y="214.99902535752207" font-family="monospace" font-size="10px" fill="#acdf0a" opacity="1">551</text>
+<text aria-label="43,59,101,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="51.651310159733235" y="111.51608942443146" font-family="monospace" font-size="10px" fill="#a02b6c" opacity="1">535</text>
+<text aria-label="165,181,115,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.2646768064468" y="125.34905030170982" font-family="monospace" font-size="10px" fill="#a5addf" opacity="1">726</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#a5addf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M58.0,56.25A5,5,0,1,1,48.0,56.25A5,5,0,1,1,58.0,56.25" fill="#d3ed2c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M100.0,56.25A5,5,0,1,1,90.0,56.25A5,5,0,1,1,100.0,56.25" fill="#eec4f1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M157.0,56.25A5,5,0,1,1,147.0,56.25A5,5,0,1,1,157.0,56.25" fill="#acdf0a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M219.0,56.25A5,5,0,1,1,209.0,56.25A5,5,0,1,1,219.0,56.25" fill="#a02b6c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">And</text>
+<text aria-label="63,79,49,60" text-anchor="start" x="63.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">USB</text>
+<text aria-label="105,138,49,60" text-anchor="start" x="105.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="162,200,49,60" text-anchor="start" x="162.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="224,257,49,60" text-anchor="start" x="224.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">online</text>
+<text aria-label="5,191,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Communications Principal Radial</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="356" height="286" viewBox="0 0 356 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,135,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">generating</text>
+<path aria-label="Assurance but Integration: 425; Internal: Grocery" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.83873281584493,202.54521913125146A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#309b48" stroke="black" stroke-width="0"/>
+<path aria-label="Assurance but Integration: 18; Internal: orange" role="graphics-symbol" aria-roledescription="arc mark"  d="M87.73934068984374,108.01322284016976A75,75,0,0,0,82.04260841167941,109.60001280489956L105.0,181.0Z" fill="#c59cff" stroke="black" stroke-width="0"/>
+<path aria-label="Assurance but Integration: 53; Internal: yet" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,87.73934068984374,108.01322284016976L105.0,181.0Z" fill="#dc8200" stroke="black" stroke-width="0"/>
+<path aria-label="Assurance but Integration: 251; Internal: Movies" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.40100521762885,254.79304207821414A75,75,0,0,0,176.83873281584493,202.54521913125146L105.0,181.0Z" fill="#c4406c" stroke="black" stroke-width="0"/>
+<path aria-label="Assurance but Integration: 299; Internal: Peso" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.154770717813875,212.96912359836588A75,75,0,0,0,118.40100521762885,254.79304207821414L105.0,181.0Z" fill="#19ffce" stroke="black" stroke-width="0"/>
+<path aria-label="Assurance but Integration: 388; Internal: collaborative" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.04260841167941,109.60001280489956A75,75,0,0,0,37.154770717813875,212.96912359836588L105.0,181.0Z" fill="#33cb3d" stroke="black" stroke-width="0"/>
+<text aria-label="165,188,117,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="177.20416769887717" y="131.27330117239268" font-family="monospace" font-size="14px" fill="#309b48" opacity="1">425</text>
+<text aria-label="73,88,84,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="80.85039488175285" y="98.30053879848658" font-family="monospace" font-size="14px" fill="#c59cff" opacity="1">18</text>
+<text aria-label="87,102,81,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.573397803255" y="95.60600709985691" font-family="monospace" font-size="14px" fill="#dc8200" opacity="1">53</text>
+<text aria-label="153,176,238,253" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.98694240729782" y="252.0937161038464" font-family="monospace" font-size="14px" fill="#c4406c" opacity="1">251</text>
+<text aria-label="52,75,251,266" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="63.80741658064817" y="265.0198167408533" font-family="monospace" font-size="14px" fill="#19ffce" opacity="1">299</text>
+<text aria-label="11,33,135,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.447567883516854" y="149.15176501341466" font-family="monospace" font-size="14px" fill="#33cb3d" opacity="1">388</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#309b48" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,56.25A5,5,0,1,1,68.0,56.25A5,5,0,1,1,78.0,56.25" fill="#c4406c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,56.25A5,5,0,1,1,125.0,56.25A5,5,0,1,1,135.0,56.25" fill="#19ffce" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M182.0,56.25A5,5,0,1,1,172.0,56.25A5,5,0,1,1,182.0,56.25" fill="#33cb3d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M274.0,56.25A5,5,0,1,1,264.0,56.25A5,5,0,1,1,274.0,56.25" fill="#c59cff" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M331.0,56.25A5,5,0,1,1,321.0,56.25A5,5,0,1,1,331.0,56.25" fill="#dc8200" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Grocery</text>
+<text aria-label="83,116,49,60" text-anchor="start" x="83.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Movies</text>
+<text aria-label="140,162,49,60" text-anchor="start" x="140.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Peso</text>
+<text aria-label="187,258,49,60" text-anchor="start" x="187.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">collaborative</text>
+<text aria-label="279,312,49,60" text-anchor="start" x="279.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">orange</text>
+<text aria-label="336,352,49,60" text-anchor="start" x="336.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">yet</text>
+<text aria-label="5,53,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Internal</text>
+</svg>

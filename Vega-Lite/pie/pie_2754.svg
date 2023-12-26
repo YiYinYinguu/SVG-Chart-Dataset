@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="536" height="270" viewBox="0 0 536 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="258,531,0,26" text-anchor="end" x="531.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Mouse Engineer indigo</text>
+<path aria-label="strategize: 290; Garden: Pangender" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.008654093678842,163.8606847852814A75,75,0,0,0,47.141847811624324,212.72247086380543L64.8850144827262,198.0875797989051A52,52,0,0,1,53.00600017161734,164.21007478446177Z" fill="#87eaa5" stroke="black" stroke-width="0"/>
+<path aria-label="strategize: 531; Garden: SUV" role="graphics-symbol" aria-roledescription="arc mark"  d="M85.36122348614988,92.61686344845887A75,75,0,0,0,30.008654093678842,163.8606847852814L53.00600017161734,164.21007478446177A52,52,0,0,1,91.38378161706392,114.81435865759815Z" fill="#36b1ca" stroke="black" stroke-width="0"/>
+<path aria-label="strategize: 419; Garden: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.90357227073804,239.56170503700167A75,75,0,0,0,164.225294739515,211.0148287296343L146.06287101939705,196.90361458587978A52,52,0,0,1,99.38647677437837,216.69611549232116Z" fill="#aaafc9" stroke="black" stroke-width="0"/>
+<path aria-label="strategize: 50; Garden: cyan" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.28127862266206,90.76989147229409A75,75,0,0,0,85.36122348614988,92.61686344845887L91.38378161706392,114.81435865759815A52,52,0,0,1,97.56835317837903,113.53379142079056Z" fill="#fa89ee" stroke="black" stroke-width="0"/>
+<path aria-label="strategize: 318; Garden: Nebraska" role="graphics-symbol" aria-roledescription="arc mark"  d="M47.141847811624324,212.72247086380543A75,75,0,0,0,96.90357227073804,239.56170503700167L99.38647677437837,216.69611549232116A52,52,0,0,1,64.8850144827262,198.0875797989051Z" fill="#2e8fb9" stroke="black" stroke-width="0"/>
+<path aria-label="strategize: 73; Garden: Cyprus" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.225294739515,211.0148287296343A75,75,0,0,0,171.41734605706046,199.83871614650397L151.04935993289524,189.1548431949094A52,52,0,0,1,146.06287101939705,196.90361458587978Z" fill="#1a5db9" stroke="black" stroke-width="0"/>
+<path aria-label="strategize: 845; Garden: Buckinghamshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.41734605706046,199.83871614650397A75,75,0,0,0,105.0,90.0L105.0,113.0A52,52,0,0,1,151.04935993289524,189.1548431949094Z" fill="#3e2fe8" stroke="black" stroke-width="0"/>
+<path aria-label="strategize: 59; Garden: neural" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,94.28127862266206,90.76989147229409L97.56835317837903,113.53379142079056A52,52,0,0,1,104.99999999999999,113.0Z" fill="#7cf4f3" stroke="black" stroke-width="0"/>
+<text aria-label="8,31,184,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.06987117749867" y="198.78041668938383" font-family="avenir" font-size="14px" fill="#87eaa5" opacity="1">290</text>
+<text aria-label="22,45,99,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.92964631258201" y="113.78220552443884" font-family="avenir" font-size="14px" fill="#36b1ca" opacity="1">531</text>
+<text aria-label="128,151,237,252" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="140.1350347647145" y="251.8584898008786" font-family="avenir" font-size="14px" fill="#aaafc9" opacity="1">419</text>
+<text aria-label="79,94,66,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.75182107359963" y="80.86939257062801" font-family="avenir" font-size="14px" fill="#fa89ee" opacity="1">50</text>
+<text aria-label="51,73,234,249" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="62.276161254849136" y="248.21283736161928" font-family="avenir" font-size="14px" fill="#2e8fb9" opacity="1">318</text>
+<text aria-label="173,188,203,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.683236746131" y="217.7036720959425" font-family="avenir" font-size="14px" fill="#1a5db9" opacity="1">73</text>
+<text aria-label="170,193,108,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.01487305651563" y="122.4305966530729" font-family="avenir" font-size="14px" fill="#3e2fe8" opacity="1">845</text>
+<text aria-label="91,106,65,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="98.55219886287732" y="79.23126457114304" font-family="avenir" font-size="14px" fill="#7cf4f3" opacity="1">59</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#3e2fe8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,40.25A5,5,0,1,1,115.0,40.25A5,5,0,1,1,125.0,40.25" fill="#1a5db9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M185.0,40.25A5,5,0,1,1,175.0,40.25A5,5,0,1,1,185.0,40.25" fill="#aaafc9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M247.0,40.25A5,5,0,1,1,237.0,40.25A5,5,0,1,1,247.0,40.25" fill="#2e8fb9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M320.0,40.25A5,5,0,1,1,310.0,40.25A5,5,0,1,1,320.0,40.25" fill="#87eaa5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M399.0,40.25A5,5,0,1,1,389.0,40.25A5,5,0,1,1,399.0,40.25" fill="#36b1ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M446.0,40.25A5,5,0,1,1,436.0,40.25A5,5,0,1,1,446.0,40.25" fill="#fa89ee" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M495.0,40.25A5,5,0,1,1,485.0,40.25A5,5,0,1,1,495.0,40.25" fill="#7cf4f3" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,103,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Buckinghamshire</text>
+<text aria-label="130,163,33,44" text-anchor="start" x="130.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Cyprus</text>
+<text aria-label="190,234,33,44" text-anchor="start" x="190.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="252,296,33,44" text-anchor="start" x="252.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Nebraska</text>
+<text aria-label="325,374,33,44" text-anchor="start" x="325.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Pangender</text>
+<text aria-label="404,420,33,44" text-anchor="start" x="404.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">SUV</text>
+<text aria-label="451,473,33,44" text-anchor="start" x="451.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">cyan</text>
+<text aria-label="500,533,33,44" text-anchor="start" x="500.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">neural</text>
+</svg>

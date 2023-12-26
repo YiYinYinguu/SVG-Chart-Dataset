@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="247" height="286" viewBox="0 0 247 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Rafael National</text>
+<path aria-label="programming hybridise: 668; invoice Corporate: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.16877018778645,128.97137744589222A75,75,0,0,0,151.02306666914387,193.21889339026472L133.84112177933014,171.1105065245659A47,47,0,0,1,58.10576265101284,130.84872986609247Z" fill="#91ac40" stroke="white" stroke-width="0"/>
+<path aria-label="programming hybridise: 437; invoice Corporate: navigating" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.16877018778645,128.97137744589222L58.10576265101284,130.84872986609247A47,47,0,0,1,104.99999999999999,87.0Z" fill="#ba3fd1" stroke="white" stroke-width="0"/>
+<path aria-label="programming hybridise: 266; invoice Corporate: Fresh" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.02306666914387,193.21889339026472A75,75,0,0,0,179.99900098729364,133.61289419027167L151.99937395203736,133.75741369257025A47,47,0,0,1,133.84112177933014,171.1105065245659Z" fill="#afbdbe" stroke="white" stroke-width="0"/>
+<path aria-label="programming hybridise: 455; invoice Corporate: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.99900098729364,133.61289419027167A75,75,0,0,0,105.0,59.0L105.0,87.0A47,47,0,0,1,151.99937395203736,133.75741369257025Z" fill="#cdadec" stroke="white" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#cdadec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,274.25A5,5,0,1,1,68.0,274.25A5,5,0,1,1,78.0,274.25" fill="#afbdbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,274.25A5,5,0,1,1,120.0,274.25A5,5,0,1,1,130.0,274.25" fill="#91ac40" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,274.25A5,5,0,1,1,177.0,274.25A5,5,0,1,1,187.0,274.25" fill="#ba3fd1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="83,110,267,278" text-anchor="start" x="83.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="135,168,267,278" text-anchor="start" x="135.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="192,247,267,278" text-anchor="start" x="192.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">navigating</text>
+<text aria-label="5,107,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">invoice Corporate</text>
+</svg>

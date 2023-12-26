@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="316" height="239" viewBox="0 0 316 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="12,311,0,26" text-anchor="end" x="311.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southeast infomediaries</text>
+<path aria-label="over Bohrium: 165; Pangender: Shoes" role="graphics-symbol" aria-roledescription="arc mark"  d="M212.1603747160873,95.1612781326256A75,75,0,0,0,148.0,59.0L148.0,134.0Z" fill="#f93efb" stroke="black" stroke-width="1"/>
+<path aria-label="over Bohrium: 182; Pangender: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.0,59.0A75,75,0,0,0,80.09829216278312,102.15101143224106L148.0,134.0Z" fill="#03a827" stroke="black" stroke-width="1"/>
+<path aria-label="over Bohrium: 663; Pangender: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.09829216278312,102.15101143224106A75,75,0,1,0,212.1603747160873,95.1612781326256L148.0,134.0Z" fill="#cb9df8" stroke="black" stroke-width="1"/>
+<path  d="M277.0,40.0A5,5,0,1,1,267.0,40.0A5,5,0,1,1,277.0,40.0" fill="#f93efb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M277.0,56.0A5,5,0,1,1,267.0,56.0A5,5,0,1,1,277.0,56.0" fill="#cb9df8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M277.0,72.0A5,5,0,1,1,267.0,72.0A5,5,0,1,1,277.0,72.0" fill="#03a827" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="282,309,33,44" text-anchor="start" x="282.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Shoes</text>
+<text aria-label="282,304,49,60" text-anchor="start" x="282.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="282,304,65,76" text-anchor="start" x="282.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">male</text>
+</svg>

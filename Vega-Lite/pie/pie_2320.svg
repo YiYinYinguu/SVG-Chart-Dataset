@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="301" height="270" viewBox="0 0 301 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">transform indigo</text>
+<path aria-label="Mercury Northeast olive: 284; Gasoline: Plastic" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,37.234670247025505,132.86185936506857L105.0,165.0Z" fill="#a3b6aa" stroke="white" stroke-width="1"/>
+<path aria-label="Mercury Northeast olive: 731; Gasoline: Integration" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.234670247025505,132.86185936506857A75,75,0,0,0,163.2640706281907,212.22603173921357L105.0,165.0Z" fill="#36adc3" stroke="white" stroke-width="1"/>
+<path aria-label="Mercury Northeast olive: 15; Gasoline: Cotton" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.2640706281907,212.22603173921357A75,75,0,0,0,165.9725367994946,208.67321554722383L105.0,165.0Z" fill="#aa0f90" stroke="white" stroke-width="1"/>
+<path aria-label="Mercury Northeast olive: 472; Gasoline: Carbon" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.56475772689794,187.43848148806865A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#f918c4" stroke="white" stroke-width="1"/>
+<path aria-label="Mercury Northeast olive: 80; Gasoline: Cis" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.9725367994946,208.67321554722383A75,75,0,0,0,176.56475772689794,187.43848148806865L105.0,165.0Z" fill="#fd32f2" stroke="white" stroke-width="1"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#f918c4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,40.25A5,5,0,1,1,68.0,40.25A5,5,0,1,1,78.0,40.25" fill="#fd32f2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M119.0,40.25A5,5,0,1,1,109.0,40.25A5,5,0,1,1,119.0,40.25" fill="#aa0f90" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M179.0,40.25A5,5,0,1,1,169.0,40.25A5,5,0,1,1,179.0,40.25" fill="#36adc3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M260.0,40.25A5,5,0,1,1,250.0,40.25A5,5,0,1,1,260.0,40.25" fill="#a3b6aa" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Carbon</text>
+<text aria-label="83,99,33,44" text-anchor="start" x="83.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cis</text>
+<text aria-label="124,157,33,44" text-anchor="start" x="124.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cotton</text>
+<text aria-label="184,244,33,44" text-anchor="start" x="184.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Integration</text>
+<text aria-label="265,303,33,44" text-anchor="start" x="265.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Plastic</text>
+</svg>

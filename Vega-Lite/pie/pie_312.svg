@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="491" height="270" viewBox="0 0 491 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,277,0,26" text-anchor="middle" x="141.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">incremental CLI Pizza</text>
+<path aria-label="UTF8 vel: 12; Wagon: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.1946451274955,190.61172043649427A75,75,0,0,0,196.83980813107615,184.06911051621154L164.08045402751148,154.69523234670078A31,31,0,0,1,161.33378665269814,157.39951111375098Z" fill="#aadd34" stroke="white" stroke-width="2"/>
+<path aria-label="UTF8 vel: 57; Wagon: ohm" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.21384452096598,208.74214431142087A75,75,0,0,0,187.80514869137104,192.60271372537835L160.3461281257667,158.22245500648972A31,31,0,0,1,143.56838906866594,164.89341964872062Z" fill="#21e44c" stroke="white" stroke-width="2"/>
+<path aria-label="UTF8 vel: 151; Wagon: Dalasi" role="graphics-symbol" aria-roledescription="arc mark"  d="M196.83980813107615,184.06911051621154A75,75,0,0,0,191.35791814238752,78.42050665610024L161.81460616552016,111.02714275118811A31,31,0,0,1,164.08045402751148,154.69523234670078Z" fill="#eb84b0" stroke="white" stroke-width="2"/>
+<path aria-label="UTF8 vel: 165; Wagon: sensor" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.0,59.0A75,75,0,0,0,66.73350674852479,144.46365042079424L110.30318278939025,138.32497550726163A31,31,0,0,1,141.0,103.0Z" fill="#e8f0bd" stroke="white" stroke-width="2"/>
+<path aria-label="UTF8 vel: 4; Wagon: Vena" role="graphics-symbol" aria-roledescription="arc mark"  d="M187.80514869137104,192.60271372537835A75,75,0,0,0,190.1946451274955,190.61172043649427L161.33378665269814,157.39951111375098A31,31,0,0,1,160.3461281257667,158.22245500648972Z" fill="#e5fcfc" stroke="white" stroke-width="2"/>
+<path aria-label="UTF8 vel: 31; Wagon: Classical" role="graphics-symbol" aria-roledescription="arc mark"  d="M191.35791814238752,78.42050665610024A75,75,0,0,0,171.22082949901542,65.35816534800779L153.49127619292636,105.62804167717655A31,31,0,0,1,161.81460616552016,111.02714275118811Z" fill="#6864dc" stroke="white" stroke-width="2"/>
+<path aria-label="UTF8 vel: 40; Wagon: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.22082949901542,65.35816534800779A75,75,0,0,0,141.0,59.0L141.0,103.0A31,31,0,0,1,153.49127619292636,105.62804167717655Z" fill="#fe7266" stroke="white" stroke-width="2"/>
+<path aria-label="UTF8 vel: 146; Wagon: outside" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.73350674852479,144.46365042079424A75,75,0,0,0,147.21384452096598,208.74214431142087L143.56838906866594,164.89341964872062A31,31,0,0,1,110.30318278939025,138.32497550726163Z" fill="#a5dacb" stroke="white" stroke-width="2"/>
+<text aria-label="196,211,188,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="204.1428155986299" y="202.1325567732756" font-family="monospace" font-size="14px" fill="#aadd34" opacity="1">12</text>
+<text aria-label="166,181,207,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.25264124728963" y="221.6317036181797" font-family="monospace" font-size="14px" fill="#21e44c" opacity="1">57</text>
+<text aria-label="219,242,119,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="230.87908790574102" y="133.33635794340134" font-family="monospace" font-size="14px" fill="#eb84b0" opacity="1">151</text>
+<text aria-label="61,84,64,79" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="73.06593547620686" y="78.96642584700541" font-family="monospace" font-size="14px" fill="#e8f0bd" opacity="1">165</text>
+<text aria-label="194,202,193,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="198.61226265574766" y="207.14352602872626" font-family="monospace" font-size="14px" fill="#e5fcfc" opacity="1">4</text>
+<text aria-label="182,197,48,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.97837644804247" y="62.49424763295289" font-family="monospace" font-size="14px" fill="#6864dc" opacity="1">31</text>
+<text aria-label="152,167,35,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="159.52946110367003" y="49.92810282952013" font-family="monospace" font-size="14px" fill="#fe7266" opacity="1">40</text>
+<text aria-label="73,96,194,209" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="84.83382157035476" y="208.32325647045403" font-family="monospace" font-size="14px" fill="#a5dacb" opacity="1">146</text>
+<path  d="M52.0,258.25A5,5,0,1,1,42.0,258.25A5,5,0,1,1,52.0,258.25" fill="#fe7266" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M114.0,258.25A5,5,0,1,1,104.0,258.25A5,5,0,1,1,114.0,258.25" fill="#6864dc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M186.0,258.25A5,5,0,1,1,176.0,258.25A5,5,0,1,1,186.0,258.25" fill="#eb84b0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M243.0,258.25A5,5,0,1,1,233.0,258.25A5,5,0,1,1,243.0,258.25" fill="#aadd34" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M300.0,258.25A5,5,0,1,1,290.0,258.25A5,5,0,1,1,300.0,258.25" fill="#e5fcfc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M347.0,258.25A5,5,0,1,1,337.0,258.25A5,5,0,1,1,347.0,258.25" fill="#21e44c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M389.0,258.25A5,5,0,1,1,379.0,258.25A5,5,0,1,1,389.0,258.25" fill="#a5dacb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M451.0,258.25A5,5,0,1,1,441.0,258.25A5,5,0,1,1,451.0,258.25" fill="#e8f0bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="57,95,251,262" text-anchor="start" x="57.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="119,168,251,262" text-anchor="start" x="119.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Classical</text>
+<text aria-label="191,224,251,262" text-anchor="start" x="191.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Dalasi</text>
+<text aria-label="248,281,251,262" text-anchor="start" x="248.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="305,327,251,262" text-anchor="start" x="305.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Vena</text>
+<text aria-label="352,368,251,262" text-anchor="start" x="352.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">ohm</text>
+<text aria-label="394,432,251,262" text-anchor="start" x="394.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">outside</text>
+<text aria-label="456,489,251,262" text-anchor="start" x="456.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">sensor</text>
+</svg>

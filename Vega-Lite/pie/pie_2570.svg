@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="403" height="286" viewBox="0 0 403 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="281,398,0,26" text-anchor="end" x="398.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Associate</text>
+<path aria-label="Male: 28; Rogelio: Denar" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.7290923719722,140.36888948414443A75,75,0,0,0,179.8105996979833,128.6732587046016L140.909087855032,131.44316417820878A36,36,0,0,1,140.86996433854665,137.05706695238933Z" fill="#ce5d02" stroke="black" stroke-width="3"/>
+<path aria-label="Male: 269; Rogelio: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.8105996979833,128.6732587046016A75,75,0,0,0,105.0,59.0L105.0,98.0A36,36,0,0,1,140.909087855032,131.44316417820878Z" fill="#429129" stroke="black" stroke-width="3"/>
+<path aria-label="Male: 231; Rogelio: celebrated" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.40860861982186,99.49512217016357A75,75,0,0,0,53.276179141121986,188.3106467993035L80.17256598773855,160.06911046366568A36,36,0,0,1,73.0361321375145,117.43765864167851Z" fill="#adaaa1" stroke="black" stroke-width="3"/>
+<path aria-label="Male: 144; Rogelio: Minivan" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.33159582445396,192.1783468028315A75,75,0,0,0,179.7290923719722,140.36888948414443L140.86996433854665,137.05706695238933A36,36,0,0,1,127.7191659957379,161.92560646535912Z" fill="#a2f1ca" stroke="black" stroke-width="3"/>
+<path aria-label="Male: 10; Rogelio: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.434771829655986,95.83809083246207A75,75,0,0,0,38.40860861982186,99.49512217016357L73.0361321375145,117.43765864167851A36,36,0,0,1,74.00869047823487,115.6822835995818Z" fill="#abc095" stroke="black" stroke-width="3"/>
+<path aria-label="Male: 128; Rogelio: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M81.16855869686789,62.88697443213819A75,75,0,0,0,40.434771829655986,95.83809083246207L74.00869047823487,115.6822835995818A36,36,0,0,1,93.56090817449659,99.86574772742632Z" fill="#abc095" stroke="black" stroke-width="3"/>
+<path aria-label="Male: 259; Rogelio: Tesla" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.276179141121986,188.3106467993035A75,75,0,0,0,152.33159582445396,192.1783468028315L127.7191659957379,161.92560646535912A36,36,0,0,1,80.17256598773855,160.06911046366568Z" fill="#ce7ca9" stroke="black" stroke-width="3"/>
+<path aria-label="Male: 58; Rogelio: reopen" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,81.16855869686789,62.88697443213819L93.56090817449659,99.86574772742632A36,36,0,0,1,105.0,98.0Z" fill="#d9ef8c" stroke="black" stroke-width="3"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#429129" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,274.25A5,5,0,1,1,63.0,274.25A5,5,0,1,1,73.0,274.25" fill="#ce5d02" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,274.25A5,5,0,1,1,115.0,274.25A5,5,0,1,1,125.0,274.25" fill="#a2f1ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,274.25A5,5,0,1,1,177.0,274.25A5,5,0,1,1,187.0,274.25" fill="#ce7ca9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,274.25A5,5,0,1,1,229.0,274.25A5,5,0,1,1,239.0,274.25" fill="#adaaa1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M316.0,274.25A5,5,0,1,1,306.0,274.25A5,5,0,1,1,316.0,274.25" fill="#abc095" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M363.0,274.25A5,5,0,1,1,353.0,274.25A5,5,0,1,1,363.0,274.25" fill="#d9ef8c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="78,105,267,278" text-anchor="start" x="78.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Denar</text>
+<text aria-label="130,168,267,278" text-anchor="start" x="130.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Minivan</text>
+<text aria-label="192,219,267,278" text-anchor="start" x="192.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Tesla</text>
+<text aria-label="244,299,267,278" text-anchor="start" x="244.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">celebrated</text>
+<text aria-label="321,343,267,278" text-anchor="start" x="321.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="368,401,267,278" text-anchor="start" x="368.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">reopen</text>
+<text aria-label="5,47,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Rogelio</text>
+</svg>

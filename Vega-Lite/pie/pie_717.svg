@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="329" height="239" viewBox="0 0 329 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="1,287,0,26" text-anchor="middle" x="144.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Hip Electronic Generic</text>
+<path aria-label="East happily homogeneous: 99; elastic: yellow" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.0,59.0A75,75,0,0,0,69.70822957421262,123.7173521405183L109.33050713463255,129.20143099890853A35,35,0,0,1,144.0,99.0Z" fill="#b1a03e" stroke="white" stroke-width="4"/>
+<path aria-label="East happily homogeneous: 152; elastic: bypass" role="graphics-symbol" aria-roledescription="arc mark"  d="M71.39421608503469,152.79893991940403A75,75,0,0,0,201.9542522349425,181.605720747497L171.04531770963982,156.2160030154986A35,35,0,0,1,110.11730083968285,142.77283862905523Z" fill="#b58a8b" stroke="white" stroke-width="4"/>
+<path aria-label="East happily homogeneous: 27; elastic: unlike" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.70822957421262,123.7173521405183A75,75,0,0,0,71.39421608503469,152.79893991940403L110.11730083968285,142.77283862905523A35,35,0,0,1,109.33050713463255,129.20143099890853Z" fill="#cf521c" stroke="white" stroke-width="4"/>
+<path aria-label="East happily homogeneous: 109; elastic: Turnpike" role="graphics-symbol" aria-roledescription="arc mark"  d="M201.9542522349425,181.605720747497A75,75,0,0,0,191.18496415280026,75.70266594518277L166.01964993797347,106.7945774410853A35,35,0,0,1,171.04531770963982,156.2160030154986Z" fill="#cd8abb" stroke="white" stroke-width="4"/>
+<path aria-label="East happily homogeneous: 47; elastic: Suriname" role="graphics-symbol" aria-roledescription="arc mark"  d="M191.18496415280026,75.70266594518277A75,75,0,0,0,144.0,59.0L144.0,99.0A35,35,0,0,1,166.01964993797347,106.7945774410853Z" fill="#0ccdaf" stroke="white" stroke-width="4"/>
+<text aria-label="79,89,60,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="84.88369923965143" y="69.13791202437099" font-family="Balto" font-size="9px" fill="#b1a03e" opacity="1">99</text>
+<text aria-label="117,132,215,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="124.60878341079498" y="224.8861804790181" font-family="Balto" font-size="9px" fill="#b58a8b" opacity="1">152</text>
+<text aria-label="49,59,133,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.15086600944473" y="142.2089462607369" font-family="Balto" font-size="9px" fill="#cf521c" opacity="1">27</text>
+<text aria-label="226,241,118,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="233.53823910527058" y="127.8948510211311" font-family="Balto" font-size="9px" fill="#cd8abb" opacity="1">109</text>
+<text aria-label="169,179,43,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.03238187423486" y="52.15864193118942" font-family="Balto" font-size="9px" fill="#0ccdaf" opacity="1">47</text>
+<path  d="M273.0,56.0A5,5,0,1,1,263.0,56.0A5,5,0,1,1,273.0,56.0" fill="#0ccdaf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M273.0,72.0A5,5,0,1,1,263.0,72.0A5,5,0,1,1,273.0,72.0" fill="#cd8abb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M273.0,88.0A5,5,0,1,1,263.0,88.0A5,5,0,1,1,273.0,88.0" fill="#b58a8b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M273.0,104.0A5,5,0,1,1,263.0,104.0A5,5,0,1,1,273.0,104.0" fill="#cf521c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M273.0,120.0A5,5,0,1,1,263.0,120.0A5,5,0,1,1,273.0,120.0" fill="#b1a03e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="278,322,49,60" text-anchor="start" x="278.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Suriname</text>
+<text aria-label="278,322,65,76" text-anchor="start" x="278.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Turnpike</text>
+<text aria-label="278,311,81,92" text-anchor="start" x="278.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">bypass</text>
+<text aria-label="278,311,97,108" text-anchor="start" x="278.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">unlike</text>
+<text aria-label="278,311,113,124" text-anchor="start" x="278.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">yellow</text>
+<text aria-label="262,304,32,44" text-anchor="start" x="262.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">elastic</text>
+</svg>

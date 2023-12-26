@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="243" height="270" viewBox="0 0 243 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">navigate</text>
+<path aria-label="wireless Allentown cleverly: 81; Shirt: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.41579590715844,86.96177311448471A75,75,0,0,0,105.0,59.0L105.0,93.0A41,41,0,0,1,136.93396842924662,108.28576930258498Z" fill="#2d76fe" stroke="black" stroke-width="1"/>
+<path aria-label="wireless Allentown cleverly: 186; Shirt: deploy" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.78377705886103,207.5284974406107A75,75,0,0,0,163.41579590715844,86.96177311448471L136.93396842924662,108.28576930258498A41,41,0,0,1,113.0817981255107,174.19557860086718Z" fill="#59820e" stroke="black" stroke-width="1"/>
+<path aria-label="wireless Allentown cleverly: 152; Shirt: fugiat" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.32897386452828,141.01696913743385A75,75,0,0,0,119.78377705886103,207.5284974406107L113.0817981255107,174.19557860086718A41,41,0,0,1,64.17983904594212,137.83594312846384Z" fill="#bed953" stroke="black" stroke-width="1"/>
+<path aria-label="wireless Allentown cleverly: 151; Shirt: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.32897386452828,141.01696913743385L64.17983904594212,137.83594312846384A41,41,0,0,1,104.99999999999999,93.0Z" fill="#9369cb" stroke="black" stroke-width="1"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#2d76fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,258.25A5,5,0,1,1,66.0,258.25A5,5,0,1,1,76.0,258.25" fill="#59820e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M136.0,258.25A5,5,0,1,1,126.0,258.25A5,5,0,1,1,136.0,258.25" fill="#bed953" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M191.0,258.25A5,5,0,1,1,181.0,258.25A5,5,0,1,1,191.0,258.25" fill="#9369cb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="81,114,251,262" text-anchor="start" x="81.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">deploy</text>
+<text aria-label="141,174,251,262" text-anchor="start" x="141.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">fugiat</text>
+<text aria-label="196,234,251,262" text-anchor="start" x="196.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">payment</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="391" height="286" viewBox="0 0 391 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="204,386,0,26" text-anchor="end" x="386.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">salmon payment</text>
+<path aria-label="Cab: 138; meh: Mouse" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.87118296494204,252.4276486368139A75,75,0,0,0,178.2937497345408,165.09320114383473L105.0,181.0Z" fill="#c3178b" stroke="black" stroke-width="4"/>
+<path aria-label="Cab: 81; meh: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M65.43745586184266,244.71659988822654A75,75,0,0,0,127.87118296494204,252.4276486368139L105.0,181.0Z" fill="#dfdb8e" stroke="black" stroke-width="4"/>
+<path aria-label="Cab: 113; meh: expedite" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.3830632256701,166.66310284739708A75,75,0,0,0,65.43745586184266,244.71659988822654L105.0,181.0Z" fill="#78dc1a" stroke="black" stroke-width="4"/>
+<path aria-label="Cab: 127; meh: ASCII" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.2937497345408,165.09320114383473A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#4aa5e2" stroke="black" stroke-width="4"/>
+<path aria-label="Cab: 42; meh: uselessly" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,72.45871956618313,113.42733490731857L105.0,181.0Z" fill="#86f2c2" stroke="black" stroke-width="4"/>
+<path aria-label="Cab: 87; meh: innovative" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.45871956618313,113.42733490731857A75,75,0,0,0,31.3830632256701,166.66310284739708L105.0,181.0Z" fill="#462cb5" stroke="black" stroke-width="4"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#4aa5e2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,56.25A5,5,0,1,1,58.0,56.25A5,5,0,1,1,68.0,56.25" fill="#c3178b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M120.0,56.25A5,5,0,1,1,110.0,56.25A5,5,0,1,1,120.0,56.25" fill="#dfdb8e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,56.25A5,5,0,1,1,182.0,56.25A5,5,0,1,1,192.0,56.25" fill="#78dc1a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M259.0,56.25A5,5,0,1,1,249.0,56.25A5,5,0,1,1,259.0,56.25" fill="#462cb5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M336.0,56.25A5,5,0,1,1,326.0,56.25A5,5,0,1,1,336.0,56.25" fill="#86f2c2" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">ASCII</text>
+<text aria-label="73,100,49,60" text-anchor="start" x="73.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Mouse</text>
+<text aria-label="125,174,49,60" text-anchor="start" x="125.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="197,241,49,60" text-anchor="start" x="197.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">expedite</text>
+<text aria-label="264,319,49,60" text-anchor="start" x="264.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">innovative</text>
+<text aria-label="341,390,49,60" text-anchor="start" x="341.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">uselessly</text>
+<text aria-label="5,23,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">meh</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="180,284,0,26" text-anchor="end" x="284.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">male SSD</text>
+<path aria-label="Hat Dewitt Reggae: 284; Djibouti Lakes: uselessly" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,51.69331492733793,186.75791245456958L65.19767514574565,173.39257463274527A56,56,0,0,1,104.99999999999999,78.0Z" fill="#4ba0bb" stroke="black" stroke-width="3"/>
+<path aria-label="Hat Dewitt Reggae: 20; Djibouti Lakes: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.36070977488544,60.02559325103681A75,75,0,0,0,105.0,59.0L105.0,78.0A56,56,0,0,1,114.2293299652478,78.76577629410748Z" fill="#aa18d6" stroke="black" stroke-width="3"/>
+<path aria-label="Hat Dewitt Reggae: 455; Djibouti Lakes: Schuppe" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.69331492733793,186.75791245456958A75,75,0,1,0,117.36070977488544,60.02559325103681L114.2293299652478,78.76577629410748A56,56,0,1,1,65.19767514574565,173.39257463274527Z" fill="#dd6a5b" stroke="black" stroke-width="3"/>
+<text aria-label="13,30,92,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.940218682284268" y="102.3435038203046" font-family="monospace" font-size="10px" fill="#4ba0bb" opacity="1">284</text>
+<text aria-label="106,117,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.44191074630618" y="47.308205701725356" font-family="monospace" font-size="10px" fill="#aa18d6" opacity="1">20</text>
+<text aria-label="176,193,168,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.90966965621377" y="178.4058533958037" font-family="monospace" font-size="10px" fill="#dd6a5b" opacity="1">455</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#aa18d6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#dd6a5b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#4ba0bb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Schuppe</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">uselessly</text>
+</svg>

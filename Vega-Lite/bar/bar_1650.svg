@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="361" height="291" viewBox="0 0 361 291" style="background-color: rgb(255, 255, 255);">
+<line x1="66.5" y1="34.5" x2="66.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="117.5" y1="34.5" x2="117.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="169.5" y1="34.5" x2="169.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="221.5" y1="34.5" x2="221.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="273.5" y1="34.5" x2="273.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="324.5" y1="34.5" x2="324.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="35.5" y1="234.5" x2="356.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="35.5" y1="190.5" x2="356.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="35.5" y1="145.5" x2="356.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="35.5" y1="101.5" x2="356.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="35.5" y1="56.5" x2="356.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="55,71,241,281" text-anchor="end" x="66.06451612903228" y="241.5" transform="rotate(270.0, 71.06451612903228, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">banjo</text>
+<text aria-label="106,122,241,273" text-anchor="end" x="117.83870967741937" y="241.5" transform="rotate(270.0, 122.83870967741937, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">bond</text>
+<text aria-label="158,174,241,281" text-anchor="end" x="169.61290322580646" y="241.5" transform="rotate(270.0, 174.61290322580646, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">clone</text>
+<text aria-label="210,226,241,281" text-anchor="end" x="221.38709677419357" y="241.5" transform="rotate(270.0, 226.38709677419357, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">grand</text>
+<text aria-label="262,278,241,289" text-anchor="end" x="273.16129032258067" y="241.5" transform="rotate(270.0, 278.16129032258067, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">outlay</text>
+<text aria-label="313,329,241,289" text-anchor="end" x="324.93548387096774" y="241.5" transform="rotate(270.0, 329.93548387096774, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">turkey</text>
+<line aria-label="66,66,234,239" x1="66.5" y1="234.5" x2="66.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="117,117,234,239" x1="117.5" y1="234.5" x2="117.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="169,169,234,239" x1="169.5" y1="234.5" x2="169.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="221,221,234,239" x1="221.5" y1="234.5" x2="221.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="273,273,234,239" x1="273.5" y1="234.5" x2="273.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="324,324,234,239" x1="324.5" y1="234.5" x2="324.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,356,234,234" x1="35.5" y1="234.5" x2="356.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,57,0,26" text-anchor="start" x="5.24853515625" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Toys</text>
+<text aria-label="25,33,224,240" text-anchor="end" x="33.5" y="239.5" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="9,33,180,196" text-anchor="end" x="33.5" y="195.05555555555557" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="9,33,135,151" text-anchor="end" x="33.5" y="150.61111111111111" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="9,33,91,107" text-anchor="end" x="33.5" y="106.16666666666667" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="9,33,46,62" text-anchor="end" x="33.5" y="61.72222222222223" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">800</text>
+<path aria-label="Fontana up Clothing: clone; litigate Bohrium fuchsia: 315; disbelieve candela although: against" role="graphics-symbol" aria-roledescription="bar" d="M169.61290322580646,164.0h20.70967741935484v70h-20.70967741935484Z" fill="#c6b38c"/>
+<path aria-label="Fontana up Clothing: clone; litigate Bohrium fuchsia: 481; disbelieve candela although: South Borders bomb" role="graphics-symbol" aria-roledescription="bar" d="M148.90322580645164,127.1111111111111h20.70967741935484v106.8888888888889h-20.70967741935484Z" fill="#d76d52"/>
+<path aria-label="Fontana up Clothing: outlay; litigate Bohrium fuchsia: 338; disbelieve candela although: against" role="graphics-symbol" aria-roledescription="bar" d="M273.16129032258067,158.8888888888889h20.70967741935484v75.1111111111111h-20.70967741935484Z" fill="#c6b38c"/>
+<path aria-label="Fontana up Clothing: outlay; litigate Bohrium fuchsia: 681; disbelieve candela although: South Borders bomb" role="graphics-symbol" aria-roledescription="bar" d="M252.45161290322582,82.66666666666666h20.70967741935484v151.33333333333334h-20.70967741935484Z" fill="#d76d52"/>
+<path aria-label="Fontana up Clothing: grand; litigate Bohrium fuchsia: 679; disbelieve candela although: against" role="graphics-symbol" aria-roledescription="bar" d="M221.38709677419357,83.11111111111111h20.70967741935484v150.88888888888889h-20.70967741935484Z" fill="#c6b38c"/>
+<path aria-label="Fontana up Clothing: grand; litigate Bohrium fuchsia: 773; disbelieve candela although: South Borders bomb" role="graphics-symbol" aria-roledescription="bar" d="M200.67741935483872,62.222222222222214h20.70967741935484v171.77777777777777h-20.70967741935484Z" fill="#d76d52"/>
+<path aria-label="Fontana up Clothing: bond; litigate Bohrium fuchsia: 250; disbelieve candela although: against" role="graphics-symbol" aria-roledescription="bar" d="M117.83870967741937,178.44444444444443h20.70967741935484v55.55555555555557h-20.70967741935484Z" fill="#c6b38c"/>
+<path aria-label="Fontana up Clothing: bond; litigate Bohrium fuchsia: 834; disbelieve candela although: South Borders bomb" role="graphics-symbol" aria-roledescription="bar" d="M97.12903225806454,48.66666666666667h20.70967741935484v185.33333333333331h-20.70967741935484Z" fill="#d76d52"/>
+<path aria-label="Fontana up Clothing: banjo; litigate Bohrium fuchsia: 267; disbelieve candela although: against" role="graphics-symbol" aria-roledescription="bar" d="M66.06451612903228,174.66666666666669h20.70967741935484v59.333333333333314h-20.70967741935484Z" fill="#c6b38c"/>
+<path aria-label="Fontana up Clothing: banjo; litigate Bohrium fuchsia: 804; disbelieve candela although: South Borders bomb" role="graphics-symbol" aria-roledescription="bar" d="M45.35483870967744,55.333333333333336h20.70967741935484v178.66666666666666h-20.70967741935484Z" fill="#d76d52"/>
+<path aria-label="Fontana up Clothing: turkey; litigate Bohrium fuchsia: 453; disbelieve candela although: against" role="graphics-symbol" aria-roledescription="bar" d="M324.93548387096774,133.33333333333334h20.70967741935484v100.66666666666666h-20.70967741935484Z" fill="#c6b38c"/>
+<path aria-label="Fontana up Clothing: turkey; litigate Bohrium fuchsia: 180; disbelieve candela although: South Borders bomb" role="graphics-symbol" aria-roledescription="bar" d="M304.2258064516129,194.0h20.70967741935484v40h-20.70967741935484Z" fill="#d76d52"/>
+</svg>

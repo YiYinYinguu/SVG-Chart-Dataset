@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="280" height="270" viewBox="0 0 280 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="171,275,0,26" text-anchor="end" x="275.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Algerian</text>
+<path aria-label="Chevrolet: 128; Southwest: Designer" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.4187481861688,76.7232610557796A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#1fc90a" stroke="black" stroke-width="1"/>
+<path aria-label="Chevrolet: 329; Southwest: Producer" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.54832924996413,194.33611158366764A75,75,0,0,0,153.4187481861688,76.7232610557796L105.0,134.0Z" fill="#4bdeaf" stroke="black" stroke-width="1"/>
+<path aria-label="Chevrolet: 545; Southwest: sievert" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,93.53148047867579,208.1179671873764L105.0,134.0Z" fill="#fc006e" stroke="black" stroke-width="1"/>
+<path aria-label="Chevrolet: 144; Southwest: orchestrate" role="graphics-symbol" aria-roledescription="arc mark"  d="M93.53148047867579,208.1179671873764A75,75,0,0,0,149.54832924996413,194.33611158366764L105.0,134.0Z" fill="#6c12ef" stroke="black" stroke-width="1"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#1fc90a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M86.0,258.25A5,5,0,1,1,76.0,258.25A5,5,0,1,1,86.0,258.25" fill="#4bdeaf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M157.0,258.25A5,5,0,1,1,147.0,258.25A5,5,0,1,1,157.0,258.25" fill="#6c12ef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M238.0,258.25A5,5,0,1,1,228.0,258.25A5,5,0,1,1,238.0,258.25" fill="#fc006e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Designer</text>
+<text aria-label="91,135,251,262" text-anchor="start" x="91.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Producer</text>
+<text aria-label="162,222,251,262" text-anchor="start" x="162.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">orchestrate</text>
+<text aria-label="243,281,251,262" text-anchor="start" x="243.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">sievert</text>
+</svg>

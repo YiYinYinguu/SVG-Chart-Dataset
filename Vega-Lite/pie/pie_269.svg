@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="399" height="239" viewBox="0 0 399 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,394,0,26" text-anchor="end" x="394.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">reboot without disintermediate</text>
+<path aria-label="sievert violet Digitized: 20; cyan Electric: mesh" role="graphics-symbol" aria-roledescription="arc mark"  d="M294.0,59.0A75,75,0,0,0,277.69273683138323,207.20569081669453L284.8679326255746,174.99518685734895A42,42,0,0,1,294.0,92.0Z" fill="#1cfaee" stroke="white" stroke-width="3"/>
+<path aria-label="sievert violet Digitized: 9; cyan Electric: matrix" role="graphics-symbol" aria-roledescription="arc mark"  d="M277.69273683138323,207.20569081669453A75,75,0,0,0,360.7006611661889,168.2931742478479L331.35237025306577,153.20417757879483A42,42,0,0,1,284.8679326255746,174.99518685734895Z" fill="#f0aab5" stroke="white" stroke-width="3"/>
+<path aria-label="sievert violet Digitized: 2; cyan Electric: alarm" role="graphics-symbol" aria-roledescription="arc mark"  d="M360.7006611661889,168.2931742478479A75,75,0,0,0,367.75242576220995,147.62276382345775L335.30135842683757,141.62874774113632A42,42,0,0,1,331.35237025306577,153.20417757879483Z" fill="#ecc2f6" stroke="white" stroke-width="3"/>
+<path aria-label="sievert violet Digitized: 12; cyan Electric: Celsius" role="graphics-symbol" aria-roledescription="arc mark"  d="M367.75242576220995,147.62276382345775A75,75,0,0,0,294.0,59.0L294.0,92.0A42,42,0,0,1,335.30135842683757,141.62874774113632Z" fill="#c3a7fd" stroke="white" stroke-width="3"/>
+<text aria-label="199,209,118,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="204.5399122284049" y="127.15659124599131" font-family="monospace" font-size="9px" fill="#1cfaee" opacity="1">20</text>
+<text aria-label="329,334,209,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="332.20110289882336" y="218.4903413743832" font-family="monospace" font-size="9px" fill="#f0aab5" opacity="1">9</text>
+<text aria-label="376,381,157,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="379.17957958418486" y="166.05923642943014" font-family="monospace" font-size="9px" fill="#ecc2f6" opacity="1">2</text>
+<text aria-label="358,368,70,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="363.1782425800679" y="79.42942805969979" font-family="monospace" font-size="9px" fill="#c3a7fd" opacity="1">12</text>
+<path  d="M112.0,56.0A5,5,0,1,1,102.0,56.0A5,5,0,1,1,112.0,56.0" fill="#c3a7fd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M112.0,72.0A5,5,0,1,1,102.0,72.0A5,5,0,1,1,112.0,72.0" fill="#ecc2f6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M112.0,88.0A5,5,0,1,1,102.0,88.0A5,5,0,1,1,112.0,88.0" fill="#f0aab5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M112.0,104.0A5,5,0,1,1,102.0,104.0A5,5,0,1,1,112.0,104.0" fill="#1cfaee" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="117,155,49,60" text-anchor="start" x="117.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Celsius</text>
+<text aria-label="117,144,65,76" text-anchor="start" x="117.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">alarm</text>
+<text aria-label="117,150,81,92" text-anchor="start" x="117.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">matrix</text>
+<text aria-label="117,139,97,108" text-anchor="start" x="117.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">mesh</text>
+<text aria-label="101,179,32,44" text-anchor="start" x="101.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">cyan Electric</text>
+</svg>

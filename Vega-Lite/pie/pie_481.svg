@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="245,284,0,26" text-anchor="end" x="284.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">HDD</text>
+<path aria-label="drat MTF: 519; boo: Loan" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.952581419665222,151.0021951156126A75,75,0,0,0,176.22425416088373,157.49692786782643L142.98626888580466,146.53169486284077A40,40,0,0,1,66.04137675715478,143.06783739499338Z" fill="#dd449f" stroke="black" stroke-width="2"/>
+<path aria-label="drat MTF: 83; boo: Country" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.6928949477363,152.45922598911915A75,75,0,0,0,178.96651588765047,121.59215863085166L144.44880847341358,127.38248460312089A40,40,0,0,1,143.76954397212603,143.8449205275302Z" fill="#dfc1dd" stroke="black" stroke-width="2"/>
+<path aria-label="drat MTF: 77; boo: Tuvalu" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.913139750134548,122.33221793497559A75,75,0,0,0,31.952581419665222,151.0021951156126L66.04137675715478,143.06783739499338A40,40,0,0,1,65.48700786673842,127.77718289865365Z" fill="#ddf0da" stroke="black" stroke-width="2"/>
+<path aria-label="drat MTF: 281; boo: Blues" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.96651588765047,121.59215863085166A75,75,0,0,0,105.0,59.0L105.0,94.0A40,40,0,0,1,144.44880847341358,127.38248460312089Z" fill="#aff865" stroke="black" stroke-width="2"/>
+<path aria-label="drat MTF: 283; boo: enable" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.913139750134548,122.33221793497559L65.48700786673842,127.77718289865365A40,40,0,0,1,104.99999999999999,94.0Z" fill="#d59aa4" stroke="black" stroke-width="2"/>
+<path aria-label="drat MTF: 14; boo: Flerovium" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.22425416088373,157.49692786782643A75,75,0,0,0,177.6928949477363,152.45922598911915L143.76954397212603,143.8449205275302A40,40,0,0,1,142.98626888580466,146.53169486284077Z" fill="#4cccaa" stroke="black" stroke-width="2"/>
+<text aria-label="92,109,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.95253492562429" y="226.9089429727194" font-family="monospace" font-size="10px" fill="#dd449f" opacity="1">519</text>
+<text aria-label="189,200,130,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.92348474229485" y="140.71037623459756" font-family="monospace" font-size="10px" fill="#dfc1dd" opacity="1">83</text>
+<text aria-label="9,20,130,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.059092202537286" y="140.26084414965072" font-family="monospace" font-size="10px" fill="#ddf0da" opacity="1">77</text>
+<text aria-label="154,171,58,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.13756587668587" y="68.2975733038926" font-family="monospace" font-size="10px" fill="#aff865" opacity="1">281</text>
+<text aria-label="38,54,58,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="46.51974890196966" y="68.58903427438463" font-family="monospace" font-size="10px" fill="#d59aa4" opacity="1">283</text>
+<text aria-label="185,196,152,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.40317545783685" y="162.1891101629704" font-family="monospace" font-size="10px" fill="#4cccaa" opacity="1">14</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#aff865" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#dfc1dd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#4cccaa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#dd449f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#ddf0da" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#d59aa4" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Blues</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Country</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Flerovium</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Loan</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Tuvalu</text>
+<text aria-label="239,272,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">enable</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="274" height="286" viewBox="0 0 274 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">newton withdrawal</text>
+<path aria-label="Ball Integrated: 405; Interface Metrics: ROI" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.32533304974098,181.15035020693688A75,75,0,0,0,158.88001117224044,81.82774304211821L147.38560878882916,92.95782452646634A59,59,0,0,1,150.8825953324629,171.09160882945702Z" fill="#a9b330" stroke="white" stroke-width="0"/>
+<path aria-label="Ball Integrated: 105; Interface Metrics: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.51949347674704,64.2312571506174A75,75,0,0,0,105.0,59.0L105.0,75.0A59,59,0,0,1,126.64866820170768,79.11525562515234Z" fill="#9d62f7" stroke="white" stroke-width="0"/>
+<path aria-label="Ball Integrated: 398; Interface Metrics: minty" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.80562077183255,123.03669343004246L46.63375500717494,125.37553216496674A59,59,0,0,1,104.99999999999999,75.0Z" fill="#1a24fa" stroke="white" stroke-width="0"/>
+<path aria-label="Ball Integrated: 119; Interface Metrics: Paraguay" role="graphics-symbol" aria-roledescription="arc mark"  d="M158.88001117224044,81.82774304211821A75,75,0,0,0,132.51949347674704,64.2312571506174L126.64866820170768,79.11525562515234A59,59,0,0,1,147.38560878882916,92.95782452646634Z" fill="#9bbb7f" stroke="white" stroke-width="0"/>
+<path aria-label="Ball Integrated: 729; Interface Metrics: minibus" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.80562077183255,123.03669343004246A75,75,0,0,0,163.32533304974098,181.15035020693688L150.8825953324629,171.09160882945702A59,59,0,0,1,46.63375500717494,125.37553216496674Z" fill="#a0f950" stroke="white" stroke-width="0"/>
+<text aria-label="187,202,123,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.90999412610637" y="132.9759527533194" font-family="monospace" font-size="9px" fill="#a9b330" opacity="1">405</text>
+<text aria-label="114,129,39,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.80737594430907" y="48.58330410003629" font-family="monospace" font-size="9px" fill="#9d62f7" opacity="1">105</text>
+<text aria-label="38,53,59,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="46.19539605420087" y="68.86763944513807" font-family="monospace" font-size="9px" fill="#1a24fa" opacity="1">398</text>
+<text aria-label="147,162,53,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="154.96784608344566" y="62.14537851420873" font-family="monospace" font-size="9px" fill="#9bbb7f" opacity="1">119</text>
+<text aria-label="61,76,210,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="68.85517266586464" y="219.42300320290167" font-family="monospace" font-size="9px" fill="#a0f950" opacity="1">729</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#9d62f7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,274.25A5,5,0,1,1,58.0,274.25A5,5,0,1,1,68.0,274.25" fill="#9bbb7f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,274.25A5,5,0,1,1,125.0,274.25A5,5,0,1,1,135.0,274.25" fill="#a9b330" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M177.0,274.25A5,5,0,1,1,167.0,274.25A5,5,0,1,1,177.0,274.25" fill="#a0f950" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,274.25A5,5,0,1,1,229.0,274.25A5,5,0,1,1,239.0,274.25" fill="#1a24fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="73,117,267,278" text-anchor="start" x="73.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Paraguay</text>
+<text aria-label="140,156,267,278" text-anchor="start" x="140.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">ROI</text>
+<text aria-label="182,220,267,278" text-anchor="start" x="182.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">minibus</text>
+<text aria-label="244,271,267,278" text-anchor="start" x="244.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">minty</text>
+<text aria-label="5,107,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Interface Metrics</text>
+</svg>

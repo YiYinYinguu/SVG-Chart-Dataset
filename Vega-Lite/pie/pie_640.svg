@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="287" height="239" viewBox="0 0 287 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="178,282,0,26" text-anchor="end" x="282.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gasoline</text>
+<path aria-label="District: 209; Fresh: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.0327901665044,192.42017330643216A75,75,0,0,0,105.0,59.0L105.0,101.0A33,33,0,0,1,125.69442767326194,159.70487625483014Z" fill="#7cffe3" stroke="black" stroke-width="1"/>
+<path aria-label="District: 107; Fresh: Research" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.67745605538738,196.58951479238004A75,75,0,0,0,152.0327901665044,192.42017330643216L125.69442767326194,159.70487625483014A33,33,0,0,1,86.81808066437046,161.53938650864723Z" fill="#7bdec2" stroke="black" stroke-width="1"/>
+<path aria-label="District: 217; Fresh: lest" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,63.67745605538738,196.58951479238004L86.81808066437046,161.53938650864723A33,33,0,0,1,105.0,101.0Z" fill="#f25adc" stroke="black" stroke-width="1"/>
+<text aria-label="183,195,99,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.88044155485608" y="106.07825804782308" font-family="sans-serif" font-size="7px" fill="#7cffe3" opacity="1">209</text>
+<text aria-label="103,115,218,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.24222999409353" y="225.89996376349222" font-family="sans-serif" font-size="7px" fill="#7bdec2" opacity="1">107</text>
+<text aria-label="12,24,103,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.803516320046327" y="110.11243153149607" font-family="sans-serif" font-size="7px" fill="#f25adc" opacity="1">217</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#7cffe3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#7bdec2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#f25adc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Research</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">lest</text>
+<text aria-label="223,253,32,44" text-anchor="start" x="223.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Fresh</text>
+</svg>

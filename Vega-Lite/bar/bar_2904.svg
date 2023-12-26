@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="667" height="294" viewBox="0 0 667 294" style="background-color: rgb(255, 255, 255);">
+<line x1="108.5" y1="34.5" x2="108.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="231.5" y1="34.5" x2="231.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="354.5" y1="34.5" x2="354.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="477.5" y1="34.5" x2="477.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="600.5" y1="34.5" x2="600.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="234.5" x2="662.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="198.5" x2="662.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="161.5" x2="662.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="125.5" x2="662.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="89.5" x2="662.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="52.5" x2="662.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="99,112,241,293" text-anchor="end" x="108.49999999999997" y="241.5" transform="rotate(270.0, 112.49999999999997, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">adoption</text>
+<text aria-label="222,235,241,280" text-anchor="end" x="231.49999999999997" y="241.5" transform="rotate(270.0, 235.49999999999997, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">fascia</text>
+<text aria-label="345,358,241,267" text-anchor="end" x="354.5" y="241.5" transform="rotate(270.0, 358.5, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">pike</text>
+<text aria-label="468,481,241,274" text-anchor="end" x="477.5" y="241.5" transform="rotate(270.0, 481.5, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">share</text>
+<text aria-label="591,604,241,293" text-anchor="end" x="600.5" y="241.5" transform="rotate(270.0, 604.5, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">stallion</text>
+<line aria-label="108,108,234,239" x1="108.5" y1="234.5" x2="108.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="231,231,234,239" x1="231.5" y1="234.5" x2="231.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="354,354,234,239" x1="354.5" y1="234.5" x2="354.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="477,477,234,239" x1="477.5" y1="234.5" x2="477.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="600,600,234,239" x1="600.5" y1="234.5" x2="600.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,662,234,234" x1="47.5" y1="234.5" x2="662.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="322,387,0,26" text-anchor="middle" x="354.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Agent</text>
+<text aria-label="34,40,226,239" text-anchor="end" x="40.5" y="238.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="21,40,190,203" text-anchor="end" x="40.5" y="202.13636363636363" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="21,40,153,166" text-anchor="end" x="40.5" y="165.77272727272725" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="21,40,117,130" text-anchor="end" x="40.5" y="129.40909090909093" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="21,40,81,94" text-anchor="end" x="40.5" y="93.04545454545453" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="8,40,44,57" text-anchor="end" x="40.5" y="56.68181818181819" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<line aria-label="42,47,234,234" x1="47.5" y1="234.5" x2="42.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,198,198" x1="47.5" y1="198.5" x2="42.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,161,161" x1="47.5" y1="161.5" x2="42.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,125,125" x1="47.5" y1="125.5" x2="42.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,89,89" x1="47.5" y1="89.5" x2="42.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,52,52" x1="47.5" y1="52.5" x2="42.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,47,34,234" x1="47.5" y1="234.5" x2="47.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="knock North Northeast: fascia; Handcrafted Electric: 546; anglicize: Audi" role="graphics-symbol" aria-roledescription="bar" d="M192.75499999999997,118.9090909090909h77.49000000000001v99.27272727272728h-77.49000000000001Z" fill="#52fafe"/>
+<path aria-label="knock North Northeast: fascia; Handcrafted Electric: 26; anglicize: Computer metrics" role="graphics-symbol" aria-roledescription="bar" d="M192.75499999999997,218.1818181818182h77.49000000000001v4.7272727272727195h-77.49000000000001Z" fill="#74ecb5"/>
+<path aria-label="knock North Northeast: fascia; Handcrafted Electric: 61; anglicize: Pop" role="graphics-symbol" aria-roledescription="bar" d="M192.75499999999997,222.9090909090909h77.49000000000001v11.090909090909093h-77.49000000000001Z" fill="#8fee3c"/>
+<path aria-label="knock North Northeast: adoption; Handcrafted Electric: 210; anglicize: Audi" role="graphics-symbol" aria-roledescription="bar" d="M69.75499999999997,161.0909090909091h77.49000000000001v38.18181818181819h-77.49000000000001Z" fill="#52fafe"/>
+<path aria-label="knock North Northeast: adoption; Handcrafted Electric: 189; anglicize: Computer metrics" role="graphics-symbol" aria-roledescription="bar" d="M69.75499999999997,199.27272727272728h77.49000000000001v34.363636363636346h-77.49000000000001Z" fill="#74ecb5"/>
+<path aria-label="knock North Northeast: adoption; Handcrafted Electric: 2; anglicize: Pop" role="graphics-symbol" aria-roledescription="bar" d="M69.75499999999997,233.63636363636363h77.49000000000001v0.36363636363637397h-77.49000000000001Z" fill="#8fee3c"/>
+<path aria-label="knock North Northeast: share; Handcrafted Electric: 264; anglicize: Audi" role="graphics-symbol" aria-roledescription="bar" d="M438.755,39.454545454545446h77.49000000000001v48h-77.49000000000001Z" fill="#52fafe"/>
+<path aria-label="knock North Northeast: share; Handcrafted Electric: 467; anglicize: Computer metrics" role="graphics-symbol" aria-roledescription="bar" d="M438.755,87.45454545454544h77.49000000000001v84.90909090909093h-77.49000000000001Z" fill="#74ecb5"/>
+<path aria-label="knock North Northeast: share; Handcrafted Electric: 339; anglicize: Pop" role="graphics-symbol" aria-roledescription="bar" d="M438.755,172.36363636363637h77.49000000000001v61.636363636363626h-77.49000000000001Z" fill="#8fee3c"/>
+<path aria-label="knock North Northeast: pike; Handcrafted Electric: 44; anglicize: Audi" role="graphics-symbol" aria-roledescription="bar" d="M315.755,150.54545454545456h77.49000000000001v8.000000000000014h-77.49000000000001Z" fill="#52fafe"/>
+<path aria-label="knock North Northeast: pike; Handcrafted Electric: 253; anglicize: Computer metrics" role="graphics-symbol" aria-roledescription="bar" d="M315.755,158.54545454545456h77.49000000000001v46h-77.49000000000001Z" fill="#74ecb5"/>
+<path aria-label="knock North Northeast: pike; Handcrafted Electric: 162; anglicize: Pop" role="graphics-symbol" aria-roledescription="bar" d="M315.755,204.54545454545456h77.49000000000001v29.45454545454544h-77.49000000000001Z" fill="#8fee3c"/>
+<path aria-label="knock North Northeast: stallion; Handcrafted Electric: 50; anglicize: Audi" role="graphics-symbol" aria-roledescription="bar" d="M561.755,100.36363636363636h77.49000000000001v9.090909090909108h-77.49000000000001Z" fill="#52fafe"/>
+<path aria-label="knock North Northeast: stallion; Handcrafted Electric: 274; anglicize: Computer metrics" role="graphics-symbol" aria-roledescription="bar" d="M561.755,109.45454545454547h77.49000000000001v49.8181818181818h-77.49000000000001Z" fill="#74ecb5"/>
+<path aria-label="knock North Northeast: stallion; Handcrafted Electric: 411; anglicize: Pop" role="graphics-symbol" aria-roledescription="bar" d="M561.755,159.27272727272725h77.49000000000001v74.72727272727273h-77.49000000000001Z" fill="#8fee3c"/>
+</svg>

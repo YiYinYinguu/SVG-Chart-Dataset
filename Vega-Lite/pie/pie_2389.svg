@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="270" height="286" viewBox="0 0 270 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">male wireless</text>
+<path aria-label="World PCI: 377; teal process up: questionably" role="graphics-symbol" aria-roledescription="arc mark"  d="M60.07608714319356,73.94300995192933A75,75,0,1,0,179.95462279672697,136.60854775696728L150.9721686486592,135.59990929093993A46,46,0,1,1,77.44666678115871,97.16504610384999Z" fill="#afceaf" stroke="black" stroke-width="1"/>
+<path aria-label="World PCI: 60; teal process up: whoa" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,60.07608714319356,73.94300995192933L77.44666678115871,97.16504610384999A46,46,0,0,1,104.99999999999999,88.0Z" fill="#bcb2ae" stroke="black" stroke-width="1"/>
+<path aria-label="World PCI: 116; teal process up: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.97393597587848,109.75746687963681A75,75,0,0,0,105.0,59.0L105.0,88.0A46,46,0,0,1,148.5306807318721,119.13124635284392Z" fill="#23ab83" stroke="black" stroke-width="1"/>
+<path aria-label="World PCI: 34; teal process up: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.95462279672697,136.60854775696728A75,75,0,0,0,175.97393597587848,109.75746687963681L148.5306807318721,119.13124635284392A46,46,0,0,1,150.9721686486592,135.59990929093993Z" fill="#e20ca5" stroke="black" stroke-width="1"/>
+<text aria-label="54,72,205,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="63.306202614291664" y="216.75980980142504" font-family="sans-serif" font-size="11px" fill="#afceaf" opacity="1">377</text>
+<text aria-label="70,82,40,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="76.59361801629458" y="51.60048324143855" font-family="sans-serif" font-size="11px" fill="#bcb2ae" opacity="1">60</text>
+<text aria-label="148,166,52,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.3536360867169" y="63.794147853469994" font-family="sans-serif" font-size="11px" fill="#23ab83" opacity="1">116</text>
+<text aria-label="188,200,112,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.02698990476455" y="123.80170206060836" font-family="sans-serif" font-size="11px" fill="#e20ca5" opacity="1">34</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#23ab83" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M94.0,274.25A5,5,0,1,1,84.0,274.25A5,5,0,1,1,94.0,274.25" fill="#e20ca5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,274.25A5,5,0,1,1,135.0,274.25A5,5,0,1,1,145.0,274.25" fill="#afceaf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,274.25A5,5,0,1,1,224.0,274.25A5,5,0,1,1,234.0,274.25" fill="#bcb2ae" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="99,126,267,278" text-anchor="start" x="99.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="150,216,267,278" text-anchor="start" x="150.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">questionably</text>
+<text aria-label="239,261,267,278" text-anchor="start" x="239.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">whoa</text>
+<text aria-label="5,95,250,262" text-anchor="start" x="5.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">teal process up</text>
+</svg>

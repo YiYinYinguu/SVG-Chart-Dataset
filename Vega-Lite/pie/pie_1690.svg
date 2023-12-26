@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="292" height="286" viewBox="0 0 292 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bike than</text>
+<path aria-label="Division Ball: 62; input Focused past: array" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.4417668240792,221.00177773848512A75,75,0,0,0,175.62157178376484,155.74938418987472L105.0,181.0Z" fill="#2fb404" stroke="black" stroke-width="1"/>
+<path aria-label="Division Ball: 36; input Focused past: Representative" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.62157178376484,155.74938418987472A75,75,0,0,0,153.39537435322725,123.70351021911557L105.0,181.0Z" fill="#153bb9" stroke="black" stroke-width="1"/>
+<path aria-label="Division Ball: 48; input Focused past: Gastonia" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.39537435322725,123.70351021911557A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#eaa4bb" stroke="black" stroke-width="1"/>
+<path aria-label="Division Ball: 284; input Focused past: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,1,0,168.4417668240792,221.00177773848512L105.0,181.0Z" fill="#7a6fdb" stroke="black" stroke-width="1"/>
+<text aria-label="188,200,182,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.4600877715951" y="193.8434087540087" font-family="monospace" font-size="11px" fill="#2fb404" opacity="1">62</text>
+<text aria-label="172,184,121,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.95342955047565" y="132.70779535131254" font-family="monospace" font-size="11px" fill="#153bb9" opacity="1">36</text>
+<text aria-label="129,141,88,100" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="135.91908070807153" y="99.47775175631116" font-family="monospace" font-size="11px" fill="#eaa4bb" opacity="1">48</text>
+<text aria-label="17,35,216,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.195837686844243" y="227.4730261440563" font-family="monospace" font-size="11px" fill="#7a6fdb" opacity="1">284</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#eaa4bb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,56.25A5,5,0,1,1,73.0,56.25A5,5,0,1,1,83.0,56.25" fill="#153bb9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M180.0,56.25A5,5,0,1,1,170.0,56.25A5,5,0,1,1,180.0,56.25" fill="#2fb404" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M232.0,56.25A5,5,0,1,1,222.0,56.25A5,5,0,1,1,232.0,56.25" fill="#7a6fdb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Gastonia</text>
+<text aria-label="88,165,49,60" text-anchor="start" x="88.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Representative</text>
+<text aria-label="185,212,49,60" text-anchor="start" x="185.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">array</text>
+<text aria-label="237,292,49,60" text-anchor="start" x="237.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+<text aria-label="5,113,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">input Focused past</text>
+</svg>

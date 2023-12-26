@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="239" viewBox="0 0 279 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="53,274,0,26" text-anchor="end" x="274.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Chevrolet Tunisia</text>
+<path aria-label="leverage: 632; Specialist Configuration Electric: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,34.04926291306316,158.3103456746375L70.94364619827032,145.668965923826A36,36,0,0,1,105.0,98.0Z" fill="#22c6fc" stroke="black" stroke-width="1"/>
+<path aria-label="leverage: 860; Specialist Configuration Electric: Home" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.04926291306316,158.3103456746375A75,75,0,0,0,178.11241573335747,150.72048640538623L140.09395955201157,142.0258334745854A36,36,0,0,1,70.94364619827032,145.668965923826Z" fill="#dba8cc" stroke="black" stroke-width="1"/>
+<path aria-label="leverage: 597; Specialist Configuration Electric: Folk" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.11241573335747,150.72048640538623A75,75,0,0,0,105.0,59.0L105.0,98.0A36,36,0,0,1,140.09395955201157,142.0258334745854Z" fill="#0abac2" stroke="black" stroke-width="1"/>
+<text aria-label="23,40,74,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="31.769141296647163" y="84.68134812928021" font-family="monospace" font-size="10px" fill="#22c6fc" opacity="1">632</text>
+<text aria-label="101,117,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.73501579586333" y="226.87535605166147" font-family="monospace" font-size="10px" fill="#dba8cc" opacity="1">860</text>
+<text aria-label="167,183,70,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="175.3768872989624" y="80.90103624745691" font-family="monospace" font-size="10px" fill="#0abac2" opacity="1">597</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#0abac2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#dba8cc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#22c6fc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Folk</text>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Home</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">deposit</text>
+</svg>

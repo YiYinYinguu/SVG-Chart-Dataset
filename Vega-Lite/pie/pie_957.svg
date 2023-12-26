@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="394" height="239" viewBox="0 0 394 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="21,320,0,26" text-anchor="middle" x="171.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Associate Paradigm Home</text>
+<path aria-label="um: 187; female Innovative: Interactions" role="graphics-symbol" aria-roledescription="arc mark"  d="M211.72396192413544,71.01937658929083A75,75,0,0,0,171.0,59.0L171.0,92.0A42,42,0,0,1,193.80541867751586,98.73085089000287Z" fill="#e9952f" stroke="black" stroke-width="3"/>
+<path aria-label="um: 513; female Innovative: heuristic" role="graphics-symbol" aria-roledescription="arc mark"  d="M102.98778137758575,102.38769040299448A75,75,0,0,0,139.64887345774102,202.13300862673879L153.44336913633498,172.15448483097373A42,42,0,0,1,132.913157571448,116.2971066256769Z" fill="#cbbbb3" stroke="black" stroke-width="3"/>
+<path aria-label="um: 370; female Innovative: snake" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.0,59.0A75,75,0,0,0,102.98778137758575,102.38769040299448L132.913157571448,116.2971066256769A42,42,0,0,1,171.0,92.0Z" fill="#bee230" stroke="black" stroke-width="3"/>
+<path aria-label="um: 147; female Innovative: SMTP" role="graphics-symbol" aria-roledescription="arc mark"  d="M235.11133976450373,95.08038908724342A75,75,0,0,0,211.72396192413544,71.01937658929083L193.80541867751586,98.73085089000287A42,42,0,0,1,206.9023502681221,112.2050178888563Z" fill="#1da3bb" stroke="black" stroke-width="3"/>
+<path aria-label="um: 123; female Innovative: degree" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.64887345774102,202.13300862673879A75,75,0,0,0,166.97327038949967,208.89182497872463L168.74503141811982,175.93942198808577A42,42,0,0,1,153.44336913633498,172.15448483097373Z" fill="#ecd3bf" stroke="black" stroke-width="3"/>
+<path aria-label="um: 707; female Innovative: Selenium" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.97327038949967,208.89182497872463A75,75,0,0,0,235.11133976450373,95.08038908724342L206.9023502681221,112.2050178888563A42,42,0,0,1,168.74503141811982,175.93942198808577Z" fill="#a8bace" stroke="black" stroke-width="3"/>
+<text aria-label="188,204,40,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.4763878095327" y="50.681093240366536" font-family="avenir" font-size="10px" fill="#e9952f" opacity="1">187</text>
+<text aria-label="78,94,158,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.5251929084582" y="168.04846158583058" font-family="avenir" font-size="10px" fill="#cbbbb3" opacity="1">513</text>
+<text aria-label="114,130,51,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.59612327755448" y="61.124676486763505" font-family="avenir" font-size="10px" fill="#bee230" opacity="1">370</text>
+<text aria-label="227,243,64,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="235.53661138398007" y="74.27021607662644" font-family="avenir" font-size="10px" fill="#1da3bb" opacity="1">147</text>
+<text aria-label="141,157,214,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="149.38938340536592" y="224.3669345370417" font-family="avenir" font-size="10px" fill="#ecd3bf" opacity="1">123</text>
+<text aria-label="239,256,173,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="248.21886553255072" y="183.2303667070233" font-family="avenir" font-size="10px" fill="#a8bace" opacity="1">707</text>
+<path  d="M300.0,56.0A5,5,0,1,1,290.0,56.0A5,5,0,1,1,300.0,56.0" fill="#e9952f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M300.0,72.0A5,5,0,1,1,290.0,72.0A5,5,0,1,1,300.0,72.0" fill="#1da3bb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M300.0,88.0A5,5,0,1,1,290.0,88.0A5,5,0,1,1,300.0,88.0" fill="#a8bace" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M300.0,104.0A5,5,0,1,1,290.0,104.0A5,5,0,1,1,300.0,104.0" fill="#ecd3bf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M300.0,120.0A5,5,0,1,1,290.0,120.0A5,5,0,1,1,300.0,120.0" fill="#cbbbb3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M300.0,136.0A5,5,0,1,1,290.0,136.0A5,5,0,1,1,300.0,136.0" fill="#bee230" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="305,371,49,60" text-anchor="start" x="305.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Interactions</text>
+<text aria-label="305,327,65,76" text-anchor="start" x="305.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">SMTP</text>
+<text aria-label="305,349,81,92" text-anchor="start" x="305.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Selenium</text>
+<text aria-label="305,338,97,108" text-anchor="start" x="305.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">degree</text>
+<text aria-label="305,354,113,124" text-anchor="start" x="305.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">heuristic</text>
+<text aria-label="305,332,129,140" text-anchor="start" x="305.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">snake</text>
+<text aria-label="289,391,32,44" text-anchor="start" x="289.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">female Innovative</text>
+</svg>

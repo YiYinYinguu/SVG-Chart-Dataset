@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="483" height="286" viewBox="0 0 483 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="99,112,247,280" text-anchor="end" x="108.00000000000001" y="247.5" transform="rotate(270.0, 112.00000000000001, 247.5)" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">chord</text>
+<text aria-label="247,260,247,273" text-anchor="end" x="256.0" y="247.5" transform="rotate(270.0, 260.0, 247.5)" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">lyre</text>
+<text aria-label="395,408,247,273" text-anchor="end" x="404.0" y="247.5" transform="rotate(270.0, 408.0, 247.5)" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">spud</text>
+<line aria-label="108,108,240,245" x1="108.5" y1="240.5" x2="108.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="256,256,240,245" x1="256.5" y1="240.5" x2="256.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="404,404,240,245" x1="404.5" y1="240.5" x2="404.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,478,240,240" x1="34.5" y1="240.5" x2="478.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,83,0,26" text-anchor="start" x="5.888671875" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Rustic</text>
+<text aria-label="21,27,232,245" text-anchor="end" x="27.5" y="244.5" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="8,27,182,195" text-anchor="end" x="27.5" y="194.5" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="8,27,132,145" text-anchor="end" x="27.5" y="144.5" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="8,27,82,95" text-anchor="end" x="27.5" y="94.5" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="8,27,32,45" text-anchor="end" x="27.5" y="44.5" font-family="Balto" font-size="12px" font-weight="normal" fill="#000" opacity="1">800</text>
+<line aria-label="29,34,240,240" x1="34.5" y1="240.5" x2="29.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="29,34,190,190" x1="34.5" y1="190.5" x2="29.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="29,34,140,140" x1="34.5" y1="140.5" x2="29.5" y2="140.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="29,34,90,90" x1="34.5" y1="90.5" x2="29.5" y2="90.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="29,34,40,40" x1="34.5" y1="40.5" x2="29.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="outside: lyre; Northwest Hat Tuvalu: 417; Enhanced: Southeast calculating" role="graphics-symbol" aria-roledescription="bar" d="M202.72,51.000000000000014h106.56000000000002v104.24999999999997h-106.56000000000002Z" fill="#ab5509"/>
+<path aria-label="outside: lyre; Northwest Hat Tuvalu: 339; Enhanced: compressing" role="graphics-symbol" aria-roledescription="bar" d="M202.72,155.25h106.56000000000002v84.75000000000001h-106.56000000000002Z" fill="#c1cb35"/>
+<path aria-label="outside: chord; Northwest Hat Tuvalu: 67; Enhanced: Southeast calculating" role="graphics-symbol" aria-roledescription="bar" d="M54.720000000000006,128.25h106.56000000000002v16.75h-106.56000000000002Z" fill="#ab5509"/>
+<path aria-label="outside: chord; Northwest Hat Tuvalu: 380; Enhanced: compressing" role="graphics-symbol" aria-roledescription="bar" d="M54.720000000000006,145.0h106.56000000000002v95h-106.56000000000002Z" fill="#c1cb35"/>
+<path aria-label="outside: spud; Northwest Hat Tuvalu: 207; Enhanced: Southeast calculating" role="graphics-symbol" aria-roledescription="bar" d="M350.71999999999997,147.25h106.56000000000002v51.75h-106.56000000000002Z" fill="#ab5509"/>
+<path aria-label="outside: spud; Northwest Hat Tuvalu: 164; Enhanced: compressing" role="graphics-symbol" aria-roledescription="bar" d="M350.71999999999997,199.0h106.56000000000002v41h-106.56000000000002Z" fill="#c1cb35"/>
+<text aria-label="250,261,41,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="256.0" y="48.33800000000001" font-family="Balto" font-size="6.66px" fill="#000" opacity="1">417</text>
+<text aria-label="250,261,145,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="256.0" y="152.58799999999997" font-family="Balto" font-size="6.66px" fill="#000" opacity="1">339</text>
+<text aria-label="104,111,118,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.00000000000001" y="125.588" font-family="Balto" font-size="6.66px" fill="#000" opacity="1">67</text>
+<text aria-label="102,113,135,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.00000000000001" y="142.338" font-family="Balto" font-size="6.66px" fill="#000" opacity="1">380</text>
+<text aria-label="398,409,137,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="404.0" y="144.588" font-family="Balto" font-size="6.66px" fill="#000" opacity="1">207</text>
+<text aria-label="398,409,189,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="404.0" y="196.338" font-family="Balto" font-size="6.66px" fill="#000" opacity="1">164</text>
+</svg>

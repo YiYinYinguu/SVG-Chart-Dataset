@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">ipsa gold</text>
+<path aria-label="failing: 52; Soap online: Mini" role="graphics-symbol" aria-roledescription="arc mark"  d="M218.61733972409496,202.9043771299585A75,75,0,0,0,242.08147538778985,186.9844974559112L211.648096165457,156.6067189145221A32,32,0,0,1,201.63673161561385,163.3992009087823Z" fill="#0cafe7" stroke="white" stroke-width="4"/>
+<path aria-label="failing: 485; Soap online: Rustic" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,1,0,218.61733972409496,202.9043771299585L201.63673161561385,163.3992009087823A32,32,0,1,1,189.0,102.0Z" fill="#afeacc" stroke="white" stroke-width="4"/>
+<path aria-label="failing: 322; Soap online: Hop" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.08147538778985,186.9844974559112A75,75,0,0,0,189.0,59.0L189.0,102.0A32,32,0,0,1,211.648096165457,156.6067189145221Z" fill="#dde4b6" stroke="white" stroke-width="4"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#dde4b6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#0cafe7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#afeacc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hop</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Mini</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rustic</text>
+<text aria-label="5,71,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Soap online</text>
+</svg>

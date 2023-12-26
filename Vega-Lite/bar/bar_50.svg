@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="502" height="298" viewBox="0 0 502 298" style="background-color: rgb(255, 255, 255);">
+<line x1="84.5" y1="39.5" x2="84.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="174.5" y1="39.5" x2="174.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="264.5" y1="39.5" x2="264.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="353.5" y1="39.5" x2="353.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="443.5" y1="39.5" x2="443.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="239.5" x2="497.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="189.5" x2="497.5" y2="189.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="139.5" x2="497.5" y2="139.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="89.5" x2="497.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="39.5" x2="497.5" y2="39.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="76,87,246,274" text-anchor="end" x="84.76923076923077" y="246.5" transform="rotate(270.0, 87.76923076923077, 246.5)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">brown</text>
+<text aria-label="166,177,246,274" text-anchor="end" x="174.3846153846154" y="246.5" transform="rotate(270.0, 177.3846153846154, 246.5)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">class</text>
+<text aria-label="256,267,246,263" text-anchor="end" x="264.0" y="246.5" transform="rotate(270.0, 267.0, 246.5)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">pug</text>
+<text aria-label="345,356,246,290" text-anchor="end" x="353.6153846153846" y="246.5" transform="rotate(270.0, 356.6153846153846, 246.5)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">screw-up</text>
+<text aria-label="435,446,246,274" text-anchor="end" x="443.2307692307692" y="246.5" transform="rotate(270.0, 446.2307692307692, 246.5)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">shirt</text>
+<line aria-label="84,84,239,244" x1="84.5" y1="239.5" x2="84.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="174,174,239,244" x1="174.5" y1="239.5" x2="174.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="264,264,239,244" x1="264.5" y1="239.5" x2="264.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="353,353,239,244" x1="353.5" y1="239.5" x2="353.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="443,443,239,244" x1="443.5" y1="239.5" x2="443.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,497,239,239" x1="31.5" y1="239.5" x2="497.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,96,0,26" text-anchor="start" x="5.4990234375" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Plastic</text>
+<text aria-label="19,24,232,243" text-anchor="end" x="24.5" y="242.5" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="8,24,182,193" text-anchor="end" x="24.5" y="192.5" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="8,24,132,143" text-anchor="end" x="24.5" y="142.5" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="8,24,82,93" text-anchor="end" x="24.5" y="92.5" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="8,24,32,43" text-anchor="end" x="24.5" y="42.5" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="26,31,239,239" x1="31.5" y1="239.5" x2="26.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="26,31,189,189" x1="31.5" y1="189.5" x2="26.5" y2="189.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="26,31,139,139" x1="31.5" y1="139.5" x2="26.5" y2="139.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="26,31,89,89" x1="31.5" y1="89.5" x2="26.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="26,31,39,39" x1="31.5" y1="39.5" x2="26.5" y2="39.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Automated benchmark Optimization: brown; Netherlands Virginia Jewelery: 236; Persistent Western Cotton: East Forges" role="graphics-symbol" aria-roledescription="bar" d="M48.923076923076934,180.0h71.6923076923077v59h-71.6923076923077Z" fill="#0704fa"/>
+<path aria-label="Automated benchmark Optimization: screw-up; Netherlands Virginia Jewelery: 481; Persistent Western Cotton: East Forges" role="graphics-symbol" aria-roledescription="bar" d="M317.7692307692307,118.75000000000001h71.6923076923077v120.24999999999999h-71.6923076923077Z" fill="#0704fa"/>
+<path aria-label="Automated benchmark Optimization: class; Netherlands Virginia Jewelery: 85; Persistent Western Cotton: East Forges" role="graphics-symbol" aria-roledescription="bar" d="M138.53846153846155,217.75h71.6923076923077v21.25h-71.6923076923077Z" fill="#0704fa"/>
+<path aria-label="Automated benchmark Optimization: pug; Netherlands Virginia Jewelery: 75; Persistent Western Cotton: East Forges" role="graphics-symbol" aria-roledescription="bar" d="M228.15384615384616,220.25h71.6923076923077v18.75h-71.6923076923077Z" fill="#0704fa"/>
+<path aria-label="Automated benchmark Optimization: shirt; Netherlands Virginia Jewelery: 731; Persistent Western Cotton: East Forges" role="graphics-symbol" aria-roledescription="bar" d="M407.38461538461536,56.250000000000014h71.6923076923077v182.75h-71.6923076923077Z" fill="#0704fa"/>
+<text aria-label="76,93,166,177" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="84.76923076923077" y="176.01" font-family="sans-serif" font-size="9.985714285714284px" fill="#000" opacity="1">236</text>
+<text aria-label="345,361,104,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="353.6153846153846" y="114.76000000000002" font-family="sans-serif" font-size="9.985714285714284px" fill="#000" opacity="1">481</text>
+<text aria-label="168,179,203,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.3846153846154" y="213.76" font-family="sans-serif" font-size="9.985714285714284px" fill="#000" opacity="1">85</text>
+<text aria-label="258,269,206,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="264.0" y="216.26" font-family="sans-serif" font-size="9.985714285714284px" fill="#000" opacity="1">75</text>
+<text aria-label="434,451,42,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="443.2307692307692" y="52.26000000000001" font-family="sans-serif" font-size="9.985714285714284px" fill="#000" opacity="1">731</text>
+</svg>

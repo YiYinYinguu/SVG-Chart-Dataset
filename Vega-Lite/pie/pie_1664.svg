@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="258" height="286" viewBox="0 0 258 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">sky Outdoors</text>
+<path aria-label="eyeballs: 95; buck cohesive: card" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.6204247021417,245.29201191303787A75,75,0,0,0,174.8966620636432,208.19295188759145L105.0,181.0Z" fill="#fa4fd1" stroke="white" stroke-width="0"/>
+<path aria-label="eyeballs: 315; buck cohesive: incubate" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.19875647889296,175.54344726992926A75,75,0,0,0,143.6204247021417,245.29201191303787L105.0,181.0Z" fill="#958c3e" stroke="white" stroke-width="0"/>
+<path aria-label="eyeballs: 216; buck cohesive: reluctantly" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.19875647889296,175.54344726992926L105.0,181.0Z" fill="#b917fb" stroke="white" stroke-width="0"/>
+<path aria-label="eyeballs: 280; buck cohesive: Planner" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.8966620636432,208.19295188759145A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#fb3a7a" stroke="white" stroke-width="0"/>
+<text aria-label="166,180,230,244" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.8100822188554" y="243.0101076109531" font-family="Balto" font-size="13px" fill="#fa4fd1" opacity="1">95</text>
+<text aria-label="47,68,248,262" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="57.8554455820559" y="261.664144087921" font-family="Balto" font-size="13px" fill="#958c3e" opacity="1">315</text>
+<text aria-label="33,54,106,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="43.719120824059814" y="119.0860117469454" font-family="Balto" font-size="13px" fill="#b917fb" opacity="1">216</text>
+<text aria-label="168,189,121,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.28606465502085" y="134.19074298840752" font-family="Balto" font-size="13px" fill="#fb3a7a" opacity="1">280</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#fb3a7a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M80.0,56.25A5,5,0,1,1,70.0,56.25A5,5,0,1,1,80.0,56.25" fill="#fa4fd1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M128.0,56.25A5,5,0,1,1,118.0,56.25A5,5,0,1,1,128.0,56.25" fill="#958c3e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M197.0,56.25A5,5,0,1,1,187.0,56.25A5,5,0,1,1,197.0,56.25" fill="#b917fb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Planner</text>
+<text aria-label="85,107,49,60" text-anchor="start" x="85.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">card</text>
+<text aria-label="133,177,49,60" text-anchor="start" x="133.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">incubate</text>
+<text aria-label="202,262,49,60" text-anchor="start" x="202.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">reluctantly</text>
+<text aria-label="5,83,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">buck cohesive</text>
+</svg>

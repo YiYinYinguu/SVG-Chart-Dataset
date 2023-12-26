@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Diesel Granite</text>
+<path aria-label="Architect Extended Loan: 173; Ford: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.96604483599629,62.932224637892205A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#0b17fb" stroke="black" stroke-width="4"/>
+<path aria-label="Architect Extended Loan: 764; Ford: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M112.32058857424364,208.6418715127552A75,75,0,0,0,179.94960369534667,136.74898270465226L105.0,134.0Z" fill="#7d17b3" stroke="black" stroke-width="4"/>
+<path aria-label="Architect Extended Loan: 262; Ford: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M76.15225123391298,203.23010465923568A75,75,0,0,0,112.32058857424364,208.6418715127552L105.0,134.0Z" fill="#87ce9c" stroke="black" stroke-width="4"/>
+<path aria-label="Architect Extended Loan: 464; Ford: huzzah" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.70004602793564,78.36804308306056A75,75,0,0,0,30.050396304653333,136.74898270465224L105.0,134.0Z" fill="#58dade" stroke="black" stroke-width="4"/>
+<path aria-label="Architect Extended Loan: 508; Ford: grow" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.050396304653333,136.74898270465224A75,75,0,0,0,63.95714552386558,196.77327533633124L105.0,134.0Z" fill="#bc9ff8" stroke="black" stroke-width="4"/>
+<path aria-label="Architect Extended Loan: 682; Ford: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.94960369534667,136.74898270465226A75,75,0,0,0,128.96604483599629,62.932224637892205L105.0,134.0Z" fill="#a0bf93" stroke="black" stroke-width="4"/>
+<path aria-label="Architect Extended Loan: 98; Ford: green" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.95714552386558,196.77327533633124A75,75,0,0,0,76.15225123391298,203.23010465923568L105.0,134.0Z" fill="#db7a7f" stroke="black" stroke-width="4"/>
+<path aria-label="Architect Extended Loan: 391; Ford: violet" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,54.70004602793564,78.36804308306056L105.0,134.0Z" fill="#7a4e4e" stroke="black" stroke-width="4"/>
+<text aria-label="111,127,38,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.57189522492455" y="48.18750161405309" font-family="serif" font-size="10px" fill="#0b17fb" opacity="1">173</text>
+<text aria-label="162,178,188,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.5538703587352" y="198.66595560753228" font-family="serif" font-size="10px" fill="#7d17b3" opacity="1">764</text>
+<text aria-label="83,99,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="91.68181300984362" y="226.00913377454714" font-family="serif" font-size="10px" fill="#87ce9c" opacity="1">262</text>
+<text aria-label="13,30,91,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.087498587284557" y="101.99261350105581" font-family="serif" font-size="10px" fill="#58dade" opacity="1">464</text>
+<text aria-label="18,34,171,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.638148432450606" y="181.26533879804103" font-family="serif" font-size="10px" fill="#bc9ff8" opacity="1">508</text>
+<text aria-label="170,187,75,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.05375713973325" y="85.85275126177942" font-family="serif" font-size="10px" fill="#a0bf93" opacity="1">682</text>
+<text aria-label="57,68,206,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="62.88706441094345" y="216.53930258728684" font-family="serif" font-size="10px" fill="#db7a7f" opacity="1">98</text>
+<text aria-label="64,80,43,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="72.66001968947306" y="53.011157446273074" font-family="serif" font-size="10px" fill="#7a4e4e" opacity="1">391</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#0b17fb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#a0bf93" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#7d17b3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#87ce9c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#db7a7f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#bc9ff8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#58dade" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#7a4e4e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="239,288,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">green</text>
+<text aria-label="239,261,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">grow</text>
+<text aria-label="239,272,129,140" text-anchor="start" x="239.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">huzzah</text>
+<text aria-label="239,272,145,156" text-anchor="start" x="239.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">violet</text>
+</svg>

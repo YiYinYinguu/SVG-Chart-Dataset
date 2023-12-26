@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="397" height="270" viewBox="0 0 397 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">seize</text>
+<path aria-label="Fantastic Northwest: 312; brr: primary" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.45871956618315,232.57266509268143A75,75,0,0,0,155.73230103830736,220.237972730347L105.0,165.0Z" fill="#9e9c3a" stroke="black" stroke-width="0"/>
+<path aria-label="Fantastic Northwest: 74; brr: Hafnium" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.12509751151163,203.8969390715918A75,75,0,0,0,177.42896753239978,184.46906937145636L105.0,165.0Z" fill="#647ce1" stroke="black" stroke-width="0"/>
+<path aria-label="Fantastic Northwest: 198; brr: secondary" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.960102528856154,191.821870968142A75,75,0,0,0,72.45871956618315,232.57266509268143L105.0,165.0Z" fill="#f1aa6b" stroke="black" stroke-width="0"/>
+<path aria-label="Fantastic Northwest: 74; brr: Personal" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.73230103830736,220.237972730347A75,75,0,0,0,169.12509751151163,203.8969390715918L105.0,165.0Z" fill="#dcfd49" stroke="black" stroke-width="0"/>
+<path aria-label="Fantastic Northwest: 507; brr: sequi" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,34.960102528856154,191.821870968142L105.0,165.0Z" fill="#7b339b" stroke="black" stroke-width="0"/>
+<path aria-label="Fantastic Northwest: 480; brr: Creative" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.42896753239978,184.46906937145636A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#3c98fb" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#3c98fb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,40.25A5,5,0,1,1,72.0,40.25A5,5,0,1,1,82.0,40.25" fill="#647ce1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M151.0,40.25A5,5,0,1,1,141.0,40.25A5,5,0,1,1,151.0,40.25" fill="#dcfd49" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M219.0,40.25A5,5,0,1,1,209.0,40.25A5,5,0,1,1,219.0,40.25" fill="#9e9c3a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M284.0,40.25A5,5,0,1,1,274.0,40.25A5,5,0,1,1,284.0,40.25" fill="#f1aa6b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M361.0,40.25A5,5,0,1,1,351.0,40.25A5,5,0,1,1,361.0,40.25" fill="#7b339b" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Creative</text>
+<text aria-label="87,125,33,44" text-anchor="start" x="87.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Hafnium</text>
+<text aria-label="156,200,33,44" text-anchor="start" x="156.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Personal</text>
+<text aria-label="224,262,33,44" text-anchor="start" x="224.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">primary</text>
+<text aria-label="289,338,33,44" text-anchor="start" x="289.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">secondary</text>
+<text aria-label="366,393,33,44" text-anchor="start" x="366.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">sequi</text>
+</svg>

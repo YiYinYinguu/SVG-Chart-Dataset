@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="880" height="334" viewBox="0 0 880 334" style="background-color: rgb(255, 255, 255);">
+<line x1="121.5" y1="79.5" x2="121.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="256.5" y1="79.5" x2="256.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="390.5" y1="79.5" x2="390.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="525.5" y1="79.5" x2="525.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="659.5" y1="79.5" x2="659.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="794.5" y1="79.5" x2="794.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="279.5" x2="875.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="250.5" x2="875.5" y2="250.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="222.5" x2="875.5" y2="222.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="193.5" x2="875.5" y2="193.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="165.5" x2="875.5" y2="165.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="136.5" x2="875.5" y2="136.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="108.5" x2="875.5" y2="108.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="79.5" x2="875.5" y2="79.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="113,124,286,314" text-anchor="end" x="121.70967741935488" y="286.5" transform="rotate(270.0, 124.70967741935488, 286.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">alpha</text>
+<text aria-label="248,259,286,319" text-anchor="end" x="256.2258064516129" y="286.5" transform="rotate(270.0, 259.2258064516129, 286.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">creche</text>
+<text aria-label="382,393,286,308" text-anchor="end" x="390.741935483871" y="286.5" transform="rotate(270.0, 393.741935483871, 286.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">foot</text>
+<text aria-label="517,528,286,319" text-anchor="end" x="525.258064516129" y="286.5" transform="rotate(270.0, 528.258064516129, 286.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">genius</text>
+<text aria-label="651,662,286,336" text-anchor="end" x="659.7741935483871" y="286.5" transform="rotate(270.0, 662.7741935483871, 286.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">potential</text>
+<text aria-label="786,797,286,325" text-anchor="end" x="794.2903225806451" y="286.5" transform="rotate(270.0, 797.2903225806451, 286.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">vitamin</text>
+<line aria-label="121,121,279,284" x1="121.5" y1="279.5" x2="121.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="256,256,279,284" x1="256.5" y1="279.5" x2="256.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="390,390,279,284" x1="390.5" y1="279.5" x2="390.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="525,525,279,284" x1="525.5" y1="279.5" x2="525.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="659,659,279,284" x1="659.5" y1="279.5" x2="659.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="794,794,279,284" x1="794.5" y1="279.5" x2="794.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,875,279,279" x1="41.5" y1="279.5" x2="875.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="810,875,0,26" text-anchor="end" x="875.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Smart</text>
+<text aria-label="34,39,272,283" text-anchor="end" x="39.5" y="282.5" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="23,39,243,254" text-anchor="end" x="39.5" y="253.92857142857144" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="23,39,215,226" text-anchor="end" x="39.5" y="225.35714285714286" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="23,39,186,197" text-anchor="end" x="39.5" y="196.78571428571428" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="23,39,158,169" text-anchor="end" x="39.5" y="168.21428571428572" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="23,39,129,140" text-anchor="end" x="39.5" y="139.64285714285714" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="23,39,101,112" text-anchor="end" x="39.5" y="111.07142857142858" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="23,39,72,83" text-anchor="end" x="39.5" y="82.5" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">700</text>
+<text aria-label="2,14,131,227" text-anchor="middle" x="16.9990234375" y="179.5" transform="rotate(-90.0, 14.9990234375, 179.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Male Copper upon</text>
+<line aria-label="41,41,79,279" x1="41.5" y1="279.5" x2="41.5" y2="79.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="North yahoo: genius; Male Copper upon: 206; Applications neural: Bicycle unabashedly" role="graphics-symbol" aria-roledescription="bar" d="M471.4516129032258,220.14285714285714h107.61290322580645v58.85714285714286h-107.61290322580645Z" fill="#1a8ea0"/>
+<path aria-label="North yahoo: creche; Male Copper upon: 651; Applications neural: Bicycle unabashedly" role="graphics-symbol" aria-roledescription="bar" d="M202.4193548387097,92.99999999999999h107.61290322580645v186h-107.61290322580645Z" fill="#1a8ea0"/>
+<path aria-label="North yahoo: alpha; Male Copper upon: 452; Applications neural: Bicycle unabashedly" role="graphics-symbol" aria-roledescription="bar" d="M67.90322580645164,149.85714285714286h107.61290322580645v129.14285714285714h-107.61290322580645Z" fill="#1a8ea0"/>
+<path aria-label="North yahoo: foot; Male Copper upon: 356; Applications neural: Bicycle unabashedly" role="graphics-symbol" aria-roledescription="bar" d="M336.93548387096774,177.28571428571428h107.61290322580645v101.71428571428571h-107.61290322580645Z" fill="#1a8ea0"/>
+<path aria-label="North yahoo: vitamin; Male Copper upon: 352; Applications neural: Bicycle unabashedly" role="graphics-symbol" aria-roledescription="bar" d="M740.483870967742,178.42857142857142h107.61290322580645v100.57142857142858h-107.61290322580645Z" fill="#1a8ea0"/>
+<path aria-label="North yahoo: potential; Male Copper upon: 433; Applications neural: Bicycle unabashedly" role="graphics-symbol" aria-roledescription="bar" d="M605.9677419354839,155.28571428571428h107.61290322580645v123.71428571428571h-107.61290322580645Z" fill="#1a8ea0"/>
+<text aria-label="511,539,194,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="525.258064516129" y="212.63285714285715" font-family="sans-serif" font-size="17.87142857142857px" fill="#000" opacity="1">206</text>
+<text aria-label="242,270,67,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="256.2258064516129" y="85.49" font-family="sans-serif" font-size="17.87142857142857px" fill="#000" opacity="1">651</text>
+<text aria-label="107,135,124,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.70967741935488" y="142.34714285714287" font-family="sans-serif" font-size="17.87142857142857px" fill="#000" opacity="1">452</text>
+<text aria-label="376,404,151,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="390.741935483871" y="169.7757142857143" font-family="sans-serif" font-size="17.87142857142857px" fill="#000" opacity="1">356</text>
+<text aria-label="780,808,153,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="794.2903225806451" y="170.91857142857143" font-family="sans-serif" font-size="17.87142857142857px" fill="#000" opacity="1">352</text>
+<text aria-label="645,673,129,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="659.7741935483871" y="147.7757142857143" font-family="sans-serif" font-size="17.87142857142857px" fill="#000" opacity="1">433</text>
+<path  d="M42.0,51.0h10v10h-10Z" fill="#1a8ea0" stroke-width="1.5" opacity="1"/>
+<text aria-label="57,161,49,60" text-anchor="start" x="57.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bicycle unabashedly</text>
+<text aria-label="41,155,32,44" text-anchor="start" x="41.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Applications neural</text>
+</svg>

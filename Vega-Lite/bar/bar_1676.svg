@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="663" height="308" viewBox="0 0 663 308" style="background-color: rgb(255, 255, 255);">
+<line x1="135.5" y1="40.5" x2="135.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="280.5" y1="40.5" x2="280.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="425.5" y1="40.5" x2="425.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="570.5" y1="40.5" x2="570.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="240.5" x2="658.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="207.5" x2="658.5" y2="207.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="173.5" x2="658.5" y2="173.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="140.5" x2="658.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="107.5" x2="658.5" y2="107.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="73.5" x2="658.5" y2="73.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="40.5" x2="658.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="126,139,247,299" text-anchor="end" x="135.14285714285714" y="247.5" transform="rotate(270.0, 139.14285714285714, 247.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">antibody</text>
+<text aria-label="271,284,247,299" text-anchor="end" x="280.3809523809524" y="247.5" transform="rotate(270.0, 284.3809523809524, 247.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">clavicle</text>
+<text aria-label="416,429,247,273" text-anchor="end" x="425.6190476190476" y="247.5" transform="rotate(270.0, 429.6190476190476, 247.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">feed</text>
+<text aria-label="561,574,247,299" text-anchor="end" x="570.8571428571429" y="247.5" transform="rotate(270.0, 574.8571428571429, 247.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">transfer</text>
+<line aria-label="135,135,240,245" x1="135.5" y1="240.5" x2="135.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="280,280,240,245" x1="280.5" y1="240.5" x2="280.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="425,425,240,245" x1="425.5" y1="240.5" x2="425.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="570,570,240,245" x1="570.5" y1="240.5" x2="570.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,658,240,240" x1="48.5" y1="240.5" x2="658.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="567,658,0,26" text-anchor="end" x="658.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Factors</text>
+<text aria-label="35,41,232,245" text-anchor="end" x="41.5" y="244.5" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="28,41,199,212" text-anchor="end" x="41.5" y="211.16666666666669" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="28,41,165,178" text-anchor="end" x="41.5" y="177.83333333333334" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="28,41,132,145" text-anchor="end" x="41.5" y="144.5" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="28,41,99,112" text-anchor="end" x="41.5" y="111.16666666666667" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">80</text>
+<text aria-label="22,41,65,78" text-anchor="end" x="41.5" y="77.83333333333333" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="22,41,32,45" text-anchor="end" x="41.5" y="44.5" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">120</text>
+<line aria-label="43,48,240,240" x1="48.5" y1="240.5" x2="43.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,207,207" x1="48.5" y1="207.5" x2="43.5" y2="207.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,173,173" x1="48.5" y1="173.5" x2="43.5" y2="173.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,140,140" x1="48.5" y1="140.5" x2="43.5" y2="140.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,107,107" x1="48.5" y1="107.5" x2="43.5" y2="107.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,73,73" x1="48.5" y1="73.5" x2="43.5" y2="73.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,40,40" x1="48.5" y1="40.5" x2="43.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,110,170" text-anchor="middle" x="16.5" y="140.5" transform="rotate(-90.0, 14.5, 140.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">seize East</text>
+<line aria-label="48,48,40,240" x1="48.5" y1="240.5" x2="48.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="24/7: transfer; seize East: 93; Hybrid: Sahara uniform" role="graphics-symbol" aria-roledescription="bar" d="M512.7619047619048,85.0h58.0952380952381v155h-58.0952380952381Z" fill="#ef3e63"/>
+<path aria-label="24/7: transfer; seize East: 84; Hybrid: Zambia Soft Southeast" role="graphics-symbol" aria-roledescription="bar" d="M570.8571428571429,100.0h58.0952380952381v140h-58.0952380952381Z" fill="#88e1ed"/>
+<path aria-label="24/7: feed; seize East: 44; Hybrid: Sahara uniform" role="graphics-symbol" aria-roledescription="bar" d="M367.5238095238095,166.66666666666666h58.0952380952381v73.33333333333334h-58.0952380952381Z" fill="#ef3e63"/>
+<path aria-label="24/7: feed; seize East: 99; Hybrid: Zambia Soft Southeast" role="graphics-symbol" aria-roledescription="bar" d="M425.6190476190476,75.0h58.0952380952381v165h-58.0952380952381Z" fill="#88e1ed"/>
+<path aria-label="24/7: antibody; seize East: 74; Hybrid: Sahara uniform" role="graphics-symbol" aria-roledescription="bar" d="M77.04761904761904,116.66666666666666h58.0952380952381v123.33333333333334h-58.0952380952381Z" fill="#ef3e63"/>
+<path aria-label="24/7: antibody; seize East: 111; Hybrid: Zambia Soft Southeast" role="graphics-symbol" aria-roledescription="bar" d="M135.14285714285714,54.99999999999999h58.0952380952381v185h-58.0952380952381Z" fill="#88e1ed"/>
+<path aria-label="24/7: clavicle; seize East: 89; Hybrid: Sahara uniform" role="graphics-symbol" aria-roledescription="bar" d="M222.28571428571428,91.66666666666666h58.0952380952381v148.33333333333334h-58.0952380952381Z" fill="#ef3e63"/>
+<path aria-label="24/7: clavicle; seize East: 98; Hybrid: Zambia Soft Southeast" role="graphics-symbol" aria-roledescription="bar" d="M280.3809523809524,76.66666666666667h58.0952380952381v163.33333333333331h-58.0952380952381Z" fill="#88e1ed"/>
+<text aria-label="534,548,66,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="541.8095238095239" y="79.85" font-family="serif" font-size="13.07142857142857px" fill="#000" opacity="1">93</text>
+<text aria-label="592,606,81,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="599.9047619047619" y="94.85000000000001" font-family="serif" font-size="13.07142857142857px" fill="#000" opacity="1">84</text>
+<text aria-label="389,403,148,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="396.57142857142856" y="161.51666666666665" font-family="serif" font-size="13.07142857142857px" fill="#000" opacity="1">44</text>
+<text aria-label="447,461,56,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="454.6666666666667" y="69.85000000000001" font-family="serif" font-size="13.07142857142857px" fill="#000" opacity="1">99</text>
+<text aria-label="99,113,98,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.09523809523809" y="111.51666666666665" font-family="serif" font-size="13.07142857142857px" fill="#000" opacity="1">74</text>
+<text aria-label="153,174,36,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.1904761904762" y="49.849999999999994" font-family="serif" font-size="13.07142857142857px" fill="#000" opacity="1">111</text>
+<text aria-label="244,258,73,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="251.33333333333331" y="86.51666666666665" font-family="serif" font-size="13.07142857142857px" fill="#000" opacity="1">89</text>
+<text aria-label="302,316,58,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="309.42857142857144" y="71.51666666666668" font-family="serif" font-size="13.07142857142857px" fill="#000" opacity="1">98</text>
+</svg>

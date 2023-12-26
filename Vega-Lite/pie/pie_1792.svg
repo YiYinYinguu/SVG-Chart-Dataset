@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="455" height="286" viewBox="0 0 455 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="268,450,0,26" text-anchor="end" x="450.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cambridgeshire</text>
+<path aria-label="Baby: 651; Metal Hendersonville: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.99651551823504,100.2884751395774A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#3edaaf" stroke="black" stroke-width="3"/>
+<path aria-label="Baby: 330; Metal Hendersonville: Potassium" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.67067094058035,141.0207479148285A75,75,0,0,0,171.99651551823504,100.2884751395774L105.0,134.0Z" fill="#9a78ba" stroke="black" stroke-width="3"/>
+<path aria-label="Baby: 716; Metal Hendersonville: maroon" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.003569569356642,133.26827418955563A75,75,0,0,0,78.18280693345619,204.0416887005997L105.0,134.0Z" fill="#4ed9ba" stroke="black" stroke-width="3"/>
+<path aria-label="Baby: 427; Metal Hendersonville: Rockford" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.26119818682588,188.7475073446359A75,75,0,0,0,179.67067094058035,141.0207479148285L105.0,134.0Z" fill="#85ebac" stroke="black" stroke-width="3"/>
+<path aria-label="Baby: 632; Metal Hendersonville: redundant" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.79088127227803,67.77826672143671A75,75,0,0,0,30.003569569356642,133.26827418955563L105.0,134.0Z" fill="#8f0eda" stroke="black" stroke-width="3"/>
+<path aria-label="Baby: 659; Metal Hendersonville: SMS" role="graphics-symbol" aria-roledescription="arc mark"  d="M78.18280693345619,204.0416887005997A75,75,0,0,0,156.26119818682588,188.7475073446359L105.0,134.0Z" fill="#36ee0f" stroke="black" stroke-width="3"/>
+<path aria-label="Baby: 288; Metal Hendersonville: satisfied" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,69.79088127227803,67.77826672143671L105.0,134.0Z" fill="#1c0b1c" stroke="black" stroke-width="3"/>
+<text aria-label="146,158,52,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.21840380124237" y="59.38131858050009" font-family="avenir" font-size="7px" fill="#3edaaf" opacity="1">651</text>
+<text aria-label="187,199,112,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.44396822426006" y="119.33673247090843" font-family="avenir" font-size="7px" fill="#9a78ba" opacity="1">330</text>
+<text aria-label="24,36,179,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="30.602685214959138" y="186.6462195309338" font-family="avenir" font-size="7px" fill="#4ed9ba" opacity="1">716</text>
+<text aria-label="179,191,168,176" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.80349325328353" y="175.63326226878837" font-family="avenir" font-size="7px" fill="#85ebac" opacity="1">427</text>
+<text aria-label="22,34,82,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="28.082424039432865" y="89.27006838919635" font-family="avenir" font-size="7px" fill="#8f0eda" opacity="1">632</text>
+<text aria-label="116,128,217,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.30062695629887" y="224.32150534789918" font-family="avenir" font-size="7px" fill="#36ee0f" opacity="1">659</text>
+<text aria-label="77,89,41,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="83.22785258736323" y="48.67317939463035" font-family="avenir" font-size="7px" fill="#1c0b1c" opacity="1">288</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#3edaaf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,274.25A5,5,0,1,1,58.0,274.25A5,5,0,1,1,68.0,274.25" fill="#9a78ba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M144.0,274.25A5,5,0,1,1,134.0,274.25A5,5,0,1,1,144.0,274.25" fill="#85ebac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M214.0,274.25A5,5,0,1,1,204.0,274.25A5,5,0,1,1,214.0,274.25" fill="#36ee0f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M263.0,274.25A5,5,0,1,1,253.0,274.25A5,5,0,1,1,263.0,274.25" fill="#4ed9ba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M328.0,274.25A5,5,0,1,1,318.0,274.25A5,5,0,1,1,328.0,274.25" fill="#8f0eda" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M405.0,274.25A5,5,0,1,1,395.0,274.25A5,5,0,1,1,405.0,274.25" fill="#1c0b1c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="73,122,267,278" text-anchor="start" x="73.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Potassium</text>
+<text aria-label="149,193,267,278" text-anchor="start" x="149.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rockford</text>
+<text aria-label="219,235,267,278" text-anchor="start" x="219.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">SMS</text>
+<text aria-label="268,301,267,278" text-anchor="start" x="268.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">maroon</text>
+<text aria-label="333,382,267,278" text-anchor="start" x="333.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">redundant</text>
+<text aria-label="410,459,267,278" text-anchor="start" x="410.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">satisfied</text>
+<text aria-label="5,125,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Metal Hendersonville</text>
+</svg>

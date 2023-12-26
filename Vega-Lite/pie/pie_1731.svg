@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="341" height="286" viewBox="0 0 341 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="258,336,0,26" text-anchor="end" x="336.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">female</text>
+<path aria-label="Direct synthesizing: 82; pixel: smoothly" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.817418168190258,122.95714924637426A75,75,0,0,0,110.74119396273719,208.77993508878052L107.44957609076786,165.9061056378797A32,32,0,0,1,73.34876508509451,129.28838367845302Z" fill="#f27f2e" stroke="black" stroke-width="2"/>
+<path aria-label="Direct synthesizing: 10; pixel: Latin" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.90902869362247,137.69288778302905A75,75,0,0,0,178.92306740282743,121.33587327301905L136.54050875853972,128.5966392631548A32,32,0,0,1,136.9611855759456,135.57563212075905Z" fill="#c5bf89" stroke="black" stroke-width="2"/>
+<path aria-label="Direct synthesizing: 64; pixel: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.92306740282743,121.33587327301905A75,75,0,0,0,105.0,59.0L105.0,102.0A32,32,0,0,1,136.54050875853972,128.5966392631548Z" fill="#e36a8a" stroke="black" stroke-width="2"/>
+<path aria-label="Direct synthesizing: 65; pixel: system" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.817418168190258,122.95714924637426L73.34876508509451,129.28838367845302A32,32,0,0,1,105.0,102.0Z" fill="#837ff8" stroke="black" stroke-width="2"/>
+<path aria-label="Direct synthesizing: 54; pixel: odio" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.74119396273719,208.77993508878052A75,75,0,0,0,176.3798067101007,157.0200606869022L135.45538419630964,143.82189255974495A32,32,0,0,1,107.44957609076786,165.9061056378797Z" fill="#dcca71" stroke="black" stroke-width="2"/>
+<path aria-label="Direct synthesizing: 12; pixel: Sleek" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.3798067101007,157.0200606869022A75,75,0,0,0,179.90902869362247,137.69288778302905L136.9611855759456,135.57563212075905A32,32,0,0,1,135.45538419630964,143.82189255974495Z" fill="#ccf6fd" stroke="black" stroke-width="2"/>
+<text aria-label="32,46,186,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="39.13712205232227" y="199.33580771824325" font-family="monospace" font-size="13px" fill="#f27f2e" opacity="1">82</text>
+<text aria-label="187,201,119,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.83694179329396" y="132.58484633382272" font-family="monospace" font-size="13px" fill="#c5bf89" opacity="1">10</text>
+<text aria-label="156,170,56,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.01842083979042" y="69.19692707983914" font-family="monospace" font-size="13px" fill="#e36a8a" opacity="1">64</text>
+<text aria-label="39,53,56,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="46.23192993381346" y="69.8361243715134" font-family="monospace" font-size="13px" fill="#837ff8" opacity="1">65</text>
+<text aria-label="153,167,195,209" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.72812578434795" y="208.6708992200035" font-family="monospace" font-size="13px" fill="#dcca71" opacity="1">54</text>
+<text aria-label="186,200,141,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.53601906254977" y="154.16704452136577" font-family="monospace" font-size="13px" fill="#ccf6fd" opacity="1">12</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#e36a8a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#c5bf89" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,274.25A5,5,0,1,1,125.0,274.25A5,5,0,1,1,135.0,274.25" fill="#ccf6fd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,274.25A5,5,0,1,1,177.0,274.25A5,5,0,1,1,187.0,274.25" fill="#dcca71" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,274.25A5,5,0,1,1,224.0,274.25A5,5,0,1,1,234.0,274.25" fill="#f27f2e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M301.0,274.25A5,5,0,1,1,291.0,274.25A5,5,0,1,1,301.0,274.25" fill="#837ff8" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="88,115,267,278" text-anchor="start" x="88.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Latin</text>
+<text aria-label="140,167,267,278" text-anchor="start" x="140.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Sleek</text>
+<text aria-label="192,214,267,278" text-anchor="start" x="192.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">odio</text>
+<text aria-label="239,283,267,278" text-anchor="start" x="239.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">smoothly</text>
+<text aria-label="306,339,267,278" text-anchor="start" x="306.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">system</text>
+<text aria-label="5,35,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">pixel</text>
+</svg>

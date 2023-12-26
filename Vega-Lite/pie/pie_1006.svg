@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="130,247,0,26" text-anchor="middle" x="189.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">calculate</text>
+<path aria-label="atop Malta backing: 215; Gasoline: to" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,130.52968161284917,87.02956389700847L189.0,134.0Z" fill="#91ae4d" stroke="white" stroke-width="4"/>
+<path aria-label="atop Malta backing: 209; Gasoline: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M246.28034040837147,85.58551247094434A75,75,0,0,0,189.0,59.0L189.0,134.0Z" fill="#c74e2b" stroke="white" stroke-width="4"/>
+<path aria-label="atop Malta backing: 239; Gasoline: Francium" role="graphics-symbol" aria-roledescription="arc mark"  d="M260.8226563899328,155.59875063733202A75,75,0,0,0,246.28034040837147,85.58551247094434L189.0,134.0Z" fill="#d590eb" stroke="white" stroke-width="4"/>
+<path aria-label="atop Malta backing: 306; Gasoline: intranet" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.46780527041423,208.9985410406694A75,75,0,0,0,260.8226563899328,155.59875063733202L189.0,134.0Z" fill="#89cace" stroke="white" stroke-width="4"/>
+<path aria-label="atop Malta backing: 246; Gasoline: now" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.22164577480581,173.4629133785844A75,75,0,0,0,189.46780527041423,208.9985410406694L189.0,134.0Z" fill="#ee23df" stroke="white" stroke-width="4"/>
+<path aria-label="atop Malta backing: 296; Gasoline: redundant" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.52968161284917,87.02956389700847A75,75,0,0,0,125.22164577480581,173.4629133785844L189.0,134.0Z" fill="#3deb66" stroke="white" stroke-width="4"/>
+<text aria-label="141,158,45,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.09503308781183" y="55.84333946273084" font-family="Balto" font-size="10px" fill="#91ae4d" opacity="1">215</text>
+<text aria-label="218,235,45,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="226.8895457010373" y="55.36433177483629" font-family="Balto" font-size="10px" fill="#c74e2b" opacity="1">209</text>
+<text aria-label="268,285,108,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="277.1192228081062" y="118.69692452904869" font-family="Balto" font-size="10px" fill="#d590eb" opacity="1">239</text>
+<text aria-label="234,251,199,210" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="242.92477581211742" y="209.05635678837" font-family="Balto" font-size="10px" fill="#89cace" opacity="1">306</text>
+<text aria-label="137,153,205,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.4389816553169" y="215.75555650729783" font-family="Balto" font-size="10px" fill="#ee23df" opacity="1">246</text>
+<text aria-label="90,107,121,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.16923539838682" y="131.48332245916447" font-family="Balto" font-size="10px" fill="#3deb66" opacity="1">296</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#c74e2b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#d590eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#89cace" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#ee23df" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#3deb66" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#91ae4d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Francium</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">intranet</text>
+<text aria-label="21,37,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">now</text>
+<text aria-label="21,70,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">redundant</text>
+<text aria-label="21,32,129,140" text-anchor="start" x="21.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">to</text>
+<text aria-label="5,53,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Gasoline</text>
+</svg>

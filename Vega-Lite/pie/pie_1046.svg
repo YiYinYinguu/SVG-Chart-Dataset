@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="321" height="239" viewBox="0 0 321 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="79,131,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">mole</text>
+<path aria-label="Officer: 67; Senior content if: Porsche" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.01161077381153,183.87684290853863A75,75,0,0,0,174.64155288672805,106.16020633113345L140.28505346260886,119.89450454110761A38,38,0,0,1,133.37921612539785,159.27093374032626Z" fill="#a4fbeb" stroke="white" stroke-width="0"/>
+<path aria-label="Officer: 139; Senior content if: Xenogender" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.501805023477132,142.66134777271893A75,75,0,0,0,161.01161077381153,183.87684290853863L133.37921612539785,159.27093374032626A38,38,0,0,1,67.25424787856176,138.38841620484425Z" fill="#edbc48" stroke="white" stroke-width="0"/>
+<path aria-label="Officer: 72; Senior content if: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.64155288672805,106.16020633113345A75,75,0,0,0,105.0,59.0L105.0,96.0A38,38,0,0,1,140.28505346260886,119.89450454110761Z" fill="#a456e2" stroke="white" stroke-width="0"/>
+<path aria-label="Officer: 75; Senior content if: plunk" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.61842357461299,66.3506577400281A75,75,0,0,0,30.501805023477132,142.66134777271893L67.25424787856176,138.38841620484425A38,38,0,0,1,88.59333461113725,99.72433325494757Z" fill="#b7a2d0" stroke="white" stroke-width="0"/>
+<path aria-label="Officer: 27; Senior content if: until" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,72.61842357461299,66.3506577400281L88.59333461113725,99.72433325494757A38,38,0,0,1,105.0,96.0Z" fill="#20b175" stroke="white" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#a456e2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#a4fbeb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#edbc48" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#b7a2d0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#20b175" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Porsche</text>
+<text aria-label="239,294,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Xenogender</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">plunk</text>
+<text aria-label="239,266,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">until</text>
+<text aria-label="223,325,32,44" text-anchor="start" x="223.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Senior content if</text>
+</svg>

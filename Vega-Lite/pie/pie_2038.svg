@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="287" height="239" viewBox="0 0 287 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="191,282,0,26" text-anchor="end" x="282.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cruiser</text>
+<path aria-label="black: 76; Electronic: Lempira" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.6167880318277,205.18460032239923A75,75,0,0,0,174.1897241258246,162.94446536718695L105.0,134.0Z" fill="#ecc2cd" stroke="white" stroke-width="3"/>
+<path aria-label="black: 129; Electronic: provided" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.546834442645945,124.95974898085075L105.0,134.0Z" fill="#e43ee5" stroke="white" stroke-width="3"/>
+<path aria-label="black: 107; Electronic: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M47.08275307350815,181.65073460562564A75,75,0,0,0,128.6167880318277,205.18460032239923L105.0,134.0Z" fill="#6f6bdf" stroke="white" stroke-width="3"/>
+<path aria-label="black: 75; Electronic: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.55007314299593,125.79715937165942A75,75,0,0,0,148.46784509730944,72.88088316576955L105.0,134.0Z" fill="#58660d" stroke="white" stroke-width="3"/>
+<path aria-label="black: 45; Electronic: Illinois" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.1897241258246,162.94446536718695A75,75,0,0,0,179.55007314299593,125.79715937165942L105.0,134.0Z" fill="#fd3ecf" stroke="white" stroke-width="3"/>
+<path aria-label="black: 2; Electronic: drive" role="graphics-symbol" aria-roledescription="arc mark"  d="M46.02628421835055,180.336819559668A75,75,0,0,0,47.08275307350815,181.65073460562564L105.0,134.0Z" fill="#b3d435" stroke="white" stroke-width="3"/>
+<path aria-label="black: 55; Electronic: Blues" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.46784509730944,72.88088316576955A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#a22b7c" stroke="white" stroke-width="3"/>
+<path aria-label="black: 70; Electronic: grey" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.546834442645945,124.95974898085075A75,75,0,0,0,46.02628421835055,180.336819559668L105.0,134.0Z" fill="#bacd8f" stroke="white" stroke-width="3"/>
+<text aria-label="159,173,191,205" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="166.1802253343765" y="204.007424037262" font-family="Balto" font-size="13px" fill="#ecc2cd" opacity="1">76</text>
+<text aria-label="34,55,57,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.3189607583284" y="70.63403266460092" font-family="Balto" font-size="13px" fill="#e43ee5" opacity="1">129</text>
+<text aria-label="69,90,211,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="80.04141122287794" y="224.47004594803056" font-family="Balto" font-size="13px" fill="#6f6bdf" opacity="1">107</text>
+<text aria-label="175,189,79,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.60289989928492" y="92.41721896130551" font-family="Balto" font-size="13px" fill="#58660d" opacity="1">75</text>
+<text aria-label="187,201,137,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.0773742213954" y="150.85384774382692" font-family="Balto" font-size="13px" fill="#fd3ecf" opacity="1">45</text>
+<text aria-label="31,38,181,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.8609917890888" y="194.39609496401087" font-family="Balto" font-size="13px" fill="#b3d435" opacity="1">2</text>
+<text aria-label="125,139,39,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="132.3782338902924" y="52.2653377620904" font-family="Balto" font-size="13px" fill="#a22b7c" opacity="1">55</text>
+<text aria-label="11,25,149,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.322627292310145" y="162.228765145839" font-family="Balto" font-size="13px" fill="#bacd8f" opacity="1">70</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#a22b7c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#58660d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#fd3ecf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#ecc2cd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#6f6bdf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#b3d435" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#bacd8f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#e43ee5" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Blues</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="239,283,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Illinois</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Lempira</text>
+<text aria-label="239,266,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">drive</text>
+<text aria-label="239,261,145,156" text-anchor="start" x="239.0" y="155.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">grey</text>
+<text aria-label="239,283,161,172" text-anchor="start" x="239.0" y="171.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">provided</text>
+<text aria-label="223,283,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Electronic</text>
+</svg>

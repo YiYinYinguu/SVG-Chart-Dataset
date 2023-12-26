@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="311" height="239" viewBox="0 0 311 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="124,306,0,26" text-anchor="end" x="306.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">District parse</text>
+<path aria-label="payment: 146; tightly without: THX" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.62219203601796,199.58700395456134A75,75,0,0,0,262.9733102674148,182.77542329055578L240.94363029734774,163.91559295154087A46,46,0,0,1,183.688277782091,174.22669575879763Z" fill="#833abb" stroke="white" stroke-width="0"/>
+<path aria-label="payment: 44; tightly without: siemens" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.3738400935972,179.49418704423766A75,75,0,0,0,169.62219203601796,199.58700395456134L183.688277782091,174.22669575879763A46,46,0,0,1,169.42928859073962,161.90310138713244Z" fill="#aad8b6" stroke="white" stroke-width="0"/>
+<path aria-label="payment: 16; tightly without: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M262.9733102674148,182.77542329055578A75,75,0,0,0,269.62430492778566,173.71080233961723L245.0229070223752,158.35595876829856A46,46,0,0,1,240.94363029734774,163.91559295154087Z" fill="#3c22d7" stroke="white" stroke-width="0"/>
+<path aria-label="payment: 237; tightly without: vertical" role="graphics-symbol" aria-roledescription="arc mark"  d="M206.0,59.0A75,75,0,0,0,146.3738400935972,179.49418704423766L169.42928859073962,161.90310138713244A46,46,0,0,1,206.0,88.0Z" fill="#b3014d" stroke="white" stroke-width="0"/>
+<path aria-label="payment: 227; tightly without: Missouri" role="graphics-symbol" aria-roledescription="arc mark"  d="M269.62430492778566,173.71080233961723A75,75,0,0,0,206.0,59.0L206.0,88.0A46,46,0,0,1,245.0229070223752,158.35595876829856Z" fill="#e248fe" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#e248fe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#3c22d7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#833abb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#aad8b6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#b3014d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Missouri</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">THX</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">siemens</text>
+<text aria-label="21,65,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">vertical</text>
+<text aria-label="5,95,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">tightly without</text>
+</svg>

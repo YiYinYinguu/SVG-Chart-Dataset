@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Table</text>
+<path aria-label="greedily: 418; withdrawal oof DRAM: cyan" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.33867609077726,183.13750474794324A75,75,0,0,0,194.59087528425545,208.79132378528877L192.056345155393,174.8859236692912A41,41,0,0,1,158.0251429296249,160.86183592887565Z" fill="#c3fabe" stroke="black" stroke-width="0"/>
+<path aria-label="greedily: 33; withdrawal oof DRAM: since" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.36263881489776,87.238264860595A75,75,0,0,0,127.08703633996325,91.67051936497487L155.15424653251324,110.85988391951959A41,41,0,0,1,156.94490921881078,108.43691812379194Z" fill="#8badfa" stroke="black" stroke-width="0"/>
+<path aria-label="greedily: 289; withdrawal oof DRAM: interfaces" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.48178831473987,101.34588707644315A75,75,0,0,0,115.39563628871839,148.40130697740213L148.7629478378327,141.87271448097982A41,41,0,0,1,152.09004427872446,116.14908493512226Z" fill="#ccc5ac" stroke="black" stroke-width="0"/>
+<path aria-label="greedily: 403; withdrawal oof DRAM: television" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,130.36263881489776,87.238264860595L156.94490921881078,108.43691812379194A41,41,0,0,1,189.0,93.0Z" fill="#c3bcbc" stroke="black" stroke-width="0"/>
+<path aria-label="greedily: 698; withdrawal oof DRAM: Computer" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.9902219690343,132.78896365249832A75,75,0,0,0,189.0,59.0L189.0,93.0A41,41,0,0,1,229.9946546764054,133.33796679669908Z" fill="#cbcbef" stroke="black" stroke-width="0"/>
+<path aria-label="greedily: 234; withdrawal oof DRAM: host" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.39563628871839,148.40130697740213A75,75,0,0,0,132.33867609077726,183.13750474794324L158.0251429296249,160.86183592887565A41,41,0,0,1,148.7629478378327,141.87271448097982Z" fill="#cb9635" stroke="black" stroke-width="0"/>
+<path aria-label="greedily: 67; withdrawal oof DRAM: silver" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.08703633996325,91.67051936497487A75,75,0,0,0,121.48178831473987,101.34588707644315L152.09004427872446,116.14908493512226A41,41,0,0,1,155.15424653251324,110.85988391951959Z" fill="#f3be1b" stroke="black" stroke-width="0"/>
+<path aria-label="greedily: 679; withdrawal oof DRAM: Dinar" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.59087528425545,208.79132378528877A75,75,0,0,0,263.9902219690343,132.78896365249832L229.9946546764054,133.33796679669908A41,41,0,0,1,192.056345155393,174.8859236692912Z" fill="#0b8c11" stroke="black" stroke-width="0"/>
+<text aria-label="143,165,207,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="154.7090202032041" y="221.21134961395433" font-family="monospace" font-size="14px" fill="#c3fabe" opacity="1">418</text>
+<text aria-label="109,124,70,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="116.62093360581635" y="84.50915267163592" font-family="monospace" font-size="14px" fill="#8badfa" opacity="1">33</text>
+<text aria-label="88,110,112,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.7434832726543" y="126.45555450872332" font-family="monospace" font-size="14px" fill="#ccc5ac" opacity="1">289</text>
+<text aria-label="138,161,42,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="149.95046347941974" y="56.91280188878228" font-family="monospace" font-size="14px" fill="#c3bcbc" opacity="1">403</text>
+<text aria-label="240,263,59,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="252.12372008393444" y="73.84864800516601" font-family="monospace" font-size="14px" fill="#cbcbef" opacity="1">698</text>
+<text aria-label="96,119,163,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.109512237551" y="177.45540507399576" font-family="monospace" font-size="14px" fill="#cb9635" opacity="1">234</text>
+<text aria-label="103,118,78,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.12461826108228" y="92.88431626343407" font-family="monospace" font-size="14px" fill="#f3be1b" opacity="1">67</text>
+<text aria-label="244,266,184,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="255.46113084282769" y="198.68705040692402" font-family="monospace" font-size="14px" fill="#0b8c11" opacity="1">679</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#cbcbef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#0b8c11" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#c3fabe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#cb9635" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#ccc5ac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#f3be1b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#8badfa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#c3bcbc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Computer</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Dinar</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">cyan</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">host</text>
+<text aria-label="21,76,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">interfaces</text>
+<text aria-label="21,54,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">silver</text>
+<text aria-label="21,48,129,140" text-anchor="start" x="21.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">since</text>
+<text aria-label="21,76,145,156" text-anchor="start" x="21.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">television</text>
+</svg>

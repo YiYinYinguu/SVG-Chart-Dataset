@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="514" height="286" viewBox="0 0 514 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Scandium</text>
+<path aria-label="Gleason: 371; minus Fresh Ergonomic: orange" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,55.813460166333364,77.38123721599769L105.0,134.0Z" fill="#d6239a" stroke="white" stroke-width="0"/>
+<path aria-label="Gleason: 112; minus Fresh Ergonomic: laparoscope" role="graphics-symbol" aria-roledescription="arc mark"  d="M55.813460166333364,77.38123721599769A75,75,0,0,0,44.82477422207277,89.23458698307942L105.0,134.0Z" fill="#bbdbde" stroke="white" stroke-width="0"/>
+<path aria-label="Gleason: 621; minus Fresh Ergonomic: 24/365" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.8281016281984,106.63147386134946A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#15ae8d" stroke="white" stroke-width="0"/>
+<path aria-label="Gleason: 830; minus Fresh Ergonomic: extensible" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.82477422207277,89.23458698307942A75,75,0,0,0,62.02290407731179,195.46518710662204L105.0,134.0Z" fill="#8f6b20" stroke="white" stroke-width="0"/>
+<path aria-label="Gleason: 82; minus Fresh Ergonomic: Tenge" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.0358236280391,163.3096410076664A75,75,0,0,0,177.7892489540548,152.07554250097715L105.0,134.0Z" fill="#0509fe" stroke="white" stroke-width="0"/>
+<path aria-label="Gleason: 85; minus Fresh Ergonomic: breakdown" role="graphics-symbol" aria-roledescription="arc mark"  d="M62.02290407731179,195.46518710662204A75,75,0,0,0,72.62631790782594,201.65312045866656L105.0,134.0Z" fill="#c3910c" stroke="white" stroke-width="0"/>
+<path aria-label="Gleason: 838; minus Fresh Ergonomic: as" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.62631790782594,201.65312045866656A75,75,0,0,0,174.0358236280391,163.3096410076664L105.0,134.0Z" fill="#10fc78" stroke="white" stroke-width="0"/>
+<path aria-label="Gleason: 320; minus Fresh Ergonomic: Brand" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.7892489540548,152.07554250097715A75,75,0,0,0,174.8281016281984,106.63147386134946L105.0,134.0Z" fill="#14f799" stroke="white" stroke-width="0"/>
+<text aria-label="67,79,44,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="73.49465426845984" y="51.69452455305098" font-family="avenir" font-size="7px" fill="#d6239a" opacity="1">371</text>
+<text aria-label="32,44,67,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="38.9986427092673" y="74.81322989582596" font-family="avenir" font-size="7px" fill="#bbdbde" opacity="1">112</text>
+<text aria-label="149,161,54,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.71587116981104" y="61.65014854428337" font-family="avenir" font-size="7px" fill="#15ae8d" opacity="1">621</text>
+<text aria-label="10,22,143,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.156749975359986" y="150.38321678413078" font-family="avenir" font-size="7px" fill="#8f6b20" opacity="1">830</text>
+<text aria-label="186,194,157,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.36158518667935" y="164.52016434765562" font-family="avenir" font-size="7px" fill="#0509fe" opacity="1">82</text>
+<text aria-label="55,63,206,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="59.63734028982446" y="213.7317766683537" font-family="avenir" font-size="7px" fill="#c3910c" opacity="1">85</text>
+<text aria-label="130,142,213,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="136.83018400552888" y="220.1833676338395" font-family="avenir" font-size="7px" fill="#10fc78" opacity="1">838</text>
+<text aria-label="188,200,123,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.80954260091085" y="130.14798685791143" font-family="avenir" font-size="7px" fill="#14f799" opacity="1">320</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#15ae8d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M77.0,274.25A5,5,0,1,1,67.0,274.25A5,5,0,1,1,77.0,274.25" fill="#14f799" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M133.0,274.25A5,5,0,1,1,123.0,274.25A5,5,0,1,1,133.0,274.25" fill="#0509fe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M189.0,274.25A5,5,0,1,1,179.0,274.25A5,5,0,1,1,189.0,274.25" fill="#10fc78" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M227.0,274.25A5,5,0,1,1,217.0,274.25A5,5,0,1,1,227.0,274.25" fill="#c3910c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M308.0,274.25A5,5,0,1,1,298.0,274.25A5,5,0,1,1,308.0,274.25" fill="#8f6b20" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M384.0,274.25A5,5,0,1,1,374.0,274.25A5,5,0,1,1,384.0,274.25" fill="#bbdbde" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M470.0,274.25A5,5,0,1,1,460.0,274.25A5,5,0,1,1,470.0,274.25" fill="#d6239a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">24/365</text>
+<text aria-label="82,109,267,278" text-anchor="start" x="82.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Brand</text>
+<text aria-label="138,165,267,278" text-anchor="start" x="138.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Tenge</text>
+<text aria-label="194,205,267,278" text-anchor="start" x="194.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">as</text>
+<text aria-label="232,281,267,278" text-anchor="start" x="232.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">breakdown</text>
+<text aria-label="313,368,267,278" text-anchor="start" x="313.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">extensible</text>
+<text aria-label="389,449,267,278" text-anchor="start" x="389.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">laparoscope</text>
+<text aria-label="475,508,267,278" text-anchor="start" x="475.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">orange</text>
+<text aria-label="5,131,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">minus Fresh Ergonomic</text>
+</svg>

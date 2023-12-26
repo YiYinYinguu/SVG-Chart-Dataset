@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="326" height="239" viewBox="0 0 326 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,31,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">aw</text>
+<path aria-label="collate XSS: 277; Tuna: codling" role="graphics-symbol" aria-roledescription="arc mark"  d="M77.28511267944322,64.30864457618262A75,75,0,0,0,33.47292262610651,156.55830672610546L105.0,134.0Z" fill="#4f85bc" stroke="black" stroke-width="0"/>
+<path aria-label="collate XSS: 263; Tuna: Ohio" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.35629971142664,193.5117855887965A75,75,0,0,0,157.0928946985334,187.95674491597424L105.0,134.0Z" fill="#290dbf" stroke="black" stroke-width="0"/>
+<path aria-label="collate XSS: 70; Tuna: soon" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,77.28511267944322,64.30864457618262L105.0,134.0Z" fill="#308ddb" stroke="black" stroke-width="0"/>
+<path aria-label="collate XSS: 182; Tuna: Buckinghamshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.45861798728208,92.47987187978867A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#a613d0" stroke="black" stroke-width="0"/>
+<path aria-label="collate XSS: 257; Tuna: Cadillac" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.0928946985334,187.95674491597424A75,75,0,0,0,167.45861798728208,92.47987187978867L105.0,134.0Z" fill="#97db6a" stroke="black" stroke-width="0"/>
+<path aria-label="collate XSS: 113; Tuna: administration" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.47292262610651,156.55830672610546A75,75,0,0,0,59.35629971142664,193.5117855887965L105.0,134.0Z" fill="#b3d831" stroke="black" stroke-width="0"/>
+<text aria-label="16,31,89,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="23.70283903881885" y="98.38948822338915" font-family="sans-serif" font-size="9px" fill="#4f85bc" opacity="1">277</text>
+<text aria-label="102,117,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.10707457837665" y="226.85498199460562" font-family="sans-serif" font-size="9px" fill="#290dbf" opacity="1">263</text>
+<text aria-label="83,93,39,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="88.0687623868229" y="48.60693922662176" font-family="sans-serif" font-size="9px" fill="#308ddb" opacity="1">70</text>
+<text aria-label="140,155,48,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.51956116317038" y="57.677324058681606" font-family="sans-serif" font-size="9px" fill="#a613d0" opacity="1">182</text>
+<text aria-label="186,201,137,147" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.47422893557405" y="146.7140288441244" font-family="sans-serif" font-size="9px" fill="#97db6a" opacity="1">257</text>
+<text aria-label="23,38,179,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="31.28407047516984" y="188.63295201990945" font-family="sans-serif" font-size="9px" fill="#b3d831" opacity="1">113</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#a613d0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#97db6a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#290dbf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#b3d831" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#4f85bc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#308ddb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,321,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Buckinghamshire</text>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cadillac</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Ohio</text>
+<text aria-label="239,316,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">administration</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">codling</text>
+<text aria-label="239,261,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">soon</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="977" height="352" viewBox="0 0 977 352" style="background-color: rgb(255, 255, 255);">
+<line x1="153.5" y1="69.5" x2="153.5" y2="269.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="380.5" y1="69.5" x2="380.5" y2="269.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="608.5" y1="69.5" x2="608.5" y2="269.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="835.5" y1="69.5" x2="835.5" y2="269.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="17.5" y1="269.5" x2="972.5" y2="269.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="17.5" y1="225.5" x2="972.5" y2="225.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="17.5" y1="180.5" x2="972.5" y2="180.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="17.5" y1="136.5" x2="972.5" y2="136.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="17.5" y1="91.5" x2="972.5" y2="91.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="141,158,276,319" text-anchor="end" x="153.42857142857144" y="276.5" transform="rotate(270.0, 158.42857142857144, 276.5)" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">alias</text>
+<text aria-label="368,385,276,344" text-anchor="end" x="380.80952380952385" y="276.5" transform="rotate(270.0, 385.80952380952385, 276.5)" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">popsicle</text>
+<text aria-label="596,613,276,310" text-anchor="end" x="608.1904761904761" y="276.5" transform="rotate(270.0, 613.1904761904761, 276.5)" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">shoe</text>
+<text aria-label="823,840,276,353" text-anchor="end" x="835.5714285714286" y="276.5" transform="rotate(270.0, 840.5714285714286, 276.5)" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">tradition</text>
+<line aria-label="153,153,269,274" x1="153.5" y1="269.5" x2="153.5" y2="274.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="380,380,269,274" x1="380.5" y1="269.5" x2="380.5" y2="274.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="608,608,269,274" x1="608.5" y1="269.5" x2="608.5" y2="274.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="835,835,269,274" x1="835.5" y1="269.5" x2="835.5" y2="274.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="17,972,269,269" x1="17.5" y1="269.5" x2="972.5" y2="269.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="384,605,0,26" text-anchor="middle" x="494.5" y="25.945000000000007" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">rhubarb Southwest</text>
+<text aria-label="7,15,258,275" text-anchor="end" x="15.5" y="274.5" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="7,15,214,231" text-anchor="end" x="15.5" y="230.05555555555557" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">2</text>
+<text aria-label="7,15,169,186" text-anchor="end" x="15.5" y="185.61111111111111" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">4</text>
+<text aria-label="7,15,125,142" text-anchor="end" x="15.5" y="141.16666666666669" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">6</text>
+<text aria-label="7,15,80,97" text-anchor="end" x="15.5" y="96.72222222222223" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">8</text>
+<path aria-label="Gasoline: popsicle; enterprise: 4; Diesel but: chasm" role="graphics-symbol" aria-roledescription="bar" d="M380.80952380952385,180.11111111111111h90.95238095238096v88.88888888888889h-90.95238095238096Z" fill="#61eeac"/>
+<path aria-label="Gasoline: popsicle; enterprise: 2; Diesel but: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M289.8571428571429,224.55555555555557h90.95238095238096v44.44444444444443h-90.95238095238096Z" fill="#b5ba6e"/>
+<path aria-label="Gasoline: tradition; enterprise: 7; Diesel but: chasm" role="graphics-symbol" aria-roledescription="bar" d="M835.5714285714286,113.44444444444444h90.95238095238096v155.55555555555554h-90.95238095238096Z" fill="#61eeac"/>
+<path aria-label="Gasoline: tradition; enterprise: 3; Diesel but: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M744.6190476190476,202.33333333333334h90.95238095238096v66.66666666666666h-90.95238095238096Z" fill="#b5ba6e"/>
+<path aria-label="Gasoline: shoe; enterprise: 9; Diesel but: chasm" role="graphics-symbol" aria-roledescription="bar" d="M608.1904761904761,69.0h90.95238095238096v200h-90.95238095238096Z" fill="#61eeac"/>
+<path aria-label="Gasoline: shoe; enterprise: 5; Diesel but: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M517.2380952380952,157.88888888888889h90.95238095238096v111.11111111111111h-90.95238095238096Z" fill="#b5ba6e"/>
+<path aria-label="Gasoline: alias; enterprise: 1; Diesel but: chasm" role="graphics-symbol" aria-roledescription="bar" d="M153.42857142857144,246.77777777777777h90.95238095238096v22.22222222222223h-90.95238095238096Z" fill="#61eeac"/>
+<path aria-label="Gasoline: alias; enterprise: 6; Diesel but: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M62.47619047619048,135.66666666666669h90.95238095238096v133.33333333333331h-90.95238095238096Z" fill="#b5ba6e"/>
+<text aria-label="418,433,140,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="426.28571428571433" y="169.05611111111114" font-family="Balto" font-size="28.65px" fill="#000" opacity="1">4</text>
+<text aria-label="327,342,184,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="335.33333333333337" y="213.50055555555556" font-family="Balto" font-size="28.65px" fill="#000" opacity="1">2</text>
+<text aria-label="873,888,73,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="881.047619047619" y="102.38944444444445" font-family="Balto" font-size="28.65px" fill="#000" opacity="1">7</text>
+<text aria-label="782,797,162,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="790.0952380952381" y="191.27833333333336" font-family="Balto" font-size="28.65px" fill="#000" opacity="1">3</text>
+<text aria-label="646,661,29,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="653.6666666666667" y="57.94500000000001" font-family="Balto" font-size="28.65px" fill="#000" opacity="1">9</text>
+<text aria-label="555,570,118,147" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="562.7142857142858" y="146.8338888888889" font-family="Balto" font-size="28.65px" fill="#000" opacity="1">5</text>
+<text aria-label="191,206,207,236" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="198.90476190476193" y="235.72277777777776" font-family="Balto" font-size="28.65px" fill="#000" opacity="1">1</text>
+<text aria-label="100,115,95,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.95238095238096" y="124.61166666666668" font-family="Balto" font-size="28.65px" fill="#000" opacity="1">6</text>
+</svg>

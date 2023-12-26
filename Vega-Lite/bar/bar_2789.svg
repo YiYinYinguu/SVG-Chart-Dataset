@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="494" height="284" viewBox="0 0 494 284" style="background-color: rgb(255, 255, 255);">
+<text aria-label="75,86,241,274" text-anchor="end" x="83.00000000000001" y="241.5" transform="rotate(270.0, 86.00000000000001, 241.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">cobweb</text>
+<text aria-label="191,202,241,263" text-anchor="end" x="199.0" y="241.5" transform="rotate(270.0, 202.0, 241.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">glee</text>
+<text aria-label="307,318,241,274" text-anchor="end" x="315.0" y="241.5" transform="rotate(270.0, 318.0, 241.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">spouse</text>
+<text aria-label="423,434,241,258" text-anchor="end" x="431.0" y="241.5" transform="rotate(270.0, 434.0, 241.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">toy</text>
+<line aria-label="83,83,234,239" x1="83.5" y1="234.5" x2="83.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="199,199,234,239" x1="199.5" y1="234.5" x2="199.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="315,315,234,239" x1="315.5" y1="234.5" x2="315.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="431,431,234,239" x1="431.5" y1="234.5" x2="431.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,489,234,234" x1="25.5" y1="234.5" x2="489.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="218,296,0,26" text-anchor="middle" x="257.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Pickup</text>
+<text aria-label="18,23,227,238" text-anchor="end" x="23.5" y="237.5" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="12,23,191,202" text-anchor="end" x="23.5" y="201.78571428571428" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="7,23,156,167" text-anchor="end" x="23.5" y="166.07142857142856" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="7,23,120,131" text-anchor="end" x="23.5" y="130.35714285714286" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="7,23,84,95" text-anchor="end" x="23.5" y="94.64285714285714" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="7,23,48,59" text-anchor="end" x="23.5" y="58.928571428571416" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">250</text>
+<path aria-label="Awesome: toy; Handmade Rupiah: 278; Orange Consultant Marco: JSON payment Kroon" role="graphics-symbol" aria-roledescription="bar" d="M389.24,35.42857142857142h83.52000000000001v198.57142857142858h-83.52000000000001Z" fill="#a17993"/>
+<path aria-label="Awesome: glee; Handmade Rupiah: 192; Orange Consultant Marco: JSON payment Kroon" role="graphics-symbol" aria-roledescription="bar" d="M157.24,96.85714285714286h83.52000000000001v137.14285714285714h-83.52000000000001Z" fill="#a17993"/>
+<path aria-label="Awesome: cobweb; Handmade Rupiah: 260; Orange Consultant Marco: JSON payment Kroon" role="graphics-symbol" aria-roledescription="bar" d="M41.24000000000001,48.28571428571428h83.52000000000001v185.71428571428572h-83.52000000000001Z" fill="#a17993"/>
+<path aria-label="Awesome: spouse; Handmade Rupiah: 247; Orange Consultant Marco: JSON payment Kroon" role="graphics-symbol" aria-roledescription="bar" d="M273.24,57.57142857142858h83.52000000000001v176.42857142857142h-83.52000000000001Z" fill="#a17993"/>
+</svg>

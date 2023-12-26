@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="335" height="286" viewBox="0 0 335 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">payment Dirham</text>
+<path aria-label="red North: 147; Wagon North: Passenger" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.26928678674744,79.69591810509806A75,75,0,0,0,30.129375357464014,129.59664155030694L65.06900019064747,131.6515421601637A40,40,0,0,1,77.4102862862653,105.03782298938563Z" fill="#4018f3" stroke="white" stroke-width="0"/>
+<path aria-label="red North: 429; Wagon North: Latin" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.3591238153824,208.80828692017616A75,75,0,0,0,162.73962094708253,86.13418575969663L135.79446450511068,108.47156573850486A40,40,0,0,1,107.85819936820394,173.89775302409396Z" fill="#b1f9ba" stroke="white" stroke-width="0"/>
+<path aria-label="red North: 333; Wagon North: Maserati" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.129375357464014,129.59664155030694A75,75,0,0,0,110.3591238153824,208.80828692017616L107.85819936820394,173.89775302409396A40,40,0,0,1,65.06900019064747,131.6515421601637Z" fill="#1dad8a" stroke="white" stroke-width="0"/>
+<path aria-label="red North: 172; Wagon North: Canadian" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.73962094708253,86.13418575969663A75,75,0,0,0,105.0,59.0L105.0,94.0A40,40,0,0,1,135.79446450511068,108.47156573850486Z" fill="#deb581" stroke="white" stroke-width="0"/>
+<path aria-label="red North: 149; Wagon North: Wooden" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,53.26928678674744,79.69591810509806L77.4102862862653,105.03782298938563A40,40,0,0,1,104.99999999999999,94.0Z" fill="#f0d1e2" stroke="white" stroke-width="0"/>
+<text aria-label="12,33,87,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="23.35152701364791" y="100.13805526657492" font-family="sans-serif" font-size="13px" fill="#4018f3" opacity="1">147</text>
+<text aria-label="177,198,160,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.77040054878853" y="173.34205417053604" font-family="sans-serif" font-size="13px" fill="#b1f9ba" opacity="1">429</text>
+<text aria-label="31,52,189,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="41.7680455513171" y="202.0446714145657" font-family="sans-serif" font-size="13px" fill="#1dad8a" opacity="1">333</text>
+<text aria-label="132,153,43,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.27853224750942" y="56.54600090249477" font-family="sans-serif" font-size="13px" fill="#deb581" opacity="1">172</text>
+<text aria-label="61,82,41,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="71.56978047222404" y="54.4391214603107" font-family="sans-serif" font-size="13px" fill="#f0d1e2" opacity="1">149</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#deb581" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,274.25A5,5,0,1,1,78.0,274.25A5,5,0,1,1,88.0,274.25" fill="#b1f9ba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,274.25A5,5,0,1,1,129.0,274.25A5,5,0,1,1,139.0,274.25" fill="#1dad8a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M208.0,274.25A5,5,0,1,1,198.0,274.25A5,5,0,1,1,208.0,274.25" fill="#4018f3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M284.0,274.25A5,5,0,1,1,274.0,274.25A5,5,0,1,1,284.0,274.25" fill="#f0d1e2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Canadian</text>
+<text aria-label="93,120,267,278" text-anchor="start" x="93.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Latin</text>
+<text aria-label="144,188,267,278" text-anchor="start" x="144.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Maserati</text>
+<text aria-label="213,262,267,278" text-anchor="start" x="213.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Passenger</text>
+<text aria-label="289,322,267,278" text-anchor="start" x="289.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Wooden</text>
+<text aria-label="5,71,250,262" text-anchor="start" x="5.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Wagon North</text>
+</svg>

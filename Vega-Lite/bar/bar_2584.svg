@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1035" height="331" viewBox="0 0 1035 331" style="background-color: rgb(255, 255, 255);">
+<text aria-label="251,265,247,275" text-anchor="end" x="261.05882352941177" y="247.5" transform="rotate(270.0, 265.05882352941177, 247.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">base</text>
+<text aria-label="331,345,247,289" text-anchor="end" x="341.156862745098" y="247.5" transform="rotate(270.0, 345.156862745098, 247.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">bottom</text>
+<text aria-label="411,425,247,275" text-anchor="end" x="421.2549019607843" y="247.5" transform="rotate(270.0, 425.2549019607843, 247.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">dump</text>
+<text aria-label="491,505,247,296" text-anchor="end" x="501.35294117647055" y="247.5" transform="rotate(270.0, 505.35294117647055, 247.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">emanate</text>
+<text aria-label="571,585,247,282" text-anchor="end" x="581.4509803921569" y="247.5" transform="rotate(270.0, 585.4509803921569, 247.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">flood</text>
+<text aria-label="651,665,247,275" text-anchor="end" x="661.5490196078431" y="247.5" transform="rotate(270.0, 665.5490196078431, 247.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">geek</text>
+<text aria-label="731,745,247,289" text-anchor="end" x="741.6470588235294" y="247.5" transform="rotate(270.0, 745.6470588235294, 247.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">liquor</text>
+<text aria-label="811,825,247,324" text-anchor="end" x="821.7450980392156" y="247.5" transform="rotate(270.0, 825.7450980392156, 247.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">monasticism</text>
+<text aria-label="891,905,247,275" text-anchor="end" x="901.8431372549019" y="247.5" transform="rotate(270.0, 905.8431372549019, 247.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">noun</text>
+<text aria-label="971,985,247,268" text-anchor="end" x="981.9411764705882" y="247.5" transform="rotate(270.0, 985.9411764705882, 247.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">sky</text>
+<line aria-label="261,261,240,245" x1="261.5" y1="240.5" x2="261.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="341,341,240,245" x1="341.5" y1="240.5" x2="341.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="421,421,240,245" x1="421.5" y1="240.5" x2="421.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="501,501,240,245" x1="501.5" y1="240.5" x2="501.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="581,581,240,245" x1="581.5" y1="240.5" x2="581.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="661,661,240,245" x1="661.5" y1="240.5" x2="661.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="741,741,240,245" x1="741.5" y1="240.5" x2="741.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="821,821,240,245" x1="821.5" y1="240.5" x2="821.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="901,901,240,245" x1="901.5" y1="240.5" x2="901.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="981,981,240,245" x1="981.5" y1="240.5" x2="981.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="213,1030,240,240" x1="213.5" y1="240.5" x2="1030.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="576,667,0,26" text-anchor="middle" x="621.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Georgia</text>
+<text aria-label="204,211,231,245" text-anchor="end" x="211.5" y="244.5" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="190,211,181,195" text-anchor="end" x="211.5" y="194.5" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="190,211,131,145" text-anchor="end" x="211.5" y="144.5" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="190,211,81,95" text-anchor="end" x="211.5" y="94.5" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="190,211,31,45" text-anchor="end" x="211.5" y="44.5" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="169,181,128,152" text-anchor="middle" x="183.44873046875" y="140.5" transform="rotate(-90.0, 181.44873046875, 140.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">pish</text>
+<path aria-label="Nebraska: bottom; pish: 246; Antillian Gasoline splendid: Northwest Operations" role="graphics-symbol" aria-roledescription="bar" d="M309.11764705882354,178.5h21.359477124183005v61.5h-21.359477124183005Z" fill="#cc4fc4"/>
+<path aria-label="Nebraska: bottom; pish: 661; Antillian Gasoline splendid: knottily World Health" role="graphics-symbol" aria-roledescription="bar" d="M351.83660130718954,74.75h21.359477124183005v165.25h-21.359477124183005Z" fill="#fd80db"/>
+<path aria-label="Nebraska: bottom; pish: 743; Antillian Gasoline splendid: Northwest Unbranded" role="graphics-symbol" aria-roledescription="bar" d="M330.4771241830065,54.25000000000001h21.359477124183005v185.75h-21.359477124183005Z" fill="#da87b8"/>
+<path aria-label="Nebraska: monasticism; pish: 39; Antillian Gasoline splendid: Northwest Operations" role="graphics-symbol" aria-roledescription="bar" d="M789.7058823529411,230.25h21.359477124183005v9.75h-21.359477124183005Z" fill="#cc4fc4"/>
+<path aria-label="Nebraska: monasticism; pish: 396; Antillian Gasoline splendid: knottily World Health" role="graphics-symbol" aria-roledescription="bar" d="M832.4248366013071,141.0h21.359477124183005v99h-21.359477124183005Z" fill="#fd80db"/>
+<path aria-label="Nebraska: monasticism; pish: 280; Antillian Gasoline splendid: Northwest Unbranded" role="graphics-symbol" aria-roledescription="bar" d="M811.0653594771242,170.0h21.359477124183005v70h-21.359477124183005Z" fill="#da87b8"/>
+<path aria-label="Nebraska: base; pish: 175; Antillian Gasoline splendid: Northwest Operations" role="graphics-symbol" aria-roledescription="bar" d="M229.01960784313724,196.25h21.359477124183005v43.75h-21.359477124183005Z" fill="#cc4fc4"/>
+<path aria-label="Nebraska: base; pish: 774; Antillian Gasoline splendid: knottily World Health" role="graphics-symbol" aria-roledescription="bar" d="M271.73856209150324,46.49999999999999h21.359477124183005v193.5h-21.359477124183005Z" fill="#fd80db"/>
+<path aria-label="Nebraska: base; pish: 176; Antillian Gasoline splendid: Northwest Unbranded" role="graphics-symbol" aria-roledescription="bar" d="M250.37908496732024,196.0h21.359477124183005v44h-21.359477124183005Z" fill="#da87b8"/>
+<path aria-label="Nebraska: geek; pish: 430; Antillian Gasoline splendid: Northwest Operations" role="graphics-symbol" aria-roledescription="bar" d="M629.5098039215686,132.5h21.359477124183005v107.5h-21.359477124183005Z" fill="#cc4fc4"/>
+<path aria-label="Nebraska: geek; pish: 98; Antillian Gasoline splendid: knottily World Health" role="graphics-symbol" aria-roledescription="bar" d="M672.2287581699346,215.5h21.359477124183005v24.5h-21.359477124183005Z" fill="#fd80db"/>
+<path aria-label="Nebraska: geek; pish: 37; Antillian Gasoline splendid: Northwest Unbranded" role="graphics-symbol" aria-roledescription="bar" d="M650.8692810457517,230.75h21.359477124183005v9.25h-21.359477124183005Z" fill="#da87b8"/>
+<path aria-label="Nebraska: flood; pish: 345; Antillian Gasoline splendid: Northwest Operations" role="graphics-symbol" aria-roledescription="bar" d="M549.4117647058823,153.75h21.359477124183005v86.25h-21.359477124183005Z" fill="#cc4fc4"/>
+<path aria-label="Nebraska: flood; pish: 353; Antillian Gasoline splendid: knottily World Health" role="graphics-symbol" aria-roledescription="bar" d="M592.1307189542483,151.75h21.359477124183005v88.24999999999999h-21.359477124183005Z" fill="#fd80db"/>
+<path aria-label="Nebraska: flood; pish: 141; Antillian Gasoline splendid: Northwest Unbranded" role="graphics-symbol" aria-roledescription="bar" d="M570.7712418300653,204.75h21.359477124183005v35.25h-21.359477124183005Z" fill="#da87b8"/>
+<path aria-label="Nebraska: liquor; pish: 85; Antillian Gasoline splendid: Northwest Operations" role="graphics-symbol" aria-roledescription="bar" d="M709.6078431372548,218.75h21.359477124183005v21.25h-21.359477124183005Z" fill="#cc4fc4"/>
+<path aria-label="Nebraska: liquor; pish: 574; Antillian Gasoline splendid: knottily World Health" role="graphics-symbol" aria-roledescription="bar" d="M752.3267973856209,96.5h21.359477124183005v143.5h-21.359477124183005Z" fill="#fd80db"/>
+<path aria-label="Nebraska: liquor; pish: 354; Antillian Gasoline splendid: Northwest Unbranded" role="graphics-symbol" aria-roledescription="bar" d="M730.9673202614379,151.5h21.359477124183005v88.5h-21.359477124183005Z" fill="#da87b8"/>
+<path aria-label="Nebraska: noun; pish: 650; Antillian Gasoline splendid: Northwest Operations" role="graphics-symbol" aria-roledescription="bar" d="M869.8039215686274,77.5h21.359477124183005v162.5h-21.359477124183005Z" fill="#cc4fc4"/>
+<path aria-label="Nebraska: noun; pish: 650; Antillian Gasoline splendid: knottily World Health" role="graphics-symbol" aria-roledescription="bar" d="M912.5228758169934,77.5h21.359477124183005v162.5h-21.359477124183005Z" fill="#fd80db"/>
+<path aria-label="Nebraska: noun; pish: 503; Antillian Gasoline splendid: Northwest Unbranded" role="graphics-symbol" aria-roledescription="bar" d="M891.1633986928105,114.25h21.359477124183005v125.75h-21.359477124183005Z" fill="#da87b8"/>
+<path aria-label="Nebraska: sky; pish: 119; Antillian Gasoline splendid: Northwest Operations" role="graphics-symbol" aria-roledescription="bar" d="M949.9019607843137,210.25h21.359477124183005v29.75h-21.359477124183005Z" fill="#cc4fc4"/>
+<path aria-label="Nebraska: sky; pish: 181; Antillian Gasoline splendid: knottily World Health" role="graphics-symbol" aria-roledescription="bar" d="M992.6209150326797,194.75h21.359477124183005v45.25h-21.359477124183005Z" fill="#fd80db"/>
+<path aria-label="Nebraska: sky; pish: 63; Antillian Gasoline splendid: Northwest Unbranded" role="graphics-symbol" aria-roledescription="bar" d="M971.2614379084968,224.25h21.359477124183005v15.75h-21.359477124183005Z" fill="#da87b8"/>
+<path aria-label="Nebraska: emanate; pish: 593; Antillian Gasoline splendid: Northwest Operations" role="graphics-symbol" aria-roledescription="bar" d="M469.313725490196,91.75h21.359477124183005v148.25h-21.359477124183005Z" fill="#cc4fc4"/>
+<path aria-label="Nebraska: emanate; pish: 524; Antillian Gasoline splendid: knottily World Health" role="graphics-symbol" aria-roledescription="bar" d="M512.032679738562,109.0h21.359477124183005v131h-21.359477124183005Z" fill="#fd80db"/>
+<path aria-label="Nebraska: emanate; pish: 671; Antillian Gasoline splendid: Northwest Unbranded" role="graphics-symbol" aria-roledescription="bar" d="M490.673202614379,72.25h21.359477124183005v167.75h-21.359477124183005Z" fill="#da87b8"/>
+<path aria-label="Nebraska: dump; pish: 143; Antillian Gasoline splendid: Northwest Operations" role="graphics-symbol" aria-roledescription="bar" d="M389.2156862745098,204.25h21.359477124183005v35.75h-21.359477124183005Z" fill="#cc4fc4"/>
+<path aria-label="Nebraska: dump; pish: 611; Antillian Gasoline splendid: knottily World Health" role="graphics-symbol" aria-roledescription="bar" d="M431.9346405228758,87.25h21.359477124183005v152.75h-21.359477124183005Z" fill="#fd80db"/>
+<path aria-label="Nebraska: dump; pish: 73; Antillian Gasoline splendid: Northwest Unbranded" role="graphics-symbol" aria-roledescription="bar" d="M410.5751633986928,221.75h21.359477124183005v18.25h-21.359477124183005Z" fill="#da87b8"/>
+<path  d="M6.0,57.0h10v10h-10Z" fill="#cc4fc4" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,70.0h10v10h-10Z" fill="#fd80db" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,83.0h10v10h-10Z" fill="#da87b8" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,131,55,66" text-anchor="start" x="21.0" y="65.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northwest Operations</text>
+<text aria-label="21,136,68,79" text-anchor="start" x="21.0" y="78.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">knottily World Health</text>
+<text aria-label="21,125,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northwest Unbranded</text>
+<text aria-label="5,167,38,50" text-anchor="start" x="5.0" y="49.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Antillian Gasoline splendid</text>
+</svg>

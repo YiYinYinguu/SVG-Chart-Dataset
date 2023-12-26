@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="962" height="329" viewBox="0 0 962 329" style="background-color: rgb(255, 255, 255);">
+<line x1="89.5" y1="56.5" x2="89.5" y2="256.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="188.5" y1="56.5" x2="188.5" y2="256.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="286.5" y1="56.5" x2="286.5" y2="256.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="385.5" y1="56.5" x2="385.5" y2="256.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="484.5" y1="56.5" x2="484.5" y2="256.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="583.5" y1="56.5" x2="583.5" y2="256.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="681.5" y1="56.5" x2="681.5" y2="256.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="780.5" y1="56.5" x2="780.5" y2="256.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="256.5" x2="840.5" y2="256.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="220.5" x2="840.5" y2="220.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="183.5" x2="840.5" y2="183.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="147.5" x2="840.5" y2="147.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="111.5" x2="840.5" y2="111.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="30.5" y1="74.5" x2="840.5" y2="74.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="79,93,263,291" text-anchor="end" x="89.26829268292678" y="263.5" transform="rotate(270.0, 93.26829268292678, 263.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">boss</text>
+<text aria-label="178,192,263,298" text-anchor="end" x="188.04878048780483" y="263.5" transform="rotate(270.0, 192.04878048780483, 263.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">crush</text>
+<text aria-label="276,290,263,319" text-anchor="end" x="286.8292682926829" y="263.5" transform="rotate(270.0, 290.8292682926829, 263.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">daughter</text>
+<text aria-label="375,389,263,291" text-anchor="end" x="385.60975609756093" y="263.5" transform="rotate(270.0, 389.60975609756093, 263.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">duck</text>
+<text aria-label="474,488,263,298" text-anchor="end" x="484.390243902439" y="263.5" transform="rotate(270.0, 488.390243902439, 263.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">feast</text>
+<text aria-label="573,587,263,319" text-anchor="end" x="583.1707317073171" y="263.5" transform="rotate(270.0, 587.1707317073171, 263.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">linguist</text>
+<text aria-label="671,685,263,298" text-anchor="end" x="681.9512195121952" y="263.5" transform="rotate(270.0, 685.9512195121952, 263.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">share</text>
+<text aria-label="770,784,263,291" text-anchor="end" x="780.7317073170732" y="263.5" transform="rotate(270.0, 784.7317073170732, 263.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">tool</text>
+<line aria-label="89,89,256,261" x1="89.5" y1="256.5" x2="89.5" y2="261.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="188,188,256,261" x1="188.5" y1="256.5" x2="188.5" y2="261.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="286,286,256,261" x1="286.5" y1="256.5" x2="286.5" y2="261.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="385,385,256,261" x1="385.5" y1="256.5" x2="385.5" y2="261.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="484,484,256,261" x1="484.5" y1="256.5" x2="484.5" y2="261.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="583,583,256,261" x1="583.5" y1="256.5" x2="583.5" y2="261.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="681,681,256,261" x1="681.5" y1="256.5" x2="681.5" y2="261.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="780,780,256,261" x1="780.5" y1="256.5" x2="780.5" y2="261.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,840,256,256" x1="30.5" y1="256.5" x2="840.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,135,0,26" text-anchor="start" x="5.12939453125" y="25.626363636363642" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Kentucky a</text>
+<text aria-label="21,28,247,261" text-anchor="end" x="28.5" y="260.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="7,28,211,225" text-anchor="end" x="28.5" y="224.13636363636363" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="7,28,174,188" text-anchor="end" x="28.5" y="187.77272727272725" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="7,28,138,152" text-anchor="end" x="28.5" y="151.40909090909093" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="7,28,102,116" text-anchor="end" x="28.5" y="115.04545454545453" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="7,28,65,79" text-anchor="end" x="28.5" y="78.68181818181819" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">500</text>
+<path aria-label="payment: crush; Cisgender: 473; blue: Sedan Benin Italy" role="graphics-symbol" aria-roledescription="bar" d="M201.21951219512192,84.0h26.341463414634152v172h-26.341463414634152Z" fill="#d83bf4"/>
+<path aria-label="payment: crush; Cisgender: 250; blue: Fresh" role="graphics-symbol" aria-roledescription="bar" d="M148.53658536585363,165.09090909090907h26.341463414634152v90.90909090909092h-26.341463414634152Z" fill="#2518a2"/>
+<path aria-label="payment: crush; Cisgender: 445; blue: Global" role="graphics-symbol" aria-roledescription="bar" d="M174.87804878048777,94.18181818181819h26.341463414634152v161.8181818181818h-26.341463414634152Z" fill="#88e833"/>
+<path aria-label="payment: feast; Cisgender: 77; blue: Sedan Benin Italy" role="graphics-symbol" aria-roledescription="bar" d="M497.5609756097561,228.0h26.341463414634152v28h-26.341463414634152Z" fill="#d83bf4"/>
+<path aria-label="payment: feast; Cisgender: 317; blue: Fresh" role="graphics-symbol" aria-roledescription="bar" d="M444.8780487804878,140.72727272727272h26.341463414634152v115.27272727272728h-26.341463414634152Z" fill="#2518a2"/>
+<path aria-label="payment: feast; Cisgender: 217; blue: Global" role="graphics-symbol" aria-roledescription="bar" d="M471.219512195122,177.0909090909091h26.341463414634152v78.9090909090909h-26.341463414634152Z" fill="#88e833"/>
+<path aria-label="payment: tool; Cisgender: 451; blue: Sedan Benin Italy" role="graphics-symbol" aria-roledescription="bar" d="M793.9024390243903,92.0h26.341463414634152v164h-26.341463414634152Z" fill="#d83bf4"/>
+<path aria-label="payment: tool; Cisgender: 53; blue: Fresh" role="graphics-symbol" aria-roledescription="bar" d="M741.219512195122,236.72727272727275h26.341463414634152v19.272727272727252h-26.341463414634152Z" fill="#2518a2"/>
+<path aria-label="payment: tool; Cisgender: 436; blue: Global" role="graphics-symbol" aria-roledescription="bar" d="M767.5609756097562,97.45454545454545h26.341463414634152v158.54545454545456h-26.341463414634152Z" fill="#88e833"/>
+<path aria-label="payment: daughter; Cisgender: 461; blue: Sedan Benin Italy" role="graphics-symbol" aria-roledescription="bar" d="M300.0,88.36363636363637h26.341463414634152v167.63636363636363h-26.341463414634152Z" fill="#d83bf4"/>
+<path aria-label="payment: daughter; Cisgender: 486; blue: Fresh" role="graphics-symbol" aria-roledescription="bar" d="M247.31707317073167,79.27272727272727h26.341463414634152v176.72727272727275h-26.341463414634152Z" fill="#2518a2"/>
+<path aria-label="payment: daughter; Cisgender: 529; blue: Global" role="graphics-symbol" aria-roledescription="bar" d="M273.6585365853658,63.63636363636364h26.341463414634152v192.36363636363635h-26.341463414634152Z" fill="#88e833"/>
+<path aria-label="payment: share; Cisgender: 467; blue: Sedan Benin Italy" role="graphics-symbol" aria-roledescription="bar" d="M695.1219512195123,86.18181818181817h26.341463414634152v169.8181818181818h-26.341463414634152Z" fill="#d83bf4"/>
+<path aria-label="payment: share; Cisgender: 141; blue: Fresh" role="graphics-symbol" aria-roledescription="bar" d="M642.439024390244,204.72727272727272h26.341463414634152v51.27272727272728h-26.341463414634152Z" fill="#2518a2"/>
+<path aria-label="payment: share; Cisgender: 341; blue: Global" role="graphics-symbol" aria-roledescription="bar" d="M668.7804878048781,132.0h26.341463414634152v124h-26.341463414634152Z" fill="#88e833"/>
+<path aria-label="payment: duck; Cisgender: 167; blue: Sedan Benin Italy" role="graphics-symbol" aria-roledescription="bar" d="M398.780487804878,195.27272727272725h26.341463414634152v60.72727272727275h-26.341463414634152Z" fill="#d83bf4"/>
+<path aria-label="payment: duck; Cisgender: 483; blue: Fresh" role="graphics-symbol" aria-roledescription="bar" d="M346.0975609756097,80.36363636363637h26.341463414634152v175.63636363636363h-26.341463414634152Z" fill="#2518a2"/>
+<path aria-label="payment: duck; Cisgender: 13; blue: Global" role="graphics-symbol" aria-roledescription="bar" d="M372.4390243902439,251.27272727272725h26.341463414634152v4.727272727272748h-26.341463414634152Z" fill="#88e833"/>
+<path aria-label="payment: boss; Cisgender: 528; blue: Sedan Benin Italy" role="graphics-symbol" aria-roledescription="bar" d="M102.43902439024384,64.0h26.341463414634152v192h-26.341463414634152Z" fill="#d83bf4"/>
+<path aria-label="payment: boss; Cisgender: 13; blue: Fresh" role="graphics-symbol" aria-roledescription="bar" d="M49.75609756097555,251.27272727272725h26.341463414634152v4.727272727272748h-26.341463414634152Z" fill="#2518a2"/>
+<path aria-label="payment: boss; Cisgender: 12; blue: Global" role="graphics-symbol" aria-roledescription="bar" d="M76.0975609756097,251.63636363636363h26.341463414634152v4.363636363636374h-26.341463414634152Z" fill="#88e833"/>
+<path aria-label="payment: linguist; Cisgender: 470; blue: Sedan Benin Italy" role="graphics-symbol" aria-roledescription="bar" d="M596.3414634146343,85.0909090909091h26.341463414634152v170.9090909090909h-26.341463414634152Z" fill="#d83bf4"/>
+<path aria-label="payment: linguist; Cisgender: 129; blue: Fresh" role="graphics-symbol" aria-roledescription="bar" d="M543.6585365853659,209.09090909090907h26.341463414634152v46.909090909090935h-26.341463414634152Z" fill="#2518a2"/>
+<path aria-label="payment: linguist; Cisgender: 405; blue: Global" role="graphics-symbol" aria-roledescription="bar" d="M570.0000000000001,108.72727272727273h26.341463414634152v147.27272727272725h-26.341463414634152Z" fill="#88e833"/>
+<text aria-label="195,233,49,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="214.390243902439" y="73.99000000000001" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">473</text>
+<text aria-label="142,180,130,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="161.70731707317069" y="155.08090909090907" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">250</text>
+<text aria-label="169,207,59,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.04878048780483" y="84.1718181818182" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">445</text>
+<text aria-label="498,523,193,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="510.7317073170732" y="217.99" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">77</text>
+<text aria-label="439,477,106,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="458.0487804878049" y="130.71727272727273" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">317</text>
+<text aria-label="465,503,142,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="484.390243902439" y="167.0809090909091" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">217</text>
+<text aria-label="788,826,57,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="807.0731707317074" y="81.99000000000001" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">451</text>
+<text aria-label="741,767,202,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="754.390243902439" y="226.71727272727276" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">53</text>
+<text aria-label="761,799,63,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="780.7317073170732" y="87.44454545454545" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">436</text>
+<text aria-label="294,332,54,79" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="313.17073170731703" y="78.35363636363638" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">461</text>
+<text aria-label="241,279,44,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="260.4878048780488" y="69.26272727272726" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">486</text>
+<text aria-label="267,305,29,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="286.8292682926829" y="53.62636363636364" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">529</text>
+<text aria-label="689,727,51,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="708.2926829268293" y="76.17181818181818" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">467</text>
+<text aria-label="636,674,170,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="655.609756097561" y="194.71727272727273" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">141</text>
+<text aria-label="662,700,97,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="681.9512195121952" y="121.99000000000001" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">341</text>
+<text aria-label="392,430,160,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="411.9512195121951" y="185.26272727272726" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">167</text>
+<text aria-label="340,378,46,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="359.2682926829268" y="70.35363636363637" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">483</text>
+<text aria-label="372,398,216,242" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="385.60975609756093" y="241.26272727272726" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">13</text>
+<text aria-label="96,134,29,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.60975609756093" y="53.99000000000001" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">528</text>
+<text aria-label="50,75,216,242" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="62.92682926829262" y="241.26272727272726" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">13</text>
+<text aria-label="76,101,217,242" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="89.26829268292678" y="241.62636363636364" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">12</text>
+<text aria-label="590,628,50,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="609.5121951219513" y="75.0809090909091" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">470</text>
+<text aria-label="537,575,174,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="556.829268292683" y="199.08090909090907" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">129</text>
+<text aria-label="564,602,74,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="583.1707317073171" y="98.71727272727273" font-family="avenir" font-size="24.3px" fill="#000" opacity="1">405</text>
+<path  d="M859.0,57.0h10v10h-10Z" fill="#d83bf4" stroke-width="1.5" opacity="1"/>
+<path  d="M859.0,70.0h10v10h-10Z" fill="#2518a2" stroke-width="1.5" opacity="1"/>
+<path  d="M859.0,83.0h10v10h-10Z" fill="#88e833" stroke-width="1.5" opacity="1"/>
+<text aria-label="874,967,55,66" text-anchor="start" x="874.0" y="65.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Sedan Benin Italy</text>
+<text aria-label="874,901,68,79" text-anchor="start" x="874.0" y="78.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="874,907,81,92" text-anchor="start" x="874.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Global</text>
+</svg>

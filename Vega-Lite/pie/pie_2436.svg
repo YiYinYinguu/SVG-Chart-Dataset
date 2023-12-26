@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="475" height="286" viewBox="0 0 475 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="288,470,0,26" text-anchor="end" x="470.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">from Northeast</text>
+<path aria-label="Tandem definition: 5; Bicycle Rock sunt: Liaison" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.49999999999999,198.9519052838329A75,75,0,0,0,73.50831738298015,202.06815647532176L105.0,134.0Z" fill="#00c0e6" stroke="white" stroke-width="0"/>
+<path aria-label="Tandem definition: 91; Bicycle Rock sunt: radian" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.195507636153764,139.4118316850462L105.0,134.0Z" fill="#ebf784" stroke="white" stroke-width="0"/>
+<path aria-label="Tandem definition: 27; Bicycle Rock sunt: New" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.444277658793524,173.82047410174152A75,75,0,0,0,67.49999999999999,198.9519052838329L105.0,134.0Z" fill="#ab6f08" stroke="white" stroke-width="0"/>
+<path aria-label="Tandem definition: 49; Bicycle Rock sunt: Buckinghamshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.07667486176678,91.91097009782132A75,75,0,0,0,111.7614810834049,59.305405995087185L105.0,134.0Z" fill="#4acced" stroke="white" stroke-width="0"/>
+<path aria-label="Tandem definition: 43; Bicycle Rock sunt: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.50831738298015,202.06815647532176A75,75,0,0,0,130.22689193626314,204.63004971848812L105.0,134.0Z" fill="#2b306a" stroke="white" stroke-width="0"/>
+<path aria-label="Tandem definition: 27; Bicycle Rock sunt: Polestar" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.195507636153764,139.4118316850462A75,75,0,0,0,41.444277658793524,173.82047410174152L105.0,134.0Z" fill="#dada9e" stroke="white" stroke-width="0"/>
+<path aria-label="Tandem definition: 5; Bicycle Rock sunt: BMX" role="graphics-symbol" aria-roledescription="arc mark"  d="M111.7614810834049,59.305405995087185A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#7f3fcf" stroke="white" stroke-width="0"/>
+<path aria-label="Tandem definition: 101; Bicycle Rock sunt: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.22689193626314,204.63004971848812A75,75,0,0,0,167.07667486176678,91.91097009782132L105.0,134.0Z" fill="#a32cde" stroke="white" stroke-width="0"/>
+<text aria-label="61,66,207,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="63.56278502295575" y="216.89341158660218" font-family="monospace" font-size="9px" fill="#00c0e6" opacity="1">5</text>
+<text aria-label="34,44,66,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="39.10433313948104" y="75.6994201576567" font-family="monospace" font-size="9px" fill="#ebf784" opacity="1">91</text>
+<text aria-label="37,47,192,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="42.51972130008737" y="201.7781967453652" font-family="monospace" font-size="9px" fill="#ab6f08" opacity="1">27</text>
+<text aria-label="145,155,50,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.7017858379751" y="59.467124577893685" font-family="monospace" font-size="9px" fill="#4acced" opacity="1">49</text>
+<text aria-label="95,105,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.93897503889623" y="226.90833151752562" font-family="monospace" font-size="9px" fill="#2b306a" opacity="1">43</text>
+<text aria-label="14,24,155,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.455267099442153" y="164.96602712170994" font-family="monospace" font-size="9px" fill="#dada9e" opacity="1">27</text>
+<text aria-label="106,111,38,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.06102496110378" y="47.091668482474375" font-family="monospace" font-size="9px" fill="#7f3fcf" opacity="1">5</text>
+<text aria-label="183,198,155,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.54473290055785" y="164.9660271217099" font-family="monospace" font-size="9px" fill="#a32cde" opacity="1">101</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#7f3fcf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M58.0,274.25A5,5,0,1,1,48.0,274.25A5,5,0,1,1,58.0,274.25" fill="#4acced" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M160.0,274.25A5,5,0,1,1,150.0,274.25A5,5,0,1,1,160.0,274.25" fill="#a32cde" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,274.25A5,5,0,1,1,207.0,274.25A5,5,0,1,1,217.0,274.25" fill="#2b306a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M264.0,274.25A5,5,0,1,1,254.0,274.25A5,5,0,1,1,264.0,274.25" fill="#00c0e6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M326.0,274.25A5,5,0,1,1,316.0,274.25A5,5,0,1,1,326.0,274.25" fill="#ab6f08" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M368.0,274.25A5,5,0,1,1,358.0,274.25A5,5,0,1,1,368.0,274.25" fill="#dada9e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M435.0,274.25A5,5,0,1,1,425.0,274.25A5,5,0,1,1,435.0,274.25" fill="#ebf784" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">BMX</text>
+<text aria-label="63,145,267,278" text-anchor="start" x="63.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Buckinghamshire</text>
+<text aria-label="165,198,267,278" text-anchor="start" x="165.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="222,244,267,278" text-anchor="start" x="222.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="269,307,267,278" text-anchor="start" x="269.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Liaison</text>
+<text aria-label="331,347,267,278" text-anchor="start" x="331.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">New</text>
+<text aria-label="373,417,267,278" text-anchor="start" x="373.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Polestar</text>
+<text aria-label="440,473,267,278" text-anchor="start" x="440.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">radian</text>
+<text aria-label="5,107,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bicycle Rock sunt</text>
+</svg>

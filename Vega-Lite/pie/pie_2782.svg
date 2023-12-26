@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="257" height="270" viewBox="0 0 257 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Steel Spain</text>
+<path aria-label="uniform ipsum MTF: 257; auxiliary Berkshire: Cargo" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.89356602932129,231.27622721506089A75,75,0,1,0,105.0,90.0L105.0,128.0A37,37,0,1,1,87.6808259077985,197.69627209276337Z" fill="#0f58bd" stroke="white" stroke-width="0"/>
+<path aria-label="uniform ipsum MTF: 43; auxiliary Berkshire: Practical" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.55516179454521,121.99381605041569A75,75,0,0,0,30.000467251332836,164.73525959582634L68.00023051065753,164.869394733941A37,37,0,0,1,74.68721315197564,143.78361591820507Z" fill="#da97ab" stroke="white" stroke-width="0"/>
+<path aria-label="uniform ipsum MTF: 77; auxiliary Berkshire: Orchestrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.000467251332836,164.73525959582634A75,75,0,0,0,69.89356602932129,231.27622721506089L87.6808259077985,197.69627209276337A37,37,0,0,1,68.00023051065753,164.869394733941Z" fill="#a2ac0e" stroke="white" stroke-width="0"/>
+<path aria-label="uniform ipsum MTF: 68; auxiliary Berkshire: anti" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,43.55516179454521,121.99381605041569L74.68721315197564,143.78361591820507A37,37,0,0,1,105.0,128.0Z" fill="#90e7d4" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#0f58bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,40.25A5,5,0,1,1,58.0,40.25A5,5,0,1,1,68.0,40.25" fill="#a2ac0e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,40.25A5,5,0,1,1,145.0,40.25A5,5,0,1,1,155.0,40.25" fill="#da97ab" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M227.0,40.25A5,5,0,1,1,217.0,40.25A5,5,0,1,1,227.0,40.25" fill="#90e7d4" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Cargo</text>
+<text aria-label="73,139,33,44" text-anchor="start" x="73.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Orchestrator</text>
+<text aria-label="160,209,33,44" text-anchor="start" x="160.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Practical</text>
+<text aria-label="232,254,33,44" text-anchor="start" x="232.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">anti</text>
+</svg>

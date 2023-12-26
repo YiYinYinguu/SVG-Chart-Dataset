@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="325" height="239" viewBox="0 0 325 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="79,131,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">mint</text>
+<path aria-label="male: 165; withdrawal minima: Generic" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.79338160832629,128.43672150694556A75,75,0,0,0,143.28519008065078,69.50779721169047L134.60721366236993,84.1260298437073A58,58,0,0,1,162.84021511043898,129.69773129870455Z" fill="#ff797b" stroke="white" stroke-width="2"/>
+<path aria-label="male: 237; withdrawal minima: Idaho" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.63983637206051,206.382848985645A75,75,0,0,0,179.79338160832629,128.43672150694556L162.84021511043898,129.69773129870455A58,58,0,0,1,120.1881401277268,189.97606988223214Z" fill="#9b872a" stroke="white" stroke-width="2"/>
+<path aria-label="male: 315; withdrawal minima: actuating" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.19916139475403,120.64199786036713A75,75,0,0,0,111.32516011317352,208.73280638075033L109.89145715418752,191.79337026778026A58,58,0,0,1,47.927351478609786,123.66981167868391Z" fill="#ca4edf" stroke="white" stroke-width="2"/>
+<path aria-label="male: 31; withdrawal minima: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M111.32516011317352,208.73280638075033A75,75,0,0,0,124.63983637206051,206.382848985645L120.1881401277268,189.97606988223214A58,58,0,0,1,109.89145715418752,191.79337026778026Z" fill="#ff6b04" stroke="white" stroke-width="2"/>
+<path aria-label="male: 92; withdrawal minima: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.28519008065078,69.50779721169047A75,75,0,0,0,105.0,59.0L105.0,76.0A58,58,0,0,1,134.60721366236993,84.1260298437073Z" fill="#fb2f82" stroke="white" stroke-width="2"/>
+<path aria-label="male: 239; withdrawal minima: hiccup" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.19916139475403,120.64199786036713L47.927351478609786,123.66981167868391A58,58,0,0,1,104.99999999999999,76.0Z" fill="#876e0a" stroke="white" stroke-width="2"/>
+<text aria-label="171,192,77,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="181.50736786593438" y="90.60144873282948" font-family="monospace" font-size="13px" fill="#ff797b" opacity="1">165</text>
+<text aria-label="167,188,176,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.46811091174516" y="189.9849658945691" font-family="monospace" font-size="13px" fill="#9b872a" opacity="1">237</text>
+<text aria-label="27,48,185,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="38.421739402816144" y="198.55852719356272" font-family="monospace" font-size="13px" fill="#ca4edf" opacity="1">315</text>
+<text aria-label="113,127,213,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.64267250840881" y="226.6301686605338" font-family="monospace" font-size="13px" fill="#ff6b04" opacity="1">31</text>
+<text aria-label="121,135,38,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.82060136586156" y="51.20956878452144" font-family="monospace" font-size="13px" fill="#fb2f82" opacity="1">92</text>
+<text aria-label="36,57,55,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="47.30539120108512" y="68.92517017364302" font-family="monospace" font-size="13px" fill="#876e0a" opacity="1">239</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#fb2f82" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ff797b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#9b872a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#ff6b04" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#ca4edf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#876e0a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Generic</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Idaho</text>
+<text aria-label="239,288,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="239,288,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">actuating</text>
+<text aria-label="239,272,129,140" text-anchor="start" x="239.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">hiccup</text>
+<text aria-label="223,325,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">withdrawal minima</text>
+</svg>

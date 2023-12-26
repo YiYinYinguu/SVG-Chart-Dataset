@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="321" height="239" viewBox="0 0 321 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="44,304,0,26" text-anchor="middle" x="174.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Krone Northwest Lead</text>
+<path aria-label="gold Associate: 248; crumb: purple" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.0,59.0A75,75,0,1,0,242.84709738994428,163.75024673812848L218.98010362809694,153.4368278689106A49,49,0,1,1,174.0,85.0Z" fill="#47217e" stroke="black" stroke-width="0"/>
+<path aria-label="gold Associate: 98; crumb: Movies" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.36542492426105,143.73568568895354A75,75,0,0,0,174.0,59.0L174.0,85.0A49,49,0,0,1,222.5854109505172,140.36064798344964Z" fill="#5fdbaa" stroke="black" stroke-width="0"/>
+<path aria-label="gold Associate: 16; crumb: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.84709738994428,163.75024673812848A75,75,0,0,0,248.36542492426105,143.73568568895354L222.5854109505172,140.36064798344964A49,49,0,0,1,218.98010362809694,153.4368278689106Z" fill="#ccf6a5" stroke="black" stroke-width="0"/>
+<text aria-label="91,106,177,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="98.79020460166818" y="186.43163638947294" font-family="Balto" font-size="9px" fill="#47217e" opacity="1">248</text>
+<text aria-label="236,246,68,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="241.64412041858102" y="77.63441255410244" font-family="Balto" font-size="9px" fill="#5fdbaa" opacity="1">98</text>
+<text aria-label="255,265,151,161" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="260.76259166583054" y="160.92180359898373" font-family="Balto" font-size="9px" fill="#ccf6a5" opacity="1">16</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#5fdbaa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ccf6a5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#47217e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Movies</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">purple</text>
+<text aria-label="5,35,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">crumb</text>
+</svg>

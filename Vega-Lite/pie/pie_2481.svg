@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="303" height="286" viewBox="0 0 303 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="259,298,0,26" text-anchor="end" x="298.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">aha</text>
+<path aria-label="extranet male: 11; Bronze SMS: Ball" role="graphics-symbol" aria-roledescription="arc mark"  d="M111.87430612689018,59.31570502927808A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#81b961" stroke="black" stroke-width="0"/>
+<path aria-label="extranet male: 220; Bronze SMS: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.61665742639319,153.63801715733743L105.0,134.0Z" fill="#e3edad" stroke="black" stroke-width="0"/>
+<path aria-label="extranet male: 194; Bronze SMS: pitching" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.61665742639319,153.63801715733743A75,75,0,0,0,128.08697859417282,205.3581909761746L105.0,134.0Z" fill="#a0ab17" stroke="black" stroke-width="0"/>
+<path aria-label="extranet male: 171; Bronze SMS: Chilean" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.89803229298457,130.09042730735956A75,75,0,0,0,111.87430612689018,59.31570502927808L105.0,134.0Z" fill="#c2cd61" stroke="black" stroke-width="0"/>
+<path aria-label="extranet male: 157; Bronze SMS: New" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.08697859417282,205.3581909761746A75,75,0,0,0,179.89803229298457,130.09042730735956L105.0,134.0Z" fill="#3a15da" stroke="black" stroke-width="0"/>
+<text aria-label="103,114,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.12893104580546" y="47.09476139612896" font-family="Balto" font-size="10px" fill="#81b961" opacity="1">11</text>
+<text aria-label="25,41,72,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.51256805216585" y="82.32324924153062" font-family="Balto" font-size="10px" fill="#e3edad" opacity="1">220</text>
+<text aria-label="53,70,206,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="62.129977404721544" y="216.1338180721764" font-family="Balto" font-size="10px" fill="#a0ab17" opacity="1">194</text>
+<text aria-label="161,178,64,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="169.88820841963408" y="74.63398034113345" font-family="Balto" font-size="10px" fill="#c2cd61" opacity="1">171</text>
+<text aria-label="170,187,178,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.13411831440325" y="188.03070156039462" font-family="Balto" font-size="10px" fill="#3a15da" opacity="1">157</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#81b961" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M61.0,274.25A5,5,0,1,1,51.0,274.25A5,5,0,1,1,61.0,274.25" fill="#c2cd61" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M124.0,274.25A5,5,0,1,1,114.0,274.25A5,5,0,1,1,124.0,274.25" fill="#3a15da" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M173.0,274.25A5,5,0,1,1,163.0,274.25A5,5,0,1,1,173.0,274.25" fill="#a0ab17" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M240.0,274.25A5,5,0,1,1,230.0,274.25A5,5,0,1,1,240.0,274.25" fill="#e3edad" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Ball</text>
+<text aria-label="66,104,267,278" text-anchor="start" x="66.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Chilean</text>
+<text aria-label="129,145,267,278" text-anchor="start" x="129.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">New</text>
+<text aria-label="178,222,267,278" text-anchor="start" x="178.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">pitching</text>
+<text aria-label="245,300,267,278" text-anchor="start" x="245.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+<text aria-label="5,65,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bronze SMS</text>
+</svg>

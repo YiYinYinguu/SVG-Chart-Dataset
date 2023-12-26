@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="293" height="239" viewBox="0 0 293 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="223,288,0,26" text-anchor="end" x="288.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">azure</text>
+<path aria-label="Account Southeast: 181; Indiana: Drive" role="graphics-symbol" aria-roledescription="arc mark"  d="M246.27434283473977,86.78664418642524A75,75,0,0,0,188.0,59.0L188.0,134.0Z" fill="#0bb0e3" stroke="black" stroke-width="0"/>
+<path aria-label="Account Southeast: 394; Indiana: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.98800915571371,102.38720035497144A75,75,0,0,0,182.84183365060753,208.8224118824834L188.0,134.0Z" fill="#b66efb" stroke="black" stroke-width="0"/>
+<path aria-label="Account Southeast: 212; Indiana: SDD" role="graphics-symbol" aria-roledescription="arc mark"  d="M181.0042851241109,59.32697961529034A75,75,0,0,0,119.98800915571371,102.38720035497144L188.0,134.0Z" fill="#b2ee9b" stroke="black" stroke-width="0"/>
+<path aria-label="Account Southeast: 19; Indiana: iterate" role="graphics-symbol" aria-roledescription="arc mark"  d="M188.0,59.0A75,75,0,0,0,181.0042851241109,59.32697961529034L188.0,134.0Z" fill="#9c5b18" stroke="black" stroke-width="0"/>
+<path aria-label="Account Southeast: 29; Indiana: Lanka" role="graphics-symbol" aria-roledescription="arc mark"  d="M182.84183365060753,208.8224118824834A75,75,0,0,0,193.52596096234421,208.79614799869475L188.0,134.0Z" fill="#cb97ae" stroke="black" stroke-width="0"/>
+<path aria-label="Account Southeast: 443; Indiana: Jersey" role="graphics-symbol" aria-roledescription="arc mark"  d="M193.52596096234421,208.79614799869475A75,75,0,0,0,246.27434283473977,86.78664418642524L188.0,134.0Z" fill="#6c0e0d" stroke="black" stroke-width="0"/>
+<text aria-label="217,235,44,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="226.73601407046112" y="55.76256273162579" font-family="sans-serif" font-size="11px" fill="#0bb0e3" opacity="1">181</text>
+<text aria-label="101,119,171,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.50395225306393" y="182.76420635829496" font-family="sans-serif" font-size="11px" fill="#b66efb" opacity="1">394</text>
+<text aria-label="127,145,52,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="136.10662980765642" y="63.467162912883694" font-family="sans-serif" font-size="11px" fill="#b2ee9b" opacity="1">212</text>
+<text aria-label="177,189,36,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="183.79798866902064" y="47.09814740076642" font-family="sans-serif" font-size="11px" fill="#9c5b18" opacity="1">19</text>
+<text aria-label="182,194,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.22123869644997" y="226.99972807425138" font-family="sans-serif" font-size="11px" fill="#cb97ae" opacity="1">29</text>
+<text aria-label="261,279,161,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="270.6102124597311" y="172.7148820151781" font-family="sans-serif" font-size="11px" fill="#6c0e0d" opacity="1">443</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#0bb0e3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#6c0e0d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#cb97ae" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#b66efb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#b2ee9b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#9c5b18" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Drive</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Jersey</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Lanka</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="21,37,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">SDD</text>
+<text aria-label="21,59,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">iterate</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Indiana</text>
+</svg>

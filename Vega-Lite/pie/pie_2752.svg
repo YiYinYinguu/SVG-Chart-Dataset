@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="389" height="270" viewBox="0 0 389 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,248,0,26" text-anchor="middle" x="131.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">black Program male</text>
+<path aria-label="SDD: 5; Rustic: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.30169955090764,239.9887030043804A75,75,0,0,0,133.60300696063865,239.95481542077778L131.0,165.0Z" fill="#770eae" stroke="white" stroke-width="4"/>
+<path aria-label="SDD: 640; Rustic: Dynamic" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.60300696063865,239.95481542077778A75,75,0,0,0,189.0531288624409,117.51490518825058L131.0,165.0Z" fill="#12edbe" stroke="white" stroke-width="4"/>
+<path aria-label="SDD: 44; Rustic: animi" role="graphics-symbol" aria-roledescription="arc mark"  d="M102.56956239119783,234.40252313404756A75,75,0,0,0,113.4599544340217,237.92013988976848L131.0,165.0Z" fill="#3f17b3" stroke="white" stroke-width="4"/>
+<path aria-label="SDD: 793; Rustic: softly" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.0,90.0A75,75,0,0,0,102.56956239119783,234.40252313404756L131.0,165.0Z" fill="#d1bc20" stroke="white" stroke-width="4"/>
+<path aria-label="SDD: 73; Rustic: Paradigm" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.4599544340217,237.92013988976848A75,75,0,0,0,132.30169955090764,239.9887030043804L131.0,165.0Z" fill="#cf77ee" stroke="white" stroke-width="4"/>
+<path aria-label="SDD: 255; Rustic: Cuba" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0531288624409,117.51490518825058A75,75,0,0,0,131.0,90.0L131.0,165.0Z" fill="#785beb" stroke="white" stroke-width="4"/>
+<path  d="M42.0,40.25A5,5,0,1,1,32.0,40.25A5,5,0,1,1,42.0,40.25" fill="#785beb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M94.0,40.25A5,5,0,1,1,84.0,40.25A5,5,0,1,1,94.0,40.25" fill="#12edbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M163.0,40.25A5,5,0,1,1,153.0,40.25A5,5,0,1,1,163.0,40.25" fill="#770eae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M225.0,40.25A5,5,0,1,1,215.0,40.25A5,5,0,1,1,225.0,40.25" fill="#cf77ee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M298.0,40.25A5,5,0,1,1,288.0,40.25A5,5,0,1,1,298.0,40.25" fill="#3f17b3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M352.0,40.25A5,5,0,1,1,342.0,40.25A5,5,0,1,1,352.0,40.25" fill="#d1bc20" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="47,69,33,44" text-anchor="start" x="47.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Cuba</text>
+<text aria-label="99,137,33,44" text-anchor="start" x="99.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Dynamic</text>
+<text aria-label="168,212,33,44" text-anchor="start" x="168.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="230,274,33,44" text-anchor="start" x="230.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Paradigm</text>
+<text aria-label="303,330,33,44" text-anchor="start" x="303.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">animi</text>
+<text aria-label="357,390,33,44" text-anchor="start" x="357.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">softly</text>
+</svg>

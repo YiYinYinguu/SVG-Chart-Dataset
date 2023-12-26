@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1196" height="358" viewBox="0 0 1196 358" style="background-color: rgb(255, 255, 255);">
+<line x1="277.5" y1="42.5" x2="277.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="397.5" y1="42.5" x2="397.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="517.5" y1="42.5" x2="517.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="637.5" y1="42.5" x2="637.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="758.5" y1="42.5" x2="758.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="878.5" y1="42.5" x2="878.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="998.5" y1="42.5" x2="998.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="1118.5" y1="42.5" x2="1118.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="265,282,249,292" text-anchor="end" x="277.1463414634146" y="249.5" transform="rotate(270.0, 282.1463414634146, 249.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">aglet</text>
+<text aria-label="385,402,249,343" text-anchor="end" x="397.390243902439" y="249.5" transform="rotate(270.0, 402.390243902439, 249.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">boysenberry</text>
+<text aria-label="505,522,249,300" text-anchor="end" x="517.6341463414635" y="249.5" transform="rotate(270.0, 522.6341463414635, 249.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">diaper</text>
+<text aria-label="625,642,249,283" text-anchor="end" x="637.8780487804879" y="249.5" transform="rotate(270.0, 642.8780487804879, 249.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">kale</text>
+<text aria-label="746,763,249,334" text-anchor="end" x="758.1219512195122" y="249.5" transform="rotate(270.0, 763.1219512195122, 249.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">preference</text>
+<text aria-label="866,883,249,326" text-anchor="end" x="878.3658536585366" y="249.5" transform="rotate(270.0, 883.3658536585366, 249.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">sectional</text>
+<text aria-label="986,1003,249,300" text-anchor="end" x="998.609756097561" y="249.5" transform="rotate(270.0, 1003.609756097561, 249.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">sherry</text>
+<text aria-label="1106,1123,249,360" text-anchor="end" x="1118.8536585365855" y="249.5" transform="rotate(270.0, 1123.8536585365855, 249.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">subexpression</text>
+<line aria-label="277,277,242,247" x1="277.5" y1="242.5" x2="277.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="397,397,242,247" x1="397.5" y1="242.5" x2="397.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="517,517,242,247" x1="517.5" y1="242.5" x2="517.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="637,637,242,247" x1="637.5" y1="242.5" x2="637.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="758,758,242,247" x1="758.5" y1="242.5" x2="758.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="878,878,242,247" x1="878.5" y1="242.5" x2="878.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="998,998,242,247" x1="998.5" y1="242.5" x2="998.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="1118,1118,242,247" x1="1118.5" y1="242.5" x2="1118.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="205,1191,242,242" x1="205.5" y1="242.5" x2="1191.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="944,1191,0,26" text-anchor="end" x="1191.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Park Representative</text>
+<text aria-label="190,198,231,248" text-anchor="end" x="198.5" y="247.5" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="181,198,202,219" text-anchor="end" x="198.5" y="218.92857142857144" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="173,198,174,191" text-anchor="end" x="198.5" y="190.35714285714286" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="173,198,145,162" text-anchor="end" x="198.5" y="161.78571428571428" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="173,198,117,134" text-anchor="end" x="198.5" y="133.21428571428572" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="173,198,88,105" text-anchor="end" x="198.5" y="104.64285714285714" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">250</text>
+<text aria-label="173,198,60,77" text-anchor="end" x="198.5" y="76.07142857142858" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="173,198,31,48" text-anchor="end" x="198.5" y="47.5" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">350</text>
+<line aria-label="200,205,242,242" x1="205.5" y1="242.5" x2="200.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="200,205,213,213" x1="205.5" y1="213.5" x2="200.5" y2="213.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="200,205,185,185" x1="205.5" y1="185.5" x2="200.5" y2="185.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="200,205,156,156" x1="205.5" y1="156.5" x2="200.5" y2="156.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="200,205,128,128" x1="205.5" y1="128.5" x2="200.5" y2="128.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="200,205,99,99" x1="205.5" y1="99.5" x2="200.5" y2="99.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="200,205,71,71" x1="205.5" y1="71.5" x2="200.5" y2="71.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="200,205,42,42" x1="205.5" y1="42.5" x2="200.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="156,168,67,217" text-anchor="middle" x="170.5" y="142.5" transform="rotate(-90.0, 168.5, 142.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Sulfur Nicolas overriding</text>
+<line aria-label="205,205,42,242" x1="205.5" y1="242.5" x2="205.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="mint phew whose: boysenberry; Sulfur Nicolas overriding: 112; Northeast Road West: paradigms enhance female" role="graphics-symbol" aria-roledescription="bar" d="M397.390243902439,178.0h48.09756097560976v64h-48.09756097560976Z" fill="#a77a36"/>
+<path aria-label="mint phew whose: boysenberry; Sulfur Nicolas overriding: 196; Northeast Road West: Male Bronze" role="graphics-symbol" aria-roledescription="bar" d="M349.2926829268293,130.0h48.09756097560976v112.00000000000001h-48.09756097560976Z" fill="#9df8fd"/>
+<path aria-label="mint phew whose: preference; Sulfur Nicolas overriding: 93; Northeast Road West: paradigms enhance female" role="graphics-symbol" aria-roledescription="bar" d="M758.1219512195122,188.85714285714283h48.09756097560976v53.14285714285717h-48.09756097560976Z" fill="#a77a36"/>
+<path aria-label="mint phew whose: preference; Sulfur Nicolas overriding: 141; Northeast Road West: Male Bronze" role="graphics-symbol" aria-roledescription="bar" d="M710.0243902439024,161.42857142857144h48.09756097560976v80.57142857142856h-48.09756097560976Z" fill="#9df8fd"/>
+<path aria-label="mint phew whose: sectional; Sulfur Nicolas overriding: 36; Northeast Road West: paradigms enhance female" role="graphics-symbol" aria-roledescription="bar" d="M878.3658536585366,221.42857142857142h48.09756097560976v20.571428571428584h-48.09756097560976Z" fill="#a77a36"/>
+<path aria-label="mint phew whose: sectional; Sulfur Nicolas overriding: 213; Northeast Road West: Male Bronze" role="graphics-symbol" aria-roledescription="bar" d="M830.2682926829268,120.28571428571429h48.09756097560976v121.71428571428571h-48.09756097560976Z" fill="#9df8fd"/>
+<path aria-label="mint phew whose: subexpression; Sulfur Nicolas overriding: 226; Northeast Road West: paradigms enhance female" role="graphics-symbol" aria-roledescription="bar" d="M1118.8536585365855,112.85714285714286h48.09756097560976v129.14285714285714h-48.09756097560976Z" fill="#a77a36"/>
+<path aria-label="mint phew whose: subexpression; Sulfur Nicolas overriding: 301; Northeast Road West: Male Bronze" role="graphics-symbol" aria-roledescription="bar" d="M1070.7560975609756,70.0h48.09756097560976v172h-48.09756097560976Z" fill="#9df8fd"/>
+<path aria-label="mint phew whose: kale; Sulfur Nicolas overriding: 247; Northeast Road West: paradigms enhance female" role="graphics-symbol" aria-roledescription="bar" d="M637.8780487804879,100.85714285714286h48.09756097560976v141.14285714285714h-48.09756097560976Z" fill="#a77a36"/>
+<path aria-label="mint phew whose: kale; Sulfur Nicolas overriding: 75; Northeast Road West: Male Bronze" role="graphics-symbol" aria-roledescription="bar" d="M589.780487804878,199.14285714285714h48.09756097560976v42.85714285714286h-48.09756097560976Z" fill="#9df8fd"/>
+<path aria-label="mint phew whose: diaper; Sulfur Nicolas overriding: 39; Northeast Road West: paradigms enhance female" role="graphics-symbol" aria-roledescription="bar" d="M517.6341463414635,219.71428571428572h48.09756097560976v22.285714285714278h-48.09756097560976Z" fill="#a77a36"/>
+<path aria-label="mint phew whose: diaper; Sulfur Nicolas overriding: 304; Northeast Road West: Male Bronze" role="graphics-symbol" aria-roledescription="bar" d="M469.5365853658537,68.28571428571429h48.09756097560976v173.71428571428572h-48.09756097560976Z" fill="#9df8fd"/>
+<path aria-label="mint phew whose: sherry; Sulfur Nicolas overriding: 141; Northeast Road West: paradigms enhance female" role="graphics-symbol" aria-roledescription="bar" d="M998.609756097561,161.42857142857144h48.09756097560976v80.57142857142856h-48.09756097560976Z" fill="#a77a36"/>
+<path aria-label="mint phew whose: sherry; Sulfur Nicolas overriding: 149; Northeast Road West: Male Bronze" role="graphics-symbol" aria-roledescription="bar" d="M950.5121951219512,156.85714285714286h48.09756097560976v85.14285714285714h-48.09756097560976Z" fill="#9df8fd"/>
+<path aria-label="mint phew whose: aglet; Sulfur Nicolas overriding: 241; Northeast Road West: paradigms enhance female" role="graphics-symbol" aria-roledescription="bar" d="M277.1463414634146,104.28571428571428h48.09756097560976v137.71428571428572h-48.09756097560976Z" fill="#a77a36"/>
+<path aria-label="mint phew whose: aglet; Sulfur Nicolas overriding: 41; Northeast Road West: Male Bronze" role="graphics-symbol" aria-roledescription="bar" d="M229.0487804878049,218.57142857142858h48.09756097560976v23.428571428571416h-48.09756097560976Z" fill="#9df8fd"/>
+<path  d="M6.0,59.0h10v10h-10Z" fill="#a77a36" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,72.0h10v10h-10Z" fill="#9df8fd" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,153,57,68" text-anchor="start" x="21.0" y="67.0" font-family="serif" font-size="10px" fill="#000" opacity="1">paradigms enhance female</text>
+<text aria-label="21,81,70,81" text-anchor="start" x="21.0" y="80.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Male Bronze</text>
+<text aria-label="5,119,40,52" text-anchor="start" x="5.0" y="51.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northeast Road West</text>
+</svg>

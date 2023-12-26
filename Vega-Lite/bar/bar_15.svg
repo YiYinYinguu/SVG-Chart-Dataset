@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="530" height="306" viewBox="0 0 530 306" style="background-color: rgb(255, 255, 255);">
+<line x1="250.5" y1="34.5" x2="250.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="299.5" y1="34.5" x2="299.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="348.5" y1="34.5" x2="348.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="397.5" y1="34.5" x2="397.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="446.5" y1="34.5" x2="446.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="495.5" y1="34.5" x2="495.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="221.5" y1="234.5" x2="525.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="221.5" y1="172.5" x2="525.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="221.5" y1="109.5" x2="525.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="221.5" y1="47.5" x2="525.5" y2="47.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="237,255,241,286" text-anchor="end" x="250.4193548387097" y="241.5" transform="rotate(270.0, 255.4193548387097, 241.5)" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">chord</text>
+<text aria-label="286,304,241,295" text-anchor="end" x="299.4516129032258" y="241.5" transform="rotate(270.0, 304.4516129032258, 241.5)" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">clover</text>
+<text aria-label="335,353,241,295" text-anchor="end" x="348.48387096774195" y="241.5" transform="rotate(270.0, 353.48387096774195, 241.5)" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">diesel</text>
+<text aria-label="384,402,241,295" text-anchor="end" x="397.51612903225805" y="241.5" transform="rotate(270.0, 402.51612903225805, 241.5)" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">junket</text>
+<text aria-label="433,451,241,277" text-anchor="end" x="446.5483870967742" y="241.5" transform="rotate(270.0, 451.5483870967742, 241.5)" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">oboe</text>
+<text aria-label="482,500,241,286" text-anchor="end" x="495.5806451612903" y="241.5" transform="rotate(270.0, 500.5806451612903, 241.5)" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">vinyl</text>
+<line aria-label="250,250,234,239" x1="250.5" y1="234.5" x2="250.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="299,299,234,239" x1="299.5" y1="234.5" x2="299.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="348,348,234,239" x1="348.5" y1="234.5" x2="348.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="397,397,234,239" x1="397.5" y1="234.5" x2="397.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="446,446,234,239" x1="446.5" y1="234.5" x2="446.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="495,495,234,239" x1="495.5" y1="234.5" x2="495.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="221,525,234,234" x1="221.5" y1="234.5" x2="525.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="265,525,0,26" text-anchor="end" x="525.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Baby Ariary Electric</text>
+<text aria-label="205,214,222,240" text-anchor="end" x="214.5" y="239.5" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="196,214,160,178" text-anchor="end" x="214.5" y="177.0" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="187,214,97,115" text-anchor="end" x="214.5" y="114.5" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="187,214,35,53" text-anchor="end" x="214.5" y="52.0" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="216,221,234,234" x1="221.5" y1="234.5" x2="216.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="216,221,172,172" x1="221.5" y1="172.5" x2="216.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="216,221,109,109" x1="221.5" y1="109.5" x2="216.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="216,221,47,47" x1="221.5" y1="47.5" x2="216.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="169,181,110,158" text-anchor="middle" x="183.5" y="134.5" transform="rotate(-90.0, 181.5, 134.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Europium</text>
+<line aria-label="221,221,34,234" x1="221.5" y1="234.5" x2="221.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="male cyan Bromine: clover; Europium: 109; Strategist deposit Minivan: Minivan" role="graphics-symbol" aria-roledescription="bar" d="M279.8387096774194,97.75h39.225806451612904v136.25h-39.225806451612904Z" fill="#7b4350"/>
+<path aria-label="male cyan Bromine: diesel; Europium: 49; Strategist deposit Minivan: Minivan" role="graphics-symbol" aria-roledescription="bar" d="M328.8709677419355,172.75h39.225806451612904v61.25h-39.225806451612904Z" fill="#7b4350"/>
+<path aria-label="male cyan Bromine: vinyl; Europium: 21; Strategist deposit Minivan: Minivan" role="graphics-symbol" aria-roledescription="bar" d="M475.9677419354839,207.75h39.225806451612904v26.25h-39.225806451612904Z" fill="#7b4350"/>
+<path aria-label="male cyan Bromine: chord; Europium: 152; Strategist deposit Minivan: Minivan" role="graphics-symbol" aria-roledescription="bar" d="M230.80645161290323,44.00000000000001h39.225806451612904v190h-39.225806451612904Z" fill="#7b4350"/>
+<path aria-label="male cyan Bromine: oboe; Europium: 67; Strategist deposit Minivan: Minivan" role="graphics-symbol" aria-roledescription="bar" d="M426.93548387096774,150.25h39.225806451612904v83.74999999999999h-39.225806451612904Z" fill="#7b4350"/>
+<path aria-label="male cyan Bromine: junket; Europium: 17; Strategist deposit Minivan: Minivan" role="graphics-symbol" aria-roledescription="bar" d="M377.9032258064516,212.75h39.225806451612904v21.25h-39.225806451612904Z" fill="#7b4350"/>
+<text aria-label="293,305,88,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="299.4516129032258" y="95.19" font-family="serif" font-size="6.514285714285713px" fill="#000" opacity="1">109</text>
+<text aria-label="344,352,163,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="348.48387096774195" y="170.19" font-family="serif" font-size="6.514285714285713px" fill="#000" opacity="1">49</text>
+<text aria-label="491,499,198,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="495.5806451612903" y="205.19" font-family="serif" font-size="6.514285714285713px" fill="#000" opacity="1">21</text>
+<text aria-label="244,256,34,42" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="250.4193548387097" y="41.44000000000001" font-family="serif" font-size="6.514285714285713px" fill="#000" opacity="1">152</text>
+<text aria-label="442,450,141,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="446.5483870967742" y="147.69" font-family="serif" font-size="6.514285714285713px" fill="#000" opacity="1">67</text>
+<text aria-label="393,401,203,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="397.51612903225805" y="210.19" font-family="serif" font-size="6.514285714285713px" fill="#000" opacity="1">17</text>
+<path  d="M6.0,51.0h10v10h-10Z" fill="#7b4350" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Minivan</text>
+<text aria-label="5,161,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Strategist deposit Minivan</text>
+</svg>

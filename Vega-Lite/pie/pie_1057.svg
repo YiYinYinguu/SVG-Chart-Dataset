@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="23,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">candela sensor</text>
+<path aria-label="Regional West Borders: 553; East Silicon: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,65.39491120122244,244.69016361449343L75.95626821422978,227.70611998396186A55,55,0,0,1,104.99999999999999,126.0Z" fill="#ac7e0b" stroke="black" stroke-width="0"/>
+<path aria-label="Regional West Borders: 232; East Silicon: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M65.39491120122244,244.69016361449343A75,75,0,0,0,142.80323855076318,245.7758840547475L132.72237493722633,228.5023149734815A55,55,0,0,1,75.95626821422978,227.70611998396186Z" fill="#219af6" stroke="black" stroke-width="0"/>
+<path aria-label="Regional West Borders: 559; East Silicon: Savings" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.80323855076318,245.7758840547475A75,75,0,0,0,105.0,106.0L105.0,126.0A55,55,0,0,1,132.72237493722633,228.5023149734815Z" fill="#c8adec" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#c8adec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M80.0,56.25A5,5,0,1,1,70.0,56.25A5,5,0,1,1,80.0,56.25" fill="#219af6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M158.0,56.25A5,5,0,1,1,148.0,56.25A5,5,0,1,1,158.0,56.25" fill="#ac7e0b" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Savings</text>
+<text aria-label="85,134,49,60" text-anchor="start" x="85.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="163,201,49,60" text-anchor="start" x="163.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="5,77,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">East Silicon</text>
+</svg>

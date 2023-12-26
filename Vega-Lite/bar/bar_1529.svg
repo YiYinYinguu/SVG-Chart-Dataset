@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1038" height="348" viewBox="0 0 1038 348" style="background-color: rgb(255, 255, 255);">
+<line x1="225.5" y1="70.5" x2="225.5" y2="270.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="536.5" y1="70.5" x2="536.5" y2="270.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="846.5" y1="70.5" x2="846.5" y2="270.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="270.5" x2="1033.5" y2="270.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="230.5" x2="1033.5" y2="230.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="190.5" x2="1033.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="150.5" x2="1033.5" y2="150.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="110.5" x2="1033.5" y2="110.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="39.5" y1="70.5" x2="1033.5" y2="70.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="217,228,277,343" text-anchor="end" x="225.375" y="277.5" transform="rotate(270.0, 228.375, 277.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">disagreement</text>
+<text aria-label="528,539,277,316" text-anchor="end" x="536.0" y="277.5" transform="rotate(270.0, 539.0, 277.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">flanker</text>
+<text aria-label="838,849,277,316" text-anchor="end" x="846.625" y="277.5" transform="rotate(270.0, 849.625, 277.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">topsail</text>
+<line aria-label="225,225,270,275" x1="225.5" y1="270.5" x2="225.5" y2="275.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="536,536,270,275" x1="536.5" y1="270.5" x2="536.5" y2="275.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="846,846,270,275" x1="846.5" y1="270.5" x2="846.5" y2="275.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,1033,270,270" x1="39.5" y1="270.5" x2="1033.5" y2="270.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="916,1033,0,26" text-anchor="end" x="1033.0" y="25.126000000000005" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Mini Home</text>
+<text aria-label="27,32,263,274" text-anchor="end" x="32.5" y="273.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="21,32,223,234" text-anchor="end" x="32.5" y="233.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="21,32,183,194" text-anchor="end" x="32.5" y="193.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="21,32,143,154" text-anchor="end" x="32.5" y="153.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="21,32,103,114" text-anchor="end" x="32.5" y="113.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="21,32,63,74" text-anchor="end" x="32.5" y="73.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">50</text>
+<line aria-label="34,39,270,270" x1="39.5" y1="270.5" x2="34.5" y2="270.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,230,230" x1="39.5" y1="230.5" x2="34.5" y2="230.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,190,190" x1="39.5" y1="190.5" x2="34.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,150,150" x1="39.5" y1="150.5" x2="34.5" y2="150.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,110,110" x1="39.5" y1="110.5" x2="34.5" y2="110.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,70,70" x1="39.5" y1="70.5" x2="34.5" y2="70.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,137,203" text-anchor="middle" x="16.771484375" y="170.5" transform="rotate(-90.0, 14.771484375, 170.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">SUV Account</text>
+<line aria-label="39,39,70,270" x1="39.5" y1="270.5" x2="39.5" y2="70.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="withdrawal overestimate Bolivia: flanker; SUV Account: 22; illum bypass: Passenger until withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M411.75,182.0h82.83333333333333v87.99999999999999h-82.83333333333333Z" fill="#dea46f"/>
+<path aria-label="withdrawal overestimate Bolivia: flanker; SUV Account: 8; illum bypass: when Regional" role="graphics-symbol" aria-roledescription="bar" d="M577.4166666666666,238.0h82.83333333333333v32h-82.83333333333333Z" fill="#cea0b5"/>
+<path aria-label="withdrawal overestimate Bolivia: flanker; SUV Account: 11; illum bypass: on Massachusetts Cadillac" role="graphics-symbol" aria-roledescription="bar" d="M494.5833333333333,226.0h82.83333333333333v44h-82.83333333333333Z" fill="#9faeed"/>
+<path aria-label="withdrawal overestimate Bolivia: topsail; SUV Account: 14; illum bypass: Passenger until withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M722.375,214.0h82.83333333333333v56h-82.83333333333333Z" fill="#dea46f"/>
+<path aria-label="withdrawal overestimate Bolivia: topsail; SUV Account: 48; illum bypass: when Regional" role="graphics-symbol" aria-roledescription="bar" d="M888.0416666666666,78.0h82.83333333333333v192h-82.83333333333333Z" fill="#cea0b5"/>
+<path aria-label="withdrawal overestimate Bolivia: topsail; SUV Account: 43; illum bypass: on Massachusetts Cadillac" role="graphics-symbol" aria-roledescription="bar" d="M805.2083333333334,98.0h82.83333333333333v172h-82.83333333333333Z" fill="#9faeed"/>
+<path aria-label="withdrawal overestimate Bolivia: disagreement; SUV Account: 7; illum bypass: Passenger until withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M101.125,242.0h82.83333333333333v28h-82.83333333333333Z" fill="#dea46f"/>
+<path aria-label="withdrawal overestimate Bolivia: disagreement; SUV Account: 11; illum bypass: when Regional" role="graphics-symbol" aria-roledescription="bar" d="M266.79166666666663,226.0h82.83333333333333v44h-82.83333333333333Z" fill="#cea0b5"/>
+<path aria-label="withdrawal overestimate Bolivia: disagreement; SUV Account: 50; illum bypass: on Massachusetts Cadillac" role="graphics-symbol" aria-roledescription="bar" d="M183.95833333333331,70.0h82.83333333333333v200h-82.83333333333333Z" fill="#9faeed"/>
+<text aria-label="437,468,140,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="453.1666666666667" y="170.12600000000003" font-family="avenir" font-size="29.82px" fill="#000" opacity="1">22</text>
+<text aria-label="611,626,196,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="618.8333333333333" y="226.126" font-family="avenir" font-size="29.82px" fill="#000" opacity="1">8</text>
+<text aria-label="520,551,184,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="536.0" y="214.126" font-family="avenir" font-size="29.82px" fill="#000" opacity="1">11</text>
+<text aria-label="748,779,172,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="763.7916666666666" y="202.126" font-family="avenir" font-size="29.82px" fill="#000" opacity="1">14</text>
+<text aria-label="914,944,36,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="929.4583333333333" y="66.126" font-family="avenir" font-size="29.82px" fill="#000" opacity="1">48</text>
+<text aria-label="831,862,56,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="846.625" y="86.126" font-family="avenir" font-size="29.82px" fill="#000" opacity="1">43</text>
+<text aria-label="134,150,200,231" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.54166666666666" y="230.126" font-family="avenir" font-size="29.82px" fill="#000" opacity="1">7</text>
+<text aria-label="292,323,184,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="308.2083333333333" y="214.126" font-family="avenir" font-size="29.82px" fill="#000" opacity="1">11</text>
+<text aria-label="209,240,28,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="225.375" y="58.126000000000005" font-family="avenir" font-size="29.82px" fill="#000" opacity="1">50</text>
+</svg>

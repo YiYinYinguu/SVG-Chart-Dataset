@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="270" viewBox="0 0 304 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="0,299,0,26" text-anchor="end" x="299.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">perfect ASCII turquoise</text>
+<path aria-label="Factors Mini chatter: 52; gold: JBOD" role="graphics-symbol" aria-roledescription="arc mark"  d="M239.77052517991567,112.22864920591533A75,75,0,0,0,168.0,59.0L168.0,98.0A36,36,0,0,1,202.44985208635953,123.54975161883937Z" fill="#7a99c5" stroke="black" stroke-width="1"/>
+<path aria-label="Factors Mini chatter: 47; gold: ouch" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.0,59.0A75,75,0,0,0,99.43426832223521,103.60690144962575L135.0884487946729,119.41131269582036A36,36,0,0,1,168.0,98.0Z" fill="#dd3fff" stroke="black" stroke-width="1"/>
+<path aria-label="Factors Mini chatter: 70; gold: Tugrik" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.00478558415213,208.18823824735858A75,75,0,0,0,239.77052517991567,112.22864920591533L202.44985208635953,123.54975161883937A36,36,0,0,1,173.28229708039302,169.6103543587321Z" fill="#c64a9f" stroke="black" stroke-width="1"/>
+<path aria-label="Factors Mini chatter: 87; gold: generating" role="graphics-symbol" aria-roledescription="arc mark"  d="M99.43426832223521,103.60690144962575A75,75,0,0,0,179.00478558415213,208.18823824735858L173.28229708039302,169.6103543587321A36,36,0,0,1,135.0884487946729,119.41131269582036Z" fill="#b3092c" stroke="black" stroke-width="1"/>
+<text aria-label="217,225,56,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="221.612937404319" y="63.711322166741965" font-family="Balto" font-size="7px" fill="#7a99c5" opacity="1">52</text>
+<text aria-label="114,122,53,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.92075104201578" y="60.55977650006459" font-family="Balto" font-size="7px" fill="#dd3fff" opacity="1">47</text>
+<text aria-label="240,248,177,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="244.03682087247364" y="184.14978578983875" font-family="Balto" font-size="7px" fill="#c64a9f" opacity="1">70</text>
+<text aria-label="92,100,183,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="96.37467858520048" y="190.49599372638932" font-family="Balto" font-size="7px" fill="#b3092c" opacity="1">87</text>
+<path  d="M79.0,258.25A5,5,0,1,1,69.0,258.25A5,5,0,1,1,79.0,258.25" fill="#7a99c5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M133.0,258.25A5,5,0,1,1,123.0,258.25A5,5,0,1,1,133.0,258.25" fill="#c64a9f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M190.0,258.25A5,5,0,1,1,180.0,258.25A5,5,0,1,1,190.0,258.25" fill="#b3092c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M270.0,258.25A5,5,0,1,1,260.0,258.25A5,5,0,1,1,270.0,258.25" fill="#dd3fff" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="84,106,251,262" text-anchor="start" x="84.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">JBOD</text>
+<text aria-label="138,171,251,262" text-anchor="start" x="138.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Tugrik</text>
+<text aria-label="195,250,251,262" text-anchor="start" x="195.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">generating</text>
+<text aria-label="275,297,251,262" text-anchor="start" x="275.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">ouch</text>
+</svg>

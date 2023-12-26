@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="125,255,0,26" text-anchor="middle" x="190.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Directives</text>
+<path aria-label="Checking: 37; Soul: Towels" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.56659683034673,75.9046278629259A75,75,0,0,0,128.2762100579758,176.60485600483668L158.72661309604106,155.58646037578393A38,38,0,0,1,165.9670757273757,104.56501145054912Z" fill="#fe756f" stroke="black" stroke-width="1"/>
+<path aria-label="Checking: 54; Soul: Darryl" role="graphics-symbol" aria-roledescription="arc mark"  d="M251.72378994202424,176.60485600483668A75,75,0,0,0,190.0,59.0L190.0,96.0A38,38,0,0,1,221.27338690395894,155.58646037578393Z" fill="#0c844a" stroke="black" stroke-width="1"/>
+<path aria-label="Checking: 26; Soul: Fremont" role="graphics-symbol" aria-roledescription="arc mark"  d="M183.96500734624559,208.75679811006574A75,75,0,0,0,251.72378994202424,176.60485600483668L221.27338690395894,155.58646037578393A38,38,0,0,1,186.94227038876443,171.8767777091Z" fill="#44fc8a" stroke="black" stroke-width="1"/>
+<path aria-label="Checking: 22; Soul: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.2762100579758,176.60485600483668A75,75,0,0,0,183.96500734624559,208.75679811006574L186.94227038876443,171.8767777091A38,38,0,0,1,158.72661309604106,155.58646037578393Z" fill="#e4f329" stroke="black" stroke-width="1"/>
+<path aria-label="Checking: 8; Soul: bypass" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.4046334718098,63.873781798593896A75,75,0,0,0,142.56659683034673,75.9046278629259L165.9670757273757,104.56501145054912A38,38,0,0,1,176.52501429238364,98.46938277795424Z" fill="#9fbcaa" stroke="black" stroke-width="1"/>
+<path aria-label="Checking: 9; Soul: parse" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,163.4046334718098,63.873781798593896L176.52501429238364,98.46938277795424A38,38,0,0,1,190.0,96.0Z" fill="#fc6bfe" stroke="black" stroke-width="1"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#0c844a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#44fc8a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#e4f329" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#fe756f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#9fbcaa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#fc6bfe" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Darryl</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Fremont</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Towels</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">bypass</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">parse</text>
+</svg>

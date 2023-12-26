@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="300" height="239" viewBox="0 0 300 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Ergonomic</text>
+<path aria-label="Meitnerium maroon Account: 110; Refined: Convertible" role="graphics-symbol" aria-roledescription="arc mark"  d="M222.77278891138621,64.33169877136673A75,75,0,0,0,195.0,59.0L195.0,100.0A34,34,0,0,1,207.59033097316174,102.41703677635292Z" fill="#809e98" stroke="white" stroke-width="1"/>
+<path aria-label="Meitnerium maroon Account: 775; Refined: steradian" role="graphics-symbol" aria-roledescription="arc mark"  d="M195.0,59.0A75,75,0,0,0,161.10058937514304,200.90164392066413L179.63226718339817,164.3287452440344A34,34,0,0,1,195.0,100.0Z" fill="#7e2c17" stroke="white" stroke-width="1"/>
+<path aria-label="Meitnerium maroon Account: 95; Refined: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M243.713520195515,76.97375209466124A75,75,0,0,0,222.77278891138621,64.33169877136673L207.59033097316174,102.41703677635292A34,34,0,0,1,217.08346248863347,108.14810094957976Z" fill="#f47c95" stroke="white" stroke-width="1"/>
+<path aria-label="Meitnerium maroon Account: 373; Refined: hack" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.37734288664993,204.84295841280482A75,75,0,0,0,256.08410265097774,177.51703578283812L222.69145986844325,153.72772288821994A34,34,0,0,1,183.8377287752813,166.1154744804715Z" fill="#3fc3d0" stroke="white" stroke-width="1"/>
+<path aria-label="Meitnerium maroon Account: 430; Refined: Savings" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.08410265097774,177.51703578283812A75,75,0,0,0,243.713520195515,76.97375209466124L217.08346248863347,108.14810094957976A34,34,0,0,1,222.69145986844325,153.72772288821994Z" fill="#b0eed9" stroke="white" stroke-width="1"/>
+<path aria-label="Meitnerium maroon Account: 39; Refined: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.10058937514304,200.90164392066413A75,75,0,0,0,170.37734288664993,204.84295841280482L183.8377287752813,166.1154744804715A34,34,0,0,1,179.63226718339817,164.3287452440344Z" fill="#3a187c" stroke="white" stroke-width="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#809e98" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#f47c95" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#b0eed9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#3fc3d0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#3a187c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#7e2c17" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Convertible</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Savings</text>
+<text aria-label="21,43,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">hack</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">steradian</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Refined</text>
+</svg>

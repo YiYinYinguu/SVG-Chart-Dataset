@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="455" height="286" viewBox="0 0 455 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">algorithm</text>
+<path aria-label="Usability Passenger: 163; Mandatory: Customer" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.83222189707425,147.18343694721483A75,75,0,0,0,160.8660099370154,83.96012656173782L105.0,134.0Z" fill="#d6c967" stroke="white" stroke-width="3"/>
+<path aria-label="Usability Passenger: 285; Mandatory: Hafnium" role="graphics-symbol" aria-roledescription="arc mark"  d="M74.02519262192621,202.3049142294405A75,75,0,0,0,173.77094981292302,163.92584939192912L105.0,134.0Z" fill="#5aefee" stroke="white" stroke-width="3"/>
+<path aria-label="Usability Passenger: 168; Mandatory: Plastic" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.64906989131218,149.64100547248785A75,75,0,0,0,74.02519262192621,202.3049142294405L105.0,134.0Z" fill="#fee9bd" stroke="white" stroke-width="3"/>
+<path aria-label="Usability Passenger: 42; Mandatory: HEX" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.77094981292302,163.92584939192912A75,75,0,0,0,178.83222189707425,147.18343694721483L105.0,134.0Z" fill="#3acaaf" stroke="white" stroke-width="3"/>
+<path aria-label="Usability Passenger: 116; Mandatory: Somoni" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.99999073948814,102.3614358642763A75,75,0,0,0,31.64906989131218,149.64100547248785L105.0,134.0Z" fill="#f0c4ad" stroke="white" stroke-width="3"/>
+<path aria-label="Usability Passenger: 204; Mandatory: hoarse" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,36.99999073948814,102.3614358642763L105.0,134.0Z" fill="#02a3af" stroke="white" stroke-width="3"/>
+<path aria-label="Usability Passenger: 44; Mandatory: CLI" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.8660099370154,83.96012656173782A75,75,0,0,0,147.06818000791176,71.90919366909517L105.0,134.0Z" fill="#33627e" stroke="white" stroke-width="3"/>
+<path aria-label="Usability Passenger: 107; Mandatory: Accounts" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.06818000791176,71.90919366909517A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#dfc115" stroke="white" stroke-width="3"/>
+<text aria-label="183,199,102,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.57236622684832" y="112.39867064802286" font-family="monospace" font-size="10px" fill="#d6c967" opacity="1">163</text>
+<text aria-label="129,145,210,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.31934962638687" y="220.9967835082235" font-family="monospace" font-size="10px" fill="#5aefee" opacity="1">285</text>
+<text aria-label="26,43,183,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.881209055073924" y="193.42122966066722" font-family="monospace" font-size="10px" fill="#fee9bd" opacity="1">168</text>
+<text aria-label="185,196,153,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.1495807548659" y="163.04322821312365" font-family="monospace" font-size="10px" fill="#3acaaf" opacity="1">42</text>
+<text aria-label="7,23,116,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.570919301149928" y="126.87875870465672" font-family="monospace" font-size="10px" fill="#f0c4ad" opacity="1">116</text>
+<text aria-label="48,64,51,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="56.61077044764072" y="61.11533446519594" font-family="monospace" font-size="10px" fill="#02a3af" opacity="1">204</text>
+<text aria-label="158,169,59,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.2037076182796" y="69.21415336333652" font-family="monospace" font-size="10px" fill="#33627e" opacity="1">44</text>
+<text aria-label="123,139,40,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.40258430781236" y="50.95987249039632" font-family="monospace" font-size="10px" fill="#dfc115" opacity="1">107</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#dfc115" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#33627e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,274.25A5,5,0,1,1,115.0,274.25A5,5,0,1,1,125.0,274.25" fill="#d6c967" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,274.25A5,5,0,1,1,182.0,274.25A5,5,0,1,1,192.0,274.25" fill="#3acaaf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,274.25A5,5,0,1,1,224.0,274.25A5,5,0,1,1,234.0,274.25" fill="#5aefee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,274.25A5,5,0,1,1,286.0,274.25A5,5,0,1,1,296.0,274.25" fill="#fee9bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M358.0,274.25A5,5,0,1,1,348.0,274.25A5,5,0,1,1,358.0,274.25" fill="#f0c4ad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M415.0,274.25A5,5,0,1,1,405.0,274.25A5,5,0,1,1,415.0,274.25" fill="#02a3af" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Accounts</text>
+<text aria-label="88,104,267,278" text-anchor="start" x="88.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">CLI</text>
+<text aria-label="130,174,267,278" text-anchor="start" x="130.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Customer</text>
+<text aria-label="197,213,267,278" text-anchor="start" x="197.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">HEX</text>
+<text aria-label="239,277,267,278" text-anchor="start" x="239.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hafnium</text>
+<text aria-label="301,339,267,278" text-anchor="start" x="301.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Plastic</text>
+<text aria-label="363,396,267,278" text-anchor="start" x="363.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Somoni</text>
+<text aria-label="420,453,267,278" text-anchor="start" x="420.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">hoarse</text>
+<text aria-label="5,59,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Mandatory</text>
+</svg>

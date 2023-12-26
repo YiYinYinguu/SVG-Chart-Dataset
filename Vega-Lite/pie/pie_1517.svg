@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="418" height="270" viewBox="0 0 418 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,343,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Northwest Savings Gasoline</text>
+<path aria-label="monitor: 19; 24/7 Granite: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.95623396542618,197.4704605883723A75,75,0,0,0,149.61038374850745,194.29024516296897L130.57662001581093,168.5664072267689A43,43,0,0,1,127.90824080684435,170.38973073733345Z" fill="#2c20bd" stroke="black" stroke-width="0"/>
+<path aria-label="monitor: 292; 24/7 Granite: Iron" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.62011214923882,103.72987927632451A75,75,0,0,0,105.0,59.0L105.0,91.0A43,43,0,0,1,144.34219763223024,116.64513078509273Z" fill="#2ac88f" stroke="black" stroke-width="0"/>
+<path aria-label="monitor: 405; 24/7 Granite: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.63096897881685,101.03921027543693A75,75,0,0,0,74.18781900522214,202.37842863319577L87.33434956299402,173.2036324163656A43,43,0,0,1,66.37508888118833,115.10248055791718Z" fill="#ecccd7" stroke="black" stroke-width="0"/>
+<path aria-label="monitor: 341; 24/7 Granite: Neutrois" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.61038374850745,194.29024516296897A75,75,0,0,0,173.62011214923882,103.72987927632451L144.34219763223024,116.64513078509273A43,43,0,0,1,130.57662001581093,168.5664072267689Z" fill="#a9d81f" stroke="black" stroke-width="0"/>
+<path aria-label="monitor: 131; 24/7 Granite: ubiquitous" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,67.84317756011703,68.85116619485035L83.6967551344671,96.6480019517142A43,43,0,0,1,104.99999999999999,91.0Z" fill="#cdfad8" stroke="black" stroke-width="0"/>
+<path aria-label="monitor: 249; 24/7 Granite: Thulium" role="graphics-symbol" aria-roledescription="arc mark"  d="M74.18781900522214,202.37842863319577A75,75,0,0,0,144.95623396542618,197.4704605883723L127.90824080684435,170.38973073733345A43,43,0,0,1,87.33434956299402,173.2036324163656Z" fill="#82ad6d" stroke="black" stroke-width="0"/>
+<path aria-label="monitor: 151; 24/7 Granite: port" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.84317756011703,68.85116619485035A75,75,0,0,0,37.63096897881685,101.03921027543693L66.37508888118833,115.10248055791718A43,43,0,0,1,83.6967551344671,96.6480019517142Z" fill="#702b6c" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#2ac88f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,258.25A5,5,0,1,1,53.0,258.25A5,5,0,1,1,63.0,258.25" fill="#a9d81f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,258.25A5,5,0,1,1,120.0,258.25A5,5,0,1,1,130.0,258.25" fill="#2c20bd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M202.0,258.25A5,5,0,1,1,192.0,258.25A5,5,0,1,1,202.0,258.25" fill="#82ad6d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M264.0,258.25A5,5,0,1,1,254.0,258.25A5,5,0,1,1,264.0,258.25" fill="#ecccd7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M311.0,258.25A5,5,0,1,1,301.0,258.25A5,5,0,1,1,311.0,258.25" fill="#702b6c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M358.0,258.25A5,5,0,1,1,348.0,258.25A5,5,0,1,1,358.0,258.25" fill="#cdfad8" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Iron</text>
+<text aria-label="68,112,251,262" text-anchor="start" x="68.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Neutrois</text>
+<text aria-label="135,184,251,262" text-anchor="start" x="135.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="207,245,251,262" text-anchor="start" x="207.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Thulium</text>
+<text aria-label="269,291,251,262" text-anchor="start" x="269.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="316,338,251,262" text-anchor="start" x="316.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">port</text>
+<text aria-label="363,418,251,262" text-anchor="start" x="363.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">ubiquitous</text>
+</svg>

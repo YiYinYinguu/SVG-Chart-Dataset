@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="591" height="293" viewBox="0 0 591 293" style="background-color: rgb(255, 255, 255);">
+<line x1="133.5" y1="39.5" x2="133.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="314.5" y1="39.5" x2="314.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="495.5" y1="39.5" x2="495.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="43.5" y1="239.5" x2="586.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="43.5" y1="210.5" x2="586.5" y2="210.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="43.5" y1="182.5" x2="586.5" y2="182.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="43.5" y1="153.5" x2="586.5" y2="153.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="43.5" y1="125.5" x2="586.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="43.5" y1="96.5" x2="586.5" y2="96.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="43.5" y1="68.5" x2="586.5" y2="68.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="43.5" y1="39.5" x2="586.5" y2="39.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="125,136,246,279" text-anchor="end" x="133.5" y="246.5" transform="rotate(270.0, 136.5, 246.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">brooch</text>
+<text aria-label="306,317,246,279" text-anchor="end" x="314.5" y="246.5" transform="rotate(270.0, 317.5, 246.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">handle</text>
+<text aria-label="487,498,246,290" text-anchor="end" x="495.5" y="246.5" transform="rotate(270.0, 498.5, 246.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">ironclad</text>
+<line aria-label="133,133,239,244" x1="133.5" y1="239.5" x2="133.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="314,314,239,244" x1="314.5" y1="239.5" x2="314.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="495,495,239,244" x1="495.5" y1="239.5" x2="495.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,586,239,239" x1="43.5" y1="239.5" x2="586.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,278,0,26" text-anchor="start" x="5.4140625" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">grey Northeast Wooden</text>
+<text aria-label="31,36,232,243" text-anchor="end" x="36.5" y="242.5" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="20,36,203,214" text-anchor="end" x="36.5" y="213.92857142857144" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="20,36,175,186" text-anchor="end" x="36.5" y="185.35714285714286" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="20,36,146,157" text-anchor="end" x="36.5" y="156.78571428571428" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="20,36,118,129" text-anchor="end" x="36.5" y="128.21428571428572" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="20,36,89,100" text-anchor="end" x="36.5" y="99.64285714285714" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="20,36,61,72" text-anchor="end" x="36.5" y="71.07142857142858" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="20,36,32,43" text-anchor="end" x="36.5" y="42.5" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">700</text>
+<line aria-label="38,43,239,239" x1="43.5" y1="239.5" x2="38.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,210,210" x1="43.5" y1="210.5" x2="38.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,182,182" x1="43.5" y1="182.5" x2="38.5" y2="182.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,153,153" x1="43.5" y1="153.5" x2="38.5" y2="153.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,125,125" x1="43.5" y1="125.5" x2="38.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,96,96" x1="43.5" y1="96.5" x2="38.5" y2="96.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,68,68" x1="43.5" y1="68.5" x2="38.5" y2="68.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,39,39" x1="43.5" y1="39.5" x2="38.5" y2="39.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,130,148" text-anchor="middle" x="16.9140625" y="139.5" transform="rotate(-90.0, 14.9140625, 139.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">VGA</text>
+<path aria-label="quantifying: ironclad; VGA: 481; local whoever shoulder: explicabo" role="graphics-symbol" aria-roledescription="bar" d="M422.195,101.57142857142857h146.61v137.42857142857144h-146.61Z" fill="#facce2"/>
+<path aria-label="quantifying: ironclad; VGA: 15; local whoever shoulder: Idaho Gloves Applications" role="graphics-symbol" aria-roledescription="bar" d="M422.195,97.2857142857143h146.61v4.2857142857142705h-146.61Z" fill="#e4bfb2"/>
+<path aria-label="quantifying: brooch; VGA: 486; local whoever shoulder: explicabo" role="graphics-symbol" aria-roledescription="bar" d="M60.19500000000001,100.14285714285714h146.61v138.85714285714286h-146.61Z" fill="#facce2"/>
+<path aria-label="quantifying: brooch; VGA: 189; local whoever shoulder: Idaho Gloves Applications" role="graphics-symbol" aria-roledescription="bar" d="M60.19500000000001,46.14285714285714h146.61v54.00000000000001h-146.61Z" fill="#e4bfb2"/>
+<path aria-label="quantifying: handle; VGA: 186; local whoever shoulder: explicabo" role="graphics-symbol" aria-roledescription="bar" d="M241.19500000000002,185.85714285714283h146.61v53.14285714285717h-146.61Z" fill="#facce2"/>
+<path aria-label="quantifying: handle; VGA: 14; local whoever shoulder: Idaho Gloves Applications" role="graphics-symbol" aria-roledescription="bar" d="M241.19500000000002,181.85714285714286h146.61v3.9999999999999716h-146.61Z" fill="#e4bfb2"/>
+</svg>

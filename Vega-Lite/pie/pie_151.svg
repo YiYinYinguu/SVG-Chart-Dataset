@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="329" height="239" viewBox="0 0 329 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,235,0,26" text-anchor="middle" x="125.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">meter Hafnium tan</text>
+<path aria-label="alongside: 570; TCP West: Computer" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.87321713005144,98.1430722880906A75,75,0,0,0,155.00138844282438,65.2619705584837L125.0,134.0Z" fill="#2edb52" stroke="white" stroke-width="0"/>
+<path aria-label="alongside: 409; TCP West: infrastructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.05416205981565,87.6277217561017A75,75,0,0,0,51.38442030478288,119.65613628978798L125.0,134.0Z" fill="#f6acaa" stroke="white" stroke-width="0"/>
+<path aria-label="alongside: 780; TCP West: wiry" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.99999999999999,59.0A75,75,0,0,0,66.05416205981565,87.6277217561017L125.0,134.0Z" fill="#17856f" stroke="white" stroke-width="0"/>
+<path aria-label="alongside: 713; TCP West: eius" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.028122960450105,158.24856015278039A75,75,0,0,0,94.75973787544251,202.63327579708005L125.0,134.0Z" fill="#de376c" stroke="white" stroke-width="0"/>
+<path aria-label="alongside: 811; TCP West: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M192.80268160329655,166.05926336337117A75,75,0,0,0,190.87321713005144,98.1430722880906L125.0,134.0Z" fill="#c8ce93" stroke="white" stroke-width="0"/>
+<path aria-label="alongside: 355; TCP West: Applications" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.00138844282438,65.2619705584837A75,75,0,0,0,125.0,59.0L125.0,134.0Z" fill="#b3d00c" stroke="white" stroke-width="0"/>
+<path aria-label="alongside: 631; TCP West: directional" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.75973787544251,202.63327579708005A75,75,0,0,0,148.34159030172296,205.2753124313497L125.0,134.0Z" fill="#c7ccb1" stroke="white" stroke-width="0"/>
+<path aria-label="alongside: 450; TCP West: hacking" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.38442030478288,119.65613628978798A75,75,0,0,0,54.028122960450105,158.24856015278039L125.0,134.0Z" fill="#79c910" stroke="white" stroke-width="0"/>
+<path aria-label="alongside: 701; TCP West: Passenger" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.34159030172296,205.2753124313497A75,75,0,0,0,192.80268160329655,166.05926336337117L125.0,134.0Z" fill="#dc4024" stroke="white" stroke-width="0"/>
+<text aria-label="179,192,61,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.81380159219302" y="69.65483034986359" font-family="Balto" font-size="8px" fill="#2edb52" opacity="1">570</text>
+<text aria-label="36,49,90,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="43.17454209173266" y="98.52208065937532" font-family="Balto" font-size="8px" fill="#f6acaa" opacity="1">409</text>
+<text aria-label="78,92,47,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="85.68210363168583" y="55.04258511309476" font-family="Balto" font-size="8px" fill="#17856f" opacity="1">780</text>
+<text aria-label="51,65,188,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="58.690090974877734" y="196.85224700107636" font-family="Balto" font-size="8px" fill="#de376c" opacity="1">713</text>
+<text aria-label="208,221,125,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="214.96370250519504" y="133.4441769316398" font-family="Balto" font-size="8px" fill="#c8ce93" opacity="1">811</text>
+<text aria-label="136,150,39,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.38875771111577" y="47.898617548633894" font-family="Balto" font-size="8px" fill="#b3d00c" opacity="1">355</text>
+<text aria-label="113,127,217,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.56762693599043" y="225.890789678484" font-family="Balto" font-size="8px" fill="#c7ccb1" opacity="1">631</text>
+<text aria-label="28,41,134,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="35.2104303558947" y="142.1508684855363" font-family="Balto" font-size="8px" fill="#79c910" opacity="1">450</text>
+<text aria-label="177,191,195,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.53371859724" y="203.49619507783115" font-family="Balto" font-size="8px" fill="#dc4024" opacity="1">701</text>
+<path  d="M254.0,56.0A5,5,0,1,1,244.0,56.0A5,5,0,1,1,254.0,56.0" fill="#b3d00c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,72.0A5,5,0,1,1,244.0,72.0A5,5,0,1,1,254.0,72.0" fill="#2edb52" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,88.0A5,5,0,1,1,244.0,88.0A5,5,0,1,1,254.0,88.0" fill="#c8ce93" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,104.0A5,5,0,1,1,244.0,104.0A5,5,0,1,1,254.0,104.0" fill="#dc4024" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,120.0A5,5,0,1,1,244.0,120.0A5,5,0,1,1,254.0,120.0" fill="#c7ccb1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,136.0A5,5,0,1,1,244.0,136.0A5,5,0,1,1,254.0,136.0" fill="#de376c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,152.0A5,5,0,1,1,244.0,152.0A5,5,0,1,1,254.0,152.0" fill="#79c910" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,168.0A5,5,0,1,1,244.0,168.0A5,5,0,1,1,254.0,168.0" fill="#f6acaa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,184.0A5,5,0,1,1,244.0,184.0A5,5,0,1,1,254.0,184.0" fill="#17856f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="259,325,49,60" text-anchor="start" x="259.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Applications</text>
+<text aria-label="259,303,65,76" text-anchor="start" x="259.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Computer</text>
+<text aria-label="259,297,81,92" text-anchor="start" x="259.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="259,308,97,108" text-anchor="start" x="259.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Passenger</text>
+<text aria-label="259,319,113,124" text-anchor="start" x="259.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">directional</text>
+<text aria-label="259,281,129,140" text-anchor="start" x="259.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">eius</text>
+<text aria-label="259,297,145,156" text-anchor="start" x="259.0" y="155.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">hacking</text>
+<text aria-label="259,336,161,172" text-anchor="start" x="259.0" y="171.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">infrastructure</text>
+<text aria-label="259,281,177,188" text-anchor="start" x="259.0" y="187.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">wiry</text>
+<text aria-label="243,291,32,44" text-anchor="start" x="243.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">TCP West</text>
+</svg>

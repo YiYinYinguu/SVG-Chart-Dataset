@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="346" height="306" viewBox="0 0 346 306" style="background-color: rgb(255, 255, 255);">
+<line x1="87.5" y1="34.5" x2="87.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="189.5" y1="34.5" x2="189.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="290.5" y1="34.5" x2="290.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="74,92,241,277" text-anchor="end" x="87.66666666666669" y="241.5" transform="rotate(270.0, 92.66666666666669, 241.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">beet</text>
+<text aria-label="176,194,241,295" text-anchor="end" x="189.00000000000003" y="241.5" transform="rotate(270.0, 194.00000000000003, 241.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">hobbit</text>
+<text aria-label="277,295,241,295" text-anchor="end" x="290.33333333333337" y="241.5" transform="rotate(270.0, 295.33333333333337, 241.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">warren</text>
+<line aria-label="87,87,234,239" x1="87.5" y1="234.5" x2="87.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="189,189,234,239" x1="189.5" y1="234.5" x2="189.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="290,290,234,239" x1="290.5" y1="234.5" x2="290.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,341,234,234" x1="37.5" y1="234.5" x2="341.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,252,0,26" text-anchor="start" x="5.09228515625" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">nor Generic Account</text>
+<text aria-label="26,35,222,240" text-anchor="end" x="35.5" y="239.5" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="8,35,191,209" text-anchor="end" x="35.5" y="208.73076923076923" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="8,35,160,178" text-anchor="end" x="35.5" y="177.96153846153845" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="8,35,130,148" text-anchor="end" x="35.5" y="147.19230769230768" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="8,35,99,117" text-anchor="end" x="35.5" y="116.42307692307692" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="8,35,68,86" text-anchor="end" x="35.5" y="85.65384615384615" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="8,35,37,55" text-anchor="end" x="35.5" y="54.88461538461537" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">600</text>
+<path aria-label="East East: hobbit; Industrial: 343; wildly: architecture with Niue" role="graphics-symbol" aria-roledescription="bar" d="M166.20000000000002,128.46153846153845h45.6v105.53846153846153h-45.6Z" fill="#bab8f0"/>
+<path aria-label="East East: beet; Industrial: 151; wildly: architecture with Niue" role="graphics-symbol" aria-roledescription="bar" d="M64.86666666666669,187.53846153846155h45.6v46.46153846153845h-45.6Z" fill="#bab8f0"/>
+<path aria-label="East East: warren; Industrial: 607; wildly: architecture with Niue" role="graphics-symbol" aria-roledescription="bar" d="M267.53333333333336,47.230769230769226h45.6v186.76923076923077h-45.6Z" fill="#bab8f0"/>
+<text aria-label="184,193,121,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.00000000000003" y="126.26953846153847" font-family="sans-serif" font-size="4.56px" fill="#000" opacity="1">343</text>
+<text aria-label="83,91,180,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="87.66666666666669" y="185.34646153846154" font-family="sans-serif" font-size="4.56px" fill="#000" opacity="1">151</text>
+<text aria-label="286,294,40,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="290.33333333333337" y="45.03876923076922" font-family="sans-serif" font-size="4.56px" fill="#000" opacity="1">607</text>
+</svg>

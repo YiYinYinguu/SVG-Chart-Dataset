@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="933" height="354" viewBox="0 0 933 354" style="background-color: rgb(255, 255, 255);">
+<line x1="134.5" y1="41.5" x2="134.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="276.5" y1="41.5" x2="276.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="418.5" y1="41.5" x2="418.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="559.5" y1="41.5" x2="559.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="701.5" y1="41.5" x2="701.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="843.5" y1="41.5" x2="843.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="123,139,248,320" text-anchor="end" x="134.9677419354839" y="248.5" transform="rotate(270.0, 139.9677419354839, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">behaviour</text>
+<text aria-label="265,281,248,320" text-anchor="end" x="276.58064516129036" y="248.5" transform="rotate(270.0, 281.58064516129036, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">bratwurst</text>
+<text aria-label="407,423,248,280" text-anchor="end" x="418.19354838709677" y="248.5" transform="rotate(270.0, 423.19354838709677, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">most</text>
+<text aria-label="548,564,248,296" text-anchor="end" x="559.8064516129032" y="248.5" transform="rotate(270.0, 564.8064516129032, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">picket</text>
+<text aria-label="690,706,248,280" text-anchor="end" x="701.4193548387096" y="248.5" transform="rotate(270.0, 706.4193548387096, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">poet</text>
+<text aria-label="832,848,248,296" text-anchor="end" x="843.0322580645161" y="248.5" transform="rotate(270.0, 848.0322580645161, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">shrine</text>
+<line aria-label="134,134,241,246" x1="134.5" y1="241.5" x2="134.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="276,276,241,246" x1="276.5" y1="241.5" x2="276.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="418,418,241,246" x1="418.5" y1="241.5" x2="418.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="559,559,241,246" x1="559.5" y1="241.5" x2="559.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="701,701,241,246" x1="701.5" y1="241.5" x2="701.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="843,843,241,246" x1="843.5" y1="241.5" x2="843.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,928,241,241" x1="50.5" y1="241.5" x2="928.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,226,0,26" text-anchor="start" x="5.24853515625" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bacon programming</text>
+<text aria-label="40,48,231,247" text-anchor="end" x="48.5" y="246.5" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="32,48,202,218" text-anchor="end" x="48.5" y="217.92857142857144" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="24,48,174,190" text-anchor="end" x="48.5" y="189.35714285714286" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="24,48,145,161" text-anchor="end" x="48.5" y="160.78571428571428" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="24,48,117,133" text-anchor="end" x="48.5" y="132.21428571428572" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="24,48,88,104" text-anchor="end" x="48.5" y="103.64285714285714" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">250</text>
+<text aria-label="24,48,60,76" text-anchor="end" x="48.5" y="75.07142857142858" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="24,48,31,47" text-anchor="end" x="48.5" y="46.5" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">350</text>
+<text aria-label="2,14,120,162" text-anchor="middle" x="16.74853515625" y="141.5" transform="rotate(-90.0, 14.74853515625, 141.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Pfeffer</text>
+<path aria-label="Auto magenta Field: behaviour; Pfeffer: 236; schemas: F2M Rubber" role="graphics-symbol" aria-roledescription="bar" d="M78.32258064516134,106.14285714285715h113.29032258064515v134.85714285714283h-113.29032258064515Z" fill="#475c79"/>
+<path aria-label="Auto magenta Field: shrine; Pfeffer: 301; schemas: F2M Rubber" role="graphics-symbol" aria-roledescription="bar" d="M786.3870967741935,69.0h113.29032258064515v172h-113.29032258064515Z" fill="#475c79"/>
+<path aria-label="Auto magenta Field: most; Pfeffer: 233; schemas: F2M Rubber" role="graphics-symbol" aria-roledescription="bar" d="M361.5483870967742,107.85714285714286h113.29032258064515v133.14285714285714h-113.29032258064515Z" fill="#475c79"/>
+<path aria-label="Auto magenta Field: poet; Pfeffer: 221; schemas: F2M Rubber" role="graphics-symbol" aria-roledescription="bar" d="M644.7741935483871,114.71428571428571h113.29032258064515v126.28571428571429h-113.29032258064515Z" fill="#475c79"/>
+<path aria-label="Auto magenta Field: picket; Pfeffer: 291; schemas: F2M Rubber" role="graphics-symbol" aria-roledescription="bar" d="M503.1612903225806,74.71428571428572h113.29032258064515v166.28571428571428h-113.29032258064515Z" fill="#475c79"/>
+<path aria-label="Auto magenta Field: bratwurst; Pfeffer: 215; schemas: F2M Rubber" role="graphics-symbol" aria-roledescription="bar" d="M219.93548387096777,118.14285714285714h113.29032258064515v122.85714285714286h-113.29032258064515Z" fill="#475c79"/>
+<path  d="M51.0,339.0h10v10h-10Z" fill="#475c79" stroke-width="1.5" opacity="1"/>
+<text aria-label="66,121,337,348" text-anchor="start" x="66.0" y="347.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">F2M Rubber</text>
+</svg>

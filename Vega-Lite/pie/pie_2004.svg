@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="286" height="239" viewBox="0 0 286 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="216,281,0,26" text-anchor="end" x="281.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">parse</text>
+<path aria-label="Designer: 244; Cab Coordinator Total: Oregon" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.71657601576763,102.97784648046563A75,75,0,0,0,57.832439866211686,192.31141630097372L105.0,134.0Z" fill="#d54dba" stroke="black" stroke-width="0"/>
+<path aria-label="Designer: 53; Cab Coordinator Total: DNS" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.25459006371935,193.80821079220405A75,75,0,0,0,165.29327781367874,178.6062848764897L105.0,134.0Z" fill="#b1a7db" stroke="black" stroke-width="0"/>
+<path aria-label="Designer: 82; Cab Coordinator Total: channels" role="graphics-symbol" aria-roledescription="arc mark"  d="M56.5844893317076,76.72052438500798A75,75,0,0,0,36.71657601576763,102.97784648046563L105.0,134.0Z" fill="#bffcdc" stroke="black" stroke-width="0"/>
+<path aria-label="Designer: 130; Cab Coordinator Total: visualize" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,56.5844893317076,76.72052438500798L105.0,134.0Z" fill="#ada302" stroke="black" stroke-width="0"/>
+<path aria-label="Designer: 409; Cab Coordinator Total: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.29327781367874,178.6062848764897A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#e9f5ac" stroke="black" stroke-width="0"/>
+<path aria-label="Designer: 246; Cab Coordinator Total: Lorain" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.832439866211686,192.31141630097372A75,75,0,0,0,150.25459006371935,193.80821079220405L105.0,134.0Z" fill="#22afdc" stroke="black" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#e9f5ac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#b1a7db" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#22afdc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#d54dba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#bffcdc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#ada302" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="239,255,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">DNS</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Lorain</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Oregon</text>
+<text aria-label="239,283,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">channels</text>
+<text aria-label="239,288,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">visualize</text>
+</svg>

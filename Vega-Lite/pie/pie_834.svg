@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="291" height="239" viewBox="0 0 291 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,291,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">ivory whiteboard until</text>
+<path aria-label="Profound: 166; Bicycle: lightly" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,34.82914509722798,107.52262999816418L105.0,134.0Z" fill="#1af6be" stroke="black" stroke-width="4"/>
+<path aria-label="Profound: 473; Bicycle: Director" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.39638109898067,205.5127709753823A75,75,0,1,0,105.0,59.0L105.0,134.0Z" fill="#15bfa4" stroke="black" stroke-width="4"/>
+<path aria-label="Profound: 223; Bicycle: Honda" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.82914509722798,107.52262999816418A75,75,0,0,0,82.39638109898067,205.5127709753823L105.0,134.0Z" fill="#8bd14e" stroke="black" stroke-width="4"/>
+<text aria-label="42,65,49,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="53.8118957188209" y="63.974477508773134" font-family="avenir" font-size="14px" fill="#1af6be" opacity="1">166</text>
+<text aria-label="182,205,137,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.9476791865344" y="151.72262246545301" font-family="avenir" font-size="14px" fill="#15bfa4" opacity="1">473</text>
+<text aria-label="12,35,163,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="24.035183822910085" y="177.30265310904645" font-family="avenir" font-size="14px" fill="#8bd14e" opacity="1">223</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#15bfa4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#8bd14e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#1af6be" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Director</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Honda</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">lightly</text>
+<text aria-label="223,265,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bicycle</text>
+</svg>

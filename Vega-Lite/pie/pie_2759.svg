@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="92,287,0,26" text-anchor="middle" x="190.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">connect chutney</text>
+<path aria-label="peg: 4; revolutionize: Auto" role="graphics-symbol" aria-roledescription="arc mark"  d="M192.14902804605697,59.03079513255285A75,75,0,0,0,190.0,59.0L190.0,134.0Z" fill="#8b09cb" stroke="white" stroke-width="1"/>
+<path aria-label="peg: 237; revolutionize: Senior" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.49032950603366,156.6134257874467A75,75,0,0,0,221.50009044580156,202.06426596905547L190.0,134.0Z" fill="#bbd188" stroke="white" stroke-width="1"/>
+<path aria-label="peg: 61; revolutionize: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.64017506459476,124.2216343095646A75,75,0,0,0,118.49032950603366,156.6134257874467L190.0,134.0Z" fill="#fde3fa" stroke="white" stroke-width="1"/>
+<path aria-label="peg: 201; revolutionize: Minivan" role="graphics-symbol" aria-roledescription="arc mark"  d="M264.5230288929642,142.44500826633248A75,75,0,0,0,208.08910353515765,61.21411995933313L190.0,134.0Z" fill="#e71ce6" stroke="white" stroke-width="1"/>
+<path aria-label="peg: 30; revolutionize: Creative" role="graphics-symbol" aria-roledescription="arc mark"  d="M208.08910353515765,61.21411995933313A75,75,0,0,0,192.14902804605697,59.03079513255285L190.0,134.0Z" fill="#7d53b8" stroke="white" stroke-width="1"/>
+<path aria-label="peg: 143; revolutionize: Product" role="graphics-symbol" aria-roledescription="arc mark"  d="M221.50009044580156,202.06426596905547A75,75,0,0,0,264.5230288929642,142.44500826633248L190.0,134.0Z" fill="#525538" stroke="white" stroke-width="1"/>
+<path aria-label="peg: 201; revolutionize: visualize" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,115.64017506459476,124.2216343095646L190.0,134.0Z" fill="#b540cd" stroke="white" stroke-width="1"/>
+<text aria-label="188,194,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.28954920722484" y="47.00923901398464" font-family="Balto" font-size="10px" fill="#8b09cb" opacity="1">4</text>
+<text aria-label="145,161,209,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.6687967060809" y="219.34102056214704" font-family="Balto" font-size="10px" fill="#bbd188" opacity="1">237</text>
+<text aria-label="94,105,134,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.34639088855498" y="144.88862302890817" font-family="Balto" font-size="10px" fill="#fde3fa" opacity="1">61</text>
+<text aria-label="255,272,75,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.9132406520655" y="85.64989915969147" font-family="Balto" font-size="10px" fill="#e71ce6" opacity="1">201</text>
+<text aria-label="196,207,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="202.21333680003974" y="47.83254851567868" font-family="Balto" font-size="10px" fill="#7d53b8" opacity="1">30</text>
+<text aria-label="254,271,179,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="262.98170168202785" y="189.6656550286379" font-family="Balto" font-size="10px" fill="#525538" opacity="1">143</text>
+<text aria-label="122,138,59,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.65382697497262" y="69.33884609849231" font-family="Balto" font-size="10px" fill="#b540cd" opacity="1">201</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#8b09cb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#7d53b8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#e71ce6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#525538" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#bbd188" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#fde3fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#b540cd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Auto</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Creative</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Minivan</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Product</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Senior</text>
+<text aria-label="21,70,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">visualize</text>
+</svg>

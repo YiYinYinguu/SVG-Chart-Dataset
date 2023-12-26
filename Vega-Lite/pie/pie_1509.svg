@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="313" height="239" viewBox="0 0 313 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="172,237,0,26" text-anchor="middle" x="205.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Latin</text>
+<path aria-label="ASCII Michigan: 249; so: Assurance" role="graphics-symbol" aria-roledescription="arc mark"  d="M265.57197484858426,178.22709421771316A75,75,0,0,0,269.1094534439154,95.07728196640886L205.0,134.0Z" fill="#9eabd2" stroke="black" stroke-width="0"/>
+<path aria-label="ASCII Michigan: 460; so: Jaguar" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.23805529590516,158.85452034730557A75,75,0,0,0,265.57197484858426,178.22709421771316L205.0,134.0Z" fill="#6a3e60" stroke="black" stroke-width="0"/>
+<path aria-label="ASCII Michigan: 95; so: Sedan" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.46171856711572,125.690691904127A75,75,0,0,0,134.23805529590516,158.85452034730557L205.0,134.0Z" fill="#dadda5" stroke="black" stroke-width="0"/>
+<path aria-label="ASCII Michigan: 217; so: Architect" role="graphics-symbol" aria-roledescription="arc mark"  d="M269.1094534439154,95.07728196640886A75,75,0,0,0,205.0,59.0L205.0,134.0Z" fill="#c47fa5" stroke="black" stroke-width="0"/>
+<path aria-label="ASCII Michigan: 309; so: kindheartedly" role="graphics-symbol" aria-roledescription="arc mark"  d="M205.0,59.0A75,75,0,0,0,130.46171856711572,125.690691904127L205.0,134.0Z" fill="#dcae5e" stroke="black" stroke-width="0"/>
+<text aria-label="283,306,127,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="294.91866292296925" y="141.82544875085767" font-family="avenir" font-size="14px" fill="#9eabd2" opacity="1">249</text>
+<text aria-label="180,203,213,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.86654815185966" y="227.0365792388307" font-family="avenir" font-size="14px" fill="#6a3e60" opacity="1">460</text>
+<text aria-label="108,123,134,149" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.57786468839103" y="148.1824219276308" font-family="avenir" font-size="14px" fill="#dadda5" opacity="1">95</text>
+<text aria-label="237,260,45,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.13811534474576" y="59.56641807354505" font-family="avenir" font-size="14px" fill="#c47fa5" opacity="1">217</text>
+<text aria-label="133,156,56,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="144.9891896170127" y="70.92763134362153" font-family="avenir" font-size="14px" fill="#dcae5e" opacity="1">309</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#c47fa5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#9eabd2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#6a3e60" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#dadda5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#dcae5e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Architect</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Assurance</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Jaguar</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Sedan</text>
+<text aria-label="21,92,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">kindheartedly</text>
+<text aria-label="5,17,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">so</text>
+</svg>

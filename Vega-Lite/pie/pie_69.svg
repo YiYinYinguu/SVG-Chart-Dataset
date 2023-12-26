@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">ick previous</text>
+<path aria-label="District stitch dimly: 566; green: encompassing" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.8474841635069,145.24297092047476A75,75,0,0,0,244.80255407313012,193.3896122261965L199.0,134.0Z" fill="#6c06c6" stroke="black" stroke-width="0"/>
+<path aria-label="District stitch dimly: 382; green: connect" role="graphics-symbol" aria-roledescription="arc mark"  d="M244.80255407313012,193.3896122261965A75,75,0,0,0,265.24116034392955,98.8274442741245L199.0,134.0Z" fill="#e8ede2" stroke="black" stroke-width="0"/>
+<path aria-label="District stitch dimly: 469; green: maximized" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.0,59.0A75,75,0,0,0,124.8474841635069,145.24297092047476L199.0,134.0Z" fill="#b13b47" stroke="black" stroke-width="0"/>
+<path aria-label="District stitch dimly: 2; green: Solutions" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.55050778793742,59.00202041937783A75,75,0,0,0,199.0,59.0L199.0,134.0Z" fill="#7bf22f" stroke="black" stroke-width="0"/>
+<path aria-label="District stitch dimly: 293; green: Versatile" role="graphics-symbol" aria-roledescription="arc mark"  d="M265.24116034392955,98.8274442741245A75,75,0,0,0,199.55050778793742,59.00202041937783L199.0,134.0Z" fill="#0cf7fe" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#7bf22f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#0cf7fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#e8ede2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#6c06c6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#b13b47" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Solutions</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Versatile</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">connect</text>
+<text aria-label="21,87,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">encompassing</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">maximized</text>
+</svg>

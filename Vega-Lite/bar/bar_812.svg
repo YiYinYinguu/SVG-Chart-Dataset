@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1015" height="310" viewBox="0 0 1015 310" style="background-color: rgb(255, 255, 255);">
+<line x1="112.5" y1="40.5" x2="112.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="250.5" y1="40.5" x2="250.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="388.5" y1="40.5" x2="388.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="526.5" y1="40.5" x2="526.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="664.5" y1="40.5" x2="664.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="802.5" y1="40.5" x2="802.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="940.5" y1="40.5" x2="940.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="103,115,247,301" text-anchor="end" x="112.07142857142856" y="247.5" transform="rotate(270.0, 115.07142857142856, 247.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">dependent</text>
+<text aria-label="241,253,247,289" text-anchor="end" x="250.2142857142857" y="247.5" transform="rotate(270.0, 253.2142857142857, 247.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">fishery</text>
+<text aria-label="379,391,247,283" text-anchor="end" x="388.35714285714283" y="247.5" transform="rotate(270.0, 391.35714285714283, 247.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">ladder</text>
+<text aria-label="517,529,247,289" text-anchor="end" x="526.5" y="247.5" transform="rotate(270.0, 529.5, 247.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">landing</text>
+<text aria-label="655,667,247,277" text-anchor="end" x="664.6428571428571" y="247.5" transform="rotate(270.0, 667.6428571428571, 247.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">modem</text>
+<text aria-label="793,805,247,301" text-anchor="end" x="802.7857142857142" y="247.5" transform="rotate(270.0, 805.7857142857142, 247.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">processor</text>
+<text aria-label="931,943,247,283" text-anchor="end" x="940.9285714285714" y="247.5" transform="rotate(270.0, 943.9285714285714, 247.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">singer</text>
+<line aria-label="112,112,240,245" x1="112.5" y1="240.5" x2="112.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="250,250,240,245" x1="250.5" y1="240.5" x2="250.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="388,388,240,245" x1="388.5" y1="240.5" x2="388.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="526,526,240,245" x1="526.5" y1="240.5" x2="526.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="664,664,240,245" x1="664.5" y1="240.5" x2="664.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="802,802,240,245" x1="802.5" y1="240.5" x2="802.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="940,940,240,245" x1="940.5" y1="240.5" x2="940.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,1010,240,240" x1="43.5" y1="240.5" x2="1010.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="468,585,0,26" text-anchor="middle" x="526.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">platforms</text>
+<text aria-label="30,36,232,244" text-anchor="end" x="36.5" y="243.5" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="18,36,182,194" text-anchor="end" x="36.5" y="193.5" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="6,36,132,144" text-anchor="end" x="36.5" y="143.5" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="6,36,82,94" text-anchor="end" x="36.5" y="93.5" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<text aria-label="6,36,32,44" text-anchor="end" x="36.5" y="43.5" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">2,000</text>
+<line aria-label="38,43,240,240" x1="43.5" y1="240.5" x2="38.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,190,190" x1="43.5" y1="190.5" x2="38.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,140,140" x1="43.5" y1="140.5" x2="38.5" y2="140.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,90,90" x1="43.5" y1="90.5" x2="38.5" y2="90.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,40,40" x1="43.5" y1="40.5" x2="38.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,43,40,240" x1="43.5" y1="240.5" x2="43.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="spattering sentimental on: singer; male Grocery: 376; midst Card: parsing" role="graphics-symbol" aria-roledescription="bar" d="M891.1971428571429,202.4h99.46285714285715v37.599999999999994h-99.46285714285715Z" fill="#c2316a"/>
+<path aria-label="spattering sentimental on: singer; male Grocery: 268; midst Card: Liechtenstein opposite Northwest" role="graphics-symbol" aria-roledescription="bar" d="M891.1971428571429,175.6h99.46285714285715v26.80000000000001h-99.46285714285715Z" fill="#8b71eb"/>
+<path aria-label="spattering sentimental on: modem; male Grocery: 880; midst Card: parsing" role="graphics-symbol" aria-roledescription="bar" d="M614.9114285714286,152.0h99.46285714285715v87.99999999999999h-99.46285714285715Z" fill="#c2316a"/>
+<path aria-label="spattering sentimental on: modem; male Grocery: 49; midst Card: Liechtenstein opposite Northwest" role="graphics-symbol" aria-roledescription="bar" d="M614.9114285714286,147.1h99.46285714285715v4.90000000000002h-99.46285714285715Z" fill="#8b71eb"/>
+<path aria-label="spattering sentimental on: dependent; male Grocery: 335; midst Card: parsing" role="graphics-symbol" aria-roledescription="bar" d="M62.33999999999998,206.5h99.46285714285715v33.5h-99.46285714285715Z" fill="#c2316a"/>
+<path aria-label="spattering sentimental on: dependent; male Grocery: 686; midst Card: Liechtenstein opposite Northwest" role="graphics-symbol" aria-roledescription="bar" d="M62.33999999999998,137.9h99.46285714285715v68.6h-99.46285714285715Z" fill="#8b71eb"/>
+<path aria-label="spattering sentimental on: fishery; male Grocery: 77; midst Card: parsing" role="graphics-symbol" aria-roledescription="bar" d="M200.4828571428571,232.3h99.46285714285715v7.699999999999989h-99.46285714285715Z" fill="#c2316a"/>
+<path aria-label="spattering sentimental on: fishery; male Grocery: 786; midst Card: Liechtenstein opposite Northwest" role="graphics-symbol" aria-roledescription="bar" d="M200.4828571428571,153.7h99.46285714285715v78.60000000000001h-99.46285714285715Z" fill="#8b71eb"/>
+<path aria-label="spattering sentimental on: landing; male Grocery: 268; midst Card: parsing" role="graphics-symbol" aria-roledescription="bar" d="M476.7685714285714,213.2h99.46285714285715v26.80000000000001h-99.46285714285715Z" fill="#c2316a"/>
+<path aria-label="spattering sentimental on: landing; male Grocery: 32; midst Card: Liechtenstein opposite Northwest" role="graphics-symbol" aria-roledescription="bar" d="M476.7685714285714,210.0h99.46285714285715v3.1999999999999886h-99.46285714285715Z" fill="#8b71eb"/>
+<path aria-label="spattering sentimental on: ladder; male Grocery: 482; midst Card: parsing" role="graphics-symbol" aria-roledescription="bar" d="M338.62571428571425,191.8h99.46285714285715v48.19999999999999h-99.46285714285715Z" fill="#c2316a"/>
+<path aria-label="spattering sentimental on: ladder; male Grocery: 708; midst Card: Liechtenstein opposite Northwest" role="graphics-symbol" aria-roledescription="bar" d="M338.62571428571425,121.0h99.46285714285715v70.80000000000001h-99.46285714285715Z" fill="#8b71eb"/>
+<path aria-label="spattering sentimental on: processor; male Grocery: 921; midst Card: parsing" role="graphics-symbol" aria-roledescription="bar" d="M753.0542857142857,147.89999999999998h99.46285714285715v92.10000000000001h-99.46285714285715Z" fill="#c2316a"/>
+<path aria-label="spattering sentimental on: processor; male Grocery: 919; midst Card: Liechtenstein opposite Northwest" role="graphics-symbol" aria-roledescription="bar" d="M753.0542857142857,55.99999999999999h99.46285714285715v91.9h-99.46285714285715Z" fill="#8b71eb"/>
+<text aria-label="929,952,181,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="940.9285714285714" y="196.2465" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">376</text>
+<text aria-label="929,952,154,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="940.9285714285714" y="169.4465" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">268</text>
+<text aria-label="653,676,131,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="664.6428571428571" y="145.84650000000002" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">880</text>
+<text aria-label="656,672,126,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="664.6428571428571" y="140.94650000000001" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">49</text>
+<text aria-label="100,123,185,201" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.07142857142856" y="200.3465" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">335</text>
+<text aria-label="100,123,117,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.07142857142856" y="131.74650000000003" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">686</text>
+<text aria-label="242,257,211,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="250.2142857142857" y="226.1465" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">77</text>
+<text aria-label="238,261,133,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="250.2142857142857" y="147.5465" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">786</text>
+<text aria-label="514,538,192,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="526.5" y="207.04649999999998" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">268</text>
+<text aria-label="518,534,189,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="526.5" y="203.8465" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">32</text>
+<text aria-label="376,399,171,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="388.35714285714283" y="185.6465" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">482</text>
+<text aria-label="376,399,100,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="388.35714285714283" y="114.8465" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">708</text>
+<text aria-label="791,814,127,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="802.7857142857142" y="141.7465" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">921</text>
+<text aria-label="791,814,35,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="802.7857142857142" y="49.84649999999999" font-family="sans-serif" font-size="14.504999999999999px" fill="#000" opacity="1">919</text>
+</svg>

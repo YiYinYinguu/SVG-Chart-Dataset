@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="476" height="327" viewBox="0 0 476 327" style="background-color: rgb(255, 255, 255);">
+<line x1="36.5" y1="243.5" x2="471.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="36.5" y1="214.5" x2="471.5" y2="214.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="36.5" y1="186.5" x2="471.5" y2="186.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="36.5" y1="157.5" x2="471.5" y2="157.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="36.5" y1="129.5" x2="471.5" y2="129.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="36.5" y1="100.5" x2="471.5" y2="100.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="36.5" y1="72.5" x2="471.5" y2="72.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="36.5" y1="43.5" x2="471.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="58,77,250,317" text-anchor="end" x="72.25" y="250.5" transform="rotate(270.0, 77.25, 250.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">adviser</text>
+<text aria-label="130,149,250,279" text-anchor="end" x="144.75" y="250.5" transform="rotate(270.0, 149.75, 250.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">dog</text>
+<text aria-label="203,222,250,326" text-anchor="end" x="217.25" y="250.5" transform="rotate(270.0, 222.25, 250.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">fanlight</text>
+<text aria-label="275,294,250,288" text-anchor="end" x="289.75" y="250.5" transform="rotate(270.0, 294.75, 250.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">fund</text>
+<text aria-label="348,367,250,288" text-anchor="end" x="362.25" y="250.5" transform="rotate(270.0, 367.25, 250.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">jury</text>
+<text aria-label="420,439,250,326" text-anchor="end" x="434.75" y="250.5" transform="rotate(270.0, 439.75, 250.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">sycamore</text>
+<line aria-label="72,72,243,248" x1="72.5" y1="243.5" x2="72.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="144,144,243,248" x1="144.5" y1="243.5" x2="144.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="217,217,243,248" x1="217.5" y1="243.5" x2="217.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="289,289,243,248" x1="289.5" y1="243.5" x2="289.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="362,362,243,248" x1="362.5" y1="243.5" x2="362.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="434,434,243,248" x1="434.5" y1="243.5" x2="434.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,471,243,243" x1="36.5" y1="243.5" x2="471.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,148,0,26" text-anchor="start" x="5.9453125" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Multigender</text>
+<text aria-label="25,34,230,249" text-anchor="end" x="34.5" y="248.5" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="6,34,201,220" text-anchor="end" x="34.5" y="219.92857142857144" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="6,34,173,192" text-anchor="end" x="34.5" y="191.35714285714286" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="6,34,144,163" text-anchor="end" x="34.5" y="162.78571428571428" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="6,34,116,135" text-anchor="end" x="34.5" y="134.21428571428572" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="6,34,87,106" text-anchor="end" x="34.5" y="105.64285714285714" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="6,34,59,78" text-anchor="end" x="34.5" y="77.07142857142858" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="6,34,30,49" text-anchor="end" x="34.5" y="48.5" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">700</text>
+<line aria-label="36,36,43,243" x1="36.5" y1="243.5" x2="36.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="invoice Division: fund; Elegant: 282; Architect intermediate rerun: Maine" role="graphics-symbol" aria-roledescription="bar" d="M270.175,162.42857142857144h39.150000000000006v80.57142857142856h-39.150000000000006Z" fill="#e93753"/>
+<path aria-label="invoice Division: adviser; Elegant: 700; Architect intermediate rerun: Maine" role="graphics-symbol" aria-roledescription="bar" d="M52.675,43.0h39.150000000000006v200h-39.150000000000006Z" fill="#e93753"/>
+<path aria-label="invoice Division: sycamore; Elegant: 298; Architect intermediate rerun: Maine" role="graphics-symbol" aria-roledescription="bar" d="M415.175,157.85714285714286h39.150000000000006v85.14285714285714h-39.150000000000006Z" fill="#e93753"/>
+<path aria-label="invoice Division: dog; Elegant: 622; Architect intermediate rerun: Maine" role="graphics-symbol" aria-roledescription="bar" d="M125.175,65.28571428571428h39.150000000000006v177.71428571428572h-39.150000000000006Z" fill="#e93753"/>
+<path aria-label="invoice Division: fanlight; Elegant: 293; Architect intermediate rerun: Maine" role="graphics-symbol" aria-roledescription="bar" d="M197.675,159.28571428571428h39.150000000000006v83.71428571428572h-39.150000000000006Z" fill="#e93753"/>
+<path aria-label="invoice Division: jury; Elegant: 476; Architect intermediate rerun: Maine" role="graphics-symbol" aria-roledescription="bar" d="M342.675,107.0h39.150000000000006v136h-39.150000000000006Z" fill="#e93753"/>
+</svg>

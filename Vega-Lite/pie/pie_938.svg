@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="276" height="270" viewBox="0 0 276 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="middle" x="129.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Assistant Southeast</text>
+<path aria-label="Bicycle calculate: 188; eek Rubber: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.72054978609309,210.94504088949026A75,75,0,0,0,188.27945021390696,210.9450408894902L129.0,165.0Z" fill="#cd99a6" stroke="white" stroke-width="4"/>
+<path aria-label="Bicycle calculate: 230; eek Rubber: transition" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.0,90.0A75,75,0,0,0,69.72054978609309,210.94504088949026L129.0,165.0Z" fill="#fafaae" stroke="white" stroke-width="4"/>
+<path aria-label="Bicycle calculate: 152; eek Rubber: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M203.64770968448744,157.73918469726158A75,75,0,0,0,129.0,90.0L129.0,165.0Z" fill="#ee9fe0" stroke="white" stroke-width="4"/>
+<path aria-label="Bicycle calculate: 78; eek Rubber: Identity" role="graphics-symbol" aria-roledescription="arc mark"  d="M188.27945021390696,210.9450408894902A75,75,0,0,0,203.64770968448744,157.73918469726158L129.0,165.0Z" fill="#de2a7c" stroke="white" stroke-width="4"/>
+<path  d="M40.0,40.25A5,5,0,1,1,30.0,40.25A5,5,0,1,1,40.0,40.25" fill="#ee9fe0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M87.0,40.25A5,5,0,1,1,77.0,40.25A5,5,0,1,1,87.0,40.25" fill="#de2a7c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M154.0,40.25A5,5,0,1,1,144.0,40.25A5,5,0,1,1,154.0,40.25" fill="#cd99a6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M216.0,40.25A5,5,0,1,1,206.0,40.25A5,5,0,1,1,216.0,40.25" fill="#fafaae" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="45,67,33,44" text-anchor="start" x="45.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="92,136,33,44" text-anchor="start" x="92.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Identity</text>
+<text aria-label="159,197,33,44" text-anchor="start" x="159.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="221,276,33,44" text-anchor="start" x="221.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">transition</text>
+</svg>

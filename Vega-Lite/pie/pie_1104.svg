@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="324" height="270" viewBox="0 0 324 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Director red</text>
+<path aria-label="Potassium Data input: 74; Configuration: Luxurious" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.45089809293384,83.50051583741606A75,75,0,0,0,120.17786687139268,60.551838979901746L112.28537609826849,98.74488271035284A36,36,0,0,1,131.61643108460825,109.7602476019597Z" fill="#aeaebe" stroke="black" stroke-width="0"/>
+<path aria-label="Potassium Data input: 165; Configuration: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.078806723921858,121.32493847586136L69.51782722748248,127.91597046841346A36,36,0,0,1,105.0,98.0Z" fill="#c27dad" stroke="black" stroke-width="0"/>
+<path aria-label="Potassium Data input: 24; Configuration: Administrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.17786687139268,60.551838979901746A75,75,0,0,0,105.0,59.0L105.0,98.0A36,36,0,0,1,112.28537609826849,98.74488271035284Z" fill="#e5af5d" stroke="black" stroke-width="0"/>
+<path aria-label="Potassium Data input: 157; Configuration: for" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.078806723921858,121.32493847586136A75,75,0,0,0,75.27236240235564,202.85686285958081L90.73073395313071,167.0512941725988A36,36,0,0,1,69.51782722748248,127.91597046841346Z" fill="#bc3efb" stroke="black" stroke-width="0"/>
+<path aria-label="Potassium Data input: 320; Configuration: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.27236240235564,202.85686285958081A75,75,0,0,0,160.45089809293384,83.50051583741606L131.61643108460825,109.7602476019597A36,36,0,0,1,90.73073395313071,167.0512941725988Z" fill="#a7b3e1" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#e5af5d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M108.0,258.25A5,5,0,1,1,98.0,258.25A5,5,0,1,1,108.0,258.25" fill="#aeaebe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M180.0,258.25A5,5,0,1,1,170.0,258.25A5,5,0,1,1,180.0,258.25" fill="#a7b3e1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M237.0,258.25A5,5,0,1,1,227.0,258.25A5,5,0,1,1,237.0,258.25" fill="#bc3efb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,258.25A5,5,0,1,1,269.0,258.25A5,5,0,1,1,279.0,258.25" fill="#c27dad" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,92,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Administrator</text>
+<text aria-label="113,162,251,262" text-anchor="start" x="113.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Luxurious</text>
+<text aria-label="185,218,251,262" text-anchor="start" x="185.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="242,258,251,262" text-anchor="start" x="242.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">for</text>
+<text aria-label="284,322,251,262" text-anchor="start" x="284.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+</svg>

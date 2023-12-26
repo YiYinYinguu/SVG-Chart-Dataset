@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="273" height="286" viewBox="0 0 273 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="53,157,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">leverage</text>
+<path aria-label="redefine deposit: 72; Facilitator Uruguayo: Tin" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.98580701720485,62.30358929962914A75,75,0,0,0,33.30358929962914,111.98580701720488L53.37858429573298,118.14978105238751A54,54,0,0,1,89.1497810523875,82.37858429573299Z" fill="#7e8be9" stroke="black" stroke-width="0"/>
+<path aria-label="redefine deposit: 22; Facilitator Uruguayo: USB" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,82.98580701720485,62.30358929962914L89.1497810523875,82.37858429573299A54,54,0,0,1,104.99999999999999,80.0Z" fill="#84bd57" stroke="black" stroke-width="0"/>
+<path aria-label="redefine deposit: 130; Facilitator Uruguayo: Direct" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.30358929962914,111.98580701720488A75,75,0,0,0,96.89107361820437,208.56034678657699L99.16157300510714,187.68344968633542A54,54,0,0,1,53.37858429573298,118.14978105238751Z" fill="#ed03aa" stroke="black" stroke-width="0"/>
+<path aria-label="redefine deposit: 131; Facilitator Uruguayo: Cheese" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.89107361820437,208.56034678657699A75,75,0,0,0,179.66331333199935,126.90143378648293L158.75758559903954,128.8890323262677A54,54,0,0,1,99.16157300510714,187.68344968633542Z" fill="#663dfa" stroke="black" stroke-width="0"/>
+<path aria-label="redefine deposit: 109; Facilitator Uruguayo: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.66331333199935,126.90143378648293A75,75,0,0,0,105.0,59.0L105.0,80.0A54,54,0,0,1,158.75758559903954,128.8890323262677Z" fill="#ebdb2a" stroke="black" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#ebdb2a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#663dfa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,274.25A5,5,0,1,1,135.0,274.25A5,5,0,1,1,145.0,274.25" fill="#ed03aa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M201.0,274.25A5,5,0,1,1,191.0,274.25A5,5,0,1,1,201.0,274.25" fill="#7e8be9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M243.0,274.25A5,5,0,1,1,233.0,274.25A5,5,0,1,1,243.0,274.25" fill="#84bd57" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="88,121,267,278" text-anchor="start" x="88.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cheese</text>
+<text aria-label="150,183,267,278" text-anchor="start" x="150.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Direct</text>
+<text aria-label="206,222,267,278" text-anchor="start" x="206.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Tin</text>
+<text aria-label="248,264,267,278" text-anchor="start" x="248.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">USB</text>
+<text aria-label="5,125,250,262" text-anchor="start" x="5.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Facilitator Uruguayo</text>
+</svg>

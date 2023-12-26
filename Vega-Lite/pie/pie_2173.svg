@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="239" viewBox="0 0 314 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="23,309,0,26" text-anchor="end" x="309.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">South Soap Coordinator</text>
+<path aria-label="Direct online: 173; or Hybrid East: installation" role="graphics-symbol" aria-roledescription="arc mark"  d="M185.7788227209477,62.68536667853627A75,75,0,0,0,135.04139156489518,121.5451118695172L209.0,134.0Z" fill="#15d0be" stroke="black" stroke-width="0"/>
+<path aria-label="Direct online: 345; or Hybrid East: Jewelery" role="graphics-symbol" aria-roledescription="arc mark"  d="M229.51136631619192,206.1407225625235A75,75,0,0,0,256.88679450961365,76.27777800886355L209.0,134.0Z" fill="#98aea0" stroke="black" stroke-width="0"/>
+<path aria-label="Direct online: 34; or Hybrid East: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M201.4578379639994,59.38019169266977A75,75,0,0,0,185.7788227209477,62.68536667853627L209.0,134.0Z" fill="#3c06d9" stroke="black" stroke-width="0"/>
+<path aria-label="Direct online: 16; or Hybrid East: metrics" role="graphics-symbol" aria-roledescription="arc mark"  d="M209.0,59.0A75,75,0,0,0,201.4578379639994,59.38019169266977L209.0,134.0Z" fill="#dc6bcb" stroke="black" stroke-width="0"/>
+<path aria-label="Direct online: 110; or Hybrid East: Hoffman" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.88679450961365,76.27777800886355A75,75,0,0,0,209.0,59.0L209.0,134.0Z" fill="#6b6be9" stroke="black" stroke-width="0"/>
+<path aria-label="Direct online: 320; or Hybrid East: Zirconium" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.04139156489518,121.5451118695172A75,75,0,0,0,229.51136631619192,206.1407225625235L209.0,134.0Z" fill="#aa4e98" stroke="black" stroke-width="0"/>
+<path  d="M33.0,40.0A5,5,0,1,1,23.0,40.0A5,5,0,1,1,33.0,40.0" fill="#6b6be9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M33.0,56.0A5,5,0,1,1,23.0,56.0A5,5,0,1,1,33.0,56.0" fill="#98aea0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M33.0,72.0A5,5,0,1,1,23.0,72.0A5,5,0,1,1,33.0,72.0" fill="#aa4e98" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M33.0,88.0A5,5,0,1,1,23.0,88.0A5,5,0,1,1,33.0,88.0" fill="#15d0be" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M33.0,104.0A5,5,0,1,1,23.0,104.0A5,5,0,1,1,33.0,104.0" fill="#3c06d9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M33.0,120.0A5,5,0,1,1,23.0,120.0A5,5,0,1,1,33.0,120.0" fill="#dc6bcb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="38,76,33,44" text-anchor="start" x="38.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hoffman</text>
+<text aria-label="38,82,49,60" text-anchor="start" x="38.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Jewelery</text>
+<text aria-label="38,87,65,76" text-anchor="start" x="38.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Zirconium</text>
+<text aria-label="38,104,81,92" text-anchor="start" x="38.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">installation</text>
+<text aria-label="38,60,97,108" text-anchor="start" x="38.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="38,76,113,124" text-anchor="start" x="38.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">metrics</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="239" viewBox="0 0 309 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="59,150,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">magenta</text>
+<path aria-label="synthesize: 787; male: International" role="graphics-symbol" aria-roledescription="arc mark"  d="M77.59572215537635,203.81407849291338A75,75,0,0,0,178.61335149333485,148.35529456050065L141.3159200700452,141.08194531651367A37,37,0,0,1,91.480556263319,168.44161205650394Z" fill="#dbba4d" stroke="black" stroke-width="1"/>
+<path aria-label="synthesize: 226; male: Jeep" role="graphics-symbol" aria-roledescription="arc mark"  d="M47.3266309810891,181.94562030059188A75,75,0,0,0,77.59572215537635,203.81407849291338L91.480556263319,168.44161205650394A37,37,0,0,1,76.54780461733729,157.65317268162534Z" fill="#cc2b00" stroke="black" stroke-width="1"/>
+<path aria-label="synthesize: 277; male: compressing" role="graphics-symbol" aria-roledescription="arc mark"  d="M58.28490682984429,75.3254734138939A75,75,0,0,0,32.95518829906207,113.15425446340674L69.45789289420395,123.71609886861398A37,37,0,0,1,81.95388736938985,105.05390021752099Z" fill="#8ff8aa" stroke="black" stroke-width="1"/>
+<path aria-label="synthesize: 438; male: Kina" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.95518829906207,113.15425446340674A75,75,0,0,0,47.3266309810891,181.94562030059188L76.54780461733729,157.65317268162534A37,37,0,0,1,69.45789289420395,123.71609886861398Z" fill="#307a54" stroke="black" stroke-width="1"/>
+<path aria-label="synthesize: 792; male: HEX" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.61335149333485,148.35529456050065A75,75,0,0,0,105.0,59.0L105.0,97.0A37,37,0,0,1,141.3159200700452,141.08194531651367Z" fill="#197c4a" stroke="black" stroke-width="1"/>
+<path aria-label="synthesize: 302; male: totam" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,58.28490682984429,75.3254734138939L81.95388736938985,105.05390021752099A37,37,0,0,1,105.0,97.0Z" fill="#9dd6ab" stroke="black" stroke-width="1"/>
+<text aria-label="142,154,207,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.3121677243735" y="214.8926874115449" font-family="serif" font-size="7px" fill="#dbba4d" opacity="1">787</text>
+<text aria-label="46,58,201,209" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="52.294053794316376" y="208.95260951167944" font-family="serif" font-size="7px" fill="#cc2b00" opacity="1">226</text>
+<text aria-label="24,36,78,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="30.216476379847208" y="85.92580909336579" font-family="serif" font-size="7px" fill="#8ff8aa" opacity="1">277</text>
+<text aria-label="10,22,147,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.901980542780578" y="154.40486261060892" font-family="serif" font-size="7px" fill="#307a54" opacity="1">438</text>
+<text aria-label="168,180,71,79" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.46355811695105" y="78.77400858234988" font-family="serif" font-size="7px" fill="#197c4a" opacity="1">792</text>
+<text aria-label="69,81,44,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="75.30866179589965" y="51.03868859504503" font-family="serif" font-size="7px" fill="#9dd6ab" opacity="1">302</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#197c4a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#dbba4d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#cc2b00" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#307a54" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#8ff8aa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#9dd6ab" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,255,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">HEX</text>
+<text aria-label="239,310,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">International</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Jeep</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Kina</text>
+<text aria-label="239,299,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">compressing</text>
+<text aria-label="239,266,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">totam</text>
+</svg>

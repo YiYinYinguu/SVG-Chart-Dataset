@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="440" height="270" viewBox="0 0 440 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="136,435,0,26" text-anchor="end" x="435.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Internal Michigan drive</text>
+<path aria-label="AGP Michigan Bartlett: 304; nemo Manager: mismanage" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.533389392791,239.71489023643255A75,75,0,0,0,172.10991020884867,202.22498613291432L137.38462476412937,182.37166019536002A35,35,0,0,1,110.04891504996914,199.86694877700188Z" fill="#fa7e8c" stroke="black" stroke-width="0"/>
+<path aria-label="AGP Michigan Bartlett: 352; nemo Manager: Hawaii" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.39100419329412,132.08415953041128A75,75,0,0,0,107.0,90.0L107.0,130.0A35,35,0,0,1,138.4491352902039,149.63927444752528Z" fill="#b1edde" stroke="black" stroke-width="0"/>
+<path aria-label="AGP Michigan Bartlett: 381; nemo Manager: while" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.99999999999999,90.0A75,75,0,0,0,36.87053796796144,138.4131883239667L74.272917718382,152.5928212178511A35,35,0,0,1,107.0,130.0Z" fill="#a2f9ea" stroke="black" stroke-width="0"/>
+<path aria-label="AGP Michigan Bartlett: 307; nemo Manager: Metz" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.10991020884867,202.22498613291432A75,75,0,0,0,174.39100419329412,132.08415953041128L138.4491352902039,149.63927444752528A35,35,0,0,1,137.38462476412937,182.37166019536002Z" fill="#beb01a" stroke="black" stroke-width="0"/>
+<path aria-label="AGP Michigan Bartlett: 329; nemo Manager: profit" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.85548621611346,203.86491157109185A75,75,0,0,0,108.30826980754487,239.98858866594747L107.6105259101876,199.99467471077548A35,35,0,0,1,77.06589356751961,183.1369587331762Z" fill="#78f18d" stroke="black" stroke-width="0"/>
+<path aria-label="AGP Michigan Bartlett: 22; nemo Manager: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M108.30826980754487,239.98858866594747A75,75,0,0,0,113.533389392791,239.71489023643255L110.04891504996914,199.86694877700188A35,35,0,0,1,107.6105259101876,199.99467471077548Z" fill="#28d15c" stroke="black" stroke-width="0"/>
+<path aria-label="AGP Michigan Bartlett: 286; nemo Manager: protocol" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.87053796796144,138.4131883239667A75,75,0,0,0,42.85548621611346,203.86491157109185L77.06589356751961,183.1369587331762A35,35,0,0,1,74.272917718382,152.5928212178511Z" fill="#d6e1c0" stroke="black" stroke-width="0"/>
+<text aria-label="145,166,231,245" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.51568718982003" y="244.80387916524808" font-family="avenir" font-size="13px" fill="#fa7e8c" opacity="1">304</text>
+<text aria-label="144,165,79,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="154.67121368962836" y="92.66222831810067" font-family="avenir" font-size="13px" fill="#b1edde" opacity="1">352</text>
+<text aria-label="45,66,81,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="55.86965510096567" y="94.93457061148031" font-family="avenir" font-size="13px" fill="#a2f9ea" opacity="1">381</text>
+<text aria-label="186,207,158,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.95244318304586" y="171.9254000411751" font-family="avenir" font-size="13px" fill="#beb01a" opacity="1">307</text>
+<text aria-label="53,74,234,248" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="63.51215230197305" y="247.7959840511762" font-family="avenir" font-size="13px" fill="#78f18d" opacity="1">329</text>
+<text aria-label="104,118,245,259" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.70786052724921" y="258.87678259292534" font-family="avenir" font-size="13px" fill="#28d15c" opacity="1">22</text>
+<text aria-label="6,27,164,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.373919439282588" y="177.19546724255508" font-family="avenir" font-size="13px" fill="#d6e1c0" opacity="1">286</text>
+<path  d="M18.0,40.25A5,5,0,1,1,8.0,40.25A5,5,0,1,1,18.0,40.25" fill="#b1edde" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,40.25A5,5,0,1,1,68.0,40.25A5,5,0,1,1,78.0,40.25" fill="#beb01a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,40.25A5,5,0,1,1,120.0,40.25A5,5,0,1,1,130.0,40.25" fill="#fa7e8c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M213.0,40.25A5,5,0,1,1,203.0,40.25A5,5,0,1,1,213.0,40.25" fill="#28d15c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M282.0,40.25A5,5,0,1,1,272.0,40.25A5,5,0,1,1,282.0,40.25" fill="#78f18d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M336.0,40.25A5,5,0,1,1,326.0,40.25A5,5,0,1,1,336.0,40.25" fill="#d6e1c0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M404.0,40.25A5,5,0,1,1,394.0,40.25A5,5,0,1,1,404.0,40.25" fill="#a2f9ea" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="23,56,33,44" text-anchor="start" x="23.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hawaii</text>
+<text aria-label="83,105,33,44" text-anchor="start" x="83.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Metz</text>
+<text aria-label="135,184,33,44" text-anchor="start" x="135.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">mismanage</text>
+<text aria-label="218,256,33,44" text-anchor="start" x="218.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="287,320,33,44" text-anchor="start" x="287.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">profit</text>
+<text aria-label="341,385,33,44" text-anchor="start" x="341.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">protocol</text>
+<text aria-label="409,436,33,44" text-anchor="start" x="409.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">while</text>
+</svg>

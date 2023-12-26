@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="448" height="286" viewBox="0 0 448 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="365,443,0,26" text-anchor="end" x="443.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">female</text>
+<path aria-label="Adventure: 402; payment: Tesla" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.90704119623337,205.67217850250591A75,75,0,0,0,130.40025283649882,204.56789040237732L122.27217192881919,181.98616547361655A51,51,0,0,1,89.97678801343869,182.737081381704Z" fill="#fddbbe" stroke="black" stroke-width="0"/>
+<path aria-label="Adventure: 748; payment: Erbium" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.40025283649882,204.56789040237732A75,75,0,0,0,179.97454795731835,135.95375499891065L155.98269261097647,135.32855339925925A51,51,0,0,1,122.27217192881919,181.98616547361655Z" fill="#caa267" stroke="black" stroke-width="0"/>
+<path aria-label="Adventure: 541; payment: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.97454795731835,135.95375499891065A75,75,0,0,0,154.9863993875851,78.08613878236602L138.99075158355785,95.9785743720089A51,51,0,0,1,155.98269261097647,135.32855339925925Z" fill="#b0ff7f" stroke="black" stroke-width="0"/>
+<path aria-label="Adventure: 801; payment: Well" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.005789463163737,133.06812771439556A75,75,0,0,0,82.90704119623337,205.67217850250591L89.97678801343869,182.737081381704A51,51,0,0,1,54.00393683495135,133.36632684578896Z" fill="#04ba5f" stroke="black" stroke-width="0"/>
+<path aria-label="Adventure: 157; payment: Wooden" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.60114668749492,114.41924314449587A75,75,0,0,0,30.005789463163737,133.06812771439556L54.00393683495135,133.36632684578896A51,51,0,0,1,55.768779747496545,120.6850853382572Z" fill="#55ed2e" stroke="black" stroke-width="0"/>
+<path aria-label="Adventure: 815; payment: architect" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.60114668749492,114.41924314449587L55.768779747496545,120.6850853382572A51,51,0,0,1,104.99999999999999,83.0Z" fill="#4f0bf6" stroke="black" stroke-width="0"/>
+<path aria-label="Adventure: 455; payment: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.9863993875851,78.08613878236602A75,75,0,0,0,105.0,59.0L105.0,83.0A51,51,0,0,1,138.99075158355785,95.9785743720089Z" fill="#e0fece" stroke="black" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#e0fece" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M113.0,274.25A5,5,0,1,1,103.0,274.25A5,5,0,1,1,113.0,274.25" fill="#b0ff7f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M180.0,274.25A5,5,0,1,1,170.0,274.25A5,5,0,1,1,180.0,274.25" fill="#caa267" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M237.0,274.25A5,5,0,1,1,227.0,274.25A5,5,0,1,1,237.0,274.25" fill="#fddbbe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M289.0,274.25A5,5,0,1,1,279.0,274.25A5,5,0,1,1,289.0,274.25" fill="#04ba5f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M336.0,274.25A5,5,0,1,1,326.0,274.25A5,5,0,1,1,336.0,274.25" fill="#55ed2e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M393.0,274.25A5,5,0,1,1,383.0,274.25A5,5,0,1,1,393.0,274.25" fill="#4f0bf6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="118,162,267,278" text-anchor="start" x="118.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="185,218,267,278" text-anchor="start" x="185.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Erbium</text>
+<text aria-label="242,269,267,278" text-anchor="start" x="242.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Tesla</text>
+<text aria-label="294,316,267,278" text-anchor="start" x="294.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Well</text>
+<text aria-label="341,374,267,278" text-anchor="start" x="341.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Wooden</text>
+<text aria-label="398,447,267,278" text-anchor="start" x="398.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">architect</text>
+<text aria-label="5,47,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">payment</text>
+</svg>

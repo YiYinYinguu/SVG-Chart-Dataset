@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="242" height="286" viewBox="0 0 242 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="46,163,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Associate</text>
+<path aria-label="Sedan Technician: 1; Account: Chair" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.5891421526205,141.839634745074A75,75,0,0,0,179.5891421526205,126.16036525492599L105.0,134.0Z" fill="#e1bdf6" stroke="white" stroke-width="3"/>
+<path aria-label="Sedan Technician: 9; Account: granular" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,33.67076127786349,157.17627457812105L105.0,134.0Z" fill="#1aab1d" stroke="white" stroke-width="3"/>
+<path aria-label="Sedan Technician: 13; Account: Incredible" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.67076127786349,157.17627457812105A75,75,0,0,0,179.5891421526205,141.839634745074L105.0,134.0Z" fill="#4f01b7" stroke="white" stroke-width="3"/>
+<path aria-label="Sedan Technician: 7; Account: Bike" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.5891421526205,126.16036525492599A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#eea5ad" stroke="white" stroke-width="3"/>
+<text aria-label="191,198,124,139" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="195.0" y="138.0" font-family="monospace" font-size="14px" fill="#e1bdf6" opacity="1">1</text>
+<text aria-label="28,35,71,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="32.18847050625473" y="85.09932729367742" font-family="monospace" font-size="14px" fill="#1aab1d" opacity="1">9</text>
+<text aria-label="106,121,213,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="114.40756169408883" y="227.5069705831446" font-family="monospace" font-size="14px" fill="#4f01b7" opacity="1">13</text>
+<text aria-label="161,168,57,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.22175457229724" y="71.11696570703452" font-family="monospace" font-size="14px" fill="#eea5ad" opacity="1">7</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#eea5ad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,274.25A5,5,0,1,1,53.0,274.25A5,5,0,1,1,63.0,274.25" fill="#e1bdf6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M115.0,274.25A5,5,0,1,1,105.0,274.25A5,5,0,1,1,115.0,274.25" fill="#4f01b7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,274.25A5,5,0,1,1,182.0,274.25A5,5,0,1,1,192.0,274.25" fill="#1aab1d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bike</text>
+<text aria-label="68,95,267,278" text-anchor="start" x="68.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Chair</text>
+<text aria-label="120,175,267,278" text-anchor="start" x="120.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Incredible</text>
+<text aria-label="197,241,267,278" text-anchor="start" x="197.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">granular</text>
+<text aria-label="5,47,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Account</text>
+</svg>

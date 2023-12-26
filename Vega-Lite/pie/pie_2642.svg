@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="125,294,0,26" text-anchor="end" x="294.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">steradian F2M</text>
+<path aria-label="McLaughlin California Dodge: 843; TLS Woman Seaborgium: Sleek" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,1,0,229.71103484097657,199.95242217376523L194.0,134.0Z" fill="#b44a9a" stroke="white" stroke-width="1"/>
+<path aria-label="McLaughlin California Dodge: 472; TLS Woman Seaborgium: Electronics" role="graphics-symbol" aria-roledescription="arc mark"  d="M261.00091503391724,167.7027800725371A75,75,0,0,0,194.0,59.0L194.0,134.0Z" fill="#a1a3be" stroke="white" stroke-width="1"/>
+<path aria-label="McLaughlin California Dodge: 141; TLS Woman Seaborgium: Practical" role="graphics-symbol" aria-roledescription="arc mark"  d="M229.71103484097657,199.95242217376523A75,75,0,0,0,261.00091503391724,167.7027800725371L194.0,134.0Z" fill="#fa5cd7" stroke="white" stroke-width="1"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#a1a3be" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fa5cd7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#b44a9a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Electronics</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Practical</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Sleek</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="244" height="286" viewBox="0 0 244 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Rap pascal Sedan</text>
+<path aria-label="Jewelery Kwanza pink: 240; male: Benz" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.55422295938075,105.94273590464051A75,75,0,0,0,105.0,59.0L105.0,101.0A33,33,0,0,1,135.60385810212753,121.65480379804183Z" fill="#a2bb1f" stroke="black" stroke-width="4"/>
+<path aria-label="Jewelery Kwanza pink: 274; male: Hyundai" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.26360220165057,195.9579529111529A75,75,0,0,0,174.55422295938075,105.94273590464051L135.60385810212753,121.65480379804183A33,33,0,0,1,123.59598496872624,161.26149928090726Z" fill="#8d7441" stroke="black" stroke-width="4"/>
+<path aria-label="Jewelery Kwanza pink: 153; male: apropos" role="graphics-symbol" aria-roledescription="arc mark"  d="M93.17580263032954,208.06205746914594A75,75,0,0,0,147.26360220165057,195.9579529111529L123.59598496872624,161.26149928090726A33,33,0,0,1,99.797353157345,166.58730528642423Z" fill="#16a70e" stroke="black" stroke-width="4"/>
+<path aria-label="Jewelery Kwanza pink: 603; male: bypass" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,93.17580263032954,208.06205746914594L99.797353157345,166.58730528642423A33,33,0,0,1,105.0,101.0Z" fill="#c72fee" stroke="black" stroke-width="4"/>
+<text aria-label="147,163,52,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.34786727211576" y="62.40045401512545" font-family="sans-serif" font-size="10px" fill="#a2bb1f" opacity="1">240</text>
+<text aria-label="182,199,153,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.12866836268915" y="163.11230526150277" font-family="sans-serif" font-size="10px" fill="#8d7441" opacity="1">274</text>
+<text aria-label="116,132,214,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="124.65461820853716" y="224.8276493086126" font-family="sans-serif" font-size="10px" fill="#16a70e" opacity="1">153</text>
+<text aria-label="7,23,119,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.281824007986643" y="129.88319617622363" font-family="sans-serif" font-size="10px" fill="#c72fee" opacity="1">603</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#a2bb1f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M67.0,274.25A5,5,0,1,1,57.0,274.25A5,5,0,1,1,67.0,274.25" fill="#8d7441" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M134.0,274.25A5,5,0,1,1,124.0,274.25A5,5,0,1,1,134.0,274.25" fill="#16a70e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M201.0,274.25A5,5,0,1,1,191.0,274.25A5,5,0,1,1,201.0,274.25" fill="#c72fee" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,267,278" text-anchor="start" x="21.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Benz</text>
+<text aria-label="72,110,267,278" text-anchor="start" x="72.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Hyundai</text>
+<text aria-label="139,177,267,278" text-anchor="start" x="139.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">apropos</text>
+<text aria-label="206,239,267,278" text-anchor="start" x="206.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">bypass</text>
+<text aria-label="5,29,250,262" text-anchor="start" x="5.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">male</text>
+</svg>

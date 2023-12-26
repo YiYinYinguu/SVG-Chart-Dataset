@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="543" height="274" viewBox="0 0 543 274" style="background-color: rgb(255, 255, 255);">
+<line x1="51.5" y1="234.5" x2="538.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="51.5" y1="196.5" x2="538.5" y2="196.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="51.5" y1="157.5" x2="538.5" y2="157.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="51.5" y1="119.5" x2="538.5" y2="119.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="51.5" y1="80.5" x2="538.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="51.5" y1="42.5" x2="538.5" y2="42.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="132,146,241,262" text-anchor="end" x="142.3125" y="241.5" transform="rotate(270.0, 146.3125, 241.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">hit</text>
+<text aria-label="284,298,241,262" text-anchor="end" x="294.5" y="241.5" transform="rotate(270.0, 298.5, 241.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">jar</text>
+<text aria-label="436,450,241,269" text-anchor="end" x="446.6875" y="241.5" transform="rotate(270.0, 450.6875, 241.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">suit</text>
+<line aria-label="142,142,234,239" x1="142.5" y1="234.5" x2="142.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="294,294,234,239" x1="294.5" y1="234.5" x2="294.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="446,446,234,239" x1="446.5" y1="234.5" x2="446.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,538,234,234" x1="51.5" y1="234.5" x2="538.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="242,346,0,26" text-anchor="middle" x="294.5" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Oriental</text>
+<text aria-label="37,44,225,239" text-anchor="end" x="44.5" y="238.5" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="30,44,187,201" text-anchor="end" x="44.5" y="200.03846153846155" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="23,44,148,162" text-anchor="end" x="44.5" y="161.5769230769231" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="23,44,110,124" text-anchor="end" x="44.5" y="123.11538461538463" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="23,44,71,85" text-anchor="end" x="44.5" y="84.65384615384615" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="23,44,33,47" text-anchor="end" x="44.5" y="46.192307692307686" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">250</text>
+<line aria-label="46,51,234,234" x1="51.5" y1="234.5" x2="46.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,196,196" x1="51.5" y1="196.5" x2="46.5" y2="196.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,157,157" x1="51.5" y1="157.5" x2="46.5" y2="157.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,119,119" x1="51.5" y1="119.5" x2="46.5" y2="119.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,80,80" x1="51.5" y1="80.5" x2="46.5" y2="80.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,42,42" x1="51.5" y1="42.5" x2="46.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,113,155" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Kuvalis</text>
+<path aria-label="lavender: suit; Kuvalis: 138; PCI: Bugatti printing" role="graphics-symbol" aria-roledescription="bar" d="M385.8125,127.84615384615384h121.75v106.15384615384616h-121.75Z" fill="#4ce98e"/>
+<path aria-label="lavender: jar; Kuvalis: 256; PCI: Bugatti printing" role="graphics-symbol" aria-roledescription="bar" d="M233.625,37.076923076923066h121.75v196.92307692307693h-121.75Z" fill="#4ce98e"/>
+<path aria-label="lavender: hit; Kuvalis: 88; PCI: Bugatti printing" role="graphics-symbol" aria-roledescription="bar" d="M81.4375,166.3076923076923h121.75v67.69230769230771h-121.75Z" fill="#4ce98e"/>
+</svg>

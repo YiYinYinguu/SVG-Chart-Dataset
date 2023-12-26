@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="244" height="270" viewBox="0 0 244 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,239,0,26" text-anchor="end" x="239.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">strategize deposit</text>
+<path aria-label="museum West: 2; firewall enrollment: Director" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.67076127786348,110.82372542187895A75,75,0,0,0,173.0838939219355,194.67627457812105L155.45033635316128,170.40576474687265A45,45,0,0,1,86.20245676671809,120.09423525312738Z" fill="#304bee" stroke="black" stroke-width="1"/>
+<path aria-label="museum West: 2; firewall enrollment: Convertible" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.0838939219355,194.67627457812105A75,75,0,0,0,129.0,59.0L129.0,89.0A45,45,0,0,1,155.45033635316128,170.40576474687265Z" fill="#2fb595" stroke="black" stroke-width="1"/>
+<path aria-label="museum West: 1; firewall enrollment: Waterbury" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.0,59.0A75,75,0,0,0,57.67076127786348,110.82372542187895L86.20245676671809,120.09423525312738A45,45,0,0,1,129.0,89.0Z" fill="#1bccc8" stroke="black" stroke-width="1"/>
+<text aria-label="74,78,201,209" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="76.09932729367742" y="208.81152949374527" font-family="monospace" font-size="7px" fill="#304bee" opacity="1">2</text>
+<text aria-label="212,216,101,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="214.59508646656383" y="108.18847050625473" font-family="monospace" font-size="7px" fill="#2fb595" opacity="1">2</text>
+<text aria-label="74,78,56,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="76.0993272936774" y="63.188470506254745" font-family="monospace" font-size="7px" fill="#1bccc8" opacity="1">1</text>
+<path  d="M40.0,258.25A5,5,0,1,1,30.0,258.25A5,5,0,1,1,40.0,258.25" fill="#2fb595" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M122.0,258.25A5,5,0,1,1,112.0,258.25A5,5,0,1,1,122.0,258.25" fill="#304bee" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M189.0,258.25A5,5,0,1,1,179.0,258.25A5,5,0,1,1,189.0,258.25" fill="#1bccc8" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="45,105,251,262" text-anchor="start" x="45.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Convertible</text>
+<text aria-label="127,171,251,262" text-anchor="start" x="127.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Director</text>
+<text aria-label="194,243,251,262" text-anchor="start" x="194.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Waterbury</text>
+</svg>

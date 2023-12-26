@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="973" height="354" viewBox="0 0 973 354" style="background-color: rgb(255, 255, 255);">
+<line x1="137.5" y1="48.5" x2="137.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="275.5" y1="48.5" x2="275.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="414.5" y1="48.5" x2="414.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="553.5" y1="48.5" x2="553.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="692.5" y1="48.5" x2="692.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="830.5" y1="48.5" x2="830.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="54.5" y1="248.5" x2="914.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="54.5" y1="198.5" x2="914.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="54.5" y1="148.5" x2="914.5" y2="148.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="54.5" y1="98.5" x2="914.5" y2="98.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="54.5" y1="48.5" x2="914.5" y2="48.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="123,142,255,303" text-anchor="end" x="137.22580645161293" y="255.5" transform="rotate(270.0, 142.22580645161293, 255.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">color</text>
+<text aria-label="261,280,255,284" text-anchor="end" x="275.9354838709678" y="255.5" transform="rotate(270.0, 280.9354838709678, 255.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">die</text>
+<text aria-label="400,419,255,293" text-anchor="end" x="414.6451612903226" y="255.5" transform="rotate(270.0, 419.6451612903226, 255.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">dime</text>
+<text aria-label="539,558,255,312" text-anchor="end" x="553.3548387096774" y="255.5" transform="rotate(270.0, 558.3548387096774, 255.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">father</text>
+<text aria-label="678,697,255,293" text-anchor="end" x="692.0645161290323" y="255.5" transform="rotate(270.0, 697.0645161290323, 255.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">fort</text>
+<text aria-label="816,835,255,350" text-anchor="end" x="830.7741935483872" y="255.5" transform="rotate(270.0, 835.7741935483872, 255.5)" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">priesthood</text>
+<line aria-label="137,137,248,253" x1="137.5" y1="248.5" x2="137.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="275,275,248,253" x1="275.5" y1="248.5" x2="275.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="414,414,248,253" x1="414.5" y1="248.5" x2="414.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="553,553,248,253" x1="553.5" y1="248.5" x2="553.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="692,692,248,253" x1="692.5" y1="248.5" x2="692.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="830,830,248,253" x1="830.5" y1="248.5" x2="830.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,914,248,248" x1="54.5" y1="248.5" x2="914.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,369,0,26" text-anchor="start" x="5.0" y="25.689999999999998" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cambridgeshire Configuration</text>
+<text aria-label="38,47,235,254" text-anchor="end" x="47.5" y="253.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,47,185,204" text-anchor="end" x="47.5" y="203.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,47,135,154" text-anchor="end" x="47.5" y="153.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="19,47,85,104" text-anchor="end" x="47.5" y="103.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="19,47,35,54" text-anchor="end" x="47.5" y="53.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">800</text>
+<line aria-label="49,54,248,248" x1="54.5" y1="248.5" x2="49.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,198,198" x1="54.5" y1="198.5" x2="49.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,148,148" x1="54.5" y1="148.5" x2="49.5" y2="148.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,98,98" x1="54.5" y1="98.5" x2="49.5" y2="98.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,48,48" x1="54.5" y1="48.5" x2="49.5" y2="48.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,100,196" text-anchor="middle" x="16.5" y="148.5" transform="rotate(-90.0, 14.5, 148.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bicycle Optional</text>
+<path aria-label="hybrid male: die; Bicycle Optional: 220; North: East" role="graphics-symbol" aria-roledescription="bar" d="M220.45161290322582,193.0h110.96774193548389v55h-110.96774193548389Z" fill="#363063"/>
+<path aria-label="hybrid male: fort; Bicycle Optional: 360; North: East" role="graphics-symbol" aria-roledescription="bar" d="M636.5806451612904,158.0h110.96774193548389v89.99999999999999h-110.96774193548389Z" fill="#363063"/>
+<path aria-label="hybrid male: color; Bicycle Optional: 618; North: East" role="graphics-symbol" aria-roledescription="bar" d="M81.74193548387098,93.5h110.96774193548389v154.5h-110.96774193548389Z" fill="#363063"/>
+<path aria-label="hybrid male: father; Bicycle Optional: 729; North: East" role="graphics-symbol" aria-roledescription="bar" d="M497.8709677419355,65.75h110.96774193548389v182.25h-110.96774193548389Z" fill="#363063"/>
+<path aria-label="hybrid male: priesthood; Bicycle Optional: 208; North: East" role="graphics-symbol" aria-roledescription="bar" d="M775.2903225806452,196.0h110.96774193548389v52h-110.96774193548389Z" fill="#363063"/>
+<path aria-label="hybrid male: dime; Bicycle Optional: 200; North: East" role="graphics-symbol" aria-roledescription="bar" d="M359.16129032258067,198.0h110.96774193548389v50h-110.96774193548389Z" fill="#363063"/>
+<text aria-label="255,296,157,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="275.9354838709678" y="182.94" font-family="serif" font-size="25.8px" fill="#000" opacity="1">220</text>
+<text aria-label="671,712,122,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="692.0645161290323" y="147.94" font-family="serif" font-size="25.8px" fill="#000" opacity="1">360</text>
+<text aria-label="117,157,57,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.22580645161293" y="83.44000000000001" font-family="serif" font-size="25.8px" fill="#000" opacity="1">618</text>
+<text aria-label="533,573,29,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="553.3548387096774" y="55.69" font-family="serif" font-size="25.8px" fill="#000" opacity="1">729</text>
+<text aria-label="810,850,160,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="830.7741935483872" y="185.94" font-family="serif" font-size="25.8px" fill="#000" opacity="1">208</text>
+<text aria-label="394,434,162,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="414.6451612903226" y="187.94" font-family="serif" font-size="25.8px" fill="#000" opacity="1">200</text>
+<path  d="M933.0,49.0h10v10h-10Z" fill="#363063" stroke-width="1.5" opacity="1"/>
+<text aria-label="948,970,47,58" text-anchor="start" x="948.0" y="57.0" font-family="serif" font-size="10px" fill="#000" opacity="1">East</text>
+</svg>

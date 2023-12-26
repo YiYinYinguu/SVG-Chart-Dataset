@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="401" height="239" viewBox="0 0 401 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="17,368,0,26" text-anchor="middle" x="193.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">payment withdrawal indexing</text>
+<path aria-label="Music Lebanese: 217; Cab system: Illinois" role="graphics-symbol" aria-roledescription="arc mark"  d="M266.2871473842434,118.06280990010511A75,75,0,0,0,193.0,59.0L193.0,86.0A48,48,0,0,1,239.90377432591578,123.80019833606727Z" fill="#654cac" stroke="white" stroke-width="1"/>
+<path aria-label="Music Lebanese: 227; Cab system: infrastructures" role="graphics-symbol" aria-roledescription="arc mark"  d="M193.0,59.0A75,75,0,0,0,118.86030082603249,122.67282001583797L145.5505925286608,126.7506048101363A48,48,0,0,1,193.0,86.0Z" fill="#01c805" stroke="white" stroke-width="1"/>
+<path aria-label="Music Lebanese: 561; Cab system: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.86030082603249,122.67282001583797A75,75,0,1,0,266.2871473842434,118.06280990010511L239.90377432591578,123.80019833606727A48,48,0,1,1,145.5505925286608,126.7506048101363Z" fill="#a29fad" stroke="white" stroke-width="1"/>
+<text aria-label="240,258,55,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.47469995144442" y="66.9242676428257" font-family="avenir" font-size="11px" fill="#654cac" opacity="1">217</text>
+<text aria-label="125,143,57,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="134.36270571679447" y="68.72359324668035" font-family="avenir" font-size="11px" fill="#01c805" opacity="1">227</text>
+<text aria-label="186,204,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="195.81290839091417" y="226.95603118404193" font-family="avenir" font-size="11px" fill="#a29fad" opacity="1">561</text>
+<path  d="M322.0,56.0A5,5,0,1,1,312.0,56.0A5,5,0,1,1,322.0,56.0" fill="#654cac" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M322.0,72.0A5,5,0,1,1,312.0,72.0A5,5,0,1,1,322.0,72.0" fill="#a29fad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M322.0,88.0A5,5,0,1,1,312.0,88.0A5,5,0,1,1,322.0,88.0" fill="#01c805" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="327,371,49,60" text-anchor="start" x="327.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Illinois</text>
+<text aria-label="327,360,65,76" text-anchor="start" x="327.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="327,409,81,92" text-anchor="start" x="327.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">infrastructures</text>
+<text aria-label="311,371,32,44" text-anchor="start" x="311.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Cab system</text>
+</svg>

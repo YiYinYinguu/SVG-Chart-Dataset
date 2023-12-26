@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="241" height="286" viewBox="0 0 241 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="2,236,0,26" text-anchor="end" x="236.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">olive Bedfordshire</text>
+<path aria-label="Passaic Electronic: 59; Jeep: pish" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.99999999999999,59.0A75,75,0,0,0,68.78090500673265,72.01171063862571L111.0,134.0Z" fill="#8becfd" stroke="black" stroke-width="0"/>
+<path aria-label="Passaic Electronic: 302; Jeep: Soap" role="graphics-symbol" aria-roledescription="arc mark"  d="M68.78090500673265,72.01171063862571A75,75,0,0,0,148.06032506977544,199.20377524133534L111.0,134.0Z" fill="#0e44df" stroke="black" stroke-width="0"/>
+<path aria-label="Passaic Electronic: 54; Jeep: 1080p" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.0252517537116,69.95291009296808A75,75,0,0,0,111.0,59.0L111.0,134.0Z" fill="#17cc1a" stroke="black" stroke-width="0"/>
+<path aria-label="Passaic Electronic: 205; Jeep: Integration" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.06032506977544,199.20377524133534A75,75,0,0,0,150.0252517537116,69.95291009296808L111.0,134.0Z" fill="#cb9c8d" stroke="black" stroke-width="0"/>
+<text aria-label="77,90,39,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="84.49278636888087" y="51.99204905641449" font-family="sans-serif" font-size="12px" fill="#8becfd" opacity="1">59</text>
+<text aria-label="24,44,173,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.62201682547243" y="185.60676092942663" font-family="sans-serif" font-size="12px" fill="#0e44df" opacity="1">302</text>
+<text aria-label="128,141,39,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="135.31989196152557" y="51.34815146241989" font-family="sans-serif" font-size="12px" fill="#17cc1a" opacity="1">54</text>
+<text aria-label="191,210,127,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="200.98960168363396" y="139.36806024023116" font-family="sans-serif" font-size="12px" fill="#cb9c8d" opacity="1">205</text>
+<path  d="M22.0,274.25A5,5,0,1,1,12.0,274.25A5,5,0,1,1,22.0,274.25" fill="#17cc1a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M79.0,274.25A5,5,0,1,1,69.0,274.25A5,5,0,1,1,79.0,274.25" fill="#cb9c8d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M160.0,274.25A5,5,0,1,1,150.0,274.25A5,5,0,1,1,160.0,274.25" fill="#0e44df" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M211.0,274.25A5,5,0,1,1,201.0,274.25A5,5,0,1,1,211.0,274.25" fill="#8becfd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="27,54,267,278" text-anchor="start" x="27.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">1080p</text>
+<text aria-label="84,144,267,278" text-anchor="start" x="84.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Integration</text>
+<text aria-label="165,187,267,278" text-anchor="start" x="165.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Soap</text>
+<text aria-label="216,238,267,278" text-anchor="start" x="216.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">pish</text>
+<text aria-label="11,35,250,262" text-anchor="start" x="11.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Jeep</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Hybrid when</text>
+<path aria-label="Causeway Illinois Quality: 147; ha true: bluetooth" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.88349396635235,117.29740902040743A75,75,0,0,0,115.9105102925292,145.65107355081835L190.0,134.0Z" fill="#cadffc" stroke="white" stroke-width="2"/>
+<path aria-label="Causeway Illinois Quality: 206; ha true: Way" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.9105102925292,145.65107355081835A75,75,0,0,0,132.12249604216163,181.6989993145601L190.0,134.0Z" fill="#960bad" stroke="white" stroke-width="2"/>
+<path aria-label="Causeway Illinois Quality: 3; ha true: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.5824896916146,59.00226199571641A75,75,0,0,0,190.0,59.0L190.0,134.0Z" fill="#b8a8ab" stroke="white" stroke-width="2"/>
+<path aria-label="Causeway Illinois Quality: 383; ha true: overriding" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.95357441984697,63.668046276976284A75,75,0,0,0,116.88349396635235,117.29740902040743L190.0,134.0Z" fill="#4de5e9" stroke="white" stroke-width="2"/>
+<path aria-label="Causeway Illinois Quality: 595; ha true: Dollar" role="graphics-symbol" aria-roledescription="arc mark"  d="M264.9807580542194,132.30119994860686A75,75,0,0,0,190.5824896916146,59.00226199571641L190.0,134.0Z" fill="#d618fb" stroke="white" stroke-width="2"/>
+<path aria-label="Causeway Illinois Quality: 137; ha true: vice" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,163.95357441984697,63.668046276976284L190.0,134.0Z" fill="#b279be" stroke="white" stroke-width="2"/>
+<path aria-label="Causeway Illinois Quality: 280; ha true: Savings" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.12249604216163,181.6989993145601A75,75,0,0,0,178.3009768951437,208.081933414241L190.0,134.0Z" fill="#18c1ff" stroke="white" stroke-width="2"/>
+<path aria-label="Causeway Illinois Quality: 676; ha true: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.3009768951437,208.081933414241A75,75,0,0,0,264.9807580542194,132.30119994860686L190.0,134.0Z" fill="#39f46c" stroke="white" stroke-width="2"/>
+<text aria-label="91,109,122,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.0529446240878" y="133.91337899919913" font-family="avenir" font-size="11px" fill="#cadffc" opacity="1">147</text>
+<text aria-label="98,116,162,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.91890270705396" y="173.9146782078068" font-family="avenir" font-size="11px" fill="#960bad" opacity="1">206</text>
+<text aria-label="187,193,36,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.34949645017693" y="47.00067860127325" font-family="avenir" font-size="11px" fill="#b8a8ab" opacity="1">3</text>
+<text aria-label="113,131,66,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.35842698736569" y="77.63151003792954" font-family="avenir" font-size="11px" fill="#4de5e9" opacity="1">383</text>
+<text aria-label="244,262,61,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="253.16418239296056" y="72.88848728481904" font-family="avenir" font-size="11px" fill="#d618fb" opacity="1">595</text>
+<text aria-label="165,183,37,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.1231458104346" y="48.411482115099815" font-family="avenir" font-size="11px" fill="#b279be" opacity="1">137</text>
+<text aria-label="136,154,204,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.3535797769515" y="215.145359179333" font-family="avenir" font-size="11px" fill="#18c1ff" opacity="1">280</text>
+<text aria-label="240,258,193,205" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.23704175095793" y="204.75671837238923" font-family="avenir" font-size="11px" fill="#39f46c" opacity="1">676</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#b8a8ab" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#d618fb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#39f46c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#18c1ff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#960bad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#cadffc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#4de5e9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#b279be" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Dollar</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Savings</text>
+<text aria-label="21,37,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Way</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">bluetooth</text>
+<text aria-label="21,76,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">overriding</text>
+<text aria-label="21,43,161,172" text-anchor="start" x="21.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">vice</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">ha true</text>
+</svg>

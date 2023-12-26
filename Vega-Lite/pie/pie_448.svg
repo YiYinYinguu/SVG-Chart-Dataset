@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="413" height="286" viewBox="0 0 413 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="174,408,0,26" text-anchor="end" x="408.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">voluptatibus North</text>
+<path aria-label="compressing: 125; Stroman: protocol" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.24191750084043,174.9809385242506A75,75,0,0,0,32.63685338128238,200.71230609132218L50.96885052469084,195.71852188152056A56,56,0,0,1,49.18063173396085,176.50576743144046Z" fill="#bff373" stroke="white" stroke-width="4"/>
+<path aria-label="compressing: 17; Stroman: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.66158585597023,139.78682664468954A75,75,0,0,0,165.65183958007623,136.88249377454912L150.28670688645693,148.05892868499666A56,56,0,0,1,151.78731743912445,150.22749722803485Z" fill="#7bee71" stroke="white" stroke-width="4"/>
+<path aria-label="compressing: 528; Stroman: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.72991131102725,238.85201436632497A75,75,0,0,0,167.66158585597023,139.78682664468954L151.78731743912445,150.22749722803485A56,56,0,0,1,140.63833377890035,224.196170726856Z" fill="#89db6f" stroke="white" stroke-width="4"/>
+<path aria-label="compressing: 538; Stroman: structure" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.24191750084043,174.9809385242506L49.18063173396085,176.50576743144046A56,56,0,0,1,104.99999999999999,125.0Z" fill="#55fd4c" stroke="white" stroke-width="4"/>
+<path aria-label="compressing: 293; Stroman: orchid" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.63685338128238,200.71230609132218A75,75,0,0,0,69.49644931898037,247.0643465799842L78.490682158172,230.32804544638822A56,56,0,0,1,50.96885052469084,195.71852188152056Z" fill="#a956cc" stroke="white" stroke-width="4"/>
+<path aria-label="compressing: 340; Stroman: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.65183958007623,136.88249377454912A75,75,0,0,0,105.0,106.0L105.0,125.0A56,56,0,0,1,150.28670688645693,148.05892868499666Z" fill="#159f7e" stroke="white" stroke-width="4"/>
+<path aria-label="compressing: 427; Stroman: hack" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.49644931898037,247.0643465799842A75,75,0,0,0,152.72991131102725,238.85201436632497L140.63833377890035,224.196170726856A56,56,0,0,1,78.490682158172,230.32804544638822Z" fill="#f9dcb5" stroke="white" stroke-width="4"/>
+<text aria-label="5,25,181,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.38731473586121" y="193.34066182927972" font-family="serif" font-size="12px" fill="#bff373" opacity="1">125</text>
+<text aria-label="172,185,121,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.00857366000992" y="133.78739388772635" font-family="serif" font-size="12px" fill="#7bee71" opacity="1">17</text>
+<text aria-label="184,203,186,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.99477436026157" y="198.4138039558557" font-family="serif" font-size="12px" fill="#89db6f" opacity="1">528</text>
+<text aria-label="34,53,106,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="43.967462118067374" y="118.8559955877295" font-family="serif" font-size="12px" fill="#55fd4c" opacity="1">538</text>
+<text aria-label="24,44,229,242" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.55750589471114" y="241.0165602677132" font-family="serif" font-size="12px" fill="#a956cc" opacity="1">293</text>
+<text aria-label="136,155,92,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.83692769817108" y="104.79809643048148" font-family="serif" font-size="12px" fill="#159f7e" opacity="1">340</text>
+<text aria-label="104,123,262,275" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="113.83705075640636" y="274.565096627697" font-family="serif" font-size="12px" fill="#f9dcb5" opacity="1">427</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#159f7e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,56.25A5,5,0,1,1,68.0,56.25A5,5,0,1,1,78.0,56.25" fill="#7bee71" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,56.25A5,5,0,1,1,115.0,56.25A5,5,0,1,1,125.0,56.25" fill="#89db6f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,56.25A5,5,0,1,1,177.0,56.25A5,5,0,1,1,187.0,56.25" fill="#f9dcb5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.25A5,5,0,1,1,224.0,56.25A5,5,0,1,1,234.0,56.25" fill="#a956cc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M291.0,56.25A5,5,0,1,1,281.0,56.25A5,5,0,1,1,291.0,56.25" fill="#bff373" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M358.0,56.25A5,5,0,1,1,348.0,56.25A5,5,0,1,1,358.0,56.25" fill="#55fd4c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="83,105,49,60" text-anchor="start" x="83.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="130,168,49,60" text-anchor="start" x="130.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="192,214,49,60" text-anchor="start" x="192.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">hack</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">orchid</text>
+<text aria-label="296,340,49,60" text-anchor="start" x="296.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">protocol</text>
+<text aria-label="363,412,49,60" text-anchor="start" x="363.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">structure</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Stroman</text>
+</svg>

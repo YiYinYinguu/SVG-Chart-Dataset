@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="938" height="301" viewBox="0 0 938 301" style="background-color: rgb(255, 255, 255);">
+<line x1="110.5" y1="40.5" x2="110.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="260.5" y1="40.5" x2="260.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="409.5" y1="40.5" x2="409.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="559.5" y1="40.5" x2="559.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="708.5" y1="40.5" x2="708.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="858.5" y1="40.5" x2="858.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="100,114,247,282" text-anchor="end" x="110.74999999999997" y="247.5" transform="rotate(270.0, 114.74999999999997, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">beast</text>
+<text aria-label="250,264,247,289" text-anchor="end" x="260.25" y="247.5" transform="rotate(270.0, 264.25, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">career</text>
+<text aria-label="399,413,247,282" text-anchor="end" x="409.75" y="247.5" transform="rotate(270.0, 413.75, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">diary</text>
+<text aria-label="549,563,247,275" text-anchor="end" x="559.25" y="247.5" transform="rotate(270.0, 563.25, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">link</text>
+<text aria-label="698,712,247,296" text-anchor="end" x="708.7499999999999" y="247.5" transform="rotate(270.0, 712.7499999999999, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">meeting</text>
+<text aria-label="848,862,247,282" text-anchor="end" x="858.2499999999999" y="247.5" transform="rotate(270.0, 862.2499999999999, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">tonic</text>
+<line aria-label="110,110,240,245" x1="110.5" y1="240.5" x2="110.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="260,260,240,245" x1="260.5" y1="240.5" x2="260.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="409,409,240,245" x1="409.5" y1="240.5" x2="409.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="559,559,240,245" x1="559.5" y1="240.5" x2="559.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="708,708,240,245" x1="708.5" y1="240.5" x2="708.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="858,858,240,245" x1="858.5" y1="240.5" x2="858.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,933,240,240" x1="36.5" y1="240.5" x2="933.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="725,933,0,26" text-anchor="end" x="933.0" y="25.692611111111113" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Consultant Bruno</text>
+<text aria-label="22,29,231,245" text-anchor="end" x="29.5" y="244.5" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="8,29,187,201" text-anchor="end" x="29.5" y="200.05555555555557" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="8,29,142,156" text-anchor="end" x="29.5" y="155.61111111111111" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="8,29,98,112" text-anchor="end" x="29.5" y="111.16666666666667" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="8,29,53,67" text-anchor="end" x="29.5" y="66.72222222222223" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="31,36,240,240" x1="36.5" y1="240.5" x2="31.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,196,196" x1="36.5" y1="196.5" x2="31.5" y2="196.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,151,151" x1="36.5" y1="151.5" x2="31.5" y2="151.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,107,107" x1="36.5" y1="107.5" x2="31.5" y2="107.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,36,62,62" x1="36.5" y1="62.5" x2="31.5" y2="62.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,36,40,240" x1="36.5" y1="240.5" x2="36.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Cis ability: diary; withdrawal Crew Maserati: 845; deposit: Baby Cambridgeshire microchip" role="graphics-symbol" aria-roledescription="bar" d="M369.385,52.22222222222222h80.73000000000002v187.77777777777777h-80.73000000000002Z" fill="#0f17f8"/>
+<path aria-label="Cis ability: link; withdrawal Crew Maserati: 722; deposit: Baby Cambridgeshire microchip" role="graphics-symbol" aria-roledescription="bar" d="M518.885,79.55555555555557h80.73000000000002v160.44444444444443h-80.73000000000002Z" fill="#0f17f8"/>
+<path aria-label="Cis ability: career; withdrawal Crew Maserati: 850; deposit: Baby Cambridgeshire microchip" role="graphics-symbol" aria-roledescription="bar" d="M219.88499999999996,51.111111111111114h80.73000000000002v188.88888888888889h-80.73000000000002Z" fill="#0f17f8"/>
+<path aria-label="Cis ability: beast; withdrawal Crew Maserati: 385; deposit: Baby Cambridgeshire microchip" role="graphics-symbol" aria-roledescription="bar" d="M70.38499999999996,154.44444444444446h80.73000000000002v85.55555555555556h-80.73000000000002Z" fill="#0f17f8"/>
+<path aria-label="Cis ability: tonic; withdrawal Crew Maserati: 806; deposit: Baby Cambridgeshire microchip" role="graphics-symbol" aria-roledescription="bar" d="M817.8849999999999,60.888888888888886h80.73000000000002v179.11111111111111h-80.73000000000002Z" fill="#0f17f8"/>
+<path aria-label="Cis ability: meeting; withdrawal Crew Maserati: 700; deposit: Baby Cambridgeshire microchip" role="graphics-symbol" aria-roledescription="bar" d="M668.3849999999999,84.44444444444444h80.73000000000002v155.55555555555554h-80.73000000000002Z" fill="#0f17f8"/>
+<text aria-label="398,420,33,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="409.75" y="46.80372222222222" font-family="serif" font-size="13.455px" fill="#000" opacity="1">845</text>
+<text aria-label="548,570,60,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="559.25" y="74.13705555555556" font-family="serif" font-size="13.455px" fill="#000" opacity="1">722</text>
+<text aria-label="249,271,32,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="260.25" y="45.69261111111112" font-family="serif" font-size="13.455px" fill="#000" opacity="1">850</text>
+<text aria-label="99,121,135,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.74999999999997" y="149.02594444444446" font-family="serif" font-size="13.455px" fill="#000" opacity="1">385</text>
+<text aria-label="847,869,42,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="858.2499999999999" y="55.47038888888889" font-family="serif" font-size="13.455px" fill="#000" opacity="1">806</text>
+<text aria-label="697,719,65,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="708.7499999999999" y="79.02594444444443" font-family="serif" font-size="13.455px" fill="#000" opacity="1">700</text>
+</svg>

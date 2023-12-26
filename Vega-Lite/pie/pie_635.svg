@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="286" viewBox="0 0 284 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,239,0,26" text-anchor="middle" x="122.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Investment Bicycle</text>
+<path aria-label="Incredible red: 371; hacking: Rutherfordium" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.30938739581252,76.95419170325536A75,75,0,0,0,81.98891531421114,197.43589758383365L122.0,134.0Z" fill="#da8fea" stroke="black" stroke-width="1"/>
+<path aria-label="Incredible red: 334; hacking: Krone" role="graphics-symbol" aria-roledescription="arc mark"  d="M81.98891531421114,197.43589758383365A75,75,0,0,0,189.6019639387668,166.48037055856463L122.0,134.0Z" fill="#afeac9" stroke="black" stroke-width="1"/>
+<path aria-label="Incredible red: 400; hacking: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.6019639387668,166.48037055856463A75,75,0,0,0,122.0,59.0L122.0,134.0Z" fill="#8362c7" stroke="black" stroke-width="1"/>
+<path aria-label="Incredible red: 140; hacking: modular" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.99999999999999,59.0A75,75,0,0,0,73.30938739581252,76.95419170325536L122.0,134.0Z" fill="#aba576" stroke="black" stroke-width="1"/>
+<text aria-label="20,43,130,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="32.23263555475165" y="144.46686017739393" font-family="serif" font-size="14px" fill="#da8fea" opacity="1">371</text>
+<text aria-label="135,158,210,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="146.88012173787027" y="224.49265600216447" font-family="serif" font-size="14px" fill="#afeac9" opacity="1">334</text>
+<text aria-label="186,209,76,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="198.18359410110872" y="90.0827798193853" font-family="serif" font-size="14px" fill="#8362c7" opacity="1">400</text>
+<text aria-label="79,102,39,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="90.86278188444265" y="53.55786805140335" font-family="serif" font-size="14px" fill="#aba576" opacity="1">140</text>
+<path  d="M33.0,274.25A5,5,0,1,1,23.0,274.25A5,5,0,1,1,33.0,274.25" fill="#8362c7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M95.0,274.25A5,5,0,1,1,85.0,274.25A5,5,0,1,1,95.0,274.25" fill="#afeac9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M147.0,274.25A5,5,0,1,1,137.0,274.25A5,5,0,1,1,147.0,274.25" fill="#da8fea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,274.25A5,5,0,1,1,229.0,274.25A5,5,0,1,1,239.0,274.25" fill="#aba576" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="38,76,267,278" text-anchor="start" x="38.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="100,127,267,278" text-anchor="start" x="100.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Krone</text>
+<text aria-label="152,223,267,278" text-anchor="start" x="152.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Rutherfordium</text>
+<text aria-label="244,282,267,278" text-anchor="start" x="244.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">modular</text>
+<text aria-label="22,64,250,262" text-anchor="start" x="22.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">hacking</text>
+</svg>

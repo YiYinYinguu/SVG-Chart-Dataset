@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">North</text>
+<path aria-label="Niobium: 395; And: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M257.50743319963135,164.5242788022592A75,75,0,0,0,235.7687152818253,75.3682059724627L189.0,134.0Z" fill="#b3e4c1" stroke="white" stroke-width="1"/>
+<path aria-label="Niobium: 284; And: redefine" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,128.14057406748393,90.16929985541424L189.0,134.0Z" fill="#c2e2bc" stroke="white" stroke-width="1"/>
+<path aria-label="Niobium: 514; And: logistical" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.05602359061712,197.47817537238026A75,75,0,0,0,257.50743319963135,164.5242788022592L189.0,134.0Z" fill="#05abfe" stroke="white" stroke-width="1"/>
+<path aria-label="Niobium: 490; And: oof" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.14057406748393,90.16929985541424A75,75,0,0,0,149.05602359061712,197.47817537238026L189.0,134.0Z" fill="#a2adc6" stroke="white" stroke-width="1"/>
+<path aria-label="Niobium: 202; And: Global" role="graphics-symbol" aria-roledescription="arc mark"  d="M235.7687152818253,75.3682059724627A75,75,0,0,0,189.0,59.0L189.0,134.0Z" fill="#589fa3" stroke="white" stroke-width="1"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#589fa3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#b3e4c1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#05abfe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#a2adc6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#c2e2bc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Global</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="21,76,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">logistical</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">oof</text>
+<text aria-label="21,65,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">redefine</text>
+</svg>

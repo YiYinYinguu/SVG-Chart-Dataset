@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="425" height="286" viewBox="0 0 425 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,421,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Convertible Hatchback Alexandria</text>
+<path aria-label="West around: 223; purple male: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.041882720230902,136.5061232755756A75,75,0,0,0,107.37426735526755,208.9624096099219L106.26627592280936,173.97995179195834A40,40,0,0,1,65.02233745078982,135.33659908030697Z" fill="#fbf1ca" stroke="black" stroke-width="0"/>
+<path aria-label="West around: 204; purple male: yippee" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.686887359430315,123.87274520563435L65.36633992502951,128.598797443005A40,40,0,0,1,104.99999999999999,94.0Z" fill="#76c4eb" stroke="black" stroke-width="0"/>
+<path aria-label="West around: 442; purple male: Bespoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.37426735526755,208.9624096099219A75,75,0,0,0,105.0,59.0L105.0,94.0A40,40,0,0,1,106.26627592280936,173.97995179195834Z" fill="#a7b565" stroke="black" stroke-width="0"/>
+<path aria-label="West around: 24; purple male: Home" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.686887359430315,123.87274520563435A75,75,0,0,0,30.041882720230902,136.5061232755756L65.02233745078982,135.33659908030697A40,40,0,0,1,65.36633992502951,128.598797443005Z" fill="#73ab16" stroke="black" stroke-width="0"/>
+<text aria-label="32,53,190,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="43.464657864591004" y="203.67649250894993" font-family="serif" font-size="13px" fill="#fbf1ca" opacity="1">223</text>
+<text aria-label="35,56,57,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.81276961113772" y="70.19976579025897" font-family="serif" font-size="13px" fill="#76c4eb" opacity="1">204</text>
+<text aria-label="184,205,123,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.98872217636932" y="136.5752610540111" font-family="serif" font-size="13px" fill="#a7b565" opacity="1">442</text>
+<text aria-label="8,22,120,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.117071496196019" y="133.41097356947446" font-family="serif" font-size="13px" fill="#73ab16" opacity="1">24</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#a7b565" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,274.25A5,5,0,1,1,68.0,274.25A5,5,0,1,1,78.0,274.25" fill="#fbf1ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M175.0,274.25A5,5,0,1,1,165.0,274.25A5,5,0,1,1,175.0,274.25" fill="#73ab16" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M222.0,274.25A5,5,0,1,1,212.0,274.25A5,5,0,1,1,222.0,274.25" fill="#76c4eb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Bespoke</text>
+<text aria-label="83,160,267,278" text-anchor="start" x="83.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="180,202,267,278" text-anchor="start" x="180.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Home</text>
+<text aria-label="227,260,267,278" text-anchor="start" x="227.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">yippee</text>
+<text aria-label="5,71,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">purple male</text>
+</svg>

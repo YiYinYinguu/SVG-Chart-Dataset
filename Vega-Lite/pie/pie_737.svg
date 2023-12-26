@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="450" height="270" viewBox="0 0 450 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">BMW</text>
+<path aria-label="program: 220; Tricycle: Computer" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.41897246693537,219.59935228960637A75,75,0,0,0,179.6092247324869,172.64614836484805L143.79679686089318,168.975997149721A39,39,0,0,1,131.7378656828064,193.3916631905953Z" fill="#a5dd5e" stroke="black" stroke-width="0"/>
+<path aria-label="program: 516; Tricycle: Books" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.6092247324869,172.64614836484805A75,75,0,0,0,105.0,90.0L105.0,126.0A39,39,0,0,1,143.79679686089318,168.975997149721Z" fill="#1b2156" stroke="black" stroke-width="0"/>
+<path aria-label="program: 7; Tricycle: who" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,103.29804482416672,90.01931349621121L104.11498330856669,126.01004301802982A39,39,0,0,1,104.99999999999999,126.0Z" fill="#d56f4c" stroke="black" stroke-width="0"/>
+<path aria-label="program: 140; Tricycle: cock" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.120682153642036,160.74702940709702A75,75,0,0,0,35.83767002237575,194.00986232415138L69.03558841163539,180.08512840855872A39,39,0,0,1,66.06275471989386,162.78845529169044Z" fill="#132bb1" stroke="black" stroke-width="0"/>
+<path aria-label="program: 356; Tricycle: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.83767002237575,194.00986232415138A75,75,0,0,0,103.54114805297104,239.9858103309996L104.24139698754493,203.9926213721198A39,39,0,0,1,69.03558841163539,180.08512840855872Z" fill="#9fcc3d" stroke="black" stroke-width="0"/>
+<path aria-label="program: 191; Tricycle: Global" role="graphics-symbol" aria-roledescription="arc mark"  d="M103.54114805297104,239.9858103309996A75,75,0,0,0,147.3350661197043,226.90914453164626L127.01423438224623,197.19275515645606A39,39,0,0,1,104.24139698754493,203.9926213721198Z" fill="#4380c6" stroke="black" stroke-width="0"/>
+<path aria-label="program: 460; Tricycle: maximize" role="graphics-symbol" aria-roledescription="arc mark"  d="M103.29804482416672,90.01931349621121A75,75,0,0,0,30.120682153642036,160.74702940709702L66.06275471989386,162.78845529169044A39,39,0,0,1,104.11498330856669,126.01004301802982Z" fill="#6bd98e" stroke="black" stroke-width="0"/>
+<path aria-label="program: 48; Tricycle: Folk" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.3350661197043,226.90914453164626A75,75,0,0,0,156.41897246693537,219.59935228960637L131.7378656828064,193.3916631905953A39,39,0,0,1,127.01423438224623,197.19275515645606Z" fill="#f3b6ee" stroke="black" stroke-width="0"/>
+<text aria-label="179,191,199,207" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.69433403485715" y="206.85504302683532" font-family="monospace" font-size="7px" fill="#a5dd5e" opacity="1">220</text>
+<text aria-label="165,177,99,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="171.80488014884688" y="106.69155956005656" font-family="monospace" font-size="7px" fill="#1b2156" opacity="1">516</text>
+<text aria-label="101,105,70,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="103.97876114674118" y="77.00579423538093" font-family="monospace" font-size="7px" fill="#d56f4c" opacity="1">7</text>
+<text aria-label="10,22,175,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.30057243620024" y="182.24505001153625" font-family="monospace" font-size="7px" fill="#132bb1" opacity="1">140</text>
+<text aria-label="48,60,234,242" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.43904582226701" y="241.4552880099002" font-family="monospace" font-size="7px" fill="#9fcc3d" opacity="1">356</text>
+<text aria-label="124,136,246,254" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.75016633862055" y="253.23763061177743" font-family="monospace" font-size="7px" fill="#4380c6" opacity="1">191</text>
+<text aria-label="36,48,95,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="42.45276646212616" y="102.28644982108716" font-family="monospace" font-size="7px" fill="#6bd98e" opacity="1">460</text>
+<text aria-label="157,165,230,238" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="161.42314253046956" y="237.11725170731034" font-family="monospace" font-size="7px" fill="#f3b6ee" opacity="1">48</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#1b2156" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,40.25A5,5,0,1,1,58.0,40.25A5,5,0,1,1,68.0,40.25" fill="#a5dd5e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,40.25A5,5,0,1,1,125.0,40.25A5,5,0,1,1,135.0,40.25" fill="#f3b6ee" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M182.0,40.25A5,5,0,1,1,172.0,40.25A5,5,0,1,1,182.0,40.25" fill="#4380c6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,40.25A5,5,0,1,1,229.0,40.25A5,5,0,1,1,239.0,40.25" fill="#9fcc3d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M311.0,40.25A5,5,0,1,1,301.0,40.25A5,5,0,1,1,311.0,40.25" fill="#132bb1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M358.0,40.25A5,5,0,1,1,348.0,40.25A5,5,0,1,1,358.0,40.25" fill="#6bd98e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M425.0,40.25A5,5,0,1,1,415.0,40.25A5,5,0,1,1,425.0,40.25" fill="#d56f4c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Books</text>
+<text aria-label="73,117,33,44" text-anchor="start" x="73.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Computer</text>
+<text aria-label="140,162,33,44" text-anchor="start" x="140.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Folk</text>
+<text aria-label="187,220,33,44" text-anchor="start" x="187.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Global</text>
+<text aria-label="244,293,33,44" text-anchor="start" x="244.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="316,338,33,44" text-anchor="start" x="316.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">cock</text>
+<text aria-label="363,407,33,44" text-anchor="start" x="363.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">maximize</text>
+<text aria-label="430,446,33,44" text-anchor="start" x="430.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">who</text>
+</svg>

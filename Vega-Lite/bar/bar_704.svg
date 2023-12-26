@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="702" height="309" viewBox="0 0 702 309" style="background-color: rgb(255, 255, 255);">
+<line x1="211.5" y1="34.5" x2="211.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="262.5" y1="34.5" x2="262.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="313.5" y1="34.5" x2="313.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="364.5" y1="34.5" x2="364.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="415.5" y1="34.5" x2="415.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="467.5" y1="34.5" x2="467.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="518.5" y1="34.5" x2="518.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="569.5" y1="34.5" x2="569.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="620.5" y1="34.5" x2="620.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="671.5" y1="34.5" x2="671.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="186.5" y1="234.5" x2="697.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="186.5" y1="189.5" x2="697.5" y2="189.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="186.5" y1="143.5" x2="697.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="186.5" y1="98.5" x2="697.5" y2="98.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="186.5" y1="52.5" x2="697.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="200,215,241,294" text-anchor="end" x="211.54999999999998" y="241.5" transform="rotate(270.0, 215.54999999999998, 241.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">bidding</text>
+<text aria-label="251,266,241,301" text-anchor="end" x="262.65" y="241.5" transform="rotate(270.0, 266.65, 241.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">category</text>
+<text aria-label="302,317,241,294" text-anchor="end" x="313.75" y="241.5" transform="rotate(270.0, 317.75, 241.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">currant</text>
+<text aria-label="353,368,241,301" text-anchor="end" x="364.85" y="241.5" transform="rotate(270.0, 368.85, 241.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">election</text>
+<text aria-label="404,419,241,264" text-anchor="end" x="415.95" y="241.5" transform="rotate(270.0, 419.95, 241.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">gig</text>
+<text aria-label="456,471,241,294" text-anchor="end" x="467.04999999999995" y="241.5" transform="rotate(270.0, 471.04999999999995, 241.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">laborer</text>
+<text aria-label="507,522,241,309" text-anchor="end" x="518.15" y="241.5" transform="rotate(270.0, 522.15, 241.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">newsprint</text>
+<text aria-label="558,573,241,279" text-anchor="end" x="569.25" y="241.5" transform="rotate(270.0, 573.25, 241.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">round</text>
+<text aria-label="609,624,241,294" text-anchor="end" x="620.35" y="241.5" transform="rotate(270.0, 624.35, 241.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">sunroom</text>
+<text aria-label="660,675,241,279" text-anchor="end" x="671.45" y="241.5" transform="rotate(270.0, 675.45, 241.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">whelp</text>
+<line aria-label="211,211,234,239" x1="211.5" y1="234.5" x2="211.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="262,262,234,239" x1="262.5" y1="234.5" x2="262.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="313,313,234,239" x1="313.5" y1="234.5" x2="313.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="364,364,234,239" x1="364.5" y1="234.5" x2="364.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="415,415,234,239" x1="415.5" y1="234.5" x2="415.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="467,467,234,239" x1="467.5" y1="234.5" x2="467.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="518,518,234,239" x1="518.5" y1="234.5" x2="518.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="569,569,234,239" x1="569.5" y1="234.5" x2="569.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="620,620,234,239" x1="620.5" y1="234.5" x2="620.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="671,671,234,239" x1="671.5" y1="234.5" x2="671.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="186,697,234,234" x1="186.5" y1="234.5" x2="697.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="318,565,0,26" text-anchor="middle" x="441.5" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">customized Moldovan</text>
+<text aria-label="172,179,224,239" text-anchor="end" x="179.5" y="238.5" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="157,179,179,194" text-anchor="end" x="179.5" y="193.04545454545453" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="142,179,133,148" text-anchor="end" x="179.5" y="147.59090909090907" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="142,179,88,103" text-anchor="end" x="179.5" y="102.13636363636365" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<text aria-label="142,179,42,57" text-anchor="end" x="179.5" y="56.68181818181819" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">2,000</text>
+<line aria-label="181,186,234,234" x1="186.5" y1="234.5" x2="181.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="181,186,189,189" x1="186.5" y1="189.5" x2="181.5" y2="189.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="181,186,143,143" x1="186.5" y1="143.5" x2="181.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="181,186,98,98" x1="186.5" y1="98.5" x2="181.5" y2="98.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="181,186,52,52" x1="186.5" y1="52.5" x2="181.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="121,133,80,188" text-anchor="middle" x="135.5" y="134.5" transform="rotate(-90.0, 133.5, 134.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Southeast Van hack</text>
+<line aria-label="186,186,34,234" x1="186.5" y1="234.5" x2="186.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="didactic Heights: gig; Southeast Van hack: 285; robust Modern: Refined Cisgender" role="graphics-symbol" aria-roledescription="bar" d="M404.4525,180.90909090909093h22.995v25.909090909090878h-22.995Z" fill="#adfbbe"/>
+<path aria-label="didactic Heights: gig; Southeast Van hack: 299; robust Modern: Ringgit" role="graphics-symbol" aria-roledescription="bar" d="M404.4525,206.8181818181818h22.995v27.181818181818187h-22.995Z" fill="#01ccf2"/>
+<path aria-label="didactic Heights: gig; Southeast Van hack: 7; robust Modern: Barton firewall" role="graphics-symbol" aria-roledescription="bar" d="M404.4525,180.27272727272728h22.995v0.6363636363636545h-22.995Z" fill="#140c29"/>
+<path aria-label="didactic Heights: bidding; Southeast Van hack: 432; robust Modern: Refined Cisgender" role="graphics-symbol" aria-roledescription="bar" d="M200.05249999999998,119.81818181818181h22.995v39.27272727272728h-22.995Z" fill="#adfbbe"/>
+<path aria-label="didactic Heights: bidding; Southeast Van hack: 824; robust Modern: Ringgit" role="graphics-symbol" aria-roledescription="bar" d="M200.05249999999998,159.0909090909091h22.995v74.9090909090909h-22.995Z" fill="#01ccf2"/>
+<path aria-label="didactic Heights: bidding; Southeast Van hack: 807; robust Modern: Barton firewall" role="graphics-symbol" aria-roledescription="bar" d="M200.05249999999998,46.45454545454545h22.995v73.36363636363636h-22.995Z" fill="#140c29"/>
+<path aria-label="didactic Heights: sunroom; Southeast Van hack: 187; robust Modern: Refined Cisgender" role="graphics-symbol" aria-roledescription="bar" d="M608.8525,216.63636363636365h22.995v16.99999999999997h-22.995Z" fill="#adfbbe"/>
+<path aria-label="didactic Heights: sunroom; Southeast Van hack: 4; robust Modern: Ringgit" role="graphics-symbol" aria-roledescription="bar" d="M608.8525,233.63636363636363h22.995v0.36363636363637397h-22.995Z" fill="#01ccf2"/>
+<path aria-label="didactic Heights: sunroom; Southeast Van hack: 328; robust Modern: Barton firewall" role="graphics-symbol" aria-roledescription="bar" d="M608.8525,186.81818181818184h22.995v29.818181818181813h-22.995Z" fill="#140c29"/>
+<path aria-label="didactic Heights: election; Southeast Van hack: 698; robust Modern: Refined Cisgender" role="graphics-symbol" aria-roledescription="bar" d="M353.35249999999996,145.0h22.995v63.45454545454548h-22.995Z" fill="#adfbbe"/>
+<path aria-label="didactic Heights: election; Southeast Van hack: 281; robust Modern: Ringgit" role="graphics-symbol" aria-roledescription="bar" d="M353.35249999999996,208.45454545454547h22.995v25.545454545454533h-22.995Z" fill="#01ccf2"/>
+<path aria-label="didactic Heights: election; Southeast Van hack: 160; robust Modern: Barton firewall" role="graphics-symbol" aria-roledescription="bar" d="M353.35249999999996,130.45454545454544h22.995v14.545454545454533h-22.995Z" fill="#140c29"/>
+<path aria-label="didactic Heights: whelp; Southeast Van hack: 341; robust Modern: Refined Cisgender" role="graphics-symbol" aria-roledescription="bar" d="M659.9525000000001,152.27272727272725h22.995v31.000000000000014h-22.995Z" fill="#adfbbe"/>
+<path aria-label="didactic Heights: whelp; Southeast Van hack: 558; robust Modern: Ringgit" role="graphics-symbol" aria-roledescription="bar" d="M659.9525000000001,183.27272727272728h22.995v50.72727272727272h-22.995Z" fill="#01ccf2"/>
+<path aria-label="didactic Heights: whelp; Southeast Van hack: 441; robust Modern: Barton firewall" role="graphics-symbol" aria-roledescription="bar" d="M659.9525000000001,112.18181818181817h22.995v40.09090909090909h-22.995Z" fill="#140c29"/>
+<path aria-label="didactic Heights: laborer; Southeast Van hack: 606; robust Modern: Refined Cisgender" role="graphics-symbol" aria-roledescription="bar" d="M455.55249999999995,145.63636363636363h22.995v55.09090909090909h-22.995Z" fill="#adfbbe"/>
+<path aria-label="didactic Heights: laborer; Southeast Van hack: 366; robust Modern: Ringgit" role="graphics-symbol" aria-roledescription="bar" d="M455.55249999999995,200.72727272727272h22.995v33.27272727272728h-22.995Z" fill="#01ccf2"/>
+<path aria-label="didactic Heights: laborer; Southeast Van hack: 265; robust Modern: Barton firewall" role="graphics-symbol" aria-roledescription="bar" d="M455.55249999999995,121.54545454545455h22.995v24.09090909090908h-22.995Z" fill="#140c29"/>
+<path aria-label="didactic Heights: currant; Southeast Van hack: 249; robust Modern: Refined Cisgender" role="graphics-symbol" aria-roledescription="bar" d="M302.2525,199.72727272727272h22.995v22.636363636363626h-22.995Z" fill="#adfbbe"/>
+<path aria-label="didactic Heights: currant; Southeast Van hack: 128; robust Modern: Ringgit" role="graphics-symbol" aria-roledescription="bar" d="M302.2525,222.36363636363635h22.995v11.636363636363654h-22.995Z" fill="#01ccf2"/>
+<path aria-label="didactic Heights: currant; Southeast Van hack: 308; robust Modern: Barton firewall" role="graphics-symbol" aria-roledescription="bar" d="M302.2525,171.72727272727275h22.995v27.99999999999997h-22.995Z" fill="#140c29"/>
+<path aria-label="didactic Heights: category; Southeast Van hack: 567; robust Modern: Refined Cisgender" role="graphics-symbol" aria-roledescription="bar" d="M251.15249999999997,129.54545454545456h22.995v51.54545454545453h-22.995Z" fill="#adfbbe"/>
+<path aria-label="didactic Heights: category; Southeast Van hack: 582; robust Modern: Ringgit" role="graphics-symbol" aria-roledescription="bar" d="M251.15249999999997,181.0909090909091h22.995v52.90909090909091h-22.995Z" fill="#01ccf2"/>
+<path aria-label="didactic Heights: category; Southeast Van hack: 367; robust Modern: Barton firewall" role="graphics-symbol" aria-roledescription="bar" d="M251.15249999999997,96.18181818181819h22.995v33.36363636363638h-22.995Z" fill="#140c29"/>
+<path aria-label="didactic Heights: round; Southeast Van hack: 80; robust Modern: Refined Cisgender" role="graphics-symbol" aria-roledescription="bar" d="M557.7525,150.0h22.995v7.2727272727272805h-22.995Z" fill="#adfbbe"/>
+<path aria-label="didactic Heights: round; Southeast Van hack: 844; robust Modern: Ringgit" role="graphics-symbol" aria-roledescription="bar" d="M557.7525,157.2727272727273h22.995v76.7272727272727h-22.995Z" fill="#01ccf2"/>
+<path aria-label="didactic Heights: round; Southeast Van hack: 963; robust Modern: Barton firewall" role="graphics-symbol" aria-roledescription="bar" d="M557.7525,62.45454545454544h22.995v87.54545454545458h-22.995Z" fill="#140c29"/>
+<path aria-label="didactic Heights: newsprint; Southeast Van hack: 600; robust Modern: Refined Cisgender" role="graphics-symbol" aria-roledescription="bar" d="M506.6525,159.9090909090909h22.995v54.54545454545453h-22.995Z" fill="#adfbbe"/>
+<path aria-label="didactic Heights: newsprint; Southeast Van hack: 215; robust Modern: Ringgit" role="graphics-symbol" aria-roledescription="bar" d="M506.6525,214.45454545454544h22.995v19.54545454545456h-22.995Z" fill="#01ccf2"/>
+<path aria-label="didactic Heights: newsprint; Southeast Van hack: 787; robust Modern: Barton firewall" role="graphics-symbol" aria-roledescription="bar" d="M506.6525,88.36363636363637h22.995v71.54545454545453h-22.995Z" fill="#140c29"/>
+<path  d="M6.0,51.0h10v10h-10Z" fill="#adfbbe" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,64.0h10v10h-10Z" fill="#01ccf2" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,77.0h10v10h-10Z" fill="#140c29" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,114,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Refined Cisgender</text>
+<text aria-label="21,59,62,73" text-anchor="start" x="21.0" y="72.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Ringgit</text>
+<text aria-label="21,103,75,86" text-anchor="start" x="21.0" y="85.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Barton firewall</text>
+<text aria-label="5,83,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">robust Modern</text>
+</svg>

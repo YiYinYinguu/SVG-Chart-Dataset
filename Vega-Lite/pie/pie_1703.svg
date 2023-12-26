@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="321" height="239" viewBox="0 0 321 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="131,300,0,26" text-anchor="middle" x="216.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">South payment</text>
+<path aria-label="International: 396; Americium Avon: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M290.972085486233,131.95393112408973A75,75,0,0,0,216.0,59.0L216.0,134.0Z" fill="#e8dbad" stroke="white" stroke-width="1"/>
+<path aria-label="International: 160; Americium Avon: Roentgenium" role="graphics-symbol" aria-roledescription="arc mark"  d="M278.0540379140194,176.12239758804623A75,75,0,0,0,290.972085486233,131.95393112408973L216.0,134.0Z" fill="#dbcc55" stroke="white" stroke-width="1"/>
+<path aria-label="International: 517; Americium Avon: revolutionize" role="graphics-symbol" aria-roledescription="arc mark"  d="M216.0,59.0A75,75,0,0,0,148.28304807541417,166.23995071403385L216.0,134.0Z" fill="#55d96c" stroke="white" stroke-width="1"/>
+<path aria-label="International: 539; Americium Avon: connecting" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.28304807541417,166.23995071403385A75,75,0,0,0,278.0540379140194,176.12239758804623L216.0,134.0Z" fill="#154ead" stroke="white" stroke-width="1"/>
+<text aria-label="272,285,63,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="278.76553417840756" y="71.49815724105898" font-family="sans-serif" font-size="8px" fill="#e8dbad" opacity="1">396</text>
+<text aria-label="295,309,153,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="302.38127281185655" y="161.26411897145067" font-family="sans-serif" font-size="8px" fill="#dbcc55" opacity="1">160</text>
+<text aria-label="133,146,79,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="139.90166008014478" y="87.94750098650258" font-family="sans-serif" font-size="8px" fill="#55d96c" opacity="1">517</text>
+<text aria-label="202,215,217,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="209.16601971972784" y="225.74016221028825" font-family="sans-serif" font-size="8px" fill="#154ead" opacity="1">539</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#e8dbad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#dbcc55" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#154ead" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#55d96c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,81,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Roentgenium</text>
+<text aria-label="21,76,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">connecting</text>
+<text aria-label="21,92,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">revolutionize</text>
+<text aria-label="5,89,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Americium Avon</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="606" height="302" viewBox="0 0 606 302" style="background-color: rgb(255, 255, 255);">
+<line x1="76.5" y1="34.5" x2="76.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="116.5" y1="34.5" x2="116.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="155.5" y1="34.5" x2="155.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="195.5" y1="34.5" x2="195.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="234.5" y1="34.5" x2="234.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="273.5" y1="34.5" x2="273.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="313.5" y1="34.5" x2="313.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="352.5" y1="34.5" x2="352.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="392.5" y1="34.5" x2="392.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="234.5" x2="412.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="178.5" x2="412.5" y2="178.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="123.5" x2="412.5" y2="123.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="67.5" x2="412.5" y2="67.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="64,81,241,292" text-anchor="end" x="76.72222222222223" y="241.5" transform="rotate(270.0, 81.72222222222223, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">airbag</text>
+<text aria-label="104,121,241,301" text-anchor="end" x="116.16666666666667" y="241.5" transform="rotate(270.0, 121.16666666666667, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">average</text>
+<text aria-label="143,160,241,284" text-anchor="end" x="155.61111111111111" y="241.5" transform="rotate(270.0, 160.61111111111111, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">money</text>
+<text aria-label="183,200,241,301" text-anchor="end" x="195.05555555555554" y="241.5" transform="rotate(270.0, 200.05555555555554, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">postfix</text>
+<text aria-label="222,239,241,275" text-anchor="end" x="234.5" y="241.5" transform="rotate(270.0, 239.5, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">risk</text>
+<text aria-label="261,278,241,284" text-anchor="end" x="273.94444444444446" y="241.5" transform="rotate(270.0, 278.94444444444446, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">screw</text>
+<text aria-label="301,318,241,275" text-anchor="end" x="313.3888888888889" y="241.5" transform="rotate(270.0, 318.3888888888889, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">tell</text>
+<text aria-label="340,357,241,301" text-anchor="end" x="352.8333333333333" y="241.5" transform="rotate(270.0, 357.8333333333333, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">vinegar</text>
+<text aria-label="380,397,241,267" text-anchor="end" x="392.27777777777777" y="241.5" transform="rotate(270.0, 397.27777777777777, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">web</text>
+<line aria-label="76,76,234,239" x1="76.5" y1="234.5" x2="76.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="116,116,234,239" x1="116.5" y1="234.5" x2="116.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="155,155,234,239" x1="155.5" y1="234.5" x2="155.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="195,195,234,239" x1="195.5" y1="234.5" x2="195.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="234,234,234,239" x1="234.5" y1="234.5" x2="234.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="273,273,234,239" x1="273.5" y1="234.5" x2="273.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="313,313,234,239" x1="313.5" y1="234.5" x2="313.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="352,352,234,239" x1="352.5" y1="234.5" x2="352.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="392,392,234,239" x1="392.5" y1="234.5" x2="392.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,412,234,234" x1="57.5" y1="234.5" x2="412.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bronze libero</text>
+<text aria-label="42,50,223,240" text-anchor="end" x="50.5" y="239.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="25,50,167,184" text-anchor="end" x="50.5" y="183.94444444444443" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="8,50,112,129" text-anchor="end" x="50.5" y="128.38888888888889" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="8,50,56,73" text-anchor="end" x="50.5" y="72.83333333333333" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<line aria-label="52,57,234,234" x1="57.5" y1="234.5" x2="52.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,178,178" x1="57.5" y1="178.5" x2="52.5" y2="178.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,123,123" x1="57.5" y1="123.5" x2="52.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,67,67" x1="57.5" y1="67.5" x2="52.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,57,34,234" x1="57.5" y1="234.5" x2="57.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Bentley Iron architecture: tell; newton: 868; Mission offense Pickup: male Planner sweltering" role="graphics-symbol" aria-roledescription="bar" d="M302.7388888888889,137.55555555555554h21.300000000000004v96.44444444444444h-21.300000000000004Z" fill="#7bc82d"/>
+<path aria-label="Bentley Iron architecture: tell; newton: 853; Mission offense Pickup: Mississippi Lafayette Corporate" role="graphics-symbol" aria-roledescription="bar" d="M302.7388888888889,42.77777777777777h21.300000000000004v94.77777777777779h-21.300000000000004Z" fill="#7c4b99"/>
+<path aria-label="Bentley Iron architecture: web; newton: 207; Mission offense Pickup: male Planner sweltering" role="graphics-symbol" aria-roledescription="bar" d="M381.6277777777778,211.0h21.300000000000004v23h-21.300000000000004Z" fill="#7bc82d"/>
+<path aria-label="Bentley Iron architecture: web; newton: 274; Mission offense Pickup: Mississippi Lafayette Corporate" role="graphics-symbol" aria-roledescription="bar" d="M381.6277777777778,180.55555555555554h21.300000000000004v30.444444444444457h-21.300000000000004Z" fill="#7c4b99"/>
+<path aria-label="Bentley Iron architecture: screw; newton: 96; Mission offense Pickup: male Planner sweltering" role="graphics-symbol" aria-roledescription="bar" d="M263.2944444444445,223.33333333333334h21.300000000000004v10.666666666666657h-21.300000000000004Z" fill="#7bc82d"/>
+<path aria-label="Bentley Iron architecture: screw; newton: 93; Mission offense Pickup: Mississippi Lafayette Corporate" role="graphics-symbol" aria-roledescription="bar" d="M263.2944444444445,213.0h21.300000000000004v10.333333333333343h-21.300000000000004Z" fill="#7c4b99"/>
+<path aria-label="Bentley Iron architecture: postfix; newton: 588; Mission offense Pickup: male Planner sweltering" role="graphics-symbol" aria-roledescription="bar" d="M184.40555555555557,168.66666666666666h21.300000000000004v65.33333333333334h-21.300000000000004Z" fill="#7bc82d"/>
+<path aria-label="Bentley Iron architecture: postfix; newton: 17; Mission offense Pickup: Mississippi Lafayette Corporate" role="graphics-symbol" aria-roledescription="bar" d="M184.40555555555557,166.77777777777777h21.300000000000004v1.8888888888888857h-21.300000000000004Z" fill="#7c4b99"/>
+<path aria-label="Bentley Iron architecture: average; newton: 380; Mission offense Pickup: male Planner sweltering" role="graphics-symbol" aria-roledescription="bar" d="M105.51666666666668,191.77777777777777h21.300000000000004v42.22222222222223h-21.300000000000004Z" fill="#7bc82d"/>
+<path aria-label="Bentley Iron architecture: average; newton: 267; Mission offense Pickup: Mississippi Lafayette Corporate" role="graphics-symbol" aria-roledescription="bar" d="M105.51666666666668,162.11111111111111h21.300000000000004v29.666666666666657h-21.300000000000004Z" fill="#7c4b99"/>
+<path aria-label="Bentley Iron architecture: money; newton: 471; Mission offense Pickup: male Planner sweltering" role="graphics-symbol" aria-roledescription="bar" d="M144.9611111111111,181.66666666666666h21.300000000000004v52.33333333333334h-21.300000000000004Z" fill="#7bc82d"/>
+<path aria-label="Bentley Iron architecture: money; newton: 538; Mission offense Pickup: Mississippi Lafayette Corporate" role="graphics-symbol" aria-roledescription="bar" d="M144.9611111111111,121.88888888888889h21.300000000000004v59.77777777777777h-21.300000000000004Z" fill="#7c4b99"/>
+<path aria-label="Bentley Iron architecture: airbag; newton: 792; Mission offense Pickup: male Planner sweltering" role="graphics-symbol" aria-roledescription="bar" d="M66.07222222222222,146.0h21.300000000000004v87.99999999999999h-21.300000000000004Z" fill="#7bc82d"/>
+<path aria-label="Bentley Iron architecture: airbag; newton: 748; Mission offense Pickup: Mississippi Lafayette Corporate" role="graphics-symbol" aria-roledescription="bar" d="M66.07222222222222,62.8888888888889h21.300000000000004v83.11111111111111h-21.300000000000004Z" fill="#7c4b99"/>
+<path aria-label="Bentley Iron architecture: risk; newton: 289; Mission offense Pickup: male Planner sweltering" role="graphics-symbol" aria-roledescription="bar" d="M223.85,201.88888888888889h21.300000000000004v32.111111111111114h-21.300000000000004Z" fill="#7bc82d"/>
+<path aria-label="Bentley Iron architecture: risk; newton: 669; Mission offense Pickup: Mississippi Lafayette Corporate" role="graphics-symbol" aria-roledescription="bar" d="M223.85,127.55555555555554h21.300000000000004v74.33333333333334h-21.300000000000004Z" fill="#7c4b99"/>
+<path aria-label="Bentley Iron architecture: vinegar; newton: 881; Mission offense Pickup: male Planner sweltering" role="graphics-symbol" aria-roledescription="bar" d="M342.18333333333334,136.11111111111111h21.300000000000004v97.88888888888889h-21.300000000000004Z" fill="#7bc82d"/>
+<path aria-label="Bentley Iron architecture: vinegar; newton: 336; Mission offense Pickup: Mississippi Lafayette Corporate" role="graphics-symbol" aria-roledescription="bar" d="M342.18333333333334,98.77777777777777h21.300000000000004v37.33333333333334h-21.300000000000004Z" fill="#7c4b99"/>
+<path  d="M431.0,51.0h10v10h-10Z" fill="#7bc82d" stroke-width="1.5" opacity="1"/>
+<path  d="M431.0,64.0h10v10h-10Z" fill="#7c4b99" stroke-width="1.5" opacity="1"/>
+<text aria-label="446,572,49,60" text-anchor="start" x="446.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">male Planner sweltering</text>
+<text aria-label="446,616,62,73" text-anchor="start" x="446.0" y="72.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Mississippi Lafayette Corporate</text>
+<text aria-label="430,562,32,44" text-anchor="start" x="430.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Mission offense Pickup</text>
+</svg>

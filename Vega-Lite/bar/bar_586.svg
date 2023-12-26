@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="437" height="352" viewBox="0 0 437 352" style="background-color: rgb(255, 255, 255);">
+<line x1="79.5" y1="79.5" x2="79.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="142.5" y1="79.5" x2="142.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="205.5" y1="79.5" x2="205.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="268.5" y1="79.5" x2="268.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="331.5" y1="79.5" x2="331.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="394.5" y1="79.5" x2="394.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="279.5" x2="432.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="223.5" x2="432.5" y2="223.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="168.5" x2="432.5" y2="168.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="112.5" x2="432.5" y2="112.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="67,84,286,337" text-anchor="end" x="79.74193548387098" y="286.5" transform="rotate(270.0, 84.74193548387098, 286.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">greens</text>
+<text aria-label="130,147,286,337" text-anchor="end" x="142.6451612903226" y="286.5" transform="rotate(270.0, 147.6451612903226, 286.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">injury</text>
+<text aria-label="193,210,286,320" text-anchor="end" x="205.54838709677418" y="286.5" transform="rotate(270.0, 210.54838709677418, 286.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">leap</text>
+<text aria-label="256,273,286,329" text-anchor="end" x="268.4516129032258" y="286.5" transform="rotate(270.0, 273.4516129032258, 286.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">spank</text>
+<text aria-label="319,336,286,337" text-anchor="end" x="331.35483870967744" y="286.5" transform="rotate(270.0, 336.35483870967744, 286.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">wasabi</text>
+<text aria-label="382,399,286,337" text-anchor="end" x="394.2580645161291" y="286.5" transform="rotate(270.0, 399.2580645161291, 286.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">weapon</text>
+<line aria-label="79,79,279,284" x1="79.5" y1="279.5" x2="79.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="142,142,279,284" x1="142.5" y1="279.5" x2="142.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="205,205,279,284" x1="205.5" y1="279.5" x2="205.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="268,268,279,284" x1="268.5" y1="279.5" x2="268.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="331,331,279,284" x1="331.5" y1="279.5" x2="331.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="394,394,279,284" x1="394.5" y1="279.5" x2="394.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,432,279,279" x1="42.5" y1="279.5" x2="432.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,369,0,26" text-anchor="start" x="5.3984375" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">generation Diesel Dysprosium</text>
+<text aria-label="27,35,268,285" text-anchor="end" x="35.5" y="284.5" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="18,35,212,229" text-anchor="end" x="35.5" y="228.94444444444443" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="10,35,157,174" text-anchor="end" x="35.5" y="173.38888888888889" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="10,35,101,118" text-anchor="end" x="35.5" y="117.83333333333333" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">150</text>
+<line aria-label="37,42,279,279" x1="42.5" y1="279.5" x2="37.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,42,223,223" x1="42.5" y1="223.5" x2="37.5" y2="223.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,42,168,168" x1="42.5" y1="168.5" x2="37.5" y2="168.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,42,112,112" x1="42.5" y1="112.5" x2="37.5" y2="112.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,42,79,279" x1="42.5" y1="279.5" x2="42.5" y2="79.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="beside scalable bus: leap; intuitive male Human: 164; Gasoline North: Northeast Thulium" role="graphics-symbol" aria-roledescription="bar" d="M180.38709677419354,96.77777777777779h50.32258064516129v182.22222222222223h-50.32258064516129Z" fill="#27a562"/>
+<path aria-label="beside scalable bus: weapon; intuitive male Human: 179; Gasoline North: Northeast Thulium" role="graphics-symbol" aria-roledescription="bar" d="M369.0967741935484,80.11111111111111h50.32258064516129v198.88888888888889h-50.32258064516129Z" fill="#27a562"/>
+<path aria-label="beside scalable bus: greens; intuitive male Human: 79; Gasoline North: Northeast Thulium" role="graphics-symbol" aria-roledescription="bar" d="M54.580645161290334,191.22222222222223h50.32258064516129v87.77777777777777h-50.32258064516129Z" fill="#27a562"/>
+<path aria-label="beside scalable bus: injury; intuitive male Human: 15; Gasoline North: Northeast Thulium" role="graphics-symbol" aria-roledescription="bar" d="M117.48387096774195,262.3333333333333h50.32258064516129v16.666666666666686h-50.32258064516129Z" fill="#27a562"/>
+<path aria-label="beside scalable bus: spank; intuitive male Human: 72; Gasoline North: Northeast Thulium" role="graphics-symbol" aria-roledescription="bar" d="M243.29032258064515,199.0h50.32258064516129v80h-50.32258064516129Z" fill="#27a562"/>
+<path aria-label="beside scalable bus: wasabi; intuitive male Human: 41; Gasoline North: Northeast Thulium" role="graphics-symbol" aria-roledescription="bar" d="M306.19354838709677,233.44444444444446h50.32258064516129v45.55555555555554h-50.32258064516129Z" fill="#27a562"/>
+<path  d="M43.0,51.0h10v10h-10Z" fill="#27a562" stroke-width="1.5" opacity="1"/>
+<text aria-label="58,151,49,60" text-anchor="start" x="58.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northeast Thulium</text>
+<text aria-label="42,126,32,44" text-anchor="start" x="42.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Gasoline North</text>
+</svg>

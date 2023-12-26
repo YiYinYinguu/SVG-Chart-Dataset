@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="198,289,0,26" text-anchor="end" x="289.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">unlined</text>
+<path aria-label="Brand: 781; groupware Music: foreground" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.908362774104162,150.81108466572095A75,75,0,0,0,139.64517853184455,200.5185057295834L121.62968569528539,165.92888275020002A36,36,0,0,1,69.91601413157,142.06932063954605Z" fill="#273009" stroke="white" stroke-width="0"/>
+<path aria-label="Brand: 726; groupware Music: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.64517853184455,200.5185057295834A75,75,0,0,0,166.65478888526795,91.29535145311416L134.59429866492863,113.5017686974948A36,36,0,0,1,121.62968569528539,165.92888275020002Z" fill="#ca1be7" stroke="white" stroke-width="0"/>
+<path aria-label="Brand: 769; groupware Music: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.908362774104162,150.81108466572095L69.91601413157,142.06932063954605A36,36,0,0,1,105.0,98.0Z" fill="#e20bcd" stroke="white" stroke-width="0"/>
+<path aria-label="Brand: 413; groupware Music: Lithuania" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.65478888526795,91.29535145311416A75,75,0,0,0,105.0,59.0L105.0,98.0A36,36,0,0,1,134.59429866492863,113.5017686974948Z" fill="#f0f9f6" stroke="white" stroke-width="0"/>
+<text aria-label="59,75,208,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="67.29555938385953" y="218.72132621185204" font-family="monospace" font-size="10px" fill="#273009" opacity="1">781</text>
+<text aria-label="184,200,148,159" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.36828495323573" y="158.6051564292" font-family="monospace" font-size="10px" fill="#ca1be7" opacity="1">726</text>
+<text aria-label="26,42,70,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.588363376861224" y="80.94465745309317" font-family="monospace" font-size="10px" fill="#e20bcd" opacity="1">769</text>
+<text aria-label="138,155,47,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="146.7606151591205" y="57.27515430223879" font-family="monospace" font-size="10px" fill="#f0f9f6" opacity="1">413</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#f0f9f6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ca1be7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#273009" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#e20bcd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Lithuania</text>
+<text aria-label="239,288,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="239,294,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">foreground</text>
+<text aria-label="239,294,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+</svg>

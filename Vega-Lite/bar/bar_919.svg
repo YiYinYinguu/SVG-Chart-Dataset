@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="591" height="296" viewBox="0 0 591 296" style="background-color: rgb(255, 255, 255);">
+<line x1="44.5" y1="240.5" x2="467.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="44.5" y1="190.5" x2="467.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="44.5" y1="140.5" x2="467.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="44.5" y1="90.5" x2="467.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="44.5" y1="40.5" x2="467.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="61,73,247,283" text-anchor="end" x="70.43749999999999" y="247.5" transform="rotate(270.0, 73.43749999999999, 247.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">doctor</text>
+<text aria-label="114,126,247,271" text-anchor="end" x="123.31249999999999" y="247.5" transform="rotate(270.0, 126.31249999999999, 247.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">halt</text>
+<text aria-label="167,179,247,271" text-anchor="end" x="176.18749999999997" y="247.5" transform="rotate(270.0, 179.18749999999997, 247.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">hook</text>
+<text aria-label="220,232,247,295" text-anchor="end" x="229.06249999999997" y="247.5" transform="rotate(270.0, 232.06249999999997, 247.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">icecream</text>
+<text aria-label="272,284,247,289" text-anchor="end" x="281.9375" y="247.5" transform="rotate(270.0, 284.9375, 247.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">shallot</text>
+<text aria-label="325,337,247,277" text-anchor="end" x="334.81249999999994" y="247.5" transform="rotate(270.0, 337.81249999999994, 247.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">table</text>
+<text aria-label="378,390,247,289" text-anchor="end" x="387.68749999999994" y="247.5" transform="rotate(270.0, 390.68749999999994, 247.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">toenail</text>
+<text aria-label="431,443,247,265" text-anchor="end" x="440.56249999999994" y="247.5" transform="rotate(270.0, 443.56249999999994, 247.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">way</text>
+<line aria-label="70,70,240,245" x1="70.5" y1="240.5" x2="70.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="123,123,240,245" x1="123.5" y1="240.5" x2="123.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="176,176,240,245" x1="176.5" y1="240.5" x2="176.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="229,229,240,245" x1="229.5" y1="240.5" x2="229.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="281,281,240,245" x1="281.5" y1="240.5" x2="281.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="334,334,240,245" x1="334.5" y1="240.5" x2="334.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="387,387,240,245" x1="387.5" y1="240.5" x2="387.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="440,440,240,245" x1="440.5" y1="240.5" x2="440.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,467,240,240" x1="44.5" y1="240.5" x2="467.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="469,586,0,26" text-anchor="end" x="586.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Northeast</text>
+<text aria-label="31,37,232,244" text-anchor="end" x="37.5" y="243.5" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,37,182,194" text-anchor="end" x="37.5" y="193.5" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,37,132,144" text-anchor="end" x="37.5" y="143.5" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="19,37,82,94" text-anchor="end" x="37.5" y="93.5" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="19,37,32,44" text-anchor="end" x="37.5" y="43.5" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">800</text>
+<line aria-label="39,44,240,240" x1="44.5" y1="240.5" x2="39.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,44,190,190" x1="44.5" y1="190.5" x2="39.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,44,140,140" x1="44.5" y1="140.5" x2="39.5" y2="140.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,44,90,90" x1="44.5" y1="90.5" x2="39.5" y2="90.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,44,40,40" x1="44.5" y1="40.5" x2="39.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,107,173" text-anchor="middle" x="17.0" y="140.5" transform="rotate(-90.0, 15.0, 140.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Account SDR</text>
+<line aria-label="44,44,40,240" x1="44.5" y1="240.5" x2="44.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="withdrawal pascal moderator: shallot; Account SDR: 386; digital: Hybrid Investment" role="graphics-symbol" aria-roledescription="bar" d="M262.9025,119.0h38.07v96.5h-38.07Z" fill="#8b7afc"/>
+<path aria-label="withdrawal pascal moderator: shallot; Account SDR: 98; digital: invoice" role="graphics-symbol" aria-roledescription="bar" d="M262.9025,215.5h38.07v24.5h-38.07Z" fill="#fdb0c3"/>
+<path aria-label="withdrawal pascal moderator: toenail; Account SDR: 164; digital: Hybrid Investment" role="graphics-symbol" aria-roledescription="bar" d="M368.6525,95.0h38.07v40.99999999999999h-38.07Z" fill="#8b7afc"/>
+<path aria-label="withdrawal pascal moderator: toenail; Account SDR: 416; digital: invoice" role="graphics-symbol" aria-roledescription="bar" d="M368.6525,136.0h38.07v104h-38.07Z" fill="#fdb0c3"/>
+<path aria-label="withdrawal pascal moderator: hook; Account SDR: 247; digital: Hybrid Investment" role="graphics-symbol" aria-roledescription="bar" d="M157.15249999999997,96.74999999999999h38.07v61.750000000000014h-38.07Z" fill="#8b7afc"/>
+<path aria-label="withdrawal pascal moderator: hook; Account SDR: 326; digital: invoice" role="graphics-symbol" aria-roledescription="bar" d="M157.15249999999997,158.5h38.07v81.5h-38.07Z" fill="#fdb0c3"/>
+<path aria-label="withdrawal pascal moderator: table; Account SDR: 248; digital: Hybrid Investment" role="graphics-symbol" aria-roledescription="bar" d="M315.7775,131.25h38.07v61.999999999999986h-38.07Z" fill="#8b7afc"/>
+<path aria-label="withdrawal pascal moderator: table; Account SDR: 187; digital: invoice" role="graphics-symbol" aria-roledescription="bar" d="M315.7775,193.25h38.07v46.75h-38.07Z" fill="#fdb0c3"/>
+<path aria-label="withdrawal pascal moderator: icecream; Account SDR: 333; digital: Hybrid Investment" role="graphics-symbol" aria-roledescription="bar" d="M210.02749999999997,60.50000000000001h38.07v83.25h-38.07Z" fill="#8b7afc"/>
+<path aria-label="withdrawal pascal moderator: icecream; Account SDR: 385; digital: invoice" role="graphics-symbol" aria-roledescription="bar" d="M210.02749999999997,143.75h38.07v96.24999999999999h-38.07Z" fill="#fdb0c3"/>
+<path aria-label="withdrawal pascal moderator: doctor; Account SDR: 26; digital: Hybrid Investment" role="graphics-symbol" aria-roledescription="bar" d="M51.40249999999998,111.50000000000001h38.07v6.499999999999986h-38.07Z" fill="#8b7afc"/>
+<path aria-label="withdrawal pascal moderator: doctor; Account SDR: 488; digital: invoice" role="graphics-symbol" aria-roledescription="bar" d="M51.40249999999998,118.0h38.07v122h-38.07Z" fill="#fdb0c3"/>
+<path aria-label="withdrawal pascal moderator: halt; Account SDR: 270; digital: Hybrid Investment" role="graphics-symbol" aria-roledescription="bar" d="M104.27749999999997,132.0h38.07v67.5h-38.07Z" fill="#8b7afc"/>
+<path aria-label="withdrawal pascal moderator: halt; Account SDR: 162; digital: invoice" role="graphics-symbol" aria-roledescription="bar" d="M104.27749999999997,199.5h38.07v40.5h-38.07Z" fill="#fdb0c3"/>
+<path aria-label="withdrawal pascal moderator: way; Account SDR: 151; digital: Hybrid Investment" role="graphics-symbol" aria-roledescription="bar" d="M421.5275,144.0h38.07v37.75h-38.07Z" fill="#8b7afc"/>
+<path aria-label="withdrawal pascal moderator: way; Account SDR: 233; digital: invoice" role="graphics-symbol" aria-roledescription="bar" d="M421.5275,181.75h38.07v58.25h-38.07Z" fill="#fdb0c3"/>
+<text aria-label="276,287,110,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="281.9375" y="116.5585" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">386</text>
+<text aria-label="278,285,206,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="281.9375" y="213.0585" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">98</text>
+<text aria-label="382,393,86,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="387.68749999999994" y="92.55850000000001" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">164</text>
+<text aria-label="382,393,127,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="387.68749999999994" y="133.55849999999998" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">416</text>
+<text aria-label="170,181,87,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.18749999999997" y="94.30849999999998" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">247</text>
+<text aria-label="170,181,149,157" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.18749999999997" y="156.05849999999998" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">326</text>
+<text aria-label="329,340,122,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="334.81249999999994" y="128.8085" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">248</text>
+<text aria-label="329,340,184,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="334.81249999999994" y="190.8085" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">187</text>
+<text aria-label="223,234,51,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="229.06249999999997" y="58.05850000000001" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">333</text>
+<text aria-label="223,234,134,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="229.06249999999997" y="141.3085" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">385</text>
+<text aria-label="66,74,102,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="70.43749999999999" y="109.05850000000001" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">26</text>
+<text aria-label="64,75,109,116" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="70.43749999999999" y="115.5585" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">488</text>
+<text aria-label="117,128,123,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.31249999999999" y="129.55849999999998" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">270</text>
+<text aria-label="117,128,190,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.31249999999999" y="197.0585" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">162</text>
+<text aria-label="435,446,135,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="440.56249999999994" y="141.55849999999998" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">151</text>
+<text aria-label="435,446,172,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="440.56249999999994" y="179.3085" font-family="monospace" font-size="6.345px" fill="#000" opacity="1">233</text>
+<path  d="M486.0,57.0h10v10h-10Z" fill="#8b7afc" stroke-width="1.5" opacity="1"/>
+<path  d="M486.0,70.0h10v10h-10Z" fill="#fdb0c3" stroke-width="1.5" opacity="1"/>
+<text aria-label="501,594,55,66" text-anchor="start" x="501.0" y="65.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hybrid Investment</text>
+<text aria-label="501,539,68,79" text-anchor="start" x="501.0" y="78.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="485,527,38,50" text-anchor="start" x="485.0" y="49.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">digital</text>
+</svg>

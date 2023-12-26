@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="239" viewBox="0 0 309 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">auxiliary</text>
+<path aria-label="Northwest: 70; tesla Strategist: silver" role="graphics-symbol" aria-roledescription="arc mark"  d="M204.0,59.0A75,75,0,0,0,184.9975787876872,61.447205511642466L204.0,134.0Z" fill="#a57366" stroke="black" stroke-width="3"/>
+<path aria-label="Northwest: 373; tesla Strategist: Vanadium" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.9853599127652,193.22544130390457A75,75,0,0,0,252.57019880951825,191.14836644737863L204.0,134.0Z" fill="#a16ff8" stroke="black" stroke-width="3"/>
+<path aria-label="Northwest: 473; tesla Strategist: breathalyse" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.86741006131643,79.13235702016682A75,75,0,0,0,157.9853599127652,193.22544130390457L204.0,134.0Z" fill="#c8b1ec" stroke="black" stroke-width="3"/>
+<path aria-label="Northwest: 231; tesla Strategist: Customizable" role="graphics-symbol" aria-roledescription="arc mark"  d="M260.11379967945436,84.23815230988637A75,75,0,0,0,204.0,59.0L204.0,134.0Z" fill="#9ddd10" stroke="black" stroke-width="3"/>
+<path aria-label="Northwest: 135; tesla Strategist: quantifying" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.9975787876872,61.447205511642466A75,75,0,0,0,152.86741006131643,79.13235702016682L204.0,134.0Z" fill="#cd1f1e" stroke="black" stroke-width="3"/>
+<path aria-label="Northwest: 435; tesla Strategist: Porsche" role="graphics-symbol" aria-roledescription="arc mark"  d="M252.57019880951825,191.14836644737863A75,75,0,0,0,260.11379967945436,84.23815230988637L204.0,134.0Z" fill="#b0c80b" stroke="black" stroke-width="3"/>
+<text aria-label="188,196,39,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.50438789673672" y="46.73718073928369" font-family="sans-serif" font-size="7px" fill="#a57366" opacity="1">70</text>
+<text aria-label="199,211,218,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="205.97591581889372" y="225.9783071449816" font-family="sans-serif" font-size="7px" fill="#a16ff8" opacity="1">373</text>
+<text aria-label="108,120,133,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="114.09041304782609" y="140.03313452409913" font-family="sans-serif" font-size="7px" fill="#c8b1ec" opacity="1">473</text>
+<text aria-label="234,246,46,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="240.91693682761158" y="53.91991852302938" font-family="sans-serif" font-size="7px" fill="#9ddd10" opacity="1">231</text>
+<text aria-label="154,166,50,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.601769917533" y="57.15462203965754" font-family="sans-serif" font-size="7px" fill="#cd1f1e" opacity="1">135</text>
+<text aria-label="287,299,135,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="293.7767900604768" y="142.33466387719807" font-family="sans-serif" font-size="7px" fill="#b0c80b" opacity="1">435</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#9ddd10" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#b0c80b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#a16ff8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c8b1ec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#cd1f1e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#a57366" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,87,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Customizable</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Porsche</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Vanadium</text>
+<text aria-label="21,81,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">breathalyse</text>
+<text aria-label="21,81,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">quantifying</text>
+<text aria-label="21,54,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">silver</text>
+</svg>

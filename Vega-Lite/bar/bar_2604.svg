@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="806" height="370" viewBox="0 0 806 370" style="background-color: rgb(255, 255, 255);">
+<line x1="57.5" y1="236.5" x2="801.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="205.5" x2="801.5" y2="205.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="174.5" x2="801.5" y2="174.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="144.5" x2="801.5" y2="144.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="113.5" x2="801.5" y2="113.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="82.5" x2="801.5" y2="82.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="51.5" x2="801.5" y2="51.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="107,124,243,303" text-anchor="end" x="119.0" y="243.5" transform="rotate(270.0, 124.0, 243.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">ashtray</text>
+<text aria-label="231,248,243,286" text-anchor="end" x="243.0" y="243.5" transform="rotate(270.0, 248.0, 243.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">coast</text>
+<text aria-label="355,372,243,320" text-anchor="end" x="367.0" y="243.5" transform="rotate(270.0, 372.0, 243.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">covariate</text>
+<text aria-label="479,496,243,294" text-anchor="end" x="491.0" y="243.5" transform="rotate(270.0, 496.0, 243.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">hornet</text>
+<text aria-label="603,620,243,320" text-anchor="end" x="615.0" y="243.5" transform="rotate(270.0, 620.0, 243.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">technique</text>
+<text aria-label="727,744,243,277" text-anchor="end" x="739.0" y="243.5" transform="rotate(270.0, 744.0, 243.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">till</text>
+<line aria-label="118,118,236,241" x1="118.5" y1="236.5" x2="118.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="243,243,236,241" x1="243.5" y1="236.5" x2="243.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="367,367,236,241" x1="367.5" y1="236.5" x2="367.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="491,491,236,241" x1="491.5" y1="236.5" x2="491.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="615,615,236,241" x1="615.5" y1="236.5" x2="615.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="739,739,236,241" x1="739.5" y1="236.5" x2="739.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,801,236,236" x1="57.5" y1="236.5" x2="801.5" y2="236.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="338,520,0,26" text-anchor="middle" x="429.0" y="25.18800000000001" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">opposite Krone</text>
+<text aria-label="42,50,225,242" text-anchor="end" x="50.5" y="241.5" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="25,50,194,211" text-anchor="end" x="50.5" y="210.73076923076923" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="25,50,163,180" text-anchor="end" x="50.5" y="179.96153846153845" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="25,50,133,150" text-anchor="end" x="50.5" y="149.19230769230768" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="25,50,102,119" text-anchor="end" x="50.5" y="118.42307692307692" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="25,50,71,88" text-anchor="end" x="50.5" y="87.65384615384615" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="25,50,40,57" text-anchor="end" x="50.5" y="56.88461538461537" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="52,57,236,236" x1="57.5" y1="236.5" x2="52.5" y2="236.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,205,205" x1="57.5" y1="205.5" x2="52.5" y2="205.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,174,174" x1="57.5" y1="174.5" x2="52.5" y2="174.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,144,144" x1="57.5" y1="144.5" x2="52.5" y2="144.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,113,113" x1="57.5" y1="113.5" x2="52.5" y2="113.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,82,82" x1="57.5" y1="82.5" x2="52.5" y2="82.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,51,51" x1="57.5" y1="51.5" x2="52.5" y2="51.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,82,190" text-anchor="middle" x="16.8984375" y="136.5" transform="rotate(-90.0, 14.8984375, 136.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">withdrawal Bugatti</text>
+<line aria-label="57,57,36,236" x1="57.5" y1="236.5" x2="57.5" y2="36.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Copper Port: coast; withdrawal Bugatti: 63; rigidly flummox overriding: Research" role="graphics-symbol" aria-roledescription="bar" d="M203.94,216.6153846153846h78.12000000000002v19.384615384615387h-78.12000000000002Z" fill="#2a2dc9"/>
+<path aria-label="Copper Port: covariate; withdrawal Bugatti: 476; rigidly flummox overriding: Research" role="graphics-symbol" aria-roledescription="bar" d="M327.94,89.53846153846153h78.12000000000002v146.46153846153845h-78.12000000000002Z" fill="#2a2dc9"/>
+<path aria-label="Copper Port: till; withdrawal Bugatti: 611; rigidly flummox overriding: Research" role="graphics-symbol" aria-roledescription="bar" d="M699.94,48.000000000000014h78.12000000000002v188h-78.12000000000002Z" fill="#2a2dc9"/>
+<path aria-label="Copper Port: technique; withdrawal Bugatti: 604; rigidly flummox overriding: Research" role="graphics-symbol" aria-roledescription="bar" d="M575.9399999999999,50.15384615384616h78.12000000000002v185.84615384615384h-78.12000000000002Z" fill="#2a2dc9"/>
+<path aria-label="Copper Port: ashtray; withdrawal Bugatti: 14; rigidly flummox overriding: Research" role="graphics-symbol" aria-roledescription="bar" d="M79.93999999999998,231.6923076923077h78.12000000000002v4.307692307692292h-78.12000000000002Z" fill="#2a2dc9"/>
+<path aria-label="Copper Port: hornet; withdrawal Bugatti: 261; rigidly flummox overriding: Research" role="graphics-symbol" aria-roledescription="bar" d="M451.94,155.69230769230768h78.12000000000002v80.3076923076923h-78.12000000000002Z" fill="#2a2dc9"/>
+<text aria-label="236,249,200,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="243.0" y="211.8033846153846" font-family="Balto" font-size="11.16px" fill="#000" opacity="1">63</text>
+<text aria-label="357,376,73,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="367.0" y="84.72646153846154" font-family="Balto" font-size="11.16px" fill="#000" opacity="1">476</text>
+<text aria-label="729,748,32,44" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="739.0" y="43.18800000000001" font-family="Balto" font-size="11.16px" fill="#000" opacity="1">611</text>
+<text aria-label="605,624,34,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="615.0" y="45.34184615384616" font-family="Balto" font-size="11.16px" fill="#000" opacity="1">604</text>
+<text aria-label="112,125,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.0" y="226.8803076923077" font-family="Balto" font-size="11.16px" fill="#000" opacity="1">14</text>
+<text aria-label="481,500,139,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="491.0" y="150.8803076923077" font-family="Balto" font-size="11.16px" fill="#000" opacity="1">261</text>
+<path  d="M58.0,355.0h10v10h-10Z" fill="#2a2dc9" stroke-width="1.5" opacity="1"/>
+<text aria-label="73,117,353,364" text-anchor="start" x="73.0" y="363.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Research</text>
+<text aria-label="57,213,336,348" text-anchor="start" x="57.0" y="347.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">rigidly flummox overriding</text>
+</svg>

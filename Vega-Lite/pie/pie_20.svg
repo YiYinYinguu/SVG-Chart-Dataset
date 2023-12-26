@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="379" height="239" viewBox="0 0 379 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,170,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Incredible</text>
+<path aria-label="Illinois withdrawal Convertible: 299; Investment when Extended: atop" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.26256889701929,96.13094912482191A75,75,0,0,0,137.78828932170427,201.45315473242312L120.30120168346198,165.47813887513078A35,35,0,0,1,74.78919881860901,116.32777625825022Z" fill="#2cdce2" stroke="white" stroke-width="3"/>
+<path aria-label="Illinois withdrawal Convertible: 122; Investment when Extended: below" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,40.26256889701929,96.13094912482191L74.78919881860901,116.32777625825022A35,35,0,0,1,105.0,99.0Z" fill="#fce2cd" stroke="white" stroke-width="3"/>
+<path aria-label="Illinois withdrawal Convertible: 315; Investment when Extended: Soul" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.78828932170427,201.45315473242312A75,75,0,0,0,105.0,59.0L105.0,99.0A35,35,0,0,1,120.30120168346198,165.47813887513078Z" fill="#afbbf4" stroke="white" stroke-width="3"/>
+<text aria-label="27,50,185,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="38.9631521371623" y="199.14846461147187" font-family="Balto" font-size="14px" fill="#2cdce2" opacity="1">299</text>
+<text aria-label="48,71,45,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="60.221978016661105" y="59.9299753601959" font-family="Balto" font-size="14px" fill="#fce2cd" opacity="1">122</text>
+<text aria-label="181,203,103,118" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.7067292489627" y="117.81263651565287" font-family="Balto" font-size="14px" fill="#afbbf4" opacity="1">315</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#afbbf4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#2cdce2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#fce2cd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Soul</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">atop</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">below</text>
+<text aria-label="223,367,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Investment when Extended</text>
+</svg>

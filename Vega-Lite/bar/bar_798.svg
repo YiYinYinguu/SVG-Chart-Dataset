@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1123" height="353" viewBox="0 0 1123 353" style="background-color: rgb(255, 255, 255);">
+<line x1="278.5" y1="42.5" x2="278.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="428.5" y1="42.5" x2="428.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="578.5" y1="42.5" x2="578.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="728.5" y1="42.5" x2="728.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="878.5" y1="42.5" x2="878.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="1028.5" y1="42.5" x2="1028.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="189.5" y1="242.5" x2="1118.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="189.5" y1="192.5" x2="1118.5" y2="192.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="189.5" y1="142.5" x2="1118.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="189.5" y1="92.5" x2="1118.5" y2="92.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="189.5" y1="42.5" x2="1118.5" y2="42.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="266,283,249,292" text-anchor="end" x="278.9032258064516" y="249.5" transform="rotate(270.0, 283.9032258064516, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">armor</text>
+<text aria-label="416,433,249,343" text-anchor="end" x="428.741935483871" y="249.5" transform="rotate(270.0, 433.741935483871, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">arrangement</text>
+<text aria-label="566,583,249,317" text-anchor="end" x="578.5806451612902" y="249.5" transform="rotate(270.0, 583.5806451612902, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">blessing</text>
+<text aria-label="716,733,249,283" text-anchor="end" x="728.4193548387096" y="249.5" transform="rotate(270.0, 733.4193548387096, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">grey</text>
+<text aria-label="866,883,249,326" text-anchor="end" x="878.258064516129" y="249.5" transform="rotate(270.0, 883.258064516129, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">patroller</text>
+<text aria-label="1016,1033,249,317" text-anchor="end" x="1028.0967741935485" y="249.5" transform="rotate(270.0, 1033.0967741935485, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">pitching</text>
+<line aria-label="278,278,242,247" x1="278.5" y1="242.5" x2="278.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="428,428,242,247" x1="428.5" y1="242.5" x2="428.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="578,578,242,247" x1="578.5" y1="242.5" x2="578.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="728,728,242,247" x1="728.5" y1="242.5" x2="728.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="878,878,242,247" x1="878.5" y1="242.5" x2="878.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="1028,1028,242,247" x1="1028.5" y1="242.5" x2="1028.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="189,1118,242,242" x1="189.5" y1="242.5" x2="1118.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="523,783,0,26" text-anchor="middle" x="653.5" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">connect South Rubber</text>
+<text aria-label="174,182,231,248" text-anchor="end" x="182.5" y="247.5" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="157,182,181,198" text-anchor="end" x="182.5" y="197.5" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="157,182,131,148" text-anchor="end" x="182.5" y="147.5" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="157,182,81,98" text-anchor="end" x="182.5" y="97.5" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="157,182,31,48" text-anchor="end" x="182.5" y="47.5" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">800</text>
+<line aria-label="184,189,242,242" x1="189.5" y1="242.5" x2="184.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="184,189,192,192" x1="189.5" y1="192.5" x2="184.5" y2="192.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="184,189,142,142" x1="189.5" y1="142.5" x2="184.5" y2="142.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="184,189,92,92" x1="189.5" y1="92.5" x2="184.5" y2="92.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="184,189,42,42" x1="189.5" y1="42.5" x2="184.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Demiflux: grey; revolutionize: 280; HEX Concrete to: sexy teal" role="graphics-symbol" aria-roledescription="bar" d="M708.4408602150537,172.0h39.95698924731183v70h-39.95698924731183Z" fill="#ddcdc3"/>
+<path aria-label="Demiflux: grey; revolutionize: 662; HEX Concrete to: workforce vacation lime" role="graphics-symbol" aria-roledescription="bar" d="M748.3978494623656,76.5h39.95698924731183v165.5h-39.95698924731183Z" fill="#67044d"/>
+<path aria-label="Demiflux: grey; revolutionize: 717; HEX Concrete to: Hicksville white" role="graphics-symbol" aria-roledescription="bar" d="M668.483870967742,62.75h39.95698924731183v179.25h-39.95698924731183Z" fill="#83d6eb"/>
+<path aria-label="Demiflux: arrangement; revolutionize: 624; HEX Concrete to: sexy teal" role="graphics-symbol" aria-roledescription="bar" d="M408.76344086021504,86.0h39.95698924731183v156h-39.95698924731183Z" fill="#ddcdc3"/>
+<path aria-label="Demiflux: arrangement; revolutionize: 577; HEX Concrete to: workforce vacation lime" role="graphics-symbol" aria-roledescription="bar" d="M448.72043010752685,97.75000000000001h39.95698924731183v144.25h-39.95698924731183Z" fill="#67044d"/>
+<path aria-label="Demiflux: arrangement; revolutionize: 79; HEX Concrete to: Hicksville white" role="graphics-symbol" aria-roledescription="bar" d="M368.8064516129032,222.25h39.95698924731183v19.75h-39.95698924731183Z" fill="#83d6eb"/>
+<path aria-label="Demiflux: blessing; revolutionize: 176; HEX Concrete to: sexy teal" role="graphics-symbol" aria-roledescription="bar" d="M558.6021505376343,198.0h39.95698924731183v44h-39.95698924731183Z" fill="#ddcdc3"/>
+<path aria-label="Demiflux: blessing; revolutionize: 230; HEX Concrete to: workforce vacation lime" role="graphics-symbol" aria-roledescription="bar" d="M598.5591397849462,184.5h39.95698924731183v57.5h-39.95698924731183Z" fill="#67044d"/>
+<path aria-label="Demiflux: blessing; revolutionize: 144; HEX Concrete to: Hicksville white" role="graphics-symbol" aria-roledescription="bar" d="M518.6451612903226,206.0h39.95698924731183v36h-39.95698924731183Z" fill="#83d6eb"/>
+<path aria-label="Demiflux: patroller; revolutionize: 92; HEX Concrete to: sexy teal" role="graphics-symbol" aria-roledescription="bar" d="M858.2795698924731,219.0h39.95698924731183v23h-39.95698924731183Z" fill="#ddcdc3"/>
+<path aria-label="Demiflux: patroller; revolutionize: 445; HEX Concrete to: workforce vacation lime" role="graphics-symbol" aria-roledescription="bar" d="M898.2365591397848,130.75h39.95698924731183v111.25h-39.95698924731183Z" fill="#67044d"/>
+<path aria-label="Demiflux: patroller; revolutionize: 670; HEX Concrete to: Hicksville white" role="graphics-symbol" aria-roledescription="bar" d="M818.3225806451612,74.5h39.95698924731183v167.5h-39.95698924731183Z" fill="#83d6eb"/>
+<path aria-label="Demiflux: pitching; revolutionize: 97; HEX Concrete to: sexy teal" role="graphics-symbol" aria-roledescription="bar" d="M1008.1182795698926,217.75h39.95698924731183v24.25h-39.95698924731183Z" fill="#ddcdc3"/>
+<path aria-label="Demiflux: pitching; revolutionize: 180; HEX Concrete to: workforce vacation lime" role="graphics-symbol" aria-roledescription="bar" d="M1048.0752688172042,197.0h39.95698924731183v45h-39.95698924731183Z" fill="#67044d"/>
+<path aria-label="Demiflux: pitching; revolutionize: 548; HEX Concrete to: Hicksville white" role="graphics-symbol" aria-roledescription="bar" d="M968.1612903225807,104.99999999999999h39.95698924731183v137h-39.95698924731183Z" fill="#83d6eb"/>
+<path aria-label="Demiflux: armor; revolutionize: 407; HEX Concrete to: sexy teal" role="graphics-symbol" aria-roledescription="bar" d="M258.92473118279565,140.25h39.95698924731183v101.75h-39.95698924731183Z" fill="#ddcdc3"/>
+<path aria-label="Demiflux: armor; revolutionize: 227; HEX Concrete to: workforce vacation lime" role="graphics-symbol" aria-roledescription="bar" d="M298.8817204301075,185.25h39.95698924731183v56.75h-39.95698924731183Z" fill="#67044d"/>
+<path aria-label="Demiflux: armor; revolutionize: 570; HEX Concrete to: Hicksville white" role="graphics-symbol" aria-roledescription="bar" d="M218.96774193548384,99.5h39.95698924731183v142.5h-39.95698924731183Z" fill="#83d6eb"/>
+<path  d="M6.0,43.0h10v10h-10Z" fill="#ddcdc3" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,56.0h10v10h-10Z" fill="#67044d" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,69.0h10v10h-10Z" fill="#83d6eb" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,41,52" text-anchor="start" x="21.0" y="51.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">sexy teal</text>
+<text aria-label="21,147,54,65" text-anchor="start" x="21.0" y="64.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">workforce vacation lime</text>
+<text aria-label="21,109,67,78" text-anchor="start" x="21.0" y="77.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hicksville white</text>
+</svg>

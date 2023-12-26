@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="151,216,0,26" text-anchor="middle" x="184.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">autem</text>
+<path aria-label="Sleek Ergonomic shrilly: 818; South Lev: Ergonomic" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.9364241466271,205.68122920655352A75,75,0,1,0,184.0,59.0L184.0,95.0A39,39,0,1,1,172.5269405562461,171.27423918740783Z" fill="#cce3ff" stroke="white" stroke-width="0"/>
+<path aria-label="Sleek Ergonomic shrilly: 8; South Lev: versus" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.0,59.0A75,75,0,0,0,181.4771084464915,59.04244522258456L182.6880963921756,95.02207151574397A39,39,0,0,1,184.0,95.0Z" fill="#acfb23" stroke="white" stroke-width="0"/>
+<path aria-label="Sleek Ergonomic shrilly: 668; South Lev: HEX" role="graphics-symbol" aria-roledescription="arc mark"  d="M181.4771084464915,59.04244522258456A75,75,0,0,0,161.9364241466271,205.68122920655352L172.5269405562461,171.27423918740783A39,39,0,0,1,182.6880963921756,95.02207151574397Z" fill="#3ecdaf" stroke="white" stroke-width="0"/>
+<text aria-label="263,282,139,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="272.9987998635593" y="151.3870692403569" font-family="monospace" font-size="12px" fill="#cce3ff" opacity="1">818</text>
+<text aria-label="179,185,36,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.48605085304476" y="48.01273446770129" font-family="monospace" font-size="12px" fill="#acfb23" opacity="1">8</text>
+<text aria-label="85,104,114,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.78860025072564" y="126.11193225224677" font-family="monospace" font-size="12px" fill="#3ecdaf" opacity="1">668</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#cce3ff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#3ecdaf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#acfb23" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Ergonomic</text>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">HEX</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">versus</text>
+</svg>

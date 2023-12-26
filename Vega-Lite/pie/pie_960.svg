@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="331" height="270" viewBox="0 0 331 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="131,326,0,26" text-anchor="end" x="326.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Soap carelessly</text>
+<path aria-label="Trans: 362; SDD: Harvey" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.19418080043255,126.21717968789044A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#bab2df" stroke="black" stroke-width="2"/>
+<path aria-label="Trans: 497; SDD: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.33164874854468,179.07032422839646A75,75,0,0,0,107.12816461452056,239.9698000222323L105.0,165.0Z" fill="#266a14" stroke="black" stroke-width="2"/>
+<path aria-label="Trans: 283; SDD: pro" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,51.03473168912919,112.91593510356816L105.0,165.0Z" fill="#3efd29" stroke="black" stroke-width="2"/>
+<path aria-label="Trans: 337; SDD: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.03473168912919,112.91593510356816A75,75,0,0,0,31.33164874854468,179.07032422839646L105.0,165.0Z" fill="#fd2c27" stroke="black" stroke-width="2"/>
+<path aria-label="Trans: 650; SDD: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.97621090532121,237.29073936450038A75,75,0,0,0,169.19418080043255,126.21717968789044L105.0,165.0Z" fill="#bbad8a" stroke="black" stroke-width="2"/>
+<path aria-label="Trans: 85; SDD: Selenium" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.12816461452056,239.9698000222323A75,75,0,0,0,124.97621090532121,237.29073936450038L105.0,165.0Z" fill="#d053bc" stroke="black" stroke-width="2"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#bab2df" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,40.25A5,5,0,1,1,63.0,40.25A5,5,0,1,1,73.0,40.25" fill="#bbad8a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,40.25A5,5,0,1,1,120.0,40.25A5,5,0,1,1,130.0,40.25" fill="#d053bc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M197.0,40.25A5,5,0,1,1,187.0,40.25A5,5,0,1,1,197.0,40.25" fill="#266a14" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M244.0,40.25A5,5,0,1,1,234.0,40.25A5,5,0,1,1,244.0,40.25" fill="#fd2c27" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M306.0,40.25A5,5,0,1,1,296.0,40.25A5,5,0,1,1,306.0,40.25" fill="#3efd29" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Harvey</text>
+<text aria-label="78,111,33,44" text-anchor="start" x="78.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="135,179,33,44" text-anchor="start" x="135.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Selenium</text>
+<text aria-label="202,224,33,44" text-anchor="start" x="202.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="249,287,33,44" text-anchor="start" x="249.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="311,327,33,44" text-anchor="start" x="311.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">pro</text>
+</svg>

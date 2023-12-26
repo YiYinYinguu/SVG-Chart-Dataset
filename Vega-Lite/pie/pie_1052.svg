@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="254" height="270" viewBox="0 0 254 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">HDD gold</text>
+<path aria-label="Southeast psst: 199; Stravenue: edge" role="graphics-symbol" aria-roledescription="arc mark"  d="M108.2714540524002,208.92861661863935A75,75,0,0,0,179.7601623904243,139.9931727288128L105.0,134.0Z" fill="#3eed25" stroke="white" stroke-width="3"/>
+<path aria-label="Southeast psst: 86; Stravenue: interface" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.786826644689576,196.66158585597026A75,75,0,0,0,108.2714540524002,208.92861661863935L105.0,134.0Z" fill="#f56f1c" stroke="white" stroke-width="3"/>
+<path aria-label="Southeast psst: 135; Stravenue: so" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.001983177586695,134.54541058388165A75,75,0,0,0,63.786826644689576,196.66158585597026L105.0,134.0Z" fill="#1ab7ba" stroke="white" stroke-width="3"/>
+<path aria-label="Southeast psst: 227; Stravenue: Pickup" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.7601623904243,139.9931727288128A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#3da56e" stroke="white" stroke-width="3"/>
+<path aria-label="Southeast psst: 217; Stravenue: vel" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.001983177586695,134.54541058388165L105.0,134.0Z" fill="#cbcdc7" stroke="white" stroke-width="3"/>
+<text aria-label="156,177,189,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="167.47215613397938" y="202.78603019148267" font-family="serif" font-size="13px" fill="#3eed25" opacity="1">199</text>
+<text aria-label="74,88,211,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="81.07471047904507" y="224.76163046726637" font-family="serif" font-size="13px" fill="#f56f1c" opacity="1">86</text>
+<text aria-label="15,36,168,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.93771073979626" y="181.00179550827934" font-family="serif" font-size="13px" fill="#1ab7ba" opacity="1">135</text>
+<text aria-label="160,181,63,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="171.13343577462078" y="76.95601034791295" font-family="serif" font-size="13px" fill="#3da56e" opacity="1">227</text>
+<text aria-label="30,51,61,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="41.129410746967324" y="74.59221003322709" font-family="serif" font-size="13px" fill="#cbcdc7" opacity="1">217</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#3da56e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,258.25A5,5,0,1,1,63.0,258.25A5,5,0,1,1,73.0,258.25" fill="#3eed25" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M120.0,258.25A5,5,0,1,1,110.0,258.25A5,5,0,1,1,120.0,258.25" fill="#f56f1c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,258.25A5,5,0,1,1,182.0,258.25A5,5,0,1,1,192.0,258.25" fill="#1ab7ba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M229.0,258.25A5,5,0,1,1,219.0,258.25A5,5,0,1,1,229.0,258.25" fill="#cbcdc7" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Pickup</text>
+<text aria-label="78,100,251,262" text-anchor="start" x="78.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">edge</text>
+<text aria-label="125,174,251,262" text-anchor="start" x="125.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">interface</text>
+<text aria-label="197,208,251,262" text-anchor="start" x="197.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">so</text>
+<text aria-label="234,250,251,262" text-anchor="start" x="234.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">vel</text>
+</svg>

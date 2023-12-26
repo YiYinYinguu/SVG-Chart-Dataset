@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="305" height="239" viewBox="0 0 305 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="222,300,0,26" text-anchor="end" x="300.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">frugal</text>
+<path aria-label="unlike program: 99; meh Steel: SCSI" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.97554874167636,74.74420772699312A75,75,0,0,0,127.23033850344464,62.37031306767936L114.18853991475711,104.39306273464081A31,31,0,0,1,124.00322681322623,109.50760586049049Z" fill="#515d9a" stroke="black" stroke-width="3"/>
+<path aria-label="unlike program: 360; meh Steel: than" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.62939023575028,114.31511131983004L75.08681463077679,125.86357934552976A31,31,0,0,1,105.0,103.0Z" fill="#e4baa4" stroke="black" stroke-width="3"/>
+<path aria-label="unlike program: 83; meh Steel: 1080p" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.23033850344464,62.37031306767936A75,75,0,0,0,105.0,59.0L105.0,103.0A31,31,0,0,1,114.18853991475711,104.39306273464081Z" fill="#a6e6c5" stroke="black" stroke-width="3"/>
+<path aria-label="unlike program: 979; meh Steel: for" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.62939023575028,114.31511131983004A75,75,0,1,0,179.2418761193449,123.36309113135566L135.68664212932921,129.60341100096034A31,31,0,1,1,75.08681463077679,125.86357934552976Z" fill="#7f5abd" stroke="black" stroke-width="3"/>
+<path aria-label="unlike program: 212; meh Steel: compressing" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.2418761193449,123.36309113135566A75,75,0,0,0,150.97554874167636,74.74420772699312L124.00322681322623,109.50760586049049A31,31,0,0,1,135.68664212932921,129.60341100096034Z" fill="#c92b55" stroke="black" stroke-width="3"/>
+<text aria-label="141,151,48,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="146.59154092620545" y="57.18681986423685" font-family="Balto" font-size="9px" fill="#515d9a" opacity="1">99</text>
+<text aria-label="42,57,56,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="50.34639983248289" y="65.49486739590526" font-family="Balto" font-size="9px" fill="#e4baa4" opacity="1">360</text>
+<text aria-label="113,123,39,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.49062287867707" y="48.01683814144772" font-family="Balto" font-size="9px" fill="#a6e6c5" opacity="1">83</text>
+<text aria-label="91,106,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.45632544976398" y="226.82910259198331" font-family="Balto" font-size="9px" fill="#7f5abd" opacity="1">979</text>
+<text aria-label="175,190,82,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.8059703553193" y="91.76471535330882" font-family="Balto" font-size="9px" fill="#c92b55" opacity="1">212</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#a6e6c5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#515d9a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#c92b55" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#7f5abd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#e4baa4" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">1080p</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">SCSI</text>
+<text aria-label="239,299,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">compressing</text>
+<text aria-label="239,255,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">for</text>
+<text aria-label="239,261,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">than</text>
+<text aria-label="223,277,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">meh Steel</text>
+</svg>

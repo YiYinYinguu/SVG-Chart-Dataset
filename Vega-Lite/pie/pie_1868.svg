@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="258" height="286" viewBox="0 0 258 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="middle" x="116.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Synchronised quas</text>
+<path aria-label="Producer: 58; SUV Hassium assistant: Developer" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.00853539283025,193.99359750667023A75,75,0,0,0,190.94496357881076,136.87270502675267L154.9713810609816,135.49380661391137A39,39,0,0,1,139.40443840427173,165.19667070346853Z" fill="#9c85dd" stroke="black" stroke-width="2"/>
+<path aria-label="Producer: 108; SUV Hassium assistant: pro" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.43025304028042,173.79808125371403A75,75,0,0,0,161.00853539283025,193.99359750667023L139.40443840427173,165.19667070346853A39,39,0,0,1,82.94373158094581,154.6950022519313Z" fill="#1dcb73" stroke="black" stroke-width="2"/>
+<path aria-label="Producer: 139; SUV Hassium assistant: proactive" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.99999999999999,59.0A75,75,0,0,0,52.43025304028042,173.79808125371403L82.94373158094581,154.6950022519313A39,39,0,0,1,115.99999999999999,95.0Z" fill="#fd8c22" stroke="black" stroke-width="2"/>
+<path aria-label="Producer: 105; SUV Hassium assistant: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.94496357881076,136.87270502675267A75,75,0,0,0,116.0,59.0L116.0,95.0A39,39,0,0,1,154.9713810609816,135.49380661391137Z" fill="#eea69e" stroke="black" stroke-width="2"/>
+<text aria-label="191,200,169,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="195.71568088128606" y="177.77810696564603" font-family="serif" font-size="8px" fill="#9c85dd" opacity="1">58</text>
+<text aria-label="92,106,216,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.54230020447788" y="224.48245090095816" font-family="serif" font-size="8px" fill="#1dcb73" opacity="1">108</text>
+<text aria-label="30,44,84,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="37.26565941280411" y="92.4006466527376" font-family="serif" font-size="8px" fill="#fd8c22" opacity="1">139</text>
+<text aria-label="174,187,65,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.84694342407084" y="73.59107492869825" font-family="serif" font-size="8px" fill="#eea69e" opacity="1">105</text>
+<path  d="M27.0,274.25A5,5,0,1,1,17.0,274.25A5,5,0,1,1,27.0,274.25" fill="#eea69e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M89.0,274.25A5,5,0,1,1,79.0,274.25A5,5,0,1,1,89.0,274.25" fill="#9c85dd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M161.0,274.25A5,5,0,1,1,151.0,274.25A5,5,0,1,1,161.0,274.25" fill="#1dcb73" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M203.0,274.25A5,5,0,1,1,193.0,274.25A5,5,0,1,1,203.0,274.25" fill="#fd8c22" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="32,70,267,278" text-anchor="start" x="32.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="94,143,267,278" text-anchor="start" x="94.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Developer</text>
+<text aria-label="166,182,267,278" text-anchor="start" x="166.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">pro</text>
+<text aria-label="208,257,267,278" text-anchor="start" x="208.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">proactive</text>
+<text aria-label="16,142,250,262" text-anchor="start" x="16.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">SUV Hassium assistant</text>
+</svg>

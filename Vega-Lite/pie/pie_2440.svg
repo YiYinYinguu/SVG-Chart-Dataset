@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="27,183,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Card Manager</text>
+<path aria-label="Vineland OCR: 854; ivory Connecticut Bronze: gaiters" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.789824522136485,181.2871178082689A75,75,0,0,0,174.1843619228016,193.9572800058086L105.0,165.0Z" fill="#f7febe" stroke="white" stroke-width="2"/>
+<path aria-label="Vineland OCR: 665; ivory Connecticut Bronze: Dodge" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.1843619228016,193.9572800058086A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#bbc8a5" stroke="white" stroke-width="2"/>
+<path aria-label="Vineland OCR: 605; ivory Connecticut Bronze: parsing" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,31.789824522136485,181.2871178082689L105.0,165.0Z" fill="#41c3a6" stroke="white" stroke-width="2"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#bbc8a5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,40.25A5,5,0,1,1,58.0,40.25A5,5,0,1,1,68.0,40.25" fill="#f7febe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,40.25A5,5,0,1,1,120.0,40.25A5,5,0,1,1,130.0,40.25" fill="#41c3a6" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Dodge</text>
+<text aria-label="73,111,33,44" text-anchor="start" x="73.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">gaiters</text>
+<text aria-label="135,173,33,44" text-anchor="start" x="135.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">parsing</text>
+</svg>

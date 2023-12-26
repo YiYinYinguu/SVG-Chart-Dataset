@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="236" height="286" viewBox="0 0 236 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">salmon</text>
+<path aria-label="female convergence woman: 202; Hatchback: Blues" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.9056946176919,184.75990875435645A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#bbac2d" stroke="white" stroke-width="3"/>
+<path aria-label="female convergence woman: 175; Hatchback: man" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,31.037289656542413,168.56949403082106L105.0,181.0Z" fill="#3aeac1" stroke="white" stroke-width="3"/>
+<path aria-label="female convergence woman: 73; Hatchback: Product" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.33845101728915,225.54516055458998A75,75,0,0,0,179.9056946176919,184.75990875435645L105.0,181.0Z" fill="#fcd824" stroke="white" stroke-width="3"/>
+<path aria-label="female convergence woman: 333; Hatchback: Research" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.037289656542413,168.56949403082106A75,75,0,0,0,165.33845101728915,225.54516055458998L105.0,181.0Z" fill="#afe853" stroke="white" stroke-width="3"/>
+<text aria-label="160,179,110,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.2152978428777" y="122.97609390513404" font-family="Balto" font-size="12px" fill="#bbac2d" opacity="1">202</text>
+<text aria-label="37,56,104,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="46.872960873064095" y="116.28866671111918" font-family="Balto" font-size="12px" fill="#3aeac1" opacity="1">175</text>
+<text aria-label="183,196,203,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.75605966218575" y="215.27227032351578" font-family="Balto" font-size="12px" fill="#fcd824" opacity="1">73</text>
+<text aria-label="60,79,255,268" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="69.85081897845716" y="267.8524898449939" font-family="Balto" font-size="12px" fill="#afe853" opacity="1">333</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#bbac2d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M69.0,56.25A5,5,0,1,1,59.0,56.25A5,5,0,1,1,69.0,56.25" fill="#fcd824" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M134.0,56.25A5,5,0,1,1,124.0,56.25A5,5,0,1,1,134.0,56.25" fill="#afe853" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M204.0,56.25A5,5,0,1,1,194.0,56.25A5,5,0,1,1,204.0,56.25" fill="#3aeac1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Blues</text>
+<text aria-label="74,112,49,60" text-anchor="start" x="74.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Product</text>
+<text aria-label="139,183,49,60" text-anchor="start" x="139.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Research</text>
+<text aria-label="209,225,49,60" text-anchor="start" x="209.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">man</text>
+<text aria-label="5,59,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Hatchback</text>
+</svg>

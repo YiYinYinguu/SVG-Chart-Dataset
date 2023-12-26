@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="333" height="286" viewBox="0 0 333 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Health ASCII</text>
+<path aria-label="sensor: 461; whereas: capacity" role="graphics-symbol" aria-roledescription="arc mark"  d="M85.45713620465288,61.590908894832054A75,75,0,0,0,32.33961736992521,115.41320909755737L105.0,134.0Z" fill="#1a4fc4" stroke="black" stroke-width="0"/>
+<path aria-label="sensor: 115; whereas: plum" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,85.45713620465288,61.590908894832054L105.0,134.0Z" fill="#b43e10" stroke="black" stroke-width="0"/>
+<path aria-label="sensor: 928; whereas: Corporate" role="graphics-symbol" aria-roledescription="arc mark"  d="M99.76064212035668,208.81677037275145A75,75,0,0,0,171.2966962094468,98.93223600352708L105.0,134.0Z" fill="#01d724" stroke="black" stroke-width="0"/>
+<path aria-label="sensor: 473; whereas: Beryllium" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.2966962094468,98.93223600352708A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#b04b87" stroke="black" stroke-width="0"/>
+<path aria-label="sensor: 764; whereas: Djibouti" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.33961736992521,115.41320909755737A75,75,0,0,0,99.76064212035668,208.81677037275145L105.0,134.0Z" fill="#eabd0a" stroke="black" stroke-width="0"/>
+<text aria-label="34,46,65,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="40.94236724495849" y="72.78117617496959" font-family="avenir" font-size="7px" fill="#1a4fc4" opacity="1">461</text>
+<text aria-label="87,99,39,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="93.17168311546692" y="46.7806583767899" font-family="avenir" font-size="7px" fill="#b43e10" opacity="1">115</text>
+<text aria-label="174,186,178,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.42505820141" y="185.10255182079558" font-family="avenir" font-size="7px" fill="#01d724" opacity="1">928</text>
+<text aria-label="145,157,51,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.4364161428341" y="58.904868793097336" font-family="avenir" font-size="7px" fill="#b04b87" opacity="1">473</text>
+<text aria-label="26,38,181,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="32.0251129570362" y="188.67509716238476" font-family="avenir" font-size="7px" fill="#eabd0a" opacity="1">764</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#b04b87" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M89.0,274.25A5,5,0,1,1,79.0,274.25A5,5,0,1,1,89.0,274.25" fill="#01d724" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M165.0,274.25A5,5,0,1,1,155.0,274.25A5,5,0,1,1,165.0,274.25" fill="#eabd0a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M231.0,274.25A5,5,0,1,1,221.0,274.25A5,5,0,1,1,231.0,274.25" fill="#1a4fc4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M298.0,274.25A5,5,0,1,1,288.0,274.25A5,5,0,1,1,298.0,274.25" fill="#b43e10" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Beryllium</text>
+<text aria-label="94,143,267,278" text-anchor="start" x="94.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Corporate</text>
+<text aria-label="170,214,267,278" text-anchor="start" x="170.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Djibouti</text>
+<text aria-label="236,280,267,278" text-anchor="start" x="236.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">capacity</text>
+<text aria-label="303,325,267,278" text-anchor="start" x="303.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">plum</text>
+<text aria-label="5,47,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">whereas</text>
+</svg>

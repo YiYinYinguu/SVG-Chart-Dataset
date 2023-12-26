@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Rubber</text>
+<path aria-label="Practical Metal maroon: 88; Bentley: Idaho" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.29096493834652,162.70125742738173A75,75,0,0,0,168.25435843596642,93.7025293739882L105.0,134.0Z" fill="#0bb0cc" stroke="black" stroke-width="0"/>
+<path aria-label="Practical Metal maroon: 105; Bentley: Rupee" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.73057734828466,188.7398054523377A75,75,0,0,0,133.70125742738173,203.29096493834652L105.0,134.0Z" fill="#bce52d" stroke="black" stroke-width="0"/>
+<path aria-label="Practical Metal maroon: 49; Bentley: grow" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.93692064526142,78.15478457807555A75,75,0,0,0,33.47122869388299,111.44706503717948L105.0,134.0Z" fill="#2a8a42" stroke="black" stroke-width="0"/>
+<path aria-label="Practical Metal maroon: 25; Bentley: compress" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.47122869388299,111.44706503717948A75,75,0,0,0,30.04015593927258,131.5460687883668L105.0,134.0Z" fill="#6ea42b" stroke="black" stroke-width="0"/>
+<path aria-label="Practical Metal maroon: 35; Bentley: Garden" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.94371766080772,64.40008158558616A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#bb7dcd" stroke="black" stroke-width="0"/>
+<path aria-label="Practical Metal maroon: 78; Bentley: azure" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.04015593927258,131.5460687883668A75,75,0,0,0,53.73057734828466,188.7398054523377L105.0,134.0Z" fill="#35481c" stroke="black" stroke-width="0"/>
+<path aria-label="Practical Metal maroon: 67; Bentley: instructive" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,54.93692064526142,78.15478457807555L105.0,134.0Z" fill="#39ebef" stroke="black" stroke-width="0"/>
+<path aria-label="Practical Metal maroon: 57; Bentley: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.25435843596642,93.7025293739882A75,75,0,0,0,132.94371766080772,64.40008158558616L105.0,134.0Z" fill="#bedbc9" stroke="black" stroke-width="0"/>
+<path aria-label="Practical Metal maroon: 72; Bentley: Lebanon" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.70125742738173,203.29096493834652A75,75,0,0,0,174.29096493834652,162.70125742738173L105.0,134.0Z" fill="#29d6ef" stroke="black" stroke-width="0"/>
+<text aria-label="189,199,120,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.6575228282571" y="129.15598315271075" font-family="monospace" font-size="9px" fill="#0bb0cc" opacity="1">88</text>
+<text aria-label="81,96,216,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="88.88848248510305" y="225.54614053343698" font-family="monospace" font-size="9px" fill="#bce52d" opacity="1">105</text>
+<text aria-label="24,34,79,89" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="29.359643901500576" y="88.22975774827233" font-family="monospace" font-size="9px" fill="#2a8a42" opacity="1">49</text>
+<text aria-label="11,21,112,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.28338161201819" y="121.85531044223067" font-family="monospace" font-size="9px" fill="#6ea42b" opacity="1">25</text>
+<text aria-label="117,127,39,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.07642836256026" y="48.63487342634342" font-family="monospace" font-size="9px" fill="#bb7dcd" opacity="1">35</text>
+<text aria-label="16,26,162,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.85084207398421" y="171.44150891285813" font-family="monospace" font-size="9px" fill="#35481c" opacity="1">78</text>
+<text aria-label="67,77,43,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="72.83855775596996" y="52.9426289205764" font-family="monospace" font-size="9px" fill="#39ebef" opacity="1">67</text>
+<text aria-label="157,167,58,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.47399508344807" y="67.74149951704278" font-family="monospace" font-size="9px" fill="#bedbc9" opacity="1">57</text>
+<text aria-label="163,173,191,201" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.63961030678928" y="200.63961030678928" font-family="monospace" font-size="9px" fill="#29d6ef" opacity="1">72</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#bb7dcd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#bedbc9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#0bb0cc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#29d6ef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#bce52d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#35481c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#6ea42b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#2a8a42" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,184.0A5,5,0,1,1,224.0,184.0A5,5,0,1,1,234.0,184.0" fill="#39ebef" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Garden</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Idaho</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Lebanon</text>
+<text aria-label="239,266,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Rupee</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">azure</text>
+<text aria-label="239,283,145,156" text-anchor="start" x="239.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">compress</text>
+<text aria-label="239,261,161,172" text-anchor="start" x="239.0" y="171.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">grow</text>
+<text aria-label="239,299,177,188" text-anchor="start" x="239.0" y="187.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">instructive</text>
+<text aria-label="223,265,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bentley</text>
+</svg>

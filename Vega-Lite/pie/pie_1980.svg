@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="330" height="270" viewBox="0 0 330 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">bypass</text>
+<path aria-label="SDD MTF: 40; Specialist: National" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.3197430299065,195.91962007217649A75,75,0,0,0,148.79236485752455,73.11298348428093L128.93982612211343,100.71509763807357A41,41,0,0,1,128.1347928563489,167.84939230612315Z" fill="#be3f0e" stroke="black" stroke-width="1"/>
+<path aria-label="SDD MTF: 16; Specialist: around" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.0524597379045,100.1913198593157A75,75,0,0,0,33.34467394040679,156.14755623750358L65.82842175408905,146.10733074316863A41,41,0,0,1,68.4020113233878,115.51792152309258Z" fill="#69f88e" stroke="black" stroke-width="1"/>
+<path aria-label="SDD MTF: 39; Specialist: Pizza" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.34467394040679,156.14755623750358A75,75,0,0,0,147.3197430299065,195.91962007217649L128.1347928563489,167.84939230612315A41,41,0,0,1,65.82842175408905,146.10733074316863Z" fill="#58bba9" stroke="black" stroke-width="1"/>
+<path aria-label="SDD MTF: 23; Specialist: kilogram" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,38.0524597379045,100.1913198593157L68.4020113233878,115.51792152309258A41,41,0,0,1,104.99999999999999,93.0Z" fill="#e35bc1" stroke="black" stroke-width="1"/>
+<path aria-label="SDD MTF: 13; Specialist: Ergonomic" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.79236485752455,73.11298348428093A75,75,0,0,0,105.0,59.0L105.0,93.0A41,41,0,0,1,128.93982612211343,100.71509763807357Z" fill="#94c000" stroke="black" stroke-width="1"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#94c000" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M95.0,258.25A5,5,0,1,1,85.0,258.25A5,5,0,1,1,95.0,258.25" fill="#be3f0e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M163.0,258.25A5,5,0,1,1,153.0,258.25A5,5,0,1,1,163.0,258.25" fill="#58bba9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M215.0,258.25A5,5,0,1,1,205.0,258.25A5,5,0,1,1,215.0,258.25" fill="#69f88e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M277.0,258.25A5,5,0,1,1,267.0,258.25A5,5,0,1,1,277.0,258.25" fill="#e35bc1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Ergonomic</text>
+<text aria-label="100,144,251,262" text-anchor="start" x="100.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">National</text>
+<text aria-label="168,195,251,262" text-anchor="start" x="168.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Pizza</text>
+<text aria-label="220,253,251,262" text-anchor="start" x="220.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">around</text>
+<text aria-label="282,326,251,262" text-anchor="start" x="282.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">kilogram</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="336" height="270" viewBox="0 0 336 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">black</text>
+<path aria-label="exalted: 140; models Cambridgeshire whose: Generic" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.13836380363898,201.76522391333884A75,75,0,0,0,175.93295365007685,109.63781441503966L139.99359046737123,121.98132177808623A37,37,0,0,1,120.85492614312855,167.43084379724715Z" fill="#507f3c" stroke="black" stroke-width="0"/>
+<path aria-label="exalted: 188; models Cambridgeshire whose: Lane" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.112193237318778,138.10078020324394A75,75,0,0,0,137.13836380363898,201.76522391333884L120.85492614312855,167.43084379724715A37,37,0,0,1,68.05534866374393,136.02305156693367Z" fill="#c9af6a" stroke="black" stroke-width="0"/>
+<path aria-label="exalted: 119; models Cambridgeshire whose: Bacon" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.93295365007685,109.63781441503966A75,75,0,0,0,105.0,59.0L105.0,97.0A37,37,0,0,1,139.99359046737123,121.98132177808623Z" fill="#2049c1" stroke="black" stroke-width="0"/>
+<path aria-label="exalted: 11; models Cambridgeshire whose: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M101.09431390733755,59.10176493304009A75,75,0,0,0,92.55399207419914,60.03989665562317L98.85996942327158,97.51301568344076A37,37,0,0,1,103.0731948609532,97.05020403363311Z" fill="#feb581" stroke="black" stroke-width="0"/>
+<path aria-label="exalted: 5; models Cambridgeshire whose: models" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,101.09431390733755,59.10176493304009L103.0731948609532,97.05020403363311A37,37,0,0,1,105.0,97.0Z" fill="#0ae3de" stroke="black" stroke-width="0"/>
+<path aria-label="exalted: 140; models Cambridgeshire whose: Reduced" role="graphics-symbol" aria-roledescription="arc mark"  d="M92.55399207419914,60.03989665562317A75,75,0,0,0,30.112193237318778,138.10078020324394L68.05534866374393,136.02305156693367A37,37,0,0,1,98.85996942327158,97.51301568344076Z" fill="#abebc1" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#2049c1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,258.25A5,5,0,1,1,58.0,258.25A5,5,0,1,1,68.0,258.25" fill="#507f3c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,258.25A5,5,0,1,1,120.0,258.25A5,5,0,1,1,130.0,258.25" fill="#c9af6a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M177.0,258.25A5,5,0,1,1,167.0,258.25A5,5,0,1,1,177.0,258.25" fill="#abebc1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,258.25A5,5,0,1,1,229.0,258.25A5,5,0,1,1,239.0,258.25" fill="#feb581" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,258.25A5,5,0,1,1,286.0,258.25A5,5,0,1,1,296.0,258.25" fill="#0ae3de" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bacon</text>
+<text aria-label="73,111,251,262" text-anchor="start" x="73.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Generic</text>
+<text aria-label="135,157,251,262" text-anchor="start" x="135.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Lane</text>
+<text aria-label="182,220,251,262" text-anchor="start" x="182.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Reduced</text>
+<text aria-label="244,277,251,262" text-anchor="start" x="244.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="301,334,251,262" text-anchor="start" x="301.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">models</text>
+</svg>

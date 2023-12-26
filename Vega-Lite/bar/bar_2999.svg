@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="516" height="306" viewBox="0 0 516 306" style="background-color: rgb(255, 255, 255);">
+<text aria-label="80,93,247,280" text-anchor="end" x="89.2857142857143" y="247.5" transform="rotate(270.0, 93.2857142857143, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">feast</text>
+<text aria-label="197,210,247,306" text-anchor="end" x="206.42857142857144" y="247.5" transform="rotate(270.0, 210.42857142857144, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">portfolio</text>
+<text aria-label="314,327,247,299" text-anchor="end" x="323.57142857142856" y="247.5" transform="rotate(270.0, 327.57142857142856, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">sympathy</text>
+<text aria-label="431,444,247,273" text-anchor="end" x="440.7142857142858" y="247.5" transform="rotate(270.0, 444.7142857142858, 247.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">walk</text>
+<line aria-label="89,89,240,245" x1="89.5" y1="240.5" x2="89.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="206,206,240,245" x1="206.5" y1="240.5" x2="206.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="323,323,240,245" x1="323.5" y1="240.5" x2="323.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="440,440,240,245" x1="440.5" y1="240.5" x2="440.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,511,240,240" x1="19.5" y1="240.5" x2="511.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Handmade Specialist</text>
+<text aria-label="11,17,232,245" text-anchor="end" x="17.5" y="244.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="11,17,203,216" text-anchor="end" x="17.5" y="215.92857142857144" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">2</text>
+<text aria-label="11,17,175,188" text-anchor="end" x="17.5" y="187.35714285714286" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">4</text>
+<text aria-label="11,17,146,159" text-anchor="end" x="17.5" y="158.78571428571428" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">6</text>
+<text aria-label="11,17,118,131" text-anchor="end" x="17.5" y="130.21428571428572" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">8</text>
+<text aria-label="4,17,89,102" text-anchor="end" x="17.5" y="101.64285714285714" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="4,17,61,74" text-anchor="end" x="17.5" y="73.07142857142858" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">12</text>
+<text aria-label="4,17,32,45" text-anchor="end" x="17.5" y="44.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">14</text>
+<path aria-label="Loop: walk; tic: 9; volt: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M456.33333333333337,111.42857142857142h31.23809523809524v128.57142857142858h-31.23809523809524Z" fill="#dd1eac"/>
+<path aria-label="Loop: walk; tic: 5; volt: Profound culpa Officer" role="graphics-symbol" aria-roledescription="bar" d="M393.8571428571429,168.57142857142856h31.23809523809524v71.42857142857144h-31.23809523809524Z" fill="#a9abba"/>
+<path aria-label="Loop: walk; tic: 12; volt: up innovative South" role="graphics-symbol" aria-roledescription="bar" d="M425.09523809523813,68.57142857142858h31.23809523809524v171.42857142857142h-31.23809523809524Z" fill="#d3ecc9"/>
+<path aria-label="Loop: feast; tic: 9; volt: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M104.90476190476193,111.42857142857142h31.23809523809524v128.57142857142858h-31.23809523809524Z" fill="#dd1eac"/>
+<path aria-label="Loop: feast; tic: 1; volt: Profound culpa Officer" role="graphics-symbol" aria-roledescription="bar" d="M42.428571428571445,225.71428571428572h31.23809523809524v14.285714285714278h-31.23809523809524Z" fill="#a9abba"/>
+<path aria-label="Loop: feast; tic: 3; volt: up innovative South" role="graphics-symbol" aria-roledescription="bar" d="M73.66666666666669,197.14285714285714h31.23809523809524v42.85714285714286h-31.23809523809524Z" fill="#d3ecc9"/>
+<path aria-label="Loop: sympathy; tic: 9; volt: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M339.1904761904762,111.42857142857142h31.23809523809524v128.57142857142858h-31.23809523809524Z" fill="#dd1eac"/>
+<path aria-label="Loop: sympathy; tic: 14; volt: Profound culpa Officer" role="graphics-symbol" aria-roledescription="bar" d="M276.7142857142857,40.0h31.23809523809524v200h-31.23809523809524Z" fill="#a9abba"/>
+<path aria-label="Loop: sympathy; tic: 5; volt: up innovative South" role="graphics-symbol" aria-roledescription="bar" d="M307.95238095238096,168.57142857142856h31.23809523809524v71.42857142857144h-31.23809523809524Z" fill="#d3ecc9"/>
+<path aria-label="Loop: portfolio; tic: 11; volt: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M222.04761904761907,82.85714285714286h31.23809523809524v157.14285714285714h-31.23809523809524Z" fill="#dd1eac"/>
+<path aria-label="Loop: portfolio; tic: 9; volt: Profound culpa Officer" role="graphics-symbol" aria-roledescription="bar" d="M159.57142857142858,111.42857142857142h31.23809523809524v128.57142857142858h-31.23809523809524Z" fill="#a9abba"/>
+<path aria-label="Loop: portfolio; tic: 9; volt: up innovative South" role="graphics-symbol" aria-roledescription="bar" d="M190.80952380952382,111.42857142857142h31.23809523809524v128.57142857142858h-31.23809523809524Z" fill="#d3ecc9"/>
+</svg>

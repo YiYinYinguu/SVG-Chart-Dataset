@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="239" viewBox="0 0 279 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="76,271,0,26" text-anchor="middle" x="174.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">XSS Dollar Home</text>
+<path aria-label="Road: 83; once: Soul" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.0,59.0A75,75,0,0,0,116.57481725535294,85.75740070493828L149.49858869561726,113.41649096744032A32,32,0,0,1,174.0,102.0Z" fill="#70332a" stroke="black" stroke-width="3"/>
+<path aria-label="Road: 3; once: Gloves" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.57481725535294,85.75740070493828A75,75,0,0,0,115.08293995172582,87.59116425433562L148.86205437940302,114.19889674851653A32,32,0,0,1,149.49858869561726,113.41649096744032Z" fill="#e24c6d" stroke="black" stroke-width="3"/>
+<path aria-label="Road: 186; once: Diverse" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.0008898550502,205.05661624543183A75,75,0,0,0,248.87480322230078,129.66827489079287L205.94658270818167,132.1517972867383A32,32,0,0,1,163.76037967148807,164.3174895980509Z" fill="#4cfe3a" stroke="black" stroke-width="3"/>
+<path aria-label="Road: 182; once: Dynamic" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.08293995172582,87.59116425433562A75,75,0,0,0,150.0008898550502,205.05661624543183L163.76037967148807,164.3174895980509A32,32,0,0,1,148.86205437940302,114.19889674851653Z" fill="#e78fdc" stroke="black" stroke-width="3"/>
+<path aria-label="Road: 144; once: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.87480322230078,129.66827489079287A75,75,0,0,0,174.0,59.0L174.0,102.0A32,32,0,0,1,205.94658270818167,132.1517972867383Z" fill="#fa118c" stroke="black" stroke-width="3"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fa118c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#4cfe3a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#e78fdc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#e24c6d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#70332a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Diverse</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Dynamic</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Gloves</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Soul</text>
+<text aria-label="5,29,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">once</text>
+</svg>

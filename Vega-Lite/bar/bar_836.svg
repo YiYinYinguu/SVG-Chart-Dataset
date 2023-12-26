@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="607" height="330" viewBox="0 0 607 330" style="background-color: rgb(255, 255, 255);">
+<line x1="235.5" y1="41.5" x2="235.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="300.5" y1="41.5" x2="300.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="366.5" y1="41.5" x2="366.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="431.5" y1="41.5" x2="431.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="497.5" y1="41.5" x2="497.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="562.5" y1="41.5" x2="562.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="196.5" y1="241.5" x2="602.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="196.5" y1="208.5" x2="602.5" y2="208.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="196.5" y1="174.5" x2="602.5" y2="174.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="196.5" y1="141.5" x2="602.5" y2="141.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="196.5" y1="108.5" x2="602.5" y2="108.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="196.5" y1="74.5" x2="602.5" y2="74.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="196.5" y1="41.5" x2="602.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="224,240,248,288" text-anchor="end" x="235.29032258064515" y="248.5" transform="rotate(270.0, 240.29032258064515, 248.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">chuck</text>
+<text aria-label="289,305,248,304" text-anchor="end" x="300.7741935483871" y="248.5" transform="rotate(270.0, 305.7741935483871, 248.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">hosiery</text>
+<text aria-label="355,371,248,304" text-anchor="end" x="366.258064516129" y="248.5" transform="rotate(270.0, 371.258064516129, 248.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">payment</text>
+<text aria-label="420,436,248,296" text-anchor="end" x="431.741935483871" y="248.5" transform="rotate(270.0, 436.741935483871, 248.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">second</text>
+<text aria-label="486,502,248,304" text-anchor="end" x="497.22580645161287" y="248.5" transform="rotate(270.0, 502.22580645161287, 248.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">singing</text>
+<text aria-label="551,567,248,312" text-anchor="end" x="562.7096774193549" y="248.5" transform="rotate(270.0, 567.7096774193549, 248.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">snowplow</text>
+<line aria-label="235,235,241,246" x1="235.5" y1="241.5" x2="235.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="300,300,241,246" x1="300.5" y1="241.5" x2="300.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="366,366,241,246" x1="366.5" y1="241.5" x2="366.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="431,431,241,246" x1="431.5" y1="241.5" x2="431.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="497,497,241,246" x1="497.5" y1="241.5" x2="497.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="562,562,241,246" x1="562.5" y1="241.5" x2="562.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="196,602,241,241" x1="196.5" y1="241.5" x2="602.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="485,602,0,26" text-anchor="end" x="602.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">paradigms</text>
+<text aria-label="186,194,231,247" text-anchor="end" x="194.5" y="246.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="170,194,198,214" text-anchor="end" x="194.5" y="213.16666666666669" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="170,194,164,180" text-anchor="end" x="194.5" y="179.83333333333334" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="170,194,131,147" text-anchor="end" x="194.5" y="146.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="170,194,98,114" text-anchor="end" x="194.5" y="113.16666666666667" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="170,194,64,80" text-anchor="end" x="194.5" y="79.83333333333333" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="170,194,31,47" text-anchor="end" x="194.5" y="46.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="150,162,117,165" text-anchor="middle" x="164.11083984375" y="141.5" transform="rotate(-90.0, 162.11083984375, 141.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Gasoline</text>
+<path aria-label="protocol: singing; Gasoline: 85; Practical Incredible violet: Classical female garden" role="graphics-symbol" aria-roledescription="bar" d="M471.0322580645161,212.66666666666669h26.193548387096776v28.333333333333314h-26.193548387096776Z" fill="#ac2e2d"/>
+<path aria-label="protocol: singing; Gasoline: 184; Practical Incredible violet: Metal Administrator" role="graphics-symbol" aria-roledescription="bar" d="M497.22580645161287,179.66666666666669h26.193548387096776v61.333333333333314h-26.193548387096776Z" fill="#32ae8d"/>
+<path aria-label="protocol: hosiery; Gasoline: 16; Practical Incredible violet: Classical female garden" role="graphics-symbol" aria-roledescription="bar" d="M274.5806451612903,235.66666666666669h26.193548387096776v5.333333333333314h-26.193548387096776Z" fill="#ac2e2d"/>
+<path aria-label="protocol: hosiery; Gasoline: 326; Practical Incredible violet: Metal Administrator" role="graphics-symbol" aria-roledescription="bar" d="M300.7741935483871,132.33333333333331h26.193548387096776v108.66666666666667h-26.193548387096776Z" fill="#32ae8d"/>
+<path aria-label="protocol: second; Gasoline: 455; Practical Incredible violet: Classical female garden" role="graphics-symbol" aria-roledescription="bar" d="M405.54838709677415,89.33333333333334h26.193548387096776v151.66666666666666h-26.193548387096776Z" fill="#ac2e2d"/>
+<path aria-label="protocol: second; Gasoline: 9; Practical Incredible violet: Metal Administrator" role="graphics-symbol" aria-roledescription="bar" d="M431.741935483871,238.0h26.193548387096776v3h-26.193548387096776Z" fill="#32ae8d"/>
+<path aria-label="protocol: snowplow; Gasoline: 381; Practical Incredible violet: Classical female garden" role="graphics-symbol" aria-roledescription="bar" d="M536.516129032258,114.0h26.193548387096776v127h-26.193548387096776Z" fill="#ac2e2d"/>
+<path aria-label="protocol: snowplow; Gasoline: 491; Practical Incredible violet: Metal Administrator" role="graphics-symbol" aria-roledescription="bar" d="M562.7096774193549,77.33333333333333h26.193548387096776v163.66666666666669h-26.193548387096776Z" fill="#32ae8d"/>
+<path aria-label="protocol: payment; Gasoline: 493; Practical Incredible violet: Classical female garden" role="graphics-symbol" aria-roledescription="bar" d="M340.06451612903226,76.66666666666667h26.193548387096776v164.33333333333331h-26.193548387096776Z" fill="#ac2e2d"/>
+<path aria-label="protocol: payment; Gasoline: 436; Practical Incredible violet: Metal Administrator" role="graphics-symbol" aria-roledescription="bar" d="M366.258064516129,95.66666666666666h26.193548387096776v145.33333333333334h-26.193548387096776Z" fill="#32ae8d"/>
+<path aria-label="protocol: chuck; Gasoline: 514; Practical Incredible violet: Classical female garden" role="graphics-symbol" aria-roledescription="bar" d="M209.09677419354838,69.66666666666666h26.193548387096776v171.33333333333334h-26.193548387096776Z" fill="#ac2e2d"/>
+<path aria-label="protocol: chuck; Gasoline: 585; Practical Incredible violet: Metal Administrator" role="graphics-symbol" aria-roledescription="bar" d="M235.29032258064515,46.00000000000001h26.193548387096776v195h-26.193548387096776Z" fill="#32ae8d"/>
+<text aria-label="480,488,203,210" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="484.1290322580645" y="209.93" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">85</text>
+<text aria-label="504,516,170,177" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="510.3225806451613" y="176.93" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">184</text>
+<text aria-label="283,291,226,233" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="287.6774193548387" y="232.93" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">16</text>
+<text aria-label="308,319,122,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="313.8709677419355" y="129.59666666666666" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">326</text>
+<text aria-label="412,424,79,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="418.64516129032256" y="86.59666666666668" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">455</text>
+<text aria-label="442,446,228,236" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="444.83870967741933" y="235.26333333333332" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">9</text>
+<text aria-label="543,555,104,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="549.6129032258065" y="111.26333333333334" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">381</text>
+<text aria-label="569,581,67,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="575.8064516129032" y="74.59666666666666" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">491</text>
+<text aria-label="347,358,67,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="353.1612903225806" y="73.93" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">493</text>
+<text aria-label="373,385,86,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="379.35483870967744" y="92.93" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">436</text>
+<text aria-label="216,228,60,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="222.19354838709677" y="66.93" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">514</text>
+<text aria-label="242,254,36,44" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="248.38709677419354" y="43.263333333333335" font-family="avenir" font-size="6.766666666666666px" fill="#000" opacity="1">585</text>
+<path  d="M6.0,42.0h10v10h-10Z" fill="#ac2e2d" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,55.0h10v10h-10Z" fill="#32ae8d" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,147,40,51" text-anchor="start" x="21.0" y="50.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Classical female garden</text>
+<text aria-label="21,125,53,64" text-anchor="start" x="21.0" y="63.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Metal Administrator</text>
+</svg>

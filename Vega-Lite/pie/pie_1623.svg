@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="346" height="239" viewBox="0 0 346 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,196,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Market optimal</text>
+<path aria-label="Technician trained: 101; azure Wagon Zambia: Configuration" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.00851602638306,73.26903164648547A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#daa9ae" stroke="white" stroke-width="1"/>
+<path aria-label="Technician trained: 210; azure Wagon Zambia: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.417373243316902,126.09862125491397A75,75,0,0,0,77.70265839985876,203.85595995736657L105.0,134.0Z" fill="#feafb2" stroke="white" stroke-width="1"/>
+<path aria-label="Technician trained: 236; azure Wagon Zambia: hm" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.417373243316902,126.09862125491397L105.0,134.0Z" fill="#faadcd" stroke="white" stroke-width="1"/>
+<path aria-label="Technician trained: 465; azure Wagon Zambia: Gloves" role="graphics-symbol" aria-roledescription="arc mark"  d="M77.70265839985876,203.85595995736657A75,75,0,0,0,149.00851602638306,73.26903164648547L105.0,134.0Z" fill="#7c3ff9" stroke="white" stroke-width="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#daa9ae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#7c3ff9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#feafb2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#faadcd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,310,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Configuration</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gloves</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="239,250,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">hm</text>
+<text aria-label="223,331,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">azure Wagon Zambia</text>
+</svg>

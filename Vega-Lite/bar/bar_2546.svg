@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="487" height="295" viewBox="0 0 487 295" style="background-color: rgb(255, 255, 255);">
+<line x1="147.5" y1="34.5" x2="147.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="182.5" y1="34.5" x2="182.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="217.5" y1="34.5" x2="217.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="252.5" y1="34.5" x2="252.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="287.5" y1="34.5" x2="287.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="321.5" y1="34.5" x2="321.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="356.5" y1="34.5" x2="356.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="391.5" y1="34.5" x2="391.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="426.5" y1="34.5" x2="426.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="461.5" y1="34.5" x2="461.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="138,151,241,267" text-anchor="end" x="147.88235294117646" y="241.5" transform="rotate(270.0, 151.88235294117646, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">cube</text>
+<text aria-label="173,186,241,280" text-anchor="end" x="182.68627450980392" y="241.5" transform="rotate(270.0, 186.68627450980392, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">effort</text>
+<text aria-label="208,221,241,287" text-anchor="end" x="217.49019607843138" y="241.5" transform="rotate(270.0, 221.49019607843138, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">ellipse</text>
+<text aria-label="243,256,241,287" text-anchor="end" x="252.2941176470588" y="241.5" transform="rotate(270.0, 256.2941176470588, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">forager</text>
+<text aria-label="278,291,241,267" text-anchor="end" x="287.09803921568624" y="241.5" transform="rotate(270.0, 291.09803921568624, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">hold</text>
+<text aria-label="312,325,241,274" text-anchor="end" x="321.9019607843137" y="241.5" transform="rotate(270.0, 325.9019607843137, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">inlay</text>
+<text aria-label="347,360,241,280" text-anchor="end" x="356.7058823529411" y="241.5" transform="rotate(270.0, 360.7058823529411, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">rescue</text>
+<text aria-label="382,395,241,274" text-anchor="end" x="391.50980392156856" y="241.5" transform="rotate(270.0, 395.50980392156856, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">slope</text>
+<text aria-label="417,430,241,280" text-anchor="end" x="426.3137254901961" y="241.5" transform="rotate(270.0, 430.3137254901961, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">tremor</text>
+<text aria-label="452,465,241,287" text-anchor="end" x="461.1176470588235" y="241.5" transform="rotate(270.0, 465.1176470588235, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">wetland</text>
+<line aria-label="147,147,234,239" x1="147.5" y1="234.5" x2="147.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="182,182,234,239" x1="182.5" y1="234.5" x2="182.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="217,217,234,239" x1="217.5" y1="234.5" x2="217.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="252,252,234,239" x1="252.5" y1="234.5" x2="252.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="287,287,234,239" x1="287.5" y1="234.5" x2="287.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="321,321,234,239" x1="321.5" y1="234.5" x2="321.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="356,356,234,239" x1="356.5" y1="234.5" x2="356.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="391,391,234,239" x1="391.5" y1="234.5" x2="391.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="426,426,234,239" x1="426.5" y1="234.5" x2="426.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="461,461,234,239" x1="461.5" y1="234.5" x2="461.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="127,482,234,234" x1="127.5" y1="234.5" x2="482.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="157,482,0,26" text-anchor="end" x="482.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">juicy Compatible systemic</text>
+<text aria-label="114,120,226,239" text-anchor="end" x="120.5" y="238.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="101,120,182,195" text-anchor="end" x="120.5" y="194.05555555555557" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="101,120,137,150" text-anchor="end" x="120.5" y="149.61111111111111" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="101,120,93,106" text-anchor="end" x="120.5" y="105.16666666666667" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="101,120,48,61" text-anchor="end" x="120.5" y="60.72222222222223" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="122,127,234,234" x1="127.5" y1="234.5" x2="122.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="122,127,190,190" x1="127.5" y1="190.5" x2="122.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="122,127,145,145" x1="127.5" y1="145.5" x2="122.5" y2="145.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="122,127,101,101" x1="127.5" y1="101.5" x2="122.5" y2="101.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="122,127,56,56" x1="127.5" y1="56.5" x2="122.5" y2="56.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="81,93,68,200" text-anchor="middle" x="95.5" y="134.5" transform="rotate(-90.0, 93.5, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Dollar lavender Hybrid</text>
+<line aria-label="127,127,34,234" x1="127.5" y1="234.5" x2="127.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Recycled Borders Rico: inlay; Dollar lavender Hybrid: 290; Director Cargo Garden: Hills TCP" role="graphics-symbol" aria-roledescription="bar" d="M307.98039215686276,169.55555555555557h27.843137254901958v64.44444444444443h-27.843137254901958Z" fill="#7cce2f"/>
+<path aria-label="Recycled Borders Rico: wetland; Dollar lavender Hybrid: 423; Director Cargo Garden: Hills TCP" role="graphics-symbol" aria-roledescription="bar" d="M447.1960784313725,140.0h27.843137254901958v94h-27.843137254901958Z" fill="#7cce2f"/>
+<path aria-label="Recycled Borders Rico: rescue; Dollar lavender Hybrid: 705; Director Cargo Garden: Hills TCP" role="graphics-symbol" aria-roledescription="bar" d="M342.78431372549016,77.33333333333334h27.843137254901958v156.66666666666666h-27.843137254901958Z" fill="#7cce2f"/>
+<path aria-label="Recycled Borders Rico: ellipse; Dollar lavender Hybrid: 677; Director Cargo Garden: Hills TCP" role="graphics-symbol" aria-roledescription="bar" d="M203.5686274509804,83.55555555555554h27.843137254901958v150.44444444444446h-27.843137254901958Z" fill="#7cce2f"/>
+<path aria-label="Recycled Borders Rico: hold; Dollar lavender Hybrid: 671; Director Cargo Garden: Hills TCP" role="graphics-symbol" aria-roledescription="bar" d="M273.17647058823525,84.88888888888889h27.843137254901958v149.11111111111111h-27.843137254901958Z" fill="#7cce2f"/>
+<path aria-label="Recycled Borders Rico: forager; Dollar lavender Hybrid: 818; Director Cargo Garden: Hills TCP" role="graphics-symbol" aria-roledescription="bar" d="M238.37254901960785,52.22222222222223h27.843137254901958v181.77777777777777h-27.843137254901958Z" fill="#7cce2f"/>
+<path aria-label="Recycled Borders Rico: slope; Dollar lavender Hybrid: 521; Director Cargo Garden: Hills TCP" role="graphics-symbol" aria-roledescription="bar" d="M377.58823529411757,118.22222222222221h27.843137254901958v115.77777777777779h-27.843137254901958Z" fill="#7cce2f"/>
+<path aria-label="Recycled Borders Rico: effort; Dollar lavender Hybrid: 45; Director Cargo Garden: Hills TCP" role="graphics-symbol" aria-roledescription="bar" d="M168.76470588235293,224.0h27.843137254901958v10h-27.843137254901958Z" fill="#7cce2f"/>
+<path aria-label="Recycled Borders Rico: tremor; Dollar lavender Hybrid: 355; Director Cargo Garden: Hills TCP" role="graphics-symbol" aria-roledescription="bar" d="M412.3921568627451,155.11111111111114h27.843137254901958v78.88888888888887h-27.843137254901958Z" fill="#7cce2f"/>
+<path aria-label="Recycled Borders Rico: cube; Dollar lavender Hybrid: 361; Director Cargo Garden: Hills TCP" role="graphics-symbol" aria-roledescription="bar" d="M133.9607843137255,153.77777777777777h27.843137254901958v80.22222222222221h-27.843137254901958Z" fill="#7cce2f"/>
+<text aria-label="315,328,158,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="321.9019607843137" y="166.23055555555558" font-family="monospace" font-size="7.607142857142857px" fill="#000" opacity="1">290</text>
+<text aria-label="454,467,129,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="461.1176470588235" y="136.675" font-family="monospace" font-size="7.607142857142857px" fill="#000" opacity="1">423</text>
+<text aria-label="350,363,66,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="356.7058823529411" y="74.00833333333334" font-family="monospace" font-size="7.607142857142857px" fill="#000" opacity="1">705</text>
+<text aria-label="211,223,72,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="217.49019607843138" y="80.23055555555555" font-family="monospace" font-size="7.607142857142857px" fill="#000" opacity="1">677</text>
+<text aria-label="280,293,73,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="287.09803921568624" y="81.5638888888889" font-family="monospace" font-size="7.607142857142857px" fill="#000" opacity="1">671</text>
+<text aria-label="245,258,41,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="252.2941176470588" y="48.897222222222226" font-family="monospace" font-size="7.607142857142857px" fill="#000" opacity="1">818</text>
+<text aria-label="385,397,107,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="391.50980392156856" y="114.89722222222221" font-family="monospace" font-size="7.607142857142857px" fill="#000" opacity="1">521</text>
+<text aria-label="178,186,213,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.68627450980392" y="220.675" font-family="monospace" font-size="7.607142857142857px" fill="#000" opacity="1">45</text>
+<text aria-label="419,432,144,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="426.3137254901961" y="151.78611111111113" font-family="monospace" font-size="7.607142857142857px" fill="#000" opacity="1">355</text>
+<text aria-label="141,154,142,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.88235294117646" y="150.45277777777778" font-family="monospace" font-size="7.607142857142857px" fill="#000" opacity="1">361</text>
+<path  d="M6.0,35.0h10v10h-10Z" fill="#7cce2f" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hills TCP</text>
+</svg>

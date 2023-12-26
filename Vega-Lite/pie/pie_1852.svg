@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="302" height="239" viewBox="0 0 302 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">feed Berkshire blue</text>
+<path aria-label="disintermediate: 143; PCI HTTP tan: Male" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.86401711108985,174.90373274722737A75,75,0,0,0,162.73754875724296,86.1316862266385L105.0,134.0Z" fill="#4ebdfa" stroke="white" stroke-width="3"/>
+<path aria-label="disintermediate: 105; PCI HTTP tan: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,44.79662715517771,89.27244810961241L105.0,134.0Z" fill="#690e2c" stroke="white" stroke-width="3"/>
+<path aria-label="disintermediate: 133; PCI HTTP tan: Michigan" role="graphics-symbol" aria-roledescription="arc mark"  d="M91.10334569346642,207.70130934443907A75,75,0,0,0,167.86401711108985,174.90373274722737L105.0,134.0Z" fill="#e0c692" stroke="white" stroke-width="3"/>
+<path aria-label="disintermediate: 99; PCI HTTP tan: Handmade" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.73754875724296,86.1316862266385A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#69cdd9" stroke="white" stroke-width="3"/>
+<path aria-label="disintermediate: 228; PCI HTTP tan: Sodium" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.79662715517771,89.27244810961241A75,75,0,0,0,91.10334569346642,207.70130934443907L105.0,134.0Z" fill="#d4c2c8" stroke="white" stroke-width="3"/>
+<text aria-label="185,204,120,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.8503033718032" y="132.81126373816036" font-family="Balto" font-size="12px" fill="#4ebdfa" opacity="1">143</text>
+<text aria-label="54,74,45,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="64.56842573038898" y="57.59298661136002" font-family="Balto" font-size="12px" fill="#690e2c" opacity="1">105</text>
+<text aria-label="130,150,208,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="140.36176062140973" y="220.76198333627656" font-family="Balto" font-size="12px" fill="#e0c692" opacity="1">133</text>
+<text aria-label="136,149,44,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.2767691457688" y="56.545172372894186" font-family="Balto" font-size="12px" fill="#69cdd9" opacity="1">99</text>
+<text aria-label="11,30,158,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.179744029289523" y="170.77445177275396" font-family="Balto" font-size="12px" fill="#d4c2c8" opacity="1">228</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#69cdd9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#4ebdfa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#e0c692" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#d4c2c8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#690e2c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Handmade</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Male</text>
+<text aria-label="239,283,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Michigan</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Sodium</text>
+<text aria-label="239,277,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="223,295,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">PCI HTTP tan</text>
+</svg>

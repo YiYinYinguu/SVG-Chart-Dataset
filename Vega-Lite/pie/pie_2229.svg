@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="363" height="239" viewBox="0 0 363 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,343,0,26" text-anchor="middle" x="174.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Associate belated ancestor</text>
+<path aria-label="Infrastructure maroon: 86; Funk orchid: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.0,59.0A75,75,0,0,0,100.64304568249366,118.38727271552824L116.29252927022836,121.71798786954888A59,59,0,0,1,174.0,75.0Z" fill="#847dad" stroke="black" stroke-width="0"/>
+<path aria-label="Infrastructure maroon: 25; Funk orchid: Cape" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.86794798213828,138.4486363015915A75,75,0,0,0,244.79824768089287,109.24907829362819L229.69462150896905,114.52927492432084A59,59,0,0,1,232.8961190792821,137.49959389058532Z" fill="#2da2bb" stroke="black" stroke-width="0"/>
+<path aria-label="Infrastructure maroon: 77; Funk orchid: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M195.64708049452616,205.80810473799949A75,75,0,0,0,248.86794798213828,138.4486363015915L232.8961190792821,137.49959389058532A59,59,0,0,1,191.02903665569391,190.48904239389293Z" fill="#71bdc3" stroke="black" stroke-width="0"/>
+<path aria-label="Infrastructure maroon: 58; Funk orchid: man" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.03706052718155,182.78753454127417A75,75,0,0,0,178.15237480230985,208.88496366762251L177.26653484448374,192.90950475186304A59,59,0,0,1,129.1891542813828,172.379527172469Z" fill="#fd836f" stroke="black" stroke-width="0"/>
+<path aria-label="Infrastructure maroon: 58; Funk orchid: tempore" role="graphics-symbol" aria-roledescription="arc mark"  d="M100.64304568249366,118.38727271552824A75,75,0,0,0,117.03706052718155,182.78753454127417L129.1891542813828,172.379527172469A59,59,0,0,1,116.29252927022836,121.71798786954888Z" fill="#4d192d" stroke="black" stroke-width="0"/>
+<path aria-label="Infrastructure maroon: 78; Funk orchid: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M244.79824768089287,109.24907829362819A75,75,0,0,0,174.0,59.0L174.0,75.0A59,59,0,0,1,229.69462150896905,114.52927492432084Z" fill="#4cde8b" stroke="black" stroke-width="0"/>
+<path aria-label="Infrastructure maroon: 15; Funk orchid: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.15237480230985,208.88496366762251A75,75,0,0,0,195.64708049452616,205.80810473799949L191.02903665569391,190.48904239389293A59,59,0,0,1,177.26653484448374,192.90950475186304Z" fill="#f08d8d" stroke="black" stroke-width="0"/>
+<text aria-label="113,121,59,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.37039001866142" y="66.04939404578772" font-family="serif" font-size="7px" fill="#847dad" opacity="1">86</text>
+<text aria-label="259,267,116,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.13838515952773" y="123.57630122903487" font-family="serif" font-size="7px" fill="#2da2bb" opacity="1">25</text>
+<text aria-label="240,248,184,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="244.61785564260106" y="191.7953265465913" font-family="serif" font-size="7px" fill="#71bdc3" opacity="1">77</text>
+<text aria-label="134,142,211,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.65581579359642" y="218.76949101440584" font-family="serif" font-size="7px" fill="#fd836f" opacity="1">58</text>
+<text aria-label="82,90,151,159" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.7816496448791" y="158.20268815552254" font-family="serif" font-size="7px" fill="#4d192d" opacity="1">58</text>
+<text aria-label="222,230,55,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="226.09078832054593" y="62.606881983771274" font-family="serif" font-size="7px" fill="#4cde8b" opacity="1">78</text>
+<text aria-label="185,193,217,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.58936892933917" y="224.63955988375028" font-family="serif" font-size="7px" fill="#f08d8d" opacity="1">15</text>
+<path  d="M303.0,56.0A5,5,0,1,1,293.0,56.0A5,5,0,1,1,303.0,56.0" fill="#4cde8b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M303.0,72.0A5,5,0,1,1,293.0,72.0A5,5,0,1,1,303.0,72.0" fill="#2da2bb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M303.0,88.0A5,5,0,1,1,293.0,88.0A5,5,0,1,1,303.0,88.0" fill="#71bdc3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M303.0,104.0A5,5,0,1,1,293.0,104.0A5,5,0,1,1,303.0,104.0" fill="#f08d8d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M303.0,120.0A5,5,0,1,1,293.0,120.0A5,5,0,1,1,303.0,120.0" fill="#fd836f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M303.0,136.0A5,5,0,1,1,293.0,136.0A5,5,0,1,1,303.0,136.0" fill="#4d192d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M303.0,152.0A5,5,0,1,1,293.0,152.0A5,5,0,1,1,303.0,152.0" fill="#847dad" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="308,346,49,60" text-anchor="start" x="308.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="308,330,65,76" text-anchor="start" x="308.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Cape</text>
+<text aria-label="308,330,81,92" text-anchor="start" x="308.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="308,330,97,108" text-anchor="start" x="308.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="308,324,113,124" text-anchor="start" x="308.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">man</text>
+<text aria-label="308,346,129,140" text-anchor="start" x="308.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">tempore</text>
+<text aria-label="308,363,145,156" text-anchor="start" x="308.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+<text aria-label="292,358,32,44" text-anchor="start" x="292.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Funk orchid</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="286" viewBox="0 0 304 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Osmium</text>
+<path aria-label="Administrator gadzooks: 48; red Agent: Licensed" role="graphics-symbol" aria-roledescription="arc mark"  d="M60.91610607806452,241.67627457812105A75,75,0,0,0,178.67154380465166,195.05359859392937L159.02579879007789,191.30597230221485A55,55,0,0,1,72.67181112391398,225.4959346906221Z" fill="#36d6ed" stroke="white" stroke-width="2"/>
+<path aria-label="Administrator gadzooks: 33; red Agent: Strategist" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,31.328456195348352,166.94640140607066L50.97420120992212,170.69402769778517A55,55,0,0,1,104.99999999999999,126.0Z" fill="#8104a6" stroke="white" stroke-width="2"/>
+<path aria-label="Administrator gadzooks: 27; red Agent: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.328456195348352,166.94640140607066A75,75,0,0,0,60.91610607806452,241.67627457812105L72.67181112391398,225.4959346906221A55,55,0,0,1,50.97420120992212,170.69402769778517Z" fill="#dd61fa" stroke="white" stroke-width="2"/>
+<path aria-label="Administrator gadzooks: 4; red Agent: Falls" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.50765600370768,107.05029721971214A75,75,0,0,0,105.0,106.0L105.0,126.0A55,55,0,0,1,114.17228106938563,126.77021796112223Z" fill="#e0f31b" stroke="white" stroke-width="2"/>
+<path aria-label="Administrator gadzooks: 38; red Agent: Future" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.67154380465166,195.05359859392937A75,75,0,0,0,117.50765600370768,107.05029721971214L114.17228106938563,126.77021796112223A55,55,0,0,1,159.02579879007789,191.30597230221485Z" fill="#8eeb5b" stroke="white" stroke-width="2"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#e0f31b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,56.25A5,5,0,1,1,58.0,56.25A5,5,0,1,1,68.0,56.25" fill="#8eeb5b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,56.25A5,5,0,1,1,115.0,56.25A5,5,0,1,1,125.0,56.25" fill="#36d6ed" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,56.25A5,5,0,1,1,182.0,56.25A5,5,0,1,1,192.0,56.25" fill="#dd61fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M244.0,56.25A5,5,0,1,1,234.0,56.25A5,5,0,1,1,244.0,56.25" fill="#8104a6" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Falls</text>
+<text aria-label="73,106,49,60" text-anchor="start" x="73.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Future</text>
+<text aria-label="130,174,49,60" text-anchor="start" x="130.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Licensed</text>
+<text aria-label="197,224,49,60" text-anchor="start" x="197.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="249,304,49,60" text-anchor="start" x="249.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Strategist</text>
+<text aria-label="5,59,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">red Agent</text>
+</svg>

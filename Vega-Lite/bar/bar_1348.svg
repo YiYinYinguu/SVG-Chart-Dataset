@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="565" height="341" viewBox="0 0 565 341" style="background-color: rgb(255, 255, 255);">
+<line x1="55.5" y1="237.5" x2="560.5" y2="237.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="55.5" y1="193.5" x2="560.5" y2="193.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="55.5" y1="148.5" x2="560.5" y2="148.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="55.5" y1="104.5" x2="560.5" y2="104.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="55.5" y1="59.5" x2="560.5" y2="59.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="76,92,244,276" text-anchor="end" x="87.93478260869568" y="244.5" transform="rotate(270.0, 92.93478260869568, 244.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">bore</text>
+<text aria-label="131,147,244,284" text-anchor="end" x="142.82608695652175" y="244.5" transform="rotate(270.0, 147.82608695652175, 244.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">clank</text>
+<text aria-label="186,202,244,276" text-anchor="end" x="197.71739130434784" y="244.5" transform="rotate(270.0, 202.71739130434784, 244.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">colt</text>
+<text aria-label="241,257,244,300" text-anchor="end" x="252.60869565217394" y="244.5" transform="rotate(270.0, 257.60869565217394, 244.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">crystal</text>
+<text aria-label="296,312,244,292" text-anchor="end" x="307.5" y="244.5" transform="rotate(270.0, 312.5, 244.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">donkey</text>
+<text aria-label="351,367,244,308" text-anchor="end" x="362.39130434782606" y="244.5" transform="rotate(270.0, 367.39130434782606, 244.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">fountain</text>
+<text aria-label="406,422,244,300" text-anchor="end" x="417.2826086956522" y="244.5" transform="rotate(270.0, 422.2826086956522, 244.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">meaning</text>
+<text aria-label="461,477,244,300" text-anchor="end" x="472.17391304347825" y="244.5" transform="rotate(270.0, 477.17391304347825, 244.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">panpipe</text>
+<text aria-label="516,532,244,300" text-anchor="end" x="527.0652173913043" y="244.5" transform="rotate(270.0, 532.0652173913043, 244.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">shelter</text>
+<line aria-label="87,87,237,242" x1="87.5" y1="237.5" x2="87.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="142,142,237,242" x1="142.5" y1="237.5" x2="142.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,197,237,242" x1="197.5" y1="237.5" x2="197.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="252,252,237,242" x1="252.5" y1="237.5" x2="252.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="307,307,237,242" x1="307.5" y1="237.5" x2="307.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="362,362,237,242" x1="362.5" y1="237.5" x2="362.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="417,417,237,242" x1="417.5" y1="237.5" x2="417.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="472,472,237,242" x1="472.5" y1="237.5" x2="472.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="527,527,237,242" x1="527.5" y1="237.5" x2="527.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="55,560,237,237" x1="55.5" y1="237.5" x2="560.5" y2="237.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,57,0,26" text-anchor="start" x="5.24853515625" y="25.606944444444437" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">male</text>
+<text aria-label="40,48,227,243" text-anchor="end" x="48.5" y="242.5" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="24,48,183,199" text-anchor="end" x="48.5" y="198.05555555555557" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="24,48,138,154" text-anchor="end" x="48.5" y="153.61111111111111" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="24,48,94,110" text-anchor="end" x="48.5" y="109.16666666666667" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="24,48,49,65" text-anchor="end" x="48.5" y="64.72222222222223" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="50,55,237,237" x1="55.5" y1="237.5" x2="50.5" y2="237.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,193,193" x1="55.5" y1="193.5" x2="50.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,148,148" x1="55.5" y1="148.5" x2="50.5" y2="148.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,104,104" x1="55.5" y1="104.5" x2="50.5" y2="104.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,59,59" x1="55.5" y1="59.5" x2="50.5" y2="59.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,98,176" text-anchor="middle" x="16.74853515625" y="137.5" transform="rotate(-90.0, 14.74853515625, 137.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">SMS Minnesota</text>
+<path aria-label="Danish: clank; SMS Minnesota: 269; green Thorium Small: Luxurious West" role="graphics-symbol" aria-roledescription="bar" d="M120.86956521739133,177.22222222222223h43.91304347826087v59.77777777777777h-43.91304347826087Z" fill="#e9dacd"/>
+<path aria-label="Danish: colt; SMS Minnesota: 248; green Thorium Small: Luxurious West" role="graphics-symbol" aria-roledescription="bar" d="M175.7608695652174,181.88888888888889h43.91304347826087v55.111111111111114h-43.91304347826087Z" fill="#e9dacd"/>
+<path aria-label="Danish: shelter; SMS Minnesota: 224; green Thorium Small: Luxurious West" role="graphics-symbol" aria-roledescription="bar" d="M505.1086956521739,187.2222222222222h43.91304347826087v49.7777777777778h-43.91304347826087Z" fill="#e9dacd"/>
+<path aria-label="Danish: bore; SMS Minnesota: 785; green Thorium Small: Luxurious West" role="graphics-symbol" aria-roledescription="bar" d="M65.97826086956525,62.55555555555556h43.91304347826087v174.44444444444446h-43.91304347826087Z" fill="#e9dacd"/>
+<path aria-label="Danish: panpipe; SMS Minnesota: 844; green Thorium Small: Luxurious West" role="graphics-symbol" aria-roledescription="bar" d="M450.2173913043478,49.444444444444436h43.91304347826087v187.55555555555557h-43.91304347826087Z" fill="#e9dacd"/>
+<path aria-label="Danish: fountain; SMS Minnesota: 385; green Thorium Small: Luxurious West" role="graphics-symbol" aria-roledescription="bar" d="M340.4347826086956,151.44444444444446h43.91304347826087v85.55555555555556h-43.91304347826087Z" fill="#e9dacd"/>
+<path aria-label="Danish: donkey; SMS Minnesota: 553; green Thorium Small: Luxurious West" role="graphics-symbol" aria-roledescription="bar" d="M285.54347826086956,114.11111111111111h43.91304347826087v122.88888888888889h-43.91304347826087Z" fill="#e9dacd"/>
+<path aria-label="Danish: crystal; SMS Minnesota: 828; green Thorium Small: Luxurious West" role="graphics-symbol" aria-roledescription="bar" d="M230.6521739130435,52.99999999999999h43.91304347826087v184h-43.91304347826087Z" fill="#e9dacd"/>
+<path aria-label="Danish: meaning; SMS Minnesota: 76; green Thorium Small: Luxurious West" role="graphics-symbol" aria-roledescription="bar" d="M395.32608695652175,220.11111111111111h43.91304347826087v16.888888888888886h-43.91304347826087Z" fill="#e9dacd"/>
+<text aria-label="132,153,159,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.82608695652175" y="172.38472222222222" font-family="avenir" font-size="12.624999999999996px" fill="#000" opacity="1">269</text>
+<text aria-label="187,207,164,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="197.71739130434784" y="177.05138888888888" font-family="avenir" font-size="12.624999999999996px" fill="#000" opacity="1">248</text>
+<text aria-label="516,537,169,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="527.0652173913043" y="182.3847222222222" font-family="avenir" font-size="12.624999999999996px" fill="#000" opacity="1">224</text>
+<text aria-label="77,98,45,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="87.93478260869568" y="57.71805555555556" font-family="avenir" font-size="12.624999999999996px" fill="#000" opacity="1">785</text>
+<text aria-label="461,482,31,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="472.17391304347825" y="44.60694444444444" font-family="avenir" font-size="12.624999999999996px" fill="#000" opacity="1">844</text>
+<text aria-label="352,372,133,147" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="362.39130434782606" y="146.60694444444445" font-family="avenir" font-size="12.624999999999996px" fill="#000" opacity="1">385</text>
+<text aria-label="297,317,96,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="307.5" y="109.27361111111112" font-family="avenir" font-size="12.624999999999996px" fill="#000" opacity="1">553</text>
+<text aria-label="242,262,35,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="252.60869565217394" y="48.162499999999994" font-family="avenir" font-size="12.624999999999996px" fill="#000" opacity="1">828</text>
+<text aria-label="410,424,202,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="417.2826086956522" y="215.2736111111111" font-family="avenir" font-size="12.624999999999996px" fill="#000" opacity="1">76</text>
+<path  d="M56.0,326.0h10v10h-10Z" fill="#e9dacd" stroke-width="1.5" opacity="1"/>
+<text aria-label="71,148,324,335" text-anchor="start" x="71.0" y="334.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Luxurious West</text>
+</svg>

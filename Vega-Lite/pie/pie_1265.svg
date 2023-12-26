@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="262" height="270" viewBox="0 0 262 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">partnerships</text>
+<path aria-label="Producer input Violette: 351; shoat Ceres: compressing" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.010420186505257,132.74983225305434A75,75,0,0,0,120.84413751266146,207.30732096100547L105.0,134.0Z" fill="#fec8a6" stroke="white" stroke-width="0"/>
+<path aria-label="Producer input Violette: 303; shoat Ceres: online" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.010420186505257,132.74983225305434L105.0,134.0Z" fill="#7b5b62" stroke="white" stroke-width="0"/>
+<path aria-label="Producer input Violette: 555; shoat Ceres: Rafael" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.84413751266146,207.30732096100547A75,75,0,0,0,111.14805058271871,59.25241492842507L105.0,134.0Z" fill="#035e8f" stroke="white" stroke-width="0"/>
+<path aria-label="Producer input Violette: 16; shoat Ceres: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M111.14805058271871,59.25241492842507A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#d9eb8c" stroke="white" stroke-width="0"/>
+<text aria-label="41,54,197,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="47.89902900770354" y="205.56636480179856" font-family="serif" font-size="8px" fill="#fec8a6" opacity="1">351</text>
+<text aria-label="35,48,63,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="41.89301986574751" y="71.83218050817793" font-family="serif" font-size="8px" fill="#7b5b62" opacity="1">303</text>
+<text aria-label="188,201,122,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.8076174581754" y="130.11851664237392" font-family="serif" font-size="8px" fill="#035e8f" opacity="1">555</text>
+<text aria-label="104,113,38,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.69193799175358" y="46.07575636200744" font-family="serif" font-size="8px" fill="#d9eb8c" opacity="1">16</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#d9eb8c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,258.25A5,5,0,1,1,73.0,258.25A5,5,0,1,1,83.0,258.25" fill="#035e8f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,258.25A5,5,0,1,1,130.0,258.25A5,5,0,1,1,140.0,258.25" fill="#fec8a6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M222.0,258.25A5,5,0,1,1,212.0,258.25A5,5,0,1,1,222.0,258.25" fill="#7b5b62" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="88,121,251,262" text-anchor="start" x="88.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Rafael</text>
+<text aria-label="145,205,251,262" text-anchor="start" x="145.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">compressing</text>
+<text aria-label="227,260,251,262" text-anchor="start" x="227.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">online</text>
+</svg>

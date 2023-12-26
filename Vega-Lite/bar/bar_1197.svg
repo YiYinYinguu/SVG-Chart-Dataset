@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="891" height="394" viewBox="0 0 891 394" style="background-color: rgb(255, 255, 255);">
+<line x1="52.5" y1="263.5" x2="886.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="230.5" x2="886.5" y2="230.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="196.5" x2="886.5" y2="196.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="163.5" x2="886.5" y2="163.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="130.5" x2="886.5" y2="130.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="96.5" x2="886.5" y2="96.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="63.5" x2="886.5" y2="63.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="99,119,270,380" text-anchor="end" x="113.02439024390242" y="270.5" transform="rotate(270.0, 119.02439024390242, 270.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">alternative</text>
+<text aria-label="200,220,270,330" text-anchor="end" x="214.73170731707316" y="270.5" transform="rotate(270.0, 220.73170731707316, 270.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">leaver</text>
+<text aria-label="302,322,270,310" text-anchor="end" x="316.4390243902439" y="270.5" transform="rotate(270.0, 322.4390243902439, 270.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">mine</text>
+<text aria-label="404,424,270,320" text-anchor="end" x="418.1463414634146" y="270.5" transform="rotate(270.0, 424.1463414634146, 270.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">novel</text>
+<text aria-label="505,525,270,310" text-anchor="end" x="519.8536585365854" y="270.5" transform="rotate(270.0, 525.8536585365854, 270.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">pass</text>
+<text aria-label="607,627,270,330" text-anchor="end" x="621.5609756097563" y="270.5" transform="rotate(270.0, 627.5609756097563, 270.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">subway</text>
+<text aria-label="709,729,270,390" text-anchor="end" x="723.2682926829268" y="270.5" transform="rotate(270.0, 729.2682926829268, 270.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">thunderstorm</text>
+<text aria-label="810,830,270,340" text-anchor="end" x="824.9756097560976" y="270.5" transform="rotate(270.0, 830.9756097560976, 270.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">transit</text>
+<line aria-label="113,113,263,268" x1="113.5" y1="263.5" x2="113.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="214,214,263,268" x1="214.5" y1="263.5" x2="214.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="316,316,263,268" x1="316.5" y1="263.5" x2="316.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="418,418,263,268" x1="418.5" y1="263.5" x2="418.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="519,519,263,268" x1="519.5" y1="263.5" x2="519.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="621,621,263,268" x1="621.5" y1="263.5" x2="621.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="723,723,263,268" x1="723.5" y1="263.5" x2="723.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="824,824,263,268" x1="824.5" y1="263.5" x2="824.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,886,263,263" x1="52.5" y1="263.5" x2="886.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="430,508,0,26" text-anchor="middle" x="469.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">indigo</text>
+<text aria-label="40,50,250,270" text-anchor="end" x="50.5" y="269.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="20,50,217,237" text-anchor="end" x="50.5" y="236.16666666666669" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="20,50,183,203" text-anchor="end" x="50.5" y="202.83333333333334" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="20,50,150,170" text-anchor="end" x="50.5" y="169.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="20,50,117,137" text-anchor="end" x="50.5" y="136.16666666666669" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="20,50,83,103" text-anchor="end" x="50.5" y="102.83333333333333" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="20,50,50,70" text-anchor="end" x="50.5" y="69.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="2,14,94,232" text-anchor="middle" x="16.88671875" y="163.5" transform="rotate(-90.0, 14.88671875, 163.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Integration calculating</text>
+<path aria-label="bypass Towels markets: novel; Integration calculating: 522; Configuration woman Hybrid: Jeep Verde" role="graphics-symbol" aria-roledescription="bar" d="M418.1463414634146,89.0h40.6829268292683v174h-40.6829268292683Z" fill="#d33b16"/>
+<path aria-label="bypass Towels markets: novel; Integration calculating: 245; Configuration woman Hybrid: Isidro" role="graphics-symbol" aria-roledescription="bar" d="M377.4634146341463,181.33333333333331h40.6829268292683v81.66666666666667h-40.6829268292683Z" fill="#efddc4"/>
+<path aria-label="bypass Towels markets: mine; Integration calculating: 342; Configuration woman Hybrid: Jeep Verde" role="graphics-symbol" aria-roledescription="bar" d="M316.4390243902439,149.0h40.6829268292683v113.99999999999999h-40.6829268292683Z" fill="#d33b16"/>
+<path aria-label="bypass Towels markets: mine; Integration calculating: 504; Configuration woman Hybrid: Isidro" role="graphics-symbol" aria-roledescription="bar" d="M275.7560975609756,95.0h40.6829268292683v168h-40.6829268292683Z" fill="#efddc4"/>
+<path aria-label="bypass Towels markets: alternative; Integration calculating: 101; Configuration woman Hybrid: Jeep Verde" role="graphics-symbol" aria-roledescription="bar" d="M113.02439024390242,229.33333333333334h40.6829268292683v33.66666666666666h-40.6829268292683Z" fill="#d33b16"/>
+<path aria-label="bypass Towels markets: alternative; Integration calculating: 162; Configuration woman Hybrid: Isidro" role="graphics-symbol" aria-roledescription="bar" d="M72.34146341463412,209.0h40.6829268292683v54h-40.6829268292683Z" fill="#efddc4"/>
+<path aria-label="bypass Towels markets: thunderstorm; Integration calculating: 344; Configuration woman Hybrid: Jeep Verde" role="graphics-symbol" aria-roledescription="bar" d="M723.2682926829268,148.33333333333331h40.6829268292683v114.66666666666667h-40.6829268292683Z" fill="#d33b16"/>
+<path aria-label="bypass Towels markets: thunderstorm; Integration calculating: 411; Configuration woman Hybrid: Isidro" role="graphics-symbol" aria-roledescription="bar" d="M682.5853658536585,125.99999999999999h40.6829268292683v137h-40.6829268292683Z" fill="#efddc4"/>
+<path aria-label="bypass Towels markets: pass; Integration calculating: 48; Configuration woman Hybrid: Jeep Verde" role="graphics-symbol" aria-roledescription="bar" d="M519.8536585365854,247.0h40.6829268292683v16h-40.6829268292683Z" fill="#d33b16"/>
+<path aria-label="bypass Towels markets: pass; Integration calculating: 72; Configuration woman Hybrid: Isidro" role="graphics-symbol" aria-roledescription="bar" d="M479.1707317073171,239.0h40.6829268292683v24h-40.6829268292683Z" fill="#efddc4"/>
+<path aria-label="bypass Towels markets: transit; Integration calculating: 135; Configuration woman Hybrid: Jeep Verde" role="graphics-symbol" aria-roledescription="bar" d="M824.9756097560976,218.0h40.6829268292683v45h-40.6829268292683Z" fill="#d33b16"/>
+<path aria-label="bypass Towels markets: transit; Integration calculating: 335; Configuration woman Hybrid: Isidro" role="graphics-symbol" aria-roledescription="bar" d="M784.2926829268292,151.33333333333331h40.6829268292683v111.66666666666667h-40.6829268292683Z" fill="#efddc4"/>
+<path aria-label="bypass Towels markets: subway; Integration calculating: 562; Configuration woman Hybrid: Jeep Verde" role="graphics-symbol" aria-roledescription="bar" d="M621.5609756097563,75.66666666666667h40.6829268292683v187.33333333333331h-40.6829268292683Z" fill="#d33b16"/>
+<path aria-label="bypass Towels markets: subway; Integration calculating: 20; Configuration woman Hybrid: Isidro" role="graphics-symbol" aria-roledescription="bar" d="M580.8780487804879,256.33333333333337h40.6829268292683v6.666666666666657h-40.6829268292683Z" fill="#efddc4"/>
+<path aria-label="bypass Towels markets: leaver; Integration calculating: 418; Configuration woman Hybrid: Jeep Verde" role="graphics-symbol" aria-roledescription="bar" d="M214.73170731707316,123.66666666666667h40.6829268292683v139.33333333333331h-40.6829268292683Z" fill="#d33b16"/>
+<path aria-label="bypass Towels markets: leaver; Integration calculating: 309; Configuration woman Hybrid: Isidro" role="graphics-symbol" aria-roledescription="bar" d="M174.04878048780486,160.0h40.6829268292683v103h-40.6829268292683Z" fill="#efddc4"/>
+<path  d="M53.0,35.0h10v10h-10Z" fill="#d33b16" stroke-width="1.5" opacity="1"/>
+<path  d="M129.0,35.0h10v10h-10Z" fill="#efddc4" stroke-width="1.5" opacity="1"/>
+<text aria-label="68,123,33,44" text-anchor="start" x="68.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Jeep Verde</text>
+<text aria-label="144,177,33,44" text-anchor="start" x="144.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Isidro</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="257" height="270" viewBox="0 0 257 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="end" x="252.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Genderflux Internal</text>
+<path aria-label="man screech: 34; autem Classical becquerel: indexing" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.8004391024271,226.58833016602603A75,75,0,0,0,192.41503059388594,197.86660387118542L125.0,165.0Z" fill="#eac907" stroke="black" stroke-width="0"/>
+<path aria-label="man screech: 145; autem Classical becquerel: sievert" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.99999999999999,90.0A75,75,0,0,0,63.2516476978699,207.5692493235672L125.0,165.0Z" fill="#2a68c6" stroke="black" stroke-width="0"/>
+<path aria-label="man screech: 105; autem Classical becquerel: purple" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.2516476978699,207.5692493235672A75,75,0,0,0,167.8004391024271,226.58833016602603L125.0,165.0Z" fill="#00edbc" stroke="black" stroke-width="0"/>
+<path aria-label="man screech: 135; autem Classical becquerel: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M192.41503059388594,197.86660387118542A75,75,0,0,0,125.0,90.0L125.0,165.0Z" fill="#fe79d8" stroke="black" stroke-width="0"/>
+<text aria-label="189,197,218,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.33783312210352" y="225.5656944309169" font-family="avenir" font-size="7px" fill="#eac907" opacity="1">34</text>
+<text aria-label="39,51,118,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.32102244962837" y="125.1519350922008" font-family="avenir" font-size="7px" fill="#2a68c6" opacity="1">145</text>
+<text aria-label="102,114,248,256" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.89194033231911" y="255.5467696403569" font-family="avenir" font-size="7px" fill="#00edbc" opacity="1">105</text>
+<text aria-label="195,207,112,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="201.32035514228176" y="119.30090786025391" font-family="avenir" font-size="7px" fill="#fe79d8" opacity="1">135</text>
+<path  d="M36.0,40.25A5,5,0,1,1,26.0,40.25A5,5,0,1,1,36.0,40.25" fill="#fe79d8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M87.0,40.25A5,5,0,1,1,77.0,40.25A5,5,0,1,1,87.0,40.25" fill="#eac907" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M156.0,40.25A5,5,0,1,1,146.0,40.25A5,5,0,1,1,156.0,40.25" fill="#00edbc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M215.0,40.25A5,5,0,1,1,205.0,40.25A5,5,0,1,1,215.0,40.25" fill="#2a68c6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="41,63,33,44" text-anchor="start" x="41.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="92,136,33,44" text-anchor="start" x="92.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">indexing</text>
+<text aria-label="161,194,33,44" text-anchor="start" x="161.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">purple</text>
+<text aria-label="220,258,33,44" text-anchor="start" x="220.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">sievert</text>
+</svg>

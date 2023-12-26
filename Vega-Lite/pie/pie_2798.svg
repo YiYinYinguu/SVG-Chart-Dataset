@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">nemo</text>
+<path aria-label="Gloves City interfaces: 179; Fountain redundant: Kia" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.83499384990102,206.51001682020677A75,75,0,0,0,228.39735563092924,197.81887157643956L189.0,134.0Z" fill="#eb6ac1" stroke="black" stroke-width="0"/>
+<path aria-label="Gloves City interfaces: 126; Fountain redundant: up" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,148.45193869083013,70.90598503766145L189.0,134.0Z" fill="#c7ecf2" stroke="black" stroke-width="0"/>
+<path aria-label="Gloves City interfaces: 311; Fountain redundant: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.45193869083013,70.90598503766145A75,75,0,0,0,120.22388422198372,163.91397496971777L189.0,134.0Z" fill="#a2abb6" stroke="black" stroke-width="0"/>
+<path aria-label="Gloves City interfaces: 199; Fountain redundant: Pizza" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.22388422198372,163.91397496971777A75,75,0,0,0,169.83499384990102,206.51001682020677L189.0,134.0Z" fill="#ee0cb1" stroke="black" stroke-width="0"/>
+<path aria-label="Gloves City interfaces: 207; Fountain redundant: Direct" role="graphics-symbol" aria-roledescription="arc mark"  d="M228.39735563092924,197.81887157643956A75,75,0,0,0,263.7641081963957,139.94374676425915L189.0,134.0Z" fill="#ddeba2" stroke="black" stroke-width="0"/>
+<path aria-label="Gloves City interfaces: 364; Fountain redundant: California" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.7641081963957,139.94374676425915A75,75,0,0,0,189.0,59.0L189.0,134.0Z" fill="#0dc268" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#0dc268" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ddeba2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#eb6ac1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ee0cb1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#a2abb6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#c7ecf2" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">California</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Direct</text>
+<text aria-label="21,37,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Kia</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Pizza</text>
+<text aria-label="21,43,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="21,32,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">up</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">partnerships</text>
+<path aria-label="blue: 508; Market Nitrogen: Gorgeous" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.2497216912842,160.26740570168877A75,75,0,0,0,105.0,59.0L105.0,87.0A47,47,0,0,1,149.02315892653812,150.4609075730583Z" fill="#5a96f0" stroke="white" stroke-width="0"/>
+<path aria-label="blue: 349; Market Nitrogen: what" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.25468805290002,115.74843596512584L59.41293784648401,122.56235320481218A47,47,0,0,1,104.99999999999999,87.0Z" fill="#c31aa2" stroke="white" stroke-width="0"/>
+<path aria-label="blue: 716; Market Nitrogen: enable" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.16077480164506,138.9081943431283A75,75,0,0,0,175.2497216912842,160.26740570168877L149.02315892653812,150.4609075730583A47,47,0,0,1,58.10075220903091,137.0758017883604Z" fill="#eaceec" stroke="white" stroke-width="0"/>
+<path aria-label="blue: 82; Market Nitrogen: incremental" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.25468805290002,115.74843596512584A75,75,0,0,0,30.16077480164506,138.9081943431283L58.10075220903091,137.0758017883604A47,47,0,0,1,59.41293784648401,122.56235320481218Z" fill="#9960bf" stroke="white" stroke-width="0"/>
+<text aria-label="169,188,74,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.9489006537027" y="86.70126617440928" font-family="serif" font-size="12px" fill="#5a96f0" opacity="1">508</text>
+<text aria-label="39,59,55,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="49.64283657811943" y="67.03814786884993" font-family="serif" font-size="12px" fill="#c31aa2" opacity="1">349</text>
+<text aria-label="82,101,215,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="91.89196418877384" y="227.04032455675133" font-family="serif" font-size="12px" fill="#eaceec" opacity="1">716</text>
+<text aria-label="8,21,117,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.365602559488238" y="129.89600126626505" font-family="serif" font-size="12px" fill="#9960bf" opacity="1">82</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#5a96f0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#eaceec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#9960bf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#c31aa2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Gorgeous</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">enable</text>
+<text aria-label="239,299,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">incremental</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">what</text>
+</svg>

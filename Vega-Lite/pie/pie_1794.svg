@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="133,224,0,26" text-anchor="middle" x="179.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Account</text>
+<path aria-label="East Northeast: 31; duh: Outdoors" role="graphics-symbol" aria-roledescription="arc mark"  d="M219.2356185667348,197.29372005619695A75,75,0,0,0,225.30474937904896,192.99889986214544L179.0,134.0Z" fill="#bdcebe" stroke="black" stroke-width="0"/>
+<path aria-label="East Northeast: 774; duh: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M225.30474937904896,192.99889986214544A75,75,0,0,0,179.0,59.0L179.0,134.0Z" fill="#a52e5b" stroke="black" stroke-width="0"/>
+<path aria-label="East Northeast: 503; duh: granular" role="graphics-symbol" aria-roledescription="arc mark"  d="M114.20864402587142,171.77671493173742A75,75,0,0,0,219.2356185667348,197.29372005619695L179.0,134.0Z" fill="#bb1c80" stroke="black" stroke-width="0"/>
+<path aria-label="East Northeast: 656; duh: monthly" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.0,59.0A75,75,0,0,0,114.20864402587142,171.77671493173742L179.0,134.0Z" fill="#3041db" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#a52e5b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#bdcebe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#bb1c80" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#3041db" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Outdoors</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">granular</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">monthly</text>
+<text aria-label="5,23,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">duh</text>
+</svg>

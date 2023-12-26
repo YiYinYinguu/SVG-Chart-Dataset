@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="256" height="270" viewBox="0 0 256 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,251,0,26" text-anchor="middle" x="128.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Sedan Oklahoma Mali</text>
+<path aria-label="Rolls: 16; Tandem weber Chair: Crest" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.09855954723463,67.19963894705587A75,75,0,0,0,128.0,59.0L128.0,101.0A33,33,0,0,1,143.00336620078323,104.60784113670458Z" fill="#bed0f9" stroke="white" stroke-width="0"/>
+<path aria-label="Rolls: 47; Tandem weber Chair: Intranet" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.919329632278,155.27463337507226A75,75,0,0,0,162.09855954723463,67.19963894705587L143.00336620078323,104.60784113670458A33,33,0,0,1,159.6445050382023,143.36083868503178Z" fill="#45b31c" stroke="white" stroke-width="0"/>
+<path aria-label="Rolls: 78; Tandem weber Chair: Lead" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.18238620909536,173.39939301607242A75,75,0,0,0,199.919329632278,155.27463337507226L159.6445050382023,143.36083868503178A33,33,0,0,1,99.92024993200195,151.33573292707186Z" fill="#9c95ac" stroke="white" stroke-width="0"/>
+<path aria-label="Rolls: 72; Tandem weber Chair: siemens" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.99999999999999,59.0A75,75,0,0,0,64.18238620909536,173.39939301607242L99.92024993200195,151.33573292707186A33,33,0,0,1,128.0,101.0Z" fill="#8bae52" stroke="white" stroke-width="0"/>
+<text aria-label="143,155,38,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="149.0423502285514" y="49.49446019331701" font-family="monospace" font-size="11px" fill="#bed0f9" opacity="1">16</text>
+<text aria-label="204,216,90,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="210.69775746080927" y="101.48829895720051" font-family="monospace" font-size="11px" fill="#45b31c" opacity="1">47</text>
+<text aria-label="133,145,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="139.91184688378002" y="226.2082277809473" font-family="monospace" font-size="11px" fill="#9c95ac" opacity="1">78</text>
+<text aria-label="43,55,82,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="49.40249862197966" y="93.1544440435283" font-family="monospace" font-size="11px" fill="#8bae52" opacity="1">72</text>
+<path  d="M39.0,258.25A5,5,0,1,1,29.0,258.25A5,5,0,1,1,39.0,258.25" fill="#bed0f9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M91.0,258.25A5,5,0,1,1,81.0,258.25A5,5,0,1,1,91.0,258.25" fill="#45b31c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M158.0,258.25A5,5,0,1,1,148.0,258.25A5,5,0,1,1,158.0,258.25" fill="#9c95ac" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M205.0,258.25A5,5,0,1,1,195.0,258.25A5,5,0,1,1,205.0,258.25" fill="#8bae52" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="44,71,251,262" text-anchor="start" x="44.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Crest</text>
+<text aria-label="96,140,251,262" text-anchor="start" x="96.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Intranet</text>
+<text aria-label="163,185,251,262" text-anchor="start" x="163.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Lead</text>
+<text aria-label="210,248,251,262" text-anchor="start" x="210.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">siemens</text>
+</svg>

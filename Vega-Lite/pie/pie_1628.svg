@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="364" height="286" viewBox="0 0 364 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="86,359,0,26" text-anchor="end" x="359.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Maryland HTTP Account</text>
+<path aria-label="atop: 96; azure Internal Van: interactive" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,38.4769202120288,99.36360504435807L64.19917773004434,112.75634442720629A46,46,0,0,1,104.99999999999999,88.0Z" fill="#bc4eb0" stroke="white" stroke-width="0"/>
+<path aria-label="atop: 99; azure Internal Van: frictionless" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.4769202120288,99.36360504435807A75,75,0,0,0,45.058204491406244,179.07750160785233L68.23569875472916,161.64753431948276A46,46,0,0,1,64.19917773004434,112.75634442720629Z" fill="#0eeb7a" stroke="white" stroke-width="0"/>
+<path aria-label="atop: 125; azure Internal Van: excluding" role="graphics-symbol" aria-roledescription="arc mark"  d="M45.058204491406244,179.07750160785233A75,75,0,0,0,140.5776639183731,200.02446387598533L126.82096720326882,174.49500451060433A46,46,0,0,1,68.23569875472916,161.64753431948276Z" fill="#4b68a3" stroke="white" stroke-width="0"/>
+<path aria-label="atop: 65; azure Internal Van: Table" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.5776639183731,200.02446387598533A75,75,0,0,0,175.7559974791601,158.87144589140507L148.3970117872182,149.25448681339512A46,46,0,0,1,126.82096720326882,174.49500451060433Z" fill="#cb5bd0" stroke="white" stroke-width="0"/>
+<path aria-label="atop: 168; azure Internal Van: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.7559974791601,158.87144589140507A75,75,0,0,0,105.0,59.0L105.0,88.0A46,46,0,0,1,148.3970117872182,149.25448681339512Z" fill="#f015e3" stroke="white" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#f015e3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,274.25A5,5,0,1,1,78.0,274.25A5,5,0,1,1,88.0,274.25" fill="#cb5bd0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,274.25A5,5,0,1,1,130.0,274.25A5,5,0,1,1,140.0,274.25" fill="#4b68a3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M212.0,274.25A5,5,0,1,1,202.0,274.25A5,5,0,1,1,212.0,274.25" fill="#0eeb7a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M299.0,274.25A5,5,0,1,1,289.0,274.25A5,5,0,1,1,299.0,274.25" fill="#bc4eb0" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="93,120,267,278" text-anchor="start" x="93.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Table</text>
+<text aria-label="145,194,267,278" text-anchor="start" x="145.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">excluding</text>
+<text aria-label="217,283,267,278" text-anchor="start" x="217.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">frictionless</text>
+<text aria-label="304,364,267,278" text-anchor="start" x="304.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">interactive</text>
+<text aria-label="5,113,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">azure Internal Van</text>
+</svg>

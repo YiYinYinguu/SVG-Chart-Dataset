@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Clothing innovate</text>
+<path aria-label="Wagon: 71; synthesize: Screen" role="graphics-symbol" aria-roledescription="arc mark"  d="M231.7730670232827,76.18361765737205A75,75,0,0,0,184.0,59.0L184.0,134.0Z" fill="#aec93b" stroke="white" stroke-width="2"/>
+<path aria-label="Wagon: 69; synthesize: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M257.3661217244645,118.43040838329209A75,75,0,0,0,231.7730670232827,76.18361765737205L184.0,134.0Z" fill="#837fbf" stroke="white" stroke-width="2"/>
+<path aria-label="Wagon: 138; synthesize: hack" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.0,59.0A75,75,0,0,0,110.95060854257007,117.00628328766297L184.0,134.0Z" fill="#9accc9" stroke="white" stroke-width="2"/>
+<path aria-label="Wagon: 80; synthesize: bandwidth" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.95060854257007,117.00628328766297A75,75,0,0,0,120.04246086247292,173.17184176767404L184.0,134.0Z" fill="#4aede0" stroke="white" stroke-width="2"/>
+<path aria-label="Wagon: 154; synthesize: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M204.87529259362762,206.03625586557393A75,75,0,0,0,257.3661217244645,118.43040838329209L184.0,134.0Z" fill="#837fbf" stroke="white" stroke-width="2"/>
+<path aria-label="Wagon: 134; synthesize: Tasty" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.04246086247292,173.17184176767404A75,75,0,0,0,204.87529259362762,206.03625586557393L184.0,134.0Z" fill="#5cd54f" stroke="white" stroke-width="2"/>
+<text aria-label="209,218,43,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="214.46170306299518" y="51.31183880552189" font-family="serif" font-size="8px" fill="#aec93b" opacity="1">71</text>
+<text aria-label="256,265,81,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="260.97673658811937" y="89.3675861203467" font-family="serif" font-size="8px" fill="#837fbf" opacity="1">69</text>
+<text aria-label="121,134,57,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.03269438740324" y="65.51836620461899" font-family="serif" font-size="8px" fill="#9accc9" opacity="1">138</text>
+<text aria-label="90,99,142,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="95.15649243443701" y="150.38162589722566" font-family="serif" font-size="8px" fill="#4aede0" opacity="1">80</text>
+<text aria-label="254,267,174,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="261.2026057000327" y="182.25751477463177" font-family="serif" font-size="8px" fill="#837fbf" opacity="1">154</text>
+<text aria-label="144,158,211,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.4882500431562" y="219.922500646392" font-family="serif" font-size="8px" fill="#5cd54f" opacity="1">134</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#aec93b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#837fbf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#5cd54f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#4aede0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#9accc9" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Screen</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Tasty</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">bandwidth</text>
+<text aria-label="21,43,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">hack</text>
+</svg>

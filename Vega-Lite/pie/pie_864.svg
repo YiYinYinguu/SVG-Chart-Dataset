@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="290" height="239" viewBox="0 0 290 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,135,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">withdrawal</text>
+<path aria-label="farad Officer: 47; West Bronze: Markets" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.80888194915181,171.08258522919317A75,75,0,0,0,142.56662753972589,195.84180545268427L152.18485863072135,181.82432955007584A58,58,0,0,1,134.58553537401073,162.67719924390937Z" fill="#a7a2c3" stroke="white" stroke-width="0"/>
+<path aria-label="farad Officer: 118; West Bronze: District" role="graphics-symbol" aria-roledescription="arc mark"  d="M257.43664876062815,114.55952890670112A75,75,0,0,0,197.92489496094504,60.12207981914666L194.9952521031308,76.86774172680674A58,58,0,0,1,241.01767504155242,118.96603568784886Z" fill="#bcedb9" stroke="white" stroke-width="0"/>
+<path aria-label="farad Officer: 253; West Bronze: Industrial" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.56662753972589,195.84180545268427A75,75,0,0,0,257.43664876062815,114.55952890670112L241.01767504155242,118.96603568784886A58,58,0,0,1,152.18485863072135,181.82432955007584Z" fill="#f785f3" stroke="white" stroke-width="0"/>
+<path aria-label="farad Officer: 180; West Bronze: even" role="graphics-symbol" aria-roledescription="arc mark"  d="M185.0,59.0A75,75,0,0,0,110.97197250166876,146.03541211202645L127.75165873462385,143.30738536663378A58,58,0,0,1,185.0,76.0Z" fill="#fdf2db" stroke="white" stroke-width="0"/>
+<path aria-label="farad Officer: 18; West Bronze: Credit" role="graphics-symbol" aria-roledescription="arc mark"  d="M197.92489496094504,60.12207981914666A75,75,0,0,0,185.0,59.0L185.0,76.0A58,58,0,0,1,194.9952521031308,76.86774172680674Z" fill="#9cbb63" stroke="white" stroke-width="0"/>
+<path aria-label="farad Officer: 37; West Bronze: Strategist" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.97197250166876,146.03541211202645A75,75,0,0,0,119.80888194915181,171.08258522919317L134.58553537401073,162.67719924390937A58,58,0,0,1,127.75165873462385,143.30738536663378Z" fill="#c2cf9d" stroke="white" stroke-width="0"/>
+<text aria-label="114,122,189,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.7385634038362" y="196.90502458921236" font-family="avenir" font-size="7px" fill="#a7a2c3" opacity="1">47</text>
+<text aria-label="239,251,62,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="245.74545615507753" y="69.59224776796347" font-family="avenir" font-size="7px" fill="#bcedb9" opacity="1">118</text>
+<text aria-label="230,242,202,210" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="236.98578483519415" y="209.4675314344296" font-family="avenir" font-size="7px" fill="#f785f3" opacity="1">253</text>
+<text aria-label="110,122,70,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="116.44409395209316" y="77.6897286410827" font-family="avenir" font-size="7px" fill="#fdf2db" opacity="1">180</text>
+<text aria-label="188,196,39,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.78410625787697" y="46.33725584298638" font-family="avenir" font-size="7px" fill="#9cbb63" opacity="1">18</text>
+<text aria-label="96,104,158,166" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.1273937439307" y="165.9439594459755" font-family="avenir" font-size="7px" fill="#c2cf9d" opacity="1">37</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#9cbb63" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#bcedb9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#f785f3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#a7a2c3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#c2cf9d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#fdf2db" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Credit</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">District</text>
+<text aria-label="21,76,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Industrial</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Markets</text>
+<text aria-label="21,76,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Strategist</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">even</text>
+</svg>

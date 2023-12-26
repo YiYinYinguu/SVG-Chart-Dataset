@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="318" height="239" viewBox="0 0 318 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,277,0,26" text-anchor="middle" x="141.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">female orange Plastic</text>
+<path aria-label="lavender Rover: 133; Synergized Northwest: before" role="graphics-symbol" aria-roledescription="arc mark"  d="M108.87619580887228,201.77212704563792A75,75,0,0,0,190.03105794669392,77.24653881367286L141.0,134.0Z" fill="#2a4cc3" stroke="black" stroke-width="0"/>
+<path aria-label="lavender Rover: 33; Synergized Northwest: Towels" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.03105794669392,77.24653881367286A75,75,0,0,0,141.0,59.0L141.0,134.0Z" fill="#75518e" stroke="black" stroke-width="0"/>
+<path aria-label="lavender Rover: 125; Synergized Northwest: modulo" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.0,59.0A75,75,0,0,0,108.87619580887228,201.77212704563792L141.0,134.0Z" fill="#7babee" stroke="black" stroke-width="0"/>
+<text aria-label="205,226,174,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="216.40087431499668" y="187.13968002067242" font-family="sans-serif" font-size="13px" fill="#2a4cc3" opacity="1">133</text>
+<text aria-label="165,179,40,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="172.38969728968942" y="53.65139654942908" font-family="sans-serif" font-size="13px" fill="#75518e" opacity="1">33</text>
+<text aria-label="42,63,105,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="53.195131909076665" y="118.24385818193358" font-family="sans-serif" font-size="13px" fill="#7babee" opacity="1">125</text>
+<path  d="M270.0,40.0A5,5,0,1,1,260.0,40.0A5,5,0,1,1,270.0,40.0" fill="#75518e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M270.0,56.0A5,5,0,1,1,260.0,56.0A5,5,0,1,1,270.0,56.0" fill="#2a4cc3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M270.0,72.0A5,5,0,1,1,260.0,72.0A5,5,0,1,1,270.0,72.0" fill="#7babee" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="275,308,33,44" text-anchor="start" x="275.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Towels</text>
+<text aria-label="275,308,49,60" text-anchor="start" x="275.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">before</text>
+<text aria-label="275,308,65,76" text-anchor="start" x="275.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">modulo</text>
+</svg>

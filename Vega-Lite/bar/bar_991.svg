@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="929" height="345" viewBox="0 0 929 345" style="background-color: rgb(255, 255, 255);">
+<line x1="39.5" y1="243.5" x2="924.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="39.5" y1="203.5" x2="924.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="39.5" y1="163.5" x2="924.5" y2="163.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="39.5" y1="123.5" x2="924.5" y2="123.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="39.5" y1="83.5" x2="924.5" y2="83.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="39.5" y1="43.5" x2="924.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="99,117,250,322" text-anchor="end" x="112.75" y="250.5" transform="rotate(270.0, 117.75, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">cupboard</text>
+<text aria-label="247,265,250,331" text-anchor="end" x="260.25" y="250.5" transform="rotate(270.0, 265.25, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">hurricane</text>
+<text aria-label="394,412,250,304" text-anchor="end" x="407.75" y="250.5" transform="rotate(270.0, 412.75, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">malice</text>
+<text aria-label="542,560,250,313" text-anchor="end" x="555.25" y="250.5" transform="rotate(270.0, 560.25, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">preface</text>
+<text aria-label="689,707,250,304" text-anchor="end" x="702.75" y="250.5" transform="rotate(270.0, 707.75, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">regret</text>
+<text aria-label="837,855,250,313" text-anchor="end" x="850.25" y="250.5" transform="rotate(270.0, 855.25, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">wetland</text>
+<line aria-label="112,112,243,248" x1="112.5" y1="243.5" x2="112.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="260,260,243,248" x1="260.5" y1="243.5" x2="260.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="407,407,243,248" x1="407.5" y1="243.5" x2="407.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="555,555,243,248" x1="555.5" y1="243.5" x2="555.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="702,702,243,248" x1="702.5" y1="243.5" x2="702.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="850,850,243,248" x1="850.5" y1="243.5" x2="850.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,924,243,243" x1="39.5" y1="243.5" x2="924.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="410,553,0,26" text-anchor="middle" x="481.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">parsing RAM</text>
+<text aria-label="23,32,231,249" text-anchor="end" x="32.5" y="248.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="5,32,191,209" text-anchor="end" x="32.5" y="208.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="5,32,151,169" text-anchor="end" x="32.5" y="168.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="5,32,111,129" text-anchor="end" x="32.5" y="128.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="5,32,71,89" text-anchor="end" x="32.5" y="88.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="5,32,31,49" text-anchor="end" x="32.5" y="48.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">500</text>
+<line aria-label="34,39,243,243" x1="39.5" y1="243.5" x2="34.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,203,203" x1="39.5" y1="203.5" x2="34.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,163,163" x1="39.5" y1="163.5" x2="34.5" y2="163.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,123,123" x1="39.5" y1="123.5" x2="34.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,83,83" x1="39.5" y1="83.5" x2="34.5" y2="83.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,43,43" x1="39.5" y1="43.5" x2="34.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Electric East: wetland; lime compressing Corporate: 290; Soap: DNS definition" role="graphics-symbol" aria-roledescription="bar" d="M810.425,80.6h79.65v116h-79.65Z" fill="#8da9bf"/>
+<path aria-label="Electric East: wetland; lime compressing Corporate: 116; Soap: ack" role="graphics-symbol" aria-roledescription="bar" d="M810.425,196.6h79.65v46.400000000000006h-79.65Z" fill="#ee516d"/>
+<path aria-label="Electric East: malice; lime compressing Corporate: 29; Soap: DNS definition" role="graphics-symbol" aria-roledescription="bar" d="M367.925,161.0h79.65v11.59999999999998h-79.65Z" fill="#8da9bf"/>
+<path aria-label="Electric East: malice; lime compressing Corporate: 176; Soap: ack" role="graphics-symbol" aria-roledescription="bar" d="M367.925,172.6h79.65v70.4h-79.65Z" fill="#ee516d"/>
+<path aria-label="Electric East: preface; lime compressing Corporate: 207; Soap: DNS definition" role="graphics-symbol" aria-roledescription="bar" d="M515.425,151.8h79.65v82.79999999999998h-79.65Z" fill="#8da9bf"/>
+<path aria-label="Electric East: preface; lime compressing Corporate: 21; Soap: ack" role="graphics-symbol" aria-roledescription="bar" d="M515.425,234.6h79.65v8.400000000000006h-79.65Z" fill="#ee516d"/>
+<path aria-label="Electric East: hurricane; lime compressing Corporate: 135; Soap: DNS definition" role="graphics-symbol" aria-roledescription="bar" d="M220.42499999999998,118.2h79.65v54.000000000000014h-79.65Z" fill="#8da9bf"/>
+<path aria-label="Electric East: hurricane; lime compressing Corporate: 177; Soap: ack" role="graphics-symbol" aria-roledescription="bar" d="M220.42499999999998,172.20000000000002h79.65v70.79999999999998h-79.65Z" fill="#ee516d"/>
+<path aria-label="Electric East: cupboard; lime compressing Corporate: 187; Soap: DNS definition" role="graphics-symbol" aria-roledescription="bar" d="M72.925,55.000000000000014h79.65v74.8h-79.65Z" fill="#8da9bf"/>
+<path aria-label="Electric East: cupboard; lime compressing Corporate: 283; Soap: ack" role="graphics-symbol" aria-roledescription="bar" d="M72.925,129.8h79.65v113.19999999999999h-79.65Z" fill="#ee516d"/>
+<path aria-label="Electric East: regret; lime compressing Corporate: 22; Soap: DNS definition" role="graphics-symbol" aria-roledescription="bar" d="M662.925,104.60000000000001h79.65v8.799999999999983h-79.65Z" fill="#8da9bf"/>
+<path aria-label="Electric East: regret; lime compressing Corporate: 324; Soap: ack" role="graphics-symbol" aria-roledescription="bar" d="M662.925,113.39999999999999h79.65v129.60000000000002h-79.65Z" fill="#ee516d"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="335" height="270" viewBox="0 0 335 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,170,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Technician</text>
+<path aria-label="International Handcrafted: 6; male: Gadolinium" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.72378994202424,91.39514399516332A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#ff2bcd" stroke="black" stroke-width="0"/>
+<path aria-label="International Handcrafted: 8; male: Hatchback" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.0953721370741,181.4334031696533A75,75,0,0,0,166.72378994202424,91.39514399516332L105.0,134.0Z" fill="#b4ee6d" stroke="black" stroke-width="0"/>
+<path aria-label="International Handcrafted: 8; male: National" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.60250426049438,202.9984582744118A75,75,0,0,0,163.0953721370741,181.4334031696533L105.0,134.0Z" fill="#7d0cf6" stroke="black" stroke-width="0"/>
+<path aria-label="International Handcrafted: 9; male: orchid" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.546834442645945,124.95974898085075L105.0,134.0Z" fill="#40314f" stroke="black" stroke-width="0"/>
+<path aria-label="International Handcrafted: 8; male: gold" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.546834442645945,124.95974898085075A75,75,0,0,0,75.60250426049438,202.9984582744118L105.0,134.0Z" fill="#c9badd" stroke="black" stroke-width="0"/>
+<text aria-label="144,148,49,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="146.82508548393918" y="56.308957691211106" font-family="avenir" font-size="7px" fill="#ff2bcd" opacity="1">6</text>
+<text aria-label="192,196,132,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.92700983544125" y="139.62393460984734" font-family="avenir" font-size="7px" fill="#b4ee6d" opacity="1">8</text>
+<text aria-label="124,128,216,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="126.53840978588019" y="223.38476356834468" font-family="avenir" font-size="7px" fill="#7d0cf6" opacity="1">8</text>
+<text aria-label="43,47,61,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.3189607583284" y="68.63403266460092" font-family="avenir" font-size="7px" fill="#40314f" opacity="1">9</text>
+<text aria-label="25,29,174,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="27.057713659400534" y="181.00000000000003" font-family="avenir" font-size="7px" fill="#c9badd" opacity="1">8</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#ff2bcd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M99.0,258.25A5,5,0,1,1,89.0,258.25A5,5,0,1,1,99.0,258.25" fill="#b4ee6d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M177.0,258.25A5,5,0,1,1,167.0,258.25A5,5,0,1,1,177.0,258.25" fill="#7d0cf6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M245.0,258.25A5,5,0,1,1,235.0,258.25A5,5,0,1,1,245.0,258.25" fill="#c9badd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M294.0,258.25A5,5,0,1,1,284.0,258.25A5,5,0,1,1,294.0,258.25" fill="#40314f" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gadolinium</text>
+<text aria-label="104,153,251,262" text-anchor="start" x="104.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hatchback</text>
+<text aria-label="182,226,251,262" text-anchor="start" x="182.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">National</text>
+<text aria-label="250,272,251,262" text-anchor="start" x="250.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">gold</text>
+<text aria-label="299,332,251,262" text-anchor="start" x="299.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">orchid</text>
+</svg>

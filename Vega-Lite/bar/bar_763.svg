@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="811" height="335" viewBox="0 0 811 335" style="background-color: rgb(255, 255, 255);">
+<line x1="181.5" y1="40.5" x2="181.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="255.5" y1="40.5" x2="255.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="328.5" y1="40.5" x2="328.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="402.5" y1="40.5" x2="402.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="475.5" y1="40.5" x2="475.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="548.5" y1="40.5" x2="548.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="622.5" y1="40.5" x2="622.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="695.5" y1="40.5" x2="695.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="769.5" y1="40.5" x2="769.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="145.5" y1="240.5" x2="806.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="145.5" y1="190.5" x2="806.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="145.5" y1="140.5" x2="806.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="145.5" y1="90.5" x2="806.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="145.5" y1="40.5" x2="806.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="172,185,247,312" text-anchor="end" x="181.72222222222223" y="247.5" transform="rotate(270.0, 185.72222222222223, 247.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">antecedent</text>
+<text aria-label="246,259,247,293" text-anchor="end" x="255.16666666666666" y="247.5" transform="rotate(270.0, 259.16666666666663, 247.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">ceramic</text>
+<text aria-label="319,332,247,286" text-anchor="end" x="328.6111111111111" y="247.5" transform="rotate(270.0, 332.6111111111111, 247.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">diesel</text>
+<text aria-label="393,406,247,306" text-anchor="end" x="402.05555555555554" y="247.5" transform="rotate(270.0, 406.05555555555554, 247.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">freighter</text>
+<text aria-label="466,479,247,280" text-anchor="end" x="475.5" y="247.5" transform="rotate(270.0, 479.5, 247.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">grove</text>
+<text aria-label="539,552,247,325" text-anchor="end" x="548.9444444444445" y="247.5" transform="rotate(270.0, 552.9444444444445, 247.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">hand-holding</text>
+<text aria-label="613,626,247,273" text-anchor="end" x="622.3888888888889" y="247.5" transform="rotate(270.0, 626.3888888888889, 247.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">sake</text>
+<text aria-label="686,699,247,293" text-anchor="end" x="695.8333333333333" y="247.5" transform="rotate(270.0, 699.8333333333333, 247.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">tambour</text>
+<text aria-label="760,773,247,286" text-anchor="end" x="769.2777777777777" y="247.5" transform="rotate(270.0, 773.2777777777777, 247.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">waiver</text>
+<line aria-label="181,181,240,245" x1="181.5" y1="240.5" x2="181.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="255,255,240,245" x1="255.5" y1="240.5" x2="255.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="328,328,240,245" x1="328.5" y1="240.5" x2="328.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="402,402,240,245" x1="402.5" y1="240.5" x2="402.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="475,475,240,245" x1="475.5" y1="240.5" x2="475.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="548,548,240,245" x1="548.5" y1="240.5" x2="548.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="622,622,240,245" x1="622.5" y1="240.5" x2="622.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="695,695,240,245" x1="695.5" y1="240.5" x2="695.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="769,769,240,245" x1="769.5" y1="240.5" x2="769.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="145,806,240,240" x1="145.5" y1="240.5" x2="806.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="611,806,0,26" text-anchor="end" x="806.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Volkswagen JBOD</text>
+<text aria-label="137,143,232,245" text-anchor="end" x="143.5" y="244.5" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="124,143,182,195" text-anchor="end" x="143.5" y="194.5" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="124,143,132,145" text-anchor="end" x="143.5" y="144.5" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="124,143,82,95" text-anchor="end" x="143.5" y="94.5" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="124,143,32,45" text-anchor="end" x="143.5" y="44.5" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="103,115,128,152" text-anchor="middle" x="117.298828125" y="140.5" transform="rotate(-90.0, 115.298828125, 140.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Crew</text>
+<line aria-label="145,145,40,240" x1="145.5" y1="240.5" x2="145.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Fresh Hat West: hand-holding; Crew: 11; West: Electric Diesel" role="graphics-symbol" aria-roledescription="bar" d="M532.4194444444445,237.25h33.05v2.75h-33.05Z" fill="#cd5af8"/>
+<path aria-label="Fresh Hat West: ceramic; Crew: 700; West: Electric Diesel" role="graphics-symbol" aria-roledescription="bar" d="M238.64166666666665,65.0h33.05v175h-33.05Z" fill="#cd5af8"/>
+<path aria-label="Fresh Hat West: freighter; Crew: 303; West: Electric Diesel" role="graphics-symbol" aria-roledescription="bar" d="M385.53055555555557,164.25h33.05v75.74999999999999h-33.05Z" fill="#cd5af8"/>
+<path aria-label="Fresh Hat West: tambour; Crew: 318; West: Electric Diesel" role="graphics-symbol" aria-roledescription="bar" d="M679.3083333333333,160.5h33.05v79.5h-33.05Z" fill="#cd5af8"/>
+<path aria-label="Fresh Hat West: grove; Crew: 660; West: Electric Diesel" role="graphics-symbol" aria-roledescription="bar" d="M458.97499999999997,75.0h33.05v165h-33.05Z" fill="#cd5af8"/>
+<path aria-label="Fresh Hat West: antecedent; Crew: 601; West: Electric Diesel" role="graphics-symbol" aria-roledescription="bar" d="M165.19722222222222,89.75h33.05v150.25h-33.05Z" fill="#cd5af8"/>
+<path aria-label="Fresh Hat West: waiver; Crew: 749; West: Electric Diesel" role="graphics-symbol" aria-roledescription="bar" d="M752.7527777777777,52.74999999999999h33.05v187.25h-33.05Z" fill="#cd5af8"/>
+<path aria-label="Fresh Hat West: diesel; Crew: 442; West: Electric Diesel" role="graphics-symbol" aria-roledescription="bar" d="M312.0861111111111,129.5h33.05v110.5h-33.05Z" fill="#cd5af8"/>
+<path aria-label="Fresh Hat West: sake; Crew: 341; West: Electric Diesel" role="graphics-symbol" aria-roledescription="bar" d="M605.8638888888888,154.75h33.05v85.25h-33.05Z" fill="#cd5af8"/>
+<path  d="M6.0,41.0h10v10h-10Z" fill="#cd5af8" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,103,39,50" text-anchor="start" x="21.0" y="49.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Electric Diesel</text>
+</svg>

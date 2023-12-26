@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="354" height="286" viewBox="0 0 354 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,343,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">streamline Northeast panel</text>
+<path aria-label="AGP ack: 101; Usability: Polestar" role="graphics-symbol" aria-roledescription="arc mark"  d="M97.76998551097229,208.6506991962463A75,75,0,0,0,178.95526904925214,146.47470159373475L105.0,134.0Z" fill="#8c574e" stroke="black" stroke-width="0"/>
+<path aria-label="AGP ack: 109; Usability: lance" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.087376098155275,137.61922369310932L105.0,134.0Z" fill="#b2e0ae" stroke="black" stroke-width="0"/>
+<path aria-label="AGP ack: 117; Usability: Dodge" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.95526904925214,146.47470159373475A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#70ce9f" stroke="black" stroke-width="0"/>
+<path aria-label="AGP ack: 96; Usability: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.087376098155275,137.61922369310932A75,75,0,0,0,97.76998551097229,208.6506991962463L105.0,134.0Z" fill="#e8b17c" stroke="black" stroke-width="0"/>
+<text aria-label="152,166,199,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="159.72221796160986" y="207.4526336908729" font-family="Balto" font-size="8px" fill="#8c574e" opacity="1">101</text>
+<text aria-label="33,46,65,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="39.84297367568173" y="73.91488164968922" font-family="Balto" font-size="8px" fill="#b2e0ae" opacity="1">109</text>
+<text aria-label="166,180,69,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.7286976892599" y="77.89349335970779" font-family="Balto" font-size="8px" fill="#70ce9f" opacity="1">117</text>
+<text aria-label="35,44,190,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="39.84297367568175" y="198.08511835031078" font-family="Balto" font-size="8px" fill="#e8b17c" opacity="1">96</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#70ce9f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,274.25A5,5,0,1,1,66.0,274.25A5,5,0,1,1,76.0,274.25" fill="#8c574e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M142.0,274.25A5,5,0,1,1,132.0,274.25A5,5,0,1,1,142.0,274.25" fill="#e8b17c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,274.25A5,5,0,1,1,207.0,274.25A5,5,0,1,1,217.0,274.25" fill="#b2e0ae" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Dodge</text>
+<text aria-label="81,125,267,278" text-anchor="start" x="81.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Polestar</text>
+<text aria-label="147,196,267,278" text-anchor="start" x="147.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="222,249,267,278" text-anchor="start" x="222.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">lance</text>
+<text aria-label="5,59,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Usability</text>
+</svg>

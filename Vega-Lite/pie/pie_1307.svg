@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="457" height="270" viewBox="0 0 457 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">program Principal</text>
+<path aria-label="exploit: 690; Draper: Forward" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.07918264057346,203.94081689198708A75,75,0,0,0,175.25708794940962,107.7523030940061L135.91311869774023,122.45101336136268A33,33,0,0,1,116.91484036185233,164.7739594324743Z" fill="#e7e070" stroke="black" stroke-width="0"/>
+<path aria-label="exploit: 652; Draper: Technician" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.251830322188454,158.8937037670088A75,75,0,0,0,122.87273020816437,206.83931297662113L112.86400129159233,166.0492977097133A33,33,0,0,1,73.87080534176292,144.95322965748386Z" fill="#ad6fdb" stroke="black" stroke-width="0"/>
+<path aria-label="exploit: 203; Draper: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.25708794940962,107.7523030940061A75,75,0,0,0,156.37560920067216,79.35984279616493L127.60526804829576,109.95833083031256A33,33,0,0,1,135.91311869774023,122.45101336136268Z" fill="#f22baa" stroke="black" stroke-width="0"/>
+<path aria-label="exploit: 334; Draper: Awesome" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.37560920067216,79.35984279616493A75,75,0,0,0,105.0,59.0L105.0,101.0A33,33,0,0,1,127.60526804829576,109.95833083031256Z" fill="#a06fea" stroke="black" stroke-width="0"/>
+<path aria-label="exploit: 64; Draper: connecting" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,94.192987070848,59.78269425835278L100.24491431117312,101.34438547367523A33,33,0,0,1,105.0,101.0Z" fill="#97f5be" stroke="black" stroke-width="0"/>
+<path aria-label="exploit: 57; Draper: Home" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.87273020816437,206.83931297662113A75,75,0,0,0,132.07918264057346,203.94081689198708L116.91484036185233,164.7739594324743A33,33,0,0,1,112.86400129159233,166.0492977097133Z" fill="#bdbaa4" stroke="black" stroke-width="0"/>
+<path aria-label="exploit: 781; Draper: art" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.192987070848,59.78269425835278A75,75,0,0,0,34.251830322188454,158.8937037670088L73.87080534176292,144.95322965748386A33,33,0,0,1,100.24491431117312,101.34438547367523Z" fill="#c9f2bc" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#a06fea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M90.0,258.25A5,5,0,1,1,80.0,258.25A5,5,0,1,1,90.0,258.25" fill="#f22baa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M151.0,258.25A5,5,0,1,1,141.0,258.25A5,5,0,1,1,151.0,258.25" fill="#e7e070" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M218.0,258.25A5,5,0,1,1,208.0,258.25A5,5,0,1,1,218.0,258.25" fill="#bdbaa4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M275.0,258.25A5,5,0,1,1,265.0,258.25A5,5,0,1,1,275.0,258.25" fill="#ad6fdb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M352.0,258.25A5,5,0,1,1,342.0,258.25A5,5,0,1,1,352.0,258.25" fill="#c9f2bc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M393.0,258.25A5,5,0,1,1,383.0,258.25A5,5,0,1,1,393.0,258.25" fill="#97f5be" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Awesome</text>
+<text aria-label="95,128,251,262" text-anchor="start" x="95.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="156,194,251,262" text-anchor="start" x="156.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Forward</text>
+<text aria-label="223,245,251,262" text-anchor="start" x="223.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Home</text>
+<text aria-label="280,335,251,262" text-anchor="start" x="280.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Technician</text>
+<text aria-label="357,373,251,262" text-anchor="start" x="357.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">art</text>
+<text aria-label="398,453,251,262" text-anchor="start" x="398.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">connecting</text>
+</svg>

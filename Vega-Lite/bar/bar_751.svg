@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="378" height="320" viewBox="0 0 378 320" style="background-color: rgb(255, 255, 255);">
+<text aria-label="53,73,250,300" text-anchor="end" x="67.89999999999998" y="250.5" transform="rotate(270.0, 73.89999999999998, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">alder</text>
+<text aria-label="121,141,250,290" text-anchor="end" x="135.7" y="250.5" transform="rotate(270.0, 141.7, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">beck</text>
+<text aria-label="189,209,250,290" text-anchor="end" x="203.49999999999997" y="250.5" transform="rotate(270.0, 209.49999999999997, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">hero</text>
+<text aria-label="257,277,250,300" text-anchor="end" x="271.29999999999995" y="250.5" transform="rotate(270.0, 277.29999999999995, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">mocha</text>
+<text aria-label="325,345,250,290" text-anchor="end" x="339.09999999999997" y="250.5" transform="rotate(270.0, 345.09999999999997, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">mole</text>
+<line aria-label="67,67,243,248" x1="67.5" y1="243.5" x2="67.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="135,135,243,248" x1="135.5" y1="243.5" x2="135.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="203,203,243,248" x1="203.5" y1="243.5" x2="203.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="271,271,243,248" x1="271.5" y1="243.5" x2="271.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="339,339,243,248" x1="339.5" y1="243.5" x2="339.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,373,243,243" x1="34.5" y1="243.5" x2="373.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,226,0,26" text-anchor="start" x="5.28271484375" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Dysprosium target</text>
+<text aria-label="22,32,230,250" text-anchor="end" x="32.5" y="249.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="22,32,190,210" text-anchor="end" x="32.5" y="209.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">1</text>
+<text aria-label="22,32,150,170" text-anchor="end" x="32.5" y="169.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">2</text>
+<text aria-label="22,32,110,130" text-anchor="end" x="32.5" y="129.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">3</text>
+<text aria-label="22,32,70,90" text-anchor="end" x="32.5" y="89.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">4</text>
+<text aria-label="22,32,30,50" text-anchor="end" x="32.5" y="49.5" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">5</text>
+<text aria-label="2,14,95,191" text-anchor="middle" x="16.78271484375" y="143.5" transform="rotate(-90.0, 14.78271484375, 143.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">up gold Demiflux</text>
+<line aria-label="34,34,43,243" x1="34.5" y1="243.5" x2="34.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="South: beck; up gold Demiflux: 5; Checking alarm Hybrid: pink Lamborghini" role="graphics-symbol" aria-roledescription="bar" d="M108.24099999999999,43.0h54.918v200h-54.918Z" fill="#ba2153"/>
+<path aria-label="South: alder; up gold Demiflux: 5; Checking alarm Hybrid: pink Lamborghini" role="graphics-symbol" aria-roledescription="bar" d="M40.44099999999999,43.0h54.918v200h-54.918Z" fill="#ba2153"/>
+<path aria-label="South: hero; up gold Demiflux: 1; Checking alarm Hybrid: pink Lamborghini" role="graphics-symbol" aria-roledescription="bar" d="M176.04099999999997,203.0h54.918v40h-54.918Z" fill="#ba2153"/>
+<path aria-label="South: mole; up gold Demiflux: 4; Checking alarm Hybrid: pink Lamborghini" role="graphics-symbol" aria-roledescription="bar" d="M311.64099999999996,83.0h54.918v160h-54.918Z" fill="#ba2153"/>
+<path aria-label="South: mocha; up gold Demiflux: 5; Checking alarm Hybrid: pink Lamborghini" role="graphics-symbol" aria-roledescription="bar" d="M243.84099999999995,43.0h54.918v200h-54.918Z" fill="#ba2153"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="408" height="270" viewBox="0 0 408 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Table stiff</text>
+<path aria-label="markets: 35; Senior daydream impactful: easy" role="graphics-symbol" aria-roledescription="arc mark"  d="M68.11049071913308,99.69943258273453A75,75,0,0,0,56.58607088644526,107.71918761236276L83.05235213518853,139.0326983842711A34,34,0,0,1,88.27675579267367,135.39707610417298Z" fill="#a8bf11" stroke="black" stroke-width="4"/>
+<path aria-label="markets: 397; Senior daydream impactful: associate" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.15419947067116,235.29194726317053A75,75,0,0,0,150.9156342284768,105.6977695748572L125.81508751690947,138.1163222072686A34,34,0,0,1,116.85657042670425,196.86568275930398Z" fill="#cad2f9" stroke="black" stroke-width="4"/>
+<path aria-label="markets: 53; Senior daydream impactful: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M87.87759600454082,91.98066501661164A75,75,0,0,0,68.11049071913308,99.69943258273453L88.27675579267367,135.39707610417298A34,34,0,0,1,97.23784352205851,131.89790147419728Z" fill="#0bf0ca" stroke="black" stroke-width="4"/>
+<path aria-label="markets: 389; Senior daydream impactful: ducimus" role="graphics-symbol" aria-roledescription="arc mark"  d="M56.58607088644526,107.71918761236276A75,75,0,0,0,78.8458005293289,235.29194726317053L93.14342957329576,196.86568275930398A34,34,0,0,1,83.05235213518853,139.0326983842711Z" fill="#e77ea0" stroke="black" stroke-width="4"/>
+<path aria-label="markets: 133; Senior daydream impactful: cook" role="graphics-symbol" aria-roledescription="arc mark"  d="M78.8458005293289,235.29194726317053A75,75,0,0,0,131.15419947067116,235.29194726317053L116.85657042670425,196.86568275930398A34,34,0,0,1,93.14342957329576,196.86568275930398Z" fill="#ccb819" stroke="black" stroke-width="4"/>
+<path aria-label="markets: 43; Senior daydream impactful: protocol" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,87.87759600454082,91.98066501661164L97.23784352205851,131.89790147419728A34,34,0,0,1,105.0,131.0Z" fill="#bf58cb" stroke="black" stroke-width="4"/>
+<path aria-label="markets: 123; Senior daydream impactful: Agent" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.9156342284768,105.6977695748572A75,75,0,0,0,105.0,90.0L105.0,131.0A34,34,0,0,1,125.81508751690947,138.1163222072686Z" fill="#aa69d5" stroke="black" stroke-width="4"/>
+<text aria-label="49,58,85,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="53.5922427434087" y="93.12684862653154" font-family="serif" font-size="8px" fill="#a8bf11" opacity="1">35</text>
+<text aria-label="187,200,172,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.97154744775358" y="180.56700942551944" font-family="serif" font-size="8px" fill="#cad2f9" opacity="1">397</text>
+<text aria-label="67,76,75,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="72.26360109200597" y="83.16487498347314" font-family="serif" font-size="8px" fill="#0bf0ca" opacity="1">53</text>
+<text aria-label="9,23,174,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.339539083244617" y="182.47005720831348" font-family="serif" font-size="8px" fill="#e77ea0" opacity="1">389</text>
+<text aria-label="98,111,249,258" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="105.0" y="257.0" font-family="serif" font-size="8px" fill="#ccb819" opacity="1">133</text>
+<text aria-label="90,99,69,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.65805091401874" y="77.59617408017165" font-family="serif" font-size="8px" fill="#bf58cb" opacity="1">43</text>
+<text aria-label="127,140,73,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="134.114937009073" y="81.83944315026051" font-family="serif" font-size="8px" fill="#aa69d5" opacity="1">123</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#aa69d5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,40.25A5,5,0,1,1,58.0,40.25A5,5,0,1,1,68.0,40.25" fill="#cad2f9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,40.25A5,5,0,1,1,130.0,40.25A5,5,0,1,1,140.0,40.25" fill="#ccb819" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,40.25A5,5,0,1,1,177.0,40.25A5,5,0,1,1,187.0,40.25" fill="#e77ea0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M249.0,40.25A5,5,0,1,1,239.0,40.25A5,5,0,1,1,249.0,40.25" fill="#a8bf11" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,40.25A5,5,0,1,1,286.0,40.25A5,5,0,1,1,296.0,40.25" fill="#0bf0ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M358.0,40.25A5,5,0,1,1,348.0,40.25A5,5,0,1,1,358.0,40.25" fill="#bf58cb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Agent</text>
+<text aria-label="73,122,33,44" text-anchor="start" x="73.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">associate</text>
+<text aria-label="145,167,33,44" text-anchor="start" x="145.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">cook</text>
+<text aria-label="192,230,33,44" text-anchor="start" x="192.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">ducimus</text>
+<text aria-label="254,276,33,44" text-anchor="start" x="254.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">easy</text>
+<text aria-label="301,339,33,44" text-anchor="start" x="301.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="363,407,33,44" text-anchor="start" x="363.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">protocol</text>
+</svg>

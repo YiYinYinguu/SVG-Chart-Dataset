@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="827" height="340" viewBox="0 0 827 340" style="background-color: rgb(255, 255, 255);">
+<line x1="110.5" y1="240.5" x2="822.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="110.5" y1="190.5" x2="822.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="110.5" y1="140.5" x2="822.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="110.5" y1="90.5" x2="822.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="110.5" y1="40.5" x2="822.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="125,139,247,282" text-anchor="end" x="135.42857142857144" y="247.5" transform="rotate(270.0, 139.42857142857144, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">angle</text>
+<text aria-label="176,190,247,296" text-anchor="end" x="186.28571428571428" y="247.5" transform="rotate(270.0, 190.28571428571428, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">disdain</text>
+<text aria-label="227,241,247,317" text-anchor="end" x="237.14285714285714" y="247.5" transform="rotate(270.0, 241.14285714285714, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">downstairs</text>
+<text aria-label="278,292,247,324" text-anchor="end" x="288.0" y="247.5" transform="rotate(270.0, 292.0, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">formicarium</text>
+<text aria-label="328,342,247,282" text-anchor="end" x="338.85714285714283" y="247.5" transform="rotate(270.0, 342.85714285714283, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">gator</text>
+<text aria-label="379,393,247,268" text-anchor="end" x="389.7142857142857" y="247.5" transform="rotate(270.0, 393.7142857142857, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">hop</text>
+<text aria-label="430,444,247,289" text-anchor="end" x="440.57142857142856" y="247.5" transform="rotate(270.0, 444.57142857142856, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">hurdle</text>
+<text aria-label="481,495,247,289" text-anchor="end" x="491.42857142857144" y="247.5" transform="rotate(270.0, 495.42857142857144, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">impact</text>
+<text aria-label="532,546,247,303" text-anchor="end" x="542.2857142857142" y="247.5" transform="rotate(270.0, 546.2857142857142, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">industry</text>
+<text aria-label="583,597,247,296" text-anchor="end" x="593.1428571428571" y="247.5" transform="rotate(270.0, 597.1428571428571, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">inquiry</text>
+<text aria-label="634,648,247,296" text-anchor="end" x="644.0" y="247.5" transform="rotate(270.0, 648.0, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">liberty</text>
+<text aria-label="684,698,247,303" text-anchor="end" x="694.8571428571428" y="247.5" transform="rotate(270.0, 698.8571428571428, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">research</text>
+<text aria-label="735,749,247,296" text-anchor="end" x="745.7142857142857" y="247.5" transform="rotate(270.0, 749.7142857142857, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">rubbish</text>
+<text aria-label="786,800,247,296" text-anchor="end" x="796.5714285714286" y="247.5" transform="rotate(270.0, 800.5714285714286, 247.5)" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">soprano</text>
+<line aria-label="135,135,240,245" x1="135.5" y1="240.5" x2="135.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="186,186,240,245" x1="186.5" y1="240.5" x2="186.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="237,237,240,245" x1="237.5" y1="240.5" x2="237.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="288,288,240,245" x1="288.5" y1="240.5" x2="288.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="338,338,240,245" x1="338.5" y1="240.5" x2="338.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="389,389,240,245" x1="389.5" y1="240.5" x2="389.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="440,440,240,245" x1="440.5" y1="240.5" x2="440.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="491,491,240,245" x1="491.5" y1="240.5" x2="491.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="542,542,240,245" x1="542.5" y1="240.5" x2="542.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="593,593,240,245" x1="593.5" y1="240.5" x2="593.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="644,644,240,245" x1="644.5" y1="240.5" x2="644.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="694,694,240,245" x1="694.5" y1="240.5" x2="694.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="745,745,240,245" x1="745.5" y1="240.5" x2="745.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="796,796,240,245" x1="796.5" y1="240.5" x2="796.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="110,822,240,240" x1="110.5" y1="240.5" x2="822.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Diesel Shoes</text>
+<text aria-label="101,108,231,245" text-anchor="end" x="108.5" y="244.5" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="87,108,181,195" text-anchor="end" x="108.5" y="194.5" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="87,108,131,145" text-anchor="end" x="108.5" y="144.5" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="87,108,81,95" text-anchor="end" x="108.5" y="94.5" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="87,108,31,45" text-anchor="end" x="108.5" y="44.5" font-family="monospace" font-size="13px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="110,110,40,240" x1="110.5" y1="240.5" x2="110.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="North monitor Awesome: gator; Nevada: 260; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M325.12571428571425,175.0h27.462857142857146v65h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: gator; Nevada: 137; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M325.12571428571425,140.75h27.462857142857146v34.250000000000014h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: formicarium; Nevada: 413; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M274.2685714285714,136.75h27.462857142857146v103.25h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: formicarium; Nevada: 118; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M274.2685714285714,107.25000000000001h27.462857142857146v29.499999999999986h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: inquiry; Nevada: 503; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M579.4114285714286,114.25h27.462857142857146v125.75h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: inquiry; Nevada: 188; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M579.4114285714286,67.25h27.462857142857146v47h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: downstairs; Nevada: 248; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M223.41142857142856,178.0h27.462857142857146v62h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: downstairs; Nevada: 17; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M223.41142857142856,173.75h27.462857142857146v4.25h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: angle; Nevada: 331; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M121.69714285714286,157.25h27.462857142857146v82.75000000000001h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: angle; Nevada: 373; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M121.69714285714286,64.0h27.462857142857146v93.24999999999999h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: impact; Nevada: 342; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M477.69714285714286,154.5h27.462857142857146v85.5h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: impact; Nevada: 80; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M477.69714285714286,134.5h27.462857142857146v20h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: hurdle; Nevada: 253; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M426.84,176.75000000000003h27.462857142857146v63.24999999999997h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: hurdle; Nevada: 253; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M426.84,113.50000000000001h27.462857142857146v63.250000000000014h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: liberty; Nevada: 151; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M630.2685714285714,202.25h27.462857142857146v37.75h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: liberty; Nevada: 221; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M630.2685714285714,147.0h27.462857142857146v55.250000000000014h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: rubbish; Nevada: 41; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M731.9828571428571,229.75h27.462857142857146v10.25h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: rubbish; Nevada: 179; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M731.9828571428571,185.0h27.462857142857146v44.75h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: soprano; Nevada: 18; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M782.84,235.5h27.462857142857146v4.5h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: soprano; Nevada: 175; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M782.84,191.75h27.462857142857146v43.75h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: research; Nevada: 325; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M681.1257142857143,158.75h27.462857142857146v81.25h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: research; Nevada: 457; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M681.1257142857143,44.49999999999999h27.462857142857146v114.25h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: industry; Nevada: 62; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M528.5542857142857,224.5h27.462857142857146v15.5h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: industry; Nevada: 40; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M528.5542857142857,214.5h27.462857142857146v10h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: hop; Nevada: 187; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M375.98285714285714,193.25h27.462857142857146v46.75h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: hop; Nevada: 133; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M375.98285714285714,160.0h27.462857142857146v33.25h-27.462857142857146Z" fill="#fd034a"/>
+<path aria-label="North monitor Awesome: disdain; Nevada: 97; Operations: defensive" role="graphics-symbol" aria-roledescription="bar" d="M172.5542857142857,215.75h27.462857142857146v24.25h-27.462857142857146Z" fill="#b5ccc3"/>
+<path aria-label="North monitor Awesome: disdain; Nevada: 546; Operations: Mauritius" role="graphics-symbol" aria-roledescription="bar" d="M172.5542857142857,79.25h27.462857142857146v136.5h-27.462857142857146Z" fill="#fd034a"/>
+<path  d="M6.0,57.0h10v10h-10Z" fill="#b5ccc3" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,70.0h10v10h-10Z" fill="#fd034a" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,55,66" text-anchor="start" x="21.0" y="65.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">defensive</text>
+<text aria-label="21,70,68,79" text-anchor="start" x="21.0" y="78.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Mauritius</text>
+<text aria-label="5,65,38,50" text-anchor="start" x="5.0" y="49.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Operations</text>
+</svg>

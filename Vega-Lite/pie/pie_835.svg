@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="219,284,0,26" text-anchor="end" x="284.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cargo</text>
+<path aria-label="eyeballs cyan: 246; Technician: Folk" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.31961782142695,207.4187258797469A75,75,0,0,0,168.7261205051959,173.5472067958946L151.73248837047697,163.00128498365603A55,55,0,0,1,116.23438640237976,187.84039897848106Z" fill="#ce751a" stroke="black" stroke-width="3"/>
+<path aria-label="eyeballs cyan: 246; Technician: Fluorine" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.7261205051959,173.5472067958946A75,75,0,0,0,177.58878893379818,115.1355434447611L158.231778551452,120.1660651928248A55,55,0,0,1,151.73248837047697,163.00128498365603Z" fill="#c8a7a6" stroke="black" stroke-width="3"/>
+<path aria-label="eyeballs cyan: 634; Technician: quas" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,39.762019914215514,171.000080463788L57.158814603758046,161.13339234011121A55,55,0,0,1,104.99999999999999,79.0Z" fill="#d67f56" stroke="black" stroke-width="3"/>
+<path aria-label="eyeballs cyan: 400; Technician: Berkshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.58878893379818,115.1355434447611A75,75,0,0,0,105.0,59.0L105.0,79.0A55,55,0,0,1,158.231778551452,120.1660651928248Z" fill="#de37af" stroke="black" stroke-width="3"/>
+<path aria-label="eyeballs cyan: 383; Technician: Gender" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.762019914215514,171.000080463788A75,75,0,0,0,120.31961782142695,207.4187258797469L116.23438640237976,187.84039897848106A55,55,0,0,1,57.158814603758046,161.13339234011121Z" fill="#ebcfe5" stroke="black" stroke-width="3"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#de37af" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#c8a7a6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ce751a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#ebcfe5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#d67f56" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Berkshire</text>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Fluorine</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Folk</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gender</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">quas</text>
+</svg>

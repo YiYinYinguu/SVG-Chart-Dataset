@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="276" height="286" viewBox="0 0 276 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,261,0,26" text-anchor="middle" x="138.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">unbearably Francium</text>
+<path aria-label="solidly VGA housing: 634; Chips: PCI" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.62744398245255,208.50212889796938A75,75,0,0,0,168.2982296392683,65.3922943050406L153.75507941241952,98.32399303862111A39,39,0,0,1,142.48627087087533,172.74110702694406Z" fill="#6ad14c" stroke="black" stroke-width="0"/>
+<path aria-label="solidly VGA housing: 465; Chips: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.0,59.0A75,75,0,0,0,67.38907301161034,159.28036767612974L101.28231796603737,147.14579119158748A39,39,0,0,1,138.0,95.0Z" fill="#2ff8bd" stroke="black" stroke-width="0"/>
+<path aria-label="solidly VGA housing: 101; Chips: Liaison" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.2982296392683,65.3922943050406A75,75,0,0,0,138.0,59.0L138.0,95.0A39,39,0,0,1,153.75507941241952,98.32399303862111Z" fill="#f1bd84" stroke="black" stroke-width="0"/>
+<path aria-label="solidly VGA housing: 326; Chips: plum" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.38907301161034,159.28036767612974A75,75,0,0,0,146.62744398245255,208.50212889796938L142.48627087087533,172.74110702694406A39,39,0,0,1,101.28231796603737,147.14579119158748Z" fill="#ffe09d" stroke="black" stroke-width="0"/>
+<text aria-label="217,236,139,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="226.98554835861415" y="151.47487229315144" font-family="avenir" font-size="12px" fill="#6ad14c" opacity="1">634</text>
+<text aria-label="54,74,74,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="64.41236615768241" y="86.18436388995116" font-family="avenir" font-size="12px" fill="#2ff8bd" opacity="1">465</text>
+<text aria-label="146,166,37,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="156.57912518048664" y="49.93856628734797" font-family="avenir" font-size="12px" fill="#f1bd84" opacity="1">101</text>
+<text aria-label="80,100,202,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="90.50995662670171" y="214.45061007213906" font-family="avenir" font-size="12px" fill="#ffe09d" opacity="1">326</text>
+<path  d="M49.0,274.25A5,5,0,1,1,39.0,274.25A5,5,0,1,1,49.0,274.25" fill="#f1bd84" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M110.0,274.25A5,5,0,1,1,100.0,274.25A5,5,0,1,1,110.0,274.25" fill="#6ad14c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M153.0,274.25A5,5,0,1,1,143.0,274.25A5,5,0,1,1,153.0,274.25" fill="#ffe09d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M205.0,274.25A5,5,0,1,1,195.0,274.25A5,5,0,1,1,205.0,274.25" fill="#2ff8bd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="54,92,267,278" text-anchor="start" x="54.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Liaison</text>
+<text aria-label="115,131,267,278" text-anchor="start" x="115.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">PCI</text>
+<text aria-label="158,180,267,278" text-anchor="start" x="158.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">plum</text>
+<text aria-label="210,265,267,278" text-anchor="start" x="210.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+<text aria-label="38,68,250,262" text-anchor="start" x="38.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Chips</text>
+</svg>

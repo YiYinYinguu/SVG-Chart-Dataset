@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="461" height="297" viewBox="0 0 461 297" style="background-color: rgb(255, 255, 255);">
+<line x1="128.5" y1="39.5" x2="128.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="254.5" y1="39.5" x2="254.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="380.5" y1="39.5" x2="380.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="53.5" y1="239.5" x2="456.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="53.5" y1="199.5" x2="456.5" y2="199.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="53.5" y1="159.5" x2="456.5" y2="159.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="53.5" y1="119.5" x2="456.5" y2="119.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="53.5" y1="79.5" x2="456.5" y2="79.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="53.5" y1="39.5" x2="456.5" y2="39.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="120,131,246,290" text-anchor="end" x="128.5625" y="246.5" transform="rotate(270.0, 131.5625, 246.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">cenotaph</text>
+<text aria-label="246,257,246,290" text-anchor="end" x="254.5" y="246.5" transform="rotate(270.0, 257.5, 246.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">crusader</text>
+<text aria-label="372,383,246,274" text-anchor="end" x="380.4375" y="246.5" transform="rotate(270.0, 383.4375, 246.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">giant</text>
+<line aria-label="128,128,239,244" x1="128.5" y1="239.5" x2="128.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="254,254,239,244" x1="254.5" y1="239.5" x2="254.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="380,380,239,244" x1="380.5" y1="239.5" x2="380.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="53,456,239,239" x1="53.5" y1="239.5" x2="456.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,226,0,26" text-anchor="start" x="5.1357421875" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">grey Solutions 24</text>
+<text aria-label="41,46,232,243" text-anchor="end" x="46.5" y="242.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="30,46,192,203" text-anchor="end" x="46.5" y="202.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="30,46,152,163" text-anchor="end" x="46.5" y="162.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="30,46,112,123" text-anchor="end" x="46.5" y="122.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="30,46,72,83" text-anchor="end" x="46.5" y="82.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="19,46,32,43" text-anchor="end" x="46.5" y="42.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<line aria-label="48,53,239,239" x1="53.5" y1="239.5" x2="48.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,53,199,199" x1="53.5" y1="199.5" x2="48.5" y2="199.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,53,159,159" x1="53.5" y1="159.5" x2="48.5" y2="159.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,53,119,119" x1="53.5" y1="119.5" x2="48.5" y2="119.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,53,79,79" x1="53.5" y1="79.5" x2="48.5" y2="79.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,53,39,39" x1="53.5" y1="39.5" x2="48.5" y2="39.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,124,154" text-anchor="middle" x="16.6357421875" y="139.5" transform="rotate(-90.0, 14.6357421875, 139.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">South</text>
+<line aria-label="53,53,39,239" x1="53.5" y1="239.5" x2="53.5" y2="39.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="flexibility: cenotaph; South: 979; recklessly discipline: Proactive Salad Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M78.1875,43.2h100.75000000000001v195.79999999999998h-100.75000000000001Z" fill="#bdfee8"/>
+<path aria-label="flexibility: giant; South: 412; recklessly discipline: Proactive Salad Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M330.0625,156.60000000000002h100.75000000000001v82.39999999999998h-100.75000000000001Z" fill="#bdfee8"/>
+<path aria-label="flexibility: crusader; South: 128; recklessly discipline: Proactive Salad Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M204.125,213.4h100.75000000000001v25.599999999999994h-100.75000000000001Z" fill="#bdfee8"/>
+</svg>

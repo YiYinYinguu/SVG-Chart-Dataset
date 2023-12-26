@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="302" height="239" viewBox="0 0 302 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="138,255,0,26" text-anchor="middle" x="197.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">armadillo</text>
+<path aria-label="thrust lest mint: 76; Operations: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.12363459941957,88.83562392309427A75,75,0,0,0,122.18766525541253,139.3023174238996L156.10259033962552,136.8986001917318A41,41,0,0,1,164.26758691434935,109.3101410779582Z" fill="#b4d46f" stroke="white" stroke-width="0"/>
+<path aria-label="thrust lest mint: 132; Operations: Forward" role="graphics-symbol" aria-roledescription="arc mark"  d="M268.5021254283072,111.36272853821323A75,75,0,0,0,198.41504785883504,59.01335025781451L197.77355949616316,93.0072981409386A41,41,0,0,1,236.08782856747462,121.62495826755656Z" fill="#47ef5a" stroke="white" stroke-width="0"/>
+<path aria-label="thrust lest mint: 70; Operations: sievert" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.41776171909333,61.60154736522476A75,75,0,0,0,137.12363459941957,88.83562392309427L164.26758691434935,109.3101410779582A41,41,0,0,1,186.29504307310435,94.42217922632287Z" fill="#b1dffa" stroke="white" stroke-width="0"/>
+<path aria-label="thrust lest mint: 92; Operations: Principal" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.51290046202627,164.5698740081747A75,75,0,0,0,176.05528375303777,206.01610140332673L185.550221784994,173.36880210048528A41,41,0,0,1,159.56038558590768,150.71153112446885Z" fill="#022beb" stroke="white" stroke-width="0"/>
+<path aria-label="thrust lest mint: 37; Operations: instead" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.18766525541253,139.3023174238996A75,75,0,0,0,128.51290046202627,164.5698740081747L159.56038558590768,150.71153112446885A41,41,0,0,1,156.10259033962552,136.8986001917318Z" fill="#b5a58e" stroke="white" stroke-width="0"/>
+<path aria-label="thrust lest mint: 175; Operations: Optimized" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.05528375303777,206.01610140332673A75,75,0,0,0,270.46244745358376,149.1085675737129L237.1594712746258,142.2593502736297A41,41,0,0,1,185.550221784994,173.36880210048528Z" fill="#f8b1af" stroke="white" stroke-width="0"/>
+<path aria-label="thrust lest mint: 28; Operations: unleash" role="graphics-symbol" aria-roledescription="arc mark"  d="M197.0,59.0A75,75,0,0,0,177.41776171909333,61.60154736522476L186.29504307310435,94.42217922632287A41,41,0,0,1,197.0,93.0Z" fill="#9f297e" stroke="white" stroke-width="0"/>
+<path aria-label="thrust lest mint: 2; Operations: Coordinator" role="graphics-symbol" aria-roledescription="arc mark"  d="M198.41504785883504,59.01335025781451A75,75,0,0,0,197.0,59.0L197.0,93.0A41,41,0,0,1,197.77355949616316,93.0072981409386Z" fill="#140bc5" stroke="white" stroke-width="0"/>
+<path aria-label="thrust lest mint: 54; Operations: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M270.46244745358376,149.1085675737129A75,75,0,0,0,268.5021254283072,111.36272853821323L236.08782856747462,121.62495826755656A41,41,0,0,1,237.1594712746258,142.2593502736297Z" fill="#c88cec" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#140bc5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#47ef5a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#c88cec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f8b1af" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#022beb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#b5a58e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#b4d46f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#b1dffa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#9f297e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Coordinator</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Forward</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Optimized</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Principal</text>
+<text aria-label="21,59,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">instead</text>
+<text aria-label="21,59,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="21,59,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">sievert</text>
+<text aria-label="21,59,161,172" text-anchor="start" x="21.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">unleash</text>
+</svg>

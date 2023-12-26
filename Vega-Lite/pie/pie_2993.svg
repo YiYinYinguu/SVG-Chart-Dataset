@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="378" height="286" viewBox="0 0 378 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="191,373,0,26" text-anchor="end" x="373.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Communications</text>
+<path aria-label="concerned: 1; navigating: Pickup" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.88008173846814,249.79084761290898A75,75,0,0,0,152.33159582445396,239.1783468028315L142.2341887152371,226.76696615156078A59,59,0,0,1,128.50566430092826,235.11546678882172Z" fill="#3fffaa" stroke="white" stroke-width="4"/>
+<path aria-label="concerned: 3; navigating: solution" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.03120374734243,116.91854465901339A75,75,0,0,0,31.568693423825792,165.74079902105242L47.23403882674295,168.9960952298946A59,59,0,0,1,74.34454694790938,130.5892551317572Z" fill="#bb5ef5" stroke="white" stroke-width="4"/>
+<path aria-label="concerned: 3; navigating: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.81269732085931,129.80851425860095A75,75,0,0,0,105.0,106.0L105.0,122.0A59,59,0,0,1,148.11932189240932,140.7293645500994Z" fill="#905caa" stroke="white" stroke-width="4"/>
+<path aria-label="concerned: 6; navigating: Pants" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.33159582445396,239.1783468028315A75,75,0,0,0,159.81269732085931,129.80851425860095L148.11932189240932,140.7293645500994A59,59,0,0,1,142.2341887152371,226.76696615156078Z" fill="#90d4d1" stroke="white" stroke-width="4"/>
+<path aria-label="concerned: 2; navigating: um" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,66.03120374734243,116.91854465901339L74.34454694790938,130.5892551317572A59,59,0,0,1,104.99999999999999,122.0Z" fill="#ad84e0" stroke="white" stroke-width="4"/>
+<path aria-label="concerned: 2; navigating: rectify" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.78750131778152,255.3014459527248A75,75,0,0,0,134.88008173846814,249.79084761290898L128.50566430092826,235.11546678882172A59,59,0,0,1,96.96616770332146,239.4504708161435Z" fill="#a6199e" stroke="white" stroke-width="4"/>
+<path aria-label="concerned: 6; navigating: sky" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.568693423825792,165.74079902105242A75,75,0,0,0,94.78750131778152,255.3014459527248L96.96616770332146,239.4504708161435A59,59,0,0,1,47.23403882674295,168.9960952298946Z" fill="#edac00" stroke="white" stroke-width="4"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#905caa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,56.25A5,5,0,1,1,68.0,56.25A5,5,0,1,1,78.0,56.25" fill="#90d4d1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,56.25A5,5,0,1,1,120.0,56.25A5,5,0,1,1,130.0,56.25" fill="#3fffaa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,56.25A5,5,0,1,1,177.0,56.25A5,5,0,1,1,187.0,56.25" fill="#a6199e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M249.0,56.25A5,5,0,1,1,239.0,56.25A5,5,0,1,1,249.0,56.25" fill="#edac00" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M291.0,56.25A5,5,0,1,1,281.0,56.25A5,5,0,1,1,291.0,56.25" fill="#bb5ef5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M358.0,56.25A5,5,0,1,1,348.0,56.25A5,5,0,1,1,358.0,56.25" fill="#ad84e0" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="83,110,49,60" text-anchor="start" x="83.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Pants</text>
+<text aria-label="135,168,49,60" text-anchor="start" x="135.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Pickup</text>
+<text aria-label="192,230,49,60" text-anchor="start" x="192.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">rectify</text>
+<text aria-label="254,270,49,60" text-anchor="start" x="254.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">sky</text>
+<text aria-label="296,340,49,60" text-anchor="start" x="296.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">solution</text>
+<text aria-label="363,374,49,60" text-anchor="start" x="363.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">um</text>
+<text aria-label="5,65,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">navigating</text>
+</svg>

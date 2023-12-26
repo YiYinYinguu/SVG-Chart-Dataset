@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="270" viewBox="0 0 309 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Pakistan</text>
+<path aria-label="Solutions support granular: 506; overriding Berkshire: transform" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,66.3106935544678,229.25058417449372L105.0,165.0Z" fill="#be659f" stroke="black" stroke-width="0"/>
+<path aria-label="Solutions support granular: 55; overriding Berkshire: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.58032600389242,207.8119545133638A75,75,0,0,0,176.07504838380896,188.94446694414424L105.0,165.0Z" fill="#65db5e" stroke="black" stroke-width="0"/>
+<path aria-label="Solutions support granular: 26; overriding Berkshire: Intersex" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.07504838380896,188.94446694414424A75,75,0,0,0,178.6308066140712,179.26549394031804L105.0,165.0Z" fill="#ca4d91" stroke="black" stroke-width="0"/>
+<path aria-label="Solutions support granular: 343; overriding Berkshire: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.6308066140712,179.26549394031804A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#3d3cfd" stroke="black" stroke-width="0"/>
+<path aria-label="Solutions support granular: 293; overriding Berkshire: padlock" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.3106935544678,229.25058417449372A75,75,0,0,0,166.58032600389242,207.8119545133638L105.0,165.0Z" fill="#1ff406" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#3d3cfd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,40.25A5,5,0,1,1,68.0,40.25A5,5,0,1,1,78.0,40.25" fill="#ca4d91" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,40.25A5,5,0,1,1,135.0,40.25A5,5,0,1,1,145.0,40.25" fill="#65db5e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,40.25A5,5,0,1,1,182.0,40.25A5,5,0,1,1,192.0,40.25" fill="#1ff406" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,40.25A5,5,0,1,1,244.0,40.25A5,5,0,1,1,254.0,40.25" fill="#be659f" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="83,127,33,44" text-anchor="start" x="83.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Intersex</text>
+<text aria-label="150,172,33,44" text-anchor="start" x="150.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="197,235,33,44" text-anchor="start" x="197.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">padlock</text>
+<text aria-label="259,308,33,44" text-anchor="start" x="259.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">transform</text>
+</svg>

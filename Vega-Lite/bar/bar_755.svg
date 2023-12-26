@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="737" height="316" viewBox="0 0 737 316" style="background-color: rgb(255, 255, 255);">
+<line x1="41.5" y1="240.5" x2="732.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="207.5" x2="732.5" y2="207.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="173.5" x2="732.5" y2="173.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="140.5" x2="732.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="107.5" x2="732.5" y2="107.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="73.5" x2="732.5" y2="73.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="40.5" x2="732.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="117,131,247,289" text-anchor="end" x="127.37499999999999" y="247.5" transform="rotate(270.0, 131.375, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">basket</text>
+<text aria-label="290,304,247,275" text-anchor="end" x="300.125" y="247.5" transform="rotate(270.0, 304.125, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">cone</text>
+<text aria-label="462,476,247,303" text-anchor="end" x="472.875" y="247.5" transform="rotate(270.0, 476.875, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">crewmate</text>
+<text aria-label="635,649,247,275" text-anchor="end" x="645.625" y="247.5" transform="rotate(270.0, 649.625, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">worm</text>
+<line aria-label="127,127,240,245" x1="127.5" y1="240.5" x2="127.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="300,300,240,245" x1="300.5" y1="240.5" x2="300.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="472,472,240,245" x1="472.5" y1="240.5" x2="472.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="645,645,240,245" x1="645.5" y1="240.5" x2="645.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,732,240,240" x1="41.5" y1="240.5" x2="732.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="459,732,0,26" text-anchor="end" x="732.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">leverage Litas Curium</text>
+<text aria-label="32,39,231,245" text-anchor="end" x="39.5" y="244.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="18,39,198,212" text-anchor="end" x="39.5" y="211.16666666666669" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="18,39,164,178" text-anchor="end" x="39.5" y="177.83333333333334" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="18,39,131,145" text-anchor="end" x="39.5" y="144.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="18,39,98,112" text-anchor="end" x="39.5" y="111.16666666666667" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="4,39,64,78" text-anchor="end" x="39.5" y="77.83333333333333" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="4,39,31,45" text-anchor="end" x="39.5" y="44.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">1,200</text>
+<line aria-label="41,41,40,240" x1="41.5" y1="240.5" x2="41.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Investor Northeast: basket; Neither: 664; informal Rustic Granite: Infrastructure ah" role="graphics-symbol" aria-roledescription="bar" d="M65.18499999999999,53.66666666666667h124.38v110.66666666666664h-124.38Z" fill="#331bbf"/>
+<path aria-label="Investor Northeast: basket; Neither: 454; informal Rustic Granite: parse equal" role="graphics-symbol" aria-roledescription="bar" d="M65.18499999999999,164.33333333333331h124.38v75.66666666666669h-124.38Z" fill="#b8efde"/>
+<path aria-label="Investor Northeast: cone; Neither: 612; informal Rustic Granite: Infrastructure ah" role="graphics-symbol" aria-roledescription="bar" d="M237.93499999999997,63.83333333333333h124.38v102h-124.38Z" fill="#331bbf"/>
+<path aria-label="Investor Northeast: cone; Neither: 445; informal Rustic Granite: parse equal" role="graphics-symbol" aria-roledescription="bar" d="M237.93499999999997,165.83333333333331h124.38v74.16666666666667h-124.38Z" fill="#b8efde"/>
+<path aria-label="Investor Northeast: worm; Neither: 557; informal Rustic Granite: Infrastructure ah" role="graphics-symbol" aria-roledescription="bar" d="M583.4350000000001,76.83333333333334h124.38v92.83333333333331h-124.38Z" fill="#331bbf"/>
+<path aria-label="Investor Northeast: worm; Neither: 422; informal Rustic Granite: parse equal" role="graphics-symbol" aria-roledescription="bar" d="M583.4350000000001,169.66666666666666h124.38v70.33333333333334h-124.38Z" fill="#b8efde"/>
+<path aria-label="Investor Northeast: crewmate; Neither: 62; informal Rustic Granite: Infrastructure ah" role="graphics-symbol" aria-roledescription="bar" d="M410.685,172.83333333333334h124.38v10.333333333333314h-124.38Z" fill="#331bbf"/>
+<path aria-label="Investor Northeast: crewmate; Neither: 341; informal Rustic Granite: parse equal" role="graphics-symbol" aria-roledescription="bar" d="M410.685,183.16666666666666h124.38v56.83333333333334h-124.38Z" fill="#b8efde"/>
+</svg>

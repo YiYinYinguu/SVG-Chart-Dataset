@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="286" viewBox="0 0 308 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,304,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Intranet Oriental times</text>
+<path aria-label="Southeast: 218; Associate meter during: salmon" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,34.46323252885405,155.51344600144054L105.0,181.0Z" fill="#3cee31" stroke="white" stroke-width="0"/>
+<path aria-label="Southeast: 404; Associate meter during: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.460701797763193,172.69981786235894A75,75,0,0,0,146.52540967592483,243.45510668669624L105.0,181.0Z" fill="#1a3ea9" stroke="white" stroke-width="0"/>
+<path aria-label="Southeast: 42; Associate meter during: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.46323252885405,155.51344600144054A75,75,0,0,0,30.460701797763193,172.69981786235894L105.0,181.0Z" fill="#1a3ea9" stroke="white" stroke-width="0"/>
+<path aria-label="Southeast: 455; Associate meter during: Bedfordshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.52540967592483,243.45510668669624A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#aab1aa" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#aab1aa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M103.0,56.25A5,5,0,1,1,93.0,56.25A5,5,0,1,1,103.0,56.25" fill="#1a3ea9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M175.0,56.25A5,5,0,1,1,165.0,56.25A5,5,0,1,1,175.0,56.25" fill="#3cee31" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,87,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bedfordshire</text>
+<text aria-label="108,157,49,60" text-anchor="start" x="108.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="180,213,49,60" text-anchor="start" x="180.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">salmon</text>
+<text aria-label="5,137,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Associate meter during</text>
+</svg>

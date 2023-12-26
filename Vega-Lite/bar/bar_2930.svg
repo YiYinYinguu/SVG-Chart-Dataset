@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="654" height="301" viewBox="0 0 654 301" style="background-color: rgb(255, 255, 255);">
+<line x1="115.5" y1="34.5" x2="115.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="233.5" y1="34.5" x2="233.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="352.5" y1="34.5" x2="352.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="471.5" y1="34.5" x2="471.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="589.5" y1="34.5" x2="589.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="106,118,241,271" text-anchor="end" x="115.30000000000001" y="241.5" transform="rotate(270.0, 118.30000000000001, 241.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">label</text>
+<text aria-label="224,236,241,265" text-anchor="end" x="233.9" y="241.5" transform="rotate(270.0, 236.9, 241.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">site</text>
+<text aria-label="343,355,241,283" text-anchor="end" x="352.5" y="241.5" transform="rotate(270.0, 355.5, 241.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">skywalk</text>
+<text aria-label="462,474,241,289" text-anchor="end" x="471.09999999999997" y="241.5" transform="rotate(270.0, 474.09999999999997, 241.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">stiletto</text>
+<text aria-label="580,592,241,289" text-anchor="end" x="589.6999999999999" y="241.5" transform="rotate(270.0, 592.6999999999999, 241.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">swimming</text>
+<line aria-label="115,115,234,239" x1="115.5" y1="234.5" x2="115.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="233,233,234,239" x1="233.5" y1="234.5" x2="233.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="352,352,234,239" x1="352.5" y1="234.5" x2="352.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="471,471,234,239" x1="471.5" y1="234.5" x2="471.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="589,589,234,239" x1="589.5" y1="234.5" x2="589.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,649,234,234" x1="56.5" y1="234.5" x2="649.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="203,502,0,26" text-anchor="middle" x="352.5" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">protocol Accountability</text>
+<text aria-label="43,49,226,238" text-anchor="end" x="49.5" y="237.5" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="31,49,190,202" text-anchor="end" x="49.5" y="201.13636363636363" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="31,49,153,165" text-anchor="end" x="49.5" y="164.77272727272725" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="31,49,117,129" text-anchor="end" x="49.5" y="128.40909090909093" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="31,49,81,93" text-anchor="end" x="49.5" y="92.04545454545453" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="19,49,44,56" text-anchor="end" x="49.5" y="55.68181818181819" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<line aria-label="51,56,234,234" x1="56.5" y1="234.5" x2="51.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,198,198" x1="56.5" y1="198.5" x2="51.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,161,161" x1="56.5" y1="161.5" x2="51.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,125,125" x1="56.5" y1="125.5" x2="51.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,89,89" x1="56.5" y1="89.5" x2="51.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,52,52" x1="56.5" y1="52.5" x2="51.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,110,158" text-anchor="middle" x="17.04931640625" y="134.5" transform="rotate(-90.0, 15.04931640625, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">National</text>
+<path aria-label="management phooey mobile: label; National: 378; Michigan Soft: gosh index Investment" role="graphics-symbol" aria-roledescription="bar" d="M72.60400000000001,165.27272727272728h85.392v68.72727272727272h-85.392Z" fill="#db9da1"/>
+<path aria-label="management phooey mobile: label; National: 431; Michigan Soft: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M72.60400000000001,86.9090909090909h85.392v78.36363636363637h-85.392Z" fill="#eb4464"/>
+<path aria-label="management phooey mobile: skywalk; National: 391; Michigan Soft: gosh index Investment" role="graphics-symbol" aria-roledescription="bar" d="M309.804,162.9090909090909h85.392v71.0909090909091h-85.392Z" fill="#db9da1"/>
+<path aria-label="management phooey mobile: skywalk; National: 627; Michigan Soft: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M309.804,48.90909090909092h85.392v113.99999999999999h-85.392Z" fill="#eb4464"/>
+<path aria-label="management phooey mobile: site; National: 162; Michigan Soft: gosh index Investment" role="graphics-symbol" aria-roledescription="bar" d="M191.204,204.54545454545456h85.392v29.45454545454544h-85.392Z" fill="#db9da1"/>
+<path aria-label="management phooey mobile: site; National: 67; Michigan Soft: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M191.204,192.36363636363635h85.392v12.181818181818215h-85.392Z" fill="#eb4464"/>
+<path aria-label="management phooey mobile: swimming; National: 372; Michigan Soft: gosh index Investment" role="graphics-symbol" aria-roledescription="bar" d="M547.0039999999999,166.36363636363637h85.392v67.63636363636363h-85.392Z" fill="#db9da1"/>
+<path aria-label="management phooey mobile: swimming; National: 417; Michigan Soft: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M547.0039999999999,90.54545454545455h85.392v75.81818181818183h-85.392Z" fill="#eb4464"/>
+<path aria-label="management phooey mobile: stiletto; National: 602; Michigan Soft: gosh index Investment" role="graphics-symbol" aria-roledescription="bar" d="M428.40399999999994,124.54545454545455h85.392v109.45454545454545h-85.392Z" fill="#db9da1"/>
+<path aria-label="management phooey mobile: stiletto; National: 188; Michigan Soft: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M428.40399999999994,90.36363636363637h85.392v34.18181818181817h-85.392Z" fill="#eb4464"/>
+<text aria-label="107,122,153,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.30000000000001" y="162.0462272727273" font-family="Balto" font-size="8.895px" fill="#000" opacity="1">378</text>
+<text aria-label="107,122,74,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.30000000000001" y="83.6825909090909" font-family="Balto" font-size="8.895px" fill="#000" opacity="1">431</text>
+<text aria-label="345,359,150,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="352.5" y="159.6825909090909" font-family="Balto" font-size="8.895px" fill="#000" opacity="1">391</text>
+<text aria-label="345,359,36,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="352.5" y="45.68259090909092" font-family="Balto" font-size="8.895px" fill="#000" opacity="1">627</text>
+<text aria-label="226,241,192,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="233.9" y="201.31895454545457" font-family="Balto" font-size="8.895px" fill="#000" opacity="1">162</text>
+<text aria-label="228,238,180,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="233.9" y="189.13713636363636" font-family="Balto" font-size="8.895px" fill="#000" opacity="1">67</text>
+<text aria-label="582,597,154,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="589.6999999999999" y="163.1371363636364" font-family="Balto" font-size="8.895px" fill="#000" opacity="1">372</text>
+<text aria-label="582,597,78,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="589.6999999999999" y="87.31895454545455" font-family="Balto" font-size="8.895px" fill="#000" opacity="1">417</text>
+<text aria-label="463,478,112,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="471.09999999999997" y="121.31895454545455" font-family="Balto" font-size="8.895px" fill="#000" opacity="1">602</text>
+<text aria-label="463,478,78,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="471.09999999999997" y="87.13713636363637" font-family="Balto" font-size="8.895px" fill="#000" opacity="1">188</text>
+</svg>

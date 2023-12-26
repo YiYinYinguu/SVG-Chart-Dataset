@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="439" height="295" viewBox="0 0 439 295" style="background-color: rgb(255, 255, 255);">
+<line x1="88.5" y1="41.5" x2="88.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="163.5" y1="41.5" x2="163.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="238.5" y1="41.5" x2="238.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="313.5" y1="41.5" x2="313.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="388.5" y1="41.5" x2="388.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="43.5" y1="241.5" x2="434.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="43.5" y1="208.5" x2="434.5" y2="208.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="43.5" y1="174.5" x2="434.5" y2="174.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="43.5" y1="141.5" x2="434.5" y2="141.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="43.5" y1="108.5" x2="434.5" y2="108.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="43.5" y1="74.5" x2="434.5" y2="74.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="43.5" y1="41.5" x2="434.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="79,92,248,281" text-anchor="end" x="88.11538461538463" y="248.5" transform="rotate(270.0, 92.11538461538463, 248.5)" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">elbow</text>
+<text aria-label="154,167,248,287" text-anchor="end" x="163.30769230769232" y="248.5" transform="rotate(270.0, 167.30769230769232, 248.5)" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">fiddle</text>
+<text aria-label="229,242,248,294" text-anchor="end" x="238.5" y="248.5" transform="rotate(270.0, 242.5, 248.5)" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">outlook</text>
+<text aria-label="304,317,248,287" text-anchor="end" x="313.69230769230774" y="248.5" transform="rotate(270.0, 317.69230769230774, 248.5)" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">sensor</text>
+<text aria-label="379,392,248,287" text-anchor="end" x="388.8846153846154" y="248.5" transform="rotate(270.0, 392.8846153846154, 248.5)" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">stereo</text>
+<line aria-label="88,88,241,246" x1="88.5" y1="241.5" x2="88.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="163,163,241,246" x1="163.5" y1="241.5" x2="163.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="238,238,241,246" x1="238.5" y1="241.5" x2="238.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="313,313,241,246" x1="313.5" y1="241.5" x2="313.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="388,388,241,246" x1="388.5" y1="241.5" x2="388.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,434,241,241" x1="43.5" y1="241.5" x2="434.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="161,434,0,26" text-anchor="end" x="434.0" y="25.789" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Manager idolized West</text>
+<text aria-label="35,41,233,246" text-anchor="end" x="41.5" y="245.5" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="22,41,200,213" text-anchor="end" x="41.5" y="212.16666666666669" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="22,41,166,179" text-anchor="end" x="41.5" y="178.83333333333334" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="22,41,133,146" text-anchor="end" x="41.5" y="145.5" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="22,41,100,113" text-anchor="end" x="41.5" y="112.16666666666667" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="22,41,66,79" text-anchor="end" x="41.5" y="78.83333333333333" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="22,41,33,46" text-anchor="end" x="41.5" y="45.5" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="2,14,99,183" text-anchor="middle" x="16.5" y="141.5" transform="rotate(-90.0, 14.5, 141.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">warmly deposit</text>
+<line aria-label="43,43,41,241" x1="43.5" y1="241.5" x2="43.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Cambridgeshire hertz: elbow; warmly deposit: 460; geez Northeast: Sports person purple" role="graphics-symbol" aria-roledescription="bar" d="M58.03846153846155,87.66666666666666h60.15384615384616v153.33333333333334h-60.15384615384616Z" fill="#5be59d"/>
+<path aria-label="Cambridgeshire hertz: stereo; warmly deposit: 579; geez Northeast: Sports person purple" role="graphics-symbol" aria-roledescription="bar" d="M358.8076923076923,48.00000000000001h60.15384615384616v193h-60.15384615384616Z" fill="#5be59d"/>
+<path aria-label="Cambridgeshire hertz: sensor; warmly deposit: 273; geez Northeast: Sports person purple" role="graphics-symbol" aria-roledescription="bar" d="M283.61538461538464,150.0h60.15384615384616v91.00000000000001h-60.15384615384616Z" fill="#5be59d"/>
+<path aria-label="Cambridgeshire hertz: fiddle; warmly deposit: 344; geez Northeast: Sports person purple" role="graphics-symbol" aria-roledescription="bar" d="M133.23076923076923,126.33333333333333h60.15384615384616v114.66666666666667h-60.15384615384616Z" fill="#5be59d"/>
+<path aria-label="Cambridgeshire hertz: outlook; warmly deposit: 485; geez Northeast: Sports person purple" role="graphics-symbol" aria-roledescription="bar" d="M208.42307692307693,79.33333333333333h60.15384615384616v161.66666666666669h-60.15384615384616Z" fill="#5be59d"/>
+<text aria-label="78,97,71,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="88.11538461538463" y="83.45566666666666" font-family="serif" font-size="11.73px" fill="#000" opacity="1">460</text>
+<text aria-label="379,398,32,44" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="388.8846153846154" y="43.78900000000001" font-family="serif" font-size="11.73px" fill="#000" opacity="1">579</text>
+<text aria-label="304,323,134,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="313.69230769230774" y="145.789" font-family="serif" font-size="11.73px" fill="#000" opacity="1">273</text>
+<text aria-label="153,172,110,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.30769230769232" y="122.12233333333333" font-family="serif" font-size="11.73px" fill="#000" opacity="1">344</text>
+<text aria-label="228,248,63,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="238.5" y="75.12233333333333" font-family="serif" font-size="11.73px" fill="#000" opacity="1">485</text>
+</svg>

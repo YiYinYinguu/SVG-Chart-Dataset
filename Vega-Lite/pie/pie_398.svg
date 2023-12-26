@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="182,299,0,26" text-anchor="end" x="299.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Interface</text>
+<path aria-label="Loan parse: 144; Dayton: frictionless" role="graphics-symbol" aria-roledescription="arc mark"  d="M97.05893154014153,208.57841129788056A75,75,0,0,0,118.9934780826188,207.6829869858115L113.58266655733952,179.1922320179644A46,46,0,0,1,100.1294780112868,179.74142559603342Z" fill="#73cae3" stroke="white" stroke-width="0"/>
+<path aria-label="Loan parse: 208; Dayton: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.9934780826188,207.6829869858115A75,75,0,0,0,148.08783284523474,195.3876099933945L131.4272041450773,171.6510674626153A46,46,0,0,1,113.58266655733952,179.1922320179644Z" fill="#c6a0e7" stroke="white" stroke-width="0"/>
+<path aria-label="Loan parse: 411; Dayton: vortals" role="graphics-symbol" aria-roledescription="arc mark"  d="M78.36062112913099,63.89048928016757A75,75,0,0,0,35.05483382449867,106.93205348236582L62.10029807902585,117.39832613585104A46,46,0,0,1,88.66118095920034,90.99950009183611Z" fill="#d5ff5d" stroke="white" stroke-width="0"/>
+<path aria-label="Loan parse: 630; Dayton: Awesome" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.96197302108732,112.87005823689279A75,75,0,0,0,105.0,59.0L105.0,88.0A46,46,0,0,1,149.1366767862669,121.04030238529424Z" fill="#f9dec6" stroke="white" stroke-width="0"/>
+<path aria-label="Loan parse: 22; Dayton: state" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.05483382449867,106.93205348236582A75,75,0,0,0,33.9108651241436,110.09738711767483L61.39866394280808,119.33973076550723A46,46,0,0,1,62.10029807902585,117.39832613585104Z" fill="#6a1cfc" stroke="white" stroke-width="0"/>
+<path aria-label="Loan parse: 2; Dayton: Handmade" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.04758379244302,113.16383745333847A75,75,0,0,0,176.96197302108732,112.87005823689279L149.1366767862669,121.04030238529424A46,46,0,0,1,149.18918472603173,121.22048697138092Z" fill="#b78adf" stroke="white" stroke-width="0"/>
+<path aria-label="Loan parse: 671; Dayton: purple" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.9108651241436,110.09738711767483A75,75,0,0,0,67.3234701678654,198.84966537930842L81.89172836962412,173.7744614326425A46,46,0,0,1,61.39866394280808,119.33973076550723Z" fill="#6c30ca" stroke="white" stroke-width="0"/>
+<path aria-label="Loan parse: 608; Dayton: Principal" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.08783284523474,195.3876099933945A75,75,0,0,0,177.04758379244302,113.16383745333847L149.18918472603173,121.22048697138092A46,46,0,0,1,131.4272041450773,171.6510674626153Z" fill="#f7a8fb" stroke="white" stroke-width="0"/>
+<path aria-label="Loan parse: 178; Dayton: with" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,78.36062112913099,63.89048928016757L88.66118095920034,90.99950009183611A46,46,0,0,1,104.99999999999999,88.0Z" fill="#aa228a" stroke="white" stroke-width="0"/>
+<path aria-label="Loan parse: 206; Dayton: microchip" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.3234701678654,198.84966537930842A75,75,0,0,0,97.05893154014153,208.57841129788056L100.1294780112868,179.74142559603342A46,46,0,0,1,81.89172836962412,173.7744614326425Z" fill="#2b7d9a" stroke="white" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#f9dec6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#b78adf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#f7a8fb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#c6a0e7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#73cae3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#2b7d9a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#6c30ca" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#6a1cfc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#d5ff5d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,184.0A5,5,0,1,1,224.0,184.0A5,5,0,1,1,234.0,184.0" fill="#aa228a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Awesome</text>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Handmade</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Principal</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="239,305,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">frictionless</text>
+<text aria-label="239,288,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">microchip</text>
+<text aria-label="239,272,129,140" text-anchor="start" x="239.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">purple</text>
+<text aria-label="239,266,145,156" text-anchor="start" x="239.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">state</text>
+<text aria-label="239,277,161,172" text-anchor="start" x="239.0" y="171.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">vortals</text>
+<text aria-label="239,261,177,188" text-anchor="start" x="239.0" y="187.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">with</text>
+</svg>

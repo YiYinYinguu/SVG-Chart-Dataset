@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="151,229,0,26" text-anchor="middle" x="190.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Screen</text>
+<path aria-label="Music: 143; trans: Lead" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.5465804588933,207.59414829705383A75,75,0,0,0,216.46979235354016,204.17371368796486L202.35256976498542,166.74773305438362A35,35,0,0,1,183.25507088081687,168.34393587195848Z" fill="#c7b5be" stroke="black" stroke-width="0"/>
+<path aria-label="Music: 294; trans: incentivize" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,121.84366532698269,102.69961591386364L158.19371048592527,119.39315409313636A35,35,0,0,1,190.0,99.0Z" fill="#2a48f4" stroke="black" stroke-width="0"/>
+<path aria-label="Music: 717; trans: FTM" role="graphics-symbol" aria-roledescription="arc mark"  d="M216.46979235354016,204.17371368796486A75,75,0,0,0,190.0,59.0L190.0,99.0A35,35,0,0,1,202.35256976498542,166.74773305438362Z" fill="#c5be29" stroke="black" stroke-width="0"/>
+<path aria-label="Music: 352; trans: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.84366532698269,102.69961591386364A75,75,0,0,0,145.44677007649608,194.33249293194666L169.20849270236482,162.15516336824177A35,35,0,0,1,158.19371048592527,119.39315409313636Z" fill="#84db1f" stroke="black" stroke-width="0"/>
+<path aria-label="Music: 114; trans: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M145.44677007649608,194.33249293194666A75,75,0,0,0,175.5465804588933,207.59414829705383L183.25507088081687,168.34393587195848A35,35,0,0,1,169.20849270236482,162.15516336824177Z" fill="#6ec1b0" stroke="black" stroke-width="0"/>
+<text aria-label="186,207,214,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="197.49622117160902" y="227.6872714946013" font-family="avenir" font-size="13px" fill="#c7b5be" opacity="1">143</text>
+<text aria-label="130,151,49,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.42244078436377" y="62.23575552642687" font-family="avenir" font-size="13px" fill="#2a48f4" opacity="1">294</text>
+<text aria-label="268,289,108,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="278.5402763670303" y="121.85628726562884" font-family="avenir" font-size="13px" fill="#c5be29" opacity="1">717</text>
+<text aria-label="92,113,147,161" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.84490355249747" y="160.4497029652183" font-family="avenir" font-size="13px" fill="#84db1f" opacity="1">352</text>
+<text aria-label="143,164,207,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.71286417664749" y="220.3604503007212" font-family="avenir" font-size="13px" fill="#6ec1b0" opacity="1">114</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#c5be29" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#c7b5be" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#6ec1b0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#84db1f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#2a48f4" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">FTM</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Lead</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="21,81,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">incentivize</text>
+</svg>

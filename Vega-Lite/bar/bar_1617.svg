@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="748" height="365" viewBox="0 0 748 365" style="background-color: rgb(255, 255, 255);">
+<line x1="105.5" y1="34.5" x2="105.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="203.5" y1="34.5" x2="203.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="301.5" y1="34.5" x2="301.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="399.5" y1="34.5" x2="399.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="497.5" y1="34.5" x2="497.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="595.5" y1="34.5" x2="595.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="693.5" y1="34.5" x2="693.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="234.5" x2="743.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="198.5" x2="743.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="161.5" x2="743.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="125.5" x2="743.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="89.5" x2="743.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="52.5" x2="743.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="91,110,241,317" text-anchor="end" x="105.07142857142856" y="241.5" transform="rotate(270.0, 110.07142857142856, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">cohesion</text>
+<text aria-label="189,208,241,317" text-anchor="end" x="203.2142857142857" y="241.5" transform="rotate(270.0, 208.2142857142857, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">elephant</text>
+<text aria-label="287,306,241,327" text-anchor="end" x="301.35714285714283" y="241.5" transform="rotate(270.0, 306.35714285714283, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">insurance</text>
+<text aria-label="385,404,241,289" text-anchor="end" x="399.5" y="241.5" transform="rotate(270.0, 404.5, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">lunch</text>
+<text aria-label="483,502,241,279" text-anchor="end" x="497.6428571428571" y="241.5" transform="rotate(270.0, 502.6428571428571, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">rape</text>
+<text aria-label="581,600,241,308" text-anchor="end" x="595.7857142857142" y="241.5" transform="rotate(270.0, 600.7857142857142, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">respect</text>
+<text aria-label="679,698,241,365" text-anchor="end" x="693.9285714285714" y="241.5" transform="rotate(270.0, 698.9285714285714, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">retrospective</text>
+<line aria-label="105,105,234,239" x1="105.5" y1="234.5" x2="105.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="203,203,234,239" x1="203.5" y1="234.5" x2="203.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="301,301,234,239" x1="301.5" y1="234.5" x2="301.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="399,399,234,239" x1="399.5" y1="234.5" x2="399.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="497,497,234,239" x1="497.5" y1="234.5" x2="497.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="595,595,234,239" x1="595.5" y1="234.5" x2="595.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="693,693,234,239" x1="693.5" y1="234.5" x2="693.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,743,234,234" x1="56.5" y1="234.5" x2="743.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,122,0,26" text-anchor="start" x="5.6982421875" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Northeast</text>
+<text aria-label="45,54,221,240" text-anchor="end" x="54.5" y="239.5" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="26,54,185,204" text-anchor="end" x="54.5" y="203.13636363636363" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="26,54,148,167" text-anchor="end" x="54.5" y="166.77272727272725" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="26,54,112,131" text-anchor="end" x="54.5" y="130.40909090909093" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="26,54,76,95" text-anchor="end" x="54.5" y="94.04545454545453" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="26,54,39,58" text-anchor="end" x="54.5" y="57.68181818181819" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="3,15,119,149" text-anchor="middle" x="17.1982421875" y="134.5" transform="rotate(-90.0, 15.1982421875, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Small</text>
+<path aria-label="because: insurance; Small: 234; maroon: Northwest" role="graphics-symbol" aria-roledescription="bar" d="M279.275,86.72727272727273h44.16428571428571v85.09090909090908h-44.16428571428571Z" fill="#bd24b3"/>
+<path aria-label="because: insurance; Small: 113; maroon: terribly or" role="graphics-symbol" aria-roledescription="bar" d="M279.275,192.9090909090909h44.16428571428571v41.09090909090909h-44.16428571428571Z" fill="#15ac1b"/>
+<path aria-label="because: insurance; Small: 58; maroon: regarding Northwest Borders" role="graphics-symbol" aria-roledescription="bar" d="M279.275,171.8181818181818h44.16428571428571v21.090909090909093h-44.16428571428571Z" fill="#babfe4"/>
+<path aria-label="because: rape; Small: 115; maroon: Northwest" role="graphics-symbol" aria-roledescription="bar" d="M475.56071428571425,78.36363636363636h44.16428571428571v41.81818181818183h-44.16428571428571Z" fill="#bd24b3"/>
+<path aria-label="because: rape; Small: 98; maroon: terribly or" role="graphics-symbol" aria-roledescription="bar" d="M475.56071428571425,198.36363636363635h44.16428571428571v35.636363636363654h-44.16428571428571Z" fill="#15ac1b"/>
+<path aria-label="because: rape; Small: 215; maroon: regarding Northwest Borders" role="graphics-symbol" aria-roledescription="bar" d="M475.56071428571425,120.18181818181819h44.16428571428571v78.18181818181816h-44.16428571428571Z" fill="#babfe4"/>
+<path aria-label="because: respect; Small: 146; maroon: Northwest" role="graphics-symbol" aria-roledescription="bar" d="M573.7035714285714,58.727272727272734h44.16428571428571v53.09090909090908h-44.16428571428571Z" fill="#bd24b3"/>
+<path aria-label="because: respect; Small: 102; maroon: terribly or" role="graphics-symbol" aria-roledescription="bar" d="M573.7035714285714,196.9090909090909h44.16428571428571v37.09090909090909h-44.16428571428571Z" fill="#15ac1b"/>
+<path aria-label="because: respect; Small: 234; maroon: regarding Northwest Borders" role="graphics-symbol" aria-roledescription="bar" d="M573.7035714285714,111.81818181818181h44.16428571428571v85.0909090909091h-44.16428571428571Z" fill="#babfe4"/>
+<path aria-label="because: retrospective; Small: 185; maroon: Northwest" role="graphics-symbol" aria-roledescription="bar" d="M671.8464285714285,50.72727272727272h44.16428571428571v67.2727272727273h-44.16428571428571Z" fill="#bd24b3"/>
+<path aria-label="because: retrospective; Small: 224; maroon: terribly or" role="graphics-symbol" aria-roledescription="bar" d="M671.8464285714285,152.54545454545456h44.16428571428571v81.45454545454544h-44.16428571428571Z" fill="#15ac1b"/>
+<path aria-label="because: retrospective; Small: 95; maroon: regarding Northwest Borders" role="graphics-symbol" aria-roledescription="bar" d="M671.8464285714285,118.00000000000001h44.16428571428571v34.54545454545455h-44.16428571428571Z" fill="#babfe4"/>
+<path aria-label="because: lunch; Small: 140; maroon: Northwest" role="graphics-symbol" aria-roledescription="bar" d="M377.41785714285714,132.9090909090909h44.16428571428571v50.90909090909091h-44.16428571428571Z" fill="#bd24b3"/>
+<path aria-label="because: lunch; Small: 7; maroon: terribly or" role="graphics-symbol" aria-roledescription="bar" d="M377.41785714285714,231.45454545454547h44.16428571428571v2.5454545454545325h-44.16428571428571Z" fill="#15ac1b"/>
+<path aria-label="because: lunch; Small: 131; maroon: regarding Northwest Borders" role="graphics-symbol" aria-roledescription="bar" d="M377.41785714285714,183.8181818181818h44.16428571428571v47.636363636363654h-44.16428571428571Z" fill="#babfe4"/>
+<path aria-label="because: elephant; Small: 142; maroon: Northwest" role="graphics-symbol" aria-roledescription="bar" d="M181.13214285714284,125.27272727272728h44.16428571428571v51.636363636363626h-44.16428571428571Z" fill="#bd24b3"/>
+<path aria-label="because: elephant; Small: 109; maroon: terribly or" role="graphics-symbol" aria-roledescription="bar" d="M181.13214285714284,194.36363636363635h44.16428571428571v39.636363636363654h-44.16428571428571Z" fill="#15ac1b"/>
+<path aria-label="because: elephant; Small: 48; maroon: regarding Northwest Borders" role="graphics-symbol" aria-roledescription="bar" d="M181.13214285714284,176.9090909090909h44.16428571428571v17.45454545454544h-44.16428571428571Z" fill="#babfe4"/>
+<path aria-label="because: cohesion; Small: 232; maroon: Northwest" role="graphics-symbol" aria-roledescription="bar" d="M82.9892857142857,64.54545454545455h44.16428571428571v84.36363636363635h-44.16428571428571Z" fill="#bd24b3"/>
+<path aria-label="because: cohesion; Small: 42; maroon: terribly or" role="graphics-symbol" aria-roledescription="bar" d="M82.9892857142857,218.72727272727272h44.16428571428571v15.27272727272728h-44.16428571428571Z" fill="#15ac1b"/>
+<path aria-label="because: cohesion; Small: 192; maroon: regarding Northwest Borders" role="graphics-symbol" aria-roledescription="bar" d="M82.9892857142857,148.90909090909088h44.16428571428571v69.81818181818183h-44.16428571428571Z" fill="#babfe4"/>
+</svg>

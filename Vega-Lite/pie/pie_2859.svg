@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="339" height="239" viewBox="0 0 339 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="6,292,0,26" text-anchor="middle" x="149.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Decentralized Clothing</text>
+<path aria-label="partially Checking: 398; deposit: Sleek" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.0,59.0A75,75,0,0,0,82.2356626894193,99.83096045425035L149.0,134.0Z" fill="#a471ea" stroke="black" stroke-width="0"/>
+<path aria-label="partially Checking: 420; deposit: Chicken" role="graphics-symbol" aria-roledescription="arc mark"  d="M217.71357864243353,103.94265297551857A75,75,0,0,0,149.0,59.0L149.0,134.0Z" fill="#39d3df" stroke="black" stroke-width="0"/>
+<path aria-label="partially Checking: 981; deposit: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M99.3969551145084,190.25422595759278A75,75,0,0,0,217.71357864243353,103.94265297551857L149.0,134.0Z" fill="#b204f7" stroke="black" stroke-width="0"/>
+<path aria-label="partially Checking: 479; deposit: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.2356626894193,99.83096045425035A75,75,0,0,0,99.3969551145084,190.25422595759278L149.0,134.0Z" fill="#e8f7d5" stroke="black" stroke-width="0"/>
+<path  d="M278.0,56.0A5,5,0,1,1,268.0,56.0A5,5,0,1,1,278.0,56.0" fill="#39d3df" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M278.0,72.0A5,5,0,1,1,268.0,72.0A5,5,0,1,1,278.0,72.0" fill="#b204f7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M278.0,88.0A5,5,0,1,1,268.0,88.0A5,5,0,1,1,278.0,88.0" fill="#e8f7d5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M278.0,104.0A5,5,0,1,1,268.0,104.0A5,5,0,1,1,278.0,104.0" fill="#a471ea" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="283,321,49,60" text-anchor="start" x="283.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Chicken</text>
+<text aria-label="283,305,65,76" text-anchor="start" x="283.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="283,332,81,92" text-anchor="start" x="283.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="283,310,97,108" text-anchor="start" x="283.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Sleek</text>
+<text aria-label="267,309,32,44" text-anchor="start" x="267.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">deposit</text>
+</svg>

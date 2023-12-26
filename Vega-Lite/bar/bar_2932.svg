@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="992" height="310" viewBox="0 0 992 310" style="background-color: rgb(255, 255, 255);">
+<text aria-label="203,220,241,301" text-anchor="end" x="215.125" y="241.5" transform="rotate(270.0, 220.125, 241.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">almanac</text>
+<text aria-label="500,517,241,284" text-anchor="end" x="512.0" y="241.5" transform="rotate(270.0, 517.0, 241.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">cadet</text>
+<text aria-label="796,813,241,275" text-anchor="end" x="808.875" y="241.5" transform="rotate(270.0, 813.875, 241.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">disk</text>
+<line aria-label="215,215,234,239" x1="215.5" y1="234.5" x2="215.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="512,512,234,239" x1="512.5" y1="234.5" x2="512.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="808,808,234,239" x1="808.5" y1="234.5" x2="808.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,987,234,234" x1="37.5" y1="234.5" x2="987.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="466,557,0,26" text-anchor="middle" x="512.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Refined</text>
+<text aria-label="27,35,223,240" text-anchor="end" x="35.5" y="239.5" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="18,35,181,198" text-anchor="end" x="35.5" y="197.83333333333331" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="10,35,140,157" text-anchor="end" x="35.5" y="156.16666666666666" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="10,35,98,115" text-anchor="end" x="35.5" y="114.5" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="10,35,56,73" text-anchor="end" x="35.5" y="72.83333333333333" font-family="Balto" font-size="16px" font-weight="bold" fill="#000" opacity="1">200</text>
+<path aria-label="hatchling psst: disk; brand: 41; Southeast: navigating" role="graphics-symbol" aria-roledescription="bar" d="M808.875,199.83333333333331h118.75v34.166666666666686h-118.75Z" fill="#d7dd18"/>
+<path aria-label="hatchling psst: disk; brand: 81; Southeast: Bacon" role="graphics-symbol" aria-roledescription="bar" d="M690.125,166.5h118.75v67.5h-118.75Z" fill="#bc9df8"/>
+<path aria-label="hatchling psst: almanac; brand: 168; Southeast: navigating" role="graphics-symbol" aria-roledescription="bar" d="M215.125,94.0h118.75v140h-118.75Z" fill="#d7dd18"/>
+<path aria-label="hatchling psst: almanac; brand: 191; Southeast: Bacon" role="graphics-symbol" aria-roledescription="bar" d="M96.375,74.83333333333334h118.75v159.16666666666666h-118.75Z" fill="#bc9df8"/>
+<path aria-label="hatchling psst: cadet; brand: 231; Southeast: navigating" role="graphics-symbol" aria-roledescription="bar" d="M512.0,41.49999999999999h118.75v192.5h-118.75Z" fill="#d7dd18"/>
+<path aria-label="hatchling psst: cadet; brand: 38; Southeast: Bacon" role="graphics-symbol" aria-roledescription="bar" d="M393.25,202.33333333333334h118.75v31.666666666666657h-118.75Z" fill="#bc9df8"/>
+</svg>

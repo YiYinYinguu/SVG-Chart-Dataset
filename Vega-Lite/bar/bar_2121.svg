@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="664" height="315" viewBox="0 0 664 315" style="background-color: rgb(255, 255, 255);">
+<line x1="159.5" y1="234.5" x2="659.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="159.5" y1="190.5" x2="659.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="159.5" y1="145.5" x2="659.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="159.5" y1="101.5" x2="659.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="159.5" y1="56.5" x2="659.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="168,182,241,262" text-anchor="end" x="178.73684210526318" y="241.5" transform="rotate(270.0, 182.73684210526318, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">age</text>
+<text aria-label="201,215,241,297" text-anchor="end" x="211.63157894736844" y="241.5" transform="rotate(270.0, 215.63157894736844, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">appetite</text>
+<text aria-label="234,248,241,283" text-anchor="end" x="244.5263157894737" y="241.5" transform="rotate(270.0, 248.5263157894737, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">brunch</text>
+<text aria-label="267,281,241,311" text-anchor="end" x="277.42105263157896" y="241.5" transform="rotate(270.0, 281.42105263157896, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">chopsticks</text>
+<text aria-label="300,314,241,304" text-anchor="end" x="310.3157894736842" y="241.5" transform="rotate(270.0, 314.3157894736842, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">housework</text>
+<text aria-label="333,347,241,311" text-anchor="end" x="343.2105263157895" y="241.5" transform="rotate(270.0, 347.2105263157895, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">inequality</text>
+<text aria-label="366,380,241,283" text-anchor="end" x="376.10526315789474" y="241.5" transform="rotate(270.0, 380.10526315789474, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">influx</text>
+<text aria-label="399,413,241,276" text-anchor="end" x="409.0" y="241.5" transform="rotate(270.0, 413.0, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">lycra</text>
+<text aria-label="431,445,241,283" text-anchor="end" x="441.8947368421052" y="241.5" transform="rotate(270.0, 445.8947368421052, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">mentor</text>
+<text aria-label="464,478,241,311" text-anchor="end" x="474.7894736842105" y="241.5" transform="rotate(270.0, 478.7894736842105, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">prosperity</text>
+<text aria-label="497,511,241,283" text-anchor="end" x="507.6842105263157" y="241.5" transform="rotate(270.0, 511.6842105263157, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">purity</text>
+<text aria-label="530,544,241,290" text-anchor="end" x="540.578947368421" y="241.5" transform="rotate(270.0, 544.578947368421, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">quality</text>
+<text aria-label="563,577,241,269" text-anchor="end" x="573.4736842105262" y="241.5" transform="rotate(270.0, 577.4736842105262, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">show</text>
+<text aria-label="596,610,241,304" text-anchor="end" x="606.3684210526316" y="241.5" transform="rotate(270.0, 610.3684210526316, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">synthesis</text>
+<text aria-label="629,643,241,290" text-anchor="end" x="639.2631578947368" y="241.5" transform="rotate(270.0, 643.2631578947368, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">tactics</text>
+<line aria-label="178,178,234,239" x1="178.5" y1="234.5" x2="178.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="211,211,234,239" x1="211.5" y1="234.5" x2="211.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="244,244,234,239" x1="244.5" y1="234.5" x2="244.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="277,277,234,239" x1="277.5" y1="234.5" x2="277.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="310,310,234,239" x1="310.5" y1="234.5" x2="310.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="343,343,234,239" x1="343.5" y1="234.5" x2="343.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="376,376,234,239" x1="376.5" y1="234.5" x2="376.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="409,409,234,239" x1="409.5" y1="234.5" x2="409.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="441,441,234,239" x1="441.5" y1="234.5" x2="441.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="474,474,234,239" x1="474.5" y1="234.5" x2="474.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="507,507,234,239" x1="507.5" y1="234.5" x2="507.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="540,540,234,239" x1="540.5" y1="234.5" x2="540.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="573,573,234,239" x1="573.5" y1="234.5" x2="573.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="606,606,234,239" x1="606.5" y1="234.5" x2="606.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="639,639,234,239" x1="639.5" y1="234.5" x2="639.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="159,659,234,234" x1="159.5" y1="234.5" x2="659.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Books circuit</text>
+<text aria-label="145,152,225,239" text-anchor="end" x="152.5" y="238.5" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="138,152,181,195" text-anchor="end" x="152.5" y="194.05555555555557" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="138,152,136,150" text-anchor="end" x="152.5" y="149.61111111111111" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="138,152,92,106" text-anchor="end" x="152.5" y="105.16666666666667" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="138,152,47,61" text-anchor="end" x="152.5" y="60.72222222222223" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">40</text>
+<line aria-label="154,159,234,234" x1="159.5" y1="234.5" x2="154.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="154,159,190,190" x1="159.5" y1="190.5" x2="154.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="154,159,145,145" x1="159.5" y1="145.5" x2="154.5" y2="145.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="154,159,101,101" x1="159.5" y1="101.5" x2="154.5" y2="101.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="154,159,56,56" x1="159.5" y1="56.5" x2="154.5" y2="56.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="119,131,107,161" text-anchor="middle" x="133.2529296875" y="134.5" transform="rotate(-90.0, 131.2529296875, 134.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Exclusive</text>
+<line aria-label="159,159,34,234" x1="159.5" y1="234.5" x2="159.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="warren: housework; Exclusive: 17; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M297.1578947368421,158.44444444444446h26.31578947368421v75.55555555555556h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: appetite; Exclusive: 1; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M198.47368421052633,229.55555555555554h26.31578947368421v4.444444444444457h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: chopsticks; Exclusive: 13; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M264.2631578947369,176.22222222222223h26.31578947368421v57.77777777777777h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: prosperity; Exclusive: 7; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M461.63157894736844,202.88888888888889h26.31578947368421v31.111111111111114h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: show; Exclusive: 42; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M560.3157894736842,47.33333333333333h26.31578947368421v186.66666666666666h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: synthesis; Exclusive: 32; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M593.2105263157895,91.77777777777777h26.31578947368421v142.22222222222223h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: brunch; Exclusive: 12; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M231.3684210526316,180.66666666666669h26.31578947368421v53.333333333333314h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: mentor; Exclusive: 26; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M428.7368421052631,118.44444444444446h26.31578947368421v115.55555555555554h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: quality; Exclusive: 26; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M527.421052631579,118.44444444444446h26.31578947368421v115.55555555555554h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: age; Exclusive: 8; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M165.57894736842107,198.44444444444443h26.31578947368421v35.55555555555557h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: influx; Exclusive: 13; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M362.9473684210526,176.22222222222223h26.31578947368421v57.77777777777777h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: lycra; Exclusive: 40; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M395.8421052631579,56.22222222222223h26.31578947368421v177.77777777777777h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: purity; Exclusive: 24; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M494.52631578947364,127.33333333333333h26.31578947368421v106.66666666666667h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: inequality; Exclusive: 9; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M330.0526315789474,194.0h26.31578947368421v40h-26.31578947368421Z" fill="#ea852a"/>
+<path aria-label="warren: tactics; Exclusive: 11; Northeast Hybrid: brr Tenge Lead" role="graphics-symbol" aria-roledescription="bar" d="M626.1052631578947,185.11111111111111h26.31578947368421v48.888888888888886h-26.31578947368421Z" fill="#ea852a"/>
+<path  d="M6.0,51.0h10v10h-10Z" fill="#ea852a" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">brr Tenge Lead</text>
+<text aria-label="5,101,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northeast Hybrid</text>
+</svg>

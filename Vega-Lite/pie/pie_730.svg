@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="33,176,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">consectetur</text>
+<path aria-label="up Sleek: 468; among Internal: directional" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,105.5045346292633,208.9983029461859L105.0,134.0Z" fill="#c6ffe8" stroke="white" stroke-width="3"/>
+<path aria-label="up Sleek: 226; among Internal: McGlynn" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.90456061133062,130.2175669703883A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#b984fb" stroke="white" stroke-width="3"/>
+<path aria-label="up Sleek: 240; among Internal: Redlands" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.5045346292633,208.9983029461859A75,75,0,0,0,179.90456061133062,130.2175669703883L105.0,134.0Z" fill="#8144fa" stroke="white" stroke-width="3"/>
+<text aria-label="9,21,129,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.000509117584244" y="136.30272249001732" font-family="avenir" font-size="7px" fill="#c6ffe8" opacity="1">468</text>
+<text aria-label="161,173,63,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="167.0141001418304" y="70.77537747446114" font-family="avenir" font-size="7px" fill="#b984fb" opacity="1">226</text>
+<text aria-label="164,176,190,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.43284314563738" y="197.79436089060567" font-family="avenir" font-size="7px" fill="#8144fa" opacity="1">240</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#b984fb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#8144fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#c6ffe8" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">McGlynn</text>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Redlands</text>
+<text aria-label="239,299,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">directional</text>
+</svg>

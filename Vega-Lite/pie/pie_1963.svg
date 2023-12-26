@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="270" viewBox="0 0 289 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">program</text>
+<path aria-label="hm: 174; indigo around Convertible: Nihonium" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.64330304687712,234.71978052646546A75,75,0,0,0,150.11181112514026,105.08402135481997L105.0,165.0Z" fill="#ee78ec" stroke="black" stroke-width="0"/>
+<path aria-label="hm: 70; indigo around Convertible: madden" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.70682575215211,231.70066116618892A75,75,0,0,0,132.64330304687712,234.71978052646546L105.0,165.0Z" fill="#ff8c0f" stroke="black" stroke-width="0"/>
+<path aria-label="hm: 41; indigo around Convertible: vortals" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,69.09276529820929,99.15419150719981L105.0,165.0Z" fill="#3a2cd6" stroke="black" stroke-width="0"/>
+<path aria-label="hm: 178; indigo around Convertible: that" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.09276529820929,99.15419150719981A75,75,0,0,0,70.70682575215211,231.70066116618892L105.0,165.0Z" fill="#fd2d9b" stroke="black" stroke-width="0"/>
+<path aria-label="hm: 53; indigo around Convertible: Jersey" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.11181112514026,105.08402135481997A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#1e3683" stroke="black" stroke-width="0"/>
+<text aria-label="185,202,170,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.1938630731351" y="180.0189346487458" font-family="serif" font-size="10px" fill="#ee78ec" opacity="1">174</text>
+<text aria-label="95,106,247,258" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.61811539033773" y="257.89326497167406" font-family="serif" font-size="10px" fill="#ff8c0f" opacity="1">70</text>
+<text aria-label="77,88,70,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="82.76654904454124" y="80.78948653624833" font-family="serif" font-size="10px" fill="#3a2cd6" opacity="1">41</text>
+<text aria-label="6,23,159,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.006672175806202" y="169.09587733217975" font-family="serif" font-size="10px" fill="#fd2d9b" opacity="1">178</text>
+<text aria-label="128,139,72,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.5400972871551" y="82.64507719621719" font-family="serif" font-size="10px" fill="#1e3683" opacity="1">53</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#1e3683" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,40.25A5,5,0,1,1,63.0,40.25A5,5,0,1,1,73.0,40.25" fill="#ee78ec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,40.25A5,5,0,1,1,130.0,40.25A5,5,0,1,1,140.0,40.25" fill="#ff8c0f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M197.0,40.25A5,5,0,1,1,187.0,40.25A5,5,0,1,1,197.0,40.25" fill="#fd2d9b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M244.0,40.25A5,5,0,1,1,234.0,40.25A5,5,0,1,1,244.0,40.25" fill="#3a2cd6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Jersey</text>
+<text aria-label="78,122,33,44" text-anchor="start" x="78.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Nihonium</text>
+<text aria-label="145,178,33,44" text-anchor="start" x="145.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">madden</text>
+<text aria-label="202,224,33,44" text-anchor="start" x="202.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">that</text>
+<text aria-label="249,287,33,44" text-anchor="start" x="249.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">vortals</text>
+</svg>

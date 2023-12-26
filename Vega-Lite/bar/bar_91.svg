@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="478" height="295" viewBox="0 0 478 295" style="background-color: rgb(255, 255, 255);">
+<line x1="83.5" y1="34.5" x2="83.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="154.5" y1="34.5" x2="154.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="225.5" y1="34.5" x2="225.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="295.5" y1="34.5" x2="295.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="366.5" y1="34.5" x2="366.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="437.5" y1="34.5" x2="437.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="72,87,241,279" text-anchor="end" x="83.41666666666666" y="241.5" transform="rotate(270.0, 87.41666666666666, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">bower</text>
+<text aria-label="143,158,241,279" text-anchor="end" x="154.25" y="241.5" transform="rotate(270.0, 158.25, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">cadet</text>
+<text aria-label="214,229,241,294" text-anchor="end" x="225.08333333333331" y="241.5" transform="rotate(270.0, 229.08333333333331, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">carport</text>
+<text aria-label="284,299,241,279" text-anchor="end" x="295.91666666666663" y="241.5" transform="rotate(270.0, 299.91666666666663, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">force</text>
+<text aria-label="355,370,241,286" text-anchor="end" x="366.75" y="241.5" transform="rotate(270.0, 370.75, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">jackal</text>
+<text aria-label="426,441,241,279" text-anchor="end" x="437.58333333333326" y="241.5" transform="rotate(270.0, 441.58333333333326, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">thorn</text>
+<line aria-label="83,83,234,239" x1="83.5" y1="234.5" x2="83.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="154,154,234,239" x1="154.5" y1="234.5" x2="154.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="225,225,234,239" x1="225.5" y1="234.5" x2="225.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="295,295,234,239" x1="295.5" y1="234.5" x2="295.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="366,366,234,239" x1="366.5" y1="234.5" x2="366.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="437,437,234,239" x1="437.5" y1="234.5" x2="437.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,473,234,234" x1="48.5" y1="234.5" x2="473.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="395,473,0,26" text-anchor="end" x="473.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">female</text>
+<text aria-label="39,46,224,239" text-anchor="end" x="46.5" y="238.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="31,46,179,194" text-anchor="end" x="46.5" y="193.04545454545453" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="24,46,133,148" text-anchor="end" x="46.5" y="147.59090909090907" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="24,46,88,103" text-anchor="end" x="46.5" y="102.13636363636365" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="24,46,42,57" text-anchor="end" x="46.5" y="56.68181818181819" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="2,14,50,218" text-anchor="middle" x="16.5986328125" y="134.5" transform="rotate(-90.0, 14.5986328125, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Connecticut Officer Regional</text>
+<path aria-label="Movies once: cadet; Connecticut Officer Regional: 78; strategic: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M135.125,143.09090909090907h38.25000000000001v70.90909090909092h-38.25000000000001Z" fill="#d21bd1"/>
+<path aria-label="Movies once: cadet; Connecticut Officer Regional: 13; strategic: via repurpose" role="graphics-symbol" aria-roledescription="bar" d="M135.125,222.1818181818182h38.25000000000001v11.818181818181813h-38.25000000000001Z" fill="#1cd50d"/>
+<path aria-label="Movies once: cadet; Connecticut Officer Regional: 9; strategic: Minivan transition interactive" role="graphics-symbol" aria-roledescription="bar" d="M135.125,214.0h38.25000000000001v8.181818181818187h-38.25000000000001Z" fill="#f3ff69"/>
+<path aria-label="Movies once: bower; Connecticut Officer Regional: 151; strategic: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M64.29166666666666,43.09090909090908h38.25000000000001v137.27272727272728h-38.25000000000001Z" fill="#d21bd1"/>
+<path aria-label="Movies once: bower; Connecticut Officer Regional: 39; strategic: via repurpose" role="graphics-symbol" aria-roledescription="bar" d="M64.29166666666666,198.54545454545456h38.25000000000001v35.45454545454544h-38.25000000000001Z" fill="#1cd50d"/>
+<path aria-label="Movies once: bower; Connecticut Officer Regional: 20; strategic: Minivan transition interactive" role="graphics-symbol" aria-roledescription="bar" d="M64.29166666666666,180.36363636363637h38.25000000000001v18.181818181818187h-38.25000000000001Z" fill="#f3ff69"/>
+<path aria-label="Movies once: carport; Connecticut Officer Regional: 10; strategic: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M205.95833333333331,103.0909090909091h38.25000000000001v9.09090909090908h-38.25000000000001Z" fill="#d21bd1"/>
+<path aria-label="Movies once: carport; Connecticut Officer Regional: 124; strategic: via repurpose" role="graphics-symbol" aria-roledescription="bar" d="M205.95833333333331,121.27272727272728h38.25000000000001v112.72727272727272h-38.25000000000001Z" fill="#1cd50d"/>
+<path aria-label="Movies once: carport; Connecticut Officer Regional: 10; strategic: Minivan transition interactive" role="graphics-symbol" aria-roledescription="bar" d="M205.95833333333331,112.18181818181817h38.25000000000001v9.090909090909108h-38.25000000000001Z" fill="#f3ff69"/>
+<path aria-label="Movies once: jackal; Connecticut Officer Regional: 15; strategic: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M347.625,34.0h38.25000000000001v13.636363636363647h-38.25000000000001Z" fill="#d21bd1"/>
+<path aria-label="Movies once: jackal; Connecticut Officer Regional: 95; strategic: via repurpose" role="graphics-symbol" aria-roledescription="bar" d="M347.625,147.63636363636363h38.25000000000001v86.36363636363637h-38.25000000000001Z" fill="#1cd50d"/>
+<path aria-label="Movies once: jackal; Connecticut Officer Regional: 110; strategic: Minivan transition interactive" role="graphics-symbol" aria-roledescription="bar" d="M347.625,47.63636363636365h38.25000000000001v99.99999999999997h-38.25000000000001Z" fill="#f3ff69"/>
+<path aria-label="Movies once: force; Connecticut Officer Regional: 76; strategic: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M276.79166666666663,70.36363636363635h38.25000000000001v69.09090909090912h-38.25000000000001Z" fill="#d21bd1"/>
+<path aria-label="Movies once: force; Connecticut Officer Regional: 93; strategic: via repurpose" role="graphics-symbol" aria-roledescription="bar" d="M276.79166666666663,149.45454545454544h38.25000000000001v84.54545454545455h-38.25000000000001Z" fill="#1cd50d"/>
+<path aria-label="Movies once: force; Connecticut Officer Regional: 11; strategic: Minivan transition interactive" role="graphics-symbol" aria-roledescription="bar" d="M276.79166666666663,139.45454545454547h38.25000000000001v9.999999999999986h-38.25000000000001Z" fill="#f3ff69"/>
+<path aria-label="Movies once: thorn; Connecticut Officer Regional: 55; strategic: Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M418.45833333333326,113.0909090909091h38.25000000000001v50h-38.25000000000001Z" fill="#d21bd1"/>
+<path aria-label="Movies once: thorn; Connecticut Officer Regional: 33; strategic: via repurpose" role="graphics-symbol" aria-roledescription="bar" d="M418.45833333333326,204.0h38.25000000000001v30h-38.25000000000001Z" fill="#1cd50d"/>
+<path aria-label="Movies once: thorn; Connecticut Officer Regional: 45; strategic: Minivan transition interactive" role="graphics-symbol" aria-roledescription="bar" d="M418.45833333333326,163.0909090909091h38.25000000000001v40.90909090909091h-38.25000000000001Z" fill="#f3ff69"/>
+</svg>

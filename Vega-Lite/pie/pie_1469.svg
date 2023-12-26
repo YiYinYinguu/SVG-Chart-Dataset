@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="359" height="239" viewBox="0 0 359 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,304,0,26" text-anchor="middle" x="155.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">functionalities fuchsia</text>
+<path aria-label="azure yet: 181; Alaska retail: Kids" role="graphics-symbol" aria-roledescription="arc mark"  d="M81.94496178233341,117.03057481777084A75,75,0,0,0,113.64671827087312,196.5692104012146L129.63665387280219,172.37578237941162A46,46,0,0,1,110.19290989316448,123.59208588823279Z" fill="#0bc9f1" stroke="white" stroke-width="0"/>
+<path aria-label="azure yet: 555; Alaska retail: Decentralized" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.64671827087312,196.5692104012146A75,75,0,1,0,155.0,59.0L155.0,88.0A46,46,0,1,1,129.63665387280219,172.37578237941162Z" fill="#6810bc" stroke="white" stroke-width="0"/>
+<path aria-label="azure yet: 200; Alaska retail: online" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.0,59.0A75,75,0,0,0,81.94496178233341,117.03057481777084L110.19290989316448,123.59208588823279A46,46,0,0,1,155.0,88.0Z" fill="#27de52" stroke="white" stroke-width="0"/>
+<text aria-label="62,80,159,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="71.3959512914085" y="170.32211037031504" font-family="serif" font-size="11px" fill="#0bc9f1" opacity="1">181</text>
+<text aria-label="232,250,151,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="241.19012334174715" y="162.90873671822715" font-family="serif" font-size="11px" fill="#6810bc" opacity="1">555</text>
+<text aria-label="90,108,55,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.02097678451663" y="66.52767238241401" font-family="serif" font-size="11px" fill="#27de52" opacity="1">200</text>
+<path  d="M284.0,40.0A5,5,0,1,1,274.0,40.0A5,5,0,1,1,284.0,40.0" fill="#6810bc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M284.0,56.0A5,5,0,1,1,274.0,56.0A5,5,0,1,1,284.0,56.0" fill="#0bc9f1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M284.0,72.0A5,5,0,1,1,274.0,72.0A5,5,0,1,1,284.0,72.0" fill="#27de52" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="289,360,33,44" text-anchor="start" x="289.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Decentralized</text>
+<text aria-label="289,311,49,60" text-anchor="start" x="289.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Kids</text>
+<text aria-label="289,322,65,76" text-anchor="start" x="289.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">online</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="285" height="239" viewBox="0 0 285 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="60,151,0,26" text-anchor="middle" x="106.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Western</text>
+<path aria-label="Van Rap: 239; second North Bespoke: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.83621510757379,191.49130216681561A75,75,0,0,0,137.44173818851726,202.09124099092875L106.0,134.0Z" fill="#8ca3ec" stroke="white" stroke-width="1"/>
+<path aria-label="Van Rap: 327; second North Bespoke: till" role="graphics-symbol" aria-roledescription="arc mark"  d="M47.33106962136572,87.2778788128475A75,75,0,0,0,57.83621510757379,191.49130216681561L106.0,134.0Z" fill="#5bfdd1" stroke="white" stroke-width="1"/>
+<path aria-label="Van Rap: 384; second North Bespoke: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.44173818851726,202.09124099092875A75,75,0,0,0,164.44738482494324,87.00102972271631L106.0,134.0Z" fill="#c3dba2" stroke="white" stroke-width="1"/>
+<path aria-label="Van Rap: 101; second North Bespoke: Shirt" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.44738482494324,87.00102972271631A75,75,0,0,0,136.31076993361117,65.39783366371225L106.0,134.0Z" fill="#ec7f0a" stroke="white" stroke-width="1"/>
+<path aria-label="Van Rap: 88; second North Bespoke: Arkansas" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.31076993361117,65.39783366371225A75,75,0,0,0,106.0,59.0L106.0,134.0Z" fill="#6fafe3" stroke="white" stroke-width="1"/>
+<path aria-label="Van Rap: 190; second North Bespoke: yet" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.99999999999999,59.0A75,75,0,0,0,47.33106962136572,87.2778788128475L106.0,134.0Z" fill="#dbdbe5" stroke="white" stroke-width="1"/>
+<text aria-label="82,105,213,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.12082504315408" y="227.21258432723852" font-family="serif" font-size="14px" fill="#8ca3ec" opacity="1">239</text>
+<text aria-label="5,27,133,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.453810816078217" y="147.02662742320126" font-family="serif" font-size="14px" fill="#5bfdd1" opacity="1">327</text>
+<text aria-label="182,204,144,159" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.62015761068162" y="158.5598633331866" font-family="serif" font-size="14px" fill="#c3dba2" opacity="1">384</text>
+<text aria-label="149,172,52,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.8096243537448" y="66.6143916590929" font-family="serif" font-size="14px" fill="#ec7f0a" opacity="1">101</text>
+<text aria-label="117,132,35,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="124.58717347636431" y="49.940264694018424" font-family="serif" font-size="14px" fill="#6fafe3" opacity="1">88</text>
+<text aria-label="55,78,42,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="66.92308282510288" y="56.9259934127699" font-family="serif" font-size="14px" fill="#dbdbe5" opacity="1">190</text>
+<path  d="M235.0,40.0A5,5,0,1,1,225.0,40.0A5,5,0,1,1,235.0,40.0" fill="#6fafe3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M235.0,56.0A5,5,0,1,1,225.0,56.0A5,5,0,1,1,235.0,56.0" fill="#ec7f0a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M235.0,72.0A5,5,0,1,1,225.0,72.0A5,5,0,1,1,235.0,72.0" fill="#c3dba2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M235.0,88.0A5,5,0,1,1,225.0,88.0A5,5,0,1,1,235.0,88.0" fill="#8ca3ec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M235.0,104.0A5,5,0,1,1,225.0,104.0A5,5,0,1,1,235.0,104.0" fill="#5bfdd1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M235.0,120.0A5,5,0,1,1,225.0,120.0A5,5,0,1,1,235.0,120.0" fill="#dbdbe5" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="240,284,33,44" text-anchor="start" x="240.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Arkansas</text>
+<text aria-label="240,267,49,60" text-anchor="start" x="240.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Shirt</text>
+<text aria-label="240,273,65,76" text-anchor="start" x="240.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="240,278,81,92" text-anchor="start" x="240.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="240,262,97,108" text-anchor="start" x="240.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">till</text>
+<text aria-label="240,256,113,124" text-anchor="start" x="240.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">yet</text>
+</svg>

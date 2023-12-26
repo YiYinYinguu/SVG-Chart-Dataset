@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="695" height="322" viewBox="0 0 695 322" style="background-color: rgb(255, 255, 255);">
+<line x1="155.5" y1="240.5" x2="690.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="155.5" y1="190.5" x2="690.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="155.5" y1="140.5" x2="690.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="155.5" y1="90.5" x2="690.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="155.5" y1="40.5" x2="690.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="196,210,247,289" text-anchor="end" x="206.77419354838713" y="247.5" transform="rotate(270.0, 210.77419354838713, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">airbus</text>
+<text aria-label="283,297,247,317" text-anchor="end" x="293.06451612903226" y="247.5" transform="rotate(270.0, 297.06451612903226, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">definition</text>
+<text aria-label="369,383,247,289" text-anchor="end" x="379.35483870967744" y="247.5" transform="rotate(270.0, 383.35483870967744, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">purity</text>
+<text aria-label="455,469,247,310" text-anchor="end" x="465.64516129032256" y="247.5" transform="rotate(270.0, 469.64516129032256, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">sociology</text>
+<text aria-label="541,555,247,275" text-anchor="end" x="551.9354838709677" y="247.5" transform="rotate(270.0, 555.9354838709677, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">void</text>
+<text aria-label="628,642,247,275" text-anchor="end" x="638.2258064516128" y="247.5" transform="rotate(270.0, 642.2258064516128, 247.5)" font-family="serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">yoke</text>
+<line aria-label="206,206,240,245" x1="206.5" y1="240.5" x2="206.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="293,293,240,245" x1="293.5" y1="240.5" x2="293.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="379,379,240,245" x1="379.5" y1="240.5" x2="379.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="465,465,240,245" x1="465.5" y1="240.5" x2="465.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="551,551,240,245" x1="551.5" y1="240.5" x2="551.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="638,638,240,245" x1="638.5" y1="240.5" x2="638.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="155,690,240,240" x1="155.5" y1="240.5" x2="690.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="495,690,0,26" text-anchor="end" x="690.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">invoice invoice</text>
+<text aria-label="146,153,231,245" text-anchor="end" x="153.5" y="244.5" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="132,153,181,195" text-anchor="end" x="153.5" y="194.5" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="132,153,131,145" text-anchor="end" x="153.5" y="144.5" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="132,153,81,95" text-anchor="end" x="153.5" y="94.5" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="132,153,31,45" text-anchor="end" x="153.5" y="44.5" font-family="serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="155,155,40,240" x1="155.5" y1="240.5" x2="155.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Avon: airbus; Denmark: 234; West: unnecessarily Auto" role="graphics-symbol" aria-roledescription="bar" d="M206.77419354838713,181.5h34.516129032258064v58.5h-34.516129032258064Z" fill="#9cc202"/>
+<path aria-label="Avon: airbus; Denmark: 730; West: leading input" role="graphics-symbol" aria-roledescription="bar" d="M172.25806451612905,57.5h34.516129032258064v182.5h-34.516129032258064Z" fill="#337bff"/>
+<path aria-label="Avon: purity; Denmark: 581; West: unnecessarily Auto" role="graphics-symbol" aria-roledescription="bar" d="M379.35483870967744,94.75h34.516129032258064v145.25h-34.516129032258064Z" fill="#9cc202"/>
+<path aria-label="Avon: purity; Denmark: 341; West: leading input" role="graphics-symbol" aria-roledescription="bar" d="M344.8387096774194,154.75h34.516129032258064v85.25h-34.516129032258064Z" fill="#337bff"/>
+<path aria-label="Avon: definition; Denmark: 267; West: unnecessarily Auto" role="graphics-symbol" aria-roledescription="bar" d="M293.06451612903226,173.25h34.516129032258064v66.75h-34.516129032258064Z" fill="#9cc202"/>
+<path aria-label="Avon: definition; Denmark: 579; West: leading input" role="graphics-symbol" aria-roledescription="bar" d="M258.5483870967742,95.25h34.516129032258064v144.75h-34.516129032258064Z" fill="#337bff"/>
+<path aria-label="Avon: void; Denmark: 63; West: unnecessarily Auto" role="graphics-symbol" aria-roledescription="bar" d="M551.9354838709677,224.25h34.516129032258064v15.75h-34.516129032258064Z" fill="#9cc202"/>
+<path aria-label="Avon: void; Denmark: 187; West: leading input" role="graphics-symbol" aria-roledescription="bar" d="M517.4193548387096,193.25h34.516129032258064v46.75h-34.516129032258064Z" fill="#337bff"/>
+<path aria-label="Avon: sociology; Denmark: 433; West: unnecessarily Auto" role="graphics-symbol" aria-roledescription="bar" d="M465.64516129032256,131.75h34.516129032258064v108.25h-34.516129032258064Z" fill="#9cc202"/>
+<path aria-label="Avon: sociology; Denmark: 4; West: leading input" role="graphics-symbol" aria-roledescription="bar" d="M431.1290322580645,239.0h34.516129032258064v1h-34.516129032258064Z" fill="#337bff"/>
+<path aria-label="Avon: yoke; Denmark: 430; West: unnecessarily Auto" role="graphics-symbol" aria-roledescription="bar" d="M638.2258064516128,132.5h34.516129032258064v107.5h-34.516129032258064Z" fill="#9cc202"/>
+<path aria-label="Avon: yoke; Denmark: 263; West: leading input" role="graphics-symbol" aria-roledescription="bar" d="M603.7096774193548,174.25h34.516129032258064v65.75h-34.516129032258064Z" fill="#337bff"/>
+<text aria-label="213,234,162,177" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="224.03225806451616" y="176.1375" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">234</text>
+<text aria-label="178,200,38,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.51612903225808" y="52.1375" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">730</text>
+<text aria-label="385,407,76,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="396.61290322580646" y="89.38750000000002" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">581</text>
+<text aria-label="351,372,136,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="362.0967741935484" y="149.3875" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">341</text>
+<text aria-label="299,321,154,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="310.32258064516134" y="167.8875" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">267</text>
+<text aria-label="265,286,76,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="275.80645161290323" y="89.8875" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">579</text>
+<text aria-label="562,576,205,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="569.1935483870967" y="218.8875" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">63</text>
+<text aria-label="523,545,174,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="534.6774193548387" y="187.8875" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">187</text>
+<text aria-label="472,493,113,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="482.9032258064516" y="126.3875" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">433</text>
+<text aria-label="444,451,220,234" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="448.38709677419354" y="233.6375" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">4</text>
+<text aria-label="644,666,113,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="655.4838709677418" y="127.1375" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">430</text>
+<text aria-label="610,631,155,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="620.9677419354838" y="168.8875" font-family="serif" font-size="13.374999999999996px" fill="#000" opacity="1">263</text>
+<path  d="M6.0,41.0h10v10h-10Z" fill="#9cc202" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,54.0h10v10h-10Z" fill="#337bff" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,120,39,50" text-anchor="start" x="21.0" y="49.0" font-family="serif" font-size="10px" fill="#000" opacity="1">unnecessarily Auto</text>
+<text aria-label="21,92,52,63" text-anchor="start" x="21.0" y="62.0" font-family="serif" font-size="10px" fill="#000" opacity="1">leading input</text>
+</svg>

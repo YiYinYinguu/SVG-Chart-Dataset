@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="166,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">API</text>
+<path aria-label="Northwest: 4; Franc Bicycle Whittier: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.359459042184,82.32748106932351A75,75,0,0,0,105.0,59.0L105.0,85.0A49,49,0,0,1,140.51484657422688,100.24062096529136Z" fill="#6501fb" stroke="black" stroke-width="2"/>
+<path aria-label="Northwest: 11; Franc Bicycle Whittier: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M112.58762414905742,208.61519925439214A75,75,0,0,0,159.359459042184,82.32748106932351L140.51484657422688,100.24062096529136A49,49,0,0,1,109.95724777738418,182.74859684620287Z" fill="#c5e634" stroke="black" stroke-width="2"/>
+<path aria-label="Northwest: 16; Franc Bicycle Whittier: parse" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,112.58762414905742,208.61519925439214L109.95724777738418,182.74859684620287A49,49,0,1,1,104.99999999999999,85.0Z" fill="#4f9da7" stroke="black" stroke-width="2"/>
+<text aria-label="137,143,43,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="140.49202696019867" y="54.29379695417924" font-family="avenir" font-size="11px" fill="#6501fb" opacity="1">4</text>
+<text aria-label="183,195,157,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.39769189323727" y="168.25747275603382" font-family="avenir" font-size="11px" fill="#c5e634" opacity="1">11</text>
+<text aria-label="9,21,130,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.115514354605253" y="141.55842519548412" font-family="avenir" font-size="11px" fill="#4f9da7" opacity="1">16</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#6501fb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#c5e634" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M144.0,274.25A5,5,0,1,1,134.0,274.25A5,5,0,1,1,144.0,274.25" fill="#4f9da7" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="88,121,267,278" text-anchor="start" x="88.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="149,176,267,278" text-anchor="start" x="149.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">parse</text>
+<text aria-label="5,137,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Franc Bicycle Whittier</text>
+</svg>

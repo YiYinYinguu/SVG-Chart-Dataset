@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="231" height="270" viewBox="0 0 231 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Northwest Product</text>
+<path aria-label="redundant Baht: 267; purple cyan: Classical" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.89434923575297,208.47073621008764A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#25b51e" stroke="white" stroke-width="4"/>
+<path aria-label="redundant Baht: 255; purple cyan: attitude" role="graphics-symbol" aria-roledescription="arc mark"  d="M77.62765346288815,64.17339586481195A75,75,0,0,0,113.89434923575297,208.47073621008764L105.0,134.0Z" fill="#ac92ea" stroke="white" stroke-width="4"/>
+<path aria-label="redundant Baht: 33; purple cyan: troubled" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,77.62765346288815,64.17339586481195L105.0,134.0Z" fill="#fc40df" stroke="white" stroke-width="4"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#25b51e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,258.25A5,5,0,1,1,78.0,258.25A5,5,0,1,1,88.0,258.25" fill="#ac92ea" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,258.25A5,5,0,1,1,145.0,258.25A5,5,0,1,1,155.0,258.25" fill="#fc40df" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Classical</text>
+<text aria-label="93,137,251,262" text-anchor="start" x="93.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">attitude</text>
+<text aria-label="160,204,251,262" text-anchor="start" x="160.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">troubled</text>
+</svg>

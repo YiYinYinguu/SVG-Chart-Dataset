@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="350" height="239" viewBox="0 0 350 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="33,345,0,26" text-anchor="middle" x="189.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cambridgeshire Passenger</text>
+<path aria-label="Cruiser: 84; Ergonomic: Supervisor" role="graphics-symbol" aria-roledescription="arc mark"  d="M250.39482682716394,177.07754912785256A75,75,0,0,0,257.3772098799294,164.81488551067625L241.87837564047874,157.8301781282563A58,58,0,0,1,236.47866607967345,167.31330465887265Z" fill="#56ba4d" stroke="white" stroke-width="1"/>
+<path aria-label="Cruiser: 301; Ergonomic: knavishly" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.786004921523,110.47199742938952A75,75,0,0,0,118.70541474305564,160.14710851230362L134.63885406796302,154.22043058284814A58,58,0,0,1,133.92784380597777,115.80501134539456Z" fill="#ce125f" stroke="white" stroke-width="1"/>
+<path aria-label="Cruiser: 554; Ergonomic: Executive" role="graphics-symbol" aria-roledescription="arc mark"  d="M260.0000197265794,109.83396600959655A75,75,0,0,0,189.0,59.0L189.0,76.0A58,58,0,0,1,243.9066819218881,115.31160038075467Z" fill="#1b44ba" stroke="white" stroke-width="1"/>
+<path aria-label="Cruiser: 335; Ergonomic: Pizza" role="graphics-symbol" aria-roledescription="arc mark"  d="M257.3772098799294,164.81488551067625A75,75,0,0,0,260.0000197265794,109.83396600959655L243.9066819218881,115.31160038075467A58,58,0,0,1,241.87837564047874,157.8301781282563Z" fill="#a074ab" stroke="white" stroke-width="1"/>
+<path aria-label="Cruiser: 414; Ergonomic: azure" role="graphics-symbol" aria-roledescription="arc mark"  d="M191.27088640251003,208.96561261636495A75,75,0,0,0,250.39482682716394,177.07754912785256L236.47866607967345,167.31330465887265A58,58,0,0,1,190.75615215127442,191.97340708998888Z" fill="#23d436" stroke="white" stroke-width="1"/>
+<path aria-label="Cruiser: 558; Ergonomic: sievert" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,117.786004921523,110.47199742938952L133.92784380597777,115.80501134539456A58,58,0,0,1,189.0,76.0Z" fill="#bfce7b" stroke="white" stroke-width="1"/>
+<path aria-label="Cruiser: 555; Ergonomic: henry" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.70541474305564,160.14710851230362A75,75,0,0,0,191.27088640251003,208.96561261636495L190.75615215127442,191.97340708998888A58,58,0,0,1,134.63885406796302,154.22043058284814Z" fill="#aaef45" stroke="white" stroke-width="1"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#1b44ba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#a074ab" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#56ba4d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#23d436" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#aaef45" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#ce125f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#bfce7b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Executive</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Pizza</text>
+<text aria-label="21,76,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Supervisor</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">azure</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">henry</text>
+<text aria-label="21,70,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">knavishly</text>
+<text aria-label="21,59,129,140" text-anchor="start" x="21.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">sievert</text>
+</svg>

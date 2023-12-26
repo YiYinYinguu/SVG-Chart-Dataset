@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="320" height="239" viewBox="0 0 320 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="143,286,0,26" text-anchor="middle" x="215.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">brr Hyundai</text>
+<path aria-label="Mexican: 146; Cerritos Oregon: sans" role="graphics-symbol" aria-roledescription="arc mark"  d="M215.0,59.0A75,75,0,0,0,155.49252945610462,88.35067416196135L179.29551767366277,106.61040449717682A45,45,0,0,1,215.0,89.0Z" fill="#0ab922" stroke="white" stroke-width="2"/>
+<path aria-label="Mexican: 337; Cerritos Oregon: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M212.88182510292876,208.97008293383044A75,75,0,0,0,280.2247759850352,96.97664794076611L254.1348655910211,111.78598876445966A45,45,0,0,1,213.72909506175725,178.98204976029828Z" fill="#21db4e" stroke="white" stroke-width="2"/>
+<path aria-label="Mexican: 168; Cerritos Oregon: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M280.2247759850352,96.97664794076611A75,75,0,0,0,215.0,59.0L215.0,89.0A45,45,0,0,1,254.1348655910211,111.78598876445966Z" fill="#b69ba4" stroke="white" stroke-width="2"/>
+<path aria-label="Mexican: 350; Cerritos Oregon: Product" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.49252945610462,88.35067416196135A75,75,0,0,0,212.88182510292876,208.97008293383044L213.72909506175725,178.98204976029828A45,45,0,0,1,179.29551767366277,106.61040449717682Z" fill="#5a6083" stroke="white" stroke-width="2"/>
+<text aria-label="169,181,48,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="175.18874022659028" y="55.28405612734193" font-family="sans-serif" font-size="7px" fill="#0ab922" opacity="1">146</text>
+<text aria-label="286,298,175,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="292.1296968078548" y="182.37898091084352" font-family="sans-serif" font-size="7px" fill="#21db4e" opacity="1">337</text>
+<text aria-label="254,266,51,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="260.28508572147535" y="58.22300461448367" font-family="sans-serif" font-size="7px" fill="#b69ba4" opacity="1">168</text>
+<text aria-label="127,139,167,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.72986833124514" y="174.6673725321911" font-family="sans-serif" font-size="7px" fill="#5a6083" opacity="1">350</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#b69ba4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#21db4e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#5a6083" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#0ab922" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Product</text>
+<text aria-label="21,43,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">sans</text>
+<text aria-label="5,95,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Cerritos Oregon</text>
+</svg>

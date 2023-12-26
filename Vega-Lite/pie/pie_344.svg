@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="270" viewBox="0 0 309 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,304,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southwest Configuration</text>
+<path aria-label="Southwest generating: 1; dynamite Ghana normalize: Colombian" role="graphics-symbol" aria-roledescription="arc mark"  d="M180.0,134.0A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#baf8d4" stroke="black" stroke-width="0"/>
+<path aria-label="Southwest generating: 1; dynamite Ghana normalize: orchid" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.0,134.0L105.0,134.0Z" fill="#3d0f2c" stroke="black" stroke-width="0"/>
+<path aria-label="Southwest generating: 1; dynamite Ghana normalize: Union" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.0,209.0A75,75,0,0,0,180.0,134.0L105.0,134.0Z" fill="#bdfbf9" stroke="black" stroke-width="0"/>
+<path aria-label="Southwest generating: 1; dynamite Ghana normalize: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.0,134.0A75,75,0,0,0,105.0,209.0L105.0,134.0Z" fill="#bfb4c1" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#baf8d4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,258.25A5,5,0,1,1,78.0,258.25A5,5,0,1,1,88.0,258.25" fill="#bdfbf9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,258.25A5,5,0,1,1,130.0,258.25A5,5,0,1,1,140.0,258.25" fill="#bfb4c1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,258.25A5,5,0,1,1,177.0,258.25A5,5,0,1,1,187.0,258.25" fill="#3d0f2c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Colombian</text>
+<text aria-label="93,120,251,262" text-anchor="start" x="93.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Union</text>
+<text aria-label="145,167,251,262" text-anchor="start" x="145.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="192,225,251,262" text-anchor="start" x="192.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">orchid</text>
+</svg>

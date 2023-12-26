@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="315" height="239" viewBox="0 0 315 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">sky Country</text>
+<path aria-label="improvement but heuristic: 775; female Games: New" role="graphics-symbol" aria-roledescription="arc mark"  d="M282.32016218885076,153.86942729366717A75,75,0,0,0,210.0,59.0L210.0,77.0A57,57,0,0,1,264.96332326352655,149.10076474318706Z" fill="#66bfae" stroke="black" stroke-width="3"/>
+<path aria-label="improvement but heuristic: 684; female Games: UDP" role="graphics-symbol" aria-roledescription="arc mark"  d="M186.3841184483314,205.18490105729978A75,75,0,0,0,282.32016218885076,153.86942729366717L264.96332326352655,149.10076474318706A57,57,0,0,1,192.05193002073187,188.10052480354784Z" fill="#123e6f" stroke="black" stroke-width="3"/>
+<path aria-label="improvement but heuristic: 342; female Games: reintermediate" role="graphics-symbol" aria-roledescription="arc mark"  d="M210.0,59.0A75,75,0,0,0,155.6010056706723,82.36910405621674L168.65676430971095,94.76051908272473A57,57,0,0,1,210.0,77.0Z" fill="#4a61d7" stroke="black" stroke-width="3"/>
+<path aria-label="improvement but heuristic: 429; female Games: World" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.0185957988458,151.28336312260302A75,75,0,0,0,186.3841184483314,205.18490105729978L192.05193002073187,188.10052480354784A57,57,0,0,1,154.53413280712283,147.1353559731783Z" fill="#285b50" stroke="black" stroke-width="3"/>
+<path aria-label="improvement but heuristic: 418; female Games: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.6010056706723,82.36910405621674A75,75,0,0,0,137.0185957988458,151.28336312260302L154.53413280712283,147.1353559731783A57,57,0,0,1,168.65676430971095,94.76051908272473Z" fill="#540c3f" stroke="black" stroke-width="3"/>
+<text aria-label="274,289,73,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="281.57477959349944" y="82.43764185684446" font-family="Balto" font-size="9px" fill="#66bfae" opacity="1">775</text>
+<text aria-label="244,259,207,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="252.44924649495826" y="216.36032681390793" font-family="Balto" font-size="9px" fill="#123e6f" opacity="1">684</text>
+<text aria-label="166,181,45,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.4763231205481" y="54.30738617648916" font-family="Balto" font-size="9px" fill="#4a61d7" opacity="1">342</text>
+<text aria-label="136,151,188,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.62901156112184" y="197.78562242542478" font-family="Balto" font-size="9px" fill="#285b50" opacity="1">429</text>
+<text aria-label="115,130,104,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.1036319994718" y="113.56879797541792" font-family="Balto" font-size="9px" fill="#540c3f" opacity="1">418</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#66bfae" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#123e6f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#285b50" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#540c3f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#4a61d7" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">New</text>
+<text aria-label="21,37,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">UDP</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">World</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="21,98,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">reintermediate</text>
+<text aria-label="5,77,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">female Games</text>
+</svg>

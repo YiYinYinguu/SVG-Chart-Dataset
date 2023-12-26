@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="468" height="286" viewBox="0 0 468 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,447,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Account Mississippi implementation</text>
+<path aria-label="Chicken lavender: 75; Latvian Cambridgeshire: lest" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.18446885168467,106.5994231725204A75,75,0,0,0,36.74736666268001,165.08983825177214L105.0,134.0Z" fill="#a81f0f" stroke="white" stroke-width="1"/>
+<path aria-label="Chicken lavender: 16; Latvian Cambridgeshire: capacitor" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.74736666268001,165.08983825177214A75,75,0,0,0,43.032091926300374,176.24900435477164L105.0,134.0Z" fill="#1799be" stroke="white" stroke-width="1"/>
+<path aria-label="Chicken lavender: 112; Latvian Cambridgeshire: to" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,35.18446885168467,106.5994231725204L105.0,134.0Z" fill="#bb05f1" stroke="white" stroke-width="1"/>
+<path aria-label="Chicken lavender: 108; Latvian Cambridgeshire: Cab" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.58094672618594,103.64124926582048A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#de543a" stroke="white" stroke-width="1"/>
+<path aria-label="Chicken lavender: 153; Latvian Cambridgeshire: Fields" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.90237908159807,204.38513165373203A75,75,0,0,0,173.58094672618594,103.64124926582048L105.0,134.0Z" fill="#03abee" stroke="white" stroke-width="1"/>
+<path aria-label="Chicken lavender: 124; Latvian Cambridgeshire: VGA" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.032091926300374,176.24900435477164A75,75,0,0,0,130.90237908159807,204.38513165373203L105.0,134.0Z" fill="#f66cd4" stroke="white" stroke-width="1"/>
+<text aria-label="9,21,128,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.032112327746518" y="139.40399413326642" font-family="avenir" font-size="11px" fill="#a81f0f" opacity="1">75</text>
+<text aria-label="20,32,170,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.581316628894953" y="181.1645796803544" font-family="avenir" font-size="11px" fill="#1799be" opacity="1">16</text>
+<text aria-label="45,63,51,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.30119477427402" y="62.63851031156045" font-family="avenir" font-size="11px" fill="#bb05f1" opacity="1">112</text>
+<text aria-label="145,163,50,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="154.0981411089494" y="61.57207055973434" font-family="avenir" font-size="11px" fill="#de543a" opacity="1">108</text>
+<text aria-label="178,196,161,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.87046717585295" y="172.10677527281422" font-family="avenir" font-size="11px" fill="#03abee" opacity="1">153</text>
+<text aria-label="68,86,211,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="77.55458044206956" y="222.7131783641767" font-family="avenir" font-size="11px" fill="#f66cd4" opacity="1">124</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#de543a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M62.0,274.25A5,5,0,1,1,52.0,274.25A5,5,0,1,1,62.0,274.25" fill="#03abee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M117.0,274.25A5,5,0,1,1,107.0,274.25A5,5,0,1,1,117.0,274.25" fill="#f66cd4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M166.0,274.25A5,5,0,1,1,156.0,274.25A5,5,0,1,1,166.0,274.25" fill="#1799be" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M237.0,274.25A5,5,0,1,1,227.0,274.25A5,5,0,1,1,237.0,274.25" fill="#a81f0f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M281.0,274.25A5,5,0,1,1,271.0,274.25A5,5,0,1,1,281.0,274.25" fill="#bb05f1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Cab</text>
+<text aria-label="67,100,267,278" text-anchor="start" x="67.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Fields</text>
+<text aria-label="122,138,267,278" text-anchor="start" x="122.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">VGA</text>
+<text aria-label="171,220,267,278" text-anchor="start" x="171.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">capacitor</text>
+<text aria-label="242,264,267,278" text-anchor="start" x="242.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">lest</text>
+<text aria-label="286,297,267,278" text-anchor="start" x="286.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">to</text>
+<text aria-label="5,137,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Latvian Cambridgeshire</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="660" height="309" viewBox="0 0 660 309" style="background-color: rgb(255, 255, 255);">
+<line x1="127.5" y1="43.5" x2="127.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="278.5" y1="43.5" x2="278.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="428.5" y1="43.5" x2="428.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="579.5" y1="43.5" x2="579.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="114,132,250,304" text-anchor="end" x="127.37500000000003" y="250.5" transform="rotate(270.0, 132.37500000000003, 250.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">fleece</text>
+<text aria-label="265,283,250,295" text-anchor="end" x="278.125" y="250.5" transform="rotate(270.0, 283.125, 250.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">horst</text>
+<text aria-label="415,433,250,286" text-anchor="end" x="428.875" y="250.5" transform="rotate(270.0, 433.875, 250.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">moat</text>
+<text aria-label="566,584,250,286" text-anchor="end" x="579.625" y="250.5" transform="rotate(270.0, 584.625, 250.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">park</text>
+<line aria-label="127,127,243,248" x1="127.5" y1="243.5" x2="127.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="278,278,243,248" x1="278.5" y1="243.5" x2="278.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="428,428,243,248" x1="428.5" y1="243.5" x2="428.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="579,579,243,248" x1="579.5" y1="243.5" x2="579.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,655,243,243" x1="52.5" y1="243.5" x2="655.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Lowell Michigan</text>
+<text aria-label="41,50,231,249" text-anchor="end" x="50.5" y="248.5" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="23,50,181,199" text-anchor="end" x="50.5" y="198.5" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="23,50,131,149" text-anchor="end" x="50.5" y="148.5" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="23,50,81,99" text-anchor="end" x="50.5" y="98.5" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="23,50,31,49" text-anchor="end" x="50.5" y="48.5" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="2,14,131,155" text-anchor="middle" x="16.5" y="143.5" transform="rotate(-90.0, 14.5, 143.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Loan</text>
+<path aria-label="envisioneer orange Erbium: fleece; Loan: 151; ferociously technologies Oregon: drive HDD now" role="graphics-symbol" aria-roledescription="bar" d="M66.32125000000002,167.5h122.10750000000002v75.49999999999999h-122.10750000000002Z" fill="#d125bf"/>
+<path aria-label="envisioneer orange Erbium: park; Loan: 331; ferociously technologies Oregon: drive HDD now" role="graphics-symbol" aria-roledescription="bar" d="M518.57125,77.5h122.10750000000002v165.5h-122.10750000000002Z" fill="#d125bf"/>
+<path aria-label="envisioneer orange Erbium: horst; Loan: 382; ferociously technologies Oregon: drive HDD now" role="graphics-symbol" aria-roledescription="bar" d="M217.07125000000002,52.00000000000001h122.10750000000002v191h-122.10750000000002Z" fill="#d125bf"/>
+<path aria-label="envisioneer orange Erbium: moat; Loan: 227; ferociously technologies Oregon: drive HDD now" role="graphics-symbol" aria-roledescription="bar" d="M367.82125,129.5h122.10750000000002v113.5h-122.10750000000002Z" fill="#d125bf"/>
+<text aria-label="119,134,155,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="127.37500000000003" y="164.1685" font-family="serif" font-size="9.045px" fill="#000" opacity="1">151</text>
+<text aria-label="572,587,65,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="579.625" y="74.1685" font-family="serif" font-size="9.045px" fill="#000" opacity="1">331</text>
+<text aria-label="270,285,39,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="278.125" y="48.66850000000001" font-family="serif" font-size="9.045px" fill="#000" opacity="1">382</text>
+<text aria-label="421,436,117,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="428.875" y="126.1685" font-family="serif" font-size="9.045px" fill="#000" opacity="1">227</text>
+</svg>

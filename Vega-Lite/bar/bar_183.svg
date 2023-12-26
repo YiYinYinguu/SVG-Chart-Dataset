@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="400" height="313" viewBox="0 0 400 313" style="background-color: rgb(255, 255, 255);">
+<line x1="106.5" y1="43.5" x2="106.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="170.5" y1="43.5" x2="170.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="235.5" y1="43.5" x2="235.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="299.5" y1="43.5" x2="299.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="363.5" y1="43.5" x2="363.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="92,112,250,280" text-anchor="end" x="106.99999999999999" y="250.5" transform="rotate(270.0, 112.99999999999999, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">alb</text>
+<text aria-label="157,177,250,290" text-anchor="end" x="171.0" y="250.5" transform="rotate(270.0, 177.0, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">bean</text>
+<text aria-label="221,241,250,300" text-anchor="end" x="235.0" y="250.5" transform="rotate(270.0, 241.0, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">crowd</text>
+<text aria-label="285,305,250,310" text-anchor="end" x="299.0" y="250.5" transform="rotate(270.0, 305.0, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">cruise</text>
+<text aria-label="349,369,250,310" text-anchor="end" x="363.0" y="250.5" transform="rotate(270.0, 369.0, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">prayer</text>
+<line aria-label="106,106,243,248" x1="106.5" y1="243.5" x2="106.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="170,170,243,248" x1="170.5" y1="243.5" x2="170.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="235,235,243,248" x1="235.5" y1="243.5" x2="235.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="299,299,243,248" x1="299.5" y1="243.5" x2="299.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="363,363,243,248" x1="363.5" y1="243.5" x2="363.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="75,395,243,243" x1="75.5" y1="243.5" x2="395.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,57,0,26" text-anchor="start" x="5.70361328125" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">back</text>
+<text aria-label="63,73,230,250" text-anchor="end" x="73.5" y="249.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="43,73,180,200" text-anchor="end" x="73.5" y="199.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="23,73,130,150" text-anchor="end" x="73.5" y="149.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="23,73,80,100" text-anchor="end" x="73.5" y="99.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<text aria-label="23,73,30,50" text-anchor="end" x="73.5" y="49.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">2,000</text>
+<text aria-label="3,15,80,206" text-anchor="middle" x="17.20361328125" y="143.5" transform="rotate(-90.0, 15.20361328125, 143.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">scale Architect green</text>
+<line aria-label="75,75,43,243" x1="75.5" y1="243.5" x2="75.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Coordinator Mini: prayer; scale Architect green: 589; Androgyne care: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M348.59999999999997,117.10000000000001h28.8v58.89999999999999h-28.8Z" fill="#a32e4e"/>
+<path aria-label="Coordinator Mini: prayer; scale Architect green: 670; Androgyne care: reporter Cambridgeshire" role="graphics-symbol" aria-roledescription="bar" d="M348.59999999999997,176.0h28.8v67h-28.8Z" fill="#62c5ae"/>
+<path aria-label="Coordinator Mini: prayer; scale Architect green: 633; Androgyne care: HEX" role="graphics-symbol" aria-roledescription="bar" d="M348.59999999999997,53.80000000000001h28.8v63.3h-28.8Z" fill="#4790be"/>
+<path aria-label="Coordinator Mini: cruise; scale Architect green: 266; Androgyne care: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M284.6,161.9h28.8v26.599999999999994h-28.8Z" fill="#a32e4e"/>
+<path aria-label="Coordinator Mini: cruise; scale Architect green: 545; Androgyne care: reporter Cambridgeshire" role="graphics-symbol" aria-roledescription="bar" d="M284.6,188.5h28.8v54.5h-28.8Z" fill="#62c5ae"/>
+<path aria-label="Coordinator Mini: cruise; scale Architect green: 452; Androgyne care: HEX" role="graphics-symbol" aria-roledescription="bar" d="M284.6,116.70000000000002h28.8v45.19999999999999h-28.8Z" fill="#4790be"/>
+<path aria-label="Coordinator Mini: crowd; scale Architect green: 836; Androgyne care: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M220.6,85.30000000000001h28.8v83.6h-28.8Z" fill="#a32e4e"/>
+<path aria-label="Coordinator Mini: crowd; scale Architect green: 741; Androgyne care: reporter Cambridgeshire" role="graphics-symbol" aria-roledescription="bar" d="M220.6,168.89999999999998h28.8v74.10000000000001h-28.8Z" fill="#62c5ae"/>
+<path aria-label="Coordinator Mini: crowd; scale Architect green: 184; Androgyne care: HEX" role="graphics-symbol" aria-roledescription="bar" d="M220.6,66.9h28.8v18.399999999999995h-28.8Z" fill="#4790be"/>
+<path aria-label="Coordinator Mini: bean; scale Architect green: 421; Androgyne care: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M156.6,174.4h28.8v42.099999999999994h-28.8Z" fill="#a32e4e"/>
+<path aria-label="Coordinator Mini: bean; scale Architect green: 265; Androgyne care: reporter Cambridgeshire" role="graphics-symbol" aria-roledescription="bar" d="M156.6,216.5h28.8v26.5h-28.8Z" fill="#62c5ae"/>
+<path aria-label="Coordinator Mini: bean; scale Architect green: 107; Androgyne care: HEX" role="graphics-symbol" aria-roledescription="bar" d="M156.6,163.7h28.8v10.700000000000017h-28.8Z" fill="#4790be"/>
+<path aria-label="Coordinator Mini: alb; scale Architect green: 569; Androgyne care: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M92.6,184.1h28.8v56.900000000000006h-28.8Z" fill="#a32e4e"/>
+<path aria-label="Coordinator Mini: alb; scale Architect green: 20; Androgyne care: reporter Cambridgeshire" role="graphics-symbol" aria-roledescription="bar" d="M92.6,241.0h28.8v2h-28.8Z" fill="#62c5ae"/>
+<path aria-label="Coordinator Mini: alb; scale Architect green: 551; Androgyne care: HEX" role="graphics-symbol" aria-roledescription="bar" d="M92.6,129.0h28.8v55.09999999999998h-28.8Z" fill="#4790be"/>
+<text aria-label="358,367,109,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="363.0" y="114.74000000000001" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">589</text>
+<text aria-label="358,367,168,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="363.0" y="173.64" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">670</text>
+<text aria-label="358,367,46,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="363.0" y="51.44000000000001" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">633</text>
+<text aria-label="294,303,154,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="299.0" y="159.54000000000002" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">266</text>
+<text aria-label="294,303,181,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="299.0" y="186.14" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">545</text>
+<text aria-label="294,303,109,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="299.0" y="114.34000000000002" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">452</text>
+<text aria-label="230,239,78,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="235.0" y="82.94" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">836</text>
+<text aria-label="230,239,161,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="235.0" y="166.54" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">741</text>
+<text aria-label="230,239,59,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="235.0" y="64.54" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">184</text>
+<text aria-label="166,175,167,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="171.0" y="172.04" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">421</text>
+<text aria-label="166,175,209,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="171.0" y="214.14" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">265</text>
+<text aria-label="166,175,156,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="171.0" y="161.33999999999997" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">107</text>
+<text aria-label="102,111,176,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.99999999999999" y="181.73999999999998" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">569</text>
+<text aria-label="104,109,233,239" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.99999999999999" y="238.64" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">20</text>
+<text aria-label="102,111,121,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.99999999999999" y="126.64000000000001" font-family="sans-serif" font-size="4.8px" fill="#000" opacity="1">551</text>
+</svg>

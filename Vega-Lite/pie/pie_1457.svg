@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="349" height="270" viewBox="0 0 349 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="32,344,0,26" text-anchor="end" x="344.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Buckinghamshire Balanced</text>
+<path aria-label="obese quam: 31; wireless: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M312.7266786783572,103.97261853171597A75,75,0,0,0,308.55414708106764,95.81934921146726L244.0,134.0Z" fill="#3dfb3b" stroke="black" stroke-width="0"/>
+<path aria-label="obese quam: 956; wireless: aw" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.72399694114551,118.01164874920659A75,75,0,1,0,312.7266786783572,103.97261853171597L244.0,134.0Z" fill="#afb396" stroke="black" stroke-width="0"/>
+<path aria-label="obese quam: 344; wireless: radio" role="graphics-symbol" aria-roledescription="arc mark"  d="M244.0,59.0A75,75,0,0,0,170.72399694114551,118.01164874920659L244.0,134.0Z" fill="#746ceb" stroke="black" stroke-width="0"/>
+<path aria-label="obese quam: 263; wireless: Agent" role="graphics-symbol" aria-roledescription="arc mark"  d="M308.55414708106764,95.81934921146726A75,75,0,0,0,244.0,59.0L244.0,134.0Z" fill="#9c24aa" stroke="black" stroke-width="0"/>
+<text aria-label="317,330,84,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="324.117985207194" y="96.99867750498964" font-family="Balto" font-size="12px" fill="#3dfb3b" opacity="1">31</text>
+<text aria-label="243,262,215,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="252.854640581976" y="227.56335936176146" font-family="Balto" font-size="12px" fill="#afb396" opacity="1">956</text>
+<text aria-label="177,197,55,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.5497649920113" y="67.90455815430758" font-family="Balto" font-size="12px" fill="#746ceb" opacity="1">344</text>
+<text aria-label="278,298,47,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="288.58973937375316" y="59.82228487234505" font-family="Balto" font-size="12px" fill="#9c24aa" opacity="1">263</text>
+<path  d="M155.0,258.25A5,5,0,1,1,145.0,258.25A5,5,0,1,1,155.0,258.25" fill="#9c24aa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M211.0,258.25A5,5,0,1,1,201.0,258.25A5,5,0,1,1,211.0,258.25" fill="#3dfb3b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M267.0,258.25A5,5,0,1,1,257.0,258.25A5,5,0,1,1,267.0,258.25" fill="#afb396" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M308.0,258.25A5,5,0,1,1,298.0,258.25A5,5,0,1,1,308.0,258.25" fill="#746ceb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="160,187,251,262" text-anchor="start" x="160.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Agent</text>
+<text aria-label="216,249,251,262" text-anchor="start" x="216.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="272,283,251,262" text-anchor="start" x="272.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">aw</text>
+<text aria-label="313,340,251,262" text-anchor="start" x="313.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">radio</text>
+</svg>

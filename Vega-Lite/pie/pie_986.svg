@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="342" height="239" viewBox="0 0 342 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="142,337,0,26" text-anchor="end" x="337.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">optimistic copy</text>
+<path aria-label="Account: 81; Rubber SDR Northwest: B2C" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.47995936719394,61.57396060081379A75,75,0,0,0,237.0,59.0L237.0,102.0A32,32,0,0,1,245.31144933000274,103.09822318968055Z" fill="#b1403f" stroke="black" stroke-width="0"/>
+<path aria-label="Account: 219; Rubber SDR Northwest: Internal" role="graphics-symbol" aria-roledescription="arc mark"  d="M258.70222607802833,205.79145759251685A75,75,0,0,0,300.2697855221629,174.2732447163064L263.9951084894562,151.1832510789574A32,32,0,0,1,246.25961645995875,164.63102190614052Z" fill="#feee35" stroke="black" stroke-width="0"/>
+<path aria-label="Account: 845; Rubber SDR Northwest: Nebraska" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0190875884234,76.35598865317738A75,75,0,0,0,258.70222607802833,205.79145759251685L246.25961645995875,164.63102190614052A32,32,0,0,1,216.52814403772732,109.40522182535568Z" fill="#b7ffbc" stroke="black" stroke-width="0"/>
+<path aria-label="Account: 187; Rubber SDR Northwest: after" role="graphics-symbol" aria-roledescription="arc mark"  d="M230.43975712408843,59.28746280971947A75,75,0,0,0,189.0190875884234,76.35598865317738L216.52814403772732,109.40522182535568A32,32,0,0,1,234.20096303961105,102.12265079881364Z" fill="#dd1b49" stroke="black" stroke-width="0"/>
+<path aria-label="Account: 27; Rubber SDR Northwest: capacitor" role="graphics-symbol" aria-roledescription="arc mark"  d="M237.0,59.0A75,75,0,0,0,230.43975712408843,59.28746280971947L234.20096303961105,102.12265079881364A32,32,0,0,1,237.0,102.0Z" fill="#daaa1d" stroke="black" stroke-width="0"/>
+<path aria-label="Account: 578; Rubber SDR Northwest: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M300.2697855221629,174.2732447163064A75,75,0,0,0,256.47995936719394,61.57396060081379L245.31144933000274,103.09822318968055A32,32,0,0,1,263.9951084894562,151.1832510789574Z" fill="#54212b" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#b1403f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#54212b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#feee35" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#b7ffbc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#dd1b49" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#daaa1d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">B2C</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Internal</text>
+<text aria-label="21,65,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Nebraska</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">after</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">capacitor</text>
+<text aria-label="5,125,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Rubber SDR Northwest</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="435" height="289" viewBox="0 0 435 289" style="background-color: rgb(255, 255, 255);">
+<line x1="47.5" y1="238.5" x2="430.5" y2="238.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="207.5" x2="430.5" y2="207.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="176.5" x2="430.5" y2="176.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="146.5" x2="430.5" y2="146.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="115.5" x2="430.5" y2="115.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="84.5" x2="430.5" y2="84.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="47.5" y1="53.5" x2="430.5" y2="53.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="99,114,245,275" text-anchor="end" x="110.83333333333333" y="245.5" transform="rotate(270.0, 114.83333333333333, 245.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">glow</text>
+<text aria-label="227,242,245,283" text-anchor="end" x="238.5" y="245.5" transform="rotate(270.0, 242.5, 245.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">sleet</text>
+<text aria-label="355,370,245,283" text-anchor="end" x="366.1666666666667" y="245.5" transform="rotate(270.0, 370.1666666666667, 245.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">vomit</text>
+<line aria-label="110,110,238,243" x1="110.5" y1="238.5" x2="110.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="238,238,238,243" x1="238.5" y1="238.5" x2="238.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="366,366,238,243" x1="366.5" y1="238.5" x2="366.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,430,238,238" x1="47.5" y1="238.5" x2="430.5" y2="238.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,200,0,26" text-anchor="start" x="5.3701171875" y="25.670807692307683" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Arsenic deposit</text>
+<text aria-label="38,45,228,243" text-anchor="end" x="45.5" y="242.5" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="23,45,197,212" text-anchor="end" x="45.5" y="211.73076923076923" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="23,45,166,181" text-anchor="end" x="45.5" y="180.96153846153845" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="23,45,136,151" text-anchor="end" x="45.5" y="150.19230769230768" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="23,45,105,120" text-anchor="end" x="45.5" y="119.42307692307692" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="23,45,74,89" text-anchor="end" x="45.5" y="88.65384615384615" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="23,45,43,58" text-anchor="end" x="45.5" y="57.88461538461537" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="2,14,117,159" text-anchor="middle" x="16.8701171875" y="138.5" transform="rotate(-90.0, 14.8701171875, 138.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bohrium</text>
+<path aria-label="Southeast: vomit; Bohrium: 474; Handmade Northwest Concrete: Salad frenetically" role="graphics-symbol" aria-roledescription="bar" d="M314.4616666666667,92.15384615384616h103.41000000000001v145.84615384615384h-103.41000000000001Z" fill="#fd2e96"/>
+<path aria-label="Southeast: sleet; Bohrium: 638; Handmade Northwest Concrete: Salad frenetically" role="graphics-symbol" aria-roledescription="bar" d="M186.79500000000002,41.692307692307686h103.41000000000001v196.30769230769232h-103.41000000000001Z" fill="#fd2e96"/>
+<path aria-label="Southeast: glow; Bohrium: 542; Handmade Northwest Concrete: Salad frenetically" role="graphics-symbol" aria-roledescription="bar" d="M59.12833333333332,71.23076923076924h103.41000000000001v166.76923076923077h-103.41000000000001Z" fill="#fd2e96"/>
+<text aria-label="361,371,84,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="366.1666666666667" y="90.13234615384616" font-family="Balto" font-size="5.745px" fill="#000" opacity="1">474</text>
+<text aria-label="233,243,33,40" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="238.5" y="39.67080769230768" font-family="Balto" font-size="5.745px" fill="#000" opacity="1">638</text>
+<text aria-label="105,115,63,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.83333333333333" y="69.20926923076924" font-family="Balto" font-size="5.745px" fill="#000" opacity="1">542</text>
+</svg>

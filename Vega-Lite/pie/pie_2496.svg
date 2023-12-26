@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="257" height="270" viewBox="0 0 257 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">male Diesel</text>
+<path aria-label="payment: 58; Investment Southeast Wooden: firmware" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.6852556448047,232.00972729495436A75,75,0,0,0,151.1612133118849,224.11127122279353L105.0,165.0Z" fill="#d50d72" stroke="white" stroke-width="0"/>
+<path aria-label="payment: 729; Investment Southeast Wooden: Security" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.1612133118849,224.11127122279353A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#3efe8f" stroke="white" stroke-width="0"/>
+<path aria-label="payment: 517; Investment Southeast Wooden: solid" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.89600856485299,185.6401167419239A75,75,0,0,0,138.6852556448047,232.00972729495436L105.0,165.0Z" fill="#d151ce" stroke="white" stroke-width="0"/>
+<path aria-label="payment: 544; Investment Southeast Wooden: syndicate" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,32.89600856485299,185.6401167419239L105.0,165.0Z" fill="#843c3f" stroke="white" stroke-width="0"/>
+<text aria-label="149,157,236,244" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.14170662474652" y="243.04193634605076" font-family="monospace" font-size="7px" fill="#d50d72" opacity="1">58</text>
+<text aria-label="184,196,130,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.09999204483427" y="137.7085105539314" font-family="monospace" font-size="7px" fill="#3efe8f" opacity="1">729</text>
+<text aria-label="62,74,242,250" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="68.86953618725016" y="249.42930052278484" font-family="monospace" font-size="7px" fill="#d151ce" opacity="1">517</text>
+<text aria-label="27,39,105,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.1350829398385" y="112.8203571815381" font-family="monospace" font-size="7px" fill="#843c3f" opacity="1">544</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#3efe8f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,40.25A5,5,0,1,1,73.0,40.25A5,5,0,1,1,83.0,40.25" fill="#d50d72" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M150.0,40.25A5,5,0,1,1,140.0,40.25A5,5,0,1,1,150.0,40.25" fill="#d151ce" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M202.0,40.25A5,5,0,1,1,192.0,40.25A5,5,0,1,1,202.0,40.25" fill="#843c3f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Security</text>
+<text aria-label="88,132,33,44" text-anchor="start" x="88.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">firmware</text>
+<text aria-label="155,182,33,44" text-anchor="start" x="155.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">solid</text>
+<text aria-label="207,256,33,44" text-anchor="start" x="207.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">syndicate</text>
+</svg>

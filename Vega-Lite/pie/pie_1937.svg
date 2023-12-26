@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="428" height="286" viewBox="0 0 428 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">fuchsia Toys</text>
+<path aria-label="Platinum: 92; solid payment: Jaguar" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.00177918022175,174.69673418767727A75,75,0,0,0,109.75243579602402,208.84927757837528L105.0,134.0Z" fill="#3ed3bc" stroke="white" stroke-width="4"/>
+<path aria-label="Platinum: 141; solid payment: Coupe" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.88757143056984,138.10507554513953A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#6c9d61" stroke="white" stroke-width="4"/>
+<path aria-label="Platinum: 120; solid payment: Investor" role="graphics-symbol" aria-roledescription="arc mark"  d="M109.75243579602402,208.84927757837528A75,75,0,0,0,179.4247468970499,143.27130246028352L105.0,134.0Z" fill="#d9b78b" stroke="white" stroke-width="4"/>
+<path aria-label="Platinum: 6; solid payment: Gloves" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.4247468970499,143.27130246028352A75,75,0,0,0,179.88757143056984,138.10507554513953L105.0,134.0Z" fill="#673cc7" stroke="white" stroke-width="4"/>
+<path aria-label="Platinum: 62; solid payment: zero" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,55.84090567884544,77.35740608407988L105.0,134.0Z" fill="#aedfa2" stroke="white" stroke-width="4"/>
+<path aria-label="Platinum: 113; solid payment: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M55.84090567884544,77.35740608407988A75,75,0,0,0,37.3604850659742,166.4020989982085L105.0,134.0Z" fill="#c19997" stroke="white" stroke-width="4"/>
+<path aria-label="Platinum: 11; solid payment: interface" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.3604850659742,166.4020989982085A75,75,0,0,0,42.00177918022175,174.69673418767727L105.0,134.0Z" fill="#fa6620" stroke="white" stroke-width="4"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#6c9d61" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M75.0,274.25A5,5,0,1,1,65.0,274.25A5,5,0,1,1,75.0,274.25" fill="#673cc7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M134.0,274.25A5,5,0,1,1,124.0,274.25A5,5,0,1,1,134.0,274.25" fill="#d9b78b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M200.0,274.25A5,5,0,1,1,190.0,274.25A5,5,0,1,1,200.0,274.25" fill="#3ed3bc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M259.0,274.25A5,5,0,1,1,249.0,274.25A5,5,0,1,1,259.0,274.25" fill="#fa6620" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M328.0,274.25A5,5,0,1,1,318.0,274.25A5,5,0,1,1,328.0,274.25" fill="#c19997" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M397.0,274.25A5,5,0,1,1,387.0,274.25A5,5,0,1,1,397.0,274.25" fill="#aedfa2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Coupe</text>
+<text aria-label="80,113,267,278" text-anchor="start" x="80.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gloves</text>
+<text aria-label="139,183,267,278" text-anchor="start" x="139.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Investor</text>
+<text aria-label="205,238,267,278" text-anchor="start" x="205.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Jaguar</text>
+<text aria-label="264,313,267,278" text-anchor="start" x="264.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">interface</text>
+<text aria-label="333,371,267,278" text-anchor="start" x="333.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="402,424,267,278" text-anchor="start" x="402.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">zero</text>
+<text aria-label="5,83,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">solid payment</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="359" height="239" viewBox="0 0 359 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="107,354,0,26" text-anchor="end" x="354.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Hop functionalities</text>
+<path aria-label="SUV: 146; North Hybrid synergize: application" role="graphics-symbol" aria-roledescription="arc mark"  d="M260.4768613785258,208.7198117414877A75,75,0,0,0,304.2300880666899,189.69504693249277L280.78938030223463,163.70402503066282A40,40,0,0,1,257.4543260685471,173.85056626212676Z" fill="#0b2329" stroke="white" stroke-width="1"/>
+<path aria-label="SUV: 273; North Hybrid synergize: Lamborghini" role="graphics-symbol" aria-roledescription="arc mark"  d="M324.18500967654154,107.56017366350972A75,75,0,0,0,254.0,59.0L254.0,94.0A40,40,0,0,1,291.4320051608222,119.89875928720518Z" fill="#673880" stroke="white" stroke-width="1"/>
+<path aria-label="SUV: 728; North Hybrid synergize: wobbly" role="graphics-symbol" aria-roledescription="arc mark"  d="M254.0,59.0A75,75,0,1,0,260.4768613785258,208.7198117414877L257.4543260685471,173.85056626212676A40,40,0,1,1,254.0,94.0Z" fill="#e0e2be" stroke="white" stroke-width="1"/>
+<path aria-label="SUV: 270; North Hybrid synergize: Rustic" role="graphics-symbol" aria-roledescription="arc mark"  d="M304.2300880666899,189.69504693249277A75,75,0,0,0,324.18500967654154,107.56017366350972L291.4320051608222,119.89875928720518A40,40,0,0,1,280.78938030223463,163.70402503066282Z" fill="#a521cd" stroke="white" stroke-width="1"/>
+<text aria-label="283,295,211,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="289.88792449990854" y="218.5351856791324" font-family="Balto" font-size="7px" fill="#0b2329" opacity="1">146</text>
+<text aria-label="299,311,54,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="305.20790347035825" y="61.98817241703543" font-family="Balto" font-size="7px" fill="#673880" opacity="1">273</text>
+<text aria-label="158,170,132,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.08409576698716" y="139.88975140075365" font-family="Balto" font-size="7px" fill="#e0e2be" opacity="1">728</text>
+<text aria-label="335,347,150,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="341.455908558042" y="157.24768359815707" font-family="Balto" font-size="7px" fill="#a521cd" opacity="1">270</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#673880" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#a521cd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#0b2329" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#e0e2be" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Lamborghini</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Rustic</text>
+<text aria-label="21,81,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">application</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">wobbly</text>
+<text aria-label="5,137,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">North Hybrid synergize</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="97,279,0,26" text-anchor="end" x="279.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">portals violet</text>
+<path aria-label="Hybrid Electric: 153; doloribus gosh: Kuna" role="graphics-symbol" aria-roledescription="arc mark"  d="M208.93346028931808,202.76763741112399A75,75,0,0,0,179.0,59.0L179.0,81.0A53,53,0,0,1,200.15297860445145,182.59579710386095Z" fill="#e359a4" stroke="black" stroke-width="0"/>
+<path aria-label="Hybrid Electric: 6; doloribus gosh: Niobium" role="graphics-symbol" aria-roledescription="arc mark"  d="M201.4110256341297,205.57336047738977A75,75,0,0,0,208.93346028931808,202.76763741112399L200.15297860445145,182.59579710386095A53,53,0,0,1,194.83712478145165,184.57850807068877Z" fill="#ae8cba" stroke="black" stroke-width="0"/>
+<path aria-label="Hybrid Electric: 44; doloribus gosh: seamless" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.0,59.0A75,75,0,0,0,125.96699141100893,80.96699141100893L141.52334059711296,96.52334059711299A53,53,0,0,1,179.0,81.0Z" fill="#8adb2a" stroke="black" stroke-width="0"/>
+<path aria-label="Hybrid Electric: 149; doloribus gosh: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.96699141100893,80.96699141100893A75,75,0,0,0,201.4110256341297,205.57336047738977L194.83712478145165,184.57850807068877A53,53,0,0,1,141.52334059711296,96.52334059711299Z" fill="#e15a5d" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#e359a4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ae8cba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#e15a5d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#8adb2a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Kuna</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Niobium</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">seamless</text>
+</svg>

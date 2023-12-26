@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="290" height="239" viewBox="0 0 290 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Outlying</text>
+<path aria-label="France COM: 203; Identity Avon: to" role="graphics-symbol" aria-roledescription="arc mark"  d="M183.0,59.0A75,75,0,0,0,124.80364885905476,86.69054308196087L183.0,134.0Z" fill="#acf22b" stroke="white" stroke-width="0"/>
+<path aria-label="France COM: 464; Identity Avon: skeletal" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.80364885905476,86.69054308196087A75,75,0,0,0,166.40235243244496,207.14039988421743L183.0,134.0Z" fill="#3afced" stroke="white" stroke-width="0"/>
+<path aria-label="France COM: 769; Identity Avon: Branding" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.40235243244496,207.14039988421743A75,75,0,1,0,183.0,59.0L183.0,134.0Z" fill="#edef90" stroke="white" stroke-width="0"/>
+<text aria-label="133,155,42,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="144.3310288936221" y="56.73062893331762" font-family="avenir" font-size="14px" fill="#acf22b" opacity="1">203</text>
+<text aria-label="86,109,153,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="97.93043030121257" y="167.37972619448905" font-family="avenir" font-size="14px" fill="#3afced" opacity="1">464</text>
+<text aria-label="261,283,134,149" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="272.4403801073528" y="148.02089847529942" font-family="avenir" font-size="14px" fill="#edef90" opacity="1">769</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#edef90" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#3afced" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#acf22b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Branding</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">skeletal</text>
+<text aria-label="21,32,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">to</text>
+</svg>

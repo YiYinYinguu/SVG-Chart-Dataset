@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="239" viewBox="0 0 314 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">deploy</text>
+<path aria-label="Steel: 285; Oriental orchid: boost" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.42466162396086,162.00486189681456A75,75,0,0,0,82.22030624178251,205.45687897103977L105.0,134.0Z" fill="#7c6ee8" stroke="black" stroke-width="0"/>
+<path aria-label="Steel: 135; Oriental orchid: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.00825290146037,74.76959678547458A75,75,0,0,0,123.10421443903255,61.21787706074022L105.0,134.0Z" fill="#bbd9b8" stroke="black" stroke-width="0"/>
+<path aria-label="Steel: 251; Oriental orchid: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.30964349627604,123.84732136545433A75,75,0,0,0,151.00825290146037,74.76959678547458L105.0,134.0Z" fill="#dcf24e" stroke="black" stroke-width="0"/>
+<path aria-label="Steel: 257; Oriental orchid: synergy" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,51.55941832500649,81.37772116072557L105.0,134.0Z" fill="#f4a27a" stroke="black" stroke-width="0"/>
+<path aria-label="Steel: 162; Oriental orchid: calculating" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.5151158171047,125.22492004249114A75,75,0,0,0,35.42466162396086,162.00486189681456L105.0,134.0Z" fill="#752cc8" stroke="black" stroke-width="0"/>
+<path aria-label="Steel: 314; Oriental orchid: Table" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.22030624178251,205.45687897103977A75,75,0,0,0,151.00825290146037,193.23040321452544L105.0,134.0Z" fill="#f6f0e3" stroke="black" stroke-width="0"/>
+<path aria-label="Steel: 79; Oriental orchid: Directives" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.10421443903255,61.21787706074022A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#0fab7e" stroke="black" stroke-width="0"/>
+<path aria-label="Steel: 339; Oriental orchid: Orchestrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.00825290146037,193.23040321452544A75,75,0,0,0,179.30964349627604,123.84732136545433L105.0,134.0Z" fill="#6c6feb" stroke="black" stroke-width="0"/>
+<path aria-label="Steel: 214; Oriental orchid: kilogram" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.55941832500649,81.37772116072557A75,75,0,0,0,30.5151158171047,125.22492004249114L105.0,134.0Z" fill="#f4e557" stroke="black" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#0fab7e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#bbd9b8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#dcf24e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#6c6feb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#f6f0e3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#7c6ee8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#752cc8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#f4e557" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,184.0A5,5,0,1,1,224.0,184.0A5,5,0,1,1,234.0,184.0" fill="#f4a27a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,294,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Directives</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="239,305,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Orchestrator</text>
+<text aria-label="239,266,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Table</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">boost</text>
+<text aria-label="239,299,145,156" text-anchor="start" x="239.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">calculating</text>
+<text aria-label="239,283,161,172" text-anchor="start" x="239.0" y="171.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">kilogram</text>
+<text aria-label="239,277,177,188" text-anchor="start" x="239.0" y="187.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">synergy</text>
+<text aria-label="223,313,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Oriental orchid</text>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="788" height="345" viewBox="0 0 788 345" style="background-color: rgb(255, 255, 255);">
+<line x1="73.5" y1="43.5" x2="73.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="112.5" y1="43.5" x2="112.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="151.5" y1="43.5" x2="151.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="190.5" y1="43.5" x2="190.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="229.5" y1="43.5" x2="229.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="268.5" y1="43.5" x2="268.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="307.5" y1="43.5" x2="307.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="346.5" y1="43.5" x2="346.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="385.5" y1="43.5" x2="385.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="424.5" y1="43.5" x2="424.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="463.5" y1="43.5" x2="463.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="502.5" y1="43.5" x2="502.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="541.5" y1="43.5" x2="541.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="580.5" y1="43.5" x2="580.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="619.5" y1="43.5" x2="619.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="60,78,250,331" text-anchor="end" x="73.49999999999999" y="250.5" transform="rotate(270.0, 78.49999999999999, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">analgesia</text>
+<text aria-label="99,117,250,295" text-anchor="end" x="112.49999999999999" y="250.5" transform="rotate(270.0, 117.49999999999999, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">brass</text>
+<text aria-label="138,156,250,331" text-anchor="end" x="151.5" y="250.5" transform="rotate(270.0, 156.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">covariate</text>
+<text aria-label="177,195,250,286" text-anchor="end" x="190.5" y="250.5" transform="rotate(270.0, 195.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">envy</text>
+<text aria-label="216,234,250,331" text-anchor="end" x="229.5" y="250.5" transform="rotate(270.0, 234.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">goodnight</text>
+<text aria-label="255,273,250,313" text-anchor="end" x="268.5" y="250.5" transform="rotate(270.0, 273.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">haircut</text>
+<text aria-label="294,312,250,286" text-anchor="end" x="307.5" y="250.5" transform="rotate(270.0, 312.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">load</text>
+<text aria-label="333,351,250,313" text-anchor="end" x="346.5" y="250.5" transform="rotate(270.0, 351.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">mapping</text>
+<text aria-label="372,390,250,322" text-anchor="end" x="385.5" y="250.5" transform="rotate(270.0, 390.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">nestling</text>
+<text aria-label="411,429,250,322" text-anchor="end" x="424.5" y="250.5" transform="rotate(270.0, 429.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">numeracy</text>
+<text aria-label="450,468,250,313" text-anchor="end" x="463.5" y="250.5" transform="rotate(270.0, 468.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">reading</text>
+<text aria-label="489,507,250,304" text-anchor="end" x="502.5" y="250.5" transform="rotate(270.0, 507.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">serial</text>
+<text aria-label="528,546,250,313" text-anchor="end" x="541.5" y="250.5" transform="rotate(270.0, 546.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">shingle</text>
+<text aria-label="567,585,250,331" text-anchor="end" x="580.5" y="250.5" transform="rotate(270.0, 585.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">step-aunt</text>
+<text aria-label="606,624,250,304" text-anchor="end" x="619.5" y="250.5" transform="rotate(270.0, 624.5, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">weeder</text>
+<line aria-label="73,73,243,248" x1="73.5" y1="243.5" x2="73.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="112,112,243,248" x1="112.5" y1="243.5" x2="112.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="151,151,243,248" x1="151.5" y1="243.5" x2="151.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="190,190,243,248" x1="190.5" y1="243.5" x2="190.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="229,229,243,248" x1="229.5" y1="243.5" x2="229.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="268,268,243,248" x1="268.5" y1="243.5" x2="268.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="307,307,243,248" x1="307.5" y1="243.5" x2="307.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="346,346,243,248" x1="346.5" y1="243.5" x2="346.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="385,385,243,248" x1="385.5" y1="243.5" x2="385.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="424,424,243,248" x1="424.5" y1="243.5" x2="424.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="463,463,243,248" x1="463.5" y1="243.5" x2="463.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="502,502,243,248" x1="502.5" y1="243.5" x2="502.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="541,541,243,248" x1="541.5" y1="243.5" x2="541.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="580,580,243,248" x1="580.5" y1="243.5" x2="580.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="619,619,243,248" x1="619.5" y1="243.5" x2="619.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,639,243,243" x1="54.5" y1="243.5" x2="639.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="229,463,0,26" text-anchor="middle" x="346.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">24/7 redundant SUV</text>
+<text aria-label="38,47,231,249" text-anchor="end" x="47.5" y="248.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="20,47,181,199" text-anchor="end" x="47.5" y="198.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="20,47,131,149" text-anchor="end" x="47.5" y="148.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="20,47,81,99" text-anchor="end" x="47.5" y="98.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="20,47,31,49" text-anchor="end" x="47.5" y="48.5" font-family="monospace" font-size="17px" font-weight="normal" fill="#000" opacity="1">800</text>
+<line aria-label="49,54,243,243" x1="54.5" y1="243.5" x2="49.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,193,193" x1="54.5" y1="193.5" x2="49.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,143,143" x1="54.5" y1="143.5" x2="49.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,93,93" x1="54.5" y1="93.5" x2="49.5" y2="93.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,43,43" x1="54.5" y1="43.5" x2="49.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,131,155" text-anchor="middle" x="16.5" y="143.5" transform="rotate(-90.0, 14.5, 143.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">gold</text>
+<path aria-label="paradigms: load; gold: 413; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M295.215,139.75h24.570000000000004v103.25h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: envy; gold: 639; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M178.21499999999997,83.25h24.570000000000004v159.75h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: step-aunt; gold: 227; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M568.215,186.25h24.570000000000004v56.75h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: mapping; gold: 584; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M334.215,97.0h24.570000000000004v146h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: weeder; gold: 599; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M607.215,93.25h24.570000000000004v149.75h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: haircut; gold: 775; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M256.215,49.25h24.570000000000004v193.75h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: analgesia; gold: 418; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M61.21499999999999,138.5h24.570000000000004v104.5h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: numeracy; gold: 637; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M412.215,83.75h24.570000000000004v159.25h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: goodnight; gold: 362; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M217.21499999999997,152.5h24.570000000000004v90.5h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: covariate; gold: 37; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M139.21499999999997,233.75h24.570000000000004v9.25h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: shingle; gold: 722; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M529.2149999999999,62.50000000000001h24.570000000000004v180.5h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: reading; gold: 730; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M451.215,60.5h24.570000000000004v182.5h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: brass; gold: 27; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M100.21499999999999,236.25h24.570000000000004v6.75h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: serial; gold: 520; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M490.215,113.0h24.570000000000004v130h-24.570000000000004Z" fill="#edb3da"/>
+<path aria-label="paradigms: nestling; gold: 520; Forward that Facilitator: qui Tricycle Southeast" role="graphics-symbol" aria-roledescription="bar" d="M373.215,113.0h24.570000000000004v130h-24.570000000000004Z" fill="#edb3da"/>
+<path  d="M658.0,44.0h10v10h-10Z" fill="#edb3da" stroke-width="1.5" opacity="1"/>
+<text aria-label="673,794,42,53" text-anchor="start" x="673.0" y="52.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">qui Tricycle Southeast</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="230" height="286" viewBox="0 0 230 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">SUV</text>
+<path aria-label="Applications while Auto: 39; ivory Hat green: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.81210599338112,107.28279896776054A75,75,0,0,0,105.0,106.0L105.0,136.0A45,45,0,0,1,113.28726359602868,136.76967938065633Z" fill="#0b64bf" stroke="white" stroke-width="0"/>
+<path aria-label="Applications while Auto: 563; ivory Hat green: Minivan" role="graphics-symbol" aria-roledescription="arc mark"  d="M55.30683109977545,237.17462919017584A75,75,0,0,0,174.6846136102286,153.2681658379194L146.81076816613717,164.36089950275166A45,45,0,0,1,75.18409865986527,214.7047775141055Z" fill="#efd49c" stroke="white" stroke-width="0"/>
+<path aria-label="Applications while Auto: 509; ivory Hat green: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,55.30683109977545,237.17462919017584L75.18409865986527,214.7047775141055A45,45,0,0,1,104.99999999999999,136.0Z" fill="#f38818" stroke="white" stroke-width="0"/>
+<path aria-label="Applications while Auto: 212; ivory Hat green: Island" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.6846136102286,153.2681658379194A75,75,0,0,0,118.81210599338112,107.28279896776054L113.28726359602868,136.76967938065633A45,45,0,0,1,146.81076816613717,164.36089950275166Z" fill="#bde22a" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#0b64bf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,56.25A5,5,0,1,1,53.0,56.25A5,5,0,1,1,63.0,56.25" fill="#bde22a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M119.0,56.25A5,5,0,1,1,109.0,56.25A5,5,0,1,1,119.0,56.25" fill="#efd49c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M184.0,56.25A5,5,0,1,1,174.0,56.25A5,5,0,1,1,184.0,56.25" fill="#f38818" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="68,101,49,60" text-anchor="start" x="68.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Island</text>
+<text aria-label="124,162,49,60" text-anchor="start" x="124.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Minivan</text>
+<text aria-label="189,227,49,60" text-anchor="start" x="189.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="5,95,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">ivory Hat green</text>
+</svg>

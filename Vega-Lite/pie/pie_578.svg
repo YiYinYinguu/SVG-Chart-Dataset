@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="469" height="286" viewBox="0 0 469 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Oregon</text>
+<path aria-label="Towels superficial: 601; Ergonomic Van: HEX" role="graphics-symbol" aria-roledescription="arc mark"  d="M61.636135591876105,242.1929347522559A75,75,0,0,0,116.60888331631548,255.09611209873412L105.0,181.0Z" fill="#66a9d7" stroke="black" stroke-width="0"/>
+<path aria-label="Towels superficial: 885; Ergonomic Van: interface" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.243914781639205,167.3970630648415A75,75,0,0,0,61.636135591876105,242.1929347522559L105.0,181.0Z" fill="#bf3c81" stroke="black" stroke-width="0"/>
+<path aria-label="Towels superficial: 368; Ergonomic Van: ivory" role="graphics-symbol" aria-roledescription="arc mark"  d="M45.52294177238941,135.31105664835945A75,75,0,0,0,31.243914781639205,167.3970630648415L105.0,181.0Z" fill="#e2af02" stroke="black" stroke-width="0"/>
+<path aria-label="Towels superficial: 545; Ergonomic Van: Global" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.60888331631548,255.09611209873412A75,75,0,0,0,161.61234602203254,230.19392521319736L105.0,181.0Z" fill="#c4dddc" stroke="black" stroke-width="0"/>
+<path aria-label="Towels superficial: 811; Ergonomic Van: Enhanced" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.61234602203254,230.19392521319736A75,75,0,0,0,176.04423598210292,156.96426548409067L105.0,181.0Z" fill="#ac87af" stroke="black" stroke-width="0"/>
+<path aria-label="Towels superficial: 793; Ergonomic Van: Chair" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.84966546019206,141.6525703428857A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#61db0b" stroke="black" stroke-width="0"/>
+<path aria-label="Towels superficial: 176; Ergonomic Van: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.04423598210292,156.96426548409067A75,75,0,0,0,168.84966546019206,141.6525703428857L105.0,181.0Z" fill="#2ad7af" stroke="black" stroke-width="0"/>
+<path aria-label="Towels superficial: 713; Ergonomic Van: online" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,45.52294177238941,135.31105664835945L105.0,181.0Z" fill="#59fbb5" stroke="black" stroke-width="0"/>
+<text aria-label="74,94,260,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="84.43416688973483" y="272.61875660200116" font-family="Balto" font-size="12px" fill="#66a9d7" opacity="1">601</text>
+<text aria-label="11,31,206,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.620495276617476" y="218.8800559634047" font-family="Balto" font-size="12px" fill="#bf3c81" opacity="1">885</text>
+<text aria-label="13,32,136,149" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.77464116654039" y="148.40778273035636" font-family="Balto" font-size="12px" fill="#e2af02" opacity="1">368</text>
+<text aria-label="138,158,251,264" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.57443993767865" y="263.74813130555947" font-family="Balto" font-size="12px" fill="#c4dddc" opacity="1">545</text>
+<text aria-label="183,203,190,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.30154561210665" y="202.40221372449633" font-family="Balto" font-size="12px" fill="#ac87af" opacity="1">811</text>
+<text aria-label="139,158,94,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.87754321422096" y="106.420351225752" font-family="Balto" font-size="12px" fill="#61db0b" opacity="1">793</text>
+<text aria-label="176,196,134,147" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.45607746259014" y="146.72589067778955" font-family="Balto" font-size="12px" fill="#2ad7af" opacity="1">176</text>
+<text aria-label="55,74,92,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="65.21561790084694" y="104.27080490312945" font-family="Balto" font-size="12px" fill="#59fbb5" opacity="1">713</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#61db0b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,56.25A5,5,0,1,1,58.0,56.25A5,5,0,1,1,68.0,56.25" fill="#2ad7af" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,56.25A5,5,0,1,1,120.0,56.25A5,5,0,1,1,130.0,56.25" fill="#ac87af" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M204.0,56.25A5,5,0,1,1,194.0,56.25A5,5,0,1,1,204.0,56.25" fill="#c4dddc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M262.0,56.25A5,5,0,1,1,252.0,56.25A5,5,0,1,1,262.0,56.25" fill="#66a9d7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M309.0,56.25A5,5,0,1,1,299.0,56.25A5,5,0,1,1,309.0,56.25" fill="#bf3c81" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M378.0,56.25A5,5,0,1,1,368.0,56.25A5,5,0,1,1,378.0,56.25" fill="#e2af02" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M429.0,56.25A5,5,0,1,1,419.0,56.25A5,5,0,1,1,429.0,56.25" fill="#59fbb5" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Chair</text>
+<text aria-label="73,117,49,60" text-anchor="start" x="73.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="135,179,49,60" text-anchor="start" x="135.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Enhanced</text>
+<text aria-label="209,242,49,60" text-anchor="start" x="209.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Global</text>
+<text aria-label="267,283,49,60" text-anchor="start" x="267.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">HEX</text>
+<text aria-label="314,363,49,60" text-anchor="start" x="314.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">interface</text>
+<text aria-label="383,410,49,60" text-anchor="start" x="383.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">ivory</text>
+<text aria-label="434,467,49,60" text-anchor="start" x="434.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">online</text>
+<text aria-label="5,83,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Ergonomic Van</text>
+</svg>

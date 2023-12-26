@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="320" height="239" viewBox="0 0 320 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="120,315,0,26" text-anchor="end" x="315.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Greenland South</text>
+<path aria-label="Escondido lime: 193; Garden Berkelium: input" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.03721724240958,189.0254011671214A75,75,0,0,0,118.2200777204449,207.8256699601527L112.05070811757062,173.3736906454148A40,40,0,0,1,77.81984919595178,163.34688062246474Z" fill="#deb9d0" stroke="black" stroke-width="1"/>
+<path aria-label="Escondido lime: 110; Garden Berkelium: Assurance" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.70717887995016,69.16815087539581A75,75,0,0,0,105.0,59.0L105.0,94.0A40,40,0,0,1,125.11049540264008,99.4230138002111Z" fill="#e15d00" stroke="black" stroke-width="1"/>
+<path aria-label="Escondido lime: 501; Garden Berkelium: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.2200777204449,207.8256699601527A75,75,0,0,0,145.1627456892198,70.66001374563572L126.42013103425057,100.2186739976724A40,40,0,0,1,112.05070811757062,173.3736906454148Z" fill="#0cbed2" stroke="black" stroke-width="1"/>
+<path aria-label="Escondido lime: 314; Garden Berkelium: superstructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.168506521402037,128.97530261980393L65.08987014474775,131.32016139722876A40,40,0,0,1,104.99999999999999,94.0Z" fill="#9a7b7c" stroke="black" stroke-width="1"/>
+<path aria-label="Escondido lime: 186; Garden Berkelium: programming" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.168506521402037,128.97530261980393A75,75,0,0,0,54.03721724240958,189.0254011671214L77.81984919595178,163.34688062246474A40,40,0,0,1,65.08987014474775,131.32016139722876Z" fill="#ba77ce" stroke="black" stroke-width="1"/>
+<path aria-label="Escondido lime: 8; Garden Berkelium: compress" role="graphics-symbol" aria-roledescription="arc mark"  d="M145.1627456892198,70.66001374563572A75,75,0,0,0,142.70717887995016,69.16815087539581L125.11049540264008,99.4230138002111A40,40,0,0,1,126.42013103425057,100.2186739976724Z" fill="#746914" stroke="black" stroke-width="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#e15d00" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#746914" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#0cbed2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#deb9d0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#ba77ce" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#9a7b7c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Assurance</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">compress</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">input</text>
+<text aria-label="239,299,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">programming</text>
+<text aria-label="239,316,129,140" text-anchor="start" x="239.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">superstructure</text>
+<text aria-label="223,319,32,44" text-anchor="start" x="223.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Garden Berkelium</text>
+</svg>

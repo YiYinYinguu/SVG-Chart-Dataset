@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="239" viewBox="0 0 314 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="192,309,0,26" text-anchor="end" x="309.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Northwest</text>
+<path aria-label="Hauck: 43; up: compress" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.65838279360293,168.9827075344359A75,75,0,0,0,175.2152026035225,200.9595957640051L209.0,134.0Z" fill="#4c3aeb" stroke="black" stroke-width="1"/>
+<path aria-label="Hauck: 41; up: grey" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.6832713776637,105.36102073925504A75,75,0,0,0,135.46089350454048,148.73091361217848L209.0,134.0Z" fill="#a88db8" stroke="black" stroke-width="1"/>
+<path aria-label="Hauck: 20; up: encoding" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.46089350454048,148.73091361217848A75,75,0,0,0,142.65838279360293,168.9827075344359L209.0,134.0Z" fill="#1ae456" stroke="black" stroke-width="1"/>
+<path aria-label="Hauck: 82; up: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M209.0,59.0A75,75,0,0,0,139.6832713776637,105.36102073925504L209.0,134.0Z" fill="#abb114" stroke="black" stroke-width="1"/>
+<path aria-label="Hauck: 24; up: Infrastructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M258.7962578967942,190.08326577042357A75,75,0,0,0,274.831796044447,169.93291846708718L209.0,134.0Z" fill="#115fbf" stroke="black" stroke-width="1"/>
+<path aria-label="Hauck: 83; up: Tesla" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.2152026035225,200.9595957640051A75,75,0,0,0,258.7962578967942,190.08326577042357L209.0,134.0Z" fill="#878d52" stroke="black" stroke-width="1"/>
+<path aria-label="Hauck: 22; up: Handcrafted" role="graphics-symbol" aria-roledescription="arc mark"  d="M269.32577004365186,89.43766760322751A75,75,0,0,0,252.47098912052758,72.88311931321289L209.0,134.0Z" fill="#f8fbe3" stroke="black" stroke-width="1"/>
+<path aria-label="Hauck: 79; up: Hip" role="graphics-symbol" aria-roledescription="arc mark"  d="M274.831796044447,169.93291846708718A75,75,0,0,0,269.32577004365186,89.43766760322751L209.0,134.0Z" fill="#ea6121" stroke="black" stroke-width="1"/>
+<path aria-label="Hauck: 43; up: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M252.47098912052758,72.88311931321289A75,75,0,0,0,209.0,59.0L209.0,134.0Z" fill="#349cc3" stroke="black" stroke-width="1"/>
+<text aria-label="141,149,193,201" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.93483289845085" y="200.2089144780823" font-family="serif" font-size="7px" fill="#4c3aeb" opacity="1">43</text>
+<text aria-label="115,123,120,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.42352203505531" y="127.27907141436309" font-family="serif" font-size="7px" fill="#a88db8" opacity="1">41</text>
+<text aria-label="120,128,159,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="124.19651700930616" y="166.13916509538876" font-family="serif" font-size="7px" fill="#1ae456" opacity="1">20</text>
+<text aria-label="154,162,54,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="158.9650610081338" y="61.19020866169838" font-family="serif" font-size="7px" fill="#abb114" opacity="1">82</text>
+<text aria-label="275,283,185,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="279.4224254601197" y="192.04178791146734" font-family="serif" font-size="7px" fill="#115fbf" opacity="1">24</text>
+<text aria-label="216,224,218,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="220.6137036182991" y="225.24753155279035" font-family="serif" font-size="7px" fill="#878d52" opacity="1">83</text>
+<text aria-label="268,276,64,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="272.06516710154915" y="71.7910855219177" font-family="serif" font-size="7px" fill="#f8fbe3" opacity="1">22</text>
+<text aria-label="294,302,122,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="298.7901892271485" y="129.8581827971796" font-family="serif" font-size="7px" fill="#ea6121" opacity="1">79</text>
+<text aria-label="232,240,43,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="236.3804390562587" y="50.26604198401601" font-family="serif" font-size="7px" fill="#349cc3" opacity="1">43</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#349cc3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#f8fbe3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ea6121" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#115fbf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#878d52" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#4c3aeb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#1ae456" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#a88db8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#abb114" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="21,81,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Handcrafted</text>
+<text aria-label="21,37,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Hip</text>
+<text aria-label="21,98,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Infrastructure</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Tesla</text>
+<text aria-label="21,65,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">compress</text>
+<text aria-label="21,65,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">encoding</text>
+<text aria-label="21,43,145,156" text-anchor="start" x="21.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">grey</text>
+<text aria-label="21,43,161,172" text-anchor="start" x="21.0" y="171.0" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+</svg>

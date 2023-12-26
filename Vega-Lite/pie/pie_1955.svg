@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="412" height="239" viewBox="0 0 412 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,407,0,26" text-anchor="end" x="407.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Infrastructure Plastic indexing</text>
+<path aria-label="Hatchback: 302; tertiary Centers: Cliff" role="graphics-symbol" aria-roledescription="arc mark"  d="M271.9878556867599,132.6503706058036A75,75,0,0,0,197.0,59.0L197.0,103.0A31,31,0,0,1,227.9949803505274,133.44215318373216Z" fill="#88ee8c" stroke="black" stroke-width="2"/>
+<path aria-label="Hatchback: 497; tertiary Centers: Home" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.2762100579758,176.60485600483668A75,75,0,0,0,271.9878556867599,132.6503706058036L227.9949803505274,133.44215318373216A31,31,0,0,1,171.48750015729667,151.61000714866583Z" fill="#8cd1eb" stroke="black" stroke-width="2"/>
+<path aria-label="Hatchback: 298; tertiary Centers: Shoes" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.04715913471622,73.96465959003422A75,75,0,0,0,135.2762100579758,176.60485600483668L171.48750015729667,151.61000714866583A31,31,0,0,1,178.41949244234937,109.18539263054747Z" fill="#0ffc0b" stroke="black" stroke-width="2"/>
+<path aria-label="Hatchback: 125; tertiary Centers: Technetium" role="graphics-symbol" aria-roledescription="arc mark"  d="M197.0,59.0A75,75,0,0,0,152.04715913471622,73.96465959003422L178.41949244234937,109.18539263054747A31,31,0,0,1,197.0,103.0Z" fill="#f7ee7a" stroke="black" stroke-width="2"/>
+<path  d="M326.0,56.0A5,5,0,1,1,316.0,56.0A5,5,0,1,1,326.0,56.0" fill="#88ee8c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M326.0,72.0A5,5,0,1,1,316.0,72.0A5,5,0,1,1,326.0,72.0" fill="#8cd1eb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M326.0,88.0A5,5,0,1,1,316.0,88.0A5,5,0,1,1,326.0,88.0" fill="#0ffc0b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M326.0,104.0A5,5,0,1,1,316.0,104.0A5,5,0,1,1,326.0,104.0" fill="#f7ee7a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="331,358,49,60" text-anchor="start" x="331.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cliff</text>
+<text aria-label="331,353,65,76" text-anchor="start" x="331.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Home</text>
+<text aria-label="331,358,81,92" text-anchor="start" x="331.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Shoes</text>
+<text aria-label="331,386,97,108" text-anchor="start" x="331.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Technetium</text>
+<text aria-label="315,411,32,44" text-anchor="start" x="315.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">tertiary Centers</text>
+</svg>

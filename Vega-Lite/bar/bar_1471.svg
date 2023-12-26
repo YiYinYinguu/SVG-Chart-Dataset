@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="716" height="334" viewBox="0 0 716 334" style="background-color: rgb(255, 255, 255);">
+<line x1="42.5" y1="243.5" x2="711.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="214.5" x2="711.5" y2="214.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="186.5" x2="711.5" y2="186.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="157.5" x2="711.5" y2="157.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="129.5" x2="711.5" y2="129.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="100.5" x2="711.5" y2="100.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="72.5" x2="711.5" y2="72.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="43.5" x2="711.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="111,131,250,310" text-anchor="end" x="125.62500000000001" y="250.5" transform="rotate(270.0, 131.625, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">backup</text>
+<text aria-label="278,298,250,310" text-anchor="end" x="292.875" y="250.5" transform="rotate(270.0, 298.875, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">barium</text>
+<text aria-label="446,466,250,330" text-anchor="end" x="460.125" y="250.5" transform="rotate(270.0, 466.125, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">castanet</text>
+<text aria-label="613,633,250,330" text-anchor="end" x="627.375" y="250.5" transform="rotate(270.0, 633.375, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">leverage</text>
+<line aria-label="125,125,243,248" x1="125.5" y1="243.5" x2="125.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="292,292,243,248" x1="292.5" y1="243.5" x2="292.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="460,460,243,248" x1="460.5" y1="243.5" x2="460.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="627,627,243,248" x1="627.5" y1="243.5" x2="627.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,711,243,243" x1="42.5" y1="243.5" x2="711.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="305,448,0,26" text-anchor="middle" x="376.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">meter since</text>
+<text aria-label="25,35,230,250" text-anchor="end" x="35.5" y="249.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="15,35,201,221" text-anchor="end" x="35.5" y="220.92857142857144" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="5,35,173,193" text-anchor="end" x="35.5" y="192.35714285714286" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="5,35,144,164" text-anchor="end" x="35.5" y="163.78571428571428" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="5,35,116,136" text-anchor="end" x="35.5" y="135.21428571428572" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="5,35,87,107" text-anchor="end" x="35.5" y="106.64285714285714" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">250</text>
+<text aria-label="5,35,59,79" text-anchor="end" x="35.5" y="78.07142857142858" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="5,35,30,50" text-anchor="end" x="35.5" y="49.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">350</text>
+<line aria-label="37,42,243,243" x1="42.5" y1="243.5" x2="37.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,42,214,214" x1="42.5" y1="214.5" x2="37.5" y2="214.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,42,186,186" x1="42.5" y1="186.5" x2="37.5" y2="186.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,42,157,157" x1="42.5" y1="157.5" x2="37.5" y2="157.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,42,129,129" x1="42.5" y1="129.5" x2="37.5" y2="129.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,42,100,100" x1="42.5" y1="100.5" x2="37.5" y2="100.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,42,72,72" x1="42.5" y1="72.5" x2="37.5" y2="72.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,42,43,43" x1="42.5" y1="43.5" x2="37.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,42,43,243" x1="42.5" y1="243.5" x2="42.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Forward indigo Rock: backup; Cliffs: 259; program sans: Gorgeous technologies paradigms" role="graphics-symbol" aria-roledescription="bar" d="M57.88875000000001,95.0h135.4725v148h-135.4725Z" fill="#95df9c"/>
+<path aria-label="Forward indigo Rock: castanet; Cliffs: 311; program sans: Gorgeous technologies paradigms" role="graphics-symbol" aria-roledescription="bar" d="M392.38875,65.28571428571428h135.4725v177.71428571428572h-135.4725Z" fill="#95df9c"/>
+<path aria-label="Forward indigo Rock: leverage; Cliffs: 4; program sans: Gorgeous technologies paradigms" role="graphics-symbol" aria-roledescription="bar" d="M559.63875,240.71428571428572h135.4725v2.2857142857142776h-135.4725Z" fill="#95df9c"/>
+<path aria-label="Forward indigo Rock: barium; Cliffs: 189; program sans: Gorgeous technologies paradigms" role="graphics-symbol" aria-roledescription="bar" d="M225.13875000000002,135.0h135.4725v108h-135.4725Z" fill="#95df9c"/>
+</svg>

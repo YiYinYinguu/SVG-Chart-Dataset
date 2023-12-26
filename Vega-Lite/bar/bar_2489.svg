@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1011" height="396" viewBox="0 0 1011 396" style="background-color: rgb(255, 255, 255);">
+<line x1="170.5" y1="43.5" x2="170.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="351.5" y1="43.5" x2="351.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="533.5" y1="43.5" x2="533.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="715.5" y1="43.5" x2="715.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="896.5" y1="43.5" x2="896.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="61.5" y1="243.5" x2="1006.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="61.5" y1="210.5" x2="1006.5" y2="210.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="61.5" y1="176.5" x2="1006.5" y2="176.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="61.5" y1="143.5" x2="1006.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="61.5" y1="110.5" x2="1006.5" y2="110.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="61.5" y1="76.5" x2="1006.5" y2="76.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="61.5" y1="43.5" x2="1006.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="156,176,250,290" text-anchor="end" x="170.03846153846155" y="250.5" transform="rotate(270.0, 176.03846153846155, 250.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">fine</text>
+<text aria-label="337,357,250,330" text-anchor="end" x="351.7692307692308" y="250.5" transform="rotate(270.0, 357.7692307692308, 250.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">odometer</text>
+<text aria-label="519,539,250,390" text-anchor="end" x="533.5" y="250.5" transform="rotate(270.0, 539.5, 250.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">reorganization</text>
+<text aria-label="701,721,250,340" text-anchor="end" x="715.2307692307692" y="250.5" transform="rotate(270.0, 721.2307692307692, 250.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">residence</text>
+<text aria-label="882,902,250,340" text-anchor="end" x="896.9615384615385" y="250.5" transform="rotate(270.0, 902.9615384615385, 250.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">territory</text>
+<line aria-label="170,170,243,248" x1="170.5" y1="243.5" x2="170.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="351,351,243,248" x1="351.5" y1="243.5" x2="351.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="533,533,243,248" x1="533.5" y1="243.5" x2="533.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="715,715,243,248" x1="715.5" y1="243.5" x2="715.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="896,896,243,248" x1="896.5" y1="243.5" x2="896.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="61,1006,243,243" x1="61.5" y1="243.5" x2="1006.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="876,1006,0,26" text-anchor="end" x="1006.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Shoal Toys</text>
+<text aria-label="44,54,230,250" text-anchor="end" x="54.5" y="249.5" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="24,54,197,217" text-anchor="end" x="54.5" y="216.16666666666669" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="24,54,163,183" text-anchor="end" x="54.5" y="182.83333333333334" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="24,54,130,150" text-anchor="end" x="54.5" y="149.5" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="24,54,97,117" text-anchor="end" x="54.5" y="116.16666666666667" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="24,54,63,83" text-anchor="end" x="54.5" y="82.83333333333333" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="24,54,30,50" text-anchor="end" x="54.5" y="49.5" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">600</text>
+<line aria-label="56,61,243,243" x1="61.5" y1="243.5" x2="56.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,61,210,210" x1="61.5" y1="210.5" x2="56.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,61,176,176" x1="61.5" y1="176.5" x2="56.5" y2="176.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,61,143,143" x1="61.5" y1="143.5" x2="56.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,61,110,110" x1="61.5" y1="110.5" x2="56.5" y2="110.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,61,76,76" x1="61.5" y1="76.5" x2="56.5" y2="76.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,61,43,43" x1="61.5" y1="43.5" x2="56.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,104,182" text-anchor="middle" x="17.07373046875" y="143.5" transform="rotate(-90.0, 15.07373046875, 143.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Savings sunny</text>
+<path aria-label="National UTF8: residence; Savings sunny: 392; Warren West: Gasoline instead" role="graphics-symbol" aria-roledescription="bar" d="M642.5384615384614,112.33333333333334h72.6923076923077v130.66666666666666h-72.6923076923077Z" fill="#2a60cd"/>
+<path aria-label="National UTF8: residence; Savings sunny: 523; Warren West: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M715.2307692307692,68.66666666666666h72.6923076923077v174.33333333333334h-72.6923076923077Z" fill="#d75a7a"/>
+<path aria-label="National UTF8: fine; Savings sunny: 5; Warren West: Gasoline instead" role="graphics-symbol" aria-roledescription="bar" d="M97.34615384615387,241.33333333333334h72.6923076923077v1.6666666666666572h-72.6923076923077Z" fill="#2a60cd"/>
+<path aria-label="National UTF8: fine; Savings sunny: 239; Warren West: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M170.03846153846155,163.33333333333334h72.6923076923077v79.66666666666666h-72.6923076923077Z" fill="#d75a7a"/>
+<path aria-label="National UTF8: odometer; Savings sunny: 190; Warren West: Gasoline instead" role="graphics-symbol" aria-roledescription="bar" d="M279.0769230769231,179.66666666666666h72.6923076923077v63.33333333333334h-72.6923076923077Z" fill="#2a60cd"/>
+<path aria-label="National UTF8: odometer; Savings sunny: 182; Warren West: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M351.7692307692308,182.33333333333334h72.6923076923077v60.66666666666666h-72.6923076923077Z" fill="#d75a7a"/>
+<path aria-label="National UTF8: reorganization; Savings sunny: 96; Warren West: Gasoline instead" role="graphics-symbol" aria-roledescription="bar" d="M460.8076923076923,211.0h72.6923076923077v32h-72.6923076923077Z" fill="#2a60cd"/>
+<path aria-label="National UTF8: reorganization; Savings sunny: 373; Warren West: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M533.5,118.66666666666666h72.6923076923077v124.33333333333334h-72.6923076923077Z" fill="#d75a7a"/>
+<path aria-label="National UTF8: territory; Savings sunny: 560; Warren West: Gasoline instead" role="graphics-symbol" aria-roledescription="bar" d="M824.2692307692307,56.33333333333333h72.6923076923077v186.66666666666666h-72.6923076923077Z" fill="#2a60cd"/>
+<path aria-label="National UTF8: territory; Savings sunny: 451; Warren West: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M896.9615384615385,92.66666666666666h72.6923076923077v150.33333333333334h-72.6923076923077Z" fill="#d75a7a"/>
+</svg>

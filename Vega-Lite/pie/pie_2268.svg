@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="328" height="239" viewBox="0 0 328 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,196,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Yttrium likely</text>
+<path aria-label="impactful: 358; Bossier Northeast: Administrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.26275537313434,127.72749925595548A75,75,0,1,0,105.0,59.0L105.0,94.0A40,40,0,1,1,65.14013619900498,130.65466626984292Z" fill="#ac9ea2" stroke="black" stroke-width="0"/>
+<path aria-label="impactful: 54; Bossier Northeast: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M74.73972098734245,65.37554725845811A75,75,0,0,0,36.89189131639198,102.59481680451717L68.67567536874239,117.25056896240915A40,40,0,0,1,88.86118452658263,97.40029187117766Z" fill="#3d8bf4" stroke="black" stroke-width="0"/>
+<path aria-label="impactful: 26; Bossier Northeast: Cheese" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.89189131639198,102.59481680451717A75,75,0,0,0,30.26275537313434,127.72749925595548L65.14013619900498,130.65466626984292A40,40,0,0,1,68.67567536874239,117.25056896240915Z" fill="#fecc80" stroke="black" stroke-width="0"/>
+<path aria-label="impactful: 31; Bossier Northeast: teal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,74.73972098734245,65.37554725845811L88.86118452658263,97.40029187117766A40,40,0,0,1,104.99999999999999,94.0Z" fill="#3216c6" stroke="black" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ac9ea2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#fecc80" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#3d8bf4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#3216c6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,310,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Administrator</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cheese</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">teal</text>
+<text aria-label="223,325,32,44" text-anchor="start" x="223.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bossier Northeast</text>
+</svg>

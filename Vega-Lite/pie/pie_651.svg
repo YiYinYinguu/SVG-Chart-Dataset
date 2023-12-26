@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="281" height="239" viewBox="0 0 281 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="237,276,0,26" text-anchor="end" x="276.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">F2M</text>
+<path aria-label="Massachusetts: 25; exploit: solid" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.0,59.0A75,75,0,0,0,162.62335599882968,60.20253801609465L168.3307241059957,91.68945512922761A43,43,0,0,1,176.0,91.0Z" fill="#ae397d" stroke="black" stroke-width="2"/>
+<path aria-label="Massachusetts: 325; exploit: amidst" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.62335599882968,60.20253801609465A75,75,0,0,0,131.74220543369566,194.54954682016046L150.62553111531884,168.71507351022532A43,43,0,0,1,168.3307241059957,91.68945512922761Z" fill="#cf7af2" stroke="black" stroke-width="2"/>
+<path aria-label="Massachusetts: 3; exploit: Chips" role="graphics-symbol" aria-roledescription="arc mark"  d="M247.29591857712484,110.721426284156A75,75,0,0,0,246.778549652886,109.1928052969718L216.57970180098798,119.77720837026384A43,43,0,0,1,216.87632665088492,120.65361773624944Z" fill="#95d0fe" stroke="black" stroke-width="2"/>
+<path aria-label="Massachusetts: 172; exploit: Abshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M246.778549652886,109.1928052969718A75,75,0,0,0,176.0,59.0L176.0,91.0A43,43,0,0,1,216.57970180098798,119.77720837026384Z" fill="#da2cdd" stroke="black" stroke-width="2"/>
+<path aria-label="Massachusetts: 351; exploit: Metal" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.74220543369566,194.54954682016046A75,75,0,0,0,247.29591857712484,110.721426284156L216.87632665088492,120.65361773624944A43,43,0,0,1,150.62553111531884,168.71507351022532Z" fill="#d5edd3" stroke="black" stroke-width="2"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#da2cdd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#95d0fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#d5edd3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#cf7af2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#ae397d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Abshire</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Chips</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Metal</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">amidst</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">solid</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">exploit</text>
+</svg>

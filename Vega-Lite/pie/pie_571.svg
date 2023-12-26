@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="270" viewBox="0 0 304 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">bypass</text>
+<path aria-label="Product SSD: 568; Towels Southeast: SUV" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.93996968864505,205.71915873782496A75,75,0,0,0,178.1101444656634,117.26958529474464L142.04247319593614,125.52325654933729A38,38,0,0,1,116.11625130891349,170.3377070938313Z" fill="#cde0d5" stroke="black" stroke-width="4"/>
+<path aria-label="Product SSD: 425; Towels Southeast: Handmade" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.55732318030596,101.42688094898345A75,75,0,0,0,105.0,59.0L105.0,96.0A38,38,0,0,1,139.22904374468834,117.49628634748495Z" fill="#ceb29d" stroke="black" stroke-width="4"/>
+<path aria-label="Product SSD: 85; Towels Southeast: Personal" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.1101444656634,117.26958529474464A75,75,0,0,0,172.55732318030596,101.42688094898345L139.22904374468834,117.49628634748495A38,38,0,0,1,142.04247319593614,125.52325654933729Z" fill="#dfbca2" stroke="black" stroke-width="4"/>
+<path aria-label="Product SSD: 540; Towels Southeast: around" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.795732908616458,123.10381968621049L67.40317134036567,128.4792686410133A38,38,0,0,1,105.0,96.0Z" fill="#23506d" stroke="black" stroke-width="4"/>
+<path aria-label="Product SSD: 763; Towels Southeast: Unbranded" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.795732908616458,123.10381968621049A75,75,0,0,0,126.93996968864505,205.71915873782496L116.11625130891349,170.3377070938313A38,38,0,0,1,67.40317134036567,128.4792686410133Z" fill="#8efb2e" stroke="black" stroke-width="4"/>
+<text aria-label="175,190,173,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.9026729161688" y="182.0685428266371" font-family="monospace" font-size="9px" fill="#cde0d5" opacity="1">568</text>
+<text aria-label="145,160,51,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.8649304945187" y="60.78354227101016" font-family="monospace" font-size="9px" fill="#ceb29d" opacity="1">425</text>
+<text aria-label="184,194,98,108" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.93408023031822" y="107.2308546405869" font-family="monospace" font-size="9px" fill="#dfbca2" opacity="1">85</text>
+<text aria-label="38,53,59,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="46.16458325927007" y="68.89424593366111" font-family="monospace" font-size="9px" fill="#23506d" opacity="1">540</text>
+<text aria-label="38,53,196,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="46.34451116339205" y="205.2607766534967" font-family="monospace" font-size="9px" fill="#8efb2e" opacity="1">763</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#ceb29d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,258.25A5,5,0,1,1,73.0,258.25A5,5,0,1,1,83.0,258.25" fill="#dfbca2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M150.0,258.25A5,5,0,1,1,140.0,258.25A5,5,0,1,1,150.0,258.25" fill="#cde0d5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,258.25A5,5,0,1,1,182.0,258.25A5,5,0,1,1,192.0,258.25" fill="#8efb2e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M264.0,258.25A5,5,0,1,1,254.0,258.25A5,5,0,1,1,264.0,258.25" fill="#23506d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Handmade</text>
+<text aria-label="88,132,251,262" text-anchor="start" x="88.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Personal</text>
+<text aria-label="155,171,251,262" text-anchor="start" x="155.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">SUV</text>
+<text aria-label="197,246,251,262" text-anchor="start" x="197.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Unbranded</text>
+<text aria-label="269,302,251,262" text-anchor="start" x="269.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">around</text>
+</svg>

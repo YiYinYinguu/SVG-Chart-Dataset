@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="362" height="270" viewBox="0 0 362 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="17,316,0,26" text-anchor="middle" x="167.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Implementation populate</text>
+<path aria-label="Small distributed: 72; District West Awesome: hub" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.8778170050245,208.93498497595021A75,75,0,0,0,188.55333154886213,205.83629931409902L176.48346588149934,165.60797169820358A33,33,0,0,1,165.6262394822108,166.9713933894181Z" fill="#2ab4ac" stroke="black" stroke-width="0"/>
+<path aria-label="Small distributed: 255; District West Awesome: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.52964933803626,159.66962558316476A75,75,0,0,0,163.8778170050245,208.93498497595021L165.6262394822108,166.9713933894181A33,33,0,0,1,135.99304570873596,145.2946352565925Z" fill="#08d1b5" stroke="black" stroke-width="0"/>
+<path aria-label="Small distributed: 245; District West Awesome: Lithium" role="graphics-symbol" aria-roledescription="arc mark"  d="M188.55333154886213,205.83629931409902A75,75,0,0,0,241.2048598427267,144.89214284341176L199.65013833079973,138.79254285110116A33,33,0,0,1,176.48346588149934,165.60797169820358Z" fill="#0ac0ae" stroke="black" stroke-width="0"/>
+<path aria-label="Small distributed: 371; District West Awesome: Kwacha" role="graphics-symbol" aria-roledescription="arc mark"  d="M241.2048598427267,144.89214284341176A75,75,0,0,0,167.0,59.0L167.0,101.0A33,33,0,0,1,199.65013833079973,138.79254285110116Z" fill="#4a20f6" stroke="black" stroke-width="0"/>
+<path aria-label="Small distributed: 415; District West Awesome: propagate" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.0,59.0A75,75,0,0,0,96.52964933803626,159.66962558316476L135.99304570873596,145.2946352565925A33,33,0,0,1,167.0,101.0Z" fill="#540d64" stroke="black" stroke-width="0"/>
+<path  d="M78.0,258.25A5,5,0,1,1,68.0,258.25A5,5,0,1,1,78.0,258.25" fill="#4a20f6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M142.0,258.25A5,5,0,1,1,132.0,258.25A5,5,0,1,1,142.0,258.25" fill="#0ac0ae" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M205.0,258.25A5,5,0,1,1,195.0,258.25A5,5,0,1,1,205.0,258.25" fill="#2ab4ac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,258.25A5,5,0,1,1,241.0,258.25A5,5,0,1,1,251.0,258.25" fill="#08d1b5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M302.0,258.25A5,5,0,1,1,292.0,258.25A5,5,0,1,1,302.0,258.25" fill="#540d64" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="83,116,251,262" text-anchor="start" x="83.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Kwacha</text>
+<text aria-label="147,185,251,262" text-anchor="start" x="147.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Lithium</text>
+<text aria-label="210,226,251,262" text-anchor="start" x="210.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">hub</text>
+<text aria-label="256,278,251,262" text-anchor="start" x="256.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="307,356,251,262" text-anchor="start" x="307.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">propagate</text>
+</svg>

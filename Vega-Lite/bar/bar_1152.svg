@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="798" height="345" viewBox="0 0 798 345" style="background-color: rgb(255, 255, 255);">
+<line x1="69.5" y1="243.5" x2="793.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="69.5" y1="210.5" x2="793.5" y2="210.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="69.5" y1="176.5" x2="793.5" y2="176.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="69.5" y1="143.5" x2="793.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="69.5" y1="110.5" x2="793.5" y2="110.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="69.5" y1="76.5" x2="793.5" y2="76.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="69.5" y1="43.5" x2="793.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="100,119,250,307" text-anchor="end" x="114.24999999999997" y="250.5" transform="rotate(270.0, 119.24999999999997, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">ballot</text>
+<text aria-label="190,209,250,326" text-anchor="end" x="204.74999999999997" y="250.5" transform="rotate(270.0, 209.74999999999997, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">earnings</text>
+<text aria-label="281,300,250,317" text-anchor="end" x="295.25" y="250.5" transform="rotate(270.0, 300.25, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">hospice</text>
+<text aria-label="371,390,250,345" text-anchor="end" x="385.75" y="250.5" transform="rotate(270.0, 390.75, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">knife-edge</text>
+<text aria-label="462,481,250,307" text-anchor="end" x="476.25" y="250.5" transform="rotate(270.0, 481.25, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">liquid</text>
+<text aria-label="552,571,250,326" text-anchor="end" x="566.75" y="250.5" transform="rotate(270.0, 571.75, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">military</text>
+<text aria-label="643,662,250,326" text-anchor="end" x="657.25" y="250.5" transform="rotate(270.0, 662.25, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">titanium</text>
+<text aria-label="733,752,250,317" text-anchor="end" x="747.75" y="250.5" transform="rotate(270.0, 752.75, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">trolley</text>
+<line aria-label="114,114,243,248" x1="114.5" y1="243.5" x2="114.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="204,204,243,248" x1="204.5" y1="243.5" x2="204.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="295,295,243,248" x1="295.5" y1="243.5" x2="295.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="385,385,243,248" x1="385.5" y1="243.5" x2="385.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="476,476,243,248" x1="476.5" y1="243.5" x2="476.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="566,566,243,248" x1="566.5" y1="243.5" x2="566.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="657,657,243,248" x1="657.5" y1="243.5" x2="657.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="747,747,243,248" x1="747.5" y1="243.5" x2="747.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="69,793,243,243" x1="69.5" y1="243.5" x2="793.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="715,793,0,26" text-anchor="end" x="793.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gloves</text>
+<text aria-label="58,67,230,249" text-anchor="end" x="67.5" y="248.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="39,67,197,216" text-anchor="end" x="67.5" y="215.16666666666669" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="39,67,163,182" text-anchor="end" x="67.5" y="181.83333333333334" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="39,67,130,149" text-anchor="end" x="67.5" y="148.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="39,67,97,116" text-anchor="end" x="67.5" y="115.16666666666667" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="20,67,63,82" text-anchor="end" x="67.5" y="81.83333333333333" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="20,67,30,49" text-anchor="end" x="67.5" y="48.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">1,200</text>
+<text aria-label="2,14,65,221" text-anchor="middle" x="16.7421875" y="143.5" transform="rotate(-90.0, 14.7421875, 143.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">West innocently voluptates</text>
+<line aria-label="69,69,43,243" x1="69.5" y1="243.5" x2="69.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Assurance solutions: hospice; West innocently voluptates: 218; Jeep: Communications" role="graphics-symbol" aria-roledescription="bar" d="M266.74249999999995,143.16666666666669h57.01500000000001v36.33333333333333h-57.01500000000001Z" fill="#2bd96f"/>
+<path aria-label="Assurance solutions: hospice; West innocently voluptates: 381; Jeep: SDD" role="graphics-symbol" aria-roledescription="bar" d="M266.74249999999995,179.5h57.01500000000001v63.5h-57.01500000000001Z" fill="#93b364"/>
+<path aria-label="Assurance solutions: earnings; West innocently voluptates: 318; Jeep: Communications" role="graphics-symbol" aria-roledescription="bar" d="M176.24249999999998,101.83333333333334h57.01500000000001v52.99999999999998h-57.01500000000001Z" fill="#2bd96f"/>
+<path aria-label="Assurance solutions: earnings; West innocently voluptates: 529; Jeep: SDD" role="graphics-symbol" aria-roledescription="bar" d="M176.24249999999998,154.83333333333331h57.01500000000001v88.16666666666669h-57.01500000000001Z" fill="#93b364"/>
+<path aria-label="Assurance solutions: knife-edge; West innocently voluptates: 116; Jeep: Communications" role="graphics-symbol" aria-roledescription="bar" d="M357.24249999999995,197.0h57.01500000000001v19.333333333333343h-57.01500000000001Z" fill="#2bd96f"/>
+<path aria-label="Assurance solutions: knife-edge; West innocently voluptates: 160; Jeep: SDD" role="graphics-symbol" aria-roledescription="bar" d="M357.24249999999995,216.33333333333334h57.01500000000001v26.666666666666657h-57.01500000000001Z" fill="#93b364"/>
+<path aria-label="Assurance solutions: liquid; West innocently voluptates: 504; Jeep: Communications" role="graphics-symbol" aria-roledescription="bar" d="M447.74249999999995,73.83333333333334h57.01500000000001v84h-57.01500000000001Z" fill="#2bd96f"/>
+<path aria-label="Assurance solutions: liquid; West innocently voluptates: 511; Jeep: SDD" role="graphics-symbol" aria-roledescription="bar" d="M447.74249999999995,157.83333333333334h57.01500000000001v85.16666666666666h-57.01500000000001Z" fill="#93b364"/>
+<path aria-label="Assurance solutions: trolley; West innocently voluptates: 503; Jeep: Communications" role="graphics-symbol" aria-roledescription="bar" d="M719.2425,104.83333333333334h57.01500000000001v83.83333333333331h-57.01500000000001Z" fill="#2bd96f"/>
+<path aria-label="Assurance solutions: trolley; West innocently voluptates: 326; Jeep: SDD" role="graphics-symbol" aria-roledescription="bar" d="M719.2425,188.66666666666666h57.01500000000001v54.33333333333334h-57.01500000000001Z" fill="#93b364"/>
+<path aria-label="Assurance solutions: military; West innocently voluptates: 517; Jeep: Communications" role="graphics-symbol" aria-roledescription="bar" d="M538.2425,55.66666666666667h57.01500000000001v86.16666666666666h-57.01500000000001Z" fill="#2bd96f"/>
+<path aria-label="Assurance solutions: military; West innocently voluptates: 607; Jeep: SDD" role="graphics-symbol" aria-roledescription="bar" d="M538.2425,141.83333333333331h57.01500000000001v101.16666666666667h-57.01500000000001Z" fill="#93b364"/>
+<path aria-label="Assurance solutions: ballot; West innocently voluptates: 15; Jeep: Communications" role="graphics-symbol" aria-roledescription="bar" d="M85.74249999999998,144.83333333333331h57.01500000000001v2.500000000000014h-57.01500000000001Z" fill="#2bd96f"/>
+<path aria-label="Assurance solutions: ballot; West innocently voluptates: 574; Jeep: SDD" role="graphics-symbol" aria-roledescription="bar" d="M85.74249999999998,147.33333333333334h57.01500000000001v95.66666666666666h-57.01500000000001Z" fill="#93b364"/>
+<path aria-label="Assurance solutions: titanium; West innocently voluptates: 268; Jeep: Communications" role="graphics-symbol" aria-roledescription="bar" d="M628.7425,76.33333333333333h57.01500000000001v44.66666666666667h-57.01500000000001Z" fill="#2bd96f"/>
+<path aria-label="Assurance solutions: titanium; West innocently voluptates: 732; Jeep: SDD" role="graphics-symbol" aria-roledescription="bar" d="M628.7425,121.0h57.01500000000001v122h-57.01500000000001Z" fill="#93b364"/>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="536" height="301" viewBox="0 0 536 301" style="background-color: rgb(255, 255, 255);">
+<line x1="211.5" y1="41.5" x2="211.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="269.5" y1="41.5" x2="269.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="327.5" y1="41.5" x2="327.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="385.5" y1="41.5" x2="385.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="444.5" y1="41.5" x2="444.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="502.5" y1="41.5" x2="502.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="200,216,248,296" text-anchor="end" x="211.99999999999997" y="248.5" transform="rotate(270.0, 216.99999999999997, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">bikini</text>
+<text aria-label="259,275,248,296" text-anchor="end" x="270.0" y="248.5" transform="rotate(270.0, 275.0, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">cabana</text>
+<text aria-label="317,333,248,280" text-anchor="end" x="328.0" y="248.5" transform="rotate(270.0, 333.0, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">chem</text>
+<text aria-label="375,391,248,288" text-anchor="end" x="386.0" y="248.5" transform="rotate(270.0, 391.0, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">rainy</text>
+<text aria-label="433,449,248,296" text-anchor="end" x="444.0" y="248.5" transform="rotate(270.0, 449.0, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">sphynx</text>
+<text aria-label="491,507,248,288" text-anchor="end" x="502.0" y="248.5" transform="rotate(270.0, 507.0, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">truth</text>
+<line aria-label="211,211,241,246" x1="211.5" y1="241.5" x2="211.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="269,269,241,246" x1="269.5" y1="241.5" x2="269.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="327,327,241,246" x1="327.5" y1="241.5" x2="327.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="385,385,241,246" x1="385.5" y1="241.5" x2="385.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="444,444,241,246" x1="444.5" y1="241.5" x2="444.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="502,502,241,246" x1="502.5" y1="241.5" x2="502.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="183,531,241,241" x1="183.5" y1="241.5" x2="531.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="271,531,0,26" text-anchor="end" x="531.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">reboot Future orange</text>
+<text aria-label="168,176,231,247" text-anchor="end" x="176.5" y="246.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="152,176,198,214" text-anchor="end" x="176.5" y="213.16666666666669" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="152,176,164,180" text-anchor="end" x="176.5" y="179.83333333333334" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="152,176,131,147" text-anchor="end" x="176.5" y="146.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="152,176,98,114" text-anchor="end" x="176.5" y="113.16666666666667" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="152,176,64,80" text-anchor="end" x="176.5" y="79.83333333333333" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="152,176,31,47" text-anchor="end" x="176.5" y="46.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="178,183,241,241" x1="183.5" y1="241.5" x2="178.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="178,183,208,208" x1="183.5" y1="208.5" x2="178.5" y2="208.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="178,183,174,174" x1="183.5" y1="174.5" x2="178.5" y2="174.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="178,183,141,141" x1="183.5" y1="141.5" x2="178.5" y2="141.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="178,183,108,108" x1="183.5" y1="108.5" x2="178.5" y2="108.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="178,183,74,74" x1="183.5" y1="74.5" x2="178.5" y2="74.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="178,183,41,41" x1="183.5" y1="41.5" x2="178.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="131,143,117,165" text-anchor="middle" x="145.5" y="141.5" transform="rotate(-90.0, 143.5, 141.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Michigan</text>
+<line aria-label="183,183,41,241" x1="183.5" y1="241.5" x2="183.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Shoes Borders Tricycle: chem; Michigan: 15; orchestrate: Bromine Lake Diesel" role="graphics-symbol" aria-roledescription="bar" d="M307.12,236.0h41.760000000000005v5h-41.760000000000005Z" fill="#af938a"/>
+<path aria-label="Shoes Borders Tricycle: bikini; Michigan: 558; orchestrate: Bromine Lake Diesel" role="graphics-symbol" aria-roledescription="bar" d="M191.11999999999998,54.999999999999986h41.760000000000005v186h-41.760000000000005Z" fill="#af938a"/>
+<path aria-label="Shoes Borders Tricycle: truth; Michigan: 528; orchestrate: Bromine Lake Diesel" role="graphics-symbol" aria-roledescription="bar" d="M481.12,65.0h41.760000000000005v176h-41.760000000000005Z" fill="#af938a"/>
+<path aria-label="Shoes Borders Tricycle: rainy; Michigan: 563; orchestrate: Bromine Lake Diesel" role="graphics-symbol" aria-roledescription="bar" d="M365.12,53.33333333333333h41.760000000000005v187.66666666666669h-41.760000000000005Z" fill="#af938a"/>
+<path aria-label="Shoes Borders Tricycle: cabana; Michigan: 172; orchestrate: Bromine Lake Diesel" role="graphics-symbol" aria-roledescription="bar" d="M249.11999999999998,183.66666666666669h41.760000000000005v57.333333333333314h-41.760000000000005Z" fill="#af938a"/>
+<path aria-label="Shoes Borders Tricycle: sphynx; Michigan: 502; orchestrate: Bromine Lake Diesel" role="graphics-symbol" aria-roledescription="bar" d="M423.12,73.66666666666666h41.760000000000005v167.33333333333334h-41.760000000000005Z" fill="#af938a"/>
+<path  d="M6.0,42.0h10v10h-10Z" fill="#af938a" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,125,40,51" text-anchor="start" x="21.0" y="50.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bromine Lake Diesel</text>
+</svg>

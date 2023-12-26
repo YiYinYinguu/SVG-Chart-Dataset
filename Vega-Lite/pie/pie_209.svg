@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="336" height="286" viewBox="0 0 336 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="97,331,0,26" text-anchor="end" x="331.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">connect connecting</text>
+<path aria-label="male: 168; collaboration: Research" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.92660996097447,251.73658258534581A75,75,0,0,0,164.38411835914934,226.80967678020158L105.0,181.0Z" fill="#2c9e4d" stroke="white" stroke-width="2"/>
+<path aria-label="male: 160; collaboration: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.93388468000547,224.54227324939671A75,75,0,0,0,75.52986595474793,249.9674647885137L105.0,181.0Z" fill="#411a8f" stroke="white" stroke-width="2"/>
+<path aria-label="male: 651; collaboration: Incredible" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.38411835914934,226.80967678020158A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#fa5df3" stroke="white" stroke-width="2"/>
+<path aria-label="male: 640; collaboration: productize" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,43.93388468000547,224.54227324939671L105.0,181.0Z" fill="#fc65bc" stroke="white" stroke-width="2"/>
+<path aria-label="male: 217; collaboration: Yttrium" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.52986595474793,249.9674647885137A75,75,0,0,0,129.92660996097447,251.73658258534581L105.0,181.0Z" fill="#63f6d7" stroke="white" stroke-width="2"/>
+<text aria-label="151,164,247,256" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.7510553016693" y="255.91999838562964" font-family="Balto" font-size="8px" fill="#2c9e4d" opacity="1">168</text>
+<text aria-label="41,55,245,254" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="48.57685746953044" y="253.11725170731034" font-family="Balto" font-size="8px" fill="#411a8f" opacity="1">160</text>
+<text aria-label="179,192,135,144" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.76956447902197" y="143.2976391902306" font-family="Balto" font-size="8px" fill="#fa5df3" opacity="1">651</text>
+<text aria-label="18,31,133,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="24.99198318001237" y="141.78450237431827" font-family="Balto" font-size="8px" fill="#fc65bc" opacity="1">640</text>
+<text aria-label="95,108,264,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.07452226156956" y="272.9524406561709" font-family="Balto" font-size="8px" fill="#63f6d7" opacity="1">217</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#fa5df3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M91.0,56.25A5,5,0,1,1,81.0,56.25A5,5,0,1,1,91.0,56.25" fill="#2c9e4d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M161.0,56.25A5,5,0,1,1,151.0,56.25A5,5,0,1,1,161.0,56.25" fill="#63f6d7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M224.0,56.25A5,5,0,1,1,214.0,56.25A5,5,0,1,1,224.0,56.25" fill="#411a8f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M275.0,56.25A5,5,0,1,1,265.0,56.25A5,5,0,1,1,275.0,56.25" fill="#fc65bc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Incredible</text>
+<text aria-label="96,140,49,60" text-anchor="start" x="96.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Research</text>
+<text aria-label="166,204,49,60" text-anchor="start" x="166.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Yttrium</text>
+<text aria-label="229,251,49,60" text-anchor="start" x="229.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="280,335,49,60" text-anchor="start" x="280.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">productize</text>
+<text aria-label="5,83,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">collaboration</text>
+</svg>

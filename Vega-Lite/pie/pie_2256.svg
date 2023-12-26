@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="239" viewBox="0 0 308 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,303,0,26" text-anchor="end" x="303.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Northeast Bhutan female</text>
+<path aria-label="Samoa Southeast payment: 290; Towels: Antilles" role="graphics-symbol" aria-roledescription="arc mark"  d="M197.05501489418918,165.52007214064858A75,75,0,0,0,129.0,59.0L129.0,134.0Z" fill="#cbd6f0" stroke="black" stroke-width="3"/>
+<path aria-label="Samoa Southeast payment: 401; Towels: Grand" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.153249387432396,129.2079312671759A75,75,0,0,0,197.05501489418918,165.52007214064858L129.0,134.0Z" fill="#cdfae9" stroke="black" stroke-width="3"/>
+<path aria-label="Samoa Southeast payment: 218; Towels: red" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.0,59.0A75,75,0,0,0,54.153249387432396,129.2079312671759L129.0,134.0Z" fill="#64cfcd" stroke="black" stroke-width="3"/>
+<text aria-label="194,215,76,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="204.84249399640694" y="89.5446999348371" font-family="monospace" font-size="13px" fill="#cbd6f0" opacity="1">290</text>
+<text aria-label="96,117,212,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.83489838511986" y="225.22790992796996" font-family="monospace" font-size="13px" fill="#cdfae9" opacity="1">401</text>
+<text aria-label="56,77,59,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="67.42704905214063" y="72.35876515807686" font-family="monospace" font-size="13px" fill="#64cfcd" opacity="1">218</text>
+<path  d="M258.0,56.0A5,5,0,1,1,248.0,56.0A5,5,0,1,1,258.0,56.0" fill="#cbd6f0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,72.0A5,5,0,1,1,248.0,72.0A5,5,0,1,1,258.0,72.0" fill="#cdfae9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,88.0A5,5,0,1,1,248.0,88.0A5,5,0,1,1,258.0,88.0" fill="#64cfcd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="263,307,49,60" text-anchor="start" x="263.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Antilles</text>
+<text aria-label="263,290,65,76" text-anchor="start" x="263.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Grand</text>
+<text aria-label="263,279,81,92" text-anchor="start" x="263.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">red</text>
+<text aria-label="247,283,32,44" text-anchor="start" x="247.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Towels</text>
+</svg>

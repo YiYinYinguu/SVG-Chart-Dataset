@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="450" height="270" viewBox="0 0 450 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="380,445,0,26" text-anchor="end" x="445.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">given</text>
+<path aria-label="zowie: 243; calculating: woman" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,72.52988490134688,66.39310963015515L88.11554014870038,98.84441700768068A39,39,0,0,1,104.99999999999999,95.0Z" fill="#7dcbec" stroke="black" stroke-width="0"/>
+<path aria-label="zowie: 612; calculating: Porsche" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.63677600706188,166.40781589941753A75,75,0,0,0,163.27869910431892,86.79202153546228L135.30492353424583,109.45185119844038A39,39,0,0,1,140.17112352367218,150.8520642676971Z" fill="#7fcb2b" stroke="black" stroke-width="0"/>
+<path aria-label="zowie: 311; calculating: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.26100953606357,197.90284133126733A75,75,0,0,0,172.63677600706188,166.40781589941753L140.17112352367218,150.8520642676971A39,39,0,0,1,125.41572495875305,167.229477492259Z" fill="#f3239e" stroke="black" stroke-width="0"/>
+<path aria-label="zowie: 483; calculating: a" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.05677907758049,204.73072691564377A75,75,0,0,0,144.26100953606357,197.90284133126733L125.41572495875305,167.229477492259A39,39,0,0,1,92.02952512034184,170.77997799613476Z" fill="#3f2efc" stroke="black" stroke-width="0"/>
+<path aria-label="zowie: 624; calculating: battalion" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.25197586043444,140.1427100884647A75,75,0,0,0,80.05677907758049,204.73072691564377L92.02952512034184,170.77997799613476A39,39,0,0,1,66.13102744742591,137.19420924600163Z" fill="#5a564d" stroke="black" stroke-width="0"/>
+<path aria-label="zowie: 483; calculating: Plastic" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.27869910431892,86.79202153546228A75,75,0,0,0,105.0,59.0L105.0,95.0A39,39,0,0,1,135.30492353424583,109.45185119844038Z" fill="#bf5ba1" stroke="black" stroke-width="0"/>
+<path aria-label="zowie: 138; calculating: fugiat" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.110276178414594,121.14275637744096A75,75,0,0,0,30.25197586043444,140.1427100884647L66.13102744742591,137.19420924600163A39,39,0,0,1,66.57734361277559,127.3142333162693Z" fill="#58a643" stroke="black" stroke-width="0"/>
+<path aria-label="zowie: 516; calculating: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.52988490134688,66.39310963015515A75,75,0,0,0,31.110276178414594,121.14275637744096L66.57734361277559,127.3142333162693A39,39,0,0,1,88.11554014870038,98.84441700768068Z" fill="#fc6eea" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#bf5ba1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,258.25A5,5,0,1,1,68.0,258.25A5,5,0,1,1,78.0,258.25" fill="#7fcb2b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,258.25A5,5,0,1,1,130.0,258.25A5,5,0,1,1,140.0,258.25" fill="#f3239e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,258.25A5,5,0,1,1,182.0,258.25A5,5,0,1,1,192.0,258.25" fill="#3f2efc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M224.0,258.25A5,5,0,1,1,214.0,258.25A5,5,0,1,1,224.0,258.25" fill="#5a564d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,258.25A5,5,0,1,1,286.0,258.25A5,5,0,1,1,296.0,258.25" fill="#58a643" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M353.0,258.25A5,5,0,1,1,343.0,258.25A5,5,0,1,1,353.0,258.25" fill="#fc6eea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M415.0,258.25A5,5,0,1,1,405.0,258.25A5,5,0,1,1,415.0,258.25" fill="#7dcbec" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Plastic</text>
+<text aria-label="83,121,251,262" text-anchor="start" x="83.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Porsche</text>
+<text aria-label="145,172,251,262" text-anchor="start" x="145.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="197,202,251,262" text-anchor="start" x="197.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">a</text>
+<text aria-label="229,278,251,262" text-anchor="start" x="229.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">battalion</text>
+<text aria-label="301,334,251,262" text-anchor="start" x="301.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">fugiat</text>
+<text aria-label="358,396,251,262" text-anchor="start" x="358.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="420,447,251,262" text-anchor="start" x="420.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">woman</text>
+</svg>

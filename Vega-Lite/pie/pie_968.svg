@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="334" height="270" viewBox="0 0 334 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,330,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">aboard provided Cassandre</text>
+<path aria-label="Chicken male: 941; East: Rustic" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.87834039983278,200.91231614398845A75,75,0,0,0,105.0,59.0L105.0,83.0A51,51,0,0,1,128.0372714718863,179.50037497791214Z" fill="#f4fb38" stroke="black" stroke-width="2"/>
+<path aria-label="Chicken male: 720; East: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.001210262515613,133.5739273388175A75,75,0,0,0,138.87834039983278,200.91231614398845L128.0372714718863,179.50037497791214A51,51,0,0,1,54.00082297851062,133.71027059039588Z" fill="#7a20aa" stroke="black" stroke-width="2"/>
+<path aria-label="Chicken male: 551; East: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.001210262515613,133.5739273388175L54.00082297851062,133.71027059039588A51,51,0,0,1,104.99999999999999,83.0Z" fill="#354fab" stroke="black" stroke-width="2"/>
+<text aria-label="181,203,103,118" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.54007694636425" y="117.10179605265985" font-family="serif" font-size="14px" fill="#f4fb38" opacity="1">941</text>
+<text aria-label="46,68,200,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="57.65946783338377" y="214.54328196635925" font-family="serif" font-size="14px" fill="#7a20aa" opacity="1">720</text>
+<text aria-label="30,52,60,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="41.541414479235755" y="74.17987837912051" font-family="serif" font-size="14px" fill="#354fab" opacity="1">551</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#f4fb38" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,258.25A5,5,0,1,1,63.0,258.25A5,5,0,1,1,73.0,258.25" fill="#7a20aa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,258.25A5,5,0,1,1,135.0,258.25A5,5,0,1,1,145.0,258.25" fill="#354fab" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Rustic</text>
+<text aria-label="78,127,251,262" text-anchor="start" x="78.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="150,177,251,262" text-anchor="start" x="150.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Steel</text>
+</svg>

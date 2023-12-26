@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="159,289,0,26" text-anchor="end" x="289.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">withdrawal</text>
+<path aria-label="East analyzer: 86; Funk Electronics: handful" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.21616827748767,180.57747447017016A75,75,0,0,0,215.33841957806686,204.22312762993192L189.0,134.0Z" fill="#ab6bba" stroke="white" stroke-width="0"/>
+<path aria-label="East analyzer: 153; Funk Electronics: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,130.21616827748767,180.57747447017016L189.0,134.0Z" fill="#da88d1" stroke="white" stroke-width="0"/>
+<path aria-label="East analyzer: 78; Funk Electronics: Assistant" role="graphics-symbol" aria-roledescription="arc mark"  d="M257.2223996515889,102.84387402485852A75,75,0,0,0,189.0,59.0L189.0,134.0Z" fill="#a18e5d" stroke="white" stroke-width="0"/>
+<path aria-label="East analyzer: 112; Funk Electronics: Sharable" role="graphics-symbol" aria-roledescription="arc mark"  d="M215.33841957806686,204.22312762993192A75,75,0,0,0,257.2223996515889,102.84387402485852L189.0,134.0Z" fill="#fcf35f" stroke="white" stroke-width="0"/>
+<text aria-label="158,170,212,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.91150055053475" y="223.7164586123829" font-family="monospace" font-size="11px" fill="#ab6bba" opacity="1">86</text>
+<text aria-label="98,116,86,98" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.97417929209735" y="97.82326738214616" font-family="monospace" font-size="11px" fill="#da88d1" opacity="1">153</text>
+<text aria-label="231,243,50,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="237.65767357100378" y="61.2871820451937" font-family="monospace" font-size="11px" fill="#a18e5d" opacity="1">78</text>
+<text aria-label="263,281,160,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="272.1806502388984" y="171.36538121182497" font-family="monospace" font-size="11px" fill="#fcf35f" opacity="1">112</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#a18e5d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fcf35f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ab6bba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#da88d1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Assistant</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Sharable</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">handful</text>
+<text aria-label="21,76,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+</svg>

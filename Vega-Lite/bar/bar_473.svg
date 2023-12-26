@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="542" height="345" viewBox="0 0 542 345" style="background-color: rgb(255, 255, 255);">
+<line x1="55.5" y1="63.5" x2="55.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="106.5" y1="63.5" x2="106.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="156.5" y1="63.5" x2="156.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="207.5" y1="63.5" x2="207.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="258.5" y1="63.5" x2="258.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="308.5" y1="63.5" x2="308.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="359.5" y1="63.5" x2="359.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="410.5" y1="63.5" x2="410.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="460.5" y1="63.5" x2="460.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="511.5" y1="63.5" x2="511.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="30.5" y1="263.5" x2="537.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="30.5" y1="213.5" x2="537.5" y2="213.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="30.5" y1="163.5" x2="537.5" y2="163.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="30.5" y1="113.5" x2="537.5" y2="113.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="30.5" y1="63.5" x2="537.5" y2="63.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="46,59,270,329" text-anchor="end" x="55.349999999999966" y="270.5" transform="rotate(270.0, 59.349999999999966, 270.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">clockwork</text>
+<text aria-label="97,110,270,309" text-anchor="end" x="106.04999999999997" y="270.5" transform="rotate(270.0, 110.04999999999997, 270.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">consul</text>
+<text aria-label="147,160,270,309" text-anchor="end" x="156.74999999999997" y="270.5" transform="rotate(270.0, 160.74999999999997, 270.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">corral</text>
+<text aria-label="198,211,270,296" text-anchor="end" x="207.45" y="270.5" transform="rotate(270.0, 211.45, 270.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">crew</text>
+<text aria-label="249,262,270,335" text-anchor="end" x="258.15" y="270.5" transform="rotate(270.0, 262.15, 270.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">difficulty</text>
+<text aria-label="299,312,270,296" text-anchor="end" x="308.84999999999997" y="270.5" transform="rotate(270.0, 312.84999999999997, 270.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">fact</text>
+<text aria-label="350,363,270,296" text-anchor="end" x="359.55" y="270.5" transform="rotate(270.0, 363.55, 270.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">liar</text>
+<text aria-label="401,414,270,290" text-anchor="end" x="410.25" y="270.5" transform="rotate(270.0, 414.25, 270.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">mob</text>
+<text aria-label="451,464,270,303" text-anchor="end" x="460.95" y="270.5" transform="rotate(270.0, 464.95, 270.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">whorl</text>
+<text aria-label="502,515,270,322" text-anchor="end" x="511.65" y="270.5" transform="rotate(270.0, 515.65, 270.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">woodshed</text>
+<line aria-label="55,55,263,268" x1="55.5" y1="263.5" x2="55.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="106,106,263,268" x1="106.5" y1="263.5" x2="106.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="156,156,263,268" x1="156.5" y1="263.5" x2="156.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="207,207,263,268" x1="207.5" y1="263.5" x2="207.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="258,258,263,268" x1="258.5" y1="263.5" x2="258.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="308,308,263,268" x1="308.5" y1="263.5" x2="308.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="359,359,263,268" x1="359.5" y1="263.5" x2="359.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="410,410,263,268" x1="410.5" y1="263.5" x2="410.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="460,460,263,268" x1="460.5" y1="263.5" x2="460.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="511,511,263,268" x1="511.5" y1="263.5" x2="511.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,537,263,263" x1="30.5" y1="263.5" x2="537.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="95,472,0,26" text-anchor="middle" x="283.5" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southeast application Generic</text>
+<text aria-label="17,23,255,268" text-anchor="end" x="23.5" y="267.5" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="4,23,205,218" text-anchor="end" x="23.5" y="217.5" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="4,23,155,168" text-anchor="end" x="23.5" y="167.5" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="4,23,105,118" text-anchor="end" x="23.5" y="117.5" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="4,23,55,68" text-anchor="end" x="23.5" y="67.5" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">400</text>
+<line aria-label="25,30,263,263" x1="30.5" y1="263.5" x2="25.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,213,213" x1="30.5" y1="213.5" x2="25.5" y2="213.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,163,163" x1="30.5" y1="163.5" x2="25.5" y2="163.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,113,113" x1="30.5" y1="113.5" x2="25.5" y2="113.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,30,63,63" x1="30.5" y1="63.5" x2="25.5" y2="63.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,30,63,263" x1="30.5" y1="263.5" x2="30.5" y2="63.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Supervisor Plastic Corporate: fact; Intelligent: 253; brr: Singapore Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M295.16099999999994,90.0h27.378000000000007v126.5h-27.378000000000007Z" fill="#76d3c9"/>
+<path aria-label="Supervisor Plastic Corporate: fact; Intelligent: 93; brr: siemens becquerel hard" role="graphics-symbol" aria-roledescription="bar" d="M295.16099999999994,216.5h27.378000000000007v46.5h-27.378000000000007Z" fill="#b56dfe"/>
+<path aria-label="Supervisor Plastic Corporate: whorl; Intelligent: 82; brr: Singapore Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M447.26099999999997,182.0h27.378000000000007v41h-27.378000000000007Z" fill="#76d3c9"/>
+<path aria-label="Supervisor Plastic Corporate: whorl; Intelligent: 80; brr: siemens becquerel hard" role="graphics-symbol" aria-roledescription="bar" d="M447.26099999999997,223.0h27.378000000000007v40h-27.378000000000007Z" fill="#b56dfe"/>
+<path aria-label="Supervisor Plastic Corporate: mob; Intelligent: 82; brr: Singapore Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M396.561,134.0h27.378000000000007v41.000000000000014h-27.378000000000007Z" fill="#76d3c9"/>
+<path aria-label="Supervisor Plastic Corporate: mob; Intelligent: 176; brr: siemens becquerel hard" role="graphics-symbol" aria-roledescription="bar" d="M396.561,175.0h27.378000000000007v87.99999999999999h-27.378000000000007Z" fill="#b56dfe"/>
+<path aria-label="Supervisor Plastic Corporate: difficulty; Intelligent: 121; brr: Singapore Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M244.46099999999998,201.0h27.378000000000007v60.5h-27.378000000000007Z" fill="#76d3c9"/>
+<path aria-label="Supervisor Plastic Corporate: difficulty; Intelligent: 3; brr: siemens becquerel hard" role="graphics-symbol" aria-roledescription="bar" d="M244.46099999999998,261.5h27.378000000000007v1.5h-27.378000000000007Z" fill="#b56dfe"/>
+<path aria-label="Supervisor Plastic Corporate: liar; Intelligent: 122; brr: Singapore Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M345.861,199.0h27.378000000000007v61h-27.378000000000007Z" fill="#76d3c9"/>
+<path aria-label="Supervisor Plastic Corporate: liar; Intelligent: 6; brr: siemens becquerel hard" role="graphics-symbol" aria-roledescription="bar" d="M345.861,260.0h27.378000000000007v3h-27.378000000000007Z" fill="#b56dfe"/>
+<path aria-label="Supervisor Plastic Corporate: corral; Intelligent: 245; brr: Singapore Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M143.06099999999998,109.5h27.378000000000007v122.5h-27.378000000000007Z" fill="#76d3c9"/>
+<path aria-label="Supervisor Plastic Corporate: corral; Intelligent: 62; brr: siemens becquerel hard" role="graphics-symbol" aria-roledescription="bar" d="M143.06099999999998,232.0h27.378000000000007v31h-27.378000000000007Z" fill="#b56dfe"/>
+<path aria-label="Supervisor Plastic Corporate: woodshed; Intelligent: 201; brr: Singapore Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M497.96099999999996,93.5h27.378000000000007v100.5h-27.378000000000007Z" fill="#76d3c9"/>
+<path aria-label="Supervisor Plastic Corporate: woodshed; Intelligent: 138; brr: siemens becquerel hard" role="graphics-symbol" aria-roledescription="bar" d="M497.96099999999996,194.0h27.378000000000007v69h-27.378000000000007Z" fill="#b56dfe"/>
+<path aria-label="Supervisor Plastic Corporate: clockwork; Intelligent: 91; brr: Singapore Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M41.660999999999966,149.0h27.378000000000007v45.499999999999986h-27.378000000000007Z" fill="#76d3c9"/>
+<path aria-label="Supervisor Plastic Corporate: clockwork; Intelligent: 137; brr: siemens becquerel hard" role="graphics-symbol" aria-roledescription="bar" d="M41.660999999999966,194.5h27.378000000000007v68.5h-27.378000000000007Z" fill="#b56dfe"/>
+<path aria-label="Supervisor Plastic Corporate: consul; Intelligent: 73; brr: Singapore Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M92.36099999999996,194.5h27.378000000000007v36.5h-27.378000000000007Z" fill="#76d3c9"/>
+<path aria-label="Supervisor Plastic Corporate: consul; Intelligent: 64; brr: siemens becquerel hard" role="graphics-symbol" aria-roledescription="bar" d="M92.36099999999996,231.0h27.378000000000007v32h-27.378000000000007Z" fill="#b56dfe"/>
+<path aria-label="Supervisor Plastic Corporate: crew; Intelligent: 217; brr: Singapore Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M193.761,85.0h27.378000000000007v108.50000000000003h-27.378000000000007Z" fill="#76d3c9"/>
+<path aria-label="Supervisor Plastic Corporate: crew; Intelligent: 139; brr: siemens becquerel hard" role="graphics-symbol" aria-roledescription="bar" d="M193.761,193.50000000000003h27.378000000000007v69.49999999999997h-27.378000000000007Z" fill="#b56dfe"/>
+<text aria-label="302,315,79,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="308.84999999999997" y="86.6765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">253</text>
+<text aria-label="304,313,205,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="308.84999999999997" y="213.1765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">93</text>
+<text aria-label="456,465,171,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="460.95" y="178.6765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">82</text>
+<text aria-label="456,465,212,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="460.95" y="219.6765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">80</text>
+<text aria-label="405,414,123,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="410.25" y="130.6765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">82</text>
+<text aria-label="403,416,164,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="410.25" y="171.67650000000003" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">176</text>
+<text aria-label="251,264,190,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="258.15" y="197.6765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">121</text>
+<text aria-label="255,260,250,259" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="258.15" y="258.17650000000003" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">3</text>
+<text aria-label="353,366,188,196" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="359.55" y="195.6765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">122</text>
+<text aria-label="357,361,249,257" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="359.55" y="256.67650000000003" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">6</text>
+<text aria-label="150,163,98,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="156.74999999999997" y="106.1765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">245</text>
+<text aria-label="152,161,221,229" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="156.74999999999997" y="228.6765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">62</text>
+<text aria-label="505,518,82,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="511.65" y="90.17649999999999" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">201</text>
+<text aria-label="505,518,183,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="511.65" y="190.6765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">138</text>
+<text aria-label="51,59,138,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="55.349999999999966" y="145.67650000000003" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">91</text>
+<text aria-label="48,61,183,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="55.349999999999966" y="191.1765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">137</text>
+<text aria-label="101,110,183,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.04999999999997" y="191.1765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">73</text>
+<text aria-label="101,110,220,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.04999999999997" y="227.6765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">64</text>
+<text aria-label="200,213,74,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="207.45" y="81.6765" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">217</text>
+<text aria-label="200,213,182,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="207.45" y="190.17650000000003" font-family="serif" font-size="7.6049999999999995px" fill="#000" opacity="1">139</text>
+<path  d="M31.0,35.0h10v10h-10Z" fill="#76d3c9" stroke-width="1.5" opacity="1"/>
+<path  d="M137.0,35.0h10v10h-10Z" fill="#b56dfe" stroke-width="1.5" opacity="1"/>
+<text aria-label="46,134,33,44" text-anchor="start" x="46.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Singapore Hybrid</text>
+<text aria-label="152,273,33,44" text-anchor="start" x="152.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">siemens becquerel hard</text>
+</svg>

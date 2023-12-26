@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="283" height="239" viewBox="0 0 283 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Soft engineer azure</text>
+<path aria-label="Classical iterate: 24; copy blab: Chief" role="graphics-symbol" aria-roledescription="arc mark"  d="M218.00869552176778,70.5625955555677A75,75,0,0,0,178.0,59.0L178.0,134.0Z" fill="#65b5cf" stroke="black" stroke-width="0"/>
+<path aria-label="Classical iterate: 64; copy blab: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M244.09221868705214,169.4516378891424A75,75,0,0,0,218.00869552176778,70.5625955555677L178.0,134.0Z" fill="#494e20" stroke="black" stroke-width="0"/>
+<path aria-label="Classical iterate: 180; copy blab: Park" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.0,59.0A75,75,0,1,0,244.09221868705214,169.4516378891424L178.0,134.0Z" fill="#18c6af" stroke="black" stroke-width="0"/>
+<text aria-label="198,206,42,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="202.98760012487503" y="49.53833311808437" font-family="Balto" font-size="7px" fill="#65b5cf" opacity="1">24</text>
+<text aria-label="261,269,106,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="265.02367958352255" y="113.04615082944912" font-family="Balto" font-size="7px" fill="#494e20" opacity="1">64</text>
+<text aria-label="94,106,175,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.77054677123701" y="182.21267741633577" font-family="Balto" font-size="7px" fill="#18c6af" opacity="1">180</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#65b5cf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#494e20" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#18c6af" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Chief</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Park</text>
+<text aria-label="5,59,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">copy blab</text>
+</svg>

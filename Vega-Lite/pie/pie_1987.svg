@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="464" height="286" viewBox="0 0 464 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="407,459,0,26" text-anchor="end" x="459.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">West</text>
+<path aria-label="distributed Indio: 692; Fiat: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.19693394061134,253.22938362881536A75,75,0,0,0,178.2352613535234,164.82605507363402L105.0,181.0Z" fill="#06adef" stroke="white" stroke-width="4"/>
+<path aria-label="distributed Indio: 254; Fiat: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.2352613535234,164.82605507363402A75,75,0,0,0,158.65359222237433,128.5949235127438L105.0,181.0Z" fill="#b29aa0" stroke="white" stroke-width="4"/>
+<path aria-label="distributed Indio: 48; Fiat: Toys" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.50657632377353,254.9498853863725A75,75,0,0,0,125.19693394061134,253.22938362881536L105.0,181.0Z" fill="#919fe2" stroke="white" stroke-width="4"/>
+<path aria-label="distributed Indio: 391; Fiat: envisioneer" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.33128541401695,238.90244942763724A75,75,0,0,0,117.50657632377353,254.9498853863725L105.0,181.0Z" fill="#dd12aa" stroke="white" stroke-width="4"/>
+<path aria-label="distributed Indio: 364; Fiat: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M158.65359222237433,128.5949235127438A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#76fd2b" stroke="white" stroke-width="4"/>
+<path aria-label="distributed Indio: 265; Fiat: immaculate" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.387013399244964,203.28407839961255A75,75,0,0,0,57.33128541401695,238.90244942763724L105.0,181.0Z" fill="#0794cf" stroke="white" stroke-width="4"/>
+<path aria-label="distributed Indio: 855; Fiat: usually" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,33.387013399244964,203.28407839961255L105.0,181.0Z" fill="#cdd6c3" stroke="white" stroke-width="4"/>
+<text aria-label="174,189,221,231" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.17577665409013" y="230.30226234038673" font-family="avenir" font-size="9px" fill="#06adef" opacity="1">692</text>
+<text aria-label="176,191,132,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.17607833276247" y="141.20807763322307" font-family="avenir" font-size="9px" fill="#b29aa0" opacity="1">254</text>
+<text aria-label="119,129,262,272" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="124.64924160286535" y="271.8288523460954" font-family="avenir" font-size="9px" fill="#919fe2" opacity="1">48</text>
+<text aria-label="74,89,261,271" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="81.80942819835266" y="270.960895691757" font-family="avenir" font-size="9px" fill="#dd12aa" opacity="1">391</text>
+<text aria-label="132,147,92,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="139.93030016601867" y="101.05499333708005" font-family="avenir" font-size="9px" fill="#76fd2b" opacity="1">364</text>
+<text aria-label="22,37,225,235" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="30.308331566571468" y="234.2111010298597" font-family="avenir" font-size="9px" fill="#0794cf" opacity="1">265</text>
+<text aria-label="25,40,121,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="32.52007013262862" y="130.64590206534342" font-family="avenir" font-size="9px" fill="#cdd6c3" opacity="1">855</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#76fd2b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,56.25A5,5,0,1,1,66.0,56.25A5,5,0,1,1,76.0,56.25" fill="#b29aa0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M138.0,56.25A5,5,0,1,1,128.0,56.25A5,5,0,1,1,138.0,56.25" fill="#06adef" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,56.25A5,5,0,1,1,197.0,56.25A5,5,0,1,1,207.0,56.25" fill="#919fe2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M255.0,56.25A5,5,0,1,1,245.0,56.25A5,5,0,1,1,255.0,56.25" fill="#dd12aa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M337.0,56.25A5,5,0,1,1,327.0,56.25A5,5,0,1,1,337.0,56.25" fill="#0794cf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M420.0,56.25A5,5,0,1,1,410.0,56.25A5,5,0,1,1,420.0,56.25" fill="#cdd6c3" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="81,125,49,60" text-anchor="start" x="81.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="143,187,49,60" text-anchor="start" x="143.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="212,234,49,60" text-anchor="start" x="212.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Toys</text>
+<text aria-label="260,320,49,60" text-anchor="start" x="260.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">envisioneer</text>
+<text aria-label="342,397,49,60" text-anchor="start" x="342.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">immaculate</text>
+<text aria-label="425,463,49,60" text-anchor="start" x="425.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">usually</text>
+<text aria-label="5,29,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Fiat</text>
+</svg>

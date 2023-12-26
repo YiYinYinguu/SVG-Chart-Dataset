@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="298" height="239" viewBox="0 0 298 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,291,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electric payment Fresh</text>
+<path aria-label="Kansas: 64; mmm: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M218.04648459465656,63.30577386059289A75,75,0,0,0,193.0,59.0L193.0,93.0A41,41,0,0,1,206.69207824507893,95.35382304379078Z" fill="#af8e7e" stroke="white" stroke-width="3"/>
+<path aria-label="Kansas: 40; mmm: Practical" role="graphics-symbol" aria-roledescription="arc mark"  d="M259.2408324335196,169.17317327899744A75,75,0,0,0,265.1753358586142,154.38923475013831L232.45585026937573,145.14611499674228A41,41,0,0,1,229.21165506365736,153.2280013925186Z" fill="#e06a36" stroke="white" stroke-width="3"/>
+<path aria-label="Kansas: 235; mmm: auxiliary" role="graphics-symbol" aria-roledescription="arc mark"  d="M180.4897211439514,207.94925911017572A75,75,0,0,0,259.2408324335196,169.17317327899744L229.21165506365736,153.2280013925186A41,41,0,0,1,186.16104755869344,174.4255949802294Z" fill="#0ff792" stroke="white" stroke-width="3"/>
+<path aria-label="Kansas: 280; mmm: weber" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.3315386217153,60.448411024684376A75,75,0,0,0,118.50156252470455,142.65926173178153L152.27418751350515,138.73372974670724A41,41,0,0,1,184.98124111320436,93.79179802682746Z" fill="#f3eabe" stroke="white" stroke-width="3"/>
+<path aria-label="Kansas: 37; mmm: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M193.0,59.0A75,75,0,0,0,178.3315386217153,60.448411024684376L184.98124111320436,93.79179802682746A41,41,0,0,1,193.0,93.0Z" fill="#e13dba" stroke="white" stroke-width="3"/>
+<path aria-label="Kansas: 242; mmm: kilogram" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.50156252470455,142.65926173178153A75,75,0,0,0,180.4897211439514,207.94925911017572L186.16104755869344,174.4255949802294A41,41,0,0,1,152.27418751350515,138.73372974670724Z" fill="#6cb12b" stroke="white" stroke-width="3"/>
+<path aria-label="Kansas: 283; mmm: Operations" role="graphics-symbol" aria-roledescription="arc mark"  d="M265.1753358586142,154.38923475013831A75,75,0,0,0,218.04648459465656,63.30577386059289L206.69207824507893,95.35382304379078A41,41,0,0,1,232.45585026937573,145.14611499674228Z" fill="#1ebcb6" stroke="white" stroke-width="3"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#af8e7e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#1ebcb6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#e06a36" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#0ff792" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#6cb12b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#f3eabe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#e13dba" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="21,76,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Operations</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Practical</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">auxiliary</text>
+<text aria-label="21,65,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">kilogram</text>
+<text aria-label="21,48,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">weber</text>
+<text aria-label="21,76,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+<text aria-label="5,23,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">mmm</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="270" viewBox="0 0 299 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="190,294,0,26" text-anchor="end" x="294.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Internal</text>
+<path aria-label="Franc Cambridgeshire graceful: 67; Northwest: white" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,54.22000395895574,78.80586985854809L69.79253607820931,95.73206976859333A52,52,0,0,1,104.99999999999999,82.0Z" fill="#e8f20f" stroke="white" stroke-width="0"/>
+<path aria-label="Franc Cambridgeshire graceful: 163; Northwest: improvement" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.22000395895574,78.80586985854809A75,75,0,0,0,63.375508982776395,196.38911561768663L76.14035289472497,177.25645349492942A52,52,0,0,1,69.79253607820931,95.73206976859333Z" fill="#1fe7cf" stroke="white" stroke-width="0"/>
+<path aria-label="Franc Cambridgeshire graceful: 112; Northwest: Fresh" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.78597829625738,208.22036561613442A75,75,0,0,0,178.74538212848998,147.6608423870196L156.1301316090864,143.47151738833358A52,52,0,0,1,112.47827828540511,185.45945349385318Z" fill="#fa2e8c" stroke="white" stroke-width="0"/>
+<path aria-label="Franc Cambridgeshire graceful: 66; Northwest: alarm" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.375508982776395,196.38911561768663A75,75,0,0,0,115.78597829625738,208.22036561613442L112.47827828540511,185.45945349385318A52,52,0,0,1,76.14035289472497,177.25645349492942Z" fill="#e9d846" stroke="white" stroke-width="0"/>
+<path aria-label="Franc Cambridgeshire graceful: 158; Northwest: Folk" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.74538212848998,147.6608423870196A75,75,0,0,0,105.0,59.0L105.0,82.0A52,52,0,0,1,156.1301316090864,143.47151738833358Z" fill="#de912b" stroke="white" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#de912b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,258.25A5,5,0,1,1,53.0,258.25A5,5,0,1,1,63.0,258.25" fill="#fa2e8c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M116.0,258.25A5,5,0,1,1,106.0,258.25A5,5,0,1,1,116.0,258.25" fill="#e9d846" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M170.0,258.25A5,5,0,1,1,160.0,258.25A5,5,0,1,1,170.0,258.25" fill="#1fe7cf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M262.0,258.25A5,5,0,1,1,252.0,258.25A5,5,0,1,1,262.0,258.25" fill="#e8f20f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Folk</text>
+<text aria-label="68,95,251,262" text-anchor="start" x="68.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="121,148,251,262" text-anchor="start" x="121.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">alarm</text>
+<text aria-label="175,235,251,262" text-anchor="start" x="175.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">improvement</text>
+<text aria-label="267,294,251,262" text-anchor="start" x="267.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">white</text>
+</svg>

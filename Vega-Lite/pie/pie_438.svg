@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="239" viewBox="0 0 309 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,330,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Illinois Granite Gasoline</text>
+<path aria-label="structure: 1; pish: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M236.019285442058,192.4310430894253A75,75,0,0,0,242.84339422983314,186.2100459472195L189.0,134.0Z" fill="#3eeb65" stroke="black" stroke-width="0"/>
+<path aria-label="structure: 3; pish: connect" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.04809471616711,171.50000000000003A75,75,0,0,0,141.98071455794204,192.4310430894253L189.0,134.0Z" fill="#6a9c95" stroke="black" stroke-width="0"/>
+<path aria-label="structure: 11; pish: Trans" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.98071455794204,192.4310430894253A75,75,0,0,0,236.019285442058,192.4310430894253L189.0,134.0Z" fill="#3ebc36" stroke="black" stroke-width="0"/>
+<path aria-label="structure: 14; pish: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,114.88758959390555,145.50437411590144L189.0,134.0Z" fill="#c7aaa8" stroke="black" stroke-width="0"/>
+<path aria-label="structure: 1; pish: Adventure" role="graphics-symbol" aria-roledescription="arc mark"  d="M198.21662179985356,59.56846177460481A75,75,0,0,0,189.0,59.0L189.0,134.0Z" fill="#7a4da7" stroke="black" stroke-width="0"/>
+<path aria-label="structure: 3; pish: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M114.88758959390555,145.50437411590144A75,75,0,0,0,124.04809471616711,171.50000000000003L189.0,134.0Z" fill="#ddcddc" stroke="black" stroke-width="0"/>
+<path aria-label="structure: 13; pish: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.11241040609445,145.5043741159014A75,75,0,0,0,198.21662179985356,59.56846177460481L189.0,134.0Z" fill="#e77b89" stroke="black" stroke-width="0"/>
+<path aria-label="structure: 3; pish: Iodine" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.9519052838329,171.5A75,75,0,0,0,263.11241040609445,145.5043741159014L189.0,134.0Z" fill="#cbb49f" stroke="black" stroke-width="0"/>
+<path aria-label="structure: 2; pish: Jazz" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.84339422983314,186.2100459472195A75,75,0,0,0,253.9519052838329,171.5L189.0,134.0Z" fill="#f78a9d" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#7a4da7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#e77b89" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#cbb49f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#f78a9d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#3eeb65" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#3ebc36" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#6a9c95" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#ddcddc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,184.0A5,5,0,1,1,6.0,184.0A5,5,0,1,1,16.0,184.0" fill="#c7aaa8" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Adventure</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Iodine</text>
+<text aria-label="21,43,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Jazz</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="21,48,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Trans</text>
+<text aria-label="21,59,145,156" text-anchor="start" x="21.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">connect</text>
+<text aria-label="21,59,161,172" text-anchor="start" x="21.0" y="171.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="21,54,177,188" text-anchor="start" x="21.0" y="187.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="5,29,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">pish</text>
+</svg>

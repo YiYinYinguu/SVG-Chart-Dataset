@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="104,299,0,26" text-anchor="end" x="299.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">duh Lead though</text>
+<path aria-label="Salad: 95; Bespoke: potentially" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.15592315487353,65.19352445254745A75,75,0,0,0,30.01222420765191,132.64593880620794L105.0,134.0Z" fill="#9fbaf8" stroke="black" stroke-width="1"/>
+<path aria-label="Salad: 80; Bespoke: Practical" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.0023433576452,160.91973113607094A75,75,0,0,0,167.07667486176678,91.91097009782132L105.0,134.0Z" fill="#f4ed09" stroke="black" stroke-width="1"/>
+<path aria-label="Salad: 61; Bespoke: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.92857775680702,200.88685679115366A75,75,0,0,0,175.0023433576452,160.91973113607094L105.0,134.0Z" fill="#fc8bdb" stroke="black" stroke-width="1"/>
+<path aria-label="Salad: 34; Bespoke: synthesizing" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,75.15592315487353,65.19352445254745L105.0,134.0Z" fill="#4807fa" stroke="black" stroke-width="1"/>
+<path aria-label="Salad: 13; Bespoke: Frozen" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.68800065193824,59.91632675980293A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#fd515b" stroke="black" stroke-width="1"/>
+<path aria-label="Salad: 85; Bespoke: panel" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.01222420765191,132.64593880620794A75,75,0,0,0,64.79774709058835,197.3149181552634L105.0,134.0Z" fill="#af961d" stroke="black" stroke-width="1"/>
+<path aria-label="Salad: 48; Bespoke: New" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.07667486176678,91.91097009782132A75,75,0,0,0,134.01372833106296,64.83929173055502L105.0,134.0Z" fill="#d3bf6f" stroke="black" stroke-width="1"/>
+<path aria-label="Salad: 20; Bespoke: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.01372833106296,64.83929173055502A75,75,0,0,0,116.68800065193824,59.91632675980293L105.0,134.0Z" fill="#8fded5" stroke="black" stroke-width="1"/>
+<path aria-label="Salad: 86; Bespoke: UTF8" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.79774709058835,197.3149181552634A75,75,0,0,0,138.92857775680702,200.88685679115366L105.0,134.0Z" fill="#037ecd" stroke="black" stroke-width="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#fd515b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#8fded5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#d3bf6f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#f4ed09" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#fc8bdb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#037ecd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#af961d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#9fbaf8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,184.0A5,5,0,1,1,224.0,184.0A5,5,0,1,1,234.0,184.0" fill="#4807fa" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Frozen</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="239,255,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">New</text>
+<text aria-label="239,288,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Practical</text>
+<text aria-label="239,288,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="239,261,129,140" text-anchor="start" x="239.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">UTF8</text>
+<text aria-label="239,266,145,156" text-anchor="start" x="239.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">panel</text>
+<text aria-label="239,299,161,172" text-anchor="start" x="239.0" y="171.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">potentially</text>
+<text aria-label="239,305,177,188" text-anchor="start" x="239.0" y="187.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">synthesizing</text>
+<text aria-label="223,265,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bespoke</text>
+</svg>

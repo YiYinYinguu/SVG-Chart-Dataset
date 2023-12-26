@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Colleen</text>
+<path aria-label="Cab Bike gleefully: 271; Lesotho Industrial: bandwidth" role="graphics-symbol" aria-roledescription="arc mark"  d="M65.74607226048184,70.09280825274288A75,75,0,0,0,48.4046609176987,183.21348996118178L74.06121463500862,160.9033745121127A41,41,0,0,1,83.54118616906341,99.06406851149944Z" fill="#f7cd7e" stroke="white" stroke-width="2"/>
+<path aria-label="Cab Bike gleefully: 55; Lesotho Industrial: alarm" role="graphics-symbol" aria-roledescription="arc mark"  d="M48.4046609176987,183.21348996118178A75,75,0,0,0,68.86005578278531,199.71837210382353L85.24349716125597,169.92604341675687A41,41,0,0,1,74.06121463500862,160.9033745121127Z" fill="#bd471b" stroke="white" stroke-width="2"/>
+<path aria-label="Cab Bike gleefully: 86; Lesotho Industrial: incremental" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,65.74607226048184,70.09280825274288L83.54118616906341,99.06406851149944A41,41,0,0,1,104.99999999999999,93.0Z" fill="#ecf6eb" stroke="white" stroke-width="2"/>
+<path aria-label="Cab Bike gleefully: 557; Lesotho Industrial: Cartwright" role="graphics-symbol" aria-roledescription="arc mark"  d="M74.01279321341146,202.29929000776804A75,75,0,1,0,105.0,59.0L105.0,93.0A41,41,0,1,1,88.06032695666494,171.33694520424652Z" fill="#4dd0c5" stroke="white" stroke-width="2"/>
+<path aria-label="Cab Bike gleefully: 12; Lesotho Industrial: Specialist" role="graphics-symbol" aria-roledescription="arc mark"  d="M68.86005578278531,199.71837210382353A75,75,0,0,0,74.01279321341146,202.29929000776804L88.06032695666494,171.33694520424652A41,41,0,0,1,85.24349716125597,169.92604341675687Z" fill="#9b7688" stroke="white" stroke-width="2"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#4dd0c5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#9b7688" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#bd471b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#f7cd7e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#ecf6eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,294,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cartwright</text>
+<text aria-label="239,294,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Specialist</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">alarm</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">bandwidth</text>
+<text aria-label="239,299,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">incremental</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="420" height="286" viewBox="0 0 420 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Buckinghamshire</text>
+<path aria-label="monitor: 58; thump payment frame: Legacy" role="graphics-symbol" aria-roledescription="arc mark"  d="M46.15543010652255,180.50071605955813A75,75,0,0,0,127.21276727530349,205.6351378163901L105.0,134.0Z" fill="#a88bf2" stroke="white" stroke-width="3"/>
+<path aria-label="monitor: 30; thump payment frame: Neon" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.081619136804193,137.49802927905634A75,75,0,0,0,46.15543010652255,180.50071605955813L105.0,134.0Z" fill="#8ace7d" stroke="white" stroke-width="3"/>
+<path aria-label="monitor: 52; thump payment frame: Future" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.21276727530349,205.6351378163901A75,75,0,0,0,178.62451061369447,148.29795219232432L105.0,134.0Z" fill="#beafa1" stroke="white" stroke-width="3"/>
+<path aria-label="monitor: 17; thump payment frame: candela" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.48097851129798,111.41616584150117A75,75,0,0,0,30.081619136804193,137.49802927905634L105.0,134.0Z" fill="#33d21d" stroke="white" stroke-width="3"/>
+<path aria-label="monitor: 15; thump payment frame: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.62451061369447,148.29795219232432A75,75,0,0,0,179.46749113413136,125.07852230916498L105.0,134.0Z" fill="#bc7c87" stroke="white" stroke-width="3"/>
+<path aria-label="monitor: 61; thump payment frame: phew" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,33.48097851129798,111.41616584150117L105.0,134.0Z" fill="#75da2e" stroke="white" stroke-width="3"/>
+<path aria-label="monitor: 70; thump payment frame: Customer" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.46749113413136,125.07852230916498A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#baf0fd" stroke="white" stroke-width="3"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#baf0fd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M90.0,274.25A5,5,0,1,1,80.0,274.25A5,5,0,1,1,90.0,274.25" fill="#bc7c87" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M146.0,274.25A5,5,0,1,1,136.0,274.25A5,5,0,1,1,146.0,274.25" fill="#beafa1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M204.0,274.25A5,5,0,1,1,194.0,274.25A5,5,0,1,1,204.0,274.25" fill="#a88bf2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M265.0,274.25A5,5,0,1,1,255.0,274.25A5,5,0,1,1,265.0,274.25" fill="#8ace7d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M319.0,274.25A5,5,0,1,1,309.0,274.25A5,5,0,1,1,319.0,274.25" fill="#33d21d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M383.0,274.25A5,5,0,1,1,373.0,274.25A5,5,0,1,1,383.0,274.25" fill="#75da2e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Customer</text>
+<text aria-label="95,128,267,278" text-anchor="start" x="95.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="151,184,267,278" text-anchor="start" x="151.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Future</text>
+<text aria-label="209,242,267,278" text-anchor="start" x="209.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Legacy</text>
+<text aria-label="270,292,267,278" text-anchor="start" x="270.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Neon</text>
+<text aria-label="324,362,267,278" text-anchor="start" x="324.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">candela</text>
+<text aria-label="388,410,267,278" text-anchor="start" x="388.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">phew</text>
+<text aria-label="5,119,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">thump payment frame</text>
+</svg>

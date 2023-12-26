@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="371" height="270" viewBox="0 0 371 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="262,366,0,26" text-anchor="end" x="366.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">dramatic</text>
+<path aria-label="projection system: 53; Hybrid: Tricycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.31872535710589,101.6852191294272A75,75,0,0,0,35.43197350598416,162.02302071026446L53.98344723772172,154.55021518752727A55,55,0,0,1,55.36706526187765,110.30249402824661Z" fill="#b66aec" stroke="black" stroke-width="0"/>
+<path aria-label="projection system: 76; Hybrid: Hyundai" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.56802649401584,105.97697928973552A75,75,0,0,0,105.0,59.0L105.0,79.0A55,55,0,0,1,156.01655276227828,113.44978481247273Z" fill="#dd7766" stroke="black" stroke-width="0"/>
+<path aria-label="projection system: 79; Hybrid: Pakistan" role="graphics-symbol" aria-roledescription="arc mark"  d="M78.61553401461417,204.20583989004064A75,75,0,0,0,162.57872129310272,182.05924317185196L147.22439561494198,169.24344499269145A55,55,0,0,1,85.65139161071706,185.4842825860298Z" fill="#8d6e7a" stroke="black" stroke-width="0"/>
+<path aria-label="projection system: 53; Hybrid: Polestar" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.43197350598416,162.02302071026446A75,75,0,0,0,78.61553401461417,204.20583989004064L85.65139161071706,185.4842825860298A55,55,0,0,1,53.98344723772172,154.55021518752727Z" fill="#ec8aac" stroke="black" stroke-width="0"/>
+<path aria-label="projection system: 69; Hybrid: Jaguar" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.57872129310272,182.05924317185196A75,75,0,0,0,174.56802649401584,105.97697928973552L156.01655276227828,113.44978481247273A55,55,0,0,1,147.22439561494198,169.24344499269145Z" fill="#5db0cd" stroke="black" stroke-width="0"/>
+<path aria-label="projection system: 72; Hybrid: flint" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,37.31872535710589,101.6852191294272L55.36706526187765,110.30249402824661A55,55,0,0,1,104.99999999999999,79.0Z" fill="#e0241d" stroke="black" stroke-width="0"/>
+<text aria-label="9,20,124,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.043968815958067" y="134.18709160908583" font-family="serif" font-size="10px" fill="#b66aec" opacity="1">53</text>
+<text aria-label="149,160,52,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.36622758998055" y="62.41284883872905" font-family="serif" font-size="10px" fill="#dd7766" opacity="1">76</text>
+<text aria-label="122,133,214,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="127.95384917055088" y="224.02367958352255" font-family="serif" font-size="10px" fill="#8d6e7a" opacity="1">79</text>
+<text aria-label="36,47,191,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="42.11075149990428" y="201.38122725681148" font-family="serif" font-size="10px" fill="#ec8aac" opacity="1">53</text>
+<text aria-label="188,199,141,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.90292619535586" y="151.00962932782704" font-family="serif" font-size="10px" fill="#5db0cd" opacity="1">69</text>
+<text aria-label="51,62,50,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="56.98956537387861" y="60.875114666681284" font-family="serif" font-size="10px" fill="#e0241d" opacity="1">72</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#dd7766" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,258.25A5,5,0,1,1,68.0,258.25A5,5,0,1,1,78.0,258.25" fill="#5db0cd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,258.25A5,5,0,1,1,125.0,258.25A5,5,0,1,1,135.0,258.25" fill="#8d6e7a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M202.0,258.25A5,5,0,1,1,192.0,258.25A5,5,0,1,1,202.0,258.25" fill="#ec8aac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M269.0,258.25A5,5,0,1,1,259.0,258.25A5,5,0,1,1,269.0,258.25" fill="#b66aec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M336.0,258.25A5,5,0,1,1,326.0,258.25A5,5,0,1,1,336.0,258.25" fill="#e0241d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Hyundai</text>
+<text aria-label="83,116,251,262" text-anchor="start" x="83.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Jaguar</text>
+<text aria-label="140,184,251,262" text-anchor="start" x="140.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Pakistan</text>
+<text aria-label="207,251,251,262" text-anchor="start" x="207.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Polestar</text>
+<text aria-label="274,318,251,262" text-anchor="start" x="274.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Tricycle</text>
+<text aria-label="341,368,251,262" text-anchor="start" x="341.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">flint</text>
+</svg>

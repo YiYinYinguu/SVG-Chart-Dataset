@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="247" height="286" viewBox="0 0 247 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="60,242,0,26" text-anchor="end" x="242.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Tricycle morph</text>
+<path aria-label="Northeast Berkshire past: 146; Account: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.00944042445937,132.81005271238945A75,75,0,0,0,155.00767503872186,189.8948337256816L137.00491202478202,169.77269358443624A48,48,0,0,1,57.006041871654,133.23843373592925Z" fill="#cefb88" stroke="white" stroke-width="3"/>
+<path aria-label="Northeast Berkshire past: 3; Account: alteration" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.15099926460867,129.2432060257577A75,75,0,0,0,30.00944042445937,132.81005271238945L57.006041871654,133.23843373592925A48,48,0,0,1,57.096639529349545,130.95565185648493Z" fill="#2b9aab" stroke="white" stroke-width="3"/>
+<path aria-label="Northeast Berkshire past: 95; Account: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.15099926460867,129.2432060257577L57.096639529349545,130.95565185648493A48,48,0,0,1,104.99999999999999,86.0Z" fill="#9f31c5" stroke="white" stroke-width="3"/>
+<path aria-label="Northeast Berkshire past: 152; Account: Hatchback" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.00767503872186,189.8948337256816A75,75,0,0,0,105.0,59.0L105.0,86.0A48,48,0,0,1,137.00491202478202,169.77269358443624Z" fill="#e39409" stroke="white" stroke-width="3"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#e39409" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,274.25A5,5,0,1,1,78.0,274.25A5,5,0,1,1,88.0,274.25" fill="#cefb88" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,274.25A5,5,0,1,1,130.0,274.25A5,5,0,1,1,140.0,274.25" fill="#2b9aab" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,274.25A5,5,0,1,1,207.0,274.25A5,5,0,1,1,217.0,274.25" fill="#9f31c5" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Hatchback</text>
+<text aria-label="93,120,267,278" text-anchor="start" x="93.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="145,200,267,278" text-anchor="start" x="145.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">alteration</text>
+<text aria-label="222,244,267,278" text-anchor="start" x="222.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="5,47,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Account</text>
+</svg>

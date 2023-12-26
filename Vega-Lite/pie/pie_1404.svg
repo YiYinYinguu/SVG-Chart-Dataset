@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="306" height="239" viewBox="0 0 306 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="210,301,0,26" text-anchor="end" x="301.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle</text>
+<path aria-label="Legacy: 345; Tulare: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M275.9995646197235,133.74444794675716A75,75,0,0,0,201.0,59.0L201.0,101.0A33,33,0,0,1,233.99980843267835,133.88755709657315Z" fill="#c9cb4c" stroke="black" stroke-width="0"/>
+<path aria-label="Legacy: 264; Tulare: creepy" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.84759847273068,92.02287546302045A75,75,0,0,0,139.32836866677724,176.68032203134197L173.864482213382,152.77934169379046A33,33,0,0,1,173.6529433280015,115.53006520372901Z" fill="#fddc8c" stroke="black" stroke-width="0"/>
+<path aria-label="Legacy: 43; Tulare: yum" role="graphics-symbol" aria-roledescription="arc mark"  d="M201.0,59.0A75,75,0,0,0,186.441337030781,60.42659901466638L194.59418829354362,101.6277035664532A33,33,0,0,1,201.0,101.0Z" fill="#1222b0" stroke="black" stroke-width="0"/>
+<path aria-label="Legacy: 267; Tulare: Program" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.32836866677724,176.68032203134197A75,75,0,0,0,219.3809866095496,206.7127178096071L209.08763410820183,165.99359583622714A33,33,0,0,1,173.864482213382,152.77934169379046Z" fill="#2b29ad" stroke="black" stroke-width="0"/>
+<path aria-label="Legacy: 292; Tulare: International" role="graphics-symbol" aria-roledescription="arc mark"  d="M219.3809866095496,206.7127178096071A75,75,0,0,0,275.9995646197235,133.74444794675716L233.99980843267835,133.88755709657315A33,33,0,0,1,209.08763410820183,165.99359583622714Z" fill="#a4e0bd" stroke="black" stroke-width="0"/>
+<path aria-label="Legacy: 172; Tulare: finally" role="graphics-symbol" aria-roledescription="arc mark"  d="M186.441337030781,60.42659901466638A75,75,0,0,0,138.84759847273068,92.02287546302045L173.6529433280015,115.53006520372901A33,33,0,0,1,194.59418829354362,101.6277035664532Z" fill="#daefd3" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#c9cb4c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#a4e0bd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#2b29ad" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#fddc8c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#daefd3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#1222b0" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="21,92,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">International</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Program</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">creepy</text>
+<text aria-label="21,59,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">finally</text>
+<text aria-label="21,37,129,140" text-anchor="start" x="21.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">yum</text>
+<text aria-label="5,41,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Tulare</text>
+</svg>

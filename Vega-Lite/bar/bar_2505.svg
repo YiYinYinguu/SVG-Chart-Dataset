@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="661" height="358" viewBox="0 0 661 358" style="background-color: rgb(255, 255, 255);">
+<line x1="101.5" y1="34.5" x2="101.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="159.5" y1="34.5" x2="159.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="218.5" y1="34.5" x2="218.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="276.5" y1="34.5" x2="276.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="334.5" y1="34.5" x2="334.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="393.5" y1="34.5" x2="393.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="451.5" y1="34.5" x2="451.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="510.5" y1="34.5" x2="510.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="568.5" y1="34.5" x2="568.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="626.5" y1="34.5" x2="626.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="72.5" y1="234.5" x2="656.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="72.5" y1="198.5" x2="656.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="72.5" y1="161.5" x2="656.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="72.5" y1="125.5" x2="656.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="72.5" y1="89.5" x2="656.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="72.5" y1="52.5" x2="656.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="87,106,241,346" text-anchor="end" x="101.20000000000002" y="241.5" transform="rotate(270.0, 106.20000000000002, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">appointment</text>
+<text aria-label="145,164,241,270" text-anchor="end" x="159.60000000000002" y="241.5" transform="rotate(270.0, 164.60000000000002, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">bed</text>
+<text aria-label="204,223,241,336" text-anchor="end" x="218.0" y="241.5" transform="rotate(270.0, 223.0, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">dependency</text>
+<text aria-label="262,281,241,327" text-anchor="end" x="276.4" y="241.5" transform="rotate(270.0, 281.4, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">diversity</text>
+<text aria-label="320,339,241,336" text-anchor="end" x="334.8" y="241.5" transform="rotate(270.0, 339.8, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">incubation</text>
+<text aria-label="379,398,241,270" text-anchor="end" x="393.20000000000005" y="241.5" transform="rotate(270.0, 398.20000000000005, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">jam</text>
+<text aria-label="437,456,241,279" text-anchor="end" x="451.6" y="241.5" transform="rotate(270.0, 456.6, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">loss</text>
+<text aria-label="496,515,241,308" text-anchor="end" x="510.0" y="241.5" transform="rotate(270.0, 515.0, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">present</text>
+<text aria-label="554,573,241,346" text-anchor="end" x="568.4" y="241.5" transform="rotate(270.0, 573.4, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">punctuation</text>
+<text aria-label="612,631,241,279" text-anchor="end" x="626.8" y="241.5" transform="rotate(270.0, 631.8, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">self</text>
+<line aria-label="101,101,234,239" x1="101.5" y1="234.5" x2="101.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="159,159,234,239" x1="159.5" y1="234.5" x2="159.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="218,218,234,239" x1="218.5" y1="234.5" x2="218.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="276,276,234,239" x1="276.5" y1="234.5" x2="276.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="334,334,234,239" x1="334.5" y1="234.5" x2="334.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="393,393,234,239" x1="393.5" y1="234.5" x2="393.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="451,451,234,239" x1="451.5" y1="234.5" x2="451.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="510,510,234,239" x1="510.5" y1="234.5" x2="510.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="568,568,234,239" x1="568.5" y1="234.5" x2="568.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="626,626,234,239" x1="626.5" y1="234.5" x2="626.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,656,234,234" x1="72.5" y1="234.5" x2="656.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,291,0,26" text-anchor="start" x="5.4560546875" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Personal male Gasoline</text>
+<text aria-label="61,70,221,240" text-anchor="end" x="70.5" y="239.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="42,70,185,204" text-anchor="end" x="70.5" y="203.13636363636363" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="42,70,148,167" text-anchor="end" x="70.5" y="166.77272727272725" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="42,70,112,131" text-anchor="end" x="70.5" y="130.40909090909093" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="42,70,76,95" text-anchor="end" x="70.5" y="94.04545454545453" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="23,70,39,58" text-anchor="end" x="70.5" y="57.68181818181819" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="2,14,65,203" text-anchor="middle" x="16.9560546875" y="134.5" transform="rotate(-90.0, 14.9560546875, 134.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">overriding whether Tuna</text>
+<line aria-label="72,72,34,234" x1="72.5" y1="234.5" x2="72.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="backing Minivan panel: appointment; overriding whether Tuna: 171; aha Shoes: alarm transform intranet" role="graphics-symbol" aria-roledescription="bar" d="M77.54800000000002,202.9090909090909h47.304v31.090909090909093h-47.304Z" fill="#afabaa"/>
+<path aria-label="backing Minivan panel: appointment; overriding whether Tuna: 676; aha Shoes: City" role="graphics-symbol" aria-roledescription="bar" d="M77.54800000000002,80.0h47.304v122.9090909090909h-47.304Z" fill="#dcf306"/>
+<path aria-label="backing Minivan panel: self; overriding whether Tuna: 549; aha Shoes: alarm transform intranet" role="graphics-symbol" aria-roledescription="bar" d="M603.148,134.1818181818182h47.304v99.81818181818181h-47.304Z" fill="#afabaa"/>
+<path aria-label="backing Minivan panel: self; overriding whether Tuna: 38; aha Shoes: City" role="graphics-symbol" aria-roledescription="bar" d="M603.148,127.27272727272727h47.304v6.909090909090921h-47.304Z" fill="#dcf306"/>
+<path aria-label="backing Minivan panel: dependency; overriding whether Tuna: 29; aha Shoes: alarm transform intranet" role="graphics-symbol" aria-roledescription="bar" d="M194.348,228.72727272727272h47.304v5.2727272727272805h-47.304Z" fill="#afabaa"/>
+<path aria-label="backing Minivan panel: dependency; overriding whether Tuna: 52; aha Shoes: City" role="graphics-symbol" aria-roledescription="bar" d="M194.348,219.27272727272728h47.304v9.454545454545439h-47.304Z" fill="#dcf306"/>
+<path aria-label="backing Minivan panel: punctuation; overriding whether Tuna: 73; aha Shoes: alarm transform intranet" role="graphics-symbol" aria-roledescription="bar" d="M544.748,220.72727272727272h47.304v13.27272727272728h-47.304Z" fill="#afabaa"/>
+<path aria-label="backing Minivan panel: punctuation; overriding whether Tuna: 277; aha Shoes: City" role="graphics-symbol" aria-roledescription="bar" d="M544.748,170.36363636363637h47.304v50.363636363636346h-47.304Z" fill="#dcf306"/>
+<path aria-label="backing Minivan panel: loss; overriding whether Tuna: 119; aha Shoes: alarm transform intranet" role="graphics-symbol" aria-roledescription="bar" d="M427.948,212.36363636363637h47.304v21.636363636363626h-47.304Z" fill="#afabaa"/>
+<path aria-label="backing Minivan panel: loss; overriding whether Tuna: 600; aha Shoes: City" role="graphics-symbol" aria-roledescription="bar" d="M427.948,103.27272727272727h47.304v109.09090909090911h-47.304Z" fill="#dcf306"/>
+<path aria-label="backing Minivan panel: bed; overriding whether Tuna: 431; aha Shoes: alarm transform intranet" role="graphics-symbol" aria-roledescription="bar" d="M135.948,155.63636363636363h47.304v78.36363636363637h-47.304Z" fill="#afabaa"/>
+<path aria-label="backing Minivan panel: bed; overriding whether Tuna: 97; aha Shoes: City" role="graphics-symbol" aria-roledescription="bar" d="M135.948,138.0h47.304v17.636363636363626h-47.304Z" fill="#dcf306"/>
+<path aria-label="backing Minivan panel: incubation; overriding whether Tuna: 203; aha Shoes: alarm transform intranet" role="graphics-symbol" aria-roledescription="bar" d="M311.148,197.0909090909091h47.304v36.90909090909091h-47.304Z" fill="#afabaa"/>
+<path aria-label="backing Minivan panel: incubation; overriding whether Tuna: 263; aha Shoes: City" role="graphics-symbol" aria-roledescription="bar" d="M311.148,149.27272727272728h47.304v47.81818181818181h-47.304Z" fill="#dcf306"/>
+<path aria-label="backing Minivan panel: present; overriding whether Tuna: 430; aha Shoes: alarm transform intranet" role="graphics-symbol" aria-roledescription="bar" d="M486.348,155.8181818181818h47.304v78.18181818181817h-47.304Z" fill="#afabaa"/>
+<path aria-label="backing Minivan panel: present; overriding whether Tuna: 141; aha Shoes: City" role="graphics-symbol" aria-roledescription="bar" d="M486.348,130.1818181818182h47.304v25.63636363636364h-47.304Z" fill="#dcf306"/>
+<path aria-label="backing Minivan panel: diversity; overriding whether Tuna: 396; aha Shoes: alarm transform intranet" role="graphics-symbol" aria-roledescription="bar" d="M252.748,162.0h47.304v72h-47.304Z" fill="#afabaa"/>
+<path aria-label="backing Minivan panel: diversity; overriding whether Tuna: 540; aha Shoes: City" role="graphics-symbol" aria-roledescription="bar" d="M252.748,63.81818181818181h47.304v98.18181818181819h-47.304Z" fill="#dcf306"/>
+<path aria-label="backing Minivan panel: jam; overriding whether Tuna: 436; aha Shoes: alarm transform intranet" role="graphics-symbol" aria-roledescription="bar" d="M369.548,154.72727272727275h47.304v79.27272727272727h-47.304Z" fill="#afabaa"/>
+<path aria-label="backing Minivan panel: jam; overriding whether Tuna: 619; aha Shoes: City" role="graphics-symbol" aria-roledescription="bar" d="M369.548,42.18181818181818h47.304v112.54545454545456h-47.304Z" fill="#dcf306"/>
+</svg>

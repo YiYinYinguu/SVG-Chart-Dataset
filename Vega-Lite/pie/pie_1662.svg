@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="346" height="286" viewBox="0 0 346 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="10,335,0,26" text-anchor="middle" x="173.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Guatemala Usability Shoes</text>
+<path aria-label="Grocery: 65; Bedfordshire Fiat: optimal" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.62067635810159,166.93974416355277A75,75,0,0,0,189.90489170118548,207.06999819742157L173.0,134.0Z" fill="#a7f70e" stroke="white" stroke-width="2"/>
+<path aria-label="Grocery: 67; Bedfordshire Fiat: Technician" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.90489170118548,207.06999819742157A75,75,0,0,0,247.9359318790476,130.90062693133902L173.0,134.0Z" fill="#aca86c" stroke="white" stroke-width="2"/>
+<path aria-label="Grocery: 74; Bedfordshire Fiat: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M247.9359318790476,130.90062693133902A75,75,0,0,0,173.0,59.0L173.0,134.0Z" fill="#fb272c" stroke="white" stroke-width="2"/>
+<path aria-label="Grocery: 98; Bedfordshire Fiat: salmon" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.0,59.0A75,75,0,0,0,105.62067635810159,166.93974416355277L173.0,134.0Z" fill="#f8bddd" stroke="white" stroke-width="2"/>
+<text aria-label="129,139,209,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="134.3099753853557" y="218.2593502024119" font-family="sans-serif" font-size="9px" fill="#a7f70e" opacity="1">65</text>
+<text aria-label="239,249,182,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="244.59010824260355" y="191.54224419486522" font-family="sans-serif" font-size="9px" fill="#aca86c" opacity="1">67</text>
+<text aria-label="230,240,63,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="235.31078441403469" y="72.05874850522441" font-family="sans-serif" font-size="9px" fill="#fb272c" opacity="1">74</text>
+<text aria-label="91,101,80,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="96.65377425941836" y="89.34232679653623" font-family="sans-serif" font-size="9px" fill="#f8bddd" opacity="1">98</text>
+<path  d="M84.0,274.25A5,5,0,1,1,74.0,274.25A5,5,0,1,1,84.0,274.25" fill="#fb272c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M160.0,274.25A5,5,0,1,1,150.0,274.25A5,5,0,1,1,160.0,274.25" fill="#aca86c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M237.0,274.25A5,5,0,1,1,227.0,274.25A5,5,0,1,1,237.0,274.25" fill="#a7f70e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M301.0,274.25A5,5,0,1,1,291.0,274.25A5,5,0,1,1,301.0,274.25" fill="#f8bddd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="89,138,267,278" text-anchor="start" x="89.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="165,220,267,278" text-anchor="start" x="165.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Technician</text>
+<text aria-label="242,280,267,278" text-anchor="start" x="242.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">optimal</text>
+<text aria-label="306,339,267,278" text-anchor="start" x="306.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">salmon</text>
+<text aria-label="73,175,250,262" text-anchor="start" x="73.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bedfordshire Fiat</text>
+</svg>

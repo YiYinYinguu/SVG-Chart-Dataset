@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="391" height="286" viewBox="0 0 391 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,356,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electric hardware auxiliary</text>
+<path aria-label="card interconnection: 259; concept City system: Security" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.1996237631418,154.30306204641974A75,75,0,0,0,165.71461548573416,89.96892612688796L151.95263597563442,99.94930287146002A58,58,0,0,1,160.834375710163,149.70103464923127Z" fill="#da8b0f" stroke="white" stroke-width="0"/>
+<path aria-label="card interconnection: 406; concept City system: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.33226027251396,59.76254766557102A75,75,0,0,0,30.00820741759425,132.89047520197465L47.006347069606214,133.14196748952708A58,58,0,0,1,96.75028127741079,76.58970352804158Z" fill="#8256db" stroke="white" stroke-width="0"/>
+<path aria-label="card interconnection: 430; concept City system: emulation" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.00820741759425,132.89047520197465A75,75,0,0,0,98.35134748043276,208.7047215353491L99.85837538486801,191.77165132066997A58,58,0,0,1,47.006347069606214,133.14196748952708Z" fill="#245606" stroke="white" stroke-width="0"/>
+<path aria-label="card interconnection: 41; concept City system: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,94.33226027251396,59.76254766557102L96.75028127741079,76.58970352804158A58,58,0,0,1,104.99999999999999,76.0Z" fill="#8256db" stroke="white" stroke-width="0"/>
+<path aria-label="card interconnection: 181; concept City system: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M98.35134748043276,208.7047215353491A75,75,0,0,0,143.64339506250522,198.27820795606507L134.88422551500403,183.708480819357A58,58,0,0,1,99.85837538486801,191.77165132066997Z" fill="#817c30" stroke="white" stroke-width="0"/>
+<path aria-label="card interconnection: 217; concept City system: Senior" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.64339506250522,198.27820795606507A75,75,0,0,0,177.1996237631418,154.30306204641974L160.834375710163,149.70103464923127A58,58,0,0,1,134.88422551500403,183.708480819357Z" fill="#ed6a22" stroke="white" stroke-width="0"/>
+<path aria-label="card interconnection: 271; concept City system: 1080p" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.71461548573416,89.96892612688796A75,75,0,0,0,105.0,59.0L105.0,76.0A58,58,0,0,1,151.95263597563442,99.94930287146002Z" fill="#0dc553" stroke="white" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#0dc553" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,274.25A5,5,0,1,1,63.0,274.25A5,5,0,1,1,73.0,274.25" fill="#da8b0f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,274.25A5,5,0,1,1,129.0,274.25A5,5,0,1,1,139.0,274.25" fill="#ed6a22" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M197.0,274.25A5,5,0,1,1,187.0,274.25A5,5,0,1,1,197.0,274.25" fill="#817c30" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M272.0,274.25A5,5,0,1,1,262.0,274.25A5,5,0,1,1,272.0,274.25" fill="#245606" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M348.0,274.25A5,5,0,1,1,338.0,274.25A5,5,0,1,1,348.0,274.25" fill="#8256db" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">1080p</text>
+<text aria-label="78,122,267,278" text-anchor="start" x="78.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Security</text>
+<text aria-label="144,177,267,278" text-anchor="start" x="144.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Senior</text>
+<text aria-label="202,251,267,278" text-anchor="start" x="202.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="277,326,267,278" text-anchor="start" x="277.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">emulation</text>
+<text aria-label="353,386,267,278" text-anchor="start" x="353.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="5,119,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">concept City system</text>
+</svg>

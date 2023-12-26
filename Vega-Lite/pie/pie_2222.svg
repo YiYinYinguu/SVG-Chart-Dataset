@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="257" height="270" viewBox="0 0 257 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Luxurious moderator</text>
+<path aria-label="voluptates: 211; drat rabbit: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.05737146184401,98.63726413984693A75,75,0,0,0,30.64517036346807,174.81627779366053L55.43011357564538,171.54418519577368A50,50,0,0,1,81.704914307896,120.75817609323128Z" fill="#7987fc" stroke="white" stroke-width="4"/>
+<path aria-label="voluptates: 794; drat rabbit: Developer" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.64517036346807,174.81627779366053A75,75,0,1,0,105.0,90.0L105.0,115.0A50,50,0,1,1,55.43011357564538,171.54418519577368Z" fill="#4dedda" stroke="white" stroke-width="4"/>
+<path aria-label="voluptates: 84; drat rabbit: minus" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,70.05737146184401,98.63726413984693L81.704914307896,120.75817609323128A50,50,0,0,1,104.99999999999999,115.0Z" fill="#f464dc" stroke="white" stroke-width="4"/>
+<text aria-label="14,35,114,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.064378813337484" y="127.6442692544021" font-family="monospace" font-size="13px" fill="#7987fc" opacity="1">211</text>
+<text aria-label="162,183,215,229" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="172.67628093252222" y="228.3289221134375" font-family="monospace" font-size="13px" fill="#4dedda" opacity="1">794</text>
+<text aria-label="76,90,68,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="83.40342009595652" y="81.62959461895426" font-family="monospace" font-size="13px" fill="#f464dc" opacity="1">84</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#4dedda" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,40.25A5,5,0,1,1,78.0,40.25A5,5,0,1,1,88.0,40.25" fill="#7987fc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M160.0,40.25A5,5,0,1,1,150.0,40.25A5,5,0,1,1,160.0,40.25" fill="#f464dc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Developer</text>
+<text aria-label="93,142,33,44" text-anchor="start" x="93.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="165,192,33,44" text-anchor="start" x="165.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">minus</text>
+</svg>

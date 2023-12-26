@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="950" height="337" viewBox="0 0 950 337" style="background-color: rgb(255, 255, 255);">
+<text aria-label="200,213,241,326" text-anchor="end" x="209.6875" y="241.5" transform="rotate(270.0, 213.6875, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">constellation</text>
+<text aria-label="483,496,241,300" text-anchor="end" x="492.5" y="241.5" transform="rotate(270.0, 496.5, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">hardcover</text>
+<text aria-label="766,779,241,280" text-anchor="end" x="775.3125" y="241.5" transform="rotate(270.0, 779.3125, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">saddle</text>
+<line aria-label="209,209,234,239" x1="209.5" y1="234.5" x2="209.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="492,492,234,239" x1="492.5" y1="234.5" x2="492.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="775,775,234,239" x1="775.5" y1="234.5" x2="775.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,945,234,234" x1="40.5" y1="234.5" x2="945.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">up Awesome gold</text>
+<text aria-label="32,38,226,239" text-anchor="end" x="38.5" y="238.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="25,38,188,201" text-anchor="end" x="38.5" y="200.03846153846155" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="19,38,149,162" text-anchor="end" x="38.5" y="161.5769230769231" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,38,111,124" text-anchor="end" x="38.5" y="123.11538461538463" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="19,38,72,85" text-anchor="end" x="38.5" y="84.65384615384615" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,38,34,47" text-anchor="end" x="38.5" y="46.192307692307686" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">250</text>
+<text aria-label="2,14,89,179" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Principal Table</text>
+<path aria-label="Creek scalable Rolando: constellation; Principal Table: 72; Northeast culpa Cadillac: transmit Other Kyat" role="graphics-symbol" aria-roledescription="bar" d="M209.6875,178.6153846153846h113.125v55.38461538461539h-113.125Z" fill="#5fdf9a"/>
+<path aria-label="Creek scalable Rolando: constellation; Principal Table: 149; Northeast culpa Cadillac: Awesome" role="graphics-symbol" aria-roledescription="bar" d="M96.5625,119.38461538461539h113.125v114.61538461538461h-113.125Z" fill="#c05cfa"/>
+<path aria-label="Creek scalable Rolando: saddle; Principal Table: 245; Northeast culpa Cadillac: transmit Other Kyat" role="graphics-symbol" aria-roledescription="bar" d="M775.3125,45.53846153846154h113.125v188.46153846153845h-113.125Z" fill="#5fdf9a"/>
+<path aria-label="Creek scalable Rolando: saddle; Principal Table: 27; Northeast culpa Cadillac: Awesome" role="graphics-symbol" aria-roledescription="bar" d="M662.1875,213.23076923076923h113.125v20.769230769230774h-113.125Z" fill="#c05cfa"/>
+<path aria-label="Creek scalable Rolando: hardcover; Principal Table: 101; Northeast culpa Cadillac: transmit Other Kyat" role="graphics-symbol" aria-roledescription="bar" d="M492.5,156.30769230769232h113.125v77.69230769230768h-113.125Z" fill="#5fdf9a"/>
+<path aria-label="Creek scalable Rolando: hardcover; Principal Table: 200; Northeast culpa Cadillac: Awesome" role="graphics-symbol" aria-roledescription="bar" d="M379.375,80.15384615384615h113.125v153.84615384615387h-113.125Z" fill="#c05cfa"/>
+</svg>

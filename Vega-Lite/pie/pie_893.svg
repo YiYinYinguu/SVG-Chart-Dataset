@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="317" height="239" viewBox="0 0 317 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="153,270,0,26" text-anchor="middle" x="212.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southwest</text>
+<path aria-label="circuit application Convertible: 395; card Ranch: frigid" role="graphics-symbol" aria-roledescription="arc mark"  d="M145.28207901806263,99.74041710925303A75,75,0,0,0,140.41962485903696,156.3886108251271L156.6445098909886,151.31385903809831A58,58,0,0,1,160.40480777396843,107.50592256448901Z" fill="#7dc0d4" stroke="black" stroke-width="1"/>
+<path aria-label="circuit application Convertible: 511; card Ranch: Dodge" role="graphics-symbol" aria-roledescription="arc mark"  d="M275.3467341291849,93.84789824721047A75,75,0,0,0,212.0,59.0L212.0,76.0A58,58,0,0,1,260.988141059903,102.9490413111761Z" fill="#3c241d" stroke="black" stroke-width="1"/>
+<path aria-label="circuit application Convertible: 654; card Ranch: Palestinian" role="graphics-symbol" aria-roledescription="arc mark"  d="M268.2661399476337,183.58953009853292A75,75,0,0,0,275.3467341291849,93.84789824721047L260.988141059903,102.9490413111761A58,58,0,0,1,255.51248155950339,172.3492366095321Z" fill="#dd3f9b" stroke="black" stroke-width="1"/>
+<path aria-label="circuit application Convertible: 557; card Ranch: recontextualize" role="graphics-symbol" aria-roledescription="arc mark"  d="M212.0,59.0A75,75,0,0,0,145.28207901806263,99.74041710925303L160.40480777396843,107.50592256448901A58,58,0,0,1,212.0,76.0Z" fill="#fafe08" stroke="black" stroke-width="1"/>
+<path aria-label="circuit application Convertible: 378; card Ranch: Plastic" role="graphics-symbol" aria-roledescription="arc mark"  d="M219.81026963943842,208.59222270558283A75,75,0,0,0,268.2661399476337,183.58953009853292L255.51248155950339,172.3492366095321A58,58,0,0,1,218.03994185449903,191.68465222565072Z" fill="#245b8d" stroke="black" stroke-width="1"/>
+<path aria-label="circuit application Convertible: 697; card Ranch: Tugrik" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.41962485903696,156.3886108251271A75,75,0,0,0,219.81026963943842,208.59222270558283L218.03994185449903,191.68465222565072A58,58,0,0,1,156.6445098909886,151.31385903809831Z" fill="#ffeeec" stroke="black" stroke-width="1"/>
+<text aria-label="113,131,118,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.32973089012884" y="129.30306309215882" font-family="Balto" font-size="11px" fill="#7dc0d4" opacity="1">395</text>
+<text aria-label="246,264,47,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="255.37956322220597" y="58.14435026803321" font-family="Balto" font-size="11px" fill="#3c241d" opacity="1">511</text>
+<text aria-label="292,310,133,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="301.7211683361951" y="144.07897961489851" font-family="Balto" font-size="11px" fill="#dd3f9b" opacity="1">654</text>
+<text aria-label="156,174,49,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.09602869799122" y="60.188428761674615" font-family="Balto" font-size="11px" fill="#fafe08" opacity="1">557</text>
+<text aria-label="244,262,205,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="253.26901410431591" y="216.98042557312243" font-family="Balto" font-size="11px" fill="#245b8d" opacity="1">378</text>
+<text aria-label="153,171,201,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.55241520908527" y="212.19931089009592" font-family="Balto" font-size="11px" fill="#ffeeec" opacity="1">697</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#3c241d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#dd3f9b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#245b8d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ffeeec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#7dc0d4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#fafe08" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Dodge</text>
+<text aria-label="21,81,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Palestinian</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Plastic</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Tugrik</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">frigid</text>
+<text aria-label="21,103,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">recontextualize</text>
+</svg>

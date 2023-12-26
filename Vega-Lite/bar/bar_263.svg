@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1196" height="381" viewBox="0 0 1196 381" style="background-color: rgb(255, 255, 255);">
+<line x1="244.5" y1="243.5" x2="1191.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="244.5" y1="193.5" x2="1191.5" y2="193.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="244.5" y1="143.5" x2="1191.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="244.5" y1="93.5" x2="1191.5" y2="93.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="244.5" y1="43.5" x2="1191.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="261,281,250,360" text-anchor="end" x="275.56666666666666" y="250.5" transform="rotate(270.0, 281.56666666666666, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">acquisition</text>
+<text aria-label="324,344,250,310" text-anchor="end" x="338.69999999999993" y="250.5" transform="rotate(270.0, 344.69999999999993, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">airbag</text>
+<text aria-label="387,407,250,310" text-anchor="end" x="401.83333333333326" y="250.5" transform="rotate(270.0, 407.83333333333326, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">bubble</text>
+<text aria-label="450,470,250,330" text-anchor="end" x="464.96666666666664" y="250.5" transform="rotate(270.0, 470.96666666666664, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">carotene</text>
+<text aria-label="514,534,250,330" text-anchor="end" x="528.0999999999999" y="250.5" transform="rotate(270.0, 534.0999999999999, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">dialogue</text>
+<text aria-label="577,597,250,330" text-anchor="end" x="591.2333333333333" y="250.5" transform="rotate(270.0, 597.2333333333333, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">football</text>
+<text aria-label="640,660,250,310" text-anchor="end" x="654.3666666666667" y="250.5" transform="rotate(270.0, 660.3666666666667, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">glance</text>
+<text aria-label="703,723,250,300" text-anchor="end" x="717.5" y="250.5" transform="rotate(270.0, 723.5, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">gravy</text>
+<text aria-label="766,786,250,310" text-anchor="end" x="780.6333333333333" y="250.5" transform="rotate(270.0, 786.6333333333333, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">hearth</text>
+<text aria-label="829,849,250,350" text-anchor="end" x="843.7666666666667" y="250.5" transform="rotate(270.0, 849.7666666666667, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">initiative</text>
+<text aria-label="892,912,250,320" text-anchor="end" x="906.9" y="250.5" transform="rotate(270.0, 912.9, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">mankind</text>
+<text aria-label="956,976,250,300" text-anchor="end" x="970.0333333333333" y="250.5" transform="rotate(270.0, 976.0333333333333, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">quart</text>
+<text aria-label="1019,1039,250,350" text-anchor="end" x="1033.1666666666665" y="250.5" transform="rotate(270.0, 1039.1666666666665, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">reflection</text>
+<text aria-label="1082,1102,250,380" text-anchor="end" x="1096.3" y="250.5" transform="rotate(270.0, 1102.3, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">retrospective</text>
+<text aria-label="1145,1165,250,320" text-anchor="end" x="1159.4333333333334" y="250.5" transform="rotate(270.0, 1165.4333333333334, 250.5)" font-family="Balto" font-size="19px" font-weight="bold" fill="#000" opacity="1">surgery</text>
+<line aria-label="275,275,243,248" x1="275.5" y1="243.5" x2="275.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="338,338,243,248" x1="338.5" y1="243.5" x2="338.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="401,401,243,248" x1="401.5" y1="243.5" x2="401.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="464,464,243,248" x1="464.5" y1="243.5" x2="464.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="528,528,243,248" x1="528.5" y1="243.5" x2="528.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="591,591,243,248" x1="591.5" y1="243.5" x2="591.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="654,654,243,248" x1="654.5" y1="243.5" x2="654.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="717,717,243,248" x1="717.5" y1="243.5" x2="717.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="780,780,243,248" x1="780.5" y1="243.5" x2="780.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="843,843,243,248" x1="843.5" y1="243.5" x2="843.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="906,906,243,248" x1="906.5" y1="243.5" x2="906.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="970,970,243,248" x1="970.5" y1="243.5" x2="970.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="1033,1033,243,248" x1="1033.5" y1="243.5" x2="1033.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="1096,1096,243,248" x1="1096.5" y1="243.5" x2="1096.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="1159,1159,243,248" x1="1159.5" y1="243.5" x2="1159.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="244,1191,243,243" x1="244.5" y1="243.5" x2="1191.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Kyat</text>
+<text aria-label="232,242,230,250" text-anchor="end" x="242.5" y="249.5" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="212,242,180,200" text-anchor="end" x="242.5" y="199.5" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="192,242,130,150" text-anchor="end" x="242.5" y="149.5" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="192,242,80,100" text-anchor="end" x="242.5" y="99.5" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<text aria-label="192,242,30,50" text-anchor="end" x="242.5" y="49.5" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">2,000</text>
+<line aria-label="244,244,43,243" x1="244.5" y1="243.5" x2="244.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Passenger eek: mankind; Refined than lens: 261; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M884.172,207.8h45.456v26.099999999999994h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: mankind; Refined than lens: 64; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M884.172,201.4h45.456v6.400000000000006h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: mankind; Refined than lens: 91; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M884.172,233.9h45.456v9.099999999999994h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: carotene; Refined than lens: 352; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M442.23866666666663,195.3h45.456v35.19999999999999h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: carotene; Refined than lens: 114; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M442.23866666666663,183.9h45.456v11.400000000000006h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: carotene; Refined than lens: 125; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M442.23866666666663,230.5h45.456v12.5h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: quart; Refined than lens: 669; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M947.3053333333334,145.3h45.456v66.89999999999998h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: quart; Refined than lens: 476; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M947.3053333333334,97.69999999999999h45.456v47.600000000000016h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: quart; Refined than lens: 308; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M947.3053333333334,212.2h45.456v30.80000000000001h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: dialogue; Refined than lens: 403; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M505.37199999999996,196.2h45.456v40.30000000000001h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: dialogue; Refined than lens: 526; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M505.37199999999996,143.6h45.456v52.599999999999994h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: dialogue; Refined than lens: 65; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M505.37199999999996,236.5h45.456v6.5h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: reflection; Refined than lens: 515; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M1010.4386666666667,142.2h45.456v51.500000000000014h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: reflection; Refined than lens: 378; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M1010.4386666666667,104.4h45.456v37.79999999999999h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: reflection; Refined than lens: 493; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M1010.4386666666667,193.70000000000002h45.456v49.29999999999998h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: hearth; Refined than lens: 218; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M757.9053333333333,153.0h45.456v21.799999999999997h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: hearth; Refined than lens: 685; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M757.9053333333333,84.5h45.456v68.50000000000001h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: hearth; Refined than lens: 682; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M757.9053333333333,174.8h45.456v68.19999999999999h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: retrospective; Refined than lens: 743; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M1073.5720000000001,114.39999999999999h45.456v74.3h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: retrospective; Refined than lens: 57; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M1073.5720000000001,108.7h45.456v5.699999999999989h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: retrospective; Refined than lens: 543; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M1073.5720000000001,188.7h45.456v54.30000000000001h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: initiative; Refined than lens: 38; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M821.0386666666667,192.7h45.456v3.8000000000000114h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: initiative; Refined than lens: 435; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M821.0386666666667,149.2h45.456v43.499999999999986h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: initiative; Refined than lens: 465; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M821.0386666666667,196.5h45.456v46.5h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: gravy; Refined than lens: 742; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M694.7719999999999,113.8h45.456v74.2h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: gravy; Refined than lens: 619; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M694.7719999999999,51.9h45.456v61.9h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: gravy; Refined than lens: 550; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M694.7719999999999,188.0h45.456v55h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: football; Refined than lens: 77; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M568.5053333333333,180.9h45.456v7.699999999999989h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: football; Refined than lens: 566; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M568.5053333333333,124.3h45.456v56.60000000000001h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: football; Refined than lens: 544; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M568.5053333333333,188.6h45.456v54.400000000000006h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: glance; Refined than lens: 296; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M631.6386666666667,159.2h45.456v29.599999999999994h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: glance; Refined than lens: 723; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M631.6386666666667,86.9h45.456v72.29999999999998h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: glance; Refined than lens: 542; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M631.6386666666667,188.79999999999998h45.456v54.20000000000002h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: bubble; Refined than lens: 71; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M379.1053333333333,235.6h45.456v7.100000000000023h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: bubble; Refined than lens: 141; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M379.1053333333333,221.5h45.456v14.099999999999994h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: bubble; Refined than lens: 3; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M379.1053333333333,242.70000000000002h45.456v0.29999999999998295h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: surgery; Refined than lens: 560; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M1136.7053333333333,172.1h45.456v56h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: surgery; Refined than lens: 313; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M1136.7053333333333,140.8h45.456v31.299999999999997h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: surgery; Refined than lens: 149; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M1136.7053333333333,228.1h45.456v14.900000000000006h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: airbag; Refined than lens: 296; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M315.972,151.2h45.456v29.600000000000023h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: airbag; Refined than lens: 188; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M315.972,132.39999999999998h45.456v18.799999999999997h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: airbag; Refined than lens: 622; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M315.972,180.8h45.456v62.19999999999999h-45.456Z" fill="#adc6f2"/>
+<path aria-label="Passenger eek: acquisition; Refined than lens: 117; convergence female: Crew" role="graphics-symbol" aria-roledescription="bar" d="M252.83866666666663,205.9h45.456v11.699999999999989h-45.456Z" fill="#e2c2e0"/>
+<path aria-label="Passenger eek: acquisition; Refined than lens: 729; convergence female: Chevrolet navigating Hatchback" role="graphics-symbol" aria-roledescription="bar" d="M252.83866666666663,133.0h45.456v72.90000000000002h-45.456Z" fill="#0295ac"/>
+<path aria-label="Passenger eek: acquisition; Refined than lens: 254; convergence female: SUV negative content" role="graphics-symbol" aria-roledescription="bar" d="M252.83866666666663,217.6h45.456v25.400000000000006h-45.456Z" fill="#adc6f2"/>
+<path  d="M6.0,44.0h10v10h-10Z" fill="#e2c2e0" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,57.0h10v10h-10Z" fill="#0295ac" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,70.0h10v10h-10Z" fill="#adc6f2" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,42,53" text-anchor="start" x="21.0" y="52.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Crew</text>
+<text aria-label="21,186,55,66" text-anchor="start" x="21.0" y="65.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Chevrolet navigating Hatchback</text>
+<text aria-label="21,131,68,79" text-anchor="start" x="21.0" y="78.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">SUV negative content</text>
+</svg>

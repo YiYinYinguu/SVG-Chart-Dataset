@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="260" height="286" viewBox="0 0 260 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">grey</text>
+<path aria-label="Omnigender microchip: 25; City sensor: hm" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.713985052163025,149.9423967164732L105.0,134.0Z" fill="#ac6586" stroke="white" stroke-width="0"/>
+<path aria-label="Omnigender microchip: 35; City sensor: Classical" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.713985052163025,149.9423967164732A75,75,0,0,0,173.2223996515889,165.1561259751415L105.0,134.0Z" fill="#f4dc1b" stroke="white" stroke-width="0"/>
+<path aria-label="Omnigender microchip: 13; City sensor: Christi" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.2223996515889,165.1561259751415A75,75,0,0,0,170.82592421754418,98.05632599599573L105.0,134.0Z" fill="#e3fda1" stroke="white" stroke-width="0"/>
+<path aria-label="Omnigender microchip: 15; City sensor: Administrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.82592421754418,98.05632599599573A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#d08a37" stroke="white" stroke-width="0"/>
+<text aria-label="28,41,69,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.922261575521986" y="81.52778933572337" font-family="avenir" font-size="12px" fill="#ac6586" opacity="1">25</text>
+<text aria-label="88,101,215,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="95.37943905913984" y="227.48432715947075" font-family="avenir" font-size="12px" fill="#f4dc1b" opacity="1">35</text>
+<text aria-label="188,201,122,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.94265430912924" y="134.78768995449178" font-family="avenir" font-size="12px" fill="#e3fda1" opacity="1">13</text>
+<text aria-label="144,157,48,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.92430297548097" y="60.59871838130695" font-family="avenir" font-size="12px" fill="#d08a37" opacity="1">15</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#d08a37" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M109.0,274.25A5,5,0,1,1,99.0,274.25A5,5,0,1,1,109.0,274.25" fill="#e3fda1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M167.0,274.25A5,5,0,1,1,157.0,274.25A5,5,0,1,1,167.0,274.25" fill="#f4dc1b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,274.25A5,5,0,1,1,224.0,274.25A5,5,0,1,1,234.0,274.25" fill="#ac6586" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,92,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Administrator</text>
+<text aria-label="114,152,267,278" text-anchor="start" x="114.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Christi</text>
+<text aria-label="172,221,267,278" text-anchor="start" x="172.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Classical</text>
+<text aria-label="239,250,267,278" text-anchor="start" x="239.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">hm</text>
+<text aria-label="5,71,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">City sensor</text>
+</svg>

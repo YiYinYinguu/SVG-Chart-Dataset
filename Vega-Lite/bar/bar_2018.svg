@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="818" height="324" viewBox="0 0 818 324" style="background-color: rgb(255, 255, 255);">
+<line x1="108.5" y1="34.5" x2="108.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="236.5" y1="34.5" x2="236.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="365.5" y1="34.5" x2="365.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="493.5" y1="34.5" x2="493.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="621.5" y1="34.5" x2="621.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="749.5" y1="34.5" x2="749.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="234.5" x2="813.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="198.5" x2="813.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="163.5" x2="813.5" y2="163.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="127.5" x2="813.5" y2="127.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="91.5" x2="813.5" y2="91.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="55.5" x2="813.5" y2="55.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="98,112,241,283" text-anchor="end" x="108.99999999999997" y="241.5" transform="rotate(270.0, 112.99999999999997, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">artist</text>
+<text aria-label="226,240,241,290" text-anchor="end" x="236.99999999999997" y="241.5" transform="rotate(270.0, 240.99999999999997, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">essence</text>
+<text aria-label="355,369,241,269" text-anchor="end" x="365.0" y="241.5" transform="rotate(270.0, 369.0, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">food</text>
+<text aria-label="483,497,241,276" text-anchor="end" x="493.0" y="241.5" transform="rotate(270.0, 497.0, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">plain</text>
+<text aria-label="611,625,241,283" text-anchor="end" x="621.0" y="241.5" transform="rotate(270.0, 625.0, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">purple</text>
+<text aria-label="739,753,241,318" text-anchor="end" x="749.0" y="241.5" transform="rotate(270.0, 753.0, 241.5)" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">replacement</text>
+<line aria-label="108,108,234,239" x1="108.5" y1="234.5" x2="108.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="236,236,234,239" x1="236.5" y1="234.5" x2="236.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="365,365,234,239" x1="365.5" y1="234.5" x2="365.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="493,493,234,239" x1="493.5" y1="234.5" x2="493.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="621,621,234,239" x1="621.5" y1="234.5" x2="621.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="749,749,234,239" x1="749.5" y1="234.5" x2="749.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="45,813,234,234" x1="45.5" y1="234.5" x2="813.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,31,0,26" text-anchor="start" x="5.12939453125" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">ha</text>
+<text aria-label="36,43,225,239" text-anchor="end" x="43.5" y="238.5" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="29,43,189,203" text-anchor="end" x="43.5" y="202.78571428571428" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="22,43,154,168" text-anchor="end" x="43.5" y="167.07142857142856" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="22,43,118,132" text-anchor="end" x="43.5" y="131.35714285714286" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="22,43,82,96" text-anchor="end" x="43.5" y="95.64285714285714" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,43,46,60" text-anchor="end" x="43.5" y="59.928571428571416" font-family="sans-serif" font-size="13px" font-weight="normal" fill="#000" opacity="1">250</text>
+<text aria-label="2,14,53,215" text-anchor="middle" x="16.62939453125" y="134.5" transform="rotate(-90.0, 14.62939453125, 134.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">convergence auxiliary group</text>
+<path aria-label="monitoring program: purple; convergence auxiliary group: 270; Connecticut: Borders joyfully" role="graphics-symbol" aria-roledescription="bar" d="M586.4399999999999,41.14285714285714h69.12000000000002v192.85714285714286h-69.12000000000002Z" fill="#ffed50"/>
+<path aria-label="monitoring program: plain; convergence auxiliary group: 67; Connecticut: Borders joyfully" role="graphics-symbol" aria-roledescription="bar" d="M458.44,186.14285714285714h69.12000000000002v47.85714285714286h-69.12000000000002Z" fill="#ffed50"/>
+<path aria-label="monitoring program: replacement; convergence auxiliary group: 192; Connecticut: Borders joyfully" role="graphics-symbol" aria-roledescription="bar" d="M714.4399999999999,96.85714285714286h69.12000000000002v137.14285714285714h-69.12000000000002Z" fill="#ffed50"/>
+<path aria-label="monitoring program: essence; convergence auxiliary group: 107; Connecticut: Borders joyfully" role="graphics-symbol" aria-roledescription="bar" d="M202.43999999999997,157.57142857142858h69.12000000000002v76.42857142857142h-69.12000000000002Z" fill="#ffed50"/>
+<path aria-label="monitoring program: artist; convergence auxiliary group: 255; Connecticut: Borders joyfully" role="graphics-symbol" aria-roledescription="bar" d="M74.43999999999997,51.85714285714286h69.12000000000002v182.14285714285714h-69.12000000000002Z" fill="#ffed50"/>
+<path aria-label="monitoring program: food; convergence auxiliary group: 88; Connecticut: Borders joyfully" role="graphics-symbol" aria-roledescription="bar" d="M330.44,171.14285714285714h69.12000000000002v62.85714285714286h-69.12000000000002Z" fill="#ffed50"/>
+</svg>

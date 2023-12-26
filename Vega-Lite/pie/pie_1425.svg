@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="298" height="239" viewBox="0 0 298 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="middle" x="129.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Connecticut virtual</text>
+<path aria-label="withdrawal: 61; under: nurse" role="graphics-symbol" aria-roledescription="arc mark"  d="M56.78120344891505,154.23475783677682A75,75,0,0,0,61.361331005426734,166.40386484113512L129.0,134.0Z" fill="#c0c606" stroke="white" stroke-width="3"/>
+<path aria-label="withdrawal: 650; under: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M61.361331005426734,166.40386484113512A75,75,0,0,0,178.77105396159317,190.1056341872381L129.0,134.0Z" fill="#13be9f" stroke="white" stroke-width="3"/>
+<path aria-label="withdrawal: 758; under: SDR" role="graphics-symbol" aria-roledescription="arc mark"  d="M191.47853997153305,175.49014392630554A75,75,0,0,0,129.0,59.0L129.0,134.0Z" fill="#e18878" stroke="white" stroke-width="3"/>
+<path aria-label="withdrawal: 91; under: about" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.77105396159317,190.1056341872381A75,75,0,0,0,191.47853997153305,175.49014392630554L129.0,134.0Z" fill="#7da7eb" stroke="white" stroke-width="3"/>
+<path aria-label="withdrawal: 648; under: titter" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.0,59.0A75,75,0,0,0,56.78120344891505,154.23475783677682L129.0,134.0Z" fill="#742eff" stroke="white" stroke-width="3"/>
+<text aria-label="40,48,160,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="44.76846659184068" y="167.70250431291097" font-family="monospace" font-size="7px" fill="#c0c606" opacity="1">61</text>
+<text aria-label="105,117,217,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.19075539622887" y="224.22035369824272" font-family="monospace" font-size="7px" fill="#13be9f" opacity="1">650</text>
+<text aria-label="202,214,86,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="208.3124692089491" y="93.46140307932689" font-family="monospace" font-size="7px" fill="#e18878" opacity="1">758</text>
+<text aria-label="192,200,188,196" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.9182611801781" y="195.05175525131418" font-family="monospace" font-size="7px" fill="#7da7eb" opacity="1">91</text>
+<text aria-label="51,63,74,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="57.28753997256861" y="81.61872494310147" font-family="monospace" font-size="7px" fill="#742eff" opacity="1">648</text>
+<path  d="M258.0,40.0A5,5,0,1,1,248.0,40.0A5,5,0,1,1,258.0,40.0" fill="#e18878" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,56.0A5,5,0,1,1,248.0,56.0A5,5,0,1,1,258.0,56.0" fill="#7da7eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,72.0A5,5,0,1,1,248.0,72.0A5,5,0,1,1,258.0,72.0" fill="#13be9f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,88.0A5,5,0,1,1,248.0,88.0A5,5,0,1,1,258.0,88.0" fill="#c0c606" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,104.0A5,5,0,1,1,248.0,104.0A5,5,0,1,1,258.0,104.0" fill="#742eff" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="263,279,33,44" text-anchor="start" x="263.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">SDR</text>
+<text aria-label="263,290,49,60" text-anchor="start" x="263.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">about</text>
+<text aria-label="263,285,65,76" text-anchor="start" x="263.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="263,290,81,92" text-anchor="start" x="263.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">nurse</text>
+<text aria-label="263,296,97,108" text-anchor="start" x="263.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">titter</text>
+</svg>

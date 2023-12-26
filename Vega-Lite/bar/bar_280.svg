@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="823" height="365" viewBox="0 0 823 365" style="background-color: rgb(255, 255, 255);">
+<line x1="150.5" y1="43.5" x2="150.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="335.5" y1="43.5" x2="335.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="521.5" y1="43.5" x2="521.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="706.5" y1="43.5" x2="706.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="136,155,250,336" text-anchor="end" x="150.28571428571428" y="250.5" transform="rotate(270.0, 155.28571428571428, 250.5)" font-family="sans-serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">affiliate</text>
+<text aria-label="321,340,250,307" text-anchor="end" x="335.76190476190476" y="250.5" transform="rotate(270.0, 340.76190476190476, 250.5)" font-family="sans-serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">chorus</text>
+<text aria-label="507,526,250,288" text-anchor="end" x="521.2380952380952" y="250.5" transform="rotate(270.0, 526.2380952380952, 250.5)" font-family="sans-serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">dark</text>
+<text aria-label="692,711,250,345" text-anchor="end" x="706.7142857142857" y="250.5" transform="rotate(270.0, 711.7142857142857, 250.5)" font-family="sans-serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">gastronomy</text>
+<line aria-label="150,150,243,248" x1="150.5" y1="243.5" x2="150.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="335,335,243,248" x1="335.5" y1="243.5" x2="335.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="521,521,243,248" x1="521.5" y1="243.5" x2="521.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="706,706,243,248" x1="706.5" y1="243.5" x2="706.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,818,243,243" x1="39.5" y1="243.5" x2="818.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="688,818,0,26" text-anchor="end" x="818.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Investment</text>
+<text aria-label="28,37,230,249" text-anchor="end" x="37.5" y="248.5" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="9,37,180,199" text-anchor="end" x="37.5" y="198.5" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="9,37,130,149" text-anchor="end" x="37.5" y="148.5" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="9,37,80,99" text-anchor="end" x="37.5" y="98.5" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="9,37,30,49" text-anchor="end" x="37.5" y="48.5" font-family="sans-serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">800</text>
+<path aria-label="neural quantifying: chorus; innovate Modern: 563; moderator: Hybrid Kendall" role="graphics-symbol" aria-roledescription="bar" d="M261.57142857142856,102.25h74.19047619047619v140.75h-74.19047619047619Z" fill="#fe1eea"/>
+<path aria-label="neural quantifying: chorus; innovate Modern: 789; moderator: Nissan" role="graphics-symbol" aria-roledescription="bar" d="M335.76190476190476,45.75000000000001h74.19047619047619v197.25h-74.19047619047619Z" fill="#7ebe52"/>
+<path aria-label="neural quantifying: dark; innovate Modern: 280; moderator: Hybrid Kendall" role="graphics-symbol" aria-roledescription="bar" d="M447.04761904761904,173.0h74.19047619047619v70h-74.19047619047619Z" fill="#fe1eea"/>
+<path aria-label="neural quantifying: dark; innovate Modern: 272; moderator: Nissan" role="graphics-symbol" aria-roledescription="bar" d="M521.2380952380952,174.99999999999997h74.19047619047619v68.00000000000003h-74.19047619047619Z" fill="#7ebe52"/>
+<path aria-label="neural quantifying: affiliate; innovate Modern: 319; moderator: Hybrid Kendall" role="graphics-symbol" aria-roledescription="bar" d="M76.09523809523807,163.25h74.19047619047619v79.74999999999999h-74.19047619047619Z" fill="#fe1eea"/>
+<path aria-label="neural quantifying: affiliate; innovate Modern: 115; moderator: Nissan" role="graphics-symbol" aria-roledescription="bar" d="M150.28571428571428,214.25h74.19047619047619v28.75h-74.19047619047619Z" fill="#7ebe52"/>
+<path aria-label="neural quantifying: gastronomy; innovate Modern: 64; moderator: Hybrid Kendall" role="graphics-symbol" aria-roledescription="bar" d="M632.5238095238095,227.0h74.19047619047619v16h-74.19047619047619Z" fill="#fe1eea"/>
+<path aria-label="neural quantifying: gastronomy; innovate Modern: 14; moderator: Nissan" role="graphics-symbol" aria-roledescription="bar" d="M706.7142857142857,239.5h74.19047619047619v3.5h-74.19047619047619Z" fill="#7ebe52"/>
+</svg>

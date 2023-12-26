@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="287" height="239" viewBox="0 0 287 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,135,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">payment oh</text>
+<path aria-label="Toys Division: 4; synthesizing: World" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.5457111370567,192.80898549325326A75,75,0,0,0,171.20090987441608,169.24825572704898L105.0,134.0Z" fill="#06bba2" stroke="black" stroke-width="3"/>
+<path aria-label="Toys Division: 20; synthesizing: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.20090987441608,169.24825572704898A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#fc5310" stroke="black" stroke-width="3"/>
+<path aria-label="Toys Division: 37; synthesizing: magenta" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,151.5457111370567,192.80898549325326L105.0,134.0Z" fill="#eb7fc0" stroke="black" stroke-width="3"/>
+<text aria-label="171,176,184,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.10924014329402" y="194.65338608283577" font-family="Balto" font-size="10px" fill="#06bba2" opacity="1">4</text>
+<text aria-label="176,187,80,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.1583165268699" y="90.66864786411523" font-family="Balto" font-size="10px" fill="#fc5310" opacity="1">20</text>
+<text aria-label="14,25,156,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.99596940947049" y="166.56881437197512" font-family="Balto" font-size="10px" fill="#eb7fc0" opacity="1">37</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#fc5310" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#06bba2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#eb7fc0" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">World</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">magenta</text>
+</svg>

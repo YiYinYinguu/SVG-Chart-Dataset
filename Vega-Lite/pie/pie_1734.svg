@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="365" height="239" viewBox="0 0 365 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="87,360,0,26" text-anchor="end" x="360.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">redundant Rock beside</text>
+<path aria-label="Investment: 109; invoice Dollar implement: Secured" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.07799618414906,204.73820555967413A75,75,0,0,0,172.15030286713232,167.40414382756126L146.18551909184117,154.48787488090423A46,46,0,0,1,89.71450432627809,177.38609940993348Z" fill="#dc059f" stroke="black" stroke-width="0"/>
+<path aria-label="Investment: 121; invoice Dollar implement: and" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.21918954745691,106.51112056510392A75,75,0,0,0,80.07799618414906,204.73820555967413L89.71450432627809,177.38609940993348A46,46,0,0,1,62.201102922440235,117.14015394659708Z" fill="#69e9cf" stroke="black" stroke-width="0"/>
+<path aria-label="Investment: 90; invoice Dollar implement: core" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,35.21918954745691,106.51112056510392L62.201102922440235,117.14015394659708A46,46,0,0,1,104.99999999999999,88.0Z" fill="#31e692" stroke="black" stroke-width="0"/>
+<path aria-label="Investment: 153; invoice Dollar implement: Folk" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.15030286713232,167.40414382756126A75,75,0,0,0,105.0,59.0L105.0,88.0A46,46,0,0,1,146.18551909184117,154.48787488090423Z" fill="#dbc9f1" stroke="black" stroke-width="0"/>
+<text aria-label="127,150,207,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.81925644104848" y="221.40418391048857" font-family="monospace" font-size="14px" fill="#dc059f" opacity="1">109</text>
+<text aria-label="11,34,161,176" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="23.13312041809337" y="175.38735117016984" font-family="monospace" font-size="14px" fill="#69e9cf" opacity="1">121</text>
+<text aria-label="46,61,49,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.34824276971618" y="63.60645532383613" font-family="monospace" font-size="14px" fill="#31e692" opacity="1">90</text>
+<text aria-label="170,192,76,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="181.51028536535665" y="90.60615827650503" font-family="monospace" font-size="14px" fill="#dbc9f1" opacity="1">153</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#dbc9f1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#dc059f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#69e9cf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#31e692" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Folk</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Secured</text>
+<text aria-label="239,255,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">and</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">core</text>
+<text aria-label="223,367,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">invoice Dollar implement</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Simonis</text>
+<path aria-label="withdrawal pixel: 55; grey 24/7: Porsche" role="graphics-symbol" aria-roledescription="arc mark"  d="M100.51468845412245,59.13424026741987A75,75,0,1,0,120.59337681133195,207.36107005503544L113.31646763271037,173.12590402935223A40,40,0,1,1,102.60783384219864,94.07159480929059Z" fill="#737e97" stroke="black" stroke-width="0"/>
+<path aria-label="withdrawal pixel: 1; grey 24/7: partnerships" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,100.51468845412245,59.13424026741987L102.60783384219864,94.07159480929059A40,40,0,0,1,104.99999999999999,94.0Z" fill="#d5d308" stroke="black" stroke-width="0"/>
+<path aria-label="withdrawal pixel: 49; grey 24/7: Bacon" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.59337681133195,207.36107005503544A75,75,0,0,0,105.0,59.0L105.0,94.0A40,40,0,0,1,113.31646763271037,173.12590402935223Z" fill="#d091f6" stroke="black" stroke-width="0"/>
+<text aria-label="9,22,138,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.814521440885883" y="150.080993923589" font-family="avenir" font-size="12px" fill="#737e97" opacity="1">55</text>
+<text aria-label="99,105,36,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.30760804475409" y="48.0402810944847" font-family="avenir" font-size="12px" fill="#d5d308" opacity="1">1</text>
+<text aria-label="188,201,116,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.5069705831446" y="128.5924383059112" font-family="avenir" font-size="12px" fill="#d091f6" opacity="1">49</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#d091f6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#737e97" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#d5d308" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bacon</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Porsche</text>
+<text aria-label="239,305,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">partnerships</text>
+<text aria-label="223,277,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">grey 24/7</text>
+</svg>

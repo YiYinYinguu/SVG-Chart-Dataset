@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="945" height="352" viewBox="0 0 945 352" style="background-color: rgb(255, 255, 255);">
+<line x1="137.5" y1="46.5" x2="137.5" y2="246.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="281.5" y1="46.5" x2="281.5" y2="246.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="424.5" y1="46.5" x2="424.5" y2="246.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="567.5" y1="46.5" x2="567.5" y2="246.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="710.5" y1="46.5" x2="710.5" y2="246.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="854.5" y1="46.5" x2="854.5" y2="246.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="246.5" x2="940.5" y2="246.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="201.5" x2="940.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="155.5" x2="940.5" y2="155.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="110.5" x2="940.5" y2="110.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="64.5" x2="940.5" y2="64.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="125,142,253,347" text-anchor="end" x="137.93548387096777" y="253.5" transform="rotate(270.0, 142.93548387096777, 253.5)" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">dragonfruit</text>
+<text aria-label="269,286,253,296" text-anchor="end" x="281.16129032258067" y="253.5" transform="rotate(270.0, 286.16129032258067, 253.5)" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">lipid</text>
+<text aria-label="412,429,253,296" text-anchor="end" x="424.3870967741936" y="253.5" transform="rotate(270.0, 429.3870967741936, 253.5)" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">potty</text>
+<text aria-label="555,572,253,304" text-anchor="end" x="567.6129032258065" y="253.5" transform="rotate(270.0, 572.6129032258065, 253.5)" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">signet</text>
+<text aria-label="698,715,253,313" text-anchor="end" x="710.8387096774193" y="253.5" transform="rotate(270.0, 715.8387096774193, 253.5)" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">trading</text>
+<text aria-label="842,859,253,330" text-anchor="end" x="854.0645161290322" y="253.5" transform="rotate(270.0, 859.0645161290322, 253.5)" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">workplace</text>
+<line aria-label="137,137,246,251" x1="137.5" y1="246.5" x2="137.5" y2="251.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="281,281,246,251" x1="281.5" y1="246.5" x2="281.5" y2="251.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="424,424,246,251" x1="424.5" y1="246.5" x2="424.5" y2="251.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="567,567,246,251" x1="567.5" y1="246.5" x2="567.5" y2="251.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="710,710,246,251" x1="710.5" y1="246.5" x2="710.5" y2="251.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="854,854,246,251" x1="854.5" y1="246.5" x2="854.5" y2="251.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,940,246,246" x1="52.5" y1="246.5" x2="940.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="444,548,0,26" text-anchor="middle" x="496.0" y="25.589090909090913" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Virginia</text>
+<text aria-label="42,50,235,252" text-anchor="end" x="50.5" y="251.5" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="33,50,190,207" text-anchor="end" x="50.5" y="206.04545454545453" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="25,50,144,161" text-anchor="end" x="50.5" y="160.59090909090907" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="25,50,99,116" text-anchor="end" x="50.5" y="115.13636363636365" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="25,50,53,70" text-anchor="end" x="50.5" y="69.68181818181819" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="2,14,83,209" text-anchor="middle" x="16.8984375" y="146.5" transform="rotate(-90.0, 14.8984375, 146.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">compressing bypassing</text>
+<line aria-label="52,52,46,246" x1="52.5" y1="246.5" x2="52.5" y2="46.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Gorgeous: lipid; compressing bypassing: 69; id Bespoke: figure" role="graphics-symbol" aria-roledescription="bar" d="M281.16129032258067,183.27272727272725h57.29032258064516v62.72727272727275h-57.29032258064516Z" fill="#399954"/>
+<path aria-label="Gorgeous: lipid; compressing bypassing: 117; id Bespoke: Loaf woman Shirt" role="graphics-symbol" aria-roledescription="bar" d="M223.87096774193552,139.63636363636363h57.29032258064516v106.36363636363637h-57.29032258064516Z" fill="#76aa33"/>
+<path aria-label="Gorgeous: potty; compressing bypassing: 46; id Bespoke: figure" role="graphics-symbol" aria-roledescription="bar" d="M424.3870967741936,204.1818181818182h57.29032258064516v41.81818181818181h-57.29032258064516Z" fill="#399954"/>
+<path aria-label="Gorgeous: potty; compressing bypassing: 200; id Bespoke: Loaf woman Shirt" role="graphics-symbol" aria-roledescription="bar" d="M367.0967741935484,64.18181818181819h57.29032258064516v181.8181818181818h-57.29032258064516Z" fill="#76aa33"/>
+<path aria-label="Gorgeous: trading; compressing bypassing: 61; id Bespoke: figure" role="graphics-symbol" aria-roledescription="bar" d="M710.8387096774193,190.54545454545453h57.29032258064516v55.45454545454547h-57.29032258064516Z" fill="#399954"/>
+<path aria-label="Gorgeous: trading; compressing bypassing: 137; id Bespoke: Loaf woman Shirt" role="graphics-symbol" aria-roledescription="bar" d="M653.5483870967741,121.45454545454547h57.29032258064516v124.54545454545453h-57.29032258064516Z" fill="#76aa33"/>
+<path aria-label="Gorgeous: dragonfruit; compressing bypassing: 26; id Bespoke: figure" role="graphics-symbol" aria-roledescription="bar" d="M137.93548387096777,222.36363636363637h57.29032258064516v23.636363636363626h-57.29032258064516Z" fill="#399954"/>
+<path aria-label="Gorgeous: dragonfruit; compressing bypassing: 101; id Bespoke: Loaf woman Shirt" role="graphics-symbol" aria-roledescription="bar" d="M80.64516129032262,154.1818181818182h57.29032258064516v91.81818181818183h-57.29032258064516Z" fill="#76aa33"/>
+<path aria-label="Gorgeous: signet; compressing bypassing: 206; id Bespoke: figure" role="graphics-symbol" aria-roledescription="bar" d="M567.6129032258065,58.72727272727272h57.29032258064516v187.27272727272728h-57.29032258064516Z" fill="#399954"/>
+<path aria-label="Gorgeous: signet; compressing bypassing: 208; id Bespoke: Loaf woman Shirt" role="graphics-symbol" aria-roledescription="bar" d="M510.3225806451613,56.909090909090914h57.29032258064516v189.0909090909091h-57.29032258064516Z" fill="#76aa33"/>
+<path aria-label="Gorgeous: workplace; compressing bypassing: 31; id Bespoke: figure" role="graphics-symbol" aria-roledescription="bar" d="M854.0645161290322,217.8181818181818h57.29032258064516v28.181818181818187h-57.29032258064516Z" fill="#399954"/>
+<path aria-label="Gorgeous: workplace; compressing bypassing: 164; id Bespoke: Loaf woman Shirt" role="graphics-symbol" aria-roledescription="bar" d="M796.7741935483871,96.9090909090909h57.29032258064516v149.0909090909091h-57.29032258064516Z" fill="#76aa33"/>
+<text aria-label="299,319,156,176" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="309.8064516129033" y="175.95272727272726" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">69</text>
+<text aria-label="237,267,113,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="252.5161290322581" y="132.31636363636363" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">117</text>
+<text aria-label="443,463,177,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="453.03225806451616" y="196.8618181818182" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">46</text>
+<text aria-label="380,410,37,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="395.741935483871" y="56.861818181818194" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">200</text>
+<text aria-label="729,749,164,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="739.483870967742" y="183.22545454545454" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">61</text>
+<text aria-label="667,697,95,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="682.1935483870967" y="114.13454545454547" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">137</text>
+<text aria-label="156,176,196,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="166.58064516129036" y="215.04363636363638" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">26</text>
+<text aria-label="94,124,127,147" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.2903225806452" y="146.8618181818182" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">101</text>
+<text aria-label="581,611,32,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="596.258064516129" y="51.407272727272726" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">206</text>
+<text aria-label="523,553,30,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="538.9677419354839" y="49.58909090909091" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">208</text>
+<text aria-label="872,892,191,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="882.7096774193549" y="210.49818181818182" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">31</text>
+<text aria-label="810,840,70,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="825.4193548387096" y="89.58909090909091" font-family="avenir" font-size="19.028571428571425px" fill="#000" opacity="1">164</text>
+</svg>

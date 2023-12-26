@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="791" height="293" viewBox="0 0 791 293" style="background-color: rgb(255, 255, 255);">
+<line x1="113.5" y1="34.5" x2="113.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="233.5" y1="34.5" x2="233.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="353.5" y1="34.5" x2="353.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="473.5" y1="34.5" x2="473.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="593.5" y1="34.5" x2="593.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="713.5" y1="34.5" x2="713.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="234.5" x2="786.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="190.5" x2="786.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="145.5" x2="786.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="101.5" x2="786.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="56.5" x2="786.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="104,116,241,259" text-anchor="end" x="113.09677419354841" y="241.5" transform="rotate(270.0, 116.09677419354841, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">bay</text>
+<text aria-label="224,236,241,295" text-anchor="end" x="233.25806451612905" y="241.5" transform="rotate(270.0, 236.25806451612905, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">cirrhosis</text>
+<text aria-label="344,356,241,259" text-anchor="end" x="353.4193548387097" y="241.5" transform="rotate(270.0, 356.4193548387097, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">jot</text>
+<text aria-label="464,476,241,283" text-anchor="end" x="473.58064516129036" y="241.5" transform="rotate(270.0, 476.58064516129036, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">mortise</text>
+<text aria-label="584,596,241,277" text-anchor="end" x="593.741935483871" y="241.5" transform="rotate(270.0, 596.741935483871, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">street</text>
+<text aria-label="704,716,241,277" text-anchor="end" x="713.9032258064515" y="241.5" transform="rotate(270.0, 716.9032258064515, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">wallet</text>
+<line aria-label="113,113,234,239" x1="113.5" y1="234.5" x2="113.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="233,233,234,239" x1="233.5" y1="234.5" x2="233.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="353,353,234,239" x1="353.5" y1="234.5" x2="353.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="473,473,234,239" x1="473.5" y1="234.5" x2="473.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="593,593,234,239" x1="593.5" y1="234.5" x2="593.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="713,713,234,239" x1="713.5" y1="234.5" x2="713.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,786,234,234" x1="41.5" y1="234.5" x2="786.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="264,563,0,26" text-anchor="middle" x="413.5" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Chicken Cruiser invoice</text>
+<text aria-label="28,34,226,238" text-anchor="end" x="34.5" y="237.5" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="22,34,182,194" text-anchor="end" x="34.5" y="193.05555555555557" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">10</text>
+<text aria-label="22,34,137,149" text-anchor="end" x="34.5" y="148.61111111111111" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="22,34,93,105" text-anchor="end" x="34.5" y="104.16666666666667" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">30</text>
+<text aria-label="22,34,48,60" text-anchor="end" x="34.5" y="59.72222222222223" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">40</text>
+<line aria-label="36,41,234,234" x1="41.5" y1="234.5" x2="36.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,190,190" x1="41.5" y1="190.5" x2="36.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,145,145" x1="41.5" y1="145.5" x2="36.5" y2="145.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,101,101" x1="41.5" y1="101.5" x2="36.5" y2="101.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,56,56" x1="41.5" y1="56.5" x2="36.5" y2="56.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,98,170" text-anchor="middle" x="16.9326171875" y="134.5" transform="rotate(-90.0, 14.9326171875, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">seize Hybrid</text>
+<line aria-label="41,41,34,234" x1="41.5" y1="234.5" x2="41.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Elegant Shoes nulla: jot; seize Hybrid: 11; applications Architect: and Darmstadtium Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M337.3978494623656,185.11111111111111h32.04301075268817v48.888888888888886h-32.04301075268817Z" fill="#33af1b"/>
+<path aria-label="Elegant Shoes nulla: jot; seize Hybrid: 9; applications Architect: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M305.35483870967744,194.0h32.04301075268817v40h-32.04301075268817Z" fill="#4d4bb8"/>
+<path aria-label="Elegant Shoes nulla: jot; seize Hybrid: 19; applications Architect: candela Checking failing" role="graphics-symbol" aria-roledescription="bar" d="M369.44086021505376,149.55555555555554h32.04301075268817v84.44444444444446h-32.04301075268817Z" fill="#ad81e6"/>
+<path aria-label="Elegant Shoes nulla: wallet; seize Hybrid: 31; applications Architect: and Darmstadtium Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M697.8817204301074,96.22222222222223h32.04301075268817v137.77777777777777h-32.04301075268817Z" fill="#33af1b"/>
+<path aria-label="Elegant Shoes nulla: wallet; seize Hybrid: 14; applications Architect: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M665.8387096774193,171.77777777777777h32.04301075268817v62.22222222222223h-32.04301075268817Z" fill="#4d4bb8"/>
+<path aria-label="Elegant Shoes nulla: wallet; seize Hybrid: 44; applications Architect: candela Checking failing" role="graphics-symbol" aria-roledescription="bar" d="M729.9247311827957,38.44444444444445h32.04301075268817v195.55555555555554h-32.04301075268817Z" fill="#ad81e6"/>
+<path aria-label="Elegant Shoes nulla: mortise; seize Hybrid: 8; applications Architect: and Darmstadtium Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M457.5591397849463,198.44444444444443h32.04301075268817v35.55555555555557h-32.04301075268817Z" fill="#33af1b"/>
+<path aria-label="Elegant Shoes nulla: mortise; seize Hybrid: 3; applications Architect: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M425.5161290322581,220.66666666666666h32.04301075268817v13.333333333333343h-32.04301075268817Z" fill="#4d4bb8"/>
+<path aria-label="Elegant Shoes nulla: mortise; seize Hybrid: 2; applications Architect: candela Checking failing" role="graphics-symbol" aria-roledescription="bar" d="M489.60215053763443,225.11111111111111h32.04301075268817v8.888888888888886h-32.04301075268817Z" fill="#ad81e6"/>
+<path aria-label="Elegant Shoes nulla: bay; seize Hybrid: 22; applications Architect: and Darmstadtium Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M97.07526881720432,136.22222222222223h32.04301075268817v97.77777777777779h-32.04301075268817Z" fill="#33af1b"/>
+<path aria-label="Elegant Shoes nulla: bay; seize Hybrid: 8; applications Architect: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M65.03225806451616,198.44444444444443h32.04301075268817v35.55555555555557h-32.04301075268817Z" fill="#4d4bb8"/>
+<path aria-label="Elegant Shoes nulla: bay; seize Hybrid: 42; applications Architect: candela Checking failing" role="graphics-symbol" aria-roledescription="bar" d="M129.11827956989248,47.33333333333333h32.04301075268817v186.66666666666666h-32.04301075268817Z" fill="#ad81e6"/>
+<path aria-label="Elegant Shoes nulla: street; seize Hybrid: 27; applications Architect: and Darmstadtium Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M577.7204301075269,114.0h32.04301075268817v120h-32.04301075268817Z" fill="#33af1b"/>
+<path aria-label="Elegant Shoes nulla: street; seize Hybrid: 44; applications Architect: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M545.6774193548388,38.44444444444445h32.04301075268817v195.55555555555554h-32.04301075268817Z" fill="#4d4bb8"/>
+<path aria-label="Elegant Shoes nulla: street; seize Hybrid: 18; applications Architect: candela Checking failing" role="graphics-symbol" aria-roledescription="bar" d="M609.763440860215,154.0h32.04301075268817v80h-32.04301075268817Z" fill="#ad81e6"/>
+<path aria-label="Elegant Shoes nulla: cirrhosis; seize Hybrid: 27; applications Architect: and Darmstadtium Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M217.23655913978496,114.0h32.04301075268817v120h-32.04301075268817Z" fill="#33af1b"/>
+<path aria-label="Elegant Shoes nulla: cirrhosis; seize Hybrid: 20; applications Architect: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M185.1935483870968,145.11111111111111h32.04301075268817v88.88888888888889h-32.04301075268817Z" fill="#4d4bb8"/>
+<path aria-label="Elegant Shoes nulla: cirrhosis; seize Hybrid: 17; applications Architect: candela Checking failing" role="graphics-symbol" aria-roledescription="bar" d="M249.27956989247315,158.44444444444446h32.04301075268817v75.55555555555556h-32.04301075268817Z" fill="#ad81e6"/>
+</svg>

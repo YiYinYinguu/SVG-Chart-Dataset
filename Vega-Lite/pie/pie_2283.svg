@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">cum Rap</text>
+<path aria-label="Chief metrics: 11; Buckinghamshire: Manors" role="graphics-symbol" aria-roledescription="arc mark"  d="M245.36192396654542,192.95398210570903A75,75,0,0,0,273.23660814106995,123.3263871295036L199.0,134.0Z" fill="#02deba" stroke="white" stroke-width="0"/>
+<path aria-label="Chief metrics: 15; Buckinghamshire: Grocery" role="graphics-symbol" aria-roledescription="arc mark"  d="M273.23660814106995,123.3263871295036A75,75,0,0,0,199.0,59.0L199.0,134.0Z" fill="#3f66a1" stroke="white" stroke-width="0"/>
+<path aria-label="Chief metrics: 40; Buckinghamshire: partnerships" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.0,59.0A75,75,0,1,0,245.36192396654542,192.95398210570903L199.0,134.0Z" fill="#ee0ecd" stroke="white" stroke-width="0"/>
+<text aria-label="278,286,162,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="282.5531139714465" y="169.44962100942948" font-family="Balto" font-size="7px" fill="#02deba" opacity="1">11</text>
+<text aria-label="253,261,60,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="257.9374660550757" y="67.98253830811676" font-family="Balto" font-size="7px" fill="#3f66a1" opacity="1">15</text>
+<text aria-label="109,117,158,166" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="113.94992631567983" y="165.43611669856796" font-family="Balto" font-size="7px" fill="#ee0ecd" opacity="1">40</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#3f66a1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#02deba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ee0ecd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Grocery</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Manors</text>
+<text aria-label="21,87,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">partnerships</text>
+</svg>

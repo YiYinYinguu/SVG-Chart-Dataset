@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="292" height="239" viewBox="0 0 292 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="141,232,0,26" text-anchor="middle" x="187.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Product</text>
+<path aria-label="Northeast: 71; Diesel: circuit" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.0882550963058,79.86894845789729A75,75,0,0,0,118.22003087581628,104.09488593440356L187.0,134.0Z" fill="#7dbfa7" stroke="white" stroke-width="2"/>
+<path aria-label="Northeast: 237; Diesel: Classical" role="graphics-symbol" aria-roledescription="arc mark"  d="M238.30441201921377,188.707013328848A75,75,0,0,0,252.6381413217977,97.71454280541974L187.0,134.0Z" fill="#cac4ff" stroke="white" stroke-width="2"/>
+<path aria-label="Northeast: 74; Diesel: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M212.0388019327637,204.6969475845445A75,75,0,0,0,238.30441201921377,188.707013328848L187.0,134.0Z" fill="#f7abaa" stroke="white" stroke-width="2"/>
+<path aria-label="Northeast: 17; Diesel: Incredible" role="graphics-symbol" aria-roledescription="arc mark"  d="M205.22985662477458,206.75075482385157A75,75,0,0,0,212.0388019327637,204.6969475845445L187.0,134.0Z" fill="#bf2fc6" stroke="white" stroke-width="2"/>
+<path aria-label="Northeast: 147; Diesel: Johnson" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.22814993798346,196.94963258447535A75,75,0,0,0,205.22985662477458,206.75075482385157L187.0,134.0Z" fill="#fac1ae" stroke="white" stroke-width="2"/>
+<path aria-label="Northeast: 17; Diesel: zowie" role="graphics-symbol" aria-roledescription="arc mark"  d="M187.0,59.0A75,75,0,0,0,179.89604637042635,59.33719906922278L187.0,134.0Z" fill="#769a1e" stroke="white" stroke-width="2"/>
+<path aria-label="Northeast: 150; Diesel: Manager" role="graphics-symbol" aria-roledescription="arc mark"  d="M112.94642983966534,145.87723648448542A75,75,0,0,0,146.22814993798346,196.94963258447535L187.0,134.0Z" fill="#2e64cd" stroke="white" stroke-width="2"/>
+<path aria-label="Northeast: 102; Diesel: Zambia" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.22003087581628,104.09488593440356A75,75,0,0,0,112.94642983966534,145.87723648448542L187.0,134.0Z" fill="#fc2911" stroke="white" stroke-width="2"/>
+<path aria-label="Northeast: 191; Diesel: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M252.6381413217977,97.71454280541974A75,75,0,0,0,187.0,59.0L187.0,134.0Z" fill="#70c3ff" stroke="white" stroke-width="2"/>
+<path aria-label="Northeast: 120; Diesel: purple" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.89604637042635,59.33719906922278A75,75,0,0,0,135.0882550963058,79.86894845789729L187.0,134.0Z" fill="#f5f3f9" stroke="white" stroke-width="2"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#70c3ff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#cac4ff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#f7abaa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#bf2fc6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#fac1ae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#2e64cd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#fc2911" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#7dbfa7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#f5f3f9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,184.0A5,5,0,1,1,6.0,184.0A5,5,0,1,1,16.0,184.0" fill="#769a1e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Classical</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="21,76,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Incredible</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Johnson</text>
+<text aria-label="21,59,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Manager</text>
+<text aria-label="21,54,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Zambia</text>
+<text aria-label="21,59,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">circuit</text>
+<text aria-label="21,54,161,172" text-anchor="start" x="21.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">purple</text>
+<text aria-label="21,48,177,188" text-anchor="start" x="21.0" y="187.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">zowie</text>
+</svg>

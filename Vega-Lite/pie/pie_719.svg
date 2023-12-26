@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="354" height="286" viewBox="0 0 354 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,356,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">California male Convertible</text>
+<path aria-label="Northwest: 194; Mazda: District" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.74669099394828,194.6537748422591A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#6ac7dd" stroke="black" stroke-width="2"/>
+<path aria-label="Northwest: 209; Mazda: Sedan" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.161396398481656,218.69556317400196A75,75,0,0,0,161.1123585896462,230.7634726833544L105.0,181.0Z" fill="#1d62ae" stroke="black" stroke-width="2"/>
+<path aria-label="Northwest: 150; Mazda: ohm" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.35504024349454,125.68193738694438A75,75,0,0,0,40.161396398481656,218.69556317400196L105.0,181.0Z" fill="#8c2bce" stroke="black" stroke-width="2"/>
+<path aria-label="Northwest: 82; Mazda: success" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,54.35504024349454,125.68193738694438L105.0,181.0Z" fill="#64a3a0" stroke="black" stroke-width="2"/>
+<path aria-label="Northwest: 60; Mazda: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.1123585896462,230.7634726833544A75,75,0,0,0,178.74669099394828,194.6537748422591L105.0,181.0Z" fill="#a78e5d" stroke="black" stroke-width="2"/>
+<text aria-label="165,182,116,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.1903450019003" y="126.44397374281293" font-family="Balto" font-size="10px" fill="#6ac7dd" opacity="1">194</text>
+<text aria-label="87,104,263,274" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="96.0645959746673" y="273.5553379475733" font-family="Balto" font-size="10px" fill="#1d62ae" opacity="1">209</text>
+<text aria-label="7,24,160,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.02991696276925" y="170.4233905429866" font-family="Balto" font-size="10px" fill="#8c2bce" opacity="1">150</text>
+<text aria-label="66,77,90,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="72.39900892771817" y="100.11212613789165" font-family="Balto" font-size="10px" fill="#64a3a0" opacity="1">82</text>
+<text aria-label="180,191,213,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.87163837399783" y="223.4940262154332" font-family="Balto" font-size="10px" fill="#a78e5d" opacity="1">60</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#6ac7dd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M77.0,56.25A5,5,0,1,1,67.0,56.25A5,5,0,1,1,77.0,56.25" fill="#a78e5d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M124.0,56.25A5,5,0,1,1,114.0,56.25A5,5,0,1,1,124.0,56.25" fill="#1d62ae" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M181.0,56.25A5,5,0,1,1,171.0,56.25A5,5,0,1,1,181.0,56.25" fill="#8c2bce" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M230.0,56.25A5,5,0,1,1,220.0,56.25A5,5,0,1,1,230.0,56.25" fill="#64a3a0" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">District</text>
+<text aria-label="82,104,49,60" text-anchor="start" x="82.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="129,156,49,60" text-anchor="start" x="129.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Sedan</text>
+<text aria-label="186,202,49,60" text-anchor="start" x="186.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">ohm</text>
+<text aria-label="235,273,49,60" text-anchor="start" x="235.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">success</text>
+<text aria-label="5,35,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Mazda</text>
+</svg>

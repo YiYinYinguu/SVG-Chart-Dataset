@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="247" height="286" viewBox="0 0 247 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle West</text>
+<path aria-label="CLI: 713; minus: compress" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.98418540117672,247.32414890506197A75,75,0,0,0,179.66705021267342,188.05915097856004L105.0,181.0Z" fill="#a0fba5" stroke="white" stroke-width="0"/>
+<path aria-label="CLI: 347; minus: super" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.63324346468866,190.7255088513521A75,75,0,0,0,69.98418540117672,247.32414890506197L105.0,181.0Z" fill="#2bd2ed" stroke="white" stroke-width="0"/>
+<path aria-label="CLI: 605; minus: coaxingly" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.66705021267342,188.05915097856004A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#7269be" stroke="white" stroke-width="0"/>
+<path aria-label="CLI: 618; minus: veniam" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.63324346468866,190.7255088513521L105.0,181.0Z" fill="#d1df4b" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#7269be" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,56.25A5,5,0,1,1,78.0,56.25A5,5,0,1,1,88.0,56.25" fill="#a0fba5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,56.25A5,5,0,1,1,145.0,56.25A5,5,0,1,1,155.0,56.25" fill="#2bd2ed" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,56.25A5,5,0,1,1,197.0,56.25A5,5,0,1,1,207.0,56.25" fill="#d1df4b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">coaxingly</text>
+<text aria-label="93,137,49,60" text-anchor="start" x="93.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">compress</text>
+<text aria-label="160,187,49,60" text-anchor="start" x="160.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">super</text>
+<text aria-label="212,245,49,60" text-anchor="start" x="212.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">veniam</text>
+<text aria-label="5,35,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">minus</text>
+</svg>

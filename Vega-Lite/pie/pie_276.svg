@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="212" height="270" viewBox="0 0 212 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="7,202,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">boo Cyprus Avon</text>
+<path aria-label="Female: 59; Cambridgeshire Technician Gold: magnetic" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.215114643077726,112.72968235085301A75,75,0,0,0,59.20140902734216,224.39266844417065L105.0,165.0Z" fill="#f2e2fc" stroke="white" stroke-width="2"/>
+<path aria-label="Female: 48; Cambridgeshire Technician Gold: Rover" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.20140902734216,224.39266844417065A75,75,0,0,0,154.1145550458964,221.68121807656937L105.0,165.0Z" fill="#4a5df1" stroke="white" stroke-width="2"/>
+<path aria-label="Female: 22; Cambridgeshire Technician Gold: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.0838939219355,104.32372542187895A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#1a9aee" stroke="white" stroke-width="2"/>
+<path aria-label="Female: 63; Cambridgeshire Technician Gold: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.1145550458964,221.68121807656937A75,75,0,0,0,149.0838939219355,104.32372542187895L105.0,165.0Z" fill="#1a9aee" stroke="white" stroke-width="2"/>
+<path aria-label="Female: 28; Cambridgeshire Technician Gold: up" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,51.215114643077726,112.72968235085301L105.0,165.0Z" fill="#32d4b2" stroke="white" stroke-width="2"/>
+<text aria-label="9,20,164,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.229309685077183" y="174.42052648793089" font-family="monospace" font-size="10px" fill="#f2e2fc" opacity="1">59</text>
+<text aria-label="102,113,247,258" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.57004457143265" y="257.963297354537" font-family="monospace" font-size="10px" fill="#4a5df1" opacity="1">48</text>
+<text aria-label="127,138,72,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="132.81152949374527" y="82.40491353343619" font-family="monospace" font-size="10px" fill="#1a9aee" opacity="1">22</text>
+<text aria-label="189,200,154,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.9174260641056" y="164.14558824123577" font-family="monospace" font-size="10px" fill="#1a9aee" opacity="1">63</text>
+<text aria-label="64,75,75,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="69.96569043143478" y="85.09887121966348" font-family="monospace" font-size="10px" fill="#32d4b2" opacity="1">28</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#1a9aee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,40.25A5,5,0,1,1,63.0,40.25A5,5,0,1,1,73.0,40.25" fill="#4a5df1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,40.25A5,5,0,1,1,115.0,40.25A5,5,0,1,1,125.0,40.25" fill="#f2e2fc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,40.25A5,5,0,1,1,182.0,40.25A5,5,0,1,1,192.0,40.25" fill="#32d4b2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="78,105,33,44" text-anchor="start" x="78.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Rover</text>
+<text aria-label="130,174,33,44" text-anchor="start" x="130.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">magnetic</text>
+<text aria-label="197,208,33,44" text-anchor="start" x="197.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">up</text>
+</svg>

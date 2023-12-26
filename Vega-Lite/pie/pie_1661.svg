@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="287" height="286" viewBox="0 0 287 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cab</text>
+<path aria-label="Hybrid: 392; Northeast mole overriding: purple" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.04151005150429,183.4949518314524A75,75,0,0,0,175.12621820140612,207.59536652819017L133.05048728056244,191.63814661127608A30,30,0,0,1,75.01660402060172,181.99798073258097Z" fill="#cc1f24" stroke="white" stroke-width="2"/>
+<path aria-label="Hybrid: 198; Northeast mole overriding: grey" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.12621820140612,207.59536652819017A75,75,0,0,0,143.9687962526575,116.91854465901336L120.587518501063,155.36741786360534A30,30,0,0,1,133.05048728056244,191.63814661127608Z" fill="#1c3eea" stroke="white" stroke-width="2"/>
+<path aria-label="Hybrid: 36; Northeast mole overriding: Wooden" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.9687962526575,116.91854465901336A75,75,0,0,0,126.74778422014928,109.22233020281429L113.69911368805971,152.28893208112572A30,30,0,0,1,120.587518501063,155.36741786360534Z" fill="#e9ed9a" stroke="white" stroke-width="2"/>
+<path aria-label="Hybrid: 42; Northeast mole overriding: Security" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.74778422014928,109.22233020281429A75,75,0,0,0,105.0,106.0L105.0,151.0A30,30,0,0,1,113.69911368805971,152.28893208112572Z" fill="#b7fdb7" stroke="white" stroke-width="2"/>
+<path aria-label="Hybrid: 229; Northeast mole overriding: ugh" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.04151005150429,183.4949518314524L75.01660402060172,181.99798073258097A30,30,0,0,1,105.0,151.0Z" fill="#81ed6b" stroke="white" stroke-width="2"/>
+<text aria-label="82,97,263,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="90.25194582443895" y="272.7834156700153" font-family="Balto" font-size="9px" fill="#cc1f24" opacity="1">392</text>
+<text aria-label="182,197,145,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.1154683538171" y="154.75351222949394" font-family="Balto" font-size="9px" fill="#1c3eea" opacity="1">198</text>
+<text aria-label="136,146,92,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.72144536991956" y="101.83227245478908" font-family="Balto" font-size="9px" fill="#e9ed9a" opacity="1">36</text>
+<text aria-label="113,123,85,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.19112697808536" y="94.9719472916091" font-family="Balto" font-size="9px" fill="#b7fdb7" opacity="1">42</text>
+<text aria-label="32,47,112,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="40.31053100466488" y="121.42786082367348" font-family="Balto" font-size="9px" fill="#81ed6b" opacity="1">229</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#b7fdb7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,56.25A5,5,0,1,1,72.0,56.25A5,5,0,1,1,82.0,56.25" fill="#e9ed9a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M150.0,56.25A5,5,0,1,1,140.0,56.25A5,5,0,1,1,150.0,56.25" fill="#1c3eea" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M199.0,56.25A5,5,0,1,1,189.0,56.25A5,5,0,1,1,199.0,56.25" fill="#cc1f24" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M258.0,56.25A5,5,0,1,1,248.0,56.25A5,5,0,1,1,258.0,56.25" fill="#81ed6b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Security</text>
+<text aria-label="87,120,49,60" text-anchor="start" x="87.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Wooden</text>
+<text aria-label="155,177,49,60" text-anchor="start" x="155.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">grey</text>
+<text aria-label="204,237,49,60" text-anchor="start" x="204.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">purple</text>
+<text aria-label="263,279,49,60" text-anchor="start" x="263.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">ugh</text>
+<text aria-label="5,155,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northeast mole overriding</text>
+</svg>

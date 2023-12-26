@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="354" height="239" viewBox="0 0 354 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="193,349,0,26" text-anchor="end" x="349.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">invoice gold</text>
+<path aria-label="Bespoke: 109; Pizza Pickup Northwest: Louisiana" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.35174600487045,148.17514315514603A75,75,0,0,0,182.17231613877718,168.04498009610901L210.6854612528989,153.51912192176917A43,43,0,0,1,206.77500104279238,142.12708207561707Z" fill="#1adae1" stroke="white" stroke-width="0"/>
+<path aria-label="Bespoke: 8; Pizza Pickup Northwest: XSS" role="graphics-symbol" aria-roledescription="arc mark"  d="M249.0,59.0A75,75,0,0,0,247.45316213208514,59.015953079269025L248.11314628906214,91.00914643211424A43,43,0,0,1,249.0,91.0Z" fill="#3bdc98" stroke="white" stroke-width="0"/>
+<path aria-label="Bespoke: 646; Pizza Pickup Northwest: Jewelery" role="graphics-symbol" aria-roledescription="arc mark"  d="M264.07600334692523,207.46913721477543A75,75,0,0,0,320.7132702333182,112.04079071452992L290.11560826710246,121.41005334299716A43,43,0,0,1,257.6435752522371,176.12230533647124Z" fill="#73059e" stroke="white" stroke-width="0"/>
+<path aria-label="Bespoke: 505; Pizza Pickup Northwest: Kwacha" role="graphics-symbol" aria-roledescription="arc mark"  d="M182.17231613877718,168.04498009610901A75,75,0,0,0,264.07600334692523,207.46913721477543L257.6435752522371,176.12230533647124A43,43,0,0,1,210.6854612528989,153.51912192176917Z" fill="#bebbf0" stroke="white" stroke-width="0"/>
+<path aria-label="Bespoke: 494; Pizza Pickup Northwest: Bosco" role="graphics-symbol" aria-roledescription="arc mark"  d="M320.7132702333182,112.04079071452992A75,75,0,0,0,249.0,59.0L249.0,91.0A43,43,0,0,1,290.11560826710246,121.41005334299716Z" fill="#720e0d" stroke="white" stroke-width="0"/>
+<path aria-label="Bespoke: 675; Pizza Pickup Northwest: Money" role="graphics-symbol" aria-roledescription="arc mark"  d="M247.45316213208514,59.015953079269025A75,75,0,0,0,175.35174600487045,148.17514315514603L206.77500104279238,142.12708207561707A43,43,0,0,1,248.11314628906214,91.00914643211424Z" fill="#8a2877" stroke="white" stroke-width="0"/>
+<text aria-label="156,171,157,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.87545692806572" y="166.22006445568525" font-family="monospace" font-size="9px" fill="#1adae1" opacity="1">109</text>
+<text aria-label="245,250,38,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="248.07184792165975" y="47.00478605103784" font-family="monospace" font-size="9px" fill="#3bdc98" opacity="1">8</text>
+<text aria-label="318,333,173,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="326.395226188497" y="182.93450732544528" font-family="monospace" font-size="9px" fill="#73059e" opacity="1">646</text>
+<text aria-label="202,217,209,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="209.96539719421187" y="218.0943881152966" font-family="monospace" font-size="9px" fill="#bebbf0" opacity="1">505</text>
+<text aria-label="295,310,55,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="302.51824640797395" y="64.64119057491767" font-family="monospace" font-size="9px" fill="#720e0d" opacity="1">494</text>
+<text aria-label="171,186,71,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.019154867206" y="80.40776277173785" font-family="monospace" font-size="9px" fill="#8a2877" opacity="1">675</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#720e0d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#73059e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#bebbf0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#1adae1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#8a2877" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#3bdc98" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bosco</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Jewelery</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Kwacha</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Louisiana</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Money</text>
+<text aria-label="21,37,129,140" text-anchor="start" x="21.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">XSS</text>
+<text aria-label="5,137,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Pizza Pickup Northwest</text>
+</svg>

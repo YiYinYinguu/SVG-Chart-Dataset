@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="533" height="309" viewBox="0 0 533 309" style="background-color: rgb(255, 255, 255);">
+<line x1="221.5" y1="34.5" x2="221.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="262.5" y1="34.5" x2="262.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="303.5" y1="34.5" x2="303.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="344.5" y1="34.5" x2="344.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="384.5" y1="34.5" x2="384.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="425.5" y1="34.5" x2="425.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="466.5" y1="34.5" x2="466.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="507.5" y1="34.5" x2="507.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="201.5" y1="234.5" x2="528.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="201.5" y1="178.5" x2="528.5" y2="178.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="201.5" y1="123.5" x2="528.5" y2="123.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="201.5" y1="67.5" x2="528.5" y2="67.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="208,226,241,286" text-anchor="end" x="221.4375" y="241.5" transform="rotate(270.0, 226.4375, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">cello</text>
+<text aria-label="249,267,241,286" text-anchor="end" x="262.3125" y="241.5" transform="rotate(270.0, 267.3125, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">drill</text>
+<text aria-label="290,308,241,277" text-anchor="end" x="303.1875" y="241.5" transform="rotate(270.0, 308.1875, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">lark</text>
+<text aria-label="331,349,241,295" text-anchor="end" x="344.0625" y="241.5" transform="rotate(270.0, 349.0625, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">leaver</text>
+<text aria-label="371,389,241,277" text-anchor="end" x="384.9375" y="241.5" transform="rotate(270.0, 389.9375, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">lily</text>
+<text aria-label="412,430,241,286" text-anchor="end" x="425.8125" y="241.5" transform="rotate(270.0, 430.8125, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">mambo</text>
+<text aria-label="453,471,241,286" text-anchor="end" x="466.6875" y="241.5" transform="rotate(270.0, 471.6875, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">nymph</text>
+<text aria-label="494,512,241,286" text-anchor="end" x="507.5625" y="241.5" transform="rotate(270.0, 512.5625, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">torte</text>
+<line aria-label="221,221,234,239" x1="221.5" y1="234.5" x2="221.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="262,262,234,239" x1="262.5" y1="234.5" x2="262.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="303,303,234,239" x1="303.5" y1="234.5" x2="303.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="344,344,234,239" x1="344.5" y1="234.5" x2="344.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="384,384,234,239" x1="384.5" y1="234.5" x2="384.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="425,425,234,239" x1="425.5" y1="234.5" x2="425.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="466,466,234,239" x1="466.5" y1="234.5" x2="466.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="507,507,234,239" x1="507.5" y1="234.5" x2="507.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="201,528,234,234" x1="201.5" y1="234.5" x2="528.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="299,429,0,26" text-anchor="middle" x="364.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Specialist</text>
+<text aria-label="185,194,222,240" text-anchor="end" x="194.5" y="239.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="167,194,166,184" text-anchor="end" x="194.5" y="183.94444444444443" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="149,194,111,129" text-anchor="end" x="194.5" y="128.38888888888889" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="149,194,55,73" text-anchor="end" x="194.5" y="72.83333333333333" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<line aria-label="196,201,234,234" x1="201.5" y1="234.5" x2="196.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="196,201,178,178" x1="201.5" y1="178.5" x2="196.5" y2="178.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="196,201,123,123" x1="201.5" y1="123.5" x2="196.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="196,201,67,67" x1="201.5" y1="67.5" x2="196.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="129,141,74,194" text-anchor="middle" x="143.70849609375" y="134.5" transform="rotate(-90.0, 141.70849609375, 134.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northeast Jakubowski</text>
+<path aria-label="Toyota: lily; Northeast Jakubowski: 488; Jewelery: drat" role="graphics-symbol" aria-roledescription="bar" d="M375.740625,179.77777777777777h18.39375v54.22222222222223h-18.39375Z" fill="#9dea0c"/>
+<path aria-label="Toyota: lily; Northeast Jakubowski: 659; Jewelery: Strontium payment" role="graphics-symbol" aria-roledescription="bar" d="M375.740625,106.55555555555556h18.39375v73.22222222222221h-18.39375Z" fill="#3c2f31"/>
+<path aria-label="Toyota: lily; Northeast Jakubowski: 23; Jewelery: Latin" role="graphics-symbol" aria-roledescription="bar" d="M375.740625,104.0h18.39375v2.555555555555557h-18.39375Z" fill="#7dd010"/>
+<path aria-label="Toyota: torte; Northeast Jakubowski: 159; Jewelery: drat" role="graphics-symbol" aria-roledescription="bar" d="M498.36562499999997,216.33333333333331h18.39375v17.666666666666686h-18.39375Z" fill="#9dea0c"/>
+<path aria-label="Toyota: torte; Northeast Jakubowski: 715; Jewelery: Strontium payment" role="graphics-symbol" aria-roledescription="bar" d="M498.36562499999997,136.8888888888889h18.39375v79.44444444444441h-18.39375Z" fill="#3c2f31"/>
+<path aria-label="Toyota: torte; Northeast Jakubowski: 117; Jewelery: Latin" role="graphics-symbol" aria-roledescription="bar" d="M498.36562499999997,123.88888888888889h18.39375v13.000000000000014h-18.39375Z" fill="#7dd010"/>
+<path aria-label="Toyota: mambo; Northeast Jakubowski: 534; Jewelery: drat" role="graphics-symbol" aria-roledescription="bar" d="M416.615625,174.66666666666669h18.39375v59.333333333333314h-18.39375Z" fill="#9dea0c"/>
+<path aria-label="Toyota: mambo; Northeast Jakubowski: 776; Jewelery: Strontium payment" role="graphics-symbol" aria-roledescription="bar" d="M416.615625,88.44444444444446h18.39375v86.22222222222223h-18.39375Z" fill="#3c2f31"/>
+<path aria-label="Toyota: mambo; Northeast Jakubowski: 201; Jewelery: Latin" role="graphics-symbol" aria-roledescription="bar" d="M416.615625,66.11111111111111h18.39375v22.333333333333336h-18.39375Z" fill="#7dd010"/>
+<path aria-label="Toyota: lark; Northeast Jakubowski: 15; Jewelery: drat" role="graphics-symbol" aria-roledescription="bar" d="M293.990625,232.33333333333334h18.39375v1.6666666666666572h-18.39375Z" fill="#9dea0c"/>
+<path aria-label="Toyota: lark; Northeast Jakubowski: 108; Jewelery: Strontium payment" role="graphics-symbol" aria-roledescription="bar" d="M293.990625,220.33333333333331h18.39375v12.000000000000028h-18.39375Z" fill="#3c2f31"/>
+<path aria-label="Toyota: lark; Northeast Jakubowski: 222; Jewelery: Latin" role="graphics-symbol" aria-roledescription="bar" d="M293.990625,195.66666666666666h18.39375v24.666666666666657h-18.39375Z" fill="#7dd010"/>
+<path aria-label="Toyota: leaver; Northeast Jakubowski: 740; Jewelery: drat" role="graphics-symbol" aria-roledescription="bar" d="M334.865625,151.77777777777777h18.39375v82.22222222222221h-18.39375Z" fill="#9dea0c"/>
+<path aria-label="Toyota: leaver; Northeast Jakubowski: 302; Jewelery: Strontium payment" role="graphics-symbol" aria-roledescription="bar" d="M334.865625,118.22222222222221h18.39375v33.55555555555557h-18.39375Z" fill="#3c2f31"/>
+<path aria-label="Toyota: leaver; Northeast Jakubowski: 595; Jewelery: Latin" role="graphics-symbol" aria-roledescription="bar" d="M334.865625,52.1111111111111h18.39375v66.11111111111111h-18.39375Z" fill="#7dd010"/>
+<path aria-label="Toyota: nymph; Northeast Jakubowski: 435; Jewelery: drat" role="graphics-symbol" aria-roledescription="bar" d="M457.49062499999997,185.66666666666666h18.39375v48.33333333333334h-18.39375Z" fill="#9dea0c"/>
+<path aria-label="Toyota: nymph; Northeast Jakubowski: 83; Jewelery: Strontium payment" role="graphics-symbol" aria-roledescription="bar" d="M457.49062499999997,176.44444444444443h18.39375v9.222222222222229h-18.39375Z" fill="#3c2f31"/>
+<path aria-label="Toyota: nymph; Northeast Jakubowski: 417; Jewelery: Latin" role="graphics-symbol" aria-roledescription="bar" d="M457.49062499999997,130.1111111111111h18.39375v46.33333333333333h-18.39375Z" fill="#7dd010"/>
+<path aria-label="Toyota: cello; Northeast Jakubowski: 615; Jewelery: drat" role="graphics-symbol" aria-roledescription="bar" d="M212.240625,165.66666666666666h18.39375v68.33333333333334h-18.39375Z" fill="#9dea0c"/>
+<path aria-label="Toyota: cello; Northeast Jakubowski: 279; Jewelery: Strontium payment" role="graphics-symbol" aria-roledescription="bar" d="M212.240625,134.66666666666669h18.39375v30.99999999999997h-18.39375Z" fill="#3c2f31"/>
+<path aria-label="Toyota: cello; Northeast Jakubowski: 202; Jewelery: Latin" role="graphics-symbol" aria-roledescription="bar" d="M212.240625,112.22222222222221h18.39375v22.44444444444447h-18.39375Z" fill="#7dd010"/>
+<path aria-label="Toyota: drill; Northeast Jakubowski: 284; Jewelery: drat" role="graphics-symbol" aria-roledescription="bar" d="M253.115625,202.44444444444443h18.39375v31.55555555555557h-18.39375Z" fill="#9dea0c"/>
+<path aria-label="Toyota: drill; Northeast Jakubowski: 54; Jewelery: Strontium payment" role="graphics-symbol" aria-roledescription="bar" d="M253.115625,196.44444444444443h18.39375v6h-18.39375Z" fill="#3c2f31"/>
+<path aria-label="Toyota: drill; Northeast Jakubowski: 613; Jewelery: Latin" role="graphics-symbol" aria-roledescription="bar" d="M253.115625,128.33333333333334h18.39375v68.11111111111109h-18.39375Z" fill="#7dd010"/>
+<path  d="M6.0,35.0h10v10h-10Z" fill="#9dea0c" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,48.0h10v10h-10Z" fill="#3c2f31" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,61.0h10v10h-10Z" fill="#7dd010" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">drat</text>
+<text aria-label="21,114,46,57" text-anchor="start" x="21.0" y="56.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Strontium payment</text>
+<text aria-label="21,48,59,70" text-anchor="start" x="21.0" y="69.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Latin</text>
+</svg>

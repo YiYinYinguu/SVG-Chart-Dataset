@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,278,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Nissan Classical West</text>
+<path aria-label="Rubber: 237; Mews Iowa: migration" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.2110091393198,128.37800337592648A75,75,0,0,0,154.13601263532323,199.86937384176582L172.78528606495516,165.6172994440476A36,36,0,0,1,154.1012843868735,131.3014416204447Z" fill="#0ddfb4" stroke="white" stroke-width="4"/>
+<path aria-label="Rubber: 276; Mews Iowa: Refined" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.8953382223172,121.17506378147064A75,75,0,0,0,194.71653561466246,59.14845164062656L192.263937095038,98.07125678750074A36,36,0,0,1,225.46976234671226,127.84403061510591Z" fill="#b027bb" stroke="white" stroke-width="4"/>
+<path aria-label="Rubber: 13; Mews Iowa: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.71653561466246,59.14845164062656A75,75,0,0,0,190.0,59.0L190.0,98.0A36,36,0,0,1,192.263937095038,98.07125678750074Z" fill="#afdd5d" stroke="white" stroke-width="4"/>
+<path aria-label="Rubber: 309; Mews Iowa: projection" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,115.2110091393198,128.37800337592648L154.1012843868735,131.3014416204447A36,36,0,0,1,190.0,98.0Z" fill="#b8242c" stroke="white" stroke-width="4"/>
+<path aria-label="Rubber: 343; Mews Iowa: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M196.16488651159577,208.74619839362498A75,75,0,0,0,263.8953382223172,121.17506378147064L225.46976234671226,127.84403061510591A36,36,0,0,1,192.95914552556596,169.87817522894Z" fill="#fb421d" stroke="white" stroke-width="4"/>
+<path aria-label="Rubber: 120; Mews Iowa: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.13601263532323,199.86937384176582A75,75,0,0,0,196.16488651159577,208.74619839362498L192.95914552556596,169.87817522894A36,36,0,0,1,172.78528606495516,165.6172994440476Z" fill="#fb421d" stroke="white" stroke-width="4"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#afdd5d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#b027bb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#fb421d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#0ddfb4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#b8242c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Refined</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">migration</text>
+<text aria-label="21,76,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">projection</text>
+<text aria-label="5,59,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Mews Iowa</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="193,284,0,26" text-anchor="end" x="284.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Tactics</text>
+<path aria-label="Georgia Brook application: 642; siemens West index: Mandatory" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.09834878525683,192.3673328301225A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#fbf6ee" stroke="white" stroke-width="1"/>
+<path aria-label="Georgia Brook application: 551; siemens West index: Touring" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.694302461657983,144.1815182237441A75,75,0,0,0,152.09834878525683,192.3673328301225L105.0,134.0Z" fill="#ef107a" stroke="white" stroke-width="1"/>
+<path aria-label="Georgia Brook application: 445; siemens West index: rue" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.694302461657983,144.1815182237441L105.0,134.0Z" fill="#ef7d23" stroke="white" stroke-width="1"/>
+<text aria-label="182,197,98,108" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.86363162643121" y="107.03061516858605" font-family="serif" font-size="9px" fill="#fbf6ee" opacity="1">642</text>
+<text aria-label="64,79,211,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="71.79818498993134" y="220.65189465898055" font-family="serif" font-size="9px" fill="#ef107a" opacity="1">551</text>
+<text aria-label="29,44,68,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="37.178159977171205" y="77.83752865271923" font-family="serif" font-size="9px" fill="#ef7d23" opacity="1">445</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#fbf6ee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ef107a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ef7d23" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Mandatory</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Touring</text>
+<text aria-label="239,255,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">rue</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Applications</text>
+<path aria-label="Keyboard modular International: 287; Vanadium volt aha: engage" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,37.64210937122114,213.98354999149524L62.78905520596525,201.6696913280037A47,47,0,0,1,104.99999999999999,134.0Z" fill="#03f1c2" stroke="black" stroke-width="3"/>
+<path aria-label="Keyboard modular International: 277; Vanadium volt aha: Volvo" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.64210937122114,213.98354999149524A75,75,0,0,0,160.8538049915648,231.0534960613567L140.00171779471395,212.36685753178352A47,47,0,0,1,62.78905520596525,201.6696913280037Z" fill="#cebd5b" stroke="black" stroke-width="3"/>
+<path aria-label="Keyboard modular International: 326; Vanadium volt aha: Loan" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.8538049915648,231.0534960613567A75,75,0,0,0,105.0,106.0L105.0,134.0A47,47,0,0,1,140.00171779471395,212.36685753178352Z" fill="#afdf1b" stroke="black" stroke-width="3"/>
+<text aria-label="20,36,126,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="28.63828380961607" y="136.36715103566388" font-family="serif" font-size="10px" fill="#03f1c2" opacity="1">287</text>
+<text aria-label="84,100,263,274" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.64922122846173" y="273.14851801200354" font-family="serif" font-size="10px" fill="#cebd5b" opacity="1">277</text>
+<text aria-label="178,195,137,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.17596234491725" y="147.296986326914" font-family="serif" font-size="10px" fill="#afdf1b" opacity="1">326</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#afdf1b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,56.25A5,5,0,1,1,53.0,56.25A5,5,0,1,1,63.0,56.25" fill="#cebd5b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M115.0,56.25A5,5,0,1,1,105.0,56.25A5,5,0,1,1,115.0,56.25" fill="#03f1c2" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Loan</text>
+<text aria-label="68,95,49,60" text-anchor="start" x="68.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Volvo</text>
+<text aria-label="120,153,49,60" text-anchor="start" x="120.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">engage</text>
+<text aria-label="5,107,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Vanadium volt aha</text>
+</svg>

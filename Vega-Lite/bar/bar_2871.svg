@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="873" height="302" viewBox="0 0 873 302" style="background-color: rgb(255, 255, 255);">
+<line x1="136.5" y1="34.5" x2="136.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="345.5" y1="34.5" x2="345.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="554.5" y1="34.5" x2="554.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="763.5" y1="34.5" x2="763.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="32.5" y1="234.5" x2="868.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="32.5" y1="178.5" x2="868.5" y2="178.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="32.5" y1="123.5" x2="868.5" y2="123.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="32.5" y1="67.5" x2="868.5" y2="67.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="125,140,241,286" text-anchor="end" x="136.5" y="241.5" transform="rotate(270.0, 140.5, 241.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">blouse</text>
+<text aria-label="334,349,241,301" text-anchor="end" x="345.5" y="241.5" transform="rotate(270.0, 349.5, 241.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">director</text>
+<text aria-label="543,558,241,271" text-anchor="end" x="554.5" y="241.5" transform="rotate(270.0, 558.5, 241.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">hole</text>
+<text aria-label="752,767,241,286" text-anchor="end" x="763.5" y="241.5" transform="rotate(270.0, 767.5, 241.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">outfit</text>
+<line aria-label="136,136,234,239" x1="136.5" y1="234.5" x2="136.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="345,345,234,239" x1="345.5" y1="234.5" x2="345.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="554,554,234,239" x1="554.5" y1="234.5" x2="554.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="763,763,234,239" x1="763.5" y1="234.5" x2="763.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,868,234,234" x1="32.5" y1="234.5" x2="868.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="595,868,0,26" text-anchor="end" x="868.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Assistant ferociously</text>
+<text aria-label="23,30,224,239" text-anchor="end" x="30.5" y="238.5" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="15,30,168,183" text-anchor="end" x="30.5" y="182.94444444444443" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="8,30,113,128" text-anchor="end" x="30.5" y="127.38888888888889" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="8,30,57,72" text-anchor="end" x="30.5" y="71.83333333333333" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">150</text>
+<path aria-label="Bedfordshire Aurore: hole; bypassing discrete Lead: 149; Louisiana Serbian: FTM nor" role="graphics-symbol" aria-roledescription="bar" d="M498.07,68.44444444444446h112.86000000000001v165.55555555555554h-112.86000000000001Z" fill="#e0a453"/>
+<path aria-label="Bedfordshire Aurore: director; bypassing discrete Lead: 136; Louisiana Serbian: FTM nor" role="graphics-symbol" aria-roledescription="bar" d="M289.07,82.88888888888889h112.86000000000001v151.11111111111111h-112.86000000000001Z" fill="#e0a453"/>
+<path aria-label="Bedfordshire Aurore: blouse; bypassing discrete Lead: 172; Louisiana Serbian: FTM nor" role="graphics-symbol" aria-roledescription="bar" d="M80.06999999999998,42.88888888888888h112.86000000000001v191.11111111111111h-112.86000000000001Z" fill="#e0a453"/>
+<path aria-label="Bedfordshire Aurore: outfit; bypassing discrete Lead: 176; Louisiana Serbian: FTM nor" role="graphics-symbol" aria-roledescription="bar" d="M707.07,38.44444444444445h112.86000000000001v195.55555555555554h-112.86000000000001Z" fill="#e0a453"/>
+</svg>

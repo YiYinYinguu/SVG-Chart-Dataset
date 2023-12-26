@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="7,202,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">functionalities</text>
+<path aria-label="World Markets Classical: 520; experiences Northwest Savings: perp" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,80.02481468410235,204.71944653655436L93.01191104836913,167.9453343375461A36,36,0,0,1,105.0,98.0Z" fill="#d2ace8" stroke="black" stroke-width="0"/>
+<path aria-label="World Markets Classical: 412; experiences Northwest Savings: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.02481468410235,204.71944653655436A75,75,0,0,0,176.4284869914124,111.1314354163269L139.28567375587795,123.02308899983692A36,36,0,0,1,93.01191104836913,167.9453343375461Z" fill="#d5fba2" stroke="black" stroke-width="0"/>
+<path aria-label="World Markets Classical: 234; experiences Northwest Savings: Oriental" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.4284869914124,111.1314354163269A75,75,0,0,0,105.0,59.0L105.0,98.0A36,36,0,0,1,139.28567375587795,123.02308899983692Z" fill="#a9e38e" stroke="black" stroke-width="0"/>
+<text aria-label="6,26,110,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.29346070906645" y="122.79638572489874" font-family="sans-serif" font-size="12px" fill="#d2ace8" opacity="1">520</text>
+<text aria-label="157,177,190,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="167.6895926156697" y="202.57565313398982" font-family="sans-serif" font-size="12px" fill="#d5fba2" opacity="1">412</text>
+<text aria-label="148,167,53,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="158.05749251973424" y="65.30266519659509" font-family="sans-serif" font-size="12px" fill="#a9e38e" opacity="1">234</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#a9e38e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,258.25A5,5,0,1,1,72.0,258.25A5,5,0,1,1,82.0,258.25" fill="#d5fba2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M138.0,258.25A5,5,0,1,1,128.0,258.25A5,5,0,1,1,138.0,258.25" fill="#d2ace8" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Oriental</text>
+<text aria-label="87,114,251,262" text-anchor="start" x="87.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="143,165,251,262" text-anchor="start" x="143.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">perp</text>
+</svg>

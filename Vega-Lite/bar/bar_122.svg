@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="655" height="325" viewBox="0 0 655 325" style="background-color: rgb(255, 255, 255);">
+<line x1="121.5" y1="43.5" x2="121.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="236.5" y1="43.5" x2="236.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="351.5" y1="43.5" x2="351.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="466.5" y1="43.5" x2="466.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="581.5" y1="43.5" x2="581.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="108,126,250,304" text-anchor="end" x="121.0" y="250.5" transform="rotate(270.0, 126.0, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">digger</text>
+<text aria-label="223,241,250,313" text-anchor="end" x="236.0" y="250.5" transform="rotate(270.0, 241.0, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">granola</text>
+<text aria-label="338,356,250,304" text-anchor="end" x="351.0" y="250.5" transform="rotate(270.0, 356.0, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">pirate</text>
+<text aria-label="453,471,250,304" text-anchor="end" x="466.0" y="250.5" transform="rotate(270.0, 471.0, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">saving</text>
+<text aria-label="568,586,250,286" text-anchor="end" x="581.0" y="250.5" transform="rotate(270.0, 586.0, 250.5)" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">unit</text>
+<line aria-label="121,121,243,248" x1="121.5" y1="243.5" x2="121.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="236,236,243,248" x1="236.5" y1="243.5" x2="236.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="351,351,243,248" x1="351.5" y1="243.5" x2="351.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="466,466,243,248" x1="466.5" y1="243.5" x2="466.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="581,581,243,248" x1="581.5" y1="243.5" x2="581.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,650,243,243" x1="52.5" y1="243.5" x2="650.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="162,539,0,26" text-anchor="middle" x="351.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Home Infrastructure Berkshire</text>
+<text aria-label="23,50,231,249" text-anchor="end" x="50.5" y="248.5" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">0.0</text>
+<text aria-label="23,50,181,199" text-anchor="end" x="50.5" y="198.5" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">0.5</text>
+<text aria-label="23,50,131,149" text-anchor="end" x="50.5" y="148.5" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">1.0</text>
+<text aria-label="23,50,81,99" text-anchor="end" x="50.5" y="98.5" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">1.5</text>
+<text aria-label="23,50,31,49" text-anchor="end" x="50.5" y="48.5" font-family="monospace" font-size="17px" font-weight="bold" fill="#000" opacity="1">2.0</text>
+<text aria-label="2,14,128,158" text-anchor="middle" x="16.5" y="143.5" transform="rotate(-90.0, 14.5, 143.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">South</text>
+<line aria-label="52,52,43,243" x1="52.5" y1="243.5" x2="52.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="near: pirate; South: 2; Bicycle: port East Functionality" role="graphics-symbol" aria-roledescription="bar" d="M351.0,43.0h46v200h-46Z" fill="#ffcb2d"/>
+<path aria-label="near: pirate; South: 2; Bicycle: Architect Hyundai Car" role="graphics-symbol" aria-roledescription="bar" d="M305.0,43.0h46v200h-46Z" fill="#adbaae"/>
+<path aria-label="near: granola; South: 2; Bicycle: port East Functionality" role="graphics-symbol" aria-roledescription="bar" d="M236.0,43.0h46v200h-46Z" fill="#ffcb2d"/>
+<path aria-label="near: granola; South: 2; Bicycle: Architect Hyundai Car" role="graphics-symbol" aria-roledescription="bar" d="M190.0,43.0h46v200h-46Z" fill="#adbaae"/>
+<path aria-label="near: digger; South: 2; Bicycle: port East Functionality" role="graphics-symbol" aria-roledescription="bar" d="M121.0,43.0h46v200h-46Z" fill="#ffcb2d"/>
+<path aria-label="near: digger; South: 1; Bicycle: Architect Hyundai Car" role="graphics-symbol" aria-roledescription="bar" d="M75.0,143.0h46v100h-46Z" fill="#adbaae"/>
+<path aria-label="near: unit; South: 2; Bicycle: port East Functionality" role="graphics-symbol" aria-roledescription="bar" d="M581.0,43.0h46v200h-46Z" fill="#ffcb2d"/>
+<path aria-label="near: unit; South: 1; Bicycle: Architect Hyundai Car" role="graphics-symbol" aria-roledescription="bar" d="M535.0,143.0h46v100h-46Z" fill="#adbaae"/>
+<path aria-label="near: saving; South: 2; Bicycle: port East Functionality" role="graphics-symbol" aria-roledescription="bar" d="M466.0,43.0h46v200h-46Z" fill="#ffcb2d"/>
+<path aria-label="near: saving; South: 1; Bicycle: Architect Hyundai Car" role="graphics-symbol" aria-roledescription="bar" d="M420.0,143.0h46v100h-46Z" fill="#adbaae"/>
+</svg>

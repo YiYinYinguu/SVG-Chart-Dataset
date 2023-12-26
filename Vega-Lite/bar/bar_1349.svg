@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="527" height="295" viewBox="0 0 527 295" style="background-color: rgb(255, 255, 255);">
+<line x1="180.5" y1="34.5" x2="180.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="215.5" y1="34.5" x2="215.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="251.5" y1="34.5" x2="251.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="287.5" y1="34.5" x2="287.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="322.5" y1="34.5" x2="322.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="358.5" y1="34.5" x2="358.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="393.5" y1="34.5" x2="393.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="429.5" y1="34.5" x2="429.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="465.5" y1="34.5" x2="465.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="500.5" y1="34.5" x2="500.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="171,184,241,274" text-anchor="end" x="180.3529411764706" y="241.5" transform="rotate(270.0, 184.3529411764706, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">charm</text>
+<text aria-label="206,219,241,287" text-anchor="end" x="215.94117647058823" y="241.5" transform="rotate(270.0, 219.94117647058823, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">combine</text>
+<text aria-label="242,255,241,267" text-anchor="end" x="251.52941176470588" y="241.5" transform="rotate(270.0, 255.52941176470588, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">gran</text>
+<text aria-label="278,291,241,267" text-anchor="end" x="287.11764705882354" y="241.5" transform="rotate(270.0, 291.11764705882354, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">jazz</text>
+<text aria-label="313,326,241,287" text-anchor="end" x="322.70588235294116" y="241.5" transform="rotate(270.0, 326.70588235294116, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">profile</text>
+<text aria-label="349,362,241,274" text-anchor="end" x="358.29411764705884" y="241.5" transform="rotate(270.0, 362.29411764705884, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">quail</text>
+<text aria-label="384,397,241,274" text-anchor="end" x="393.88235294117646" y="241.5" transform="rotate(270.0, 397.88235294117646, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">rayon</text>
+<text aria-label="420,433,241,280" text-anchor="end" x="429.47058823529414" y="241.5" transform="rotate(270.0, 433.47058823529414, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">sailor</text>
+<text aria-label="456,469,241,287" text-anchor="end" x="465.05882352941177" y="241.5" transform="rotate(270.0, 469.05882352941177, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">society</text>
+<text aria-label="491,504,241,287" text-anchor="end" x="500.6470588235294" y="241.5" transform="rotate(270.0, 504.6470588235294, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">sorghum</text>
+<line aria-label="180,180,234,239" x1="180.5" y1="234.5" x2="180.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,215,234,239" x1="215.5" y1="234.5" x2="215.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="251,251,234,239" x1="251.5" y1="234.5" x2="251.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="287,287,234,239" x1="287.5" y1="234.5" x2="287.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="322,322,234,239" x1="322.5" y1="234.5" x2="322.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="358,358,234,239" x1="358.5" y1="234.5" x2="358.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="393,393,234,239" x1="393.5" y1="234.5" x2="393.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="429,429,234,239" x1="429.5" y1="234.5" x2="429.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="465,465,234,239" x1="465.5" y1="234.5" x2="465.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="500,500,234,239" x1="500.5" y1="234.5" x2="500.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="159,522,234,234" x1="159.5" y1="234.5" x2="522.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="191,490,0,26" text-anchor="middle" x="340.5" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Light perspiciatis Cove</text>
+<text aria-label="146,152,226,239" text-anchor="end" x="152.5" y="238.5" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="139,152,164,177" text-anchor="end" x="152.5" y="176.0" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="133,152,101,114" text-anchor="end" x="152.5" y="113.5" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="133,152,39,52" text-anchor="end" x="152.5" y="51.0" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="154,159,234,234" x1="159.5" y1="234.5" x2="154.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="154,159,172,172" x1="159.5" y1="172.5" x2="154.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="154,159,109,109" x1="159.5" y1="109.5" x2="154.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="154,159,47,47" x1="159.5" y1="47.5" x2="154.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="116,128,86,182" text-anchor="middle" x="130.5" y="134.5" transform="rotate(-90.0, 128.5, 134.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">nemo blah female</text>
+<line aria-label="159,159,34,234" x1="159.5" y1="234.5" x2="159.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Russian: rayon; nemo blah female: 109; outside fooey: Sausages AI Ball" role="graphics-symbol" aria-roledescription="bar" d="M379.6470588235294,97.75h28.470588235294116v136.25h-28.470588235294116Z" fill="#e8cf2a"/>
+<path aria-label="Russian: jazz; nemo blah female: 2; outside fooey: Sausages AI Ball" role="graphics-symbol" aria-roledescription="bar" d="M272.88235294117646,231.5h28.470588235294116v2.5h-28.470588235294116Z" fill="#e8cf2a"/>
+<path aria-label="Russian: charm; nemo blah female: 15; outside fooey: Sausages AI Ball" role="graphics-symbol" aria-roledescription="bar" d="M166.11764705882354,215.25h28.470588235294116v18.75h-28.470588235294116Z" fill="#e8cf2a"/>
+<path aria-label="Russian: society; nemo blah female: 132; outside fooey: Sausages AI Ball" role="graphics-symbol" aria-roledescription="bar" d="M450.8235294117647,69.0h28.470588235294116v165h-28.470588235294116Z" fill="#e8cf2a"/>
+<path aria-label="Russian: quail; nemo blah female: 141; outside fooey: Sausages AI Ball" role="graphics-symbol" aria-roledescription="bar" d="M344.05882352941177,57.75h28.470588235294116v176.25h-28.470588235294116Z" fill="#e8cf2a"/>
+<path aria-label="Russian: profile; nemo blah female: 8; outside fooey: Sausages AI Ball" role="graphics-symbol" aria-roledescription="bar" d="M308.47058823529414,224.0h28.470588235294116v10h-28.470588235294116Z" fill="#e8cf2a"/>
+<path aria-label="Russian: sorghum; nemo blah female: 74; outside fooey: Sausages AI Ball" role="graphics-symbol" aria-roledescription="bar" d="M486.4117647058823,141.5h28.470588235294116v92.5h-28.470588235294116Z" fill="#e8cf2a"/>
+<path aria-label="Russian: gran; nemo blah female: 31; outside fooey: Sausages AI Ball" role="graphics-symbol" aria-roledescription="bar" d="M237.29411764705884,195.25h28.470588235294116v38.75h-28.470588235294116Z" fill="#e8cf2a"/>
+<path aria-label="Russian: sailor; nemo blah female: 19; outside fooey: Sausages AI Ball" role="graphics-symbol" aria-roledescription="bar" d="M415.2352941176471,210.25h28.470588235294116v23.75h-28.470588235294116Z" fill="#e8cf2a"/>
+<path aria-label="Russian: combine; nemo blah female: 20; outside fooey: Sausages AI Ball" role="graphics-symbol" aria-roledescription="bar" d="M201.7058823529412,209.0h28.470588235294116v25h-28.470588235294116Z" fill="#e8cf2a"/>
+<text aria-label="387,400,86,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="393.88235294117646" y="94.30499999999999" font-family="serif" font-size="7.7785714285714285px" fill="#000" opacity="1">109</text>
+<text aria-label="284,289,220,229" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="287.11764705882354" y="228.055" font-family="serif" font-size="7.7785714285714285px" fill="#000" opacity="1">2</text>
+<text aria-label="175,184,204,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.3529411764706" y="211.805" font-family="serif" font-size="7.7785714285714285px" fill="#000" opacity="1">15</text>
+<text aria-label="458,471,57,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="465.05882352941177" y="65.555" font-family="serif" font-size="7.7785714285714285px" fill="#000" opacity="1">132</text>
+<text aria-label="351,364,46,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="358.29411764705884" y="54.30500000000001" font-family="serif" font-size="7.7785714285714285px" fill="#000" opacity="1">141</text>
+<text aria-label="320,324,212,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="322.70588235294116" y="220.555" font-family="serif" font-size="7.7785714285714285px" fill="#000" opacity="1">8</text>
+<text aria-label="496,505,130,139" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="500.6470588235294" y="138.055" font-family="serif" font-size="7.7785714285714285px" fill="#000" opacity="1">74</text>
+<text aria-label="247,255,184,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="251.52941176470588" y="191.805" font-family="serif" font-size="7.7785714285714285px" fill="#000" opacity="1">31</text>
+<text aria-label="425,433,199,207" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="429.47058823529414" y="206.805" font-family="serif" font-size="7.7785714285714285px" fill="#000" opacity="1">19</text>
+<text aria-label="211,220,197,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="215.94117647058823" y="205.555" font-family="serif" font-size="7.7785714285714285px" fill="#000" opacity="1">20</text>
+<path  d="M6.0,51.0h10v10h-10Z" fill="#e8cf2a" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,109,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Sausages AI Ball</text>
+<text aria-label="5,83,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">outside fooey</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="884" height="324" viewBox="0 0 884 324" style="background-color: rgb(255, 255, 255);">
+<line x1="118.5" y1="41.5" x2="118.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="256.5" y1="41.5" x2="256.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="394.5" y1="41.5" x2="394.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="533.5" y1="41.5" x2="533.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="671.5" y1="41.5" x2="671.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="809.5" y1="41.5" x2="809.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="107,123,248,312" text-anchor="end" x="118.16666666666663" y="248.5" transform="rotate(270.0, 123.16666666666663, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">basement</text>
+<text aria-label="245,261,248,304" text-anchor="end" x="256.5" y="248.5" transform="rotate(270.0, 261.5, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">edition</text>
+<text aria-label="383,399,248,280" text-anchor="end" x="394.8333333333333" y="248.5" transform="rotate(270.0, 399.8333333333333, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">rent</text>
+<text aria-label="522,538,248,304" text-anchor="end" x="533.1666666666666" y="248.5" transform="rotate(270.0, 538.1666666666666, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">sherbet</text>
+<text aria-label="660,676,248,312" text-anchor="end" x="671.5" y="248.5" transform="rotate(270.0, 676.5, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">shoehorn</text>
+<text aria-label="798,814,248,272" text-anchor="end" x="809.8333333333334" y="248.5" transform="rotate(270.0, 814.8333333333334, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">wit</text>
+<line aria-label="118,118,241,246" x1="118.5" y1="241.5" x2="118.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="256,256,241,246" x1="256.5" y1="241.5" x2="256.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="394,394,241,246" x1="394.5" y1="241.5" x2="394.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="533,533,241,246" x1="533.5" y1="241.5" x2="533.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="671,671,241,246" x1="671.5" y1="241.5" x2="671.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="809,809,241,246" x1="809.5" y1="241.5" x2="809.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,879,241,241" x1="49.5" y1="241.5" x2="879.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="418,509,0,26" text-anchor="middle" x="464.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Borders</text>
+<text aria-label="39,47,231,247" text-anchor="end" x="47.5" y="246.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="23,47,181,197" text-anchor="end" x="47.5" y="196.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="23,47,131,147" text-anchor="end" x="47.5" y="146.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="23,47,81,97" text-anchor="end" x="47.5" y="96.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="23,47,31,47" text-anchor="end" x="47.5" y="46.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="3,15,132,150" text-anchor="middle" x="17.11083984375" y="141.5" transform="rotate(-90.0, 15.11083984375, 141.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">bah</text>
+<line aria-label="49,49,41,241" x1="49.5" y1="241.5" x2="49.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Analyst Administrator: sherbet; bah: 357; Future: Future Developer male" role="graphics-symbol" aria-roledescription="bar" d="M495.8166666666666,62.50000000000001h74.70000000000002v178.5h-74.70000000000002Z" fill="#8cfdb6"/>
+<path aria-label="Analyst Administrator: shoehorn; bah: 364; Future: Future Developer male" role="graphics-symbol" aria-roledescription="bar" d="M634.15,58.99999999999999h74.70000000000002v182h-74.70000000000002Z" fill="#8cfdb6"/>
+<path aria-label="Analyst Administrator: rent; bah: 29; Future: Future Developer male" role="graphics-symbol" aria-roledescription="bar" d="M357.4833333333333,226.5h74.70000000000002v14.5h-74.70000000000002Z" fill="#8cfdb6"/>
+<path aria-label="Analyst Administrator: edition; bah: 14; Future: Future Developer male" role="graphics-symbol" aria-roledescription="bar" d="M219.14999999999998,234.0h74.70000000000002v7h-74.70000000000002Z" fill="#8cfdb6"/>
+<path aria-label="Analyst Administrator: wit; bah: 280; Future: Future Developer male" role="graphics-symbol" aria-roledescription="bar" d="M772.4833333333333,101.0h74.70000000000002v140h-74.70000000000002Z" fill="#8cfdb6"/>
+<path aria-label="Analyst Administrator: basement; bah: 15; Future: Future Developer male" role="graphics-symbol" aria-roledescription="bar" d="M80.81666666666663,233.5h74.70000000000002v7.5h-74.70000000000002Z" fill="#8cfdb6"/>
+</svg>

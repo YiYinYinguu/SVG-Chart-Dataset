@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="239" viewBox="0 0 314 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Netherlands</text>
+<path aria-label="FTM Hybrid: 73; female West: what" role="graphics-symbol" aria-roledescription="arc mark"  d="M209.0,59.0A75,75,0,0,0,155.82405062621373,81.11031850921657L173.5493670841425,98.74021233947771A50,50,0,0,1,209.0,84.0Z" fill="#f43dd3" stroke="black" stroke-width="0"/>
+<path aria-label="FTM Hybrid: 111; female West: Martina" role="graphics-symbol" aria-roledescription="arc mark"  d="M186.67240554145994,205.59943104309536A75,75,0,0,0,267.5651725158782,180.85211380701435L248.0434483439188,165.23474253800956A50,50,0,0,1,194.11493702763997,181.73295402873026Z" fill="#efd8d3" stroke="black" stroke-width="0"/>
+<path aria-label="FTM Hybrid: 6; female West: quantifying" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.82405062621373,81.11031850921657A75,75,0,0,0,152.51203035524503,84.66330690638819L171.34135357016336,101.10887127092546A50,50,0,0,1,173.5493670841425,98.74021233947771Z" fill="#acb948" stroke="black" stroke-width="0"/>
+<path aria-label="FTM Hybrid: 13; female West: optical" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.51203035524503,84.66330690638819A75,75,0,0,0,146.1659380708361,93.05026664943965L167.1106253805574,106.70017776629311A50,50,0,0,1,171.34135357016336,101.10887127092546Z" fill="#c3dfe9" stroke="black" stroke-width="0"/>
+<path aria-label="FTM Hybrid: 51; female West: Silicon" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.51203035524506,183.3366930936118A75,75,0,0,0,186.67240554145994,205.59943104309536L194.11493702763997,181.73295402873026A50,50,0,0,1,171.34135357016336,166.89112872907455Z" fill="#e3c31a" stroke="black" stroke-width="0"/>
+<path aria-label="FTM Hybrid: 81; female West: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M266.539983175324,85.8943835276645A75,75,0,0,0,209.0,59.0L209.0,84.0A50,50,0,0,1,247.3599887835493,101.92958901844301Z" fill="#b42beb" stroke="black" stroke-width="0"/>
+<path aria-label="FTM Hybrid: 127; female West: Kutch" role="graphics-symbol" aria-roledescription="arc mark"  d="M267.5651725158782,180.85211380701435A75,75,0,0,0,266.539983175324,85.8943835276645L247.3599887835493,101.92958901844301A50,50,0,0,1,248.0434483439188,165.23474253800956Z" fill="#fc2f12" stroke="black" stroke-width="0"/>
+<path aria-label="FTM Hybrid: 25; female West: Small" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.4022613709376,166.48916330466147A75,75,0,0,0,152.51203035524506,183.3366930936118L171.34135357016336,166.89112872907455A50,50,0,0,1,163.9348409139584,155.65944220310766Z" fill="#7bfd3c" stroke="black" stroke-width="0"/>
+<path aria-label="FTM Hybrid: 95; female West: Triathlon/Time" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.1659380708361,93.05026664943965A75,75,0,0,0,141.4022613709376,166.48916330466147L163.9348409139584,155.65944220310766A50,50,0,0,1,167.1106253805574,106.70017776629311Z" fill="#a4e2f3" stroke="black" stroke-width="0"/>
+<text aria-label="168,179,43,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.4463142414923" y="53.89739594632246" font-family="avenir" font-size="10px" fill="#f43dd3" opacity="1">73</text>
+<text aria-label="227,243,213,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="235.32893918455827" y="223.0626920414173" font-family="avenir" font-size="10px" fill="#efd8d3" opacity="1">111</text>
+<text aria-label="140,145,65,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.16712379076836" y="75.63199196633491" font-family="avenir" font-size="10px" fill="#acb948" opacity="1">6</text>
+<text aria-label="131,142,72,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.23014704935514" y="82.69449192353679" font-family="avenir" font-size="10px" fill="#c3dfe9" opacity="1">13</text>
+<text aria-label="154,165,202,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="159.86031997932758" y="212.40087431499668" font-family="avenir" font-size="10px" fill="#e3c31a" opacity="1">51</text>
+<text aria-label="241,252,45,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="247.10901088317414" y="55.466551100139796" font-family="avenir" font-size="10px" fill="#b42beb" opacity="1">81</text>
+<text aria-label="290,307,126,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="298.99475528295113" y="136.0283922799076" font-family="avenir" font-size="10px" fill="#fc2f12" opacity="1">127</text>
+<text aria-label="128,139,176,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.8654752273656" y="186.54597044352235" font-family="avenir" font-size="10px" fill="#7bfd3c" opacity="1">25</text>
+<text aria-label="113,124,121,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.18874563860595" y="131.1743163463008" font-family="avenir" font-size="10px" fill="#a4e2f3" opacity="1">95</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#b42beb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fc2f12" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#efd8d3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#e3c31a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#7bfd3c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#a4e2f3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#c3dfe9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#acb948" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#f43dd3" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Kutch</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Martina</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Silicon</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Small</text>
+<text aria-label="21,98,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Triathlon/Time</text>
+<text aria-label="21,59,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">optical</text>
+<text aria-label="21,81,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">quantifying</text>
+<text aria-label="21,43,161,172" text-anchor="start" x="21.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">what</text>
+</svg>

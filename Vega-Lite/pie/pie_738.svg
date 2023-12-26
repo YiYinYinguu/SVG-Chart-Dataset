@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Facilitator</text>
+<path aria-label="Handmade Clothing Zloty: 245; Kannapolis Southeast: Trans" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.6579070277741,203.13920415007922A75,75,0,0,0,105.0,106.0L105.0,149.0A32,32,0,0,1,135.57404033185028,190.44606043736712Z" fill="#c317bd" stroke="black" stroke-width="1"/>
+<path aria-label="Handmade Clothing Zloty: 408; Kannapolis Southeast: XSS" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.77616822851127,160.7832217145339A75,75,0,0,0,176.6579070277741,203.13920415007922L135.57404033185028,190.44606043736712A32,32,0,0,1,74.1844984441648,172.37417459820114Z" fill="#57f4c2" stroke="black" stroke-width="1"/>
+<path aria-label="Handmade Clothing Zloty: 170; Kannapolis Southeast: officia" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,32.77616822851127,160.7832217145339L74.1844984441648,172.37417459820114A32,32,0,0,1,105.0,149.0Z" fill="#a17d9b" stroke="black" stroke-width="1"/>
+<text aria-label="171,183,122,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="177.42594165148478" y="129.57263832177634" font-family="serif" font-size="7px" fill="#c317bd" opacity="1">245</text>
+<text aria-label="73,85,262,270" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="79.58414221784997" y="269.33674868326653" font-family="serif" font-size="7px" fill="#57f4c2" opacity="1">408</text>
+<text aria-label="44,56,104,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="50.609798928622865" y="111.29430965805318" font-family="serif" font-size="7px" fill="#a17d9b" opacity="1">170</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#c317bd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,56.25A5,5,0,1,1,58.0,56.25A5,5,0,1,1,68.0,56.25" fill="#57f4c2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M110.0,56.25A5,5,0,1,1,100.0,56.25A5,5,0,1,1,110.0,56.25" fill="#a17d9b" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Trans</text>
+<text aria-label="73,89,49,60" text-anchor="start" x="73.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">XSS</text>
+<text aria-label="115,153,49,60" text-anchor="start" x="115.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">officia</text>
+<text aria-label="5,125,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Kannapolis Southeast</text>
+</svg>

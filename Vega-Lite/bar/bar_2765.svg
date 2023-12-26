@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="917" height="376" viewBox="0 0 917 376" style="background-color: rgb(255, 255, 255);">
+<line x1="67.5" y1="247.5" x2="912.5" y2="247.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="185.5" x2="912.5" y2="185.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="122.5" x2="912.5" y2="122.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="60.5" x2="912.5" y2="60.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="108,124,254,302" text-anchor="end" x="119.8125" y="254.5" transform="rotate(270.0, 124.8125, 254.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">baboon</text>
+<text aria-label="214,230,254,318" text-anchor="end" x="225.4375" y="254.5" transform="rotate(270.0, 230.4375, 254.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">corporal</text>
+<text aria-label="320,336,254,302" text-anchor="end" x="331.0625" y="254.5" transform="rotate(270.0, 336.0625, 254.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">couple</text>
+<text aria-label="425,441,254,278" text-anchor="end" x="436.6875" y="254.5" transform="rotate(270.0, 441.6875, 254.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">ink</text>
+<text aria-label="531,547,254,302" text-anchor="end" x="542.3125" y="254.5" transform="rotate(270.0, 547.3125, 254.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">snorer</text>
+<text aria-label="636,652,254,302" text-anchor="end" x="647.9375" y="254.5" transform="rotate(270.0, 652.9375, 254.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">sonnet</text>
+<text aria-label="742,758,254,326" text-anchor="end" x="753.5625" y="254.5" transform="rotate(270.0, 758.5625, 254.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">timetable</text>
+<text aria-label="848,864,254,318" text-anchor="end" x="859.1875" y="254.5" transform="rotate(270.0, 864.1875, 254.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">waitress</text>
+<line aria-label="119,119,247,252" x1="119.5" y1="247.5" x2="119.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="225,225,247,252" x1="225.5" y1="247.5" x2="225.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="331,331,247,252" x1="331.5" y1="247.5" x2="331.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="436,436,247,252" x1="436.5" y1="247.5" x2="436.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="542,542,247,252" x1="542.5" y1="247.5" x2="542.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="647,647,247,252" x1="647.5" y1="247.5" x2="647.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="753,753,247,252" x1="753.5" y1="247.5" x2="753.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="859,859,247,252" x1="859.5" y1="247.5" x2="859.5" y2="252.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="67,912,247,247" x1="67.5" y1="247.5" x2="912.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="418,561,0,26" text-anchor="middle" x="489.5" y="25.62749999999999" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">directional</text>
+<text aria-label="52,60,237,253" text-anchor="end" x="60.5" y="252.5" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="36,60,175,191" text-anchor="end" x="60.5" y="190.0" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="20,60,112,128" text-anchor="end" x="60.5" y="127.5" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="20,60,50,66" text-anchor="end" x="60.5" y="65.0" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<line aria-label="62,67,247,247" x1="67.5" y1="247.5" x2="62.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="62,67,185,185" x1="67.5" y1="185.5" x2="62.5" y2="185.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="62,67,122,122" x1="67.5" y1="122.5" x2="62.5" y2="122.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="62,67,60,60" x1="67.5" y1="60.5" x2="62.5" y2="60.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,138,156" text-anchor="middle" x="16.5" y="147.5" transform="rotate(-90.0, 14.5, 147.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">BMW</text>
+<line aria-label="67,67,47,247" x1="67.5" y1="247.5" x2="67.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Directives maximize optical: timetable; BMW: 236; BMX redundant Road: overriding payment Global" role="graphics-symbol" aria-roledescription="bar" d="M720.290625,217.5h66.54375v29.5h-66.54375Z" fill="#780e11"/>
+<path aria-label="Directives maximize optical: timetable; BMW: 93; BMX redundant Road: female deposit Aloha" role="graphics-symbol" aria-roledescription="bar" d="M720.290625,205.875h66.54375v11.625h-66.54375Z" fill="#abc0d7"/>
+<path aria-label="Directives maximize optical: timetable; BMW: 509; BMX redundant Road: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M720.290625,142.25h66.54375v63.625000000000014h-66.54375Z" fill="#ddd7c5"/>
+<path aria-label="Directives maximize optical: couple; BMW: 450; BMX redundant Road: overriding payment Global" role="graphics-symbol" aria-roledescription="bar" d="M297.790625,190.75h66.54375v56.25h-66.54375Z" fill="#780e11"/>
+<path aria-label="Directives maximize optical: couple; BMW: 722; BMX redundant Road: female deposit Aloha" role="graphics-symbol" aria-roledescription="bar" d="M297.790625,100.5h66.54375v90.25h-66.54375Z" fill="#abc0d7"/>
+<path aria-label="Directives maximize optical: couple; BMW: 251; BMX redundant Road: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M297.790625,69.125h66.54375v31.375h-66.54375Z" fill="#ddd7c5"/>
+<path aria-label="Directives maximize optical: snorer; BMW: 106; BMX redundant Road: overriding payment Global" role="graphics-symbol" aria-roledescription="bar" d="M509.040625,233.75h66.54375v13.25h-66.54375Z" fill="#780e11"/>
+<path aria-label="Directives maximize optical: snorer; BMW: 537; BMX redundant Road: female deposit Aloha" role="graphics-symbol" aria-roledescription="bar" d="M509.040625,166.625h66.54375v67.125h-66.54375Z" fill="#abc0d7"/>
+<path aria-label="Directives maximize optical: snorer; BMW: 651; BMX redundant Road: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M509.040625,85.25h66.54375v81.375h-66.54375Z" fill="#ddd7c5"/>
+<path aria-label="Directives maximize optical: waitress; BMW: 92; BMX redundant Road: overriding payment Global" role="graphics-symbol" aria-roledescription="bar" d="M825.915625,235.5h66.54375v11.5h-66.54375Z" fill="#780e11"/>
+<path aria-label="Directives maximize optical: waitress; BMW: 95; BMX redundant Road: female deposit Aloha" role="graphics-symbol" aria-roledescription="bar" d="M825.915625,223.625h66.54375v11.875h-66.54375Z" fill="#abc0d7"/>
+<path aria-label="Directives maximize optical: waitress; BMW: 63; BMX redundant Road: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M825.915625,215.75h66.54375v7.875h-66.54375Z" fill="#ddd7c5"/>
+<path aria-label="Directives maximize optical: baboon; BMW: 119; BMX redundant Road: overriding payment Global" role="graphics-symbol" aria-roledescription="bar" d="M86.540625,232.125h66.54375v14.875h-66.54375Z" fill="#780e11"/>
+<path aria-label="Directives maximize optical: baboon; BMW: 463; BMX redundant Road: female deposit Aloha" role="graphics-symbol" aria-roledescription="bar" d="M86.540625,174.25h66.54375v57.875h-66.54375Z" fill="#abc0d7"/>
+<path aria-label="Directives maximize optical: baboon; BMW: 549; BMX redundant Road: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M86.540625,105.625h66.54375v68.625h-66.54375Z" fill="#ddd7c5"/>
+<path aria-label="Directives maximize optical: corporal; BMW: 519; BMX redundant Road: overriding payment Global" role="graphics-symbol" aria-roledescription="bar" d="M192.16562499999998,182.12499999999997h66.54375v64.87500000000003h-66.54375Z" fill="#780e11"/>
+<path aria-label="Directives maximize optical: corporal; BMW: 305; BMX redundant Road: female deposit Aloha" role="graphics-symbol" aria-roledescription="bar" d="M192.16562499999998,144.0h66.54375v38.12499999999997h-66.54375Z" fill="#abc0d7"/>
+<path aria-label="Directives maximize optical: corporal; BMW: 756; BMX redundant Road: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M192.16562499999998,49.49999999999999h66.54375v94.50000000000001h-66.54375Z" fill="#ddd7c5"/>
+<path aria-label="Directives maximize optical: sonnet; BMW: 732; BMX redundant Road: overriding payment Global" role="graphics-symbol" aria-roledescription="bar" d="M614.665625,155.5h66.54375v91.5h-66.54375Z" fill="#780e11"/>
+<path aria-label="Directives maximize optical: sonnet; BMW: 13; BMX redundant Road: female deposit Aloha" role="graphics-symbol" aria-roledescription="bar" d="M614.665625,153.875h66.54375v1.6249999999999858h-66.54375Z" fill="#abc0d7"/>
+<path aria-label="Directives maximize optical: sonnet; BMW: 605; BMX redundant Road: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M614.665625,78.25h66.54375v75.62500000000001h-66.54375Z" fill="#ddd7c5"/>
+<path aria-label="Directives maximize optical: ink; BMW: 789; BMX redundant Road: overriding payment Global" role="graphics-symbol" aria-roledescription="bar" d="M403.415625,148.375h66.54375v98.625h-66.54375Z" fill="#780e11"/>
+<path aria-label="Directives maximize optical: ink; BMW: 564; BMX redundant Road: female deposit Aloha" role="graphics-symbol" aria-roledescription="bar" d="M403.415625,77.875h66.54375v70.5h-66.54375Z" fill="#abc0d7"/>
+<path aria-label="Directives maximize optical: ink; BMW: 175; BMX redundant Road: Southeast" role="graphics-symbol" aria-roledescription="bar" d="M403.415625,56.00000000000001h66.54375v21.875h-66.54375Z" fill="#ddd7c5"/>
+<text aria-label="743,763,199,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="753.5625" y="212.6275" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">236</text>
+<text aria-label="746,760,188,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="753.5625" y="201.0025" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">93</text>
+<text aria-label="743,763,124,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="753.5625" y="137.3775" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">509</text>
+<text aria-label="320,341,173,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="331.0625" y="185.8775" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">450</text>
+<text aria-label="320,341,82,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="331.0625" y="95.6275" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">722</text>
+<text aria-label="320,341,51,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="331.0625" y="64.2525" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">251</text>
+<text aria-label="532,552,216,229" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="542.3125" y="228.8775" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">106</text>
+<text aria-label="532,552,149,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="542.3125" y="161.7525" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">537</text>
+<text aria-label="532,552,67,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="542.3125" y="80.37750000000001" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">651</text>
+<text aria-label="852,866,217,231" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="859.1875" y="230.6275" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">92</text>
+<text aria-label="852,866,206,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="859.1875" y="218.7525" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">95</text>
+<text aria-label="852,866,198,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="859.1875" y="210.8775" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">63</text>
+<text aria-label="109,130,214,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.8125" y="227.2525" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">119</text>
+<text aria-label="109,130,156,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.8125" y="169.3775" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">463</text>
+<text aria-label="109,130,88,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.8125" y="100.7525" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">549</text>
+<text aria-label="215,235,164,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="225.4375" y="177.25249999999997" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">519</text>
+<text aria-label="215,235,126,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="225.4375" y="139.1275" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">305</text>
+<text aria-label="215,235,31,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="225.4375" y="44.62749999999999" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">756</text>
+<text aria-label="637,658,137,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="647.9375" y="150.6275" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">732</text>
+<text aria-label="641,654,136,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="647.9375" y="149.0025" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">13</text>
+<text aria-label="637,658,60,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="647.9375" y="73.3775" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">605</text>
+<text aria-label="426,446,130,144" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="436.6875" y="143.5025" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">789</text>
+<text aria-label="426,446,60,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="436.6875" y="73.00250000000001" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">564</text>
+<text aria-label="426,446,38,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="436.6875" y="51.12750000000001" font-family="serif" font-size="12.674999999999999px" fill="#000" opacity="1">175</text>
+<path  d="M68.0,361.0h10v10h-10Z" fill="#780e11" stroke-width="1.5" opacity="1"/>
+<path  d="M219.0,361.0h10v10h-10Z" fill="#abc0d7" stroke-width="1.5" opacity="1"/>
+<path  d="M345.0,361.0h10v10h-10Z" fill="#ddd7c5" stroke-width="1.5" opacity="1"/>
+<text aria-label="83,220,359,370" text-anchor="start" x="83.0" y="369.0" font-family="serif" font-size="10px" fill="#000" opacity="1">overriding payment Global</text>
+<text aria-label="234,344,359,370" text-anchor="start" x="234.0" y="369.0" font-family="serif" font-size="10px" fill="#000" opacity="1">female deposit Aloha</text>
+<text aria-label="360,409,359,370" text-anchor="start" x="360.0" y="369.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="67,175,342,354" text-anchor="start" x="67.0" y="353.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">BMX redundant Road</text>
+</svg>

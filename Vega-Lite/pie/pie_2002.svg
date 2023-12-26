@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="351" height="270" viewBox="0 0 351 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bronze to Oxnard</text>
+<path aria-label="implementation: 97; Global green: Electronic" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.49313411611234,70.24035478700682A75,75,0,0,0,105.0,59.0L105.0,101.0A33,33,0,0,1,122.37697901108943,105.945756106283Z" fill="#feade2" stroke="white" stroke-width="3"/>
+<path aria-label="implementation: 195; Global green: relationships" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,37.661614075214345,100.97664794354412L75.37111019309431,119.46972509515942A33,33,0,0,1,105.0,101.0Z" fill="#238f51" stroke="white" stroke-width="3"/>
+<path aria-label="implementation: 528; Global green: near" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.661614075214345,100.97664794354412A75,75,0,0,0,167.78131344204127,175.03055791105172L132.62377791449816,152.05344548086276A33,33,0,0,1,75.37111019309431,119.46972509515942Z" fill="#ba1bd5" stroke="white" stroke-width="3"/>
+<path aria-label="implementation: 262; Global green: connecting" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.46659276842195,168.74466931425252A75,75,0,0,0,144.49313411611234,70.24035478700682L122.37697901108943,105.945756106283A33,33,0,0,1,134.24530081810565,149.2876544982711Z" fill="#e6653c" stroke="white" stroke-width="3"/>
+<path aria-label="implementation: 17; Global green: extend" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.78131344204127,175.03055791105172A75,75,0,0,0,171.46659276842195,168.74466931425252L134.24530081810565,149.2876544982711A33,33,0,0,1,132.62377791449816,152.05344548086276Z" fill="#a4cb1d" stroke="white" stroke-width="3"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#feade2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M90.0,258.25A5,5,0,1,1,80.0,258.25A5,5,0,1,1,90.0,258.25" fill="#e6653c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M171.0,258.25A5,5,0,1,1,161.0,258.25A5,5,0,1,1,171.0,258.25" fill="#a4cb1d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M231.0,258.25A5,5,0,1,1,221.0,258.25A5,5,0,1,1,231.0,258.25" fill="#ba1bd5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M280.0,258.25A5,5,0,1,1,270.0,258.25A5,5,0,1,1,280.0,258.25" fill="#238f51" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Electronic</text>
+<text aria-label="95,150,251,262" text-anchor="start" x="95.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">connecting</text>
+<text aria-label="176,209,251,262" text-anchor="start" x="176.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">extend</text>
+<text aria-label="236,258,251,262" text-anchor="start" x="236.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">near</text>
+<text aria-label="285,356,251,262" text-anchor="start" x="285.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">relationships</text>
+</svg>

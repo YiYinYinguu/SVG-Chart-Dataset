@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="620" height="344" viewBox="0 0 620 344" style="background-color: rgb(255, 255, 255);">
+<line x1="146.5" y1="243.5" x2="615.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="146.5" y1="214.5" x2="615.5" y2="214.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="146.5" y1="186.5" x2="615.5" y2="186.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="146.5" y1="157.5" x2="615.5" y2="157.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="146.5" y1="129.5" x2="615.5" y2="129.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="146.5" y1="100.5" x2="615.5" y2="100.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="146.5" y1="72.5" x2="615.5" y2="72.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="146.5" y1="43.5" x2="615.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="161,181,250,300" text-anchor="end" x="175.31249999999997" y="250.5" transform="rotate(270.0, 181.31249999999997, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">brake</text>
+<text aria-label="219,239,250,280" text-anchor="end" x="233.93749999999997" y="250.5" transform="rotate(270.0, 239.93749999999997, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">bug</text>
+<text aria-label="278,298,250,340" text-anchor="end" x="292.5625" y="250.5" transform="rotate(270.0, 298.5625, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">evocation</text>
+<text aria-label="337,357,250,300" text-anchor="end" x="351.1875" y="250.5" transform="rotate(270.0, 357.1875, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">opera</text>
+<text aria-label="395,415,250,310" text-anchor="end" x="409.8125" y="250.5" transform="rotate(270.0, 415.8125, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">piracy</text>
+<text aria-label="454,474,250,310" text-anchor="end" x="468.4375" y="250.5" transform="rotate(270.0, 474.4375, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">puppet</text>
+<text aria-label="513,533,250,310" text-anchor="end" x="527.0625" y="250.5" transform="rotate(270.0, 533.0625, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">sanity</text>
+<text aria-label="571,591,250,300" text-anchor="end" x="585.6875" y="250.5" transform="rotate(270.0, 591.6875, 250.5)" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">satin</text>
+<line aria-label="175,175,243,248" x1="175.5" y1="243.5" x2="175.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="233,233,243,248" x1="233.5" y1="243.5" x2="233.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="292,292,243,248" x1="292.5" y1="243.5" x2="292.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="351,351,243,248" x1="351.5" y1="243.5" x2="351.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="409,409,243,248" x1="409.5" y1="243.5" x2="409.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="468,468,243,248" x1="468.5" y1="243.5" x2="468.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="527,527,243,248" x1="527.5" y1="243.5" x2="527.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="585,585,243,248" x1="585.5" y1="243.5" x2="585.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="146,615,243,243" x1="146.5" y1="243.5" x2="615.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="211,549,0,26" text-anchor="middle" x="380.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Reduced consectetur Legacy</text>
+<text aria-label="134,144,230,250" text-anchor="end" x="144.5" y="249.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="114,144,201,221" text-anchor="end" x="144.5" y="220.92857142857144" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="114,144,173,193" text-anchor="end" x="144.5" y="192.35714285714286" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="114,144,144,164" text-anchor="end" x="144.5" y="163.78571428571428" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="114,144,116,136" text-anchor="end" x="144.5" y="135.21428571428572" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="114,144,87,107" text-anchor="end" x="144.5" y="106.64285714285714" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="114,144,59,79" text-anchor="end" x="144.5" y="78.07142857142858" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="114,144,30,50" text-anchor="end" x="144.5" y="49.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">700</text>
+<line aria-label="146,146,43,243" x1="146.5" y1="243.5" x2="146.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="for Classical Group: brake; Berkshire joshingly Table: 103; East: infrastructures" role="graphics-symbol" aria-roledescription="bar" d="M162.121875,213.57142857142858h26.38125v29.428571428571416h-26.38125Z" fill="#5d3ef3"/>
+<path aria-label="for Classical Group: brake; Berkshire joshingly Table: 259; East: bulk moderator" role="graphics-symbol" aria-roledescription="bar" d="M162.121875,139.57142857142856h26.38125v74.00000000000001h-26.38125Z" fill="#a94478"/>
+<path aria-label="for Classical Group: brake; Berkshire joshingly Table: 114; East: Thorium hack" role="graphics-symbol" aria-roledescription="bar" d="M162.121875,107.0h26.38125v32.57142857142858h-26.38125Z" fill="#a4af36"/>
+<path aria-label="for Classical Group: evocation; Berkshire joshingly Table: 243; East: infrastructures" role="graphics-symbol" aria-roledescription="bar" d="M279.371875,173.57142857142856h26.38125v69.42857142857144h-26.38125Z" fill="#5d3ef3"/>
+<path aria-label="for Classical Group: evocation; Berkshire joshingly Table: 73; East: bulk moderator" role="graphics-symbol" aria-roledescription="bar" d="M279.371875,152.71428571428572h26.38125v20.857142857142833h-26.38125Z" fill="#a94478"/>
+<path aria-label="for Classical Group: evocation; Berkshire joshingly Table: 217; East: Thorium hack" role="graphics-symbol" aria-roledescription="bar" d="M279.371875,90.71428571428571h26.38125v62.000000000000014h-26.38125Z" fill="#a4af36"/>
+<path aria-label="for Classical Group: piracy; Berkshire joshingly Table: 32; East: infrastructures" role="graphics-symbol" aria-roledescription="bar" d="M396.621875,233.85714285714286h26.38125v9.142857142857139h-26.38125Z" fill="#5d3ef3"/>
+<path aria-label="for Classical Group: piracy; Berkshire joshingly Table: 5; East: bulk moderator" role="graphics-symbol" aria-roledescription="bar" d="M396.621875,232.42857142857144h26.38125v1.4285714285714164h-26.38125Z" fill="#a94478"/>
+<path aria-label="for Classical Group: piracy; Berkshire joshingly Table: 163; East: Thorium hack" role="graphics-symbol" aria-roledescription="bar" d="M396.621875,185.85714285714286h26.38125v46.571428571428584h-26.38125Z" fill="#a4af36"/>
+<path aria-label="for Classical Group: opera; Berkshire joshingly Table: 236; East: infrastructures" role="graphics-symbol" aria-roledescription="bar" d="M337.996875,175.57142857142856h26.38125v67.42857142857144h-26.38125Z" fill="#5d3ef3"/>
+<path aria-label="for Classical Group: opera; Berkshire joshingly Table: 253; East: bulk moderator" role="graphics-symbol" aria-roledescription="bar" d="M337.996875,103.28571428571428h26.38125v72.28571428571428h-26.38125Z" fill="#a94478"/>
+<path aria-label="for Classical Group: opera; Berkshire joshingly Table: 105; East: Thorium hack" role="graphics-symbol" aria-roledescription="bar" d="M337.996875,73.28571428571429h26.38125v29.999999999999986h-26.38125Z" fill="#a4af36"/>
+<path aria-label="for Classical Group: bug; Berkshire joshingly Table: 231; East: infrastructures" role="graphics-symbol" aria-roledescription="bar" d="M220.746875,177.0h26.38125v66h-26.38125Z" fill="#5d3ef3"/>
+<path aria-label="for Classical Group: bug; Berkshire joshingly Table: 128; East: bulk moderator" role="graphics-symbol" aria-roledescription="bar" d="M220.746875,140.42857142857142h26.38125v36.571428571428584h-26.38125Z" fill="#a94478"/>
+<path aria-label="for Classical Group: bug; Berkshire joshingly Table: 164; East: Thorium hack" role="graphics-symbol" aria-roledescription="bar" d="M220.746875,93.57142857142858h26.38125v46.85714285714284h-26.38125Z" fill="#a4af36"/>
+<path aria-label="for Classical Group: satin; Berkshire joshingly Table: 48; East: infrastructures" role="graphics-symbol" aria-roledescription="bar" d="M572.496875,229.28571428571428h26.38125v13.714285714285722h-26.38125Z" fill="#5d3ef3"/>
+<path aria-label="for Classical Group: satin; Berkshire joshingly Table: 115; East: bulk moderator" role="graphics-symbol" aria-roledescription="bar" d="M572.496875,196.42857142857142h26.38125v32.85714285714286h-26.38125Z" fill="#a94478"/>
+<path aria-label="for Classical Group: satin; Berkshire joshingly Table: 60; East: Thorium hack" role="graphics-symbol" aria-roledescription="bar" d="M572.496875,179.2857142857143h26.38125v17.14285714285711h-26.38125Z" fill="#a4af36"/>
+<path aria-label="for Classical Group: sanity; Berkshire joshingly Table: 267; East: infrastructures" role="graphics-symbol" aria-roledescription="bar" d="M513.871875,166.71428571428572h26.38125v76.28571428571429h-26.38125Z" fill="#5d3ef3"/>
+<path aria-label="for Classical Group: sanity; Berkshire joshingly Table: 274; East: bulk moderator" role="graphics-symbol" aria-roledescription="bar" d="M513.871875,88.42857142857142h26.38125v78.28571428571429h-26.38125Z" fill="#a94478"/>
+<path aria-label="for Classical Group: sanity; Berkshire joshingly Table: 159; East: Thorium hack" role="graphics-symbol" aria-roledescription="bar" d="M513.871875,43.0h26.38125v45.428571428571416h-26.38125Z" fill="#a4af36"/>
+<path aria-label="for Classical Group: puppet; Berkshire joshingly Table: 233; East: infrastructures" role="graphics-symbol" aria-roledescription="bar" d="M455.246875,176.42857142857142h26.38125v66.57142857142858h-26.38125Z" fill="#5d3ef3"/>
+<path aria-label="for Classical Group: puppet; Berkshire joshingly Table: 262; East: bulk moderator" role="graphics-symbol" aria-roledescription="bar" d="M455.246875,101.57142857142856h26.38125v74.85714285714286h-26.38125Z" fill="#a94478"/>
+<path aria-label="for Classical Group: puppet; Berkshire joshingly Table: 72; East: Thorium hack" role="graphics-symbol" aria-roledescription="bar" d="M455.246875,80.99999999999999h26.38125v20.571428571428577h-26.38125Z" fill="#a4af36"/>
+<path  d="M6.0,44.0h10v10h-10Z" fill="#5d3ef3" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,57.0h10v10h-10Z" fill="#a94478" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,70.0h10v10h-10Z" fill="#a4af36" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,103,42,53" text-anchor="start" x="21.0" y="52.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">infrastructures</text>
+<text aria-label="21,98,55,66" text-anchor="start" x="21.0" y="65.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">bulk moderator</text>
+<text aria-label="21,87,68,79" text-anchor="start" x="21.0" y="78.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Thorium hack</text>
+</svg>

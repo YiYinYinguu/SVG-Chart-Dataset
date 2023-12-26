@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="199,290,0,26" text-anchor="end" x="290.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Minivan</text>
+<path aria-label="Account input: 199; Licensed: Ford" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.94640080419575,69.307877867492A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#2b2fc4" stroke="white" stroke-width="3"/>
+<path aria-label="Account input: 369; Licensed: Pizza" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.17647814947023,193.8672349621263A75,75,0,0,0,179.86811222419908,129.55412865854896L105.0,134.0Z" fill="#e2fbfb" stroke="white" stroke-width="3"/>
+<path aria-label="Account input: 368; Licensed: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.50473446588171,175.4649464707245A75,75,0,0,0,104.70010332482317,208.9994004108314L105.0,134.0Z" fill="#aa24ff" stroke="white" stroke-width="3"/>
+<path aria-label="Account input: 130; Licensed: ampere" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.70010332482317,208.9994004108314A75,75,0,0,0,130.19172111510431,204.64260178715676L105.0,134.0Z" fill="#d466c3" stroke="white" stroke-width="3"/>
+<path aria-label="Account input: 368; Licensed: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.86811222419908,129.55412865854896A75,75,0,0,0,142.94640080419575,69.307877867492L105.0,134.0Z" fill="#d0d415" stroke="white" stroke-width="3"/>
+<path aria-label="Account input: 15; Licensed: pfft" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.569305148790022,124.77656983730753A75,75,0,0,0,30.26008823780076,127.7593598262141L105.0,134.0Z" fill="#f71f69" stroke="white" stroke-width="3"/>
+<path aria-label="Account input: 251; Licensed: lumen" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.26008823780076,127.7593598262141A75,75,0,0,0,42.50473446588171,175.4649464707245L105.0,134.0Z" fill="#650a0b" stroke="white" stroke-width="3"/>
+<path aria-label="Account input: 543; Licensed: toward" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.569305148790022,124.77656983730753L105.0,134.0Z" fill="#4f8dbe" stroke="white" stroke-width="3"/>
+<path aria-label="Account input: 114; Licensed: Rubber" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.19172111510431,204.64260178715676A75,75,0,0,0,150.17647814947023,193.8672349621263L105.0,134.0Z" fill="#dcc4ad" stroke="white" stroke-width="3"/>
+<text aria-label="118,138,39,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.59291005460258" y="51.14739730350372" font-family="Balto" font-size="12px" fill="#2b2fc4" opacity="1">199</text>
+<text aria-label="176,196,163,176" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.71215671699667" y="175.72430840528392" font-family="Balto" font-size="12px" fill="#e2fbfb" opacity="1">369</text>
+<text aria-label="52,72,205,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="62.28694439327692" y="217.21865235370382" font-family="Balto" font-size="12px" fill="#aa24ff" opacity="1">368</text>
+<text aria-label="110,129,214,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.16213911525523" y="226.71363783235162" font-family="Balto" font-size="12px" fill="#d466c3" opacity="1">130</text>
+<text aria-label="171,191,78,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="181.7360477892666" y="90.9725721553539" font-family="Balto" font-size="12px" fill="#d0d415" opacity="1">368</text>
+<text aria-label="8,21,116,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.479744812299884" y="128.7197030689179" font-family="Balto" font-size="12px" fill="#f71f69" opacity="1">15</text>
+<text aria-label="8,27,148,161" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.825725821929026" y="160.3751183578212" font-family="Balto" font-size="12px" fill="#650a0b" opacity="1">251</text>
+<text aria-label="35,55,58,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.4018895331856" y="70.56065518715808" font-family="Balto" font-size="12px" fill="#4f8dbe" opacity="1">543</text>
+<text aria-label="137,157,205,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.71305560672312" y="217.2186523537038" font-family="Balto" font-size="12px" fill="#dcc4ad" opacity="1">114</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#2b2fc4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#d0d415" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#e2fbfb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#dcc4ad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#d466c3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#aa24ff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#650a0b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#f71f69" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#4f8dbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Ford</text>
+<text aria-label="239,288,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Pizza</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Rubber</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">ampere</text>
+<text aria-label="239,277,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">lumen</text>
+<text aria-label="239,261,145,156" text-anchor="start" x="239.0" y="155.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">pfft</text>
+<text aria-label="239,272,161,172" text-anchor="start" x="239.0" y="171.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">toward</text>
+</svg>

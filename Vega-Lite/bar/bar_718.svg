@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="590" height="326" viewBox="0 0 590 326" style="background-color: rgb(255, 255, 255);">
+<line x1="49.5" y1="242.5" x2="585.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="49.5" y1="192.5" x2="585.5" y2="192.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="49.5" y1="142.5" x2="585.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="49.5" y1="92.5" x2="585.5" y2="92.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="49.5" y1="42.5" x2="585.5" y2="42.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="104,121,249,300" text-anchor="end" x="116.0" y="249.5" transform="rotate(270.0, 121.0, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">button</text>
+<text aria-label="238,255,249,300" text-anchor="end" x="250.0" y="249.5" transform="rotate(270.0, 255.0, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">cousin</text>
+<text aria-label="372,389,249,317" text-anchor="end" x="384.0" y="249.5" transform="rotate(270.0, 389.0, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">dictator</text>
+<text aria-label="506,523,249,309" text-anchor="end" x="518.0" y="249.5" transform="rotate(270.0, 523.0, 249.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">outline</text>
+<line aria-label="116,116,242,247" x1="116.5" y1="242.5" x2="116.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="250,250,242,247" x1="250.5" y1="242.5" x2="250.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="384,384,242,247" x1="384.5" y1="242.5" x2="384.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="518,518,242,247" x1="518.5" y1="242.5" x2="518.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,585,242,242" x1="49.5" y1="242.5" x2="585.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="271,362,0,26" text-anchor="middle" x="317.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">circuit</text>
+<text aria-label="39,47,231,248" text-anchor="end" x="47.5" y="247.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="30,47,181,198" text-anchor="end" x="47.5" y="197.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="22,47,131,148" text-anchor="end" x="47.5" y="147.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="22,47,81,98" text-anchor="end" x="47.5" y="97.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="22,47,31,48" text-anchor="end" x="47.5" y="47.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="2,14,130,154" text-anchor="middle" x="16.5" y="142.5" transform="rotate(-90.0, 14.5, 142.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">male</text>
+<path aria-label="Account: dictator; male: 185; Virginia: Corporate Savings" role="graphics-symbol" aria-roledescription="bar" d="M335.76,56.99999999999999h96.48000000000002v185h-96.48000000000002Z" fill="#696ca4"/>
+<path aria-label="Account: cousin; male: 133; Virginia: Corporate Savings" role="graphics-symbol" aria-roledescription="bar" d="M201.76,109.0h96.48000000000002v133h-96.48000000000002Z" fill="#696ca4"/>
+<path aria-label="Account: button; male: 45; Virginia: Corporate Savings" role="graphics-symbol" aria-roledescription="bar" d="M67.75999999999999,197.0h96.48000000000002v45h-96.48000000000002Z" fill="#696ca4"/>
+<path aria-label="Account: outline; male: 17; Virginia: Corporate Savings" role="graphics-symbol" aria-roledescription="bar" d="M469.76,225.0h96.48000000000002v17h-96.48000000000002Z" fill="#696ca4"/>
+</svg>

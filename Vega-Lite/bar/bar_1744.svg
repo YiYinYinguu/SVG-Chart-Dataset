@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="848" height="334" viewBox="0 0 848 334" style="background-color: rgb(255, 255, 255);">
+<line x1="61.5" y1="241.5" x2="737.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="61.5" y1="201.5" x2="737.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="61.5" y1="161.5" x2="737.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="61.5" y1="121.5" x2="737.5" y2="121.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="61.5" y1="81.5" x2="737.5" y2="81.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="61.5" y1="41.5" x2="737.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="71,86,248,316" text-anchor="end" x="82.12500000000001" y="248.5" transform="rotate(270.0, 86.12500000000001, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">automaton</text>
+<text aria-label="113,128,248,278" text-anchor="end" x="124.37500000000001" y="248.5" transform="rotate(270.0, 128.375, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">boom</text>
+<text aria-label="155,170,248,293" text-anchor="end" x="166.625" y="248.5" transform="rotate(270.0, 170.625, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">bureau</text>
+<text aria-label="197,212,248,301" text-anchor="end" x="208.875" y="248.5" transform="rotate(270.0, 212.875, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">cashier</text>
+<text aria-label="240,255,248,278" text-anchor="end" x="251.125" y="248.5" transform="rotate(270.0, 255.125, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">hare</text>
+<text aria-label="282,297,248,278" text-anchor="end" x="293.375" y="248.5" transform="rotate(270.0, 297.375, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">lime</text>
+<text aria-label="324,339,248,301" text-anchor="end" x="335.625" y="248.5" transform="rotate(270.0, 339.625, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">listing</text>
+<text aria-label="366,381,248,293" text-anchor="end" x="377.875" y="248.5" transform="rotate(270.0, 381.875, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">mother</text>
+<text aria-label="409,424,248,293" text-anchor="end" x="420.125" y="248.5" transform="rotate(270.0, 424.125, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">powder</text>
+<text aria-label="451,466,248,316" text-anchor="end" x="462.375" y="248.5" transform="rotate(270.0, 466.375, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">promenade</text>
+<text aria-label="493,508,248,293" text-anchor="end" x="504.625" y="248.5" transform="rotate(270.0, 508.625, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">riddle</text>
+<text aria-label="535,550,248,301" text-anchor="end" x="546.875" y="248.5" transform="rotate(270.0, 550.875, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">selling</text>
+<text aria-label="578,593,248,308" text-anchor="end" x="589.125" y="248.5" transform="rotate(270.0, 593.125, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">sparerib</text>
+<text aria-label="620,635,248,293" text-anchor="end" x="631.375" y="248.5" transform="rotate(270.0, 635.375, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">switch</text>
+<text aria-label="662,677,248,286" text-anchor="end" x="673.625" y="248.5" transform="rotate(270.0, 677.625, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">theme</text>
+<text aria-label="704,719,248,323" text-anchor="end" x="715.875" y="248.5" transform="rotate(270.0, 719.875, 248.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">windshield</text>
+<line aria-label="82,82,241,246" x1="82.5" y1="241.5" x2="82.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="124,124,241,246" x1="124.5" y1="241.5" x2="124.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="166,166,241,246" x1="166.5" y1="241.5" x2="166.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="208,208,241,246" x1="208.5" y1="241.5" x2="208.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="251,251,241,246" x1="251.5" y1="241.5" x2="251.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="293,293,241,246" x1="293.5" y1="241.5" x2="293.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="335,335,241,246" x1="335.5" y1="241.5" x2="335.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="377,377,241,246" x1="377.5" y1="241.5" x2="377.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="420,420,241,246" x1="420.5" y1="241.5" x2="420.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="462,462,241,246" x1="462.5" y1="241.5" x2="462.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="504,504,241,246" x1="504.5" y1="241.5" x2="504.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="546,546,241,246" x1="546.5" y1="241.5" x2="546.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="589,589,241,246" x1="589.5" y1="241.5" x2="589.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="631,631,241,246" x1="631.5" y1="241.5" x2="631.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="673,673,241,246" x1="673.5" y1="241.5" x2="673.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="715,715,241,246" x1="715.5" y1="241.5" x2="715.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="61,737,241,241" x1="61.5" y1="241.5" x2="737.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="557,843,0,26" text-anchor="end" x="843.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Osmium ew incomparable</text>
+<text aria-label="52,59,231,246" text-anchor="end" x="59.5" y="245.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="37,59,191,206" text-anchor="end" x="59.5" y="205.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="37,59,151,166" text-anchor="end" x="59.5" y="165.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="37,59,111,126" text-anchor="end" x="59.5" y="125.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="37,59,71,86" text-anchor="end" x="59.5" y="85.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="22,59,31,46" text-anchor="end" x="59.5" y="45.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="2,14,66,216" text-anchor="middle" x="16.9658203125" y="141.5" transform="rotate(-90.0, 14.9658203125, 141.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">siemens compelling Hybrid</text>
+<path aria-label="circular Romania: listing; siemens compelling Hybrid: 154; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M326.11875000000003,210.2h19.0125v30.80000000000001h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: sparerib; siemens compelling Hybrid: 792; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M579.61875,82.6h19.0125v158.4h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: bureau; siemens compelling Hybrid: 396; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M157.11875,161.8h19.0125v79.2h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: cashier; siemens compelling Hybrid: 484; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M199.36875,144.2h19.0125v96.8h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: promenade; siemens compelling Hybrid: 550; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M452.86875000000003,131.0h19.0125v110.00000000000001h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: theme; siemens compelling Hybrid: 836; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M664.11875,73.80000000000001h19.0125v167.2h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: powder; siemens compelling Hybrid: 635; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M410.61875000000003,114.0h19.0125v127h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: switch; siemens compelling Hybrid: 924; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M621.86875,56.19999999999999h19.0125v184.8h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: boom; siemens compelling Hybrid: 431; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M114.86875,154.79999999999998h19.0125v86.20000000000002h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: lime; siemens compelling Hybrid: 667; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M283.86875,107.6h19.0125v133.4h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: windshield; siemens compelling Hybrid: 139; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M706.36875,213.2h19.0125v27.80000000000001h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: hare; siemens compelling Hybrid: 552; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M241.61875,130.6h19.0125v110.4h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: riddle; siemens compelling Hybrid: 184; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M495.11875000000003,204.20000000000002h19.0125v36.79999999999998h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: selling; siemens compelling Hybrid: 187; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M537.3687500000001,203.6h19.0125v37.400000000000006h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: mother; siemens compelling Hybrid: 755; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M368.36875000000003,90.0h19.0125v151h-19.0125Z" fill="#eb9b9a"/>
+<path aria-label="circular Romania: automaton; siemens compelling Hybrid: 781; Borders Diverse: brisk" role="graphics-symbol" aria-roledescription="bar" d="M72.61875,84.8h19.0125v156.2h-19.0125Z" fill="#eb9b9a"/>
+<path  d="M756.0,58.0h10v10h-10Z" fill="#eb9b9a" stroke-width="1.5" opacity="1"/>
+<text aria-label="771,798,56,67" text-anchor="start" x="771.0" y="66.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">brisk</text>
+<text aria-label="755,845,39,51" text-anchor="start" x="755.0" y="50.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Borders Diverse</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="285" height="286" viewBox="0 0 285 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="202,280,0,26" text-anchor="end" x="280.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Diesel</text>
+<path aria-label="Electronics viral: 4; pricing Hatchback: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M76.29874257261822,64.70903506165351A75,75,0,0,0,35.70903506165351,105.29874257261824L105.0,134.0Z" fill="#5b4cdb" stroke="white" stroke-width="0"/>
+<path aria-label="Electronics viral: 2; pricing Hatchback: state" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,76.29874257261822,64.70903506165351L105.0,134.0Z" fill="#316a74" stroke="white" stroke-width="0"/>
+<path aria-label="Electronics viral: 3; pricing Hatchback: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.66776747647017,71.6397790773091A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#75e1ca" stroke="white" stroke-width="0"/>
+<path aria-label="Electronics viral: 15; pricing Hatchback: atop" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.70903506165351,105.29874257261824A75,75,0,0,0,167.3602209226909,175.66776747647015L105.0,134.0Z" fill="#eddcda" stroke="white" stroke-width="0"/>
+<path aria-label="Electronics viral: 8; pricing Hatchback: Porsche" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.3602209226909,175.66776747647015A75,75,0,0,0,146.66776747647017,71.6397790773091L105.0,134.0Z" fill="#bc4596" stroke="white" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#75e1ca" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,274.25A5,5,0,1,1,66.0,274.25A5,5,0,1,1,76.0,274.25" fill="#bc4596" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M141.0,274.25A5,5,0,1,1,131.0,274.25A5,5,0,1,1,141.0,274.25" fill="#eddcda" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M190.0,274.25A5,5,0,1,1,180.0,274.25A5,5,0,1,1,190.0,274.25" fill="#5b4cdb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,274.25A5,5,0,1,1,241.0,274.25A5,5,0,1,1,251.0,274.25" fill="#316a74" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="81,119,267,278" text-anchor="start" x="81.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Porsche</text>
+<text aria-label="146,168,267,278" text-anchor="start" x="146.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">atop</text>
+<text aria-label="195,233,267,278" text-anchor="start" x="195.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="256,283,267,278" text-anchor="start" x="256.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">state</text>
+<text aria-label="5,107,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">pricing Hatchback</text>
+</svg>

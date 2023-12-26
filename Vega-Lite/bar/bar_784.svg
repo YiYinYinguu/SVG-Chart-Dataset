@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="401" height="313" viewBox="0 0 401 313" style="background-color: rgb(255, 255, 255);">
+<text aria-label="65,78,243,269" text-anchor="end" x="74.88888888888889" y="243.5" transform="rotate(270.0, 78.88888888888889, 243.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">chip</text>
+<text aria-label="103,116,243,276" text-anchor="end" x="112.66666666666666" y="243.5" transform="rotate(270.0, 116.66666666666666, 243.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">finer</text>
+<text aria-label="141,154,243,282" text-anchor="end" x="150.44444444444446" y="243.5" transform="rotate(270.0, 154.44444444444446, 243.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">junker</text>
+<text aria-label="179,192,243,276" text-anchor="end" x="188.22222222222223" y="243.5" transform="rotate(270.0, 192.22222222222223, 243.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">lathe</text>
+<text aria-label="217,230,243,269" text-anchor="end" x="226.0" y="243.5" transform="rotate(270.0, 230.0, 243.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">oboe</text>
+<text aria-label="254,267,243,276" text-anchor="end" x="263.77777777777777" y="243.5" transform="rotate(270.0, 267.77777777777777, 243.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">slang</text>
+<text aria-label="292,305,243,276" text-anchor="end" x="301.55555555555554" y="243.5" transform="rotate(270.0, 305.55555555555554, 243.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">stall</text>
+<text aria-label="330,343,243,282" text-anchor="end" x="339.33333333333337" y="243.5" transform="rotate(270.0, 343.33333333333337, 243.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">tailor</text>
+<text aria-label="368,381,243,269" text-anchor="end" x="377.1111111111111" y="243.5" transform="rotate(270.0, 381.1111111111111, 243.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">wake</text>
+<line aria-label="74,74,236,241" x1="74.5" y1="236.5" x2="74.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="112,112,236,241" x1="112.5" y1="236.5" x2="112.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="150,150,236,241" x1="150.5" y1="236.5" x2="150.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="188,188,236,241" x1="188.5" y1="236.5" x2="188.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="226,226,236,241" x1="226.5" y1="236.5" x2="226.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="263,263,236,241" x1="263.5" y1="236.5" x2="263.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="301,301,236,241" x1="301.5" y1="236.5" x2="301.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="339,339,236,241" x1="339.5" y1="236.5" x2="339.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="377,377,236,241" x1="377.5" y1="236.5" x2="377.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,396,236,236" x1="56.5" y1="236.5" x2="396.5" y2="236.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="227,396,0,26" text-anchor="end" x="396.0" y="25.68" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Guiana arctic</text>
+<text aria-label="48,54,228,241" text-anchor="end" x="54.5" y="240.5" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="35,54,166,179" text-anchor="end" x="54.5" y="178.0" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="22,54,103,116" text-anchor="end" x="54.5" y="115.5" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="22,54,41,54" text-anchor="end" x="54.5" y="53.0" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<text aria-label="3,15,103,169" text-anchor="middle" x="17.470703125" y="136.5" transform="rotate(-90.0, 15.470703125, 136.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">East Tustin</text>
+<line aria-label="56,56,36,236" x1="56.5" y1="236.5" x2="56.5" y2="36.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="salmon: finer; East Tustin: 571; Accountability: Country" role="graphics-symbol" aria-roledescription="bar" d="M99.06666666666666,118.25h27.200000000000003v71.375h-27.200000000000003Z" fill="#e7b6f4"/>
+<path aria-label="salmon: finer; East Tustin: 144; Accountability: override" role="graphics-symbol" aria-roledescription="bar" d="M99.06666666666666,218.0h27.200000000000003v18h-27.200000000000003Z" fill="#a7d41a"/>
+<path aria-label="salmon: finer; East Tustin: 227; Accountability: Principal Lek Rolls" role="graphics-symbol" aria-roledescription="bar" d="M99.06666666666666,189.625h27.200000000000003v28.375h-27.200000000000003Z" fill="#286f95"/>
+<path aria-label="salmon: stall; East Tustin: 413; Accountability: Country" role="graphics-symbol" aria-roledescription="bar" d="M287.9555555555556,151.75h27.200000000000003v51.625h-27.200000000000003Z" fill="#e7b6f4"/>
+<path aria-label="salmon: stall; East Tustin: 112; Accountability: override" role="graphics-symbol" aria-roledescription="bar" d="M287.9555555555556,222.0h27.200000000000003v14h-27.200000000000003Z" fill="#a7d41a"/>
+<path aria-label="salmon: stall; East Tustin: 149; Accountability: Principal Lek Rolls" role="graphics-symbol" aria-roledescription="bar" d="M287.9555555555556,203.375h27.200000000000003v18.625h-27.200000000000003Z" fill="#286f95"/>
+<path aria-label="salmon: tailor; East Tustin: 109; Accountability: Country" role="graphics-symbol" aria-roledescription="bar" d="M325.73333333333335,151.125h27.200000000000003v13.624999999999986h-27.200000000000003Z" fill="#e7b6f4"/>
+<path aria-label="salmon: tailor; East Tustin: 267; Accountability: override" role="graphics-symbol" aria-roledescription="bar" d="M325.73333333333335,202.625h27.200000000000003v33.375h-27.200000000000003Z" fill="#a7d41a"/>
+<path aria-label="salmon: tailor; East Tustin: 303; Accountability: Principal Lek Rolls" role="graphics-symbol" aria-roledescription="bar" d="M325.73333333333335,164.75h27.200000000000003v37.875h-27.200000000000003Z" fill="#286f95"/>
+<path aria-label="salmon: oboe; East Tustin: 417; Accountability: Country" role="graphics-symbol" aria-roledescription="bar" d="M212.4,40.25h27.200000000000003v52.125h-27.200000000000003Z" fill="#e7b6f4"/>
+<path aria-label="salmon: oboe; East Tustin: 532; Accountability: override" role="graphics-symbol" aria-roledescription="bar" d="M212.4,169.5h27.200000000000003v66.5h-27.200000000000003Z" fill="#a7d41a"/>
+<path aria-label="salmon: oboe; East Tustin: 617; Accountability: Principal Lek Rolls" role="graphics-symbol" aria-roledescription="bar" d="M212.4,92.375h27.200000000000003v77.125h-27.200000000000003Z" fill="#286f95"/>
+<path aria-label="salmon: lathe; East Tustin: 273; Accountability: Country" role="graphics-symbol" aria-roledescription="bar" d="M174.62222222222223,153.25h27.200000000000003v34.125000000000014h-27.200000000000003Z" fill="#e7b6f4"/>
+<path aria-label="salmon: lathe; East Tustin: 109; Accountability: override" role="graphics-symbol" aria-roledescription="bar" d="M174.62222222222223,222.375h27.200000000000003v13.625h-27.200000000000003Z" fill="#a7d41a"/>
+<path aria-label="salmon: lathe; East Tustin: 280; Accountability: Principal Lek Rolls" role="graphics-symbol" aria-roledescription="bar" d="M174.62222222222223,187.375h27.200000000000003v35h-27.200000000000003Z" fill="#286f95"/>
+<path aria-label="salmon: junker; East Tustin: 565; Accountability: Country" role="graphics-symbol" aria-roledescription="bar" d="M136.84444444444443,71.0h27.200000000000003v70.62499999999997h-27.200000000000003Z" fill="#e7b6f4"/>
+<path aria-label="salmon: junker; East Tustin: 180; Accountability: override" role="graphics-symbol" aria-roledescription="bar" d="M136.84444444444443,213.5h27.200000000000003v22.5h-27.200000000000003Z" fill="#a7d41a"/>
+<path aria-label="salmon: junker; East Tustin: 575; Accountability: Principal Lek Rolls" role="graphics-symbol" aria-roledescription="bar" d="M136.84444444444443,141.625h27.200000000000003v71.87500000000001h-27.200000000000003Z" fill="#286f95"/>
+<path aria-label="salmon: slang; East Tustin: 194; Accountability: Country" role="graphics-symbol" aria-roledescription="bar" d="M250.17777777777778,107.875h27.200000000000003v24.25h-27.200000000000003Z" fill="#e7b6f4"/>
+<path aria-label="salmon: slang; East Tustin: 299; Accountability: override" role="graphics-symbol" aria-roledescription="bar" d="M250.17777777777778,198.625h27.200000000000003v37.375h-27.200000000000003Z" fill="#a7d41a"/>
+<path aria-label="salmon: slang; East Tustin: 532; Accountability: Principal Lek Rolls" role="graphics-symbol" aria-roledescription="bar" d="M250.17777777777778,132.125h27.200000000000003v66.5h-27.200000000000003Z" fill="#286f95"/>
+<path aria-label="salmon: chip; East Tustin: 295; Accountability: Country" role="graphics-symbol" aria-roledescription="bar" d="M61.288888888888884,145.25h27.200000000000003v36.87500000000003h-27.200000000000003Z" fill="#e7b6f4"/>
+<path aria-label="salmon: chip; East Tustin: 364; Accountability: override" role="graphics-symbol" aria-roledescription="bar" d="M61.288888888888884,190.5h27.200000000000003v45.5h-27.200000000000003Z" fill="#a7d41a"/>
+<path aria-label="salmon: chip; East Tustin: 67; Accountability: Principal Lek Rolls" role="graphics-symbol" aria-roledescription="bar" d="M61.288888888888884,182.12500000000003h27.200000000000003v8.374999999999972h-27.200000000000003Z" fill="#286f95"/>
+<path aria-label="salmon: wake; East Tustin: 327; Accountability: Country" role="graphics-symbol" aria-roledescription="bar" d="M363.51111111111106,123.00000000000001h27.200000000000003v40.874999999999986h-27.200000000000003Z" fill="#e7b6f4"/>
+<path aria-label="salmon: wake; East Tustin: 355; Accountability: override" role="graphics-symbol" aria-roledescription="bar" d="M363.51111111111106,191.625h27.200000000000003v44.375h-27.200000000000003Z" fill="#a7d41a"/>
+<path aria-label="salmon: wake; East Tustin: 222; Accountability: Principal Lek Rolls" role="graphics-symbol" aria-roledescription="bar" d="M363.51111111111106,163.875h27.200000000000003v27.75h-27.200000000000003Z" fill="#286f95"/>
+<text aria-label="108,117,111,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.66666666666666" y="116.68" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">571</text>
+<text aria-label="108,117,211,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.66666666666666" y="216.43" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">144</text>
+<text aria-label="108,117,182,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.66666666666666" y="188.055" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">227</text>
+<text aria-label="296,306,145,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="301.55555555555554" y="150.18" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">413</text>
+<text aria-label="296,306,215,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="301.55555555555554" y="220.43" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">112</text>
+<text aria-label="296,306,196,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="301.55555555555554" y="201.805" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">149</text>
+<text aria-label="334,343,144,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="339.33333333333337" y="149.555" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">109</text>
+<text aria-label="334,343,195,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="339.33333333333337" y="201.055" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">267</text>
+<text aria-label="334,343,158,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="339.33333333333337" y="163.18" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">303</text>
+<text aria-label="221,230,33,39" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="226.0" y="38.68" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">417</text>
+<text aria-label="221,230,162,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="226.0" y="167.93" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">532</text>
+<text aria-label="221,230,85,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="226.0" y="90.805" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">617</text>
+<text aria-label="183,192,146,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.22222222222223" y="151.68" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">273</text>
+<text aria-label="183,192,215,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.22222222222223" y="220.805" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">109</text>
+<text aria-label="183,192,180,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.22222222222223" y="185.805" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">280</text>
+<text aria-label="145,155,64,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.44444444444446" y="69.43" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">565</text>
+<text aria-label="145,155,206,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.44444444444446" y="211.93" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">180</text>
+<text aria-label="145,155,134,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.44444444444446" y="140.055" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">575</text>
+<text aria-label="259,268,101,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.77777777777777" y="106.305" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">194</text>
+<text aria-label="259,268,191,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.77777777777777" y="197.055" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">299</text>
+<text aria-label="259,268,125,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.77777777777777" y="130.555" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">532</text>
+<text aria-label="70,79,138,144" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="74.88888888888889" y="143.68" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">295</text>
+<text aria-label="70,79,183,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="74.88888888888889" y="188.93" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">364</text>
+<text aria-label="71,77,175,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="74.88888888888889" y="180.55500000000004" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">67</text>
+<text aria-label="372,381,116,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="377.1111111111111" y="121.43000000000002" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">327</text>
+<text aria-label="372,381,184,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="377.1111111111111" y="190.055" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">355</text>
+<text aria-label="372,381,157,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="377.1111111111111" y="162.305" font-family="avenir" font-size="5.1px" fill="#000" opacity="1">222</text>
+<path  d="M57.0,298.0h10v10h-10Z" fill="#e7b6f4" stroke-width="1.5" opacity="1"/>
+<path  d="M122.0,298.0h10v10h-10Z" fill="#a7d41a" stroke-width="1.5" opacity="1"/>
+<path  d="M188.0,298.0h10v10h-10Z" fill="#286f95" stroke-width="1.5" opacity="1"/>
+<text aria-label="72,110,296,307" text-anchor="start" x="72.0" y="306.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Country</text>
+<text aria-label="137,181,296,307" text-anchor="start" x="137.0" y="306.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">override</text>
+<text aria-label="203,307,296,307" text-anchor="start" x="203.0" y="306.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Principal Lek Rolls</text>
+</svg>

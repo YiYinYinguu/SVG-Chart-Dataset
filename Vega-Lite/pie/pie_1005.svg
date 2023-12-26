@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="239" viewBox="0 0 314 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="33,176,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Dave system</text>
+<path aria-label="Manganese copy Plastic: 271; neutral Celsius: virtual" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.815629748832592,117.59731878807482L51.33146181581057,121.97136711125486A55,55,0,0,1,104.99999999999999,79.0Z" fill="#3efb5a" stroke="black" stroke-width="4"/>
+<path aria-label="Manganese copy Plastic: 391; neutral Celsius: Small" role="graphics-symbol" aria-roledescription="arc mark"  d="M98.09628975380517,208.68158263478745A75,75,0,0,0,176.96914733436537,112.89450706653811L157.77737471186794,118.52263851546128A55,55,0,0,1,99.93727915279045,188.76649393217747Z" fill="#d54aaf" stroke="black" stroke-width="4"/>
+<path aria-label="Manganese copy Plastic: 341; neutral Celsius: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.815629748832592,117.59731878807482A75,75,0,0,0,98.09628975380517,208.68158263478745L99.93727915279045,188.76649393217747A55,55,0,0,1,51.33146181581057,121.97136711125486Z" fill="#b9ddce" stroke="black" stroke-width="4"/>
+<path aria-label="Manganese copy Plastic: 258; neutral Celsius: Market" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.96914733436537,112.89450706653811A75,75,0,0,0,105.0,59.0L105.0,79.0A55,55,0,0,1,157.77737471186794,118.52263851546128Z" fill="#e1f53c" stroke="black" stroke-width="4"/>
+<text aria-label="39,57,55,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="48.74828700780713" y="66.74514404367511" font-family="serif" font-size="11px" fill="#3efb5a" opacity="1">271</text>
+<text aria-label="165,183,183,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.47749982390837" y="194.20906412640232" font-family="serif" font-size="11px" fill="#d54aaf" opacity="1">391</text>
+<text aria-label="23,41,178,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="32.22802907045988" y="189.95507763217958" font-family="serif" font-size="11px" fill="#b9ddce" opacity="1">341</text>
+<text aria-label="149,167,53,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="158.94722774705906" y="64.9604510119133" font-family="serif" font-size="11px" fill="#e1f53c" opacity="1">258</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#e1f53c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#d54aaf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#b9ddce" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#3efb5a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Market</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Small</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">virtual</text>
+<text aria-label="223,313,32,44" text-anchor="start" x="223.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">neutral Celsius</text>
+</svg>

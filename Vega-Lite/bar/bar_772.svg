@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="928" height="386" viewBox="0 0 928 386" style="background-color: rgb(255, 255, 255);">
+<line x1="155.5" y1="49.5" x2="155.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="374.5" y1="49.5" x2="374.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="594.5" y1="49.5" x2="594.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="813.5" y1="49.5" x2="813.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="249.5" x2="923.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="213.5" x2="923.5" y2="213.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="176.5" x2="923.5" y2="176.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="140.5" x2="923.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="104.5" x2="923.5" y2="104.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="67.5" x2="923.5" y2="67.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="141,161,256,316" text-anchor="end" x="155.62500000000006" y="256.5" transform="rotate(270.0, 161.62500000000006, 256.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">banana</text>
+<text aria-label="360,380,256,296" text-anchor="end" x="374.87500000000006" y="256.5" transform="rotate(270.0, 380.87500000000006, 256.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">boar</text>
+<text aria-label="580,600,256,376" text-anchor="end" x="594.125" y="256.5" transform="rotate(270.0, 600.125, 256.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">eurocentrism</text>
+<text aria-label="799,819,256,386" text-anchor="end" x="813.3750000000001" y="256.5" transform="rotate(270.0, 819.3750000000001, 256.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">normalisation</text>
+<line aria-label="155,155,249,254" x1="155.5" y1="249.5" x2="155.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="374,374,249,254" x1="374.5" y1="249.5" x2="374.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="594,594,249,254" x1="594.5" y1="249.5" x2="594.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="813,813,249,254" x1="813.5" y1="249.5" x2="813.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,923,249,249" x1="46.5" y1="249.5" x2="923.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="650,923,0,26" text-anchor="end" x="923.0" y="25.973318181818172" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Plastic Factors Creek</text>
+<text aria-label="29,39,236,256" text-anchor="end" x="39.5" y="255.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="9,39,200,220" text-anchor="end" x="39.5" y="219.13636363636363" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="9,39,163,183" text-anchor="end" x="39.5" y="182.77272727272725" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="9,39,127,147" text-anchor="end" x="39.5" y="146.40909090909093" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="9,39,91,111" text-anchor="end" x="39.5" y="110.04545454545453" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="9,39,54,74" text-anchor="end" x="39.5" y="73.68181818181819" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">500</text>
+<line aria-label="41,46,249,249" x1="46.5" y1="249.5" x2="41.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,213,213" x1="46.5" y1="213.5" x2="41.5" y2="213.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,176,176" x1="46.5" y1="176.5" x2="41.5" y2="176.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,140,140" x1="46.5" y1="140.5" x2="41.5" y2="140.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,104,104" x1="46.5" y1="104.5" x2="41.5" y2="104.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,67,67" x1="46.5" y1="67.5" x2="41.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,46,49,249" x1="46.5" y1="249.5" x2="46.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Orchestrator jaggedly ah: eurocentrism; boo: 108; Plastic polarisation: Brand Yen coulomb" role="graphics-symbol" aria-roledescription="bar" d="M544.79375,108.27272727272728h98.66250000000001v39.27272727272725h-98.66250000000001Z" fill="#0d2a2e"/>
+<path aria-label="Orchestrator jaggedly ah: eurocentrism; boo: 279; Plastic polarisation: Central capacity" role="graphics-symbol" aria-roledescription="bar" d="M544.79375,147.54545454545453h98.66250000000001v101.45454545454547h-98.66250000000001Z" fill="#bd608f"/>
+<path aria-label="Orchestrator jaggedly ah: normalisation; boo: 12; Plastic polarisation: Brand Yen coulomb" role="graphics-symbol" aria-roledescription="bar" d="M764.04375,244.27272727272725h98.66250000000001v4.363636363636374h-98.66250000000001Z" fill="#0d2a2e"/>
+<path aria-label="Orchestrator jaggedly ah: normalisation; boo: 1; Plastic polarisation: Central capacity" role="graphics-symbol" aria-roledescription="bar" d="M764.04375,248.63636363636363h98.66250000000001v0.36363636363637397h-98.66250000000001Z" fill="#bd608f"/>
+<path aria-label="Orchestrator jaggedly ah: boar; boo: 200; Plastic polarisation: Brand Yen coulomb" role="graphics-symbol" aria-roledescription="bar" d="M325.54375000000005,73.72727272727273h98.66250000000001v72.72727272727273h-98.66250000000001Z" fill="#0d2a2e"/>
+<path aria-label="Orchestrator jaggedly ah: boar; boo: 282; Plastic polarisation: Central capacity" role="graphics-symbol" aria-roledescription="bar" d="M325.54375000000005,146.45454545454547h98.66250000000001v102.54545454545453h-98.66250000000001Z" fill="#bd608f"/>
+<path aria-label="Orchestrator jaggedly ah: banana; boo: 258; Plastic polarisation: Brand Yen coulomb" role="graphics-symbol" aria-roledescription="bar" d="M106.29375000000005,51.18181818181817h98.66250000000001v93.81818181818183h-98.66250000000001Z" fill="#0d2a2e"/>
+<path aria-label="Orchestrator jaggedly ah: banana; boo: 286; Plastic polarisation: Central capacity" role="graphics-symbol" aria-roledescription="bar" d="M106.29375000000005,145.0h98.66250000000001v104h-98.66250000000001Z" fill="#bd608f"/>
+<text aria-label="583,604,89,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="594.125" y="103.06422727272728" font-family="avenir" font-size="13.155px" fill="#000" opacity="1">108</text>
+<text aria-label="583,604,129,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="594.125" y="142.33695454545455" font-family="avenir" font-size="13.155px" fill="#000" opacity="1">279</text>
+<text aria-label="806,820,225,240" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="813.3750000000001" y="239.06422727272727" font-family="avenir" font-size="13.155px" fill="#000" opacity="1">12</text>
+<text aria-label="809,816,230,244" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="813.3750000000001" y="243.42786363636364" font-family="avenir" font-size="13.155px" fill="#000" opacity="1">1</text>
+<text aria-label="364,385,55,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="374.87500000000006" y="68.51877272727273" font-family="avenir" font-size="13.155px" fill="#000" opacity="1">200</text>
+<text aria-label="364,385,128,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="374.87500000000006" y="141.24604545454548" font-family="avenir" font-size="13.155px" fill="#000" opacity="1">282</text>
+<text aria-label="145,166,32,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.62500000000006" y="45.97331818181817" font-family="avenir" font-size="13.155px" fill="#000" opacity="1">258</text>
+<text aria-label="145,166,126,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.62500000000006" y="139.79149999999998" font-family="avenir" font-size="13.155px" fill="#000" opacity="1">286</text>
+</svg>

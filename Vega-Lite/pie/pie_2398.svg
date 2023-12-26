@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="350" height="239" viewBox="0 0 350 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,317,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Northeast Northwest apud</text>
+<path aria-label="copying Nicaragua: 10; candela Pound Latin: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.65297413349127,202.13489538646428A75,75,0,0,0,95.78337820014644,208.43153822539517L105.0,134.0Z" fill="#dfa826" stroke="white" stroke-width="3"/>
+<path aria-label="copying Nicaragua: 71; candela Pound Latin: whispered" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,43.78523157328338,177.33303735561884L105.0,134.0Z" fill="#24ffea" stroke="white" stroke-width="3"/>
+<path aria-label="copying Nicaragua: 106; candela Pound Latin: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M95.78337820014644,208.43153822539517A75,75,0,1,0,105.0,59.0L105.0,134.0Z" fill="#c1ed04" stroke="white" stroke-width="3"/>
+<path aria-label="copying Nicaragua: 17; candela Pound Latin: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.78523157328338,177.33303735561884A75,75,0,0,0,73.65297413349127,202.13489538646428L105.0,134.0Z" fill="#f0d639" stroke="white" stroke-width="3"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#c1ed04" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#dfa826" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#f0d639" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#24ffea" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">whispered</text>
+</svg>

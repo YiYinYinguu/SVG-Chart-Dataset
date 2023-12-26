@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="452" height="315" viewBox="0 0 452 315" style="background-color: rgb(255, 255, 255);">
+<text aria-label="93,113,250,300" text-anchor="end" x="107.57142857142861" y="250.5" transform="rotate(270.0, 113.57142857142861, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">audit</text>
+<text aria-label="187,207,250,290" text-anchor="end" x="201.8571428571429" y="250.5" transform="rotate(270.0, 207.8571428571429, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">hero</text>
+<text aria-label="282,302,250,310" text-anchor="end" x="296.14285714285717" y="250.5" transform="rotate(270.0, 302.14285714285717, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">relief</text>
+<text aria-label="376,396,250,300" text-anchor="end" x="390.42857142857144" y="250.5" transform="rotate(270.0, 396.42857142857144, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">wreck</text>
+<line aria-label="107,107,243,248" x1="107.5" y1="243.5" x2="107.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="201,201,243,248" x1="201.5" y1="243.5" x2="201.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="296,296,243,248" x1="296.5" y1="243.5" x2="296.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="390,390,243,248" x1="390.5" y1="243.5" x2="390.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,447,243,243" x1="51.5" y1="243.5" x2="447.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="151,346,0,26" text-anchor="middle" x="249.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">orange count ut</text>
+<text aria-label="39,49,230,250" text-anchor="end" x="49.5" y="249.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="29,49,201,221" text-anchor="end" x="49.5" y="220.92857142857144" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="29,49,173,193" text-anchor="end" x="49.5" y="192.35714285714286" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="29,49,144,164" text-anchor="end" x="49.5" y="163.78571428571428" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">60</text>
+<text aria-label="29,49,116,136" text-anchor="end" x="49.5" y="135.21428571428572" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">80</text>
+<text aria-label="19,49,87,107" text-anchor="end" x="49.5" y="106.64285714285714" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,49,59,79" text-anchor="end" x="49.5" y="78.07142857142858" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">120</text>
+<text aria-label="19,49,30,50" text-anchor="end" x="49.5" y="49.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">140</text>
+<text aria-label="3,15,128,158" text-anchor="middle" x="17.0" y="143.5" transform="rotate(-90.0, 15.0, 143.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Glens</text>
+<path aria-label="B2B Soft quaver: wreck; Glens: 24; Northeast robust: selfishly" role="graphics-symbol" aria-roledescription="bar" d="M352.7142857142857,208.7142857142857h25.142857142857142v34.285714285714306h-25.142857142857142Z" fill="#f3761e"/>
+<path aria-label="B2B Soft quaver: wreck; Glens: 63; Northeast robust: turquoise Customer olive" role="graphics-symbol" aria-roledescription="bar" d="M403.0,153.0h25.142857142857142v89.99999999999999h-25.142857142857142Z" fill="#b34ef6"/>
+<path aria-label="B2B Soft quaver: wreck; Glens: 15; Northeast robust: silver 4th" role="graphics-symbol" aria-roledescription="bar" d="M377.8571428571429,221.57142857142858h25.142857142857142v21.428571428571416h-25.142857142857142Z" fill="#62cb8f"/>
+<path aria-label="B2B Soft quaver: audit; Glens: 11; Northeast robust: selfishly" role="graphics-symbol" aria-roledescription="bar" d="M69.85714285714289,227.2857142857143h25.142857142857142v15.714285714285694h-25.142857142857142Z" fill="#f3761e"/>
+<path aria-label="B2B Soft quaver: audit; Glens: 78; Northeast robust: turquoise Customer olive" role="graphics-symbol" aria-roledescription="bar" d="M120.14285714285717,131.57142857142856h25.142857142857142v111.42857142857143h-25.142857142857142Z" fill="#b34ef6"/>
+<path aria-label="B2B Soft quaver: audit; Glens: 54; Northeast robust: silver 4th" role="graphics-symbol" aria-roledescription="bar" d="M95.00000000000003,165.85714285714286h25.142857142857142v77.14285714285714h-25.142857142857142Z" fill="#62cb8f"/>
+<path aria-label="B2B Soft quaver: relief; Glens: 38; Northeast robust: selfishly" role="graphics-symbol" aria-roledescription="bar" d="M258.42857142857144,188.71428571428572h25.142857142857142v54.28571428571428h-25.142857142857142Z" fill="#f3761e"/>
+<path aria-label="B2B Soft quaver: relief; Glens: 130; Northeast robust: turquoise Customer olive" role="graphics-symbol" aria-roledescription="bar" d="M308.7142857142857,57.28571428571428h25.142857142857142v185.71428571428572h-25.142857142857142Z" fill="#b34ef6"/>
+<path aria-label="B2B Soft quaver: relief; Glens: 54; Northeast robust: silver 4th" role="graphics-symbol" aria-roledescription="bar" d="M283.57142857142856,165.85714285714286h25.142857142857142v77.14285714285714h-25.142857142857142Z" fill="#62cb8f"/>
+<path aria-label="B2B Soft quaver: hero; Glens: 115; Northeast robust: selfishly" role="graphics-symbol" aria-roledescription="bar" d="M164.14285714285717,78.71428571428572h25.142857142857142v164.28571428571428h-25.142857142857142Z" fill="#f3761e"/>
+<path aria-label="B2B Soft quaver: hero; Glens: 43; Northeast robust: turquoise Customer olive" role="graphics-symbol" aria-roledescription="bar" d="M214.42857142857144,181.57142857142856h25.142857142857142v61.428571428571445h-25.142857142857142Z" fill="#b34ef6"/>
+<path aria-label="B2B Soft quaver: hero; Glens: 132; Northeast robust: silver 4th" role="graphics-symbol" aria-roledescription="bar" d="M189.2857142857143,54.42857142857143h25.142857142857142v188.57142857142856h-25.142857142857142Z" fill="#62cb8f"/>
+</svg>

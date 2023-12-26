@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="300" height="239" viewBox="0 0 300 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="243,295,0,26" text-anchor="end" x="295.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Auto</text>
+<path aria-label="Platinum withdrawal: 89; if Usability deposit: remind" role="graphics-symbol" aria-roledescription="arc mark"  d="M195.0,59.0A75,75,0,0,0,179.78842483748687,60.558812774607105L195.0,134.0Z" fill="#79ff11" stroke="black" stroke-width="0"/>
+<path aria-label="Platinum withdrawal: 418; if Usability deposit: ADP" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.4062242041667,90.93869917213814A75,75,0,0,0,195.0,59.0L195.0,134.0Z" fill="#fe4cfb" stroke="black" stroke-width="0"/>
+<path aria-label="Platinum withdrawal: 301; if Usability deposit: Monitored" role="graphics-symbol" aria-roledescription="arc mark"  d="M238.2724185733144,195.25763455126125A75,75,0,0,0,267.38094811887663,153.64684069799736L195.0,134.0Z" fill="#c788c0" stroke="black" stroke-width="0"/>
+<path aria-label="Platinum withdrawal: 198; if Usability deposit: Rustic" role="graphics-symbol" aria-roledescription="arc mark"  d="M206.99599717574688,208.0344247749618A75,75,0,0,0,238.2724185733144,195.25763455126125L195.0,134.0Z" fill="#4bfd08" stroke="black" stroke-width="0"/>
+<path aria-label="Platinum withdrawal: 651; if Usability deposit: fuchsia" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.10553384985076,151.64643886694267A75,75,0,0,0,206.99599717574688,208.0344247749618L195.0,134.0Z" fill="#b6c934" stroke="black" stroke-width="0"/>
+<path aria-label="Platinum withdrawal: 680; if Usability deposit: model" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.78842483748687,60.558812774607105A75,75,0,0,0,121.40564697065035,148.4523770429454L195.0,134.0Z" fill="#c9f3c9" stroke="black" stroke-width="0"/>
+<path aria-label="Platinum withdrawal: 19; if Usability deposit: middleware" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.40564697065035,148.4523770429454A75,75,0,0,0,122.10553384985076,151.64643886694267L195.0,134.0Z" fill="#1f6b52" stroke="black" stroke-width="0"/>
+<path aria-label="Platinum withdrawal: 343; if Usability deposit: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M268.84726008599966,147.0989380405711A75,75,0,0,0,256.4062242041667,90.93869917213814L195.0,134.0Z" fill="#9aaf0f" stroke="black" stroke-width="0"/>
+<path aria-label="Platinum withdrawal: 39; if Usability deposit: Corner" role="graphics-symbol" aria-roledescription="arc mark"  d="M267.38094811887663,153.64684069799736A75,75,0,0,0,268.84726008599966,147.0989380405711L195.0,134.0Z" fill="#64c133" stroke="black" stroke-width="0"/>
+<text aria-label="179,192,36,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.8252580511066" y="48.468865135243504" font-family="avenir" font-size="12px" fill="#79ff11" opacity="1">89</text>
+<text aria-label="226,246,46,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="236.52938423930047" y="58.15446008257855" font-family="avenir" font-size="12px" fill="#fe4cfb" opacity="1">418</text>
+<text aria-label="258,278,177,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="268.746710985924" y="189.58897768669772" font-family="avenir" font-size="12px" fill="#c788c0" opacity="1">301</text>
+<text aria-label="219,238,209,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="229.03562682277726" y="221.31612152987347" font-family="avenir" font-size="12px" fill="#4bfd08" opacity="1">198</text>
+<text aria-label="135,154,200,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.20278871113248" y="212.96824492978268" font-family="avenir" font-size="12px" fill="#b6c934" opacity="1">651</text>
+<text aria-label="110,129,76,89" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.03175507021733" y="88.20278871113247" font-family="avenir" font-size="12px" fill="#c9f3c9" opacity="1">680</text>
+<text aria-label="100,113,145,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.08581784948348" y="157.26386713009103" font-family="avenir" font-size="12px" fill="#1f6b52" opacity="1">19</text>
+<text aria-label="273,292,106,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="282.86974382152425" y="118.53443756939703" font-family="avenir" font-size="12px" fill="#9aaf0f" opacity="1">343</text>
+<text aria-label="276,289,145,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="282.8248427578844" y="157.6671552226771" font-family="avenir" font-size="12px" fill="#64c133" opacity="1">39</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#fe4cfb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#9aaf0f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#64c133" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c788c0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#4bfd08" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#b6c934" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#1f6b52" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#c9f3c9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#79ff11" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">ADP</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Corner</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Monitored</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rustic</text>
+<text aria-label="21,59,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">fuchsia</text>
+<text aria-label="21,76,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">middleware</text>
+<text aria-label="21,48,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">model</text>
+<text aria-label="21,54,161,172" text-anchor="start" x="21.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">remind</text>
+</svg>

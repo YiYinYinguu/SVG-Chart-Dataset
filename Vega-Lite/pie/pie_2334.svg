@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="373" height="270" viewBox="0 0 373 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,369,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">transmit whether transmitter</text>
+<path aria-label="arid male purple: 18; female Omnigender: Global" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.0901835507861,113.04567348678003A75,75,0,0,0,111.03499265375446,90.24320188993426L107.89679647380214,129.11673690716844A36,36,0,0,1,130.9632881043773,140.06192327365443Z" fill="#a1adf6" stroke="white" stroke-width="4"/>
+<path aria-label="arid male purple: 112; female Omnigender: Quetzal" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.27621005797576,122.39514399516332A75,75,0,1,0,159.0901835507861,113.04567348678003L130.9632881043773,140.06192327365443A36,36,0,1,1,75.37258082782836,144.5496691176784Z" fill="#e9bc7e" stroke="white" stroke-width="4"/>
+<path aria-label="arid male purple: 2; female Omnigender: Credit" role="graphics-symbol" aria-roledescription="arc mark"  d="M111.03499265375446,90.24320188993426A75,75,0,0,0,105.0,90.0L105.0,129.0A36,36,0,0,1,107.89679647380214,129.11673690716844Z" fill="#9fea0c" stroke="white" stroke-width="4"/>
+<path aria-label="arid male purple: 24; female Omnigender: Tricycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,43.27621005797576,122.39514399516332L75.37258082782836,144.5496691176784A36,36,0,0,1,105.0,129.0Z" fill="#f41dc8" stroke="white" stroke-width="4"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#9fea0c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,40.25A5,5,0,1,1,63.0,40.25A5,5,0,1,1,73.0,40.25" fill="#a1adf6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,40.25A5,5,0,1,1,120.0,40.25A5,5,0,1,1,130.0,40.25" fill="#e9bc7e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,40.25A5,5,0,1,1,182.0,40.25A5,5,0,1,1,192.0,40.25" fill="#f41dc8" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Credit</text>
+<text aria-label="78,111,33,44" text-anchor="start" x="78.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Global</text>
+<text aria-label="135,173,33,44" text-anchor="start" x="135.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Quetzal</text>
+<text aria-label="197,241,33,44" text-anchor="start" x="197.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Tricycle</text>
+</svg>

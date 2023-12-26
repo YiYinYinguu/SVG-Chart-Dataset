@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="840" height="327" viewBox="0 0 840 327" style="background-color: rgb(255, 255, 255);">
+<line x1="165.5" y1="43.5" x2="165.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="351.5" y1="43.5" x2="351.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="537.5" y1="43.5" x2="537.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="723.5" y1="43.5" x2="723.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="152,170,250,286" text-anchor="end" x="165.57142857142864" y="250.5" transform="rotate(270.0, 170.57142857142864, 250.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">beer</text>
+<text aria-label="338,356,250,295" text-anchor="end" x="351.5238095238096" y="250.5" transform="rotate(270.0, 356.5238095238096, 250.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">bench</text>
+<text aria-label="524,542,250,322" text-anchor="end" x="537.4761904761905" y="250.5" transform="rotate(270.0, 542.4761904761905, 250.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">ischemia</text>
+<text aria-label="710,728,250,322" text-anchor="end" x="723.4285714285714" y="250.5" transform="rotate(270.0, 728.4285714285714, 250.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">take-out</text>
+<line aria-label="165,165,243,248" x1="165.5" y1="243.5" x2="165.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="351,351,243,248" x1="351.5" y1="243.5" x2="351.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="537,537,243,248" x1="537.5" y1="243.5" x2="537.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="723,723,243,248" x1="723.5" y1="243.5" x2="723.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,835,243,243" x1="54.5" y1="243.5" x2="835.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="575,835,0,26" text-anchor="end" x="835.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Reilly Steel Refined</text>
+<text aria-label="38,47,231,249" text-anchor="end" x="47.5" y="248.5" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="29,47,202,220" text-anchor="end" x="47.5" y="219.92857142857144" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="20,47,174,192" text-anchor="end" x="47.5" y="191.35714285714286" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="20,47,145,163" text-anchor="end" x="47.5" y="162.78571428571428" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="20,47,117,135" text-anchor="end" x="47.5" y="134.21428571428572" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="20,47,88,106" text-anchor="end" x="47.5" y="105.64285714285714" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">250</text>
+<text aria-label="20,47,60,78" text-anchor="end" x="47.5" y="77.07142857142858" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="20,47,31,49" text-anchor="end" x="47.5" y="48.5" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">350</text>
+<line aria-label="49,54,243,243" x1="54.5" y1="243.5" x2="49.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,214,214" x1="54.5" y1="214.5" x2="49.5" y2="214.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,186,186" x1="54.5" y1="186.5" x2="49.5" y2="186.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,157,157" x1="54.5" y1="157.5" x2="49.5" y2="157.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,129,129" x1="54.5" y1="129.5" x2="49.5" y2="129.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,100,100" x1="54.5" y1="100.5" x2="49.5" y2="100.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,72,72" x1="54.5" y1="72.5" x2="49.5" y2="72.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,43,43" x1="54.5" y1="43.5" x2="49.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,128,158" text-anchor="middle" x="16.5" y="143.5" transform="rotate(-90.0, 14.5, 143.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Fresh</text>
+<path aria-label="Shirt Greenland meter: beer; Fresh: 71; duh: Dakota" role="graphics-symbol" aria-roledescription="bar" d="M91.19047619047626,202.42857142857144h49.58730158730159v40.571428571428555h-49.58730158730159Z" fill="#bf3e32"/>
+<path aria-label="Shirt Greenland meter: beer; Fresh: 319; duh: Sharable Streets Planner" role="graphics-symbol" aria-roledescription="bar" d="M190.36507936507945,60.71428571428571h49.58730158730159v182.2857142857143h-49.58730158730159Z" fill="#10aff6"/>
+<path aria-label="Shirt Greenland meter: beer; Fresh: 323; duh: Northeast Borders" role="graphics-symbol" aria-roledescription="bar" d="M140.77777777777786,58.42857142857144h49.58730158730159v184.57142857142856h-49.58730158730159Z" fill="#3a1c6c"/>
+<path aria-label="Shirt Greenland meter: ischemia; Fresh: 266; duh: Dakota" role="graphics-symbol" aria-roledescription="bar" d="M463.09523809523813,91.0h49.58730158730159v152h-49.58730158730159Z" fill="#bf3e32"/>
+<path aria-label="Shirt Greenland meter: ischemia; Fresh: 242; duh: Sharable Streets Planner" role="graphics-symbol" aria-roledescription="bar" d="M562.2698412698413,104.71428571428572h49.58730158730159v138.28571428571428h-49.58730158730159Z" fill="#10aff6"/>
+<path aria-label="Shirt Greenland meter: ischemia; Fresh: 150; duh: Northeast Borders" role="graphics-symbol" aria-roledescription="bar" d="M512.6825396825398,157.28571428571428h49.58730158730159v85.71428571428572h-49.58730158730159Z" fill="#3a1c6c"/>
+<path aria-label="Shirt Greenland meter: bench; Fresh: 319; duh: Dakota" role="graphics-symbol" aria-roledescription="bar" d="M277.1428571428572,60.71428571428571h49.58730158730159v182.2857142857143h-49.58730158730159Z" fill="#bf3e32"/>
+<path aria-label="Shirt Greenland meter: bench; Fresh: 115; duh: Sharable Streets Planner" role="graphics-symbol" aria-roledescription="bar" d="M376.31746031746036,177.2857142857143h49.58730158730159v65.7142857142857h-49.58730158730159Z" fill="#10aff6"/>
+<path aria-label="Shirt Greenland meter: bench; Fresh: 228; duh: Northeast Borders" role="graphics-symbol" aria-roledescription="bar" d="M326.7301587301588,112.71428571428571h49.58730158730159v130.28571428571428h-49.58730158730159Z" fill="#3a1c6c"/>
+<path aria-label="Shirt Greenland meter: take-out; Fresh: 251; duh: Dakota" role="graphics-symbol" aria-roledescription="bar" d="M649.047619047619,99.57142857142856h49.58730158730159v143.42857142857144h-49.58730158730159Z" fill="#bf3e32"/>
+<path aria-label="Shirt Greenland meter: take-out; Fresh: 236; duh: Sharable Streets Planner" role="graphics-symbol" aria-roledescription="bar" d="M748.2222222222222,108.14285714285715h49.58730158730159v134.85714285714283h-49.58730158730159Z" fill="#10aff6"/>
+<path aria-label="Shirt Greenland meter: take-out; Fresh: 189; duh: Northeast Borders" role="graphics-symbol" aria-roledescription="bar" d="M698.6349206349206,135.0h49.58730158730159v108h-49.58730158730159Z" fill="#3a1c6c"/>
+</svg>

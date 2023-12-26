@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="270" viewBox="0 0 304 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Integration Savings</text>
+<path aria-label="Northwest Electric reintermediate: 519; microchip: visualize" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,34.87616335503577,138.39835467136717L60.1207445472229,147.974946989675A48,48,0,0,1,104.99999999999999,117.0Z" fill="#b975d2" stroke="white" stroke-width="4"/>
+<path aria-label="Northwest Electric reintermediate: 780; microchip: Dodge" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.24378515224642,235.79639698750117A75,75,0,0,0,179.6871311132332,171.8434235638833L152.79976391246925,169.3797910808853A48,48,0,0,1,89.1560224974377,210.30969407200075Z" fill="#01e9df" stroke="white" stroke-width="4"/>
+<path aria-label="Northwest Electric reintermediate: 714; microchip: Canadian" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.6871311132332,171.8434235638833A75,75,0,0,0,105.0,90.0L105.0,117.0A48,48,0,0,1,152.79976391246925,169.3797910808853Z" fill="#fec0ef" stroke="white" stroke-width="4"/>
+<path aria-label="Northwest Electric reintermediate: 657; microchip: SCSI" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.87616335503577,138.39835467136717A75,75,0,0,0,75.52426939670175,233.96507308342237L86.13553241388912,209.13764677339032A48,48,0,0,1,60.1207445472229,147.974946989675Z" fill="#ad3fb6" stroke="white" stroke-width="4"/>
+<path aria-label="Northwest Electric reintermediate: 29; microchip: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.52426939670175,233.96507308342237A75,75,0,0,0,80.24378515224642,235.79639698750117L89.1560224974377,210.30969407200075A48,48,0,0,1,86.13553241388912,209.13764677339032Z" fill="#ff9abd" stroke="white" stroke-width="4"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#fec0ef" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,40.25A5,5,0,1,1,78.0,40.25A5,5,0,1,1,88.0,40.25" fill="#01e9df" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M148.0,40.25A5,5,0,1,1,138.0,40.25A5,5,0,1,1,148.0,40.25" fill="#ff9abd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M204.0,40.25A5,5,0,1,1,194.0,40.25A5,5,0,1,1,204.0,40.25" fill="#ad3fb6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M253.0,40.25A5,5,0,1,1,243.0,40.25A5,5,0,1,1,253.0,40.25" fill="#b975d2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Canadian</text>
+<text aria-label="93,120,33,44" text-anchor="start" x="93.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Dodge</text>
+<text aria-label="153,180,33,44" text-anchor="start" x="153.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="209,231,33,44" text-anchor="start" x="209.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">SCSI</text>
+<text aria-label="258,307,33,44" text-anchor="start" x="258.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">visualize</text>
+</svg>

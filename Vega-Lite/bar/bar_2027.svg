@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="454" height="341" viewBox="0 0 454 341" style="background-color: rgb(255, 255, 255);">
+<line x1="85.5" y1="43.5" x2="85.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="150.5" y1="43.5" x2="150.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="215.5" y1="43.5" x2="215.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="280.5" y1="43.5" x2="280.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="345.5" y1="43.5" x2="345.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="410.5" y1="43.5" x2="410.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="243.5" x2="449.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="193.5" x2="449.5" y2="193.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="143.5" x2="449.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="93.5" x2="449.5" y2="93.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="43.5" x2="449.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="71,91,250,290" text-anchor="end" x="85.0" y="250.5" transform="rotate(270.0, 91.0, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">bout</text>
+<text aria-label="136,156,250,320" text-anchor="end" x="150.0" y="250.5" transform="rotate(270.0, 156.0, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">cabbage</text>
+<text aria-label="201,221,250,320" text-anchor="end" x="215.0" y="250.5" transform="rotate(270.0, 221.0, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">gumshoe</text>
+<text aria-label="266,286,250,330" text-anchor="end" x="280.0" y="250.5" transform="rotate(270.0, 286.0, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">invasion</text>
+<text aria-label="331,351,250,310" text-anchor="end" x="345.0" y="250.5" transform="rotate(270.0, 351.0, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">throne</text>
+<text aria-label="396,416,250,300" text-anchor="end" x="410.0" y="250.5" transform="rotate(270.0, 416.0, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">tribe</text>
+<line aria-label="85,85,243,248" x1="85.5" y1="243.5" x2="85.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="150,150,243,248" x1="150.5" y1="243.5" x2="150.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,215,243,248" x1="215.5" y1="243.5" x2="215.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="280,280,243,248" x1="280.5" y1="243.5" x2="280.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="345,345,243,248" x1="345.5" y1="243.5" x2="345.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="410,410,243,248" x1="410.5" y1="243.5" x2="410.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,449,243,243" x1="46.5" y1="243.5" x2="449.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="208,286,0,26" text-anchor="middle" x="247.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">yellow</text>
+<text aria-label="34,44,230,250" text-anchor="end" x="44.5" y="249.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="24,44,180,200" text-anchor="end" x="44.5" y="199.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">10</text>
+<text aria-label="24,44,130,150" text-anchor="end" x="44.5" y="149.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="24,44,80,100" text-anchor="end" x="44.5" y="99.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">30</text>
+<text aria-label="24,44,30,50" text-anchor="end" x="44.5" y="49.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="3,15,71,215" text-anchor="middle" x="17.0654296875" y="143.5" transform="rotate(-90.0, 15.0654296875, 143.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Soft microwave Northeast</text>
+<path aria-label="Switchable sleepily: cabbage; Soft microwave Northeast: 35; Legacy soluta paradigm: geography" role="graphics-symbol" aria-roledescription="bar" d="M150.0,68.0h26v175h-26Z" fill="#20f916"/>
+<path aria-label="Switchable sleepily: cabbage; Soft microwave Northeast: 23; Legacy soluta paradigm: female" role="graphics-symbol" aria-roledescription="bar" d="M124.0,128.0h26v114.99999999999999h-26Z" fill="#b9ceff"/>
+<path aria-label="Switchable sleepily: invasion; Soft microwave Northeast: 37; Legacy soluta paradigm: geography" role="graphics-symbol" aria-roledescription="bar" d="M280.0,57.99999999999999h26v185h-26Z" fill="#20f916"/>
+<path aria-label="Switchable sleepily: invasion; Soft microwave Northeast: 27; Legacy soluta paradigm: female" role="graphics-symbol" aria-roledescription="bar" d="M254.0,107.99999999999999h26v135h-26Z" fill="#b9ceff"/>
+<path aria-label="Switchable sleepily: throne; Soft microwave Northeast: 22; Legacy soluta paradigm: geography" role="graphics-symbol" aria-roledescription="bar" d="M345.0,133.0h26v110.00000000000001h-26Z" fill="#20f916"/>
+<path aria-label="Switchable sleepily: throne; Soft microwave Northeast: 2; Legacy soluta paradigm: female" role="graphics-symbol" aria-roledescription="bar" d="M319.0,233.0h26v10h-26Z" fill="#b9ceff"/>
+<path aria-label="Switchable sleepily: bout; Soft microwave Northeast: 9; Legacy soluta paradigm: geography" role="graphics-symbol" aria-roledescription="bar" d="M85.0,198.0h26v45h-26Z" fill="#20f916"/>
+<path aria-label="Switchable sleepily: bout; Soft microwave Northeast: 38; Legacy soluta paradigm: female" role="graphics-symbol" aria-roledescription="bar" d="M59.0,53.00000000000001h26v190h-26Z" fill="#b9ceff"/>
+<path aria-label="Switchable sleepily: gumshoe; Soft microwave Northeast: 13; Legacy soluta paradigm: geography" role="graphics-symbol" aria-roledescription="bar" d="M215.0,178.0h26v65h-26Z" fill="#20f916"/>
+<path aria-label="Switchable sleepily: gumshoe; Soft microwave Northeast: 40; Legacy soluta paradigm: female" role="graphics-symbol" aria-roledescription="bar" d="M189.0,43.0h26v200h-26Z" fill="#b9ceff"/>
+<path aria-label="Switchable sleepily: tribe; Soft microwave Northeast: 9; Legacy soluta paradigm: geography" role="graphics-symbol" aria-roledescription="bar" d="M410.0,198.0h26v45h-26Z" fill="#20f916"/>
+<path aria-label="Switchable sleepily: tribe; Soft microwave Northeast: 3; Legacy soluta paradigm: female" role="graphics-symbol" aria-roledescription="bar" d="M384.0,228.0h26v15h-26Z" fill="#b9ceff"/>
+</svg>

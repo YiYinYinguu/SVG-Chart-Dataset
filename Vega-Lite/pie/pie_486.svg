@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="360" height="239" viewBox="0 0 360 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="147,355,0,26" text-anchor="end" x="355.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Plastic strategy</text>
+<path aria-label="during auxiliary cloudy: 79; Oriental wilted deposit: global" role="graphics-symbol" aria-roledescription="arc mark"  d="M255.0,59.0A75,75,0,0,0,245.03359098223092,208.3348551575271L255.0,134.0Z" fill="#ade75e" stroke="black" stroke-width="3"/>
+<path aria-label="during auxiliary cloudy: 62; Oriental wilted deposit: Generic" role="graphics-symbol" aria-roledescription="arc mark"  d="M307.77997221527255,187.28484336990266A75,75,0,0,0,255.0,59.0L255.0,134.0Z" fill="#644f50" stroke="black" stroke-width="3"/>
+<path aria-label="during auxiliary cloudy: 24; Oriental wilted deposit: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M245.03359098223092,208.3348551575271A75,75,0,0,0,307.77997221527255,187.28484336990266L255.0,134.0Z" fill="#94add8" stroke="black" stroke-width="3"/>
+<text aria-label="158,172,119,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.19976515338914" y="132.00685212150262" font-family="serif" font-size="13px" fill="#ade75e" opacity="1">79</text>
+<text aria-label="331,345,90,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="338.2308929543276" y="103.75648297815692" font-family="serif" font-size="13px" fill="#644f50" opacity="1">62</text>
+<text aria-label="276,290,210,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="283.62512023334176" y="223.32644661314995" font-family="serif" font-size="13px" fill="#94add8" opacity="1">24</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#644f50" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#94add8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ade75e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Generic</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">global</text>
+<text aria-label="5,143,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Oriental wilted deposit</text>
+</svg>

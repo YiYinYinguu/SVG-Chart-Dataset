@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="256" height="286" viewBox="0 0 256 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Raynor Cargo Diesel</text>
+<path aria-label="encoding SSL cyan: 638; Borders Cab Facilitator: easily" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.138696380872787,129.44091890345757A75,75,0,0,0,102.64889373614506,208.9631396043153L103.36989965706057,185.9744434589919A52,52,0,0,1,53.0961628240718,130.83903710639726Z" fill="#cae024" stroke="black" stroke-width="0"/>
+<path aria-label="encoding SSL cyan: 351; Borders Cab Facilitator: TLS" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.82445037459107,86.2366988276935A75,75,0,0,0,105.0,59.0L105.0,82.0A52,52,0,0,1,145.09161892638315,100.88411118720083Z" fill="#e62a2d" stroke="black" stroke-width="0"/>
+<path aria-label="encoding SSL cyan: 638; Borders Cab Facilitator: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.03860200819392,193.20681654278604A75,75,0,0,0,162.82445037459107,86.2366988276935L145.09161892638315,100.88411118720083A52,52,0,0,1,136.92009739234777,175.05005946966497Z" fill="#c621fe" stroke="black" stroke-width="0"/>
+<path aria-label="encoding SSL cyan: 602; Borders Cab Facilitator: meh" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.138696380872787,129.44091890345757L53.0961628240718,130.83903710639726A52,52,0,0,1,104.99999999999999,82.0Z" fill="#5d8b7e" stroke="black" stroke-width="0"/>
+<path aria-label="encoding SSL cyan: 276; Borders Cab Facilitator: awake" role="graphics-symbol" aria-roledescription="arc mark"  d="M102.64889373614506,208.9631396043153A75,75,0,0,0,151.03860200819392,193.20681654278604L136.92009739234777,175.05005946966497A52,52,0,0,1,103.36989965706057,185.9744434589919Z" fill="#a7b05c" stroke="black" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#e62a2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M58.0,274.25A5,5,0,1,1,48.0,274.25A5,5,0,1,1,58.0,274.25" fill="#c621fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M105.0,274.25A5,5,0,1,1,95.0,274.25A5,5,0,1,1,105.0,274.25" fill="#a7b05c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M157.0,274.25A5,5,0,1,1,147.0,274.25A5,5,0,1,1,157.0,274.25" fill="#cae024" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M214.0,274.25A5,5,0,1,1,204.0,274.25A5,5,0,1,1,214.0,274.25" fill="#5d8b7e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">TLS</text>
+<text aria-label="63,85,267,278" text-anchor="start" x="63.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="110,137,267,278" text-anchor="start" x="110.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">awake</text>
+<text aria-label="162,195,267,278" text-anchor="start" x="162.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">easily</text>
+<text aria-label="219,235,267,278" text-anchor="start" x="219.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">meh</text>
+<text aria-label="5,143,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Borders Cab Facilitator</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="381" height="286" viewBox="0 0 381 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">earum</text>
+<path aria-label="Polygender Nickel: 351; and: Maldives" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.466411215121454,108.50465036274936A75,75,0,0,0,67.84579456637107,199.15032631227336L105.0,134.0Z" fill="#c6acb8" stroke="white" stroke-width="2"/>
+<path aria-label="Polygender Nickel: 195; and: Handcrafted" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.04685277880648,181.4927666331997A75,75,0,0,0,179.68491340574414,127.1324160306189L105.0,134.0Z" fill="#00b0d6" stroke="white" stroke-width="2"/>
+<path aria-label="Polygender Nickel: 352; and: Hatchback" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.84579456637107,199.15032631227336A75,75,0,0,0,163.04685277880648,181.4927666331997L105.0,134.0Z" fill="#cf4eef" stroke="white" stroke-width="2"/>
+<path aria-label="Polygender Nickel: 307; and: Product" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,34.466411215121454,108.50465036274936L105.0,134.0Z" fill="#79b3bc" stroke="white" stroke-width="2"/>
+<path aria-label="Polygender Nickel: 38; and: Car" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.31894486043686,59.85904311889149A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#670acb" stroke="white" stroke-width="2"/>
+<path aria-label="Polygender Nickel: 333; and: Direct" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.68491340574414,127.1324160306189A75,75,0,0,0,116.31894486043686,59.85904311889149L105.0,134.0Z" fill="#f6f510" stroke="white" stroke-width="2"/>
+<text aria-label="12,28,158,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.544166257636533" y="168.1000345157728" font-family="monospace" font-size="10px" fill="#c6acb8" opacity="1">351</text>
+<text aria-label="182,199,153,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.05926452136376" y="163.34014028136414" font-family="monospace" font-size="10px" fill="#00b0d6" opacity="1">195</text>
+<text aria-label="113,129,215,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.41295724991694" y="225.490761293552" font-family="monospace" font-size="10px" fill="#cf4eef" opacity="1">352</text>
+<text aria-label="45,61,53,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="53.29650766545394" y="63.3335294695644" font-family="monospace" font-size="10px" fill="#79b3bc" opacity="1">307</text>
+<text aria-label="106,117,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.81089776902729" y="47.25808297356325" font-family="monospace" font-size="10px" fill="#670acb" opacity="1">38</text>
+<text aria-label="162,178,65,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.51376437247586" y="75.29143756537742" font-family="monospace" font-size="10px" fill="#f6f510" opacity="1">333</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#670acb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M58.0,274.25A5,5,0,1,1,48.0,274.25A5,5,0,1,1,58.0,274.25" fill="#f6f510" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M115.0,274.25A5,5,0,1,1,105.0,274.25A5,5,0,1,1,115.0,274.25" fill="#00b0d6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M197.0,274.25A5,5,0,1,1,187.0,274.25A5,5,0,1,1,197.0,274.25" fill="#cf4eef" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M269.0,274.25A5,5,0,1,1,259.0,274.25A5,5,0,1,1,269.0,274.25" fill="#c6acb8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M336.0,274.25A5,5,0,1,1,326.0,274.25A5,5,0,1,1,336.0,274.25" fill="#79b3bc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Car</text>
+<text aria-label="63,96,267,278" text-anchor="start" x="63.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Direct</text>
+<text aria-label="120,180,267,278" text-anchor="start" x="120.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Handcrafted</text>
+<text aria-label="202,251,267,278" text-anchor="start" x="202.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hatchback</text>
+<text aria-label="274,318,267,278" text-anchor="start" x="274.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Maldives</text>
+<text aria-label="341,379,267,278" text-anchor="start" x="341.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Product</text>
+<text aria-label="5,23,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">and</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="746" height="286" viewBox="0 0 746 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">North Senior</text>
+<path aria-label="Electric: 219; Southfield: Centralized" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.39713863740093,118.57728818131687A75,75,0,0,0,167.15476049019856,92.02636841532468L105.0,134.0Z" fill="#7e2f73" stroke="white" stroke-width="2"/>
+<path aria-label="Electric: 209; Southfield: Kuwaiti" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.93646768341614,206.57003645909884A75,75,0,0,0,148.84776500718468,194.84713225678522L105.0,134.0Z" fill="#cb2249" stroke="white" stroke-width="2"/>
+<path aria-label="Electric: 46; Southfield: circuit" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.809485315098726,123.01057186249224A75,75,0,0,0,30.16230022813926,129.0686013285444L105.0,134.0Z" fill="#fc87ce" stroke="white" stroke-width="2"/>
+<path aria-label="Electric: 540; Southfield: bandwidth" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.16230022813926,129.0686013285444A75,75,0,0,0,57.68180993727138,192.18925063263396L105.0,134.0Z" fill="#0eeb80" stroke="white" stroke-width="2"/>
+<path aria-label="Electric: 583; Southfield: state" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,40.709230541263395,95.37750704053944L105.0,134.0Z" fill="#adbedc" stroke="white" stroke-width="2"/>
+<path aria-label="Electric: 614; Southfield: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.9322437422757,191.68448673457252A75,75,0,0,0,178.39713863740093,118.57728818131687L105.0,134.0Z" fill="#3b859f" stroke="white" stroke-width="2"/>
+<path aria-label="Electric: 39; Southfield: Hemet" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.84776500718468,194.84713225678522A75,75,0,0,0,152.9322437422757,191.68448673457252L105.0,134.0Z" fill="#d2bf6e" stroke="white" stroke-width="2"/>
+<path aria-label="Electric: 553; Southfield: Anderson" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.15476049019856,92.02636841532468A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#43ecfb" stroke="white" stroke-width="2"/>
+<path aria-label="Electric: 198; Southfield: frictionless" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.066866994839444,98.25336418453051A75,75,0,0,0,30.809485315098726,123.01057186249224L105.0,134.0Z" fill="#ec7b13" stroke="white" stroke-width="2"/>
+<path aria-label="Electric: 531; Southfield: Rohnert" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.68180993727138,192.18925063263396A75,75,0,0,0,123.93646768341614,206.57003645909884L105.0,134.0Z" fill="#eae340" stroke="white" stroke-width="2"/>
+<path aria-label="Electric: 25; Southfield: incentivize" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.709230541263395,95.37750704053944A75,75,0,0,0,39.066866994839444,98.25336418453051L105.0,134.0Z" fill="#e1b0d2" stroke="white" stroke-width="2"/>
+<text aria-label="178,197,90,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.87663561648037" y="102.90778905664195" font-family="serif" font-size="12px" fill="#7e2f73" opacity="1">219</text>
+<text aria-label="133,153,207,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.3215747157432" y="219.43375781152258" font-family="serif" font-size="12px" fill="#cb2249" opacity="1">209</text>
+<text aria-label="9,22,116,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.509223754257235" y="128.4396147078476" font-family="serif" font-size="12px" fill="#fc87ce" opacity="1">46</text>
+<text aria-label="12,32,161,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.49993936762185" y="173.9685973545526" font-family="serif" font-size="12px" fill="#0eeb80" opacity="1">540</text>
+<text aria-label="50,70,47,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="60.67861260983443" y="59.66983582418027" font-family="serif" font-size="12px" fill="#adbedc" opacity="1">583</text>
+<text aria-label="180,199,155,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.99160748696318" y="167.60450399486518" font-family="serif" font-size="12px" fill="#3b859f" opacity="1">614</text>
+<text aria-label="153,166,197,210" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.10069001192335" y="209.1611829596019" font-family="serif" font-size="12px" fill="#d2bf6e" opacity="1">39</text>
+<text aria-label="137,156,46,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.2306037658418" y="58.52310961309277" font-family="serif" font-size="12px" fill="#43ecfb" opacity="1">553</text>
+<text aria-label="9,29,97,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.623655790188664" y="109.52404787600925" font-family="serif" font-size="12px" fill="#ec7b13" opacity="1">198</text>
+<text aria-label="76,95,213,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="85.90972761239146" y="225.9520409096168" font-family="serif" font-size="12px" fill="#eae340" opacity="1">531</text>
+<text aria-label="20,33,81,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.84660776520235" y="93.36764310285787" font-family="serif" font-size="12px" fill="#e1b0d2" opacity="1">25</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#43ecfb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#7e2f73" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M165.0,274.25A5,5,0,1,1,155.0,274.25A5,5,0,1,1,165.0,274.25" fill="#3b859f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M232.0,274.25A5,5,0,1,1,222.0,274.25A5,5,0,1,1,232.0,274.25" fill="#d2bf6e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M284.0,274.25A5,5,0,1,1,274.0,274.25A5,5,0,1,1,284.0,274.25" fill="#cb2249" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M346.0,274.25A5,5,0,1,1,336.0,274.25A5,5,0,1,1,346.0,274.25" fill="#eae340" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M408.0,274.25A5,5,0,1,1,398.0,274.25A5,5,0,1,1,408.0,274.25" fill="#0eeb80" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M480.0,274.25A5,5,0,1,1,470.0,274.25A5,5,0,1,1,480.0,274.25" fill="#fc87ce" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M542.0,274.25A5,5,0,1,1,532.0,274.25A5,5,0,1,1,542.0,274.25" fill="#ec7b13" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M629.0,274.25A5,5,0,1,1,619.0,274.25A5,5,0,1,1,629.0,274.25" fill="#e1b0d2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M711.0,274.25A5,5,0,1,1,701.0,274.25A5,5,0,1,1,711.0,274.25" fill="#adbedc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Anderson</text>
+<text aria-label="88,148,267,278" text-anchor="start" x="88.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Centralized</text>
+<text aria-label="170,214,267,278" text-anchor="start" x="170.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="237,264,267,278" text-anchor="start" x="237.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Hemet</text>
+<text aria-label="289,327,267,278" text-anchor="start" x="289.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Kuwaiti</text>
+<text aria-label="351,389,267,278" text-anchor="start" x="351.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Rohnert</text>
+<text aria-label="413,462,267,278" text-anchor="start" x="413.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">bandwidth</text>
+<text aria-label="485,523,267,278" text-anchor="start" x="485.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">circuit</text>
+<text aria-label="547,613,267,278" text-anchor="start" x="547.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">frictionless</text>
+<text aria-label="634,694,267,278" text-anchor="start" x="634.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">incentivize</text>
+<text aria-label="716,743,267,278" text-anchor="start" x="716.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">state</text>
+<text aria-label="5,65,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Southfield</text>
+</svg>

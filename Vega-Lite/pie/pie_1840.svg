@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="140,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Shore</text>
+<path aria-label="green Buckinghamshire Bicycle: 87; Savings disagree: circuit" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.70125742738173,234.29096493834652A75,75,0,0,0,166.03865379526462,121.41923884485463L105.0,165.0Z" fill="#69f1fc" stroke="black" stroke-width="0"/>
+<path aria-label="green Buckinghamshire Bicycle: 171; Savings disagree: why" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,1,0,133.70125742738173,234.29096493834652L105.0,165.0Z" fill="#fcd893" stroke="black" stroke-width="0"/>
+<path aria-label="green Buckinghamshire Bicycle: 46; Savings disagree: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.03865379526462,121.41923884485463A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#66a959" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#66a959" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,40.25A5,5,0,1,1,58.0,40.25A5,5,0,1,1,68.0,40.25" fill="#69f1fc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,40.25A5,5,0,1,1,120.0,40.25A5,5,0,1,1,130.0,40.25" fill="#fcd893" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="73,111,33,44" text-anchor="start" x="73.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">circuit</text>
+<text aria-label="135,151,33,44" text-anchor="start" x="135.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">why</text>
+</svg>

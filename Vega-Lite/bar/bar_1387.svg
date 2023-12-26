@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="952" height="316" viewBox="0 0 952 316" style="background-color: rgb(255, 255, 255);">
+<line x1="161.5" y1="40.5" x2="161.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="385.5" y1="40.5" x2="385.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="610.5" y1="40.5" x2="610.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="834.5" y1="40.5" x2="834.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="240.5" x2="947.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="209.5" x2="947.5" y2="209.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="178.5" x2="947.5" y2="178.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="148.5" x2="947.5" y2="148.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="117.5" x2="947.5" y2="117.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="86.5" x2="947.5" y2="86.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="55.5" x2="947.5" y2="55.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="150,165,247,277" text-anchor="end" x="161.25000000000003" y="247.5" transform="rotate(270.0, 165.25000000000003, 247.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">knot</text>
+<text aria-label="374,389,247,285" text-anchor="end" x="385.75" y="247.5" transform="rotate(270.0, 389.75, 247.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">piety</text>
+<text aria-label="599,614,247,300" text-anchor="end" x="610.25" y="247.5" transform="rotate(270.0, 614.25, 247.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">pumpkin</text>
+<text aria-label="823,838,247,300" text-anchor="end" x="834.75" y="247.5" transform="rotate(270.0, 838.75, 247.5)" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">veteran</text>
+<line aria-label="161,161,240,245" x1="161.5" y1="240.5" x2="161.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="385,385,240,245" x1="385.5" y1="240.5" x2="385.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="610,610,240,245" x1="610.5" y1="240.5" x2="610.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="834,834,240,245" x1="834.5" y1="240.5" x2="834.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,947,240,240" x1="49.5" y1="240.5" x2="947.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,57,0,26" text-anchor="start" x="5.7900390625" y="25.34023076923078" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">male</text>
+<text aria-label="35,42,230,245" text-anchor="end" x="42.5" y="244.5" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="20,42,199,214" text-anchor="end" x="42.5" y="213.73076923076923" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="20,42,168,183" text-anchor="end" x="42.5" y="182.96153846153845" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="20,42,138,153" text-anchor="end" x="42.5" y="152.19230769230768" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="20,42,107,122" text-anchor="end" x="42.5" y="121.42307692307692" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="5,42,76,91" text-anchor="end" x="42.5" y="90.65384615384615" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="5,42,45,60" text-anchor="end" x="42.5" y="59.88461538461537" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">1,200</text>
+<line aria-label="44,49,240,240" x1="49.5" y1="240.5" x2="44.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,209,209" x1="49.5" y1="209.5" x2="44.5" y2="209.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,178,178" x1="49.5" y1="178.5" x2="44.5" y2="178.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,148,148" x1="49.5" y1="148.5" x2="44.5" y2="148.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,117,117" x1="49.5" y1="117.5" x2="44.5" y2="117.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,86,86" x1="49.5" y1="86.5" x2="44.5" y2="86.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,55,55" x1="49.5" y1="55.5" x2="44.5" y2="55.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Peso: piety; Hat: 129; Soft absorb Product: Usability" role="graphics-symbol" aria-roledescription="bar" d="M335.2375,152.46153846153845h101.025v19.84615384615384h-101.025Z" fill="#d1e86b"/>
+<path aria-label="Peso: piety; Hat: 440; Soft absorb Product: pixel" role="graphics-symbol" aria-roledescription="bar" d="M335.2375,172.3076923076923h101.025v67.69230769230771h-101.025Z" fill="#cd1aea"/>
+<path aria-label="Peso: piety; Hat: 33; Soft absorb Product: Fiat gah visionary" role="graphics-symbol" aria-roledescription="bar" d="M335.2375,147.3846153846154h101.025v5.076923076923066h-101.025Z" fill="#d0eaeb"/>
+<path aria-label="Peso: veteran; Hat: 422; Soft absorb Product: Usability" role="graphics-symbol" aria-roledescription="bar" d="M784.2375000000001,154.76923076923077h101.025v64.9230769230769h-101.025Z" fill="#d1e86b"/>
+<path aria-label="Peso: veteran; Hat: 132; Soft absorb Product: pixel" role="graphics-symbol" aria-roledescription="bar" d="M784.2375000000001,219.69230769230768h101.025v20.30769230769232h-101.025Z" fill="#cd1aea"/>
+<path aria-label="Peso: veteran; Hat: 38; Soft absorb Product: Fiat gah visionary" role="graphics-symbol" aria-roledescription="bar" d="M784.2375000000001,148.9230769230769h101.025v5.846153846153854h-101.025Z" fill="#d0eaeb"/>
+<path aria-label="Peso: pumpkin; Hat: 226; Soft absorb Product: Usability" role="graphics-symbol" aria-roledescription="bar" d="M559.7375,125.23076923076923h101.025v34.769230769230774h-101.025Z" fill="#d1e86b"/>
+<path aria-label="Peso: pumpkin; Hat: 520; Soft absorb Product: pixel" role="graphics-symbol" aria-roledescription="bar" d="M559.7375,160.0h101.025v80h-101.025Z" fill="#cd1aea"/>
+<path aria-label="Peso: pumpkin; Hat: 484; Soft absorb Product: Fiat gah visionary" role="graphics-symbol" aria-roledescription="bar" d="M559.7375,50.769230769230774h101.025v74.46153846153845h-101.025Z" fill="#d0eaeb"/>
+<path aria-label="Peso: knot; Hat: 457; Soft absorb Product: Usability" role="graphics-symbol" aria-roledescription="bar" d="M110.73750000000003,159.69230769230768h101.025v70.3076923076923h-101.025Z" fill="#d1e86b"/>
+<path aria-label="Peso: knot; Hat: 65; Soft absorb Product: pixel" role="graphics-symbol" aria-roledescription="bar" d="M110.73750000000003,230.0h101.025v10h-101.025Z" fill="#cd1aea"/>
+<path aria-label="Peso: knot; Hat: 517; Soft absorb Product: Fiat gah visionary" role="graphics-symbol" aria-roledescription="bar" d="M110.73750000000003,80.15384615384616h101.025v79.53846153846153h-101.025Z" fill="#d0eaeb"/>
+<text aria-label="374,396,133,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="385.75" y="147.03253846153845" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">129</text>
+<text aria-label="374,396,153,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="385.75" y="166.8786923076923" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">440</text>
+<text aria-label="378,392,128,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="385.75" y="141.95561538461538" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">33</text>
+<text aria-label="823,845,135,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="834.75" y="149.34023076923077" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">422</text>
+<text aria-label="823,845,200,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="834.75" y="214.26330769230768" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">132</text>
+<text aria-label="827,841,130,144" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="834.75" y="143.49407692307693" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">38</text>
+<text aria-label="599,621,106,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="610.25" y="119.80176923076922" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">226</text>
+<text aria-label="599,621,141,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="610.25" y="154.571" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">520</text>
+<text aria-label="599,621,31,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="610.25" y="45.34023076923078" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">484</text>
+<text aria-label="150,172,140,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="161.25000000000003" y="154.2633076923077" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">457</text>
+<text aria-label="154,168,211,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="161.25000000000003" y="224.571" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">65</text>
+<text aria-label="150,172,61,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="161.25000000000003" y="74.72484615384616" font-family="Balto" font-size="13.469999999999999px" fill="#000" opacity="1">517</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="347" height="239" viewBox="0 0 347 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="97,344,0,26" text-anchor="middle" x="221.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Tactics Botsford oh</text>
+<path aria-label="Engineer: 86; gray Credit Direct: XML" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.47883162909383,108.47031509003092A75,75,0,0,0,156.8396252839127,172.83872186737443L221.0,134.0Z" fill="#8dcace" stroke="black" stroke-width="0"/>
+<path aria-label="Engineer: 174; gray Credit Direct: Liaison" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.8396252839127,172.83872186737443A75,75,0,0,0,273.61901299885824,187.443797311063L221.0,134.0Z" fill="#f3afb5" stroke="black" stroke-width="0"/>
+<path aria-label="Engineer: 118; gray Credit Direct: orange" role="graphics-symbol" aria-roledescription="arc mark"  d="M221.0,59.0A75,75,0,0,0,150.47883162909383,108.47031509003092L221.0,134.0Z" fill="#b6cf90" stroke="black" stroke-width="0"/>
+<path aria-label="Engineer: 62; gray Credit Direct: Branch" role="graphics-symbol" aria-roledescription="arc mark"  d="M265.95997188662494,73.96999976716728A75,75,0,0,0,221.0,59.0L221.0,134.0Z" fill="#d1db63" stroke="black" stroke-width="0"/>
+<path aria-label="Engineer: 166; gray Credit Direct: Country" role="graphics-symbol" aria-roledescription="arc mark"  d="M273.61901299885824,187.443797311063A75,75,0,0,0,265.95997188662494,73.96999976716728L221.0,134.0Z" fill="#f5eacb" stroke="black" stroke-width="0"/>
+<text aria-label="123,138,132,147" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.43623756136077" y="146.85056257166715" font-family="avenir" font-size="14px" fill="#8dcace" opacity="1">86</text>
+<text aria-label="198,221,213,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="209.83111226480665" y="227.30428851269488" font-family="avenir" font-size="14px" fill="#f3afb5" opacity="1">174</text>
+<text aria-label="158,180,50,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="169.31444094467324" y="64.32094608955452" font-family="avenir" font-size="14px" fill="#b6cf90" opacity="1">118</text>
+<text aria-label="241,256,38,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.43202397697064" y="52.609016795840986" font-family="avenir" font-size="14px" fill="#d1db63" opacity="1">62</text>
+<text aria-label="299,322,117,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="310.7956901377409" y="131.93913927838474" font-family="avenir" font-size="14px" fill="#f5eacb" opacity="1">166</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#d1db63" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#f5eacb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f3afb5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#8dcace" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#b6cf90" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Branch</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Country</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Liaison</text>
+<text aria-label="21,37,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">XML</text>
+<text aria-label="21,54,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">orange</text>
+<text aria-label="5,113,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">gray Credit Direct</text>
+</svg>

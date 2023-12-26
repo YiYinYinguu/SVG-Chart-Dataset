@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="594" height="355" viewBox="0 0 594 355" style="background-color: rgb(255, 255, 255);">
+<line x1="120.5" y1="43.5" x2="120.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="254.5" y1="43.5" x2="254.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="388.5" y1="43.5" x2="388.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="522.5" y1="43.5" x2="522.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="107,125,250,340" text-anchor="end" x="120.875" y="250.5" transform="rotate(270.0, 125.875, 250.5)" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">constraint</text>
+<text aria-label="241,259,250,322" text-anchor="end" x="254.625" y="250.5" transform="rotate(270.0, 259.625, 250.5)" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">coverall</text>
+<text aria-label="375,393,250,331" text-anchor="end" x="388.375" y="250.5" transform="rotate(270.0, 393.375, 250.5)" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">detective</text>
+<text aria-label="509,527,250,322" text-anchor="end" x="522.125" y="250.5" transform="rotate(270.0, 527.125, 250.5)" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">fairness</text>
+<line aria-label="120,120,243,248" x1="120.5" y1="243.5" x2="120.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="254,254,243,248" x1="254.5" y1="243.5" x2="254.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="388,388,243,248" x1="388.5" y1="243.5" x2="388.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="522,522,243,248" x1="522.5" y1="243.5" x2="522.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,589,243,243" x1="54.5" y1="243.5" x2="589.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="420,589,0,26" text-anchor="end" x="589.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gallium parse</text>
+<text aria-label="38,47,231,249" text-anchor="end" x="47.5" y="248.5" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="29,47,181,199" text-anchor="end" x="47.5" y="198.5" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="20,47,131,149" text-anchor="end" x="47.5" y="148.5" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="20,47,81,99" text-anchor="end" x="47.5" y="98.5" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="20,47,31,49" text-anchor="end" x="47.5" y="48.5" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">200</text>
+<line aria-label="49,54,243,243" x1="54.5" y1="243.5" x2="49.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,193,193" x1="54.5" y1="193.5" x2="49.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,143,143" x1="54.5" y1="143.5" x2="49.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,93,93" x1="54.5" y1="93.5" x2="49.5" y2="93.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,43,43" x1="54.5" y1="43.5" x2="49.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,80,206" text-anchor="middle" x="16.5" y="143.5" transform="rotate(-90.0, 14.5, 143.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">hacking New Southeast</text>
+<line aria-label="54,54,43,243" x1="54.5" y1="243.5" x2="54.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="And productivity XML: coverall; hacking New Southeast: 75; sleepily SDR however: Hybrid Lamborghini Jazz" role="graphics-symbol" aria-roledescription="bar" d="M218.5125,122.0h72.22500000000001v75h-72.22500000000001Z" fill="#b1dfef"/>
+<path aria-label="And productivity XML: coverall; hacking New Southeast: 36; sleepily SDR however: bypassing Sausages" role="graphics-symbol" aria-roledescription="bar" d="M218.5125,197.0h72.22500000000001v36h-72.22500000000001Z" fill="#d297db"/>
+<path aria-label="And productivity XML: coverall; hacking New Southeast: 10; sleepily SDR however: phew Northwest" role="graphics-symbol" aria-roledescription="bar" d="M218.5125,233.0h72.22500000000001v10h-72.22500000000001Z" fill="#2fe1bf"/>
+<path aria-label="And productivity XML: fairness; hacking New Southeast: 28; sleepily SDR however: Hybrid Lamborghini Jazz" role="graphics-symbol" aria-roledescription="bar" d="M486.0125,84.0h72.22500000000001v28.000000000000007h-72.22500000000001Z" fill="#b1dfef"/>
+<path aria-label="And productivity XML: fairness; hacking New Southeast: 79; sleepily SDR however: bypassing Sausages" role="graphics-symbol" aria-roledescription="bar" d="M486.0125,112.0h72.22500000000001v79h-72.22500000000001Z" fill="#d297db"/>
+<path aria-label="And productivity XML: fairness; hacking New Southeast: 52; sleepily SDR however: phew Northwest" role="graphics-symbol" aria-roledescription="bar" d="M486.0125,191.0h72.22500000000001v52h-72.22500000000001Z" fill="#2fe1bf"/>
+<path aria-label="And productivity XML: constraint; hacking New Southeast: 37; sleepily SDR however: Hybrid Lamborghini Jazz" role="graphics-symbol" aria-roledescription="bar" d="M84.76249999999999,90.0h72.22500000000001v37.000000000000014h-72.22500000000001Z" fill="#b1dfef"/>
+<path aria-label="And productivity XML: constraint; hacking New Southeast: 72; sleepily SDR however: bypassing Sausages" role="graphics-symbol" aria-roledescription="bar" d="M84.76249999999999,127.00000000000001h72.22500000000001v71.99999999999999h-72.22500000000001Z" fill="#d297db"/>
+<path aria-label="And productivity XML: constraint; hacking New Southeast: 44; sleepily SDR however: phew Northwest" role="graphics-symbol" aria-roledescription="bar" d="M84.76249999999999,199.0h72.22500000000001v44h-72.22500000000001Z" fill="#2fe1bf"/>
+<path aria-label="And productivity XML: detective; hacking New Southeast: 96; sleepily SDR however: Hybrid Lamborghini Jazz" role="graphics-symbol" aria-roledescription="bar" d="M352.2625,56.999999999999986h72.22500000000001v96.00000000000003h-72.22500000000001Z" fill="#b1dfef"/>
+<path aria-label="And productivity XML: detective; hacking New Southeast: 18; sleepily SDR however: bypassing Sausages" role="graphics-symbol" aria-roledescription="bar" d="M352.2625,153.0h72.22500000000001v17.999999999999986h-72.22500000000001Z" fill="#d297db"/>
+<path aria-label="And productivity XML: detective; hacking New Southeast: 72; sleepily SDR however: phew Northwest" role="graphics-symbol" aria-roledescription="bar" d="M352.2625,171.0h72.22500000000001v72h-72.22500000000001Z" fill="#2fe1bf"/>
+<text aria-label="250,259,110,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="254.625" y="118.3825" font-family="serif" font-size="8.025px" fill="#000" opacity="1">75</text>
+<text aria-label="250,259,185,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="254.625" y="193.3825" font-family="serif" font-size="8.025px" fill="#000" opacity="1">36</text>
+<text aria-label="250,259,221,230" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="254.625" y="229.3825" font-family="serif" font-size="8.025px" fill="#000" opacity="1">10</text>
+<text aria-label="517,526,72,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="522.125" y="80.3825" font-family="serif" font-size="8.025px" fill="#000" opacity="1">28</text>
+<text aria-label="517,526,100,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="522.125" y="108.3825" font-family="serif" font-size="8.025px" fill="#000" opacity="1">79</text>
+<text aria-label="517,526,179,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="522.125" y="187.3825" font-family="serif" font-size="8.025px" fill="#000" opacity="1">52</text>
+<text aria-label="116,125,78,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.875" y="86.3825" font-family="serif" font-size="8.025px" fill="#000" opacity="1">37</text>
+<text aria-label="116,125,115,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.875" y="123.38250000000002" font-family="serif" font-size="8.025px" fill="#000" opacity="1">72</text>
+<text aria-label="116,125,187,196" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.875" y="195.3825" font-family="serif" font-size="8.025px" fill="#000" opacity="1">44</text>
+<text aria-label="383,392,45,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="388.375" y="53.38249999999999" font-family="serif" font-size="8.025px" fill="#000" opacity="1">96</text>
+<text aria-label="383,392,141,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="388.375" y="149.38250000000002" font-family="serif" font-size="8.025px" fill="#000" opacity="1">18</text>
+<text aria-label="383,392,159,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="388.375" y="167.3825" font-family="serif" font-size="8.025px" fill="#000" opacity="1">72</text>
+</svg>

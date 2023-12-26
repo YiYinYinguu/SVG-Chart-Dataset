@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="318" height="239" viewBox="0 0 318 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,317,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">steradian primary Dollar</text>
+<path aria-label="bluetooth: 15; payment: orange" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.48330875874473,89.69729036265868A75,75,0,0,0,126.51149345318703,166.7154624616676L157.10628308774224,151.8844528123783A41,41,0,0,1,160.9175421214471,109.78118539825341Z" fill="#db57de" stroke="white" stroke-width="1"/>
+<path aria-label="bluetooth: 14; payment: Reactive" role="graphics-symbol" aria-roledescription="arc mark"  d="M268.89000603883426,129.9395818560937A75,75,0,0,0,230.32123650407146,68.38165059363877L213.8556092888924,98.12863565785585A41,41,0,0,1,234.93986996789607,131.7803047479979Z" fill="#35f2cb" stroke="white" stroke-width="1"/>
+<path aria-label="bluetooth: 16; payment: USB" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.51149345318703,166.7154624616676A75,75,0,0,0,196.70768099224523,208.95110715422578L195.4801989424274,174.97327191097676A41,41,0,0,1,157.10628308774224,151.8844528123783Z" fill="#9d0eea" stroke="white" stroke-width="1"/>
+<path aria-label="bluetooth: 16; payment: SCSI" role="graphics-symbol" aria-roledescription="arc mark"  d="M227.92857775680702,200.88685679115366A75,75,0,0,0,268.89000603883426,129.9395818560937L234.93986996789607,131.7803047479979A41,41,0,0,1,212.5476225070545,170.56481504583067Z" fill="#633123" stroke="white" stroke-width="1"/>
+<path aria-label="bluetooth: 6; payment: Soft" role="graphics-symbol" aria-roledescription="arc mark"  d="M196.70768099224523,208.95110715422578A75,75,0,0,0,227.92857775680702,200.88685679115366L212.5476225070545,170.56481504583067A41,41,0,0,1,195.4801989424274,174.97327191097676Z" fill="#076f27" stroke="white" stroke-width="1"/>
+<path aria-label="bluetooth: 4; payment: so" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.6119338604676,74.29302007207673A75,75,0,0,0,133.48330875874473,89.69729036265868L160.9175421214471,109.78118539825341A41,41,0,0,1,169.1878571770556,101.36018430606862Z" fill="#d40bfb" stroke="white" stroke-width="1"/>
+<path aria-label="bluetooth: 7; payment: Engineer" role="graphics-symbol" aria-roledescription="arc mark"  d="M230.32123650407146,68.38165059363877A75,75,0,0,0,194.0,59.0L194.0,93.0A41,41,0,0,1,213.8556092888924,98.12863565785585Z" fill="#e7617c" stroke="white" stroke-width="1"/>
+<path aria-label="bluetooth: 9; payment: throughout" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,148.6119338604676,74.29302007207673L169.1878571770556,101.36018430606862A41,41,0,0,1,194.0,93.0Z" fill="#aff402" stroke="white" stroke-width="1"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#e7617c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#35f2cb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#633123" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#076f27" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#9d0eea" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#db57de" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#d40bfb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#aff402" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Engineer</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Reactive</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">SCSI</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Soft</text>
+<text aria-label="21,37,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">USB</text>
+<text aria-label="21,54,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">orange</text>
+<text aria-label="21,32,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">so</text>
+<text aria-label="21,76,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">throughout</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="470" height="270" viewBox="0 0 470 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Games male sensor</text>
+<path aria-label="once: 46; Marks: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.0942336781863,96.74760756877916A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#c34c09" stroke="white" stroke-width="2"/>
+<path aria-label="once: 1; Marks: HTTP" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.92831050998885,98.24447073110937A75,75,0,0,0,170.0942336781863,96.74760756877916L105.0,134.0Z" fill="#c55f3a" stroke="white" stroke-width="2"/>
+<path aria-label="once: 16; Marks: Orchestrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.37836639512926,200.13146899330144A75,75,0,0,0,161.68121807656937,183.1145550458964L105.0,134.0Z" fill="#ec4e3c" stroke="white" stroke-width="2"/>
+<path aria-label="once: 41; Marks: well" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,44.57652049924203,89.57024504882475L105.0,134.0Z" fill="#5cb0bc" stroke="white" stroke-width="2"/>
+<path aria-label="once: 45; Marks: merrily" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.13862303764226,174.9077900453735A75,75,0,0,0,107.56989083659975,208.9559581426851L105.0,134.0Z" fill="#d431ca" stroke="white" stroke-width="2"/>
+<path aria-label="once: 53; Marks: Industrial" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.68121807656937,183.1145550458964A75,75,0,0,0,170.92831050998885,98.24447073110937L105.0,134.0Z" fill="#a71862" stroke="white" stroke-width="2"/>
+<path aria-label="once: 53; Marks: up" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.57652049924203,89.57024504882475A75,75,0,0,0,42.13862303764226,174.9077900453735L105.0,134.0Z" fill="#ad5bf6" stroke="white" stroke-width="2"/>
+<path aria-label="once: 20; Marks: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.56989083659975,208.9559581426851A75,75,0,0,0,140.37836639512926,200.13146899330144L105.0,134.0Z" fill="#ecfd66" stroke="white" stroke-width="2"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#c34c09" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,258.25A5,5,0,1,1,66.0,258.25A5,5,0,1,1,76.0,258.25" fill="#c55f3a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M129.0,258.25A5,5,0,1,1,119.0,258.25A5,5,0,1,1,129.0,258.25" fill="#a71862" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M201.0,258.25A5,5,0,1,1,191.0,258.25A5,5,0,1,1,201.0,258.25" fill="#ec4e3c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M289.0,258.25A5,5,0,1,1,279.0,258.25A5,5,0,1,1,289.0,258.25" fill="#ecfd66" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M340.0,258.25A5,5,0,1,1,330.0,258.25A5,5,0,1,1,340.0,258.25" fill="#d431ca" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M401.0,258.25A5,5,0,1,1,391.0,258.25A5,5,0,1,1,401.0,258.25" fill="#ad5bf6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M441.0,258.25A5,5,0,1,1,431.0,258.25A5,5,0,1,1,441.0,258.25" fill="#5cb0bc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="81,103,251,262" text-anchor="start" x="81.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">HTTP</text>
+<text aria-label="134,189,251,262" text-anchor="start" x="134.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Industrial</text>
+<text aria-label="206,272,251,262" text-anchor="start" x="206.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Orchestrator</text>
+<text aria-label="294,316,251,262" text-anchor="start" x="294.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="345,383,251,262" text-anchor="start" x="345.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">merrily</text>
+<text aria-label="406,417,251,262" text-anchor="start" x="406.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">up</text>
+<text aria-label="446,468,251,262" text-anchor="start" x="446.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">well</text>
+</svg>

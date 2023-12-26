@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="239" viewBox="0 0 309 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">North</text>
+<path aria-label="Cotton Books up: 432; West Director: Rutherfordium" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.46290969329674,208.5125364559226A75,75,0,0,0,179.45693659480918,143.0091394104301L160.59451265745753,140.72682409312114A56,56,0,0,1,98.62563923766157,189.6360272204222Z" fill="#b9d9ef" stroke="white" stroke-width="4"/>
+<path aria-label="Cotton Books up: 284; West Director: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.23892445978407,95.29133709038561A75,75,0,0,0,105.0,59.0L105.0,78.0A56,56,0,0,1,152.96506359663877,105.0975316941546Z" fill="#cbb04e" stroke="white" stroke-width="4"/>
+<path aria-label="Cotton Books up: 79; West Director: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,83.83452371146872,62.04847038818687L89.19644437122997,80.27619122317954A56,56,0,0,1,104.99999999999999,78.0Z" fill="#8a61ce" stroke="white" stroke-width="4"/>
+<path aria-label="Cotton Books up: 570; West Director: Soft" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.418976765265135,91.18904839456329A75,75,0,0,0,96.46290969329674,208.5125364559226L98.62563923766157,189.6360272204222A56,56,0,0,1,59.01950265139797,102.03448946794059Z" fill="#ee07ad" stroke="white" stroke-width="4"/>
+<path aria-label="Cotton Books up: 157; West Director: Transgender" role="graphics-symbol" aria-roledescription="arc mark"  d="M76.15765266061857,64.76764484755356A75,75,0,0,0,43.418976765265135,91.18904839456329L59.01950265139797,102.03448946794059A56,56,0,0,1,83.46438065326187,82.30650815284Z" fill="#093ba2" stroke="white" stroke-width="4"/>
+<path aria-label="Cotton Books up: 183; West Director: Bedfordshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.45693659480918,143.0091394104301A75,75,0,0,0,169.23892445978407,95.29133709038561L152.96506359663877,105.0975316941546A56,56,0,0,1,160.59451265745753,140.72682409312114Z" fill="#d25ef3" stroke="white" stroke-width="4"/>
+<path aria-label="Cotton Books up: 30; West Director: farad" role="graphics-symbol" aria-roledescription="arc mark"  d="M83.83452371146872,62.04847038818687A75,75,0,0,0,76.15765266061857,64.76764484755356L83.46438065326187,82.30650815284A56,56,0,0,1,89.19644437122997,80.27619122317954Z" fill="#74a8e2" stroke="white" stroke-width="4"/>
+<text aria-label="151,169,196,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.75843987499022" y="207.64698424354077" font-family="monospace" font-size="11px" fill="#b9d9ef" opacity="1">432</text>
+<text aria-label="140,158,47,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="149.26886267887198" y="58.64013912008792" font-family="monospace" font-size="11px" fill="#cbb04e" opacity="1">284</text>
+<text aria-label="86,98,36,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.16966871191192" y="47.919235527315394" font-family="monospace" font-size="11px" fill="#8a61ce" opacity="1">79</text>
+<text aria-label="13,31,163,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.992157380541855" y="174.07713242555553" font-family="monospace" font-size="11px" fill="#ee07ad" opacity="1">570</text>
+<text aria-label="39,57,55,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="48.477336013807346" y="66.96294940601824" font-family="monospace" font-size="11px" fill="#093ba2" opacity="1">157</text>
+<text aria-label="184,202,107,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.00494867616683" y="118.15513309929615" font-family="monospace" font-size="11px" fill="#d25ef3" opacity="1">183</text>
+<text aria-label="68,80,41,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="74.95098204355556" y="52.16453265376987" font-family="monospace" font-size="11px" fill="#74a8e2" opacity="1">30</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#cbb04e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#d25ef3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#b9d9ef" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#ee07ad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#093ba2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#74a8e2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#8a61ce" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="239,305,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bedfordshire</text>
+<text aria-label="239,310,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Rutherfordium</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Soft</text>
+<text aria-label="239,299,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Transgender</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">farad</text>
+<text aria-label="239,294,145,156" text-anchor="start" x="239.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+<text aria-label="223,301,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">West Director</text>
+</svg>

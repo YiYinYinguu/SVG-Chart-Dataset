@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="405" height="291" viewBox="0 0 405 291" style="background-color: rgb(255, 255, 255);">
+<line x1="24.5" y1="234.5" x2="400.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="24.5" y1="203.5" x2="400.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="24.5" y1="172.5" x2="400.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="24.5" y1="142.5" x2="400.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="24.5" y1="111.5" x2="400.5" y2="111.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="24.5" y1="80.5" x2="400.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="24.5" y1="49.5" x2="400.5" y2="49.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="69,80,241,269" text-anchor="end" x="77.71428571428574" y="241.5" transform="rotate(270.0, 80.71428571428574, 241.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">camel</text>
+<text aria-label="159,170,241,274" text-anchor="end" x="167.23809523809524" y="241.5" transform="rotate(270.0, 170.23809523809524, 241.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">laptop</text>
+<text aria-label="248,259,241,280" text-anchor="end" x="256.76190476190476" y="241.5" transform="rotate(270.0, 259.76190476190476, 241.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">someone</text>
+<text aria-label="338,349,241,280" text-anchor="end" x="346.2857142857143" y="241.5" transform="rotate(270.0, 349.2857142857143, 241.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">venture</text>
+<line aria-label="77,77,234,239" x1="77.5" y1="234.5" x2="77.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="167,167,234,239" x1="167.5" y1="234.5" x2="167.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="256,256,234,239" x1="256.5" y1="234.5" x2="256.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="346,346,234,239" x1="346.5" y1="234.5" x2="346.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="24,400,234,234" x1="24.5" y1="234.5" x2="400.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="179,244,0,26" text-anchor="middle" x="212.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bacon</text>
+<text aria-label="12,17,227,238" text-anchor="end" x="17.5" y="237.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="6,17,196,207" text-anchor="end" x="17.5" y="206.73076923076923" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="6,17,165,176" text-anchor="end" x="17.5" y="175.96153846153845" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="6,17,135,146" text-anchor="end" x="17.5" y="145.19230769230768" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="6,17,104,115" text-anchor="end" x="17.5" y="114.42307692307692" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="6,17,73,84" text-anchor="end" x="17.5" y="83.65384615384615" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="6,17,42,53" text-anchor="end" x="17.5" y="52.88461538461537" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">60</text>
+<line aria-label="19,24,234,234" x1="24.5" y1="234.5" x2="19.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,203,203" x1="24.5" y1="203.5" x2="19.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,172,172" x1="24.5" y1="172.5" x2="19.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,142,142" x1="24.5" y1="142.5" x2="19.5" y2="142.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,111,111" x1="24.5" y1="111.5" x2="19.5" y2="111.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,80,80" x1="24.5" y1="80.5" x2="19.5" y2="80.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,49,49" x1="24.5" y1="49.5" x2="19.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="24,24,34,234" x1="24.5" y1="234.5" x2="24.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="eek And Computer: venture; giving optical: 51; initiative male: monotheism Classical Turnpike" role="graphics-symbol" aria-roledescription="bar" d="M346.2857142857143,77.07692307692308h35.80952380952381v156.9230769230769h-35.80952380952381Z" fill="#1aeeee"/>
+<path aria-label="eek And Computer: venture; giving optical: 34; initiative male: hacking" role="graphics-symbol" aria-roledescription="bar" d="M310.4761904761905,129.38461538461536h35.80952380952381v104.61538461538463h-35.80952380952381Z" fill="#20af3b"/>
+<path aria-label="eek And Computer: laptop; giving optical: 63; initiative male: monotheism Classical Turnpike" role="graphics-symbol" aria-roledescription="bar" d="M167.23809523809524,40.15384615384615h35.80952380952381v193.84615384615384h-35.80952380952381Z" fill="#1aeeee"/>
+<path aria-label="eek And Computer: laptop; giving optical: 57; initiative male: hacking" role="graphics-symbol" aria-roledescription="bar" d="M131.42857142857144,58.61538461538461h35.80952380952381v175.3846153846154h-35.80952380952381Z" fill="#20af3b"/>
+<path aria-label="eek And Computer: someone; giving optical: 29; initiative male: monotheism Classical Turnpike" role="graphics-symbol" aria-roledescription="bar" d="M256.76190476190476,144.76923076923077h35.80952380952381v89.23076923076923h-35.80952380952381Z" fill="#1aeeee"/>
+<path aria-label="eek And Computer: someone; giving optical: 53; initiative male: hacking" role="graphics-symbol" aria-roledescription="bar" d="M220.95238095238096,70.92307692307693h35.80952380952381v163.07692307692307h-35.80952380952381Z" fill="#20af3b"/>
+<path aria-label="eek And Computer: camel; giving optical: 11; initiative male: monotheism Classical Turnpike" role="graphics-symbol" aria-roledescription="bar" d="M77.71428571428574,200.15384615384613h35.80952380952381v33.84615384615387h-35.80952380952381Z" fill="#1aeeee"/>
+<path aria-label="eek And Computer: camel; giving optical: 28; initiative male: hacking" role="graphics-symbol" aria-roledescription="bar" d="M41.904761904761926,147.84615384615384h35.80952380952381v86.15384615384616h-35.80952380952381Z" fill="#20af3b"/>
+</svg>

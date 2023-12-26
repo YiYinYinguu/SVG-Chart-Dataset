@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">male Bike World</text>
+<path aria-label="Clothing: 54; parse redundant Intelligent: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.20961478705436,82.17030132598515A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#48c85d" stroke="white" stroke-width="0"/>
+<path aria-label="Clothing: 155; parse redundant Intelligent: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.12195552614479,208.9916076357705A75,75,0,0,0,159.20961478705436,82.17030132598515L105.0,134.0Z" fill="#047eee" stroke="white" stroke-width="0"/>
+<path aria-label="Clothing: 211; parse redundant Intelligent: Turkey" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,106.12195552614479,208.9916076357705L105.0,134.0Z" fill="#ce6ea5" stroke="white" stroke-width="0"/>
+<text aria-label="136,144,46,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="140.37225284885312" y="53.24250047036945" font-family="monospace" font-size="7px" fill="#48c85d" opacity="1">54</text>
+<text aria-label="182,194,163,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.01976575900565" y="170.75224443571716" font-family="monospace" font-size="7px" fill="#047eee" opacity="1">155</text>
+<text aria-label="9,21,129,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.00251774448573" y="136.673192148196" font-family="monospace" font-size="7px" fill="#ce6ea5" opacity="1">211</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#48c85d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#047eee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ce6ea5" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Turkey</text>
+</svg>

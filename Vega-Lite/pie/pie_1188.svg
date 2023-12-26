@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="86,294,0,26" text-anchor="end" x="294.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">navigating North</text>
+<path aria-label="Integrated: 101; Pennsylvania synergistic Implementation: furthermore" role="graphics-symbol" aria-roledescription="arc mark"  d="M210.12278301582683,207.2465416782565A75,75,0,0,0,259.36454441499546,170.77602933189073L194.0,134.0Z" fill="#1ed929" stroke="white" stroke-width="2"/>
+<path aria-label="Integrated: 403; Pennsylvania synergistic Implementation: given" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,1,0,210.12278301582683,207.2465416782565L194.0,134.0Z" fill="#c8ffef" stroke="white" stroke-width="2"/>
+<path aria-label="Integrated: 111; Pennsylvania synergistic Implementation: National" role="graphics-symbol" aria-roledescription="arc mark"  d="M259.36454441499546,170.77602933189073A75,75,0,0,0,262.70939978029816,103.93310155950296L194.0,134.0Z" fill="#120275" stroke="white" stroke-width="2"/>
+<path aria-label="Integrated: 139; Pennsylvania synergistic Implementation: Card" role="graphics-symbol" aria-roledescription="arc mark"  d="M262.70939978029816,103.93310155950296A75,75,0,0,0,194.0,59.0L194.0,134.0Z" fill="#bdde3e" stroke="white" stroke-width="2"/>
+<text aria-label="240,254,200,209" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="247.56586421355306" y="208.3235659453763" font-family="serif" font-size="8px" fill="#1ed929" opacity="1">101</text>
+<text aria-label="97,111,137,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="104.52758385610764" y="145.7307116581548" font-family="serif" font-size="8px" fill="#c8ffef" opacity="1">403</text>
+<text aria-label="277,290,132,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="283.88752873394753" y="140.49801935342134" font-family="serif" font-size="8px" fill="#120275" opacity="1">111</text>
+<text aria-label="236,250,52,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="243.25837476219814" y="60.67661375252146" font-family="serif" font-size="8px" fill="#bdde3e" opacity="1">139</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#bdde3e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#120275" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#1ed929" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c8ffef" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Card</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">National</text>
+<text aria-label="21,81,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">furthermore</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">given</text>
+</svg>

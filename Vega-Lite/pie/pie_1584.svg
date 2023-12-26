@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="386" height="239" viewBox="0 0 386 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,356,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">enrollment Northwest orange</text>
+<path aria-label="resent whiteboard: 169; male Dollar Hybrid: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.12399726746497,188.87564945762588A75,75,0,0,0,105.0,59.0L105.0,100.0A34,34,0,0,1,128.17621209458412,158.87696108745706Z" fill="#cbd3df" stroke="white" stroke-width="0"/>
+<path aria-label="resent whiteboard: 114; male Dollar Hybrid: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M48.00403140084768,182.7489442290235A75,75,0,0,0,156.12399726746497,188.87564945762588L128.17621209458412,158.87696108745706A34,34,0,0,1,79.16182756838428,156.09952138382397Z" fill="#7b696a" stroke="white" stroke-width="0"/>
+<path aria-label="resent whiteboard: 161; male Dollar Hybrid: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,48.00403140084768,182.7489442290235L79.16182756838428,156.09952138382397A34,34,0,0,1,105.0,100.0Z" fill="#7b696a" stroke="white" stroke-width="0"/>
+<text aria-label="178,199,92,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.7453585024973" y="105.03464046475145" font-family="sans-serif" font-size="13px" fill="#cbd3df" opacity="1">169</text>
+<text aria-label="89,110,214,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.90824557345869" y="227.85585143361448" font-family="sans-serif" font-size="13px" fill="#7b696a" opacity="1">114</text>
+<text aria-label="12,33,87,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="23.25378914978829" y="100.34954168097377" font-family="sans-serif" font-size="13px" fill="#7b696a" opacity="1">161</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#cbd3df" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#7b696a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">deposit</text>
+</svg>

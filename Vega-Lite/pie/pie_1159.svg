@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southeast back</text>
+<path aria-label="Devolved: 81; Tools: redundant" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,43.276210057975774,176.60485600483668L105.0,134.0Z" fill="#6a7bc2" stroke="black" stroke-width="0"/>
+<path aria-label="Devolved: 99; Tools: lively" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.276210057975774,176.60485600483668A75,75,0,0,0,179.45316555735405,124.95974898085078L105.0,134.0Z" fill="#aabdb0" stroke="black" stroke-width="0"/>
+<path aria-label="Devolved: 54; Tools: Sports" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.45316555735405,124.95974898085078A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#0c3e9c" stroke="black" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#0c3e9c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#aabdb0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#6a7bc2" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Sports</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">lively</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">redundant</text>
+</svg>

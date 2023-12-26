@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="85,124,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cab</text>
+<path aria-label="Electronic tan: 5; Convertible: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.81455478834646,107.4776974896523A75,75,0,0,0,105.0,106.0L105.0,129.0A52,52,0,0,1,115.27142465325355,130.02453692615893Z" fill="#cf8ffb" stroke="white" stroke-width="2"/>
+<path aria-label="Electronic tan: 4; Convertible: calculate" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.27331356728683,110.7524876298454A75,75,0,0,0,119.81455478834646,107.4776974896523L115.27142465325355,130.02453692615893A52,52,0,0,1,123.21616407331886,132.29505809002615Z" fill="#24c17a" stroke="white" stroke-width="2"/>
+<path aria-label="Electronic tan: 149; Convertible: farad" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,1,0,131.27331356728683,110.7524876298454L123.21616407331886,132.29505809002615A52,52,0,1,1,104.99999999999999,129.0Z" fill="#28ea1d" stroke="white" stroke-width="2"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#cf8ffb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,56.25A5,5,0,1,1,78.0,56.25A5,5,0,1,1,88.0,56.25" fill="#24c17a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M160.0,56.25A5,5,0,1,1,150.0,56.25A5,5,0,1,1,160.0,56.25" fill="#28ea1d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="93,142,49,60" text-anchor="start" x="93.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">calculate</text>
+<text aria-label="165,192,49,60" text-anchor="start" x="165.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">farad</text>
+<text aria-label="5,71,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Convertible</text>
+</svg>

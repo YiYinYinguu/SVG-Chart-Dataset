@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="347" height="239" viewBox="0 0 347 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,343,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle Chips Protactinium</text>
+<path aria-label="Soft: 721; fuchsia Outdoors: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.34883882926487,196.3713137037328A75,75,0,0,0,149.78404654666764,194.16135948352485L124.10785985991153,159.6688467129706A32,32,0,0,1,87.22883790048634,160.61176051359266Z" fill="#56770d" stroke="black" stroke-width="2"/>
+<path aria-label="Soft: 627; fuchsia Outdoors: Forward" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.2822098218888,144.35148800786078A75,75,0,0,0,149.83529214516898,73.87682162212855L124.12972464860543,108.34744389210817A32,32,0,0,1,136.69374285733923,138.41663488335394Z" fill="#2e4c65" stroke="black" stroke-width="2"/>
+<path aria-label="Soft: 376; fuchsia Outdoors: Circles" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.83529214516898,73.87682162212855A75,75,0,0,0,105.0,59.0L105.0,102.0A32,32,0,0,1,124.12972464860543,108.34744389210817Z" fill="#f0dadc" stroke="black" stroke-width="2"/>
+<path aria-label="Soft: 687; fuchsia Outdoors: deliver" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.33181120523632,119.92882521965363A75,75,0,0,0,63.34883882926487,196.3713137037328L87.22883790048634,160.61176051359266A32,32,0,0,1,73.56823944756749,127.99629876038554Z" fill="#0ceedd" stroke="black" stroke-width="2"/>
+<path aria-label="Soft: 721; fuchsia Outdoors: magenta" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,34.34626271755191,108.83952687203984L74.85440542615548,123.264864798737A32,32,0,0,1,105.0,102.0Z" fill="#be8590" stroke="black" stroke-width="2"/>
+<path aria-label="Soft: 203; fuchsia Outdoors: Mini" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.3714690354223,168.9260375376305A75,75,0,0,0,179.2822098218888,144.35148800786078L136.69374285733923,138.41663488335394A32,32,0,0,1,133.31849345511353,148.9017760160557Z" fill="#e406d6" stroke="black" stroke-width="2"/>
+<path aria-label="Soft: 90; fuchsia Outdoors: film" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.34626271755191,108.83952687203984A75,75,0,0,0,31.33181120523632,119.92882521965363L73.56823944756749,127.99629876038554A32,32,0,0,1,74.85440542615548,123.264864798737Z" fill="#8fbabc" stroke="black" stroke-width="2"/>
+<path aria-label="Soft: 262; fuchsia Outdoors: Porsche" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.78404654666764,194.16135948352485A75,75,0,0,0,171.3714690354223,168.9260375376305L133.31849345511353,148.9017760160557A32,32,0,0,1,124.10785985991153,159.6688467129706Z" fill="#7ebbad" stroke="black" stroke-width="2"/>
+<text aria-label="99,115,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.30034619922586" y="226.97059746030203" font-family="monospace" font-size="10px" fill="#56770d" opacity="1">721</text>
+<text aria-label="179,196,92,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.04237975719877" y="102.30182765243703" font-family="monospace" font-size="10px" fill="#2e4c65" opacity="1">627</text>
+<text aria-label="125,141,41,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.3434007768112" y="51.5795596335101" font-family="monospace" font-size="10px" fill="#f0dadc" opacity="1">376</text>
+<text aria-label="13,30,161,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.98721575590085" y="171.7689179015201" font-family="monospace" font-size="10px" fill="#0ceedd" opacity="1">687</text>
+<text aria-label="44,61,53,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="53.121927068460266" y="63.45636975978242" font-family="monospace" font-size="10px" fill="#be8590" opacity="1">721</text>
+<text aria-label="182,198,154,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.6706000320251" y="164.57803999838967" font-family="monospace" font-size="10px" fill="#e406d6" opacity="1">203</text>
+<text aria-label="12,23,103,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.15159921787688" y="113.39162687545547" font-family="monospace" font-size="10px" fill="#8fbabc" opacity="1">90</text>
+<text aria-label="165,181,185,196" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.3904470119325" y="195.5042456366036" font-family="monospace" font-size="10px" fill="#7ebbad" opacity="1">262</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#f0dadc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#2e4c65" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#e406d6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#7ebbad" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#56770d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#0ceedd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#8fbabc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#be8590" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Circles</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Forward</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Mini</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Porsche</text>
+<text aria-label="239,288,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="239,277,129,140" text-anchor="start" x="239.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">deliver</text>
+<text aria-label="239,261,145,156" text-anchor="start" x="239.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">film</text>
+<text aria-label="239,277,161,172" text-anchor="start" x="239.0" y="171.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">magenta</text>
+<text aria-label="223,319,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">fuchsia Outdoors</text>
+</svg>

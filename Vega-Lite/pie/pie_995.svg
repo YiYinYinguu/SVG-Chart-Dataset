@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Adan</text>
+<path aria-label="Peso Architect: 56; North: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.149987884438303,129.2591470914752A75,75,0,0,0,32.00815022722797,151.23919565261326L105.0,134.0Z" fill="#f1a937" stroke="white" stroke-width="4"/>
+<path aria-label="Peso Architect: 214; North: frizzle" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.00815022722797,151.23919565261326A75,75,0,0,0,89.30351979125305,207.3390790033282L105.0,134.0Z" fill="#cdc54b" stroke="white" stroke-width="4"/>
+<path aria-label="Peso Architect: 204; North: Touring" role="graphics-symbol" aria-roledescription="arc mark"  d="M89.30351979125305,207.3390790033282A75,75,0,0,0,162.0561144273451,182.67853537703962L105.0,134.0Z" fill="#ed27db" stroke="white" stroke-width="4"/>
+<path aria-label="Peso Architect: 278; North: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M101.83826007494267,59.06667363151227A75,75,0,0,0,30.149987884438303,129.2591470914752L105.0,134.0Z" fill="#8e21b3" stroke="white" stroke-width="4"/>
+<path aria-label="Peso Architect: 8; North: transitional" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,101.83826007494267,59.06667363151227L105.0,134.0Z" fill="#debf9f" stroke="white" stroke-width="4"/>
+<path aria-label="Peso Architect: 432; North: Human" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.0561144273451,182.67853537703962A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#4d0ddc" stroke="white" stroke-width="4"/>
+<text aria-label="11,19,136,144" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.319891179318446" y="143.58143007029105" font-family="serif" font-size="7px" fill="#f1a937" opacity="1">56</text>
+<text aria-label="36,48,193,201" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="42.03481880217557" y="200.30696662668157" font-family="serif" font-size="7px" fill="#cdc54b" opacity="1">214</text>
+<text aria-label="127,139,214,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.89211365875667" y="221.2364110479171" font-family="serif" font-size="7px" fill="#ed27db" opacity="1">204</text>
+<text aria-label="36,48,64,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="42.03481880217555" y="71.69303337331846" font-family="serif" font-size="7px" fill="#8e21b3" opacity="1">278</text>
+<text aria-label="101,105,39,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="103.10253429499697" y="46.02000431263437" font-family="serif" font-size="7px" fill="#debf9f" opacity="1">8</text>
+<text aria-label="180,192,91,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.7229521637596" y="98.29908370291434" font-family="serif" font-size="7px" fill="#4d0ddc" opacity="1">432</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#4d0ddc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ed27db" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#cdc54b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#f1a937" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#8e21b3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#debf9f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Human</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Touring</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">frizzle</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="239,305,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">transitional</text>
+</svg>

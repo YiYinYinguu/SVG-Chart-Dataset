@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="239" viewBox="0 0 308 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,303,0,26" text-anchor="end" x="303.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">woot ubiquitous program</text>
+<path aria-label="South Platinum: 233; Hybrid: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M48.183267424510476,177.8899195583837A75,75,0,0,0,123.82369857079904,207.52045947001483L117.10362188537015,174.19118451027475A41,41,0,0,1,75.75351952539907,157.99315602524976Z" fill="#23dfff" stroke="white" stroke-width="0"/>
+<path aria-label="South Platinum: 184; Hybrid: astound" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.895789096739065,113.36064996134647A75,75,0,0,0,48.183267424510476,177.8899195583837L75.75351952539907,157.99315602524976A41,41,0,0,1,69.58303137288402,122.71715531220273Z" fill="#4f76ef" stroke="white" stroke-width="0"/>
+<path aria-label="South Platinum: 115; Hybrid: Non" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.82369857079904,207.52045947001483A75,75,0,0,0,160.8810349741305,188.16048568848925L137.36163245252467,163.60773217637413A41,41,0,0,1,117.10362188537015,174.19118451027475Z" fill="#b0596f" stroke="white" stroke-width="0"/>
+<path aria-label="South Platinum: 248; Hybrid: Chips" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.0614866175074,165.50609527400786A75,75,0,0,0,162.06556467675867,80.99956749670109L138.00917535662808,105.02643023152993A41,41,0,0,1,146.20694601757071,151.2233320831243Z" fill="#c7eb13" stroke="white" stroke-width="0"/>
+<path aria-label="South Platinum: 263; Hybrid: technologies" role="graphics-symbol" aria-roledescription="arc mark"  d="M108.99999999999999,59.0A75,75,0,0,0,36.895789096739065,113.36064996134647L69.58303137288402,122.71715531220273A41,41,0,0,1,108.99999999999999,93.0Z" fill="#0c38df" stroke="white" stroke-width="0"/>
+<path aria-label="South Platinum: 76; Hybrid: Fiji" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.8810349741305,188.16048568848925A75,75,0,0,0,177.0614866175074,165.50609527400786L146.20694601757071,151.2233320831243A41,41,0,0,1,137.36163245252467,163.60773217637413Z" fill="#82ba5b" stroke="white" stroke-width="0"/>
+<path aria-label="South Platinum: 160; Hybrid: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.06556467675867,80.99956749670109A75,75,0,0,0,109.0,59.0L109.0,93.0A41,41,0,0,1,138.00917535662808,105.02643023152993Z" fill="#b6bdfe" stroke="white" stroke-width="0"/>
+<text aria-label="66,85,209,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="76.17321054278844" y="221.79977263651676" font-family="serif" font-size="12px" fill="#23dfff" opacity="1">233</text>
+<text aria-label="10,30,141,154" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.3460582602049" y="153.50737289153187" font-family="serif" font-size="12px" fill="#4f76ef" opacity="1">184</text>
+<text aria-label="140,160,205,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.6744384768854" y="217.76992652394944" font-family="serif" font-size="12px" fill="#b0596f" opacity="1">115</text>
+<text aria-label="187,207,110,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="197.6155837604164" y="122.27491447398057" font-family="serif" font-size="12px" fill="#c7eb13" opacity="1">248</text>
+<text aria-label="45,64,54,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.81997510232468" y="66.13537099457562" font-family="serif" font-size="12px" fill="#0c38df" opacity="1">263</text>
+<text aria-label="175,188,178,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.23793252606478" y="190.3087491659625" font-family="serif" font-size="12px" fill="#82ba5b" opacity="1">76</text>
+<text aria-label="133,153,42,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.46703707634092" y="54.861420777246025" font-family="serif" font-size="12px" fill="#b6bdfe" opacity="1">160</text>
+<path  d="M238.0,56.0A5,5,0,1,1,228.0,56.0A5,5,0,1,1,238.0,56.0" fill="#b6bdfe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M238.0,72.0A5,5,0,1,1,228.0,72.0A5,5,0,1,1,238.0,72.0" fill="#c7eb13" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M238.0,88.0A5,5,0,1,1,228.0,88.0A5,5,0,1,1,238.0,88.0" fill="#82ba5b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M238.0,104.0A5,5,0,1,1,228.0,104.0A5,5,0,1,1,238.0,104.0" fill="#b0596f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M238.0,120.0A5,5,0,1,1,228.0,120.0A5,5,0,1,1,238.0,120.0" fill="#23dfff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M238.0,136.0A5,5,0,1,1,228.0,136.0A5,5,0,1,1,238.0,136.0" fill="#4f76ef" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M238.0,152.0A5,5,0,1,1,228.0,152.0A5,5,0,1,1,238.0,152.0" fill="#0c38df" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="243,276,49,60" text-anchor="start" x="243.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="243,270,65,76" text-anchor="start" x="243.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Chips</text>
+<text aria-label="243,265,81,92" text-anchor="start" x="243.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Fiji</text>
+<text aria-label="243,259,97,108" text-anchor="start" x="243.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Non</text>
+<text aria-label="243,292,113,124" text-anchor="start" x="243.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="243,281,129,140" text-anchor="start" x="243.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">astound</text>
+<text aria-label="243,309,145,156" text-anchor="start" x="243.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">technologies</text>
+<text aria-label="227,263,32,44" text-anchor="start" x="227.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Hybrid</text>
+</svg>

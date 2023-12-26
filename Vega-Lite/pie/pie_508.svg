@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="379" height="270" viewBox="0 0 379 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="59,150,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bahamas</text>
+<path aria-label="West Hatchback: 197; quantify magenta West: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.1976686527658,111.14460670261457A75,75,0,0,0,105.0,90.0L105.0,128.0A37,37,0,0,1,130.7508498686978,138.4313393066232Z" fill="#55ef7e" stroke="white" stroke-width="0"/>
+<path aria-label="West Hatchback: 86; quantify magenta West: Engineer" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.03705555663785,131.36916322337117A75,75,0,0,0,157.1976686527658,111.14460670261457L130.7508498686978,138.4313393066232A37,37,0,0,1,138.07161407460802,148.40878719019645Z" fill="#5af1ab" stroke="white" stroke-width="0"/>
+<path aria-label="West Hatchback: 76; quantify magenta West: firewall" role="graphics-symbol" aria-roledescription="arc mark"  d="M112.0231117150763,239.67044865164235A75,75,0,0,0,133.56582712303927,234.3469070743363L119.09247471403272,199.21114082333924A37,37,0,0,1,108.46473511277097,201.83742133481024Z" fill="#4bcd1d" stroke="white" stroke-width="0"/>
+<path aria-label="West Hatchback: 379; quantify magenta West: ugh" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,30.30267897608701,158.26871246710658L68.14932162820293,161.67923148377258A37,37,0,0,1,105.0,128.0Z" fill="#aef55c" stroke="white" stroke-width="0"/>
+<path aria-label="West Hatchback: 449; quantify magenta West: frictionless" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.30267897608701,158.26871246710658A75,75,0,0,0,112.0231117150763,239.67044865164235L108.46473511277097,201.83742133481024A37,37,0,0,1,68.14932162820293,161.67923148377258Z" fill="#ff246b" stroke="white" stroke-width="0"/>
+<path aria-label="West Hatchback: 421; quantify magenta West: Music" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.56582712303927,234.3469070743363A75,75,0,0,0,172.03705555663785,131.36916322337117L138.07161407460802,148.40878719019645A37,37,0,0,1,119.09247471403272,199.21114082333924Z" fill="#e9a928" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#55ef7e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,40.25A5,5,0,1,1,73.0,40.25A5,5,0,1,1,83.0,40.25" fill="#5af1ab" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M153.0,40.25A5,5,0,1,1,143.0,40.25A5,5,0,1,1,153.0,40.25" fill="#e9a928" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M209.0,40.25A5,5,0,1,1,199.0,40.25A5,5,0,1,1,209.0,40.25" fill="#4bcd1d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M271.0,40.25A5,5,0,1,1,261.0,40.25A5,5,0,1,1,271.0,40.25" fill="#ff246b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M350.0,40.25A5,5,0,1,1,340.0,40.25A5,5,0,1,1,350.0,40.25" fill="#aef55c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="88,132,33,44" text-anchor="start" x="88.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Engineer</text>
+<text aria-label="158,185,33,44" text-anchor="start" x="158.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Music</text>
+<text aria-label="214,258,33,44" text-anchor="start" x="214.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">firewall</text>
+<text aria-label="276,342,33,44" text-anchor="start" x="276.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">frictionless</text>
+<text aria-label="355,371,33,44" text-anchor="start" x="355.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">ugh</text>
+</svg>

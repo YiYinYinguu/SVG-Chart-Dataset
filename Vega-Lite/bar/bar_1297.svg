@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1002" height="339" viewBox="0 0 1002 339" style="background-color: rgb(255, 255, 255);">
+<line x1="96.5" y1="34.5" x2="96.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="201.5" y1="34.5" x2="201.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="306.5" y1="34.5" x2="306.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="410.5" y1="34.5" x2="410.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="515.5" y1="34.5" x2="515.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="620.5" y1="34.5" x2="620.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="724.5" y1="34.5" x2="724.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="829.5" y1="34.5" x2="829.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="934.5" y1="34.5" x2="934.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="85,101,241,305" text-anchor="end" x="96.804347826087" y="241.5" transform="rotate(270.0, 101.804347826087, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">briefing</text>
+<text aria-label="190,206,241,273" text-anchor="end" x="201.47826086956525" y="241.5" transform="rotate(270.0, 206.47826086956525, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">call</text>
+<text aria-label="295,311,241,289" text-anchor="end" x="306.1521739130435" y="241.5" transform="rotate(270.0, 311.1521739130435, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">cursor</text>
+<text aria-label="399,415,241,297" text-anchor="end" x="410.82608695652175" y="241.5" transform="rotate(270.0, 415.82608695652175, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">egghead</text>
+<text aria-label="504,520,241,297" text-anchor="end" x="515.5" y="241.5" transform="rotate(270.0, 520.5, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">exhibit</text>
+<text aria-label="609,625,241,289" text-anchor="end" x="620.1739130434783" y="241.5" transform="rotate(270.0, 625.1739130434783, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">mentor</text>
+<text aria-label="713,729,241,273" text-anchor="end" x="724.8478260869565" y="241.5" transform="rotate(270.0, 729.8478260869565, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">peek</text>
+<text aria-label="818,834,241,289" text-anchor="end" x="829.5217391304348" y="241.5" transform="rotate(270.0, 834.5217391304348, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">timber</text>
+<text aria-label="923,939,241,297" text-anchor="end" x="934.195652173913" y="241.5" transform="rotate(270.0, 939.195652173913, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">whisker</text>
+<line aria-label="96,96,234,239" x1="96.5" y1="234.5" x2="96.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="201,201,234,239" x1="201.5" y1="234.5" x2="201.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="306,306,234,239" x1="306.5" y1="234.5" x2="306.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="410,410,234,239" x1="410.5" y1="234.5" x2="410.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="515,515,234,239" x1="515.5" y1="234.5" x2="515.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="620,620,234,239" x1="620.5" y1="234.5" x2="620.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="724,724,234,239" x1="724.5" y1="234.5" x2="724.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="829,829,234,239" x1="829.5" y1="234.5" x2="829.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="934,934,234,239" x1="934.5" y1="234.5" x2="934.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,997,234,234" x1="34.5" y1="234.5" x2="997.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">impactful SCSI</text>
+<text aria-label="24,32,224,240" text-anchor="end" x="32.5" y="239.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="8,32,180,196" text-anchor="end" x="32.5" y="195.05555555555557" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="8,32,135,151" text-anchor="end" x="32.5" y="150.61111111111111" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="8,32,91,107" text-anchor="end" x="32.5" y="106.16666666666667" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="8,32,46,62" text-anchor="end" x="32.5" y="61.72222222222223" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">800</text>
+<path aria-label="Table Gusikowski Pants: cursor; Tremblay: 26; Grocery: quantifying" role="graphics-symbol" aria-roledescription="bar" d="M320.10869565217394,228.22222222222223h27.91304347826087v5.7777777777777715h-27.91304347826087Z" fill="#b7adce"/>
+<path aria-label="Table Gusikowski Pants: cursor; Tremblay: 23; Grocery: Hybrid Direct indent" role="graphics-symbol" aria-roledescription="bar" d="M264.2826086956522,228.88888888888889h27.91304347826087v5.111111111111114h-27.91304347826087Z" fill="#a20ee7"/>
+<path aria-label="Table Gusikowski Pants: cursor; Tremblay: 873; Grocery: haptic Beauty parse" role="graphics-symbol" aria-roledescription="bar" d="M292.19565217391306,40.00000000000001h27.91304347826087v194h-27.91304347826087Z" fill="#f0ddf5"/>
+<path aria-label="Table Gusikowski Pants: mentor; Tremblay: 706; Grocery: quantifying" role="graphics-symbol" aria-roledescription="bar" d="M634.1304347826087,77.1111111111111h27.91304347826087v156.8888888888889h-27.91304347826087Z" fill="#b7adce"/>
+<path aria-label="Table Gusikowski Pants: mentor; Tremblay: 614; Grocery: Hybrid Direct indent" role="graphics-symbol" aria-roledescription="bar" d="M578.304347826087,97.55555555555557h27.91304347826087v136.44444444444443h-27.91304347826087Z" fill="#a20ee7"/>
+<path aria-label="Table Gusikowski Pants: mentor; Tremblay: 94; Grocery: haptic Beauty parse" role="graphics-symbol" aria-roledescription="bar" d="M606.2173913043479,213.11111111111111h27.91304347826087v20.888888888888886h-27.91304347826087Z" fill="#f0ddf5"/>
+<path aria-label="Table Gusikowski Pants: briefing; Tremblay: 278; Grocery: quantifying" role="graphics-symbol" aria-roledescription="bar" d="M110.76086956521743,172.22222222222223h27.91304347826087v61.77777777777777h-27.91304347826087Z" fill="#b7adce"/>
+<path aria-label="Table Gusikowski Pants: briefing; Tremblay: 471; Grocery: Hybrid Direct indent" role="graphics-symbol" aria-roledescription="bar" d="M54.934782608695684,129.33333333333334h27.91304347826087v104.66666666666666h-27.91304347826087Z" fill="#a20ee7"/>
+<path aria-label="Table Gusikowski Pants: briefing; Tremblay: 39; Grocery: haptic Beauty parse" role="graphics-symbol" aria-roledescription="bar" d="M82.84782608695656,225.33333333333334h27.91304347826087v8.666666666666657h-27.91304347826087Z" fill="#f0ddf5"/>
+<path aria-label="Table Gusikowski Pants: whisker; Tremblay: 636; Grocery: quantifying" role="graphics-symbol" aria-roledescription="bar" d="M948.1521739130435,92.66666666666666h27.91304347826087v141.33333333333334h-27.91304347826087Z" fill="#b7adce"/>
+<path aria-label="Table Gusikowski Pants: whisker; Tremblay: 673; Grocery: Hybrid Direct indent" role="graphics-symbol" aria-roledescription="bar" d="M892.3260869565217,84.44444444444446h27.91304347826087v149.55555555555554h-27.91304347826087Z" fill="#a20ee7"/>
+<path aria-label="Table Gusikowski Pants: whisker; Tremblay: 466; Grocery: haptic Beauty parse" role="graphics-symbol" aria-roledescription="bar" d="M920.2391304347826,130.44444444444446h27.91304347826087v103.55555555555556h-27.91304347826087Z" fill="#f0ddf5"/>
+<path aria-label="Table Gusikowski Pants: egghead; Tremblay: 360; Grocery: quantifying" role="graphics-symbol" aria-roledescription="bar" d="M424.7826086956522,154.0h27.91304347826087v80h-27.91304347826087Z" fill="#b7adce"/>
+<path aria-label="Table Gusikowski Pants: egghead; Tremblay: 417; Grocery: Hybrid Direct indent" role="graphics-symbol" aria-roledescription="bar" d="M368.95652173913044,141.33333333333331h27.91304347826087v92.66666666666667h-27.91304347826087Z" fill="#a20ee7"/>
+<path aria-label="Table Gusikowski Pants: egghead; Tremblay: 162; Grocery: haptic Beauty parse" role="graphics-symbol" aria-roledescription="bar" d="M396.8695652173913,198.0h27.91304347826087v36h-27.91304347826087Z" fill="#f0ddf5"/>
+<path aria-label="Table Gusikowski Pants: exhibit; Tremblay: 824; Grocery: quantifying" role="graphics-symbol" aria-roledescription="bar" d="M529.4565217391305,50.888888888888886h27.91304347826087v183.11111111111111h-27.91304347826087Z" fill="#b7adce"/>
+<path aria-label="Table Gusikowski Pants: exhibit; Tremblay: 324; Grocery: Hybrid Direct indent" role="graphics-symbol" aria-roledescription="bar" d="M473.6304347826087,162.0h27.91304347826087v72h-27.91304347826087Z" fill="#a20ee7"/>
+<path aria-label="Table Gusikowski Pants: exhibit; Tremblay: 791; Grocery: haptic Beauty parse" role="graphics-symbol" aria-roledescription="bar" d="M501.54347826086956,58.222222222222214h27.91304347826087v175.7777777777778h-27.91304347826087Z" fill="#f0ddf5"/>
+<path aria-label="Table Gusikowski Pants: timber; Tremblay: 514; Grocery: quantifying" role="graphics-symbol" aria-roledescription="bar" d="M843.4782608695652,119.77777777777777h27.91304347826087v114.22222222222223h-27.91304347826087Z" fill="#b7adce"/>
+<path aria-label="Table Gusikowski Pants: timber; Tremblay: 1; Grocery: Hybrid Direct indent" role="graphics-symbol" aria-roledescription="bar" d="M787.6521739130435,233.7777777777778h27.91304347826087v0.22222222222220012h-27.91304347826087Z" fill="#a20ee7"/>
+<path aria-label="Table Gusikowski Pants: timber; Tremblay: 526; Grocery: haptic Beauty parse" role="graphics-symbol" aria-roledescription="bar" d="M815.5652173913044,117.11111111111111h27.91304347826087v116.88888888888889h-27.91304347826087Z" fill="#f0ddf5"/>
+<path aria-label="Table Gusikowski Pants: call; Tremblay: 621; Grocery: quantifying" role="graphics-symbol" aria-roledescription="bar" d="M215.43478260869568,96.00000000000001h27.91304347826087v138h-27.91304347826087Z" fill="#b7adce"/>
+<path aria-label="Table Gusikowski Pants: call; Tremblay: 583; Grocery: Hybrid Direct indent" role="graphics-symbol" aria-roledescription="bar" d="M159.60869565217394,104.44444444444444h27.91304347826087v129.55555555555554h-27.91304347826087Z" fill="#a20ee7"/>
+<path aria-label="Table Gusikowski Pants: call; Tremblay: 574; Grocery: haptic Beauty parse" role="graphics-symbol" aria-roledescription="bar" d="M187.5217391304348,106.44444444444444h27.91304347826087v127.55555555555556h-27.91304347826087Z" fill="#f0ddf5"/>
+<path aria-label="Table Gusikowski Pants: peek; Tremblay: 676; Grocery: quantifying" role="graphics-symbol" aria-roledescription="bar" d="M738.804347826087,83.77777777777779h27.91304347826087v150.22222222222223h-27.91304347826087Z" fill="#b7adce"/>
+<path aria-label="Table Gusikowski Pants: peek; Tremblay: 271; Grocery: Hybrid Direct indent" role="graphics-symbol" aria-roledescription="bar" d="M682.9782608695652,173.77777777777777h27.91304347826087v60.22222222222223h-27.91304347826087Z" fill="#a20ee7"/>
+<path aria-label="Table Gusikowski Pants: peek; Tremblay: 230; Grocery: haptic Beauty parse" role="graphics-symbol" aria-roledescription="bar" d="M710.8913043478261,182.88888888888889h27.91304347826087v51.111111111111114h-27.91304347826087Z" fill="#f0ddf5"/>
+<path  d="M35.0,324.0h10v10h-10Z" fill="#b7adce" stroke-width="1.5" opacity="1"/>
+<path  d="M116.0,324.0h10v10h-10Z" fill="#a20ee7" stroke-width="1.5" opacity="1"/>
+<path  d="M242.0,324.0h10v10h-10Z" fill="#f0ddf5" stroke-width="1.5" opacity="1"/>
+<text aria-label="50,110,322,333" text-anchor="start" x="50.0" y="332.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">quantifying</text>
+<text aria-label="131,241,322,333" text-anchor="start" x="131.0" y="332.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hybrid Direct indent</text>
+<text aria-label="257,361,322,333" text-anchor="start" x="257.0" y="332.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">haptic Beauty parse</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="315" height="239" viewBox="0 0 315 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="middle" x="116.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Nobelium Gasoline</text>
+<path aria-label="thump Fresh virtual: 226; because if: Country" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.21913280653679,171.79469864495394A75,75,0,0,0,151.79065002763048,199.90925102441747L133.17951201326264,165.63644049172038A36,36,0,0,1,84.90518374713766,152.14145534957788Z" fill="#41dadd" stroke="white" stroke-width="2"/>
+<path aria-label="thump Fresh virtual: 196; because if: Provo" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.15447107367035,79.80552490936816A75,75,0,0,0,51.21913280653679,171.79469864495394L84.90518374713766,152.14145534957788A36,36,0,0,1,91.11414611536176,107.98665195649671Z" fill="#6acc9e" stroke="white" stroke-width="2"/>
+<path aria-label="thump Fresh virtual: 188; because if: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M187.87630186794155,112.58044748860186A75,75,0,0,0,116.0,59.0L116.0,98.0A36,36,0,0,1,150.50062489661195,123.71861479452889Z" fill="#1e7cd7" stroke="white" stroke-width="2"/>
+<path aria-label="thump Fresh virtual: 112; because if: dot" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.99999999999999,59.0A75,75,0,0,0,64.15447107367035,79.80552490936816L91.11414611536176,107.98665195649671A36,36,0,0,1,116.0,98.0Z" fill="#f39da4" stroke="white" stroke-width="2"/>
+<path aria-label="thump Fresh virtual: 200; because if: Bedfordshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.79065002763048,199.90925102441747A75,75,0,0,0,187.87630186794155,112.58044748860186L150.50062489661195,123.71861479452889A36,36,0,0,1,133.17951201326264,165.63644049172038Z" fill="#944c0a" stroke="white" stroke-width="2"/>
+<text aria-label="80,103,210,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="91.76964984043552" y="224.67692963611998" font-family="serif" font-size="14px" fill="#41dadd" opacity="1">226</text>
+<text aria-label="15,38,111,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.876822496497667" y="125.46767253542995" font-family="serif" font-size="14px" fill="#6acc9e" opacity="1">196</text>
+<text aria-label="158,181,51,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="169.78981468999964" y="65.8428393323608" font-family="serif" font-size="14px" fill="#1e7cd7" opacity="1">188</text>
+<text aria-label="71,93,40,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="82.48137316198822" y="54.4745448686802" font-family="serif" font-size="14px" fill="#f39da4" opacity="1">112</text>
+<text aria-label="187,210,158,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="199.17846647235677" y="172.37066649494915" font-family="serif" font-size="14px" fill="#944c0a" opacity="1">200</text>
+<path  d="M245.0,40.0A5,5,0,1,1,235.0,40.0A5,5,0,1,1,245.0,40.0" fill="#1e7cd7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M245.0,56.0A5,5,0,1,1,235.0,56.0A5,5,0,1,1,245.0,56.0" fill="#944c0a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M245.0,72.0A5,5,0,1,1,235.0,72.0A5,5,0,1,1,245.0,72.0" fill="#41dadd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M245.0,88.0A5,5,0,1,1,235.0,88.0A5,5,0,1,1,245.0,88.0" fill="#6acc9e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M245.0,104.0A5,5,0,1,1,235.0,104.0A5,5,0,1,1,245.0,104.0" fill="#f39da4" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="250,288,33,44" text-anchor="start" x="250.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="250,316,49,60" text-anchor="start" x="250.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bedfordshire</text>
+<text aria-label="250,288,65,76" text-anchor="start" x="250.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Country</text>
+<text aria-label="250,277,81,92" text-anchor="start" x="250.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Provo</text>
+<text aria-label="250,266,97,108" text-anchor="start" x="250.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">dot</text>
+</svg>

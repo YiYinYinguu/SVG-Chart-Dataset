@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="458" height="270" viewBox="0 0 458 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bronze optimize</text>
+<path aria-label="West fuchsia: 209; Thulium or: how" role="graphics-symbol" aria-roledescription="arc mark"  d="M61.324841991583945,73.02885458727309A75,75,0,0,0,30.191091404230974,128.64956126005762L71.08662810325137,131.57446777122613A34,34,0,0,1,85.20059503618472,106.35974741289712Z" fill="#c98a8b" stroke="white" stroke-width="0"/>
+<path aria-label="West fuchsia: 342; Thulium or: Small" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.191091404230974,128.64956126005762A75,75,0,0,0,89.67375957195463,207.41734368895231L98.0521043392861,167.28252913899172A34,34,0,0,1,71.08662810325137,131.57446777122613Z" fill="#21bc7b" stroke="white" stroke-width="0"/>
+<path aria-label="West fuchsia: 148; Thulium or: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,61.324841991583945,73.02885458727309L85.20059503618472,106.35974741289712A34,34,0,0,1,105.0,100.0Z" fill="#23f33f" stroke="white" stroke-width="0"/>
+<path aria-label="West fuchsia: 252; Thulium or: Franc" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.38069022206912,108.08555530471197A75,75,0,0,0,116.91922008718501,59.95317567570338L110.4033797728572,100.43210630631887A34,34,0,0,1,136.90591290067135,122.25211840480276Z" fill="#cefefe" stroke="white" stroke-width="0"/>
+<path aria-label="West fuchsia: 95; Thulium or: Programmable" role="graphics-symbol" aria-roledescription="arc mark"  d="M89.67375957195463,207.41734368895231A75,75,0,0,0,119.3999919622515,207.60462099275486L111.52799635622068,167.3674281833822A34,34,0,0,1,98.0521043392861,167.28252913899172Z" fill="#6f3aaa" stroke="white" stroke-width="0"/>
+<path aria-label="West fuchsia: 151; Thulium or: Hat" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.0500836073556,154.8275167068249A75,75,0,0,0,175.38069022206912,108.08555530471197L136.90591290067135,122.25211840480276A34,34,0,0,1,137.66270456866786,143.44180757376063Z" fill="#c66c99" stroke="white" stroke-width="0"/>
+<path aria-label="West fuchsia: 261; Thulium or: Pizza" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.3999919622515,207.60462099275486A75,75,0,0,0,177.0500836073556,154.8275167068249L137.66270456866786,143.44180757376063A34,34,0,0,1,111.52799635622068,167.3674281833822Z" fill="#a4caca" stroke="white" stroke-width="0"/>
+<path aria-label="West fuchsia: 38; Thulium or: Cotton" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.91922008718501,59.95317567570338A75,75,0,0,0,105.0,59.0L105.0,100.0A34,34,0,0,1,110.4033797728572,100.43210630631887Z" fill="#3d78f8" stroke="white" stroke-width="0"/>
+<text aria-label="19,33,84,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.46612617510729" y="92.0405793707898" font-family="avenir" font-size="8px" fill="#c98a8b" opacity="1">209</text>
+<text aria-label="26,39,182,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.178449544778445" y="190.23711727413308" font-family="avenir" font-size="8px" fill="#21bc7b" opacity="1">342</text>
+<text aria-label="70,84,42,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="77.47622577274791" y="50.31195035311369" font-family="avenir" font-size="8px" fill="#23f33f" opacity="1">148</text>
+<text aria-label="155,168,58,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.2048986891719" y="66.51907048720793" font-family="avenir" font-size="8px" fill="#cefefe" opacity="1">252</text>
+<text aria-label="99,108,217,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="104.43300507656082" y="225.9982139642604" font-family="avenir" font-size="8px" fill="#6f3aaa" opacity="1">95</text>
+<text aria-label="188,201,124,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.94265430912924" y="132.78768995449178" font-family="avenir" font-size="8px" fill="#c66c99" opacity="1">151</text>
+<text aria-label="159,172,194,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.77214649004537" y="202.38332780896468" font-family="avenir" font-size="8px" fill="#a4caca" opacity="1">261</text>
+<text aria-label="107,116,38,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.17436314163024" y="46.28640842373984" font-family="avenir" font-size="8px" fill="#3d78f8" opacity="1">38</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#3d78f8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,258.25A5,5,0,1,1,66.0,258.25A5,5,0,1,1,76.0,258.25" fill="#cefefe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M129.0,258.25A5,5,0,1,1,119.0,258.25A5,5,0,1,1,129.0,258.25" fill="#c66c99" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M173.0,258.25A5,5,0,1,1,163.0,258.25A5,5,0,1,1,173.0,258.25" fill="#a4caca" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M225.0,258.25A5,5,0,1,1,215.0,258.25A5,5,0,1,1,225.0,258.25" fill="#6f3aaa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M323.0,258.25A5,5,0,1,1,313.0,258.25A5,5,0,1,1,323.0,258.25" fill="#21bc7b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M376.0,258.25A5,5,0,1,1,366.0,258.25A5,5,0,1,1,376.0,258.25" fill="#c98a8b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M424.0,258.25A5,5,0,1,1,414.0,258.25A5,5,0,1,1,424.0,258.25" fill="#23f33f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Cotton</text>
+<text aria-label="81,108,251,262" text-anchor="start" x="81.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Franc</text>
+<text aria-label="134,150,251,262" text-anchor="start" x="134.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hat</text>
+<text aria-label="178,205,251,262" text-anchor="start" x="178.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Pizza</text>
+<text aria-label="230,296,251,262" text-anchor="start" x="230.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Programmable</text>
+<text aria-label="328,355,251,262" text-anchor="start" x="328.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Small</text>
+<text aria-label="381,397,251,262" text-anchor="start" x="381.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">how</text>
+<text aria-label="429,451,251,262" text-anchor="start" x="429.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">male</text>
+</svg>

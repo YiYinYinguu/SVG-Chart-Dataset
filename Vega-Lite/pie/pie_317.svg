@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="305" height="239" viewBox="0 0 305 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="167,232,0,26" text-anchor="middle" x="200.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">after</text>
+<path aria-label="Cliffs Jessy: 311; Cotton: Stage" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.04825697176435,203.59669576699372A75,75,0,0,0,245.44274563749093,193.66537412039165L225.4479375569949,167.41260950741932A42,42,0,0,1,184.34702390418803,172.9741496295165Z" fill="#b49b97" stroke="black" stroke-width="0"/>
+<path aria-label="Cliffs Jessy: 831; Cotton: relationships" role="graphics-symbol" aria-roledescription="arc mark"  d="M200.0,59.0A75,75,0,0,0,172.04825697176435,203.59669576699372L184.34702390418803,172.9741496295165A42,42,0,0,1,200.0,92.0Z" fill="#fbcd5d" stroke="black" stroke-width="0"/>
+<path aria-label="Cliffs Jessy: 750; Cotton: Reggae" role="graphics-symbol" aria-roledescription="arc mark"  d="M245.44274563749093,193.66537412039165A75,75,0,0,0,200.0,59.0L200.0,92.0A42,42,0,0,1,225.4479375569949,167.41260950741932Z" fill="#cc743b" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#cc743b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#b49b97" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#fbcd5d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Reggae</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Stage</text>
+<text aria-label="21,92,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">relationships</text>
+</svg>

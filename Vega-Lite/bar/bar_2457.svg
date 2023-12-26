@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="935" height="315" viewBox="0 0 935 315" style="background-color: rgb(255, 255, 255);">
+<line x1="141.5" y1="40.5" x2="141.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="223.5" y1="40.5" x2="223.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="305.5" y1="40.5" x2="305.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="387.5" y1="40.5" x2="387.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="469.5" y1="40.5" x2="469.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="552.5" y1="40.5" x2="552.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="634.5" y1="40.5" x2="634.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="716.5" y1="40.5" x2="716.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="798.5" y1="40.5" x2="798.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="880.5" y1="40.5" x2="880.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="132,145,247,286" text-anchor="end" x="141.2941176470589" y="247.5" transform="rotate(270.0, 145.2941176470589, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">annual</text>
+<text aria-label="214,227,247,306" text-anchor="end" x="223.4509803921569" y="247.5" transform="rotate(270.0, 227.4509803921569, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">barometer</text>
+<text aria-label="296,309,247,273" text-anchor="end" x="305.6078431372549" y="247.5" transform="rotate(270.0, 309.6078431372549, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">beat</text>
+<text aria-label="378,391,247,280" text-anchor="end" x="387.764705882353" y="247.5" transform="rotate(270.0, 391.764705882353, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">bunch</text>
+<text aria-label="460,473,247,299" text-anchor="end" x="469.921568627451" y="247.5" transform="rotate(270.0, 473.921568627451, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">district</text>
+<text aria-label="543,556,247,293" text-anchor="end" x="552.078431372549" y="247.5" transform="rotate(270.0, 556.078431372549, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">emotion</text>
+<text aria-label="625,638,247,299" text-anchor="end" x="634.2352941176471" y="247.5" transform="rotate(270.0, 638.2352941176471, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">nestling</text>
+<text aria-label="707,720,247,306" text-anchor="end" x="716.3921568627451" y="247.5" transform="rotate(270.0, 720.3921568627451, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">patriarch</text>
+<text aria-label="789,802,247,299" text-anchor="end" x="798.5490196078431" y="247.5" transform="rotate(270.0, 802.5490196078431, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">pegboard</text>
+<text aria-label="871,884,247,280" text-anchor="end" x="880.7058823529411" y="247.5" transform="rotate(270.0, 884.7058823529411, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">slang</text>
+<line aria-label="141,141,240,245" x1="141.5" y1="240.5" x2="141.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="223,223,240,245" x1="223.5" y1="240.5" x2="223.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="305,305,240,245" x1="305.5" y1="240.5" x2="305.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="387,387,240,245" x1="387.5" y1="240.5" x2="387.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="469,469,240,245" x1="469.5" y1="240.5" x2="469.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="552,552,240,245" x1="552.5" y1="240.5" x2="552.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="634,634,240,245" x1="634.5" y1="240.5" x2="634.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="716,716,240,245" x1="716.5" y1="240.5" x2="716.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="798,798,240,245" x1="798.5" y1="240.5" x2="798.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="880,880,240,245" x1="880.5" y1="240.5" x2="880.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="92,930,240,240" x1="92.5" y1="240.5" x2="930.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="374,647,0,26" text-anchor="middle" x="511.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle haptic Taiwan</text>
+<text aria-label="84,90,232,245" text-anchor="end" x="90.5" y="244.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="71,90,182,195" text-anchor="end" x="90.5" y="194.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="71,90,132,145" text-anchor="end" x="90.5" y="144.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="71,90,82,95" text-anchor="end" x="90.5" y="94.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="71,90,32,45" text-anchor="end" x="90.5" y="44.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">800</text>
+<path aria-label="Gardens: pegboard; HTTP Benz Electric: 465; Southeast: Toyota" role="graphics-symbol" aria-roledescription="bar" d="M765.6862745098039,123.74999999999999h65.72549019607843v116.25000000000001h-65.72549019607843Z" fill="#c82cc1"/>
+<path aria-label="Gardens: barometer; HTTP Benz Electric: 293; Southeast: Toyota" role="graphics-symbol" aria-roledescription="bar" d="M190.58823529411768,166.75h65.72549019607843v73.25h-65.72549019607843Z" fill="#c82cc1"/>
+<path aria-label="Gardens: annual; HTTP Benz Electric: 399; Southeast: Toyota" role="graphics-symbol" aria-roledescription="bar" d="M108.43137254901967,140.25h65.72549019607843v99.75h-65.72549019607843Z" fill="#c82cc1"/>
+<path aria-label="Gardens: nestling; HTTP Benz Electric: 228; Southeast: Toyota" role="graphics-symbol" aria-roledescription="bar" d="M601.3725490196078,183.00000000000003h65.72549019607843v56.99999999999997h-65.72549019607843Z" fill="#c82cc1"/>
+<path aria-label="Gardens: slang; HTTP Benz Electric: 772; Southeast: Toyota" role="graphics-symbol" aria-roledescription="bar" d="M847.8431372549019,47.00000000000001h65.72549019607843v193h-65.72549019607843Z" fill="#c82cc1"/>
+<path aria-label="Gardens: bunch; HTTP Benz Electric: 17; Southeast: Toyota" role="graphics-symbol" aria-roledescription="bar" d="M354.90196078431376,235.75h65.72549019607843v4.25h-65.72549019607843Z" fill="#c82cc1"/>
+<path aria-label="Gardens: emotion; HTTP Benz Electric: 33; Southeast: Toyota" role="graphics-symbol" aria-roledescription="bar" d="M519.2156862745098,231.75h65.72549019607843v8.25h-65.72549019607843Z" fill="#c82cc1"/>
+<path aria-label="Gardens: district; HTTP Benz Electric: 266; Southeast: Toyota" role="graphics-symbol" aria-roledescription="bar" d="M437.05882352941177,173.5h65.72549019607843v66.5h-65.72549019607843Z" fill="#c82cc1"/>
+<path aria-label="Gardens: beat; HTTP Benz Electric: 80; Southeast: Toyota" role="graphics-symbol" aria-roledescription="bar" d="M272.7450980392157,220.0h65.72549019607843v20h-65.72549019607843Z" fill="#c82cc1"/>
+<path aria-label="Gardens: patriarch; HTTP Benz Electric: 723; Southeast: Toyota" role="graphics-symbol" aria-roledescription="bar" d="M683.5294117647059,59.249999999999986h65.72549019607843v180.75h-65.72549019607843Z" fill="#c82cc1"/>
+<path  d="M6.0,41.0h10v10h-10Z" fill="#c82cc1" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,39,50" text-anchor="start" x="21.0" y="49.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Toyota</text>
+</svg>

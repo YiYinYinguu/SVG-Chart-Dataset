@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="935" height="332" viewBox="0 0 935 332" style="background-color: rgb(255, 255, 255);">
+<line x1="236.5" y1="234.5" x2="930.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="236.5" y1="198.5" x2="930.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="236.5" y1="161.5" x2="930.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="236.5" y1="125.5" x2="930.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="236.5" y1="89.5" x2="930.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="236.5" y1="52.5" x2="930.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="265,285,241,281" text-anchor="end" x="279.375" y="241.5" transform="rotate(270.0, 285.375, 241.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">blue</text>
+<text aria-label="352,372,241,331" text-anchor="end" x="366.125" y="241.5" transform="rotate(270.0, 372.125, 241.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">exception</text>
+<text aria-label="438,458,241,281" text-anchor="end" x="452.875" y="241.5" transform="rotate(270.0, 458.875, 241.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">mate</text>
+<text aria-label="525,545,241,271" text-anchor="end" x="539.625" y="241.5" transform="rotate(270.0, 545.625, 241.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">med</text>
+<text aria-label="612,632,241,331" text-anchor="end" x="626.375" y="241.5" transform="rotate(270.0, 632.375, 241.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">professor</text>
+<text aria-label="699,719,241,291" text-anchor="end" x="713.125" y="241.5" transform="rotate(270.0, 719.125, 241.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">stove</text>
+<text aria-label="785,805,241,271" text-anchor="end" x="799.875" y="241.5" transform="rotate(270.0, 805.875, 241.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">way</text>
+<text aria-label="872,892,241,291" text-anchor="end" x="886.625" y="241.5" transform="rotate(270.0, 892.625, 241.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">whorl</text>
+<line aria-label="279,279,234,239" x1="279.5" y1="234.5" x2="279.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="366,366,234,239" x1="366.5" y1="234.5" x2="366.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="452,452,234,239" x1="452.5" y1="234.5" x2="452.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="539,539,234,239" x1="539.5" y1="234.5" x2="539.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="626,626,234,239" x1="626.5" y1="234.5" x2="626.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="713,713,234,239" x1="713.5" y1="234.5" x2="713.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="799,799,234,239" x1="799.5" y1="234.5" x2="799.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="886,886,234,239" x1="886.5" y1="234.5" x2="886.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="236,930,234,234" x1="236.5" y1="234.5" x2="930.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="550,615,0,26" text-anchor="middle" x="583.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Steel</text>
+<text aria-label="219,229,221,241" text-anchor="end" x="229.5" y="240.5" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="199,229,185,205" text-anchor="end" x="229.5" y="204.13636363636363" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="199,229,148,168" text-anchor="end" x="229.5" y="167.77272727272725" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="199,229,112,132" text-anchor="end" x="229.5" y="131.40909090909093" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="199,229,76,96" text-anchor="end" x="229.5" y="95.04545454545453" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="179,229,39,59" text-anchor="end" x="229.5" y="58.68181818181819" font-family="monospace" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<line aria-label="231,236,234,234" x1="236.5" y1="234.5" x2="231.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="231,236,198,198" x1="236.5" y1="198.5" x2="231.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="231,236,161,161" x1="236.5" y1="161.5" x2="231.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="231,236,125,125" x1="236.5" y1="125.5" x2="231.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="231,236,89,89" x1="236.5" y1="89.5" x2="231.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="231,236,52,52" x1="236.5" y1="52.5" x2="231.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="ullam National Minivan: exception; North hence: 370; West bankruptcy Wagon: Wooden Directives overriding" role="graphics-symbol" aria-roledescription="bar" d="M346.60625,166.72727272727272h39.0375v67.27272727272728h-39.0375Z" fill="#47aa1a"/>
+<path aria-label="ullam National Minivan: exception; North hence: 370; West bankruptcy Wagon: Tools transmitter scalable" role="graphics-symbol" aria-roledescription="bar" d="M346.60625,99.45454545454545h39.0375v67.27272727272727h-39.0375Z" fill="#7e144b"/>
+<path aria-label="ullam National Minivan: way; North hence: 475; West bankruptcy Wagon: Wooden Directives overriding" role="graphics-symbol" aria-roledescription="bar" d="M780.3562499999999,147.63636363636363h39.0375v86.36363636363637h-39.0375Z" fill="#47aa1a"/>
+<path aria-label="ullam National Minivan: way; North hence: 250; West bankruptcy Wagon: Tools transmitter scalable" role="graphics-symbol" aria-roledescription="bar" d="M780.3562499999999,102.18181818181819h39.0375v45.45454545454544h-39.0375Z" fill="#7e144b"/>
+<path aria-label="ullam National Minivan: whorl; North hence: 555; West bankruptcy Wagon: Wooden Directives overriding" role="graphics-symbol" aria-roledescription="bar" d="M867.1062499999999,133.0909090909091h39.0375v100.9090909090909h-39.0375Z" fill="#47aa1a"/>
+<path aria-label="ullam National Minivan: whorl; North hence: 488; West bankruptcy Wagon: Tools transmitter scalable" role="graphics-symbol" aria-roledescription="bar" d="M867.1062499999999,44.36363636363635h39.0375v88.72727272727275h-39.0375Z" fill="#7e144b"/>
+<path aria-label="ullam National Minivan: professor; North hence: 353; West bankruptcy Wagon: Wooden Directives overriding" role="graphics-symbol" aria-roledescription="bar" d="M606.85625,169.8181818181818h39.0375v64.18181818181819h-39.0375Z" fill="#47aa1a"/>
+<path aria-label="ullam National Minivan: professor; North hence: 677; West bankruptcy Wagon: Tools transmitter scalable" role="graphics-symbol" aria-roledescription="bar" d="M606.85625,46.72727272727272h39.0375v123.0909090909091h-39.0375Z" fill="#7e144b"/>
+<path aria-label="ullam National Minivan: blue; North hence: 781; West bankruptcy Wagon: Wooden Directives overriding" role="graphics-symbol" aria-roledescription="bar" d="M259.85625,92.0h39.0375v142h-39.0375Z" fill="#47aa1a"/>
+<path aria-label="ullam National Minivan: blue; North hence: 68; West bankruptcy Wagon: Tools transmitter scalable" role="graphics-symbol" aria-roledescription="bar" d="M259.85625,79.63636363636363h39.0375v12.363636363636374h-39.0375Z" fill="#7e144b"/>
+<path aria-label="ullam National Minivan: stove; North hence: 638; West bankruptcy Wagon: Wooden Directives overriding" role="graphics-symbol" aria-roledescription="bar" d="M693.60625,118.00000000000001h39.0375v115.99999999999999h-39.0375Z" fill="#47aa1a"/>
+<path aria-label="ullam National Minivan: stove; North hence: 284; West bankruptcy Wagon: Tools transmitter scalable" role="graphics-symbol" aria-roledescription="bar" d="M693.60625,66.36363636363637h39.0375v51.63636363636364h-39.0375Z" fill="#7e144b"/>
+<path aria-label="ullam National Minivan: mate; North hence: 52; West bankruptcy Wagon: Wooden Directives overriding" role="graphics-symbol" aria-roledescription="bar" d="M433.35625,224.54545454545456h39.0375v9.454545454545439h-39.0375Z" fill="#47aa1a"/>
+<path aria-label="ullam National Minivan: mate; North hence: 204; West bankruptcy Wagon: Tools transmitter scalable" role="graphics-symbol" aria-roledescription="bar" d="M433.35625,187.45454545454547h39.0375v37.09090909090909h-39.0375Z" fill="#7e144b"/>
+<path aria-label="ullam National Minivan: med; North hence: 153; West bankruptcy Wagon: Wooden Directives overriding" role="graphics-symbol" aria-roledescription="bar" d="M520.10625,206.18181818181816h39.0375v27.81818181818184h-39.0375Z" fill="#47aa1a"/>
+<path aria-label="ullam National Minivan: med; North hence: 55; West bankruptcy Wagon: Tools transmitter scalable" role="graphics-symbol" aria-roledescription="bar" d="M520.10625,196.1818181818182h39.0375v9.999999999999972h-39.0375Z" fill="#7e144b"/>
+<path  d="M6.0,51.0h10v10h-10Z" fill="#47aa1a" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,64.0h10v10h-10Z" fill="#7e144b" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,175,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Wooden Directives overriding</text>
+<text aria-label="21,164,62,73" text-anchor="start" x="21.0" y="72.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Tools transmitter scalable</text>
+<text aria-label="5,131,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">West bankruptcy Wagon</text>
+</svg>

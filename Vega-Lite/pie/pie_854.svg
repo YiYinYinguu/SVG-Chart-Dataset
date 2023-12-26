@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="237" height="286" viewBox="0 0 237 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="89,232,0,26" text-anchor="end" x="232.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">black Curve</text>
+<path aria-label="olive: 26; online vertical Neutrois: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.1319945679861,121.09922315766455A75,75,0,0,0,105.0,106.0L105.0,124.0A57,57,0,0,1,139.30031587166945,135.47540959982507Z" fill="#40dfa0" stroke="black" stroke-width="1"/>
+<path aria-label="olive: 84; online vertical Neutrois: Estonia" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.16172302778155,141.63409605739602A75,75,0,0,0,102.20673963743428,255.9479665938104L102.87712212445005,237.96045461129592A57,57,0,0,1,56.48290950111397,151.08191300362097Z" fill="#2fb21e" stroke="black" stroke-width="1"/>
+<path aria-label="olive: 41; online vertical Neutrois: Gloves" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,41.16172302778155,141.63409605739602L56.48290950111397,151.08191300362097A57,57,0,0,1,104.99999999999999,124.0Z" fill="#409e42" stroke="black" stroke-width="1"/>
+<path aria-label="olive: 102; online vertical Neutrois: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M102.20673963743428,255.9479665938104A75,75,0,0,0,150.1319945679861,121.09922315766455L139.30031587166945,135.47540959982507A57,57,0,0,1,102.87712212445005,237.96045461129592Z" fill="#c994ed" stroke="black" stroke-width="1"/>
+<text aria-label="128,139,88,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.55447513987758" y="98.64988606049718" font-family="Balto" font-size="10px" fill="#40dfa0" opacity="1">26</text>
+<text aria-label="20,31,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.610629204781915" y="226.39490305142084" font-family="Balto" font-size="10px" fill="#2fb21e" opacity="1">84</text>
+<text aria-label="55,66,95,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="61.13382639094919" y="105.41400370994452" font-family="Balto" font-size="10px" fill="#409e42" opacity="1">41</text>
+<text aria-label="181,198,204,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.80348299069385" y="214.13916509538876" font-family="Balto" font-size="10px" fill="#c994ed" opacity="1">102</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#40dfa0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M86.0,56.25A5,5,0,1,1,76.0,56.25A5,5,0,1,1,86.0,56.25" fill="#c994ed" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M133.0,56.25A5,5,0,1,1,123.0,56.25A5,5,0,1,1,133.0,56.25" fill="#2fb21e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M195.0,56.25A5,5,0,1,1,185.0,56.25A5,5,0,1,1,195.0,56.25" fill="#409e42" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="91,113,49,60" text-anchor="start" x="91.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="138,176,49,60" text-anchor="start" x="138.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Estonia</text>
+<text aria-label="200,233,49,60" text-anchor="start" x="200.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Gloves</text>
+<text aria-label="5,149,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">online vertical Neutrois</text>
+</svg>

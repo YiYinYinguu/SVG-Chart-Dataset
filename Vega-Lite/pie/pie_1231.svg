@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">farad Gloves</text>
+<path aria-label="Northwest Electronic: 245; Utah extranet Trail: Rover" role="graphics-symbol" aria-roledescription="arc mark"  d="M249.0885307591975,167.5280336520382A75,75,0,0,0,254.6767339163452,115.47724784885465L216.88483227984568,125.10907896745023A36,36,0,0,1,214.2024947644148,150.09345615297835Z" fill="#0fe8f0" stroke="black" stroke-width="4"/>
+<path aria-label="Northwest Electronic: 640; Utah extranet Trail: common" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.5921792467708,188.60985227414423A75,75,0,0,0,249.0885307591975,167.5280336520382L214.2024947644148,150.09345615297835A36,36,0,0,1,157.32424603844999,160.21272909158924Z" fill="#c66a2c" stroke="black" stroke-width="4"/>
+<path aria-label="Northwest Electronic: 308; Utah extranet Trail: panel" role="graphics-symbol" aria-roledescription="arc mark"  d="M182.0,59.0A75,75,0,0,0,123.42100756983523,87.16516631964305L153.8820836335209,111.51927983342867A36,36,0,0,1,182.0,98.0Z" fill="#bf8f12" stroke="black" stroke-width="4"/>
+<path aria-label="Northwest Electronic: 512; Utah extranet Trail: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.42100756983523,87.16516631964305A75,75,0,0,0,130.5921792467708,188.60985227414423L157.32424603844999,160.21272909158924A36,36,0,0,1,153.8820836335209,111.51927983342867Z" fill="#c92ea6" stroke="black" stroke-width="4"/>
+<path aria-label="Northwest Electronic: 454; Utah extranet Trail: Agent" role="graphics-symbol" aria-roledescription="arc mark"  d="M254.6767339163452,115.47724784885465A75,75,0,0,0,182.0,59.0L182.0,98.0A36,36,0,0,1,216.88483227984568,125.10907896745023Z" fill="#4f06db" stroke="black" stroke-width="4"/>
+<text aria-label="260,282,133,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.48575788648844" y="147.60724390659325" font-family="Balto" font-size="14px" fill="#0fe8f0" opacity="1">245</text>
+<text aria-label="186,209,212,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="197.76445328498244" y="226.60858881973917" font-family="Balto" font-size="14px" fill="#c66a2c" opacity="1">640</text>
+<text aria-label="131,154,42,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.00103871561805" y="56.888465562909744" font-family="Balto" font-size="14px" fill="#bf8f12" opacity="1">308</text>
+<text aria-label="80,103,130,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.22403207008779" y="144.3463046135035" font-family="Balto" font-size="14px" fill="#c92ea6" opacity="1">512</text>
+<text aria-label="225,248,52,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="237.2247352536719" y="66.93503946274332" font-family="Balto" font-size="14px" fill="#4f06db" opacity="1">454</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#4f06db" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#0fe8f0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#c66a2c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c92ea6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#bf8f12" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Agent</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Rover</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">common</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">panel</text>
+</svg>

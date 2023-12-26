@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="432" height="331" viewBox="0 0 432 331" style="background-color: rgb(255, 255, 255);">
+<line x1="31.5" y1="263.5" x2="427.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="31.5" y1="219.5" x2="427.5" y2="219.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="31.5" y1="174.5" x2="427.5" y2="174.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="31.5" y1="130.5" x2="427.5" y2="130.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="31.5" y1="85.5" x2="427.5" y2="85.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="43,58,270,315" text-anchor="end" x="54.29411764705881" y="270.5" transform="rotate(270.0, 58.29411764705881, 270.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">blight</text>
+<text aria-label="82,97,270,323" text-anchor="end" x="93.11764705882351" y="270.5" transform="rotate(270.0, 97.11764705882351, 270.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">charset</text>
+<text aria-label="120,135,270,308" text-anchor="end" x="131.94117647058823" y="270.5" transform="rotate(270.0, 135.94117647058823, 270.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">donut</text>
+<text aria-label="159,174,270,323" text-anchor="end" x="170.76470588235293" y="270.5" transform="rotate(270.0, 174.76470588235293, 270.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">hacksaw</text>
+<text aria-label="198,213,270,300" text-anchor="end" x="209.58823529411762" y="270.5" transform="rotate(270.0, 213.58823529411762, 270.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">kind</text>
+<text aria-label="237,252,270,315" text-anchor="end" x="248.41176470588232" y="270.5" transform="rotate(270.0, 252.41176470588232, 270.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">player</text>
+<text aria-label="276,291,270,323" text-anchor="end" x="287.235294117647" y="270.5" transform="rotate(270.0, 291.235294117647, 270.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">primary</text>
+<text aria-label="315,330,270,323" text-anchor="end" x="326.0588235294117" y="270.5" transform="rotate(270.0, 330.0588235294117, 270.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">railway</text>
+<text aria-label="353,368,270,308" text-anchor="end" x="364.8823529411764" y="270.5" transform="rotate(270.0, 368.8823529411764, 270.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">trash</text>
+<text aria-label="392,407,270,323" text-anchor="end" x="403.7058823529411" y="270.5" transform="rotate(270.0, 407.7058823529411, 270.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">wingman</text>
+<line aria-label="54,54,263,268" x1="54.5" y1="263.5" x2="54.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="93,93,263,268" x1="93.5" y1="263.5" x2="93.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="131,131,263,268" x1="131.5" y1="263.5" x2="131.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="170,170,263,268" x1="170.5" y1="263.5" x2="170.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="209,209,263,268" x1="209.5" y1="263.5" x2="209.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="248,248,263,268" x1="248.5" y1="263.5" x2="248.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="287,287,263,268" x1="287.5" y1="263.5" x2="287.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="326,326,263,268" x1="326.5" y1="263.5" x2="326.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="364,364,263,268" x1="364.5" y1="263.5" x2="364.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="403,403,263,268" x1="403.5" y1="263.5" x2="403.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,427,263,263" x1="31.5" y1="263.5" x2="427.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,31,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">ew</text>
+<text aria-label="22,29,253,268" text-anchor="end" x="29.5" y="267.5" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="7,29,209,224" text-anchor="end" x="29.5" y="223.05555555555557" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="7,29,164,179" text-anchor="end" x="29.5" y="178.61111111111111" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="7,29,120,135" text-anchor="end" x="29.5" y="134.16666666666669" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="7,29,75,90" text-anchor="end" x="29.5" y="89.72222222222223" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">800</text>
+<path aria-label="pricing Hydrogen Flat: blight; lime Ergonomic pink: 346; Nihonium yet: synthesizing female male" role="graphics-symbol" aria-roledescription="bar" d="M38.76470588235293,186.11111111111114h31.058823529411764v76.88888888888887h-31.058823529411764Z" fill="#51fbb4"/>
+<path aria-label="pricing Hydrogen Flat: railway; lime Ergonomic pink: 553; Nihonium yet: synthesizing female male" role="graphics-symbol" aria-roledescription="bar" d="M310.52941176470586,140.11111111111111h31.058823529411764v122.88888888888889h-31.058823529411764Z" fill="#51fbb4"/>
+<path aria-label="pricing Hydrogen Flat: player; lime Ergonomic pink: 183; Nihonium yet: synthesizing female male" role="graphics-symbol" aria-roledescription="bar" d="M232.88235294117644,222.33333333333331h31.058823529411764v40.666666666666686h-31.058823529411764Z" fill="#51fbb4"/>
+<path aria-label="pricing Hydrogen Flat: charset; lime Ergonomic pink: 868; Nihonium yet: synthesizing female male" role="graphics-symbol" aria-roledescription="bar" d="M77.58823529411762,70.11111111111111h31.058823529411764v192.88888888888889h-31.058823529411764Z" fill="#51fbb4"/>
+<path aria-label="pricing Hydrogen Flat: primary; lime Ergonomic pink: 306; Nihonium yet: synthesizing female male" role="graphics-symbol" aria-roledescription="bar" d="M271.70588235294116,194.99999999999997h31.058823529411764v68.00000000000003h-31.058823529411764Z" fill="#51fbb4"/>
+<path aria-label="pricing Hydrogen Flat: hacksaw; lime Ergonomic pink: 296; Nihonium yet: synthesizing female male" role="graphics-symbol" aria-roledescription="bar" d="M155.23529411764704,197.22222222222223h31.058823529411764v65.77777777777777h-31.058823529411764Z" fill="#51fbb4"/>
+<path aria-label="pricing Hydrogen Flat: trash; lime Ergonomic pink: 228; Nihonium yet: synthesizing female male" role="graphics-symbol" aria-roledescription="bar" d="M349.35294117647055,212.33333333333331h31.058823529411764v50.666666666666686h-31.058823529411764Z" fill="#51fbb4"/>
+<path aria-label="pricing Hydrogen Flat: kind; lime Ergonomic pink: 288; Nihonium yet: synthesizing female male" role="graphics-symbol" aria-roledescription="bar" d="M194.05882352941174,199.0h31.058823529411764v64h-31.058823529411764Z" fill="#51fbb4"/>
+<path aria-label="pricing Hydrogen Flat: wingman; lime Ergonomic pink: 556; Nihonium yet: synthesizing female male" role="graphics-symbol" aria-roledescription="bar" d="M388.17647058823525,139.44444444444446h31.058823529411764v123.55555555555556h-31.058823529411764Z" fill="#51fbb4"/>
+<path aria-label="pricing Hydrogen Flat: donut; lime Ergonomic pink: 49; Nihonium yet: synthesizing female male" role="graphics-symbol" aria-roledescription="bar" d="M116.41176470588233,252.11111111111111h31.058823529411764v10.888888888888886h-31.058823529411764Z" fill="#51fbb4"/>
+<text aria-label="47,61,174,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.29411764705881" y="183.17111111111114" font-family="monospace" font-size="8.485714285714284px" fill="#000" opacity="1">346</text>
+<text aria-label="318,333,128,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="326.0588235294117" y="137.17111111111112" font-family="monospace" font-size="8.485714285714284px" fill="#000" opacity="1">553</text>
+<text aria-label="241,255,210,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="248.41176470588232" y="219.39333333333332" font-family="monospace" font-size="8.485714285714284px" fill="#000" opacity="1">183</text>
+<text aria-label="86,100,58,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="93.11764705882351" y="67.17111111111112" font-family="monospace" font-size="8.485714285714284px" fill="#000" opacity="1">868</text>
+<text aria-label="280,294,183,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="287.235294117647" y="192.05999999999997" font-family="monospace" font-size="8.485714285714284px" fill="#000" opacity="1">306</text>
+<text aria-label="163,177,185,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.76470588235293" y="194.28222222222223" font-family="monospace" font-size="8.485714285714284px" fill="#000" opacity="1">296</text>
+<text aria-label="357,371,200,210" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="364.8823529411764" y="209.39333333333332" font-family="monospace" font-size="8.485714285714284px" fill="#000" opacity="1">228</text>
+<text aria-label="202,216,187,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="209.58823529411762" y="196.06" font-family="monospace" font-size="8.485714285714284px" fill="#000" opacity="1">288</text>
+<text aria-label="396,410,128,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="403.7058823529411" y="136.50444444444446" font-family="monospace" font-size="8.485714285714284px" fill="#000" opacity="1">556</text>
+<text aria-label="127,136,240,250" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.94117647058823" y="249.17111111111112" font-family="monospace" font-size="8.485714285714284px" fill="#000" opacity="1">49</text>
+<path  d="M32.0,35.0h10v10h-10Z" fill="#51fbb4" stroke-width="1.5" opacity="1"/>
+<text aria-label="47,179,33,44" text-anchor="start" x="47.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">synthesizing female male</text>
+</svg>

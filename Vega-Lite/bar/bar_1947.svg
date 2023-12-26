@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="748" height="326" viewBox="0 0 748 326" style="background-color: rgb(255, 255, 255);">
+<line x1="205.5" y1="34.5" x2="205.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="240.5" y1="34.5" x2="240.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="274.5" y1="34.5" x2="274.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="309.5" y1="34.5" x2="309.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="344.5" y1="34.5" x2="344.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="378.5" y1="34.5" x2="378.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="413.5" y1="34.5" x2="413.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="448.5" y1="34.5" x2="448.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="482.5" y1="34.5" x2="482.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="517.5" y1="34.5" x2="517.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="552.5" y1="34.5" x2="552.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="586.5" y1="34.5" x2="586.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="621.5" y1="34.5" x2="621.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="656.5" y1="34.5" x2="656.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="690.5" y1="34.5" x2="690.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="725.5" y1="34.5" x2="725.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="188.5" y1="234.5" x2="743.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="188.5" y1="196.5" x2="743.5" y2="196.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="188.5" y1="157.5" x2="743.5" y2="157.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="188.5" y1="119.5" x2="743.5" y2="119.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="188.5" y1="80.5" x2="743.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="188.5" y1="42.5" x2="743.5" y2="42.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="194,210,241,313" text-anchor="end" x="205.34375" y="241.5" transform="rotate(270.0, 210.34375, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">admission</text>
+<text aria-label="229,245,241,297" text-anchor="end" x="240.03125" y="241.5" transform="rotate(270.0, 245.03125, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">arrival</text>
+<text aria-label="263,279,241,297" text-anchor="end" x="274.71875" y="241.5" transform="rotate(270.0, 279.71875, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">barrier</text>
+<text aria-label="298,314,241,273" text-anchor="end" x="309.40625" y="241.5" transform="rotate(270.0, 314.40625, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">bulk</text>
+<text aria-label="333,349,241,305" text-anchor="end" x="344.09375" y="241.5" transform="rotate(270.0, 349.09375, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">chairman</text>
+<text aria-label="367,383,241,305" text-anchor="end" x="378.78125" y="241.5" transform="rotate(270.0, 383.78125, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">checking</text>
+<text aria-label="402,418,241,265" text-anchor="end" x="413.46875" y="241.5" transform="rotate(270.0, 418.46875, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">due</text>
+<text aria-label="437,453,241,273" text-anchor="end" x="448.15625" y="241.5" transform="rotate(270.0, 453.15625, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">exit</text>
+<text aria-label="471,487,241,273" text-anchor="end" x="482.84375" y="241.5" transform="rotate(270.0, 487.84375, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">hand</text>
+<text aria-label="506,522,241,289" text-anchor="end" x="517.53125" y="241.5" transform="rotate(270.0, 522.53125, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">influx</text>
+<text aria-label="541,557,241,321" text-anchor="end" x="552.21875" y="241.5" transform="rotate(270.0, 557.21875, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">punishment</text>
+<text aria-label="575,591,241,281" text-anchor="end" x="586.90625" y="241.5" transform="rotate(270.0, 591.90625, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">stool</text>
+<text aria-label="610,626,241,289" text-anchor="end" x="621.59375" y="241.5" transform="rotate(270.0, 626.59375, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">stress</text>
+<text aria-label="645,661,241,281" text-anchor="end" x="656.28125" y="241.5" transform="rotate(270.0, 661.28125, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">tenth</text>
+<text aria-label="679,695,241,273" text-anchor="end" x="690.96875" y="241.5" transform="rotate(270.0, 695.96875, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">wait</text>
+<text aria-label="714,730,241,297" text-anchor="end" x="725.65625" y="241.5" transform="rotate(270.0, 730.65625, 241.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">webpage</text>
+<line aria-label="205,205,234,239" x1="205.5" y1="234.5" x2="205.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="240,240,234,239" x1="240.5" y1="234.5" x2="240.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="274,274,234,239" x1="274.5" y1="234.5" x2="274.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="309,309,234,239" x1="309.5" y1="234.5" x2="309.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="344,344,234,239" x1="344.5" y1="234.5" x2="344.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="378,378,234,239" x1="378.5" y1="234.5" x2="378.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="413,413,234,239" x1="413.5" y1="234.5" x2="413.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="448,448,234,239" x1="448.5" y1="234.5" x2="448.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="482,482,234,239" x1="482.5" y1="234.5" x2="482.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="517,517,234,239" x1="517.5" y1="234.5" x2="517.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="552,552,234,239" x1="552.5" y1="234.5" x2="552.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="586,586,234,239" x1="586.5" y1="234.5" x2="586.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="621,621,234,239" x1="621.5" y1="234.5" x2="621.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="656,656,234,239" x1="656.5" y1="234.5" x2="656.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="690,690,234,239" x1="690.5" y1="234.5" x2="690.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="725,725,234,239" x1="725.5" y1="234.5" x2="725.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="188,743,234,234" x1="188.5" y1="234.5" x2="743.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,265,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">North Gloves invoice</text>
+<text aria-label="178,186,224,240" text-anchor="end" x="186.5" y="239.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="170,186,186,202" text-anchor="end" x="186.5" y="201.03846153846155" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="162,186,147,163" text-anchor="end" x="186.5" y="162.5769230769231" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="162,186,109,125" text-anchor="end" x="186.5" y="124.11538461538463" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="162,186,70,86" text-anchor="end" x="186.5" y="85.65384615384615" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="162,186,32,48" text-anchor="end" x="186.5" y="47.192307692307686" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">250</text>
+<text aria-label="141,153,116,152" text-anchor="middle" x="155.5" y="134.5" transform="rotate(-90.0, 153.5, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">violet</text>
+<path aria-label="Northwest grey Wooden: wait; violet: 59; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M676.9203125,115.53846153846153h28.096875v45.38461538461539h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: wait; violet: 95; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M676.9203125,160.9230769230769h28.096875v73.07692307692308h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: influx; violet: 18; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M503.4828125,170.92307692307693h28.096875v13.84615384615384h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: influx; violet: 64; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M503.4828125,184.76923076923077h28.096875v49.230769230769226h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: admission; violet: 64; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M191.2953125,155.53846153846155h28.096875v49.230769230769226h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: admission; violet: 38; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M191.2953125,204.76923076923077h28.096875v29.230769230769226h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: punishment; violet: 55; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M538.1703125,91.69230769230768h28.096875v42.307692307692314h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: punishment; violet: 130; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M538.1703125,134.0h28.096875v100h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: stress; violet: 38; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M607.5453125,124.76923076923077h28.096875v29.230769230769226h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: stress; violet: 104; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M607.5453125,154.0h28.096875v80h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: arrival; violet: 125; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M225.9828125,43.23076923076922h28.096875v96.15384615384616h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: arrival; violet: 123; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M225.9828125,139.3846153846154h28.096875v94.61538461538461h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: chairman; violet: 91; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M330.0453125,161.69230769230768h28.096875v70.00000000000003h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: chairman; violet: 3; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M330.0453125,231.6923076923077h28.096875v2.3076923076922924h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: webpage; violet: 86; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M711.6078125,101.6923076923077h28.096875v66.15384615384617h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: webpage; violet: 86; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M711.6078125,167.84615384615387h28.096875v66.15384615384613h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: hand; violet: 67; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M468.7953125,61.69230769230768h28.096875v51.53846153846156h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: hand; violet: 157; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M468.7953125,113.23076923076924h28.096875v120.76923076923076h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: bulk; violet: 83; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M295.3578125,156.30769230769232h28.096875v63.84615384615384h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: bulk; violet: 18; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M295.3578125,220.15384615384616h28.096875v13.84615384615384h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: tenth; violet: 44; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M642.2328125,188.6153846153846h28.096875v33.84615384615384h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: tenth; violet: 15; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M642.2328125,222.46153846153845h28.096875v11.538461538461547h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: exit; violet: 105; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M434.1078125,80.15384615384615h28.096875v80.76923076923077h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: exit; violet: 95; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M434.1078125,160.9230769230769h28.096875v73.07692307692308h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: barrier; violet: 63; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M260.6703125,70.92307692307693h28.096875v48.46153846153846h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: barrier; violet: 149; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M260.6703125,119.38461538461539h28.096875v114.61538461538461h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: due; violet: 31; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M399.4203125,150.9230769230769h28.096875v23.84615384615384h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: due; violet: 77; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M399.4203125,174.76923076923075h28.096875v59.230769230769255h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: checking; violet: 16; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M364.7328125,147.0769230769231h28.096875v12.307692307692307h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: checking; violet: 97; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M364.7328125,159.3846153846154h28.096875v74.61538461538461h-28.096875Z" fill="#cf48cd"/>
+<path aria-label="Northwest grey Wooden: stool; violet: 120; Faso Genderqueer: Folding brand portals" role="graphics-symbol" aria-roledescription="bar" d="M572.8578125,90.92307692307692h28.096875v92.3076923076923h-28.096875Z" fill="#c02f3c"/>
+<path aria-label="Northwest grey Wooden: stool; violet: 66; Faso Genderqueer: purple" role="graphics-symbol" aria-roledescription="bar" d="M572.8578125,183.23076923076923h28.096875v50.769230769230774h-28.096875Z" fill="#cf48cd"/>
+<path  d="M6.0,35.0h10v10h-10Z" fill="#c02f3c" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,48.0h10v10h-10Z" fill="#cf48cd" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,136,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Folding brand portals</text>
+<text aria-label="21,54,46,57" text-anchor="start" x="21.0" y="56.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">purple</text>
+</svg>

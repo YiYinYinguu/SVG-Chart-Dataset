@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="266" height="270" viewBox="0 0 266 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="209,261,0,26" text-anchor="end" x="261.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Folk</text>
+<path aria-label="Chad World: 250; Southwest: yippee" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,33.091820527747075,155.31229046785595L65.69019522183507,145.65071878909458A41,41,0,0,1,104.99999999999999,93.0Z" fill="#78abaf" stroke="white" stroke-width="1"/>
+<path aria-label="Chad World: 51; Southwest: lavender" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.091820527747075,155.31229046785595A75,75,0,0,0,46.09044253040463,180.4183588544063L72.79610858328786,159.37536950707545A41,41,0,0,1,65.69019522183507,145.65071878909458Z" fill="#7a9d9b" stroke="white" stroke-width="1"/>
+<path aria-label="Chad World: 229; Southwest: briskly" role="graphics-symbol" aria-roledescription="arc mark"  d="M46.09044253040463,180.4183588544063A75,75,0,0,0,158.7672155777186,186.28849327547252L134.39274451581952,162.58437632392497A41,41,0,0,1,72.79610858328786,159.37536950707545Z" fill="#fdbf18" stroke="white" stroke-width="1"/>
+<path aria-label="Chad World: 315; Southwest: Handmade" role="graphics-symbol" aria-roledescription="arc mark"  d="M158.7672155777186,186.28849327547252A75,75,0,0,0,105.0,59.0L105.0,93.0A41,41,0,0,1,134.39274451581952,162.58437632392497Z" fill="#3582aa" stroke="white" stroke-width="1"/>
+<text aria-label="25,40,74,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="32.88298615954609" y="83.15637164217313" font-family="sans-serif" font-size="9px" fill="#78abaf" opacity="1">250</text>
+<text aria-label="20,30,169,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.07694832759428" y="178.380017053766" font-family="sans-serif" font-size="9px" fill="#7a9d9b" opacity="1">51</text>
+<text aria-label="92,107,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.31760990822411" y="226.87811314790957" font-family="sans-serif" font-size="9px" fill="#fdbf18" opacity="1">229</text>
+<text aria-label="180,195,92,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.90704817369578" y="101.9797006991019" font-family="sans-serif" font-size="9px" fill="#3582aa" opacity="1">315</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#3582aa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M96.0,258.25A5,5,0,1,1,86.0,258.25A5,5,0,1,1,96.0,258.25" fill="#fdbf18" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M154.0,258.25A5,5,0,1,1,144.0,258.25A5,5,0,1,1,154.0,258.25" fill="#7a9d9b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M223.0,258.25A5,5,0,1,1,213.0,258.25A5,5,0,1,1,223.0,258.25" fill="#78abaf" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Handmade</text>
+<text aria-label="101,139,251,262" text-anchor="start" x="101.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">briskly</text>
+<text aria-label="159,203,251,262" text-anchor="start" x="159.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">lavender</text>
+<text aria-label="228,261,251,262" text-anchor="start" x="228.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">yippee</text>
+</svg>

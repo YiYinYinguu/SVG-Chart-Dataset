@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="402" height="296" viewBox="0 0 402 296" style="background-color: rgb(255, 255, 255);">
+<line x1="36.5" y1="240.5" x2="397.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="190.5" x2="397.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="140.5" x2="397.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="90.5" x2="397.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="40.5" x2="397.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="49,61,247,265" text-anchor="end" x="58.5625" y="247.5" transform="rotate(270.0, 61.5625, 247.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">ash</text>
+<text aria-label="94,106,247,271" text-anchor="end" x="103.6875" y="247.5" transform="rotate(270.0, 106.6875, 247.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">flan</text>
+<text aria-label="139,151,247,271" text-anchor="end" x="148.8125" y="247.5" transform="rotate(270.0, 151.8125, 247.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">poll</text>
+<text aria-label="184,196,247,277" text-anchor="end" x="193.9375" y="247.5" transform="rotate(270.0, 196.9375, 247.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">quart</text>
+<text aria-label="230,242,247,271" text-anchor="end" x="239.0625" y="247.5" transform="rotate(270.0, 242.0625, 247.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">role</text>
+<text aria-label="275,287,247,277" text-anchor="end" x="284.1875" y="247.5" transform="rotate(270.0, 287.1875, 247.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">stuff</text>
+<text aria-label="320,332,247,271" text-anchor="end" x="329.3125" y="247.5" transform="rotate(270.0, 332.3125, 247.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">verb</text>
+<text aria-label="365,377,247,289" text-anchor="end" x="374.4375" y="247.5" transform="rotate(270.0, 377.4375, 247.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">volcano</text>
+<line aria-label="58,58,240,245" x1="58.5" y1="240.5" x2="58.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="103,103,240,245" x1="103.5" y1="240.5" x2="103.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="148,148,240,245" x1="148.5" y1="240.5" x2="148.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="193,193,240,245" x1="193.5" y1="240.5" x2="193.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="239,239,240,245" x1="239.5" y1="240.5" x2="239.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="284,284,240,245" x1="284.5" y1="240.5" x2="284.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="329,329,240,245" x1="329.5" y1="240.5" x2="329.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="374,374,240,245" x1="374.5" y1="240.5" x2="374.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,397,240,240" x1="36.5" y1="240.5" x2="397.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="171,262,0,26" text-anchor="middle" x="216.5" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Borders</text>
+<text aria-label="28,34,232,244" text-anchor="end" x="34.5" y="243.5" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="16,34,182,194" text-anchor="end" x="34.5" y="193.5" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="4,34,132,144" text-anchor="end" x="34.5" y="143.5" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="4,34,82,94" text-anchor="end" x="34.5" y="93.5" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<text aria-label="4,34,32,44" text-anchor="end" x="34.5" y="43.5" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">2,000</text>
+<line aria-label="36,36,40,240" x1="36.5" y1="240.5" x2="36.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="picket: role; male: 469; Cis female invoice: steradian" role="graphics-symbol" aria-roledescription="bar" d="M224.84812499999998,156.10000000000002h28.428750000000004v46.89999999999999h-28.428750000000004Z" fill="#9b15a6"/>
+<path aria-label="picket: role; male: 370; Cis female invoice: superficial um" role="graphics-symbol" aria-roledescription="bar" d="M224.84812499999998,203.0h28.428750000000004v37h-28.428750000000004Z" fill="#7c9fc6"/>
+<path aria-label="picket: role; male: 938; Cis female invoice: Small Funk monitor" role="graphics-symbol" aria-roledescription="bar" d="M224.84812499999998,62.30000000000001h28.428750000000004v93.8h-28.428750000000004Z" fill="#cfc9a2"/>
+<path aria-label="picket: ash; male: 323; Cis female invoice: steradian" role="graphics-symbol" aria-roledescription="bar" d="M44.348124999999996,165.4h28.428750000000004v32.29999999999998h-28.428750000000004Z" fill="#9b15a6"/>
+<path aria-label="picket: ash; male: 423; Cis female invoice: superficial um" role="graphics-symbol" aria-roledescription="bar" d="M44.348124999999996,197.7h28.428750000000004v42.30000000000001h-28.428750000000004Z" fill="#7c9fc6"/>
+<path aria-label="picket: ash; male: 482; Cis female invoice: Small Funk monitor" role="graphics-symbol" aria-roledescription="bar" d="M44.348124999999996,117.2h28.428750000000004v48.2h-28.428750000000004Z" fill="#cfc9a2"/>
+<path aria-label="picket: flan; male: 452; Cis female invoice: steradian" role="graphics-symbol" aria-roledescription="bar" d="M89.473125,143.10000000000002h28.428750000000004v45.2h-28.428750000000004Z" fill="#9b15a6"/>
+<path aria-label="picket: flan; male: 517; Cis female invoice: superficial um" role="graphics-symbol" aria-roledescription="bar" d="M89.473125,188.3h28.428750000000004v51.69999999999999h-28.428750000000004Z" fill="#7c9fc6"/>
+<path aria-label="picket: flan; male: 958; Cis female invoice: Small Funk monitor" role="graphics-symbol" aria-roledescription="bar" d="M89.473125,47.3h28.428750000000004v95.80000000000001h-28.428750000000004Z" fill="#cfc9a2"/>
+<path aria-label="picket: poll; male: 801; Cis female invoice: steradian" role="graphics-symbol" aria-roledescription="bar" d="M134.59812499999998,112.6h28.428750000000004v80.10000000000002h-28.428750000000004Z" fill="#9b15a6"/>
+<path aria-label="picket: poll; male: 473; Cis female invoice: superficial um" role="graphics-symbol" aria-roledescription="bar" d="M134.59812499999998,192.70000000000002h28.428750000000004v47.29999999999998h-28.428750000000004Z" fill="#7c9fc6"/>
+<path aria-label="picket: poll; male: 77; Cis female invoice: Small Funk monitor" role="graphics-symbol" aria-roledescription="bar" d="M134.59812499999998,104.9h28.428750000000004v7.699999999999989h-28.428750000000004Z" fill="#cfc9a2"/>
+<path aria-label="picket: quart; male: 147; Cis female invoice: steradian" role="graphics-symbol" aria-roledescription="bar" d="M179.72312499999998,129.9h28.428750000000004v14.700000000000003h-28.428750000000004Z" fill="#9b15a6"/>
+<path aria-label="picket: quart; male: 954; Cis female invoice: superficial um" role="graphics-symbol" aria-roledescription="bar" d="M179.72312499999998,144.60000000000002h28.428750000000004v95.39999999999999h-28.428750000000004Z" fill="#7c9fc6"/>
+<path aria-label="picket: quart; male: 176; Cis female invoice: Small Funk monitor" role="graphics-symbol" aria-roledescription="bar" d="M179.72312499999998,112.30000000000001h28.428750000000004v17.599999999999994h-28.428750000000004Z" fill="#cfc9a2"/>
+<path aria-label="picket: stuff; male: 610; Cis female invoice: steradian" role="graphics-symbol" aria-roledescription="bar" d="M269.973125,134.9h28.428750000000004v61h-28.428750000000004Z" fill="#9b15a6"/>
+<path aria-label="picket: stuff; male: 441; Cis female invoice: superficial um" role="graphics-symbol" aria-roledescription="bar" d="M269.973125,195.9h28.428750000000004v44.099999999999994h-28.428750000000004Z" fill="#7c9fc6"/>
+<path aria-label="picket: stuff; male: 592; Cis female invoice: Small Funk monitor" role="graphics-symbol" aria-roledescription="bar" d="M269.973125,75.69999999999999h28.428750000000004v59.20000000000001h-28.428750000000004Z" fill="#cfc9a2"/>
+<path aria-label="picket: volcano; male: 829; Cis female invoice: steradian" role="graphics-symbol" aria-roledescription="bar" d="M360.22312500000004,96.89999999999999h28.428750000000004v82.90000000000002h-28.428750000000004Z" fill="#9b15a6"/>
+<path aria-label="picket: volcano; male: 602; Cis female invoice: superficial um" role="graphics-symbol" aria-roledescription="bar" d="M360.22312500000004,179.8h28.428750000000004v60.19999999999999h-28.428750000000004Z" fill="#7c9fc6"/>
+<path aria-label="picket: volcano; male: 354; Cis female invoice: Small Funk monitor" role="graphics-symbol" aria-roledescription="bar" d="M360.22312500000004,61.50000000000001h28.428750000000004v35.399999999999984h-28.428750000000004Z" fill="#cfc9a2"/>
+<path aria-label="picket: verb; male: 285; Cis female invoice: steradian" role="graphics-symbol" aria-roledescription="bar" d="M315.09812500000004,198.20000000000002h28.428750000000004v28.49999999999997h-28.428750000000004Z" fill="#9b15a6"/>
+<path aria-label="picket: verb; male: 133; Cis female invoice: superficial um" role="graphics-symbol" aria-roledescription="bar" d="M315.09812500000004,226.7h28.428750000000004v13.300000000000011h-28.428750000000004Z" fill="#7c9fc6"/>
+<path aria-label="picket: verb; male: 701; Cis female invoice: Small Funk monitor" role="graphics-symbol" aria-roledescription="bar" d="M315.09812500000004,128.1h28.428750000000004v70.10000000000002h-28.428750000000004Z" fill="#cfc9a2"/>
+</svg>

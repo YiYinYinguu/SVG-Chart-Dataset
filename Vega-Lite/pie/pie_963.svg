@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="313" height="239" viewBox="0 0 313 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="117,299,0,26" text-anchor="middle" x="208.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Oakland Towels</text>
+<path aria-label="Modern azure: 593; Markets Genderflux National: open" role="graphics-symbol" aria-roledescription="arc mark"  d="M208.0,59.0A75,75,0,0,0,136.46825633220968,156.5435056689402L179.38730253288387,143.01740226757607A30,30,0,0,1,208.0,104.0Z" fill="#369cc9" stroke="white" stroke-width="2"/>
+<path aria-label="Modern azure: 800; Markets Genderflux National: Darmstadtium" role="graphics-symbol" aria-roledescription="arc mark"  d="M251.00203383690683,195.44774272411902A75,75,0,0,0,208.0,59.0L208.0,104.0A30,30,0,0,1,225.20081353476274,158.5790970896476Z" fill="#fb5ab9" stroke="white" stroke-width="2"/>
+<path aria-label="Modern azure: 593; Markets Genderflux National: Manager" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.46825633220968,156.5435056689402A75,75,0,0,0,251.00203383690683,195.44774272411902L225.20081353476274,158.5790970896476A30,30,0,0,1,179.38730253288387,143.01740226757607Z" fill="#c52925" stroke="white" stroke-width="2"/>
+<text aria-label="126,144,72,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="135.4234934285015" y="83.77734792518103" font-family="sans-serif" font-size="11px" fill="#369cc9" opacity="1">593</text>
+<text aria-label="284,302,98,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="293.8380924013484" y="109.9477931972718" font-family="sans-serif" font-size="11px" fill="#fb5ab9" opacity="1">800</text>
+<text aria-label="170,188,211,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.0535970905401" y="222.21798964187792" font-family="sans-serif" font-size="11px" fill="#c52925" opacity="1">593</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#fb5ab9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#c52925" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#369cc9" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,87,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Darmstadtium</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Manager</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">open</text>
+</svg>

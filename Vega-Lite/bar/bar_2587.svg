@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="663" height="317" viewBox="0 0 663 317" style="background-color: rgb(255, 255, 255);">
+<text aria-label="141,155,256,305" text-anchor="end" x="151.8125" y="256.5" transform="rotate(270.0, 155.8125, 256.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">marimba</text>
+<text aria-label="336,350,256,312" text-anchor="end" x="346.50000000000006" y="256.5" transform="rotate(270.0, 350.50000000000006, 256.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">pressure</text>
+<text aria-label="531,545,256,291" text-anchor="end" x="541.1875" y="256.5" transform="rotate(270.0, 545.1875, 256.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">shelf</text>
+<line aria-label="151,151,249,254" x1="151.5" y1="249.5" x2="151.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="346,346,249,254" x1="346.5" y1="249.5" x2="346.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="541,541,249,254" x1="541.5" y1="249.5" x2="541.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,658,249,249" x1="35.5" y1="249.5" x2="658.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="320,658,0,26" text-anchor="end" x="658.0" y="25.694777777777773" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Hyundai Chrysler bypassing</text>
+<text aria-label="21,28,240,254" text-anchor="end" x="28.5" y="253.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="14,28,184,198" text-anchor="end" x="28.5" y="197.94444444444443" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="7,28,129,143" text-anchor="end" x="28.5" y="142.38888888888889" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="7,28,73,87" text-anchor="end" x="28.5" y="86.83333333333333" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="30,35,249,249" x1="35.5" y1="249.5" x2="30.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,193,193" x1="35.5" y1="193.5" x2="30.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,138,138" x1="35.5" y1="138.5" x2="30.5" y2="138.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,82,82" x1="35.5" y1="82.5" x2="30.5" y2="82.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="North Southeast: pressure; East: 64; till: Southwest pink ohm" role="graphics-symbol" aria-roledescription="bar" d="M320.5416666666667,177.88888888888889h51.91666666666668v71.11111111111111h-51.91666666666668Z" fill="#5ce140"/>
+<path aria-label="North Southeast: pressure; East: 45; till: if port" role="graphics-symbol" aria-roledescription="bar" d="M372.45833333333337,199.0h51.91666666666668v50h-51.91666666666668Z" fill="#f97b5f"/>
+<path aria-label="North Southeast: pressure; East: 141; till: North" role="graphics-symbol" aria-roledescription="bar" d="M268.625,92.33333333333334h51.91666666666668v156.66666666666666h-51.91666666666668Z" fill="#a3cae5"/>
+<path aria-label="North Southeast: shelf; East: 55; till: Southwest pink ohm" role="graphics-symbol" aria-roledescription="bar" d="M515.2291666666667,187.88888888888889h51.91666666666668v61.111111111111114h-51.91666666666668Z" fill="#5ce140"/>
+<path aria-label="North Southeast: shelf; East: 117; till: if port" role="graphics-symbol" aria-roledescription="bar" d="M567.1458333333334,119.0h51.91666666666668v130h-51.91666666666668Z" fill="#f97b5f"/>
+<path aria-label="North Southeast: shelf; East: 47; till: North" role="graphics-symbol" aria-roledescription="bar" d="M463.31250000000006,196.77777777777777h51.91666666666668v52.22222222222223h-51.91666666666668Z" fill="#a3cae5"/>
+<path aria-label="North Southeast: marimba; East: 4; till: Southwest pink ohm" role="graphics-symbol" aria-roledescription="bar" d="M125.85416666666669,244.55555555555554h51.91666666666668v4.444444444444457h-51.91666666666668Z" fill="#5ce140"/>
+<path aria-label="North Southeast: marimba; East: 74; till: if port" role="graphics-symbol" aria-roledescription="bar" d="M177.77083333333337,166.77777777777777h51.91666666666668v82.22222222222221h-51.91666666666668Z" fill="#f97b5f"/>
+<path aria-label="North Southeast: marimba; East: 173; till: North" role="graphics-symbol" aria-roledescription="bar" d="M73.9375,56.77777777777777h51.91666666666668v192.22222222222223h-51.91666666666668Z" fill="#a3cae5"/>
+<text aria-label="336,356,152,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="346.50000000000006" y="170.8058888888889" font-family="avenir" font-size="18.689999999999998px" fill="#000" opacity="1">64</text>
+<text aria-label="388,408,173,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="398.41666666666674" y="191.917" font-family="avenir" font-size="18.689999999999998px" fill="#000" opacity="1">45</text>
+<text aria-label="279,309,66,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="294.58333333333337" y="85.25033333333334" font-family="avenir" font-size="18.689999999999998px" fill="#000" opacity="1">141</text>
+<text aria-label="531,551,162,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="541.1875" y="180.8058888888889" font-family="avenir" font-size="18.689999999999998px" fill="#000" opacity="1">55</text>
+<text aria-label="578,607,93,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="593.1041666666667" y="111.917" font-family="avenir" font-size="18.689999999999998px" fill="#000" opacity="1">117</text>
+<text aria-label="479,499,171,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="489.27083333333337" y="189.69477777777777" font-family="avenir" font-size="18.689999999999998px" fill="#000" opacity="1">47</text>
+<text aria-label="146,156,218,238" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.8125" y="237.47255555555554" font-family="avenir" font-size="18.689999999999998px" fill="#000" opacity="1">4</text>
+<text aria-label="193,213,141,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="203.72916666666669" y="159.6947777777778" font-family="avenir" font-size="18.689999999999998px" fill="#000" opacity="1">74</text>
+<text aria-label="85,114,31,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.89583333333334" y="49.69477777777777" font-family="avenir" font-size="18.689999999999998px" fill="#000" opacity="1">173</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="841" height="296" viewBox="0 0 841 296" style="background-color: rgb(255, 255, 255);">
+<line x1="179.5" y1="49.5" x2="179.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="432.5" y1="49.5" x2="432.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="684.5" y1="49.5" x2="684.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="170,182,256,286" text-anchor="end" x="179.5" y="256.5" transform="rotate(270.0, 182.5, 256.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">messy</text>
+<text aria-label="423,435,256,286" text-anchor="end" x="432.0" y="256.5" transform="rotate(270.0, 435.0, 256.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">power</text>
+<text aria-label="675,687,256,280" text-anchor="end" x="684.5" y="256.5" transform="rotate(270.0, 687.5, 256.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">term</text>
+<line aria-label="179,179,249,254" x1="179.5" y1="249.5" x2="179.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="432,432,249,254" x1="432.5" y1="249.5" x2="432.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="684,684,249,254" x1="684.5" y1="249.5" x2="684.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="28,836,249,249" x1="28.5" y1="249.5" x2="836.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="406,458,0,26" text-anchor="middle" x="432.0" y="25.90666666666668" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">City</text>
+<text aria-label="20,26,241,253" text-anchor="end" x="26.5" y="252.5" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="8,26,208,220" text-anchor="end" x="26.5" y="219.16666666666669" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="8,26,174,186" text-anchor="end" x="26.5" y="185.83333333333334" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="8,26,141,153" text-anchor="end" x="26.5" y="152.5" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="8,26,108,120" text-anchor="end" x="26.5" y="119.16666666666667" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="8,26,74,86" text-anchor="end" x="26.5" y="85.83333333333333" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="8,26,41,53" text-anchor="end" x="26.5" y="52.5" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="28,28,49,249" x1="28.5" y1="249.5" x2="28.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Northwest: term; Hydrogen propaganda Hybrid: 593; North: haptic unlike Diesel" role="graphics-symbol" aria-roledescription="bar" d="M684.5,51.33333333333334h101.00000000000001v197.66666666666666h-101.00000000000001Z" fill="#2bcc43"/>
+<path aria-label="Northwest: term; Hydrogen propaganda Hybrid: 52; North: Senior Bike Hassium" role="graphics-symbol" aria-roledescription="bar" d="M583.5,231.66666666666666h101.00000000000001v17.333333333333343h-101.00000000000001Z" fill="#040c56"/>
+<path aria-label="Northwest: power; Hydrogen propaganda Hybrid: 499; North: haptic unlike Diesel" role="graphics-symbol" aria-roledescription="bar" d="M432.0,82.66666666666666h101.00000000000001v166.33333333333334h-101.00000000000001Z" fill="#2bcc43"/>
+<path aria-label="Northwest: power; Hydrogen propaganda Hybrid: 454; North: Senior Bike Hassium" role="graphics-symbol" aria-roledescription="bar" d="M331.0,97.66666666666666h101.00000000000001v151.33333333333334h-101.00000000000001Z" fill="#040c56"/>
+<path aria-label="Northwest: messy; Hydrogen propaganda Hybrid: 298; North: haptic unlike Diesel" role="graphics-symbol" aria-roledescription="bar" d="M179.5,149.66666666666669h101.00000000000001v99.33333333333331h-101.00000000000001Z" fill="#2bcc43"/>
+<path aria-label="Northwest: messy; Hydrogen propaganda Hybrid: 307; North: Senior Bike Hassium" role="graphics-symbol" aria-roledescription="bar" d="M78.5,146.66666666666666h101.00000000000001v102.33333333333334h-101.00000000000001Z" fill="#040c56"/>
+<text aria-label="724,745,32,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="735.0" y="45.90666666666668" font-family="Balto" font-size="13.466666666666665px" fill="#000" opacity="1">593</text>
+<text aria-label="626,641,212,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="634.0" y="226.23999999999998" font-family="Balto" font-size="13.466666666666665px" fill="#000" opacity="1">52</text>
+<text aria-label="471,493,63,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="482.5" y="77.24000000000001" font-family="Balto" font-size="13.466666666666665px" fill="#000" opacity="1">499</text>
+<text aria-label="370,392,78,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="381.5" y="92.24" font-family="Balto" font-size="13.466666666666665px" fill="#000" opacity="1">454</text>
+<text aria-label="219,240,130,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="230.00000000000003" y="144.24" font-family="Balto" font-size="13.466666666666665px" fill="#000" opacity="1">298</text>
+<text aria-label="118,139,127,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="129.0" y="141.24" font-family="Balto" font-size="13.466666666666665px" fill="#000" opacity="1">307</text>
+</svg>

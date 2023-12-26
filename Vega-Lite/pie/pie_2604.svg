@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">East</text>
+<path aria-label="application: 93; Borders bus shoelace: Van" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.08541760968475,193.30304481156895A75,75,0,0,0,233.25204209070304,194.5537510877951L212.01106188716557,165.48795056565345A39,39,0,0,1,165.12441715703608,164.83758330201584Z" fill="#a04bbe" stroke="black" stroke-width="2"/>
+<path aria-label="application: 62; Borders bus shoelace: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M233.25204209070304,194.5537510877951A75,75,0,0,0,263.7616033878792,139.97517019619113L227.8760337616972,137.1070885020194A39,39,0,0,1,212.01106188716557,165.48795056565345Z" fill="#d1011a" stroke="black" stroke-width="2"/>
+<path aria-label="application: 8; Borders bus shoelace: circuit" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.8009377392295,187.85404255110478A75,75,0,0,0,143.08541760968475,193.30304481156895L165.12441715703608,164.83758330201584A39,39,0,0,1,161.85648762439934,162.00410212657448Z" fill="#2e3e6b" stroke="black" stroke-width="2"/>
+<path aria-label="application: 119; Borders bus shoelace: Funk" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.7616033878792,139.97517019619113A75,75,0,0,0,189.0,59.0L189.0,95.0A39,39,0,0,1,227.8760337616972,137.1070885020194Z" fill="#35c5dc" stroke="black" stroke-width="2"/>
+<path aria-label="application: 79; Borders bus shoelace: enterprise" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,122.30487053881326,99.69606864868777L154.3185326801829,116.16195569731764A39,39,0,0,1,189.0,95.0Z" fill="#0aaefc" stroke="black" stroke-width="2"/>
+<path aria-label="application: 92; Borders bus shoelace: empower" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.30487053881326,99.69606864868777A75,75,0,0,0,136.8009377392295,187.85404255110478L161.85648762439934,162.00410212657448A39,39,0,0,1,154.3185326801829,116.16195569731764Z" fill="#5b0d6b" stroke="black" stroke-width="2"/>
+<text aria-label="181,194,215,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.7517250633769" y="227.99134297076913" font-family="monospace" font-size="12px" fill="#a04bbe" opacity="1">93</text>
+<text aria-label="261,274,169,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="267.5589266016758" y="181.91463367936157" font-family="monospace" font-size="12px" fill="#d1011a" opacity="1">62</text>
+<text aria-label="126,133,193,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.0410956576747" y="205.99887939335864" font-family="monospace" font-size="12px" fill="#2e3e6b" opacity="1">8</text>
+<text aria-label="245,264,64,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="255.12608555323928" y="76.94804827521335" font-family="monospace" font-size="12px" fill="#35c5dc" opacity="1">119</text>
+<text aria-label="135,148,49,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.1215645842447" y="61.17284143630678" font-family="monospace" font-size="12px" fill="#0aaefc" opacity="1">79</text>
+<text aria-label="93,106,140,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.19258709090307" y="152.60285630940623" font-family="monospace" font-size="12px" fill="#5b0d6b" opacity="1">92</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#35c5dc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#d1011a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#a04bbe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#2e3e6b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#5b0d6b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#0aaefc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Funk</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="21,37,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Van</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">circuit</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">empower</text>
+<text aria-label="21,76,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">enterprise</text>
+</svg>

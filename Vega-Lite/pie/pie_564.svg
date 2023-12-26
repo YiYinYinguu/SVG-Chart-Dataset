@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="353" height="270" viewBox="0 0 353 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="10,348,0,26" text-anchor="end" x="348.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">technologies Mobility male</text>
+<path aria-label="SMTP Concrete: 36; Bicycle benchmark Borders: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.7908971741218,138.62421791898367A75,75,0,0,0,133.04309653301763,162.45783111468032L208.0,165.0Z" fill="#cdc50c" stroke="black" stroke-width="3"/>
+<path aria-label="SMTP Concrete: 134; Bicycle benchmark Borders: SUV" role="graphics-symbol" aria-roledescription="arc mark"  d="M208.0,90.0A75,75,0,0,0,137.7908971741218,138.62421791898367L208.0,165.0Z" fill="#35b37a" stroke="black" stroke-width="3"/>
+<path aria-label="SMTP Concrete: 248; Bicycle benchmark Borders: Direct" role="graphics-symbol" aria-roledescription="arc mark"  d="M266.7278408124664,211.64805155100913A75,75,0,0,0,208.0,90.0L208.0,165.0Z" fill="#bbede6" stroke="black" stroke-width="3"/>
+<path aria-label="SMTP Concrete: 277; Bicycle benchmark Borders: Engineer" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.04309653301763,162.45783111468032A75,75,0,0,0,266.7278408124664,211.64805155100913L208.0,165.0Z" fill="#5dde7a" stroke="black" stroke-width="3"/>
+<path  d="M119.0,40.25A5,5,0,1,1,109.0,40.25A5,5,0,1,1,119.0,40.25" fill="#bbede6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M175.0,40.25A5,5,0,1,1,165.0,40.25A5,5,0,1,1,175.0,40.25" fill="#5dde7a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M245.0,40.25A5,5,0,1,1,235.0,40.25A5,5,0,1,1,245.0,40.25" fill="#cdc50c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M323.0,40.25A5,5,0,1,1,313.0,40.25A5,5,0,1,1,323.0,40.25" fill="#35b37a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="124,157,33,44" text-anchor="start" x="124.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Direct</text>
+<text aria-label="180,224,33,44" text-anchor="start" x="180.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Engineer</text>
+<text aria-label="250,299,33,44" text-anchor="start" x="250.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="328,344,33,44" text-anchor="start" x="328.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">SUV</text>
+</svg>

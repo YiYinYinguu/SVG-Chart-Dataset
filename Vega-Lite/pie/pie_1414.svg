@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="420" height="270" viewBox="0 0 420 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">maroon</text>
+<path aria-label="schemas Convertible unimpressively: 124; Georgia: Practical" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.33229828930095,180.72812854757328A75,75,0,0,0,179.98974787443518,163.7599541425231L144.99453219969877,164.33864220934566A40,40,0,0,1,144.11055908762717,173.3883352253724Z" fill="#f4b5ea" stroke="black" stroke-width="1"/>
+<path aria-label="schemas Convertible unimpressively: 741; Georgia: Minivan" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.98974787443518,163.7599541425231A75,75,0,0,0,119.3782973942804,91.39113800606866L112.66842527694953,125.74194026990328A40,40,0,0,1,144.99453219969877,164.33864220934566Z" fill="#584fac" stroke="black" stroke-width="1"/>
+<path aria-label="schemas Convertible unimpressively: 105; Georgia: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.3782973942804,91.39113800606866A75,75,0,0,0,105.0,90.0L105.0,125.0A40,40,0,0,1,112.66842527694953,125.74194026990328Z" fill="#a27a78" stroke="black" stroke-width="1"/>
+<path aria-label="schemas Convertible unimpressively: 139; Georgia: SDD" role="graphics-symbol" aria-roledescription="arc mark"  d="M98.53195445322585,239.720575391286A75,75,0,0,0,117.61633010110444,238.93123977575357L111.7287093872557,204.42999454706856A40,40,0,0,1,101.55037570838712,204.8509735420192Z" fill="#e356a6" stroke="black" stroke-width="1"/>
+<path aria-label="schemas Convertible unimpressively: 659; Georgia: at" role="graphics-symbol" aria-roledescription="arc mark"  d="M47.45819461659109,116.89656318704561A75,75,0,0,0,39.70636703416032,201.90178172015837L70.17672908488551,184.68095025075112A40,40,0,0,1,74.31103712884858,139.34483369975766Z" fill="#bfccac" stroke="black" stroke-width="1"/>
+<path aria-label="schemas Convertible unimpressively: 528; Georgia: Taka" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.70636703416032,201.90178172015837A75,75,0,0,0,98.53195445322585,239.720575391286L101.55037570838712,204.8509735420192A40,40,0,0,1,70.17672908488551,184.68095025075112Z" fill="#8420a8" stroke="black" stroke-width="1"/>
+<path aria-label="schemas Convertible unimpressively: 648; Georgia: SCSI" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.61633010110444,238.93123977575357A75,75,0,0,0,178.33229828930095,180.72812854757328L144.11055908762717,173.3883352253724A40,40,0,0,1,111.7287093872557,204.42999454706856Z" fill="#13ecc3" stroke="black" stroke-width="1"/>
+<path aria-label="schemas Convertible unimpressively: 476; Georgia: stab" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,47.45819461659109,116.89656318704561L74.31103712884858,139.34483369975766A40,40,0,0,1,104.99999999999999,125.0Z" fill="#b1211f" stroke="black" stroke-width="1"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#a27a78" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,40.25A5,5,0,1,1,73.0,40.25A5,5,0,1,1,83.0,40.25" fill="#584fac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,40.25A5,5,0,1,1,135.0,40.25A5,5,0,1,1,145.0,40.25" fill="#f4b5ea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,40.25A5,5,0,1,1,207.0,40.25A5,5,0,1,1,217.0,40.25" fill="#13ecc3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M264.0,40.25A5,5,0,1,1,254.0,40.25A5,5,0,1,1,264.0,40.25" fill="#e356a6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M306.0,40.25A5,5,0,1,1,296.0,40.25A5,5,0,1,1,306.0,40.25" fill="#8420a8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M353.0,40.25A5,5,0,1,1,343.0,40.25A5,5,0,1,1,353.0,40.25" fill="#bfccac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M390.0,40.25A5,5,0,1,1,380.0,40.25A5,5,0,1,1,390.0,40.25" fill="#b1211f" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="88,126,33,44" text-anchor="start" x="88.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Minivan</text>
+<text aria-label="150,199,33,44" text-anchor="start" x="150.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Practical</text>
+<text aria-label="222,244,33,44" text-anchor="start" x="222.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">SCSI</text>
+<text aria-label="269,285,33,44" text-anchor="start" x="269.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">SDD</text>
+<text aria-label="311,333,33,44" text-anchor="start" x="311.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Taka</text>
+<text aria-label="358,369,33,44" text-anchor="start" x="358.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">at</text>
+<text aria-label="395,417,33,44" text-anchor="start" x="395.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">stab</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="302" height="239" viewBox="0 0 302 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="115,297,0,26" text-anchor="end" x="297.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southwest West</text>
+<path aria-label="Ball Liaison program: 394; Paradigm female aw: Fresh" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.25799338163993,158.911212327141A75,75,0,1,0,197.0,59.0L197.0,94.0A40,40,0,1,1,159.2709298035413,147.28597990780852Z" fill="#d6ac9a" stroke="black" stroke-width="0"/>
+<path aria-label="Ball Liaison program: 142; Paradigm female aw: applications" role="graphics-symbol" aria-roledescription="arc mark"  d="M197.0,59.0A75,75,0,0,0,122.00115530601843,134.4162866416685L157.00061616320983,134.22201954222322A40,40,0,0,1,197.0,94.0Z" fill="#93f400" stroke="black" stroke-width="0"/>
+<path aria-label="Ball Liaison program: 30; Paradigm female aw: Organic" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.00115530601843,134.4162866416685A75,75,0,0,0,126.25799338163993,158.911212327141L159.2709298035413,147.28597990780852A40,40,0,0,1,157.00061616320983,134.22201954222322Z" fill="#b1da4f" stroke="black" stroke-width="0"/>
+<text aria-label="262,277,180,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="270.45206236495756" y="189.0076391920878" font-family="sans-serif" font-size="9px" fill="#d6ac9a" opacity="1">394</text>
+<text aria-label="125,140,64,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.18401862660028" y="73.53725091559696" font-family="sans-serif" font-size="9px" fill="#93f400" opacity="1">142</text>
+<text aria-label="103,113,143,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.32901847160007" y="152.4096409688921" font-family="sans-serif" font-size="9px" fill="#b1da4f" opacity="1">30</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#d6ac9a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#b1da4f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#93f400" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Organic</text>
+<text aria-label="21,87,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">applications</text>
+</svg>

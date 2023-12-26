@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="970" height="300" viewBox="0 0 970 300" style="background-color: rgb(255, 255, 255);">
+<text aria-label="150,165,241,294" text-anchor="end" x="161.75000000000003" y="241.5" transform="rotate(270.0, 165.75000000000003, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">chapter</text>
+<text aria-label="380,395,241,286" text-anchor="end" x="391.25" y="241.5" transform="rotate(270.0, 395.25, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">creche</text>
+<text aria-label="609,624,241,279" text-anchor="end" x="620.75" y="241.5" transform="rotate(270.0, 624.75, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">oasis</text>
+<text aria-label="839,854,241,286" text-anchor="end" x="850.25" y="241.5" transform="rotate(270.0, 854.25, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">strike</text>
+<line aria-label="161,161,234,239" x1="161.5" y1="234.5" x2="161.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="391,391,234,239" x1="391.5" y1="234.5" x2="391.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="620,620,234,239" x1="620.5" y1="234.5" x2="620.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="850,850,234,239" x1="850.5" y1="234.5" x2="850.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,965,234,234" x1="47.5" y1="234.5" x2="965.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="434,577,0,26" text-anchor="middle" x="506.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Handcrafted</text>
+<text aria-label="38,45,224,239" text-anchor="end" x="45.5" y="238.5" font-family="sans-serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="30,45,168,183" text-anchor="end" x="45.5" y="182.94444444444443" font-family="sans-serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="23,45,113,128" text-anchor="end" x="45.5" y="127.38888888888889" font-family="sans-serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="23,45,57,72" text-anchor="end" x="45.5" y="71.83333333333333" font-family="sans-serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="2,14,71,197" text-anchor="middle" x="16.8701171875" y="134.5" transform="rotate(-90.0, 14.8701171875, 134.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">that North definition</text>
+<line aria-label="47,47,34,234" x1="47.5" y1="234.5" x2="47.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="outside: oasis; that North definition: 41; Product: Account" role="graphics-symbol" aria-roledescription="bar" d="M569.1125000000001,74.0h103.275v45.555555555555564h-103.275Z" fill="#fd5b4c"/>
+<path aria-label="outside: oasis; that North definition: 73; Product: Solomon man Arizona" role="graphics-symbol" aria-roledescription="bar" d="M569.1125000000001,152.88888888888889h103.275v81.11111111111111h-103.275Z" fill="#41bd65"/>
+<path aria-label="outside: oasis; that North definition: 30; Product: Keyboard phew error" role="graphics-symbol" aria-roledescription="bar" d="M569.1125000000001,119.55555555555556h103.275v33.33333333333333h-103.275Z" fill="#48dc4e"/>
+<path aria-label="outside: creche; that North definition: 10; Product: Account" role="graphics-symbol" aria-roledescription="bar" d="M339.6125,179.55555555555557h103.275v11.111111111111086h-103.275Z" fill="#fd5b4c"/>
+<path aria-label="outside: creche; that North definition: 12; Product: Solomon man Arizona" role="graphics-symbol" aria-roledescription="bar" d="M339.6125,220.66666666666666h103.275v13.333333333333343h-103.275Z" fill="#41bd65"/>
+<path aria-label="outside: creche; that North definition: 27; Product: Keyboard phew error" role="graphics-symbol" aria-roledescription="bar" d="M339.6125,190.66666666666666h103.275v30h-103.275Z" fill="#48dc4e"/>
+<path aria-label="outside: chapter; that North definition: 66; Product: Account" role="graphics-symbol" aria-roledescription="bar" d="M110.11250000000003,39.55555555555556h103.275v73.33333333333334h-103.275Z" fill="#fd5b4c"/>
+<path aria-label="outside: chapter; that North definition: 23; Product: Solomon man Arizona" role="graphics-symbol" aria-roledescription="bar" d="M110.11250000000003,208.44444444444446h103.275v25.555555555555543h-103.275Z" fill="#41bd65"/>
+<path aria-label="outside: chapter; that North definition: 86; Product: Keyboard phew error" role="graphics-symbol" aria-roledescription="bar" d="M110.11250000000003,112.8888888888889h103.275v95.55555555555556h-103.275Z" fill="#48dc4e"/>
+<path aria-label="outside: strike; that North definition: 16; Product: Account" role="graphics-symbol" aria-roledescription="bar" d="M798.6125000000001,148.44444444444446h103.275v17.777777777777786h-103.275Z" fill="#fd5b4c"/>
+<path aria-label="outside: strike; that North definition: 36; Product: Solomon man Arizona" role="graphics-symbol" aria-roledescription="bar" d="M798.6125000000001,194.0h103.275v40h-103.275Z" fill="#41bd65"/>
+<path aria-label="outside: strike; that North definition: 25; Product: Keyboard phew error" role="graphics-symbol" aria-roledescription="bar" d="M798.6125000000001,166.22222222222223h103.275v27.77777777777777h-103.275Z" fill="#48dc4e"/>
+</svg>

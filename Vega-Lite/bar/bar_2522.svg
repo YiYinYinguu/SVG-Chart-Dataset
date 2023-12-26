@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="870" height="337" viewBox="0 0 870 337" style="background-color: rgb(255, 255, 255);">
+<line x1="89.5" y1="63.5" x2="89.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="191.5" y1="63.5" x2="191.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="293.5" y1="63.5" x2="293.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="395.5" y1="63.5" x2="395.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="497.5" y1="63.5" x2="497.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="599.5" y1="63.5" x2="599.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="701.5" y1="63.5" x2="701.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="803.5" y1="63.5" x2="803.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="80,92,270,300" text-anchor="end" x="89.24390243902437" y="270.5" transform="rotate(270.0, 92.24390243902437, 270.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">album</text>
+<text aria-label="182,194,270,300" text-anchor="end" x="191.31707317073167" y="270.5" transform="rotate(270.0, 194.31707317073167, 270.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">drill</text>
+<text aria-label="284,296,270,306" text-anchor="end" x="293.390243902439" y="270.5" transform="rotate(270.0, 296.390243902439, 270.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">fresco</text>
+<text aria-label="386,398,270,318" text-anchor="end" x="395.4634146341463" y="270.5" transform="rotate(270.0, 398.4634146341463, 270.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">honeydew</text>
+<text aria-label="488,500,270,318" text-anchor="end" x="497.5365853658536" y="270.5" transform="rotate(270.0, 500.5365853658536, 270.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">interior</text>
+<text aria-label="590,602,270,324" text-anchor="end" x="599.609756097561" y="270.5" transform="rotate(270.0, 602.609756097561, 270.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">moonscape</text>
+<text aria-label="692,704,270,330" text-anchor="end" x="701.6829268292684" y="270.5" transform="rotate(270.0, 704.6829268292684, 270.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">overflight</text>
+<text aria-label="794,806,270,324" text-anchor="end" x="803.7560975609756" y="270.5" transform="rotate(270.0, 806.7560975609756, 270.5)" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">polyester</text>
+<line aria-label="89,89,263,268" x1="89.5" y1="263.5" x2="89.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="191,191,263,268" x1="191.5" y1="263.5" x2="191.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="293,293,263,268" x1="293.5" y1="263.5" x2="293.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="395,395,263,268" x1="395.5" y1="263.5" x2="395.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="497,497,263,268" x1="497.5" y1="263.5" x2="497.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="599,599,263,268" x1="599.5" y1="263.5" x2="599.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="701,701,263,268" x1="701.5" y1="263.5" x2="701.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="803,803,263,268" x1="803.5" y1="263.5" x2="803.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="28,865,263,263" x1="28.5" y1="263.5" x2="865.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,135,0,26" text-anchor="start" x="5.64892578125" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">in Central</text>
+<text aria-label="20,26,255,267" text-anchor="end" x="26.5" y="266.5" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="8,26,215,227" text-anchor="end" x="26.5" y="226.5" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="8,26,175,187" text-anchor="end" x="26.5" y="186.5" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="8,26,135,147" text-anchor="end" x="26.5" y="146.5" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="8,26,95,107" text-anchor="end" x="26.5" y="106.5" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="8,26,55,67" text-anchor="end" x="26.5" y="66.5" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">500</text>
+<path aria-label="Buckinghamshire: interior; Soul Indiana: 244; Music withdrawal Tin: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M456.7073170731707,165.4h27.219512195121954v97.6h-27.219512195121954Z" fill="#ef18d2"/>
+<path aria-label="Buckinghamshire: interior; Soul Indiana: 270; Music withdrawal Tin: Electric" role="graphics-symbol" aria-roledescription="bar" d="M483.9268292682927,155.0h27.219512195121954v108h-27.219512195121954Z" fill="#da9c77"/>
+<path aria-label="Buckinghamshire: interior; Soul Indiana: 132; Music withdrawal Tin: system Slovenia" role="graphics-symbol" aria-roledescription="bar" d="M511.1463414634146,210.2h27.219512195121954v52.80000000000001h-27.219512195121954Z" fill="#41fce3"/>
+<path aria-label="Buckinghamshire: overflight; Soul Indiana: 17; Music withdrawal Tin: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M660.8536585365854,256.2h27.219512195121954v6.800000000000011h-27.219512195121954Z" fill="#ef18d2"/>
+<path aria-label="Buckinghamshire: overflight; Soul Indiana: 113; Music withdrawal Tin: Electric" role="graphics-symbol" aria-roledescription="bar" d="M688.0731707317074,217.8h27.219512195121954v45.19999999999999h-27.219512195121954Z" fill="#da9c77"/>
+<path aria-label="Buckinghamshire: overflight; Soul Indiana: 249; Music withdrawal Tin: system Slovenia" role="graphics-symbol" aria-roledescription="bar" d="M715.2926829268293,163.4h27.219512195121954v99.6h-27.219512195121954Z" fill="#41fce3"/>
+<path aria-label="Buckinghamshire: polyester; Soul Indiana: 430; Music withdrawal Tin: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M762.9268292682926,91.0h27.219512195121954v172h-27.219512195121954Z" fill="#ef18d2"/>
+<path aria-label="Buckinghamshire: polyester; Soul Indiana: 47; Music withdrawal Tin: Electric" role="graphics-symbol" aria-roledescription="bar" d="M790.1463414634146,244.20000000000002h27.219512195121954v18.799999999999983h-27.219512195121954Z" fill="#da9c77"/>
+<path aria-label="Buckinghamshire: polyester; Soul Indiana: 162; Music withdrawal Tin: system Slovenia" role="graphics-symbol" aria-roledescription="bar" d="M817.3658536585366,198.2h27.219512195121954v64.80000000000001h-27.219512195121954Z" fill="#41fce3"/>
+<path aria-label="Buckinghamshire: album; Soul Indiana: 343; Music withdrawal Tin: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M48.41463414634143,125.79999999999998h27.219512195121954v137.20000000000002h-27.219512195121954Z" fill="#ef18d2"/>
+<path aria-label="Buckinghamshire: album; Soul Indiana: 103; Music withdrawal Tin: Electric" role="graphics-symbol" aria-roledescription="bar" d="M75.63414634146338,221.8h27.219512195121954v41.19999999999999h-27.219512195121954Z" fill="#da9c77"/>
+<path aria-label="Buckinghamshire: album; Soul Indiana: 218; Music withdrawal Tin: system Slovenia" role="graphics-symbol" aria-roledescription="bar" d="M102.85365853658533,175.8h27.219512195121954v87.19999999999999h-27.219512195121954Z" fill="#41fce3"/>
+<path aria-label="Buckinghamshire: fresco; Soul Indiana: 306; Music withdrawal Tin: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M252.56097560975607,140.60000000000002h27.219512195121954v122.39999999999999h-27.219512195121954Z" fill="#ef18d2"/>
+<path aria-label="Buckinghamshire: fresco; Soul Indiana: 334; Music withdrawal Tin: Electric" role="graphics-symbol" aria-roledescription="bar" d="M279.780487804878,129.39999999999998h27.219512195121954v133.60000000000002h-27.219512195121954Z" fill="#da9c77"/>
+<path aria-label="Buckinghamshire: fresco; Soul Indiana: 322; Music withdrawal Tin: system Slovenia" role="graphics-symbol" aria-roledescription="bar" d="M307.0,134.2h27.219512195121954v128.8h-27.219512195121954Z" fill="#41fce3"/>
+<path aria-label="Buckinghamshire: moonscape; Soul Indiana: 331; Music withdrawal Tin: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M558.780487804878,130.6h27.219512195121954v132.4h-27.219512195121954Z" fill="#ef18d2"/>
+<path aria-label="Buckinghamshire: moonscape; Soul Indiana: 268; Music withdrawal Tin: Electric" role="graphics-symbol" aria-roledescription="bar" d="M586.0,155.8h27.219512195121954v107.2h-27.219512195121954Z" fill="#da9c77"/>
+<path aria-label="Buckinghamshire: moonscape; Soul Indiana: 300; Music withdrawal Tin: system Slovenia" role="graphics-symbol" aria-roledescription="bar" d="M613.219512195122,143.0h27.219512195121954v120h-27.219512195121954Z" fill="#41fce3"/>
+<path aria-label="Buckinghamshire: drill; Soul Indiana: 274; Music withdrawal Tin: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M150.48780487804873,153.39999999999998h27.219512195121954v109.60000000000001h-27.219512195121954Z" fill="#ef18d2"/>
+<path aria-label="Buckinghamshire: drill; Soul Indiana: 458; Music withdrawal Tin: Electric" role="graphics-symbol" aria-roledescription="bar" d="M177.7073170731707,79.8h27.219512195121954v183.20000000000002h-27.219512195121954Z" fill="#da9c77"/>
+<path aria-label="Buckinghamshire: drill; Soul Indiana: 182; Music withdrawal Tin: system Slovenia" role="graphics-symbol" aria-roledescription="bar" d="M204.92682926829266,190.2h27.219512195121954v72.8h-27.219512195121954Z" fill="#41fce3"/>
+<path aria-label="Buckinghamshire: honeydew; Soul Indiana: 327; Music withdrawal Tin: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M354.6341463414634,132.2h27.219512195121954v130.8h-27.219512195121954Z" fill="#ef18d2"/>
+<path aria-label="Buckinghamshire: honeydew; Soul Indiana: 103; Music withdrawal Tin: Electric" role="graphics-symbol" aria-roledescription="bar" d="M381.8536585365854,221.8h27.219512195121954v41.19999999999999h-27.219512195121954Z" fill="#da9c77"/>
+<path aria-label="Buckinghamshire: honeydew; Soul Indiana: 216; Music withdrawal Tin: system Slovenia" role="graphics-symbol" aria-roledescription="bar" d="M409.0731707317073,176.60000000000002h27.219512195121954v86.39999999999999h-27.219512195121954Z" fill="#41fce3"/>
+<path  d="M29.0,35.0h10v10h-10Z" fill="#ef18d2" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,35.0h10v10h-10Z" fill="#da9c77" stroke-width="1.5" opacity="1"/>
+<path  d="M149.0,35.0h10v10h-10Z" fill="#41fce3" stroke-width="1.5" opacity="1"/>
+<text aria-label="44,82,33,44" text-anchor="start" x="44.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="103,147,33,44" text-anchor="start" x="103.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="164,246,33,44" text-anchor="start" x="164.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">system Slovenia</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="601" height="310" viewBox="0 0 601 310" style="background-color: rgb(255, 255, 255);">
+<line x1="90.5" y1="34.5" x2="90.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="168.5" y1="34.5" x2="168.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="246.5" y1="34.5" x2="246.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="324.5" y1="34.5" x2="324.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="401.5" y1="34.5" x2="401.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="479.5" y1="34.5" x2="479.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="557.5" y1="34.5" x2="557.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="234.5" x2="596.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="172.5" x2="596.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="109.5" x2="596.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="47.5" x2="596.5" y2="47.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="80,94,241,290" text-anchor="end" x="90.85714285714286" y="241.5" transform="rotate(270.0, 94.85714285714286, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">burrito</text>
+<text aria-label="158,172,241,290" text-anchor="end" x="168.57142857142858" y="241.5" transform="rotate(270.0, 172.57142857142858, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">celsius</text>
+<text aria-label="236,250,241,304" text-anchor="end" x="246.28571428571428" y="241.5" transform="rotate(270.0, 250.28571428571428, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">imbalance</text>
+<text aria-label="314,328,241,297" text-anchor="end" x="324.0" y="241.5" transform="rotate(270.0, 328.0, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">jumpsuit</text>
+<text aria-label="391,405,241,290" text-anchor="end" x="401.7142857142857" y="241.5" transform="rotate(270.0, 405.7142857142857, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">species</text>
+<text aria-label="469,483,241,290" text-anchor="end" x="479.42857142857144" y="241.5" transform="rotate(270.0, 483.42857142857144, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">trellis</text>
+<text aria-label="547,561,241,290" text-anchor="end" x="557.1428571428571" y="241.5" transform="rotate(270.0, 561.1428571428571, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">vagrant</text>
+<line aria-label="90,90,234,239" x1="90.5" y1="234.5" x2="90.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="168,168,234,239" x1="168.5" y1="234.5" x2="168.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="246,246,234,239" x1="246.5" y1="234.5" x2="246.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="324,324,234,239" x1="324.5" y1="234.5" x2="324.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="401,401,234,239" x1="401.5" y1="234.5" x2="401.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="479,479,234,239" x1="479.5" y1="234.5" x2="479.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="557,557,234,239" x1="557.5" y1="234.5" x2="557.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,596,234,234" x1="52.5" y1="234.5" x2="596.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="187,460,0,26" text-anchor="middle" x="324.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Hybrid optical orchid</text>
+<text aria-label="38,45,225,239" text-anchor="end" x="45.5" y="238.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="31,45,163,177" text-anchor="end" x="45.5" y="176.0" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="24,45,100,114" text-anchor="end" x="45.5" y="113.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="24,45,38,52" text-anchor="end" x="45.5" y="51.0" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">150</text>
+<line aria-label="47,52,234,234" x1="52.5" y1="234.5" x2="47.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,52,172,172" x1="52.5" y1="172.5" x2="47.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,52,109,109" x1="52.5" y1="109.5" x2="47.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,52,47,47" x1="52.5" y1="47.5" x2="47.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,119,149" text-anchor="middle" x="17.44873046875" y="134.5" transform="rotate(-90.0, 15.44873046875, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">hertz</text>
+<path aria-label="corporis RSS: burrito; hertz: 104; Response: grey RSS" role="graphics-symbol" aria-roledescription="bar" d="M73.37142857142858,104.0h34.97142857142857v130h-34.97142857142857Z" fill="#f6eeac"/>
+<path aria-label="corporis RSS: vagrant; hertz: 40; Response: grey RSS" role="graphics-symbol" aria-roledescription="bar" d="M539.6571428571428,184.0h34.97142857142857v50h-34.97142857142857Z" fill="#f6eeac"/>
+<path aria-label="corporis RSS: species; hertz: 26; Response: grey RSS" role="graphics-symbol" aria-roledescription="bar" d="M384.2285714285714,201.5h34.97142857142857v32.5h-34.97142857142857Z" fill="#f6eeac"/>
+<path aria-label="corporis RSS: trellis; hertz: 142; Response: grey RSS" role="graphics-symbol" aria-roledescription="bar" d="M461.9428571428571,56.50000000000001h34.97142857142857v177.5h-34.97142857142857Z" fill="#f6eeac"/>
+<path aria-label="corporis RSS: jumpsuit; hertz: 96; Response: grey RSS" role="graphics-symbol" aria-roledescription="bar" d="M306.51428571428573,114.0h34.97142857142857v120h-34.97142857142857Z" fill="#f6eeac"/>
+<path aria-label="corporis RSS: imbalance; hertz: 40; Response: grey RSS" role="graphics-symbol" aria-roledescription="bar" d="M228.8,184.0h34.97142857142857v50h-34.97142857142857Z" fill="#f6eeac"/>
+<path aria-label="corporis RSS: celsius; hertz: 89; Response: grey RSS" role="graphics-symbol" aria-roledescription="bar" d="M151.0857142857143,122.75h34.97142857142857v111.25h-34.97142857142857Z" fill="#f6eeac"/>
+<text aria-label="83,97,92,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="90.85714285714286" y="100.288" font-family="Balto" font-size="8.16px" fill="#000" opacity="1">104</text>
+<text aria-label="552,561,172,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="557.1428571428571" y="180.288" font-family="Balto" font-size="8.16px" fill="#000" opacity="1">40</text>
+<text aria-label="397,406,189,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="401.7142857142857" y="197.788" font-family="Balto" font-size="8.16px" fill="#000" opacity="1">26</text>
+<text aria-label="472,486,44,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="479.42857142857144" y="52.78800000000001" font-family="Balto" font-size="8.16px" fill="#000" opacity="1">142</text>
+<text aria-label="319,328,102,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="324.0" y="110.288" font-family="Balto" font-size="8.16px" fill="#000" opacity="1">96</text>
+<text aria-label="241,250,172,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="246.28571428571428" y="180.288" font-family="Balto" font-size="8.16px" fill="#000" opacity="1">40</text>
+<text aria-label="163,173,110,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.57142857142858" y="119.038" font-family="Balto" font-size="8.16px" fill="#000" opacity="1">89</text>
+</svg>

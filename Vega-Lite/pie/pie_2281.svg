@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="107,289,0,26" text-anchor="end" x="289.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">South National</text>
+<path aria-label="Rhode: 391; Wooden: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.23342137268259,207.32404106695577A75,75,0,0,0,215.79231673508497,204.0512081549411L189.0,134.0Z" fill="#7a93c1" stroke="black" stroke-width="0"/>
+<path aria-label="Rhode: 774; Wooden: Views" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.75243275134605,150.1181230964997A75,75,0,0,0,173.23342137268259,207.32404106695577L189.0,134.0Z" fill="#bd6d1d" stroke="black" stroke-width="0"/>
+<path aria-label="Rhode: 557; Wooden: port" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.33431344877648,91.31108923659153A75,75,0,0,0,115.75243275134605,150.1181230964997L189.0,134.0Z" fill="#555245" stroke="black" stroke-width="0"/>
+<path aria-label="Rhode: 654; Wooden: redundant" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,127.33431344877648,91.31108923659153L189.0,134.0Z" fill="#7f2f4e" stroke="black" stroke-width="0"/>
+<path aria-label="Rhode: 726; Wooden: Mayotte" role="graphics-symbol" aria-roledescription="arc mark"  d="M215.79231673508497,204.0512081549411A75,75,0,0,0,263.3282192276126,144.01577887395484L189.0,134.0Z" fill="#88fe6e" stroke="black" stroke-width="0"/>
+<path aria-label="Rhode: 205; Wooden: Gorgeous" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.3282192276126,144.01577887395484A75,75,0,0,0,262.9361834239058,121.41267380630198L189.0,134.0Z" fill="#8d21c0" stroke="black" stroke-width="0"/>
+<path aria-label="Rhode: 950; Wooden: Berkshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M262.9361834239058,121.41267380630198A75,75,0,0,0,189.0,59.0L189.0,134.0Z" fill="#693ed3" stroke="black" stroke-width="0"/>
+<text aria-label="189,202,217,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="195.90073916278362" y="225.73505334598752" font-family="Balto" font-size="8px" fill="#7a93c1" opacity="1">391</text>
+<text aria-label="118,132,191,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="125.51320863302627" y="199.79206315778123" font-family="Balto" font-size="8px" fill="#bd6d1d" opacity="1">774</text>
+<text aria-label="93,107,110,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.69627877819987" y="118.60882929810053" font-family="Balto" font-size="8px" fill="#555245" opacity="1">557</text>
+<text aria-label="140,153,48,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.22921093903128" y="56.28048431391434" font-family="Balto" font-size="8px" fill="#7f2f4e" opacity="1">654</text>
+<text aria-label="252,266,183,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="259.5596315356081" y="191.86893947050737" font-family="Balto" font-size="8px" fill="#88fe6e" opacity="1">726</text>
+<text aria-label="272,285,126,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="278.9864658869984" y="134.43924468027052" font-family="Balto" font-size="8px" fill="#8d21c0" opacity="1">205</text>
+<text aria-label="240,253,59,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="247.05415045920753" y="67.22707208167087" font-family="Balto" font-size="8px" fill="#693ed3" opacity="1">950</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#693ed3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#8d21c0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#88fe6e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#7a93c1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#bd6d1d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#555245" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#7f2f4e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Berkshire</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Gorgeous</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Mayotte</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Views</text>
+<text aria-label="21,43,129,140" text-anchor="start" x="21.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">port</text>
+<text aria-label="21,70,145,156" text-anchor="start" x="21.0" y="155.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">redundant</text>
+<text aria-label="5,41,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Wooden</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="705" height="302" viewBox="0 0 705 302" style="background-color: rgb(255, 255, 255);">
+<line x1="120.5" y1="34.5" x2="120.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="286.5" y1="34.5" x2="286.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="451.5" y1="34.5" x2="451.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="617.5" y1="34.5" x2="617.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="38.5" y1="234.5" x2="700.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="38.5" y1="172.5" x2="700.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="38.5" y1="109.5" x2="700.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="38.5" y1="47.5" x2="700.5" y2="47.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="112,123,241,307" text-anchor="end" x="120.75000000000004" y="241.5" transform="rotate(270.0, 123.75000000000004, 241.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">distribution</text>
+<text aria-label="278,289,241,274" text-anchor="end" x="286.25000000000006" y="241.5" transform="rotate(270.0, 289.25000000000006, 241.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">mouser</text>
+<text aria-label="443,454,241,274" text-anchor="end" x="451.75000000000006" y="241.5" transform="rotate(270.0, 454.75000000000006, 241.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">retina</text>
+<text aria-label="609,620,241,258" text-anchor="end" x="617.25" y="241.5" transform="rotate(270.0, 620.25, 241.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">set</text>
+<line aria-label="120,120,234,239" x1="120.5" y1="234.5" x2="120.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="286,286,234,239" x1="286.5" y1="234.5" x2="286.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="451,451,234,239" x1="451.5" y1="234.5" x2="451.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="617,617,234,239" x1="617.5" y1="234.5" x2="617.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,700,234,234" x1="38.5" y1="234.5" x2="700.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="596,700,0,26" text-anchor="end" x="700.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">indexing</text>
+<text aria-label="26,31,227,238" text-anchor="end" x="31.5" y="237.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="15,31,165,176" text-anchor="end" x="31.5" y="175.0" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="4,31,102,113" text-anchor="end" x="31.5" y="112.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="4,31,40,51" text-anchor="end" x="31.5" y="50.0" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<line aria-label="33,38,234,234" x1="38.5" y1="234.5" x2="33.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,172,172" x1="38.5" y1="172.5" x2="33.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,109,109" x1="38.5" y1="109.5" x2="33.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,47,47" x1="38.5" y1="47.5" x2="33.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Gorgeous Unbranded Advanced: retina; Card: 249; Avon North: yowza Angelina group" role="graphics-symbol" aria-roledescription="bar" d="M414.51250000000005,202.875h74.47500000000001v31.125h-74.47500000000001Z" fill="#ed8dcb"/>
+<path aria-label="Gorgeous Unbranded Advanced: retina; Card: 679; Avon North: Sausages" role="graphics-symbol" aria-roledescription="bar" d="M414.51250000000005,51.5h74.47500000000001v84.87500000000001h-74.47500000000001Z" fill="#946fef"/>
+<path aria-label="Gorgeous Unbranded Advanced: retina; Card: 532; Avon North: Southeast female deploy" role="graphics-symbol" aria-roledescription="bar" d="M414.51250000000005,136.375h74.47500000000001v66.49999999999999h-74.47500000000001Z" fill="#9ffa27"/>
+<path aria-label="Gorgeous Unbranded Advanced: distribution; Card: 446; Avon North: yowza Angelina group" role="graphics-symbol" aria-roledescription="bar" d="M83.51250000000005,178.25h74.47500000000001v55.75h-74.47500000000001Z" fill="#ed8dcb"/>
+<path aria-label="Gorgeous Unbranded Advanced: distribution; Card: 224; Avon North: Sausages" role="graphics-symbol" aria-roledescription="bar" d="M83.51250000000005,68.625h74.47500000000001v28.000000000000007h-74.47500000000001Z" fill="#946fef"/>
+<path aria-label="Gorgeous Unbranded Advanced: distribution; Card: 653; Avon North: Southeast female deploy" role="graphics-symbol" aria-roledescription="bar" d="M83.51250000000005,96.625h74.47500000000001v81.625h-74.47500000000001Z" fill="#9ffa27"/>
+<path aria-label="Gorgeous Unbranded Advanced: mouser; Card: 56; Avon North: yowza Angelina group" role="graphics-symbol" aria-roledescription="bar" d="M249.01250000000005,227.0h74.47500000000001v7h-74.47500000000001Z" fill="#ed8dcb"/>
+<path aria-label="Gorgeous Unbranded Advanced: mouser; Card: 582; Avon North: Sausages" role="graphics-symbol" aria-roledescription="bar" d="M249.01250000000005,131.125h74.47500000000001v72.75h-74.47500000000001Z" fill="#946fef"/>
+<path aria-label="Gorgeous Unbranded Advanced: mouser; Card: 185; Avon North: Southeast female deploy" role="graphics-symbol" aria-roledescription="bar" d="M249.01250000000005,203.875h74.47500000000001v23.125h-74.47500000000001Z" fill="#9ffa27"/>
+<path aria-label="Gorgeous Unbranded Advanced: set; Card: 134; Avon North: yowza Angelina group" role="graphics-symbol" aria-roledescription="bar" d="M580.0125,217.25h74.47500000000001v16.75h-74.47500000000001Z" fill="#ed8dcb"/>
+<path aria-label="Gorgeous Unbranded Advanced: set; Card: 9; Avon North: Sausages" role="graphics-symbol" aria-roledescription="bar" d="M580.0125,140.5h74.47500000000001v1.125h-74.47500000000001Z" fill="#946fef"/>
+<path aria-label="Gorgeous Unbranded Advanced: set; Card: 605; Avon North: Southeast female deploy" role="graphics-symbol" aria-roledescription="bar" d="M580.0125,141.625h74.47500000000001v75.625h-74.47500000000001Z" fill="#9ffa27"/>
+<text aria-label="443,459,188,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="451.75000000000006" y="198.924" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">249</text>
+<text aria-label="443,459,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="451.75000000000006" y="47.54900000000001" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">679</text>
+<text aria-label="443,459,122,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="451.75000000000006" y="132.42400000000004" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">532</text>
+<text aria-label="112,128,164,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.75000000000004" y="174.299" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">446</text>
+<text aria-label="112,128,54,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.75000000000004" y="64.67399999999999" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">224</text>
+<text aria-label="112,128,82,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.75000000000004" y="92.674" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">653</text>
+<text aria-label="280,291,213,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="286.25000000000006" y="223.049" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">56</text>
+<text aria-label="278,294,117,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="286.25000000000006" y="127.174" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">582</text>
+<text aria-label="278,294,189,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="286.25000000000006" y="199.924" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">185</text>
+<text aria-label="609,625,203,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="617.25" y="213.299" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">134</text>
+<text aria-label="614,619,126,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="617.25" y="136.549" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">9</text>
+<text aria-label="609,625,127,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="617.25" y="137.674" font-family="avenir" font-size="9.93px" fill="#000" opacity="1">605</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="734" height="361" viewBox="0 0 734 361" style="background-color: rgb(255, 255, 255);">
+<line x1="102.5" y1="34.5" x2="102.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="214.5" y1="34.5" x2="214.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="326.5" y1="34.5" x2="326.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="437.5" y1="34.5" x2="437.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="549.5" y1="34.5" x2="549.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="661.5" y1="34.5" x2="661.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="234.5" x2="729.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="190.5" x2="729.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="145.5" x2="729.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="101.5" x2="729.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="56.5" x2="729.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="93,106,241,300" text-anchor="end" x="102.16129032258064" y="241.5" transform="rotate(270.0, 106.16129032258064, 241.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">aluminium</text>
+<text aria-label="205,218,241,274" text-anchor="end" x="214.09677419354838" y="241.5" transform="rotate(270.0, 218.09677419354838, 241.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">flash</text>
+<text aria-label="317,330,241,280" text-anchor="end" x="326.0322580645161" y="241.5" transform="rotate(270.0, 330.0322580645161, 241.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">jungle</text>
+<text aria-label="428,441,241,267" text-anchor="end" x="437.9677419354839" y="241.5" transform="rotate(270.0, 441.9677419354839, 241.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">purr</text>
+<text aria-label="540,553,241,261" text-anchor="end" x="549.9032258064516" y="241.5" transform="rotate(270.0, 553.9032258064516, 241.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">row</text>
+<text aria-label="652,665,241,319" text-anchor="end" x="661.8387096774194" y="241.5" transform="rotate(270.0, 665.8387096774194, 241.5)" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">yellowjacket</text>
+<line aria-label="102,102,234,239" x1="102.5" y1="234.5" x2="102.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="214,214,234,239" x1="214.5" y1="234.5" x2="214.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="326,326,234,239" x1="326.5" y1="234.5" x2="326.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="437,437,234,239" x1="437.5" y1="234.5" x2="437.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="549,549,234,239" x1="549.5" y1="234.5" x2="549.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="661,661,234,239" x1="661.5" y1="234.5" x2="661.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,729,234,234" x1="35.5" y1="234.5" x2="729.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,148,0,26" text-anchor="start" x="5.798828125" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Blues Chips</text>
+<text aria-label="22,28,226,239" text-anchor="end" x="28.5" y="238.5" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="9,28,182,195" text-anchor="end" x="28.5" y="194.05555555555557" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="9,28,137,150" text-anchor="end" x="28.5" y="149.61111111111111" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="9,28,93,106" text-anchor="end" x="28.5" y="105.16666666666667" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="9,28,48,61" text-anchor="end" x="28.5" y="60.72222222222223" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="30,35,234,234" x1="35.5" y1="234.5" x2="30.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,190,190" x1="35.5" y1="190.5" x2="30.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,145,145" x1="35.5" y1="145.5" x2="30.5" y2="145.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,101,101" x1="35.5" y1="101.5" x2="30.5" y2="101.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,56,56" x1="35.5" y1="56.5" x2="30.5" y2="56.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,35,34,234" x1="35.5" y1="234.5" x2="35.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="West Tuna: yellowjacket; New Mazda oof: 522; Electric Cis gray: Colombia Checking National" role="graphics-symbol" aria-roledescription="bar" d="M617.0645161290323,118.00000000000001h89.5483870967742v115.99999999999999h-89.5483870967742Z" fill="#db2dbe"/>
+<path aria-label="West Tuna: jungle; New Mazda oof: 291; Electric Cis gray: Colombia Checking National" role="graphics-symbol" aria-roledescription="bar" d="M281.258064516129,169.33333333333334h89.5483870967742v64.66666666666666h-89.5483870967742Z" fill="#db2dbe"/>
+<path aria-label="West Tuna: flash; New Mazda oof: 6; Electric Cis gray: Colombia Checking National" role="graphics-symbol" aria-roledescription="bar" d="M169.32258064516128,232.66666666666666h89.5483870967742v1.3333333333333428h-89.5483870967742Z" fill="#db2dbe"/>
+<path aria-label="West Tuna: row; New Mazda oof: 804; Electric Cis gray: Colombia Checking National" role="graphics-symbol" aria-roledescription="bar" d="M505.1290322580645,55.333333333333336h89.5483870967742v178.66666666666666h-89.5483870967742Z" fill="#db2dbe"/>
+<path aria-label="West Tuna: purr; New Mazda oof: 321; Electric Cis gray: Colombia Checking National" role="graphics-symbol" aria-roledescription="bar" d="M393.19354838709677,162.66666666666666h89.5483870967742v71.33333333333334h-89.5483870967742Z" fill="#db2dbe"/>
+<path aria-label="West Tuna: aluminium; New Mazda oof: 22; Electric Cis gray: Colombia Checking National" role="graphics-symbol" aria-roledescription="bar" d="M57.38709677419354,229.11111111111111h89.5483870967742v4.888888888888886h-89.5483870967742Z" fill="#db2dbe"/>
+<path  d="M36.0,346.0h10v10h-10Z" fill="#db2dbe" stroke-width="1.5" opacity="1"/>
+<text aria-label="51,194,344,355" text-anchor="start" x="51.0" y="354.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Colombia Checking National</text>
+<text aria-label="35,137,327,339" text-anchor="start" x="35.0" y="338.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Electric Cis gray</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="256" height="286" viewBox="0 0 256 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="7,202,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">infrastructures</text>
+<path aria-label="transmit Planner: 74; Samoa male: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.12570789968345,245.58661159364235A75,75,0,0,0,178.7925003429084,194.40398795664436L151.24330021488925,189.39983245283045A47,47,0,0,1,128.89211028380163,221.47427659868254Z" fill="#6b1cbe" stroke="white" stroke-width="0"/>
+<path aria-label="transmit Planner: 128; Samoa male: pfft" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.28329659807811,174.4873789647152L58.17753253479562,176.91875748455485A47,47,0,0,1,104.99999999999999,134.0Z" fill="#dbedc8" stroke="white" stroke-width="0"/>
+<path aria-label="transmit Planner: 151; Samoa male: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.7925003429084,194.40398795664436A75,75,0,0,0,105.0,106.0L105.0,134.0A47,47,0,0,1,151.24330021488925,189.39983245283045Z" fill="#d1ee87" stroke="white" stroke-width="0"/>
+<path aria-label="transmit Planner: 165; Samoa male: cane" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.28329659807811,174.4873789647152A75,75,0,0,0,123.92109394757361,253.57404635148225L116.8572188738128,226.47973571359555A47,47,0,0,1,58.17753253479562,176.91875748455485Z" fill="#22d8bf" stroke="white" stroke-width="0"/>
+<path aria-label="transmit Planner: 24; Samoa male: along" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.92109394757361,253.57404635148225A75,75,0,0,0,143.12570789968345,245.58661159364235L128.89211028380163,221.47427659868254A47,47,0,0,1,116.8572188738128,226.47973571359555Z" fill="#a68a94" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#d1ee87" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M72.0,56.25A5,5,0,1,1,62.0,56.25A5,5,0,1,1,72.0,56.25" fill="#6b1cbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M123.0,56.25A5,5,0,1,1,113.0,56.25A5,5,0,1,1,123.0,56.25" fill="#a68a94" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M178.0,56.25A5,5,0,1,1,168.0,56.25A5,5,0,1,1,178.0,56.25" fill="#22d8bf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M228.0,56.25A5,5,0,1,1,218.0,56.25A5,5,0,1,1,228.0,56.25" fill="#dbedc8" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="77,99,49,60" text-anchor="start" x="77.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="128,155,49,60" text-anchor="start" x="128.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">along</text>
+<text aria-label="183,205,49,60" text-anchor="start" x="183.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">cane</text>
+<text aria-label="233,255,49,60" text-anchor="start" x="233.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">pfft</text>
+<text aria-label="5,65,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Samoa male</text>
+</svg>

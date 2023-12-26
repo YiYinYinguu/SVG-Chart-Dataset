@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="346" height="270" viewBox="0 0 346 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,265,0,26" text-anchor="middle" x="135.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">copy engineer Diesel</text>
+<path aria-label="West: 585; Concrete: zero" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.0,59.0A75,75,0,0,0,60.008026918435206,132.90274281325608L135.0,134.0Z" fill="#b2e8d3" stroke="black" stroke-width="4"/>
+<path aria-label="West: 239; Concrete: Ford" role="graphics-symbol" aria-roledescription="arc mark"  d="M209.9919730815648,135.09725718674395A75,75,0,0,0,195.99133075084828,90.35303477627991L135.0,134.0Z" fill="#be6dc7" stroke="black" stroke-width="4"/>
+<path aria-label="West: 421; Concrete: Trans" role="graphics-symbol" aria-roledescription="arc mark"  d="M60.008026918435206,132.90274281325608A75,75,0,0,0,101.33345841723188,201.01913143167215L135.0,134.0Z" fill="#55edc6" stroke="black" stroke-width="4"/>
+<path aria-label="West: 453; Concrete: SMTP" role="graphics-symbol" aria-roledescription="arc mark"  d="M101.33345841723188,201.01913143167215A75,75,0,0,0,185.5445165053015,189.40985337686163L135.0,134.0Z" fill="#32a2a9" stroke="black" stroke-width="4"/>
+<path aria-label="West: 307; Concrete: Music" role="graphics-symbol" aria-roledescription="arc mark"  d="M185.5445165053015,189.40985337686163A75,75,0,0,0,209.9919730815648,135.09725718674395L135.0,134.0Z" fill="#242ade" stroke="black" stroke-width="4"/>
+<path aria-label="West: 357; Concrete: Associate" role="graphics-symbol" aria-roledescription="arc mark"  d="M195.99133075084828,90.35303477627991A75,75,0,0,0,135.0,59.0L135.0,134.0Z" fill="#04c1fe" stroke="black" stroke-width="4"/>
+<text aria-label="60,83,59,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="71.82763173731865" y="73.89655322773844" font-family="serif" font-size="14px" fill="#b2e8d3" opacity="1">585</text>
+<text aria-label="209,232,97,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="220.89331504666913" y="111.12364551704151" font-family="serif" font-size="14px" fill="#be6dc7" opacity="1">239</text>
+<text aria-label="46,69,170,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="58.053619482845775" y="184.68248628028834" font-family="serif" font-size="14px" fill="#55edc6" opacity="1">421</text>
+<text aria-label="136,158,213,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.2910900573645" y="227.15676701855983" font-family="serif" font-size="14px" fill="#32a2a9" opacity="1">453</text>
+<text aria-label="205,228,160,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="217.06909647469928" y="174.94135086629208" font-family="serif" font-size="14px" fill="#242ade" opacity="1">307</text>
+<text aria-label="164,187,43,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.14685744888806" y="57.95666097618812" font-family="serif" font-size="14px" fill="#04c1fe" opacity="1">357</text>
+<path  d="M46.0,258.25A5,5,0,1,1,36.0,258.25A5,5,0,1,1,46.0,258.25" fill="#04c1fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M118.0,258.25A5,5,0,1,1,108.0,258.25A5,5,0,1,1,118.0,258.25" fill="#be6dc7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M165.0,258.25A5,5,0,1,1,155.0,258.25A5,5,0,1,1,165.0,258.25" fill="#242ade" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,258.25A5,5,0,1,1,207.0,258.25A5,5,0,1,1,217.0,258.25" fill="#32a2a9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M264.0,258.25A5,5,0,1,1,254.0,258.25A5,5,0,1,1,264.0,258.25" fill="#55edc6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M316.0,258.25A5,5,0,1,1,306.0,258.25A5,5,0,1,1,316.0,258.25" fill="#b2e8d3" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="51,100,251,262" text-anchor="start" x="51.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Associate</text>
+<text aria-label="123,145,251,262" text-anchor="start" x="123.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Ford</text>
+<text aria-label="170,197,251,262" text-anchor="start" x="170.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Music</text>
+<text aria-label="222,244,251,262" text-anchor="start" x="222.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">SMTP</text>
+<text aria-label="269,296,251,262" text-anchor="start" x="269.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Trans</text>
+<text aria-label="321,343,251,262" text-anchor="start" x="321.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">zero</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="273" height="286" viewBox="0 0 273 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Unbranded</text>
+<path aria-label="strategize: 781; hacking: unlike" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,34.16675833220805,205.65059583117986L65.3333846660365,194.80433366546072A42,42,0,0,1,104.99999999999999,139.0Z" fill="#4f2bce" stroke="black" stroke-width="3"/>
+<path aria-label="strategize: 205; hacking: IP" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.97104930201525,115.18903121734198A75,75,0,0,0,105.0,106.0L105.0,139.0A42,42,0,0,1,125.14378760912854,144.14585748171152Z" fill="#1ffe30" stroke="black" stroke-width="3"/>
+<path aria-label="strategize: 160; hacking: Reduced" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.3099331247098,133.83060633215783A75,75,0,0,0,140.97104930201525,115.18903121734198L125.14378760912854,144.14585748171152A42,42,0,0,1,137.6535625498375,154.58513954600838Z" fill="#ffb6dc" stroke="black" stroke-width="3"/>
+<path aria-label="strategize: 522; hacking: Road" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.1721320748177,222.94789617217322A75,75,0,0,0,163.3099331247098,133.83060633215783L137.6535625498375,154.58513954600838A42,42,0,0,1,139.81639396189792,204.490821856417Z" fill="#7dbd3d" stroke="black" stroke-width="3"/>
+<path aria-label="strategize: 907; hacking: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.16675833220805,205.65059583117986A75,75,0,0,0,167.1721320748177,222.94789617217322L139.81639396189792,204.490821856417A42,42,0,0,1,65.3333846660365,194.80433366546072Z" fill="#d999cd" stroke="black" stroke-width="3"/>
+<text aria-label="24,38,122,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="31.64379934263421" y="130.8572361193206" font-family="sans-serif" font-size="8px" fill="#4f2bce" opacity="1">781</text>
+<text aria-label="120,134,87,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="127.2757196457593" y="95.80027342781669" font-family="sans-serif" font-size="8px" fill="#1ffe30" opacity="1">205</text>
+<text aria-label="155,169,105,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.66375212591976" y="113.89940889717016" font-family="sans-serif" font-size="8px" fill="#ffb6dc" opacity="1">160</text>
+<text aria-label="188,201,171,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.91559919136446" y="179.1032036160588" font-family="sans-serif" font-size="8px" fill="#7dbd3d" opacity="1">522</text>
+<text aria-label="86,100,264,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="93.39327304325226" y="272.24843914238227" font-family="sans-serif" font-size="8px" fill="#d999cd" opacity="1">907</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#1ffe30" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M53.0,56.25A5,5,0,1,1,43.0,56.25A5,5,0,1,1,53.0,56.25" fill="#ffb6dc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M122.0,56.25A5,5,0,1,1,112.0,56.25A5,5,0,1,1,122.0,56.25" fill="#7dbd3d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M174.0,56.25A5,5,0,1,1,164.0,56.25A5,5,0,1,1,174.0,56.25" fill="#d999cd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.25A5,5,0,1,1,224.0,56.25A5,5,0,1,1,234.0,56.25" fill="#4f2bce" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,32,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">IP</text>
+<text aria-label="58,96,49,60" text-anchor="start" x="58.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Reduced</text>
+<text aria-label="127,149,49,60" text-anchor="start" x="127.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Road</text>
+<text aria-label="179,212,49,60" text-anchor="start" x="179.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">unlike</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">hacking</text>
+</svg>

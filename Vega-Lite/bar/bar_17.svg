@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="422" height="301" viewBox="0 0 422 301" style="background-color: rgb(255, 255, 255);">
+<line x1="76.5" y1="40.5" x2="76.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="173.5" y1="40.5" x2="173.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="271.5" y1="40.5" x2="271.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="368.5" y1="40.5" x2="368.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="240.5" x2="417.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="178.5" x2="417.5" y2="178.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="115.5" x2="417.5" y2="115.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="53.5" x2="417.5" y2="53.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="65,80,247,300" text-anchor="end" x="76.62500000000001" y="247.5" transform="rotate(270.0, 80.62500000000001, 247.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">boudoir</text>
+<text aria-label="162,177,247,277" text-anchor="end" x="173.875" y="247.5" transform="rotate(270.0, 177.875, 247.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">mini</text>
+<text aria-label="260,275,247,300" text-anchor="end" x="271.125" y="247.5" transform="rotate(270.0, 275.125, 247.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">plaster</text>
+<text aria-label="357,372,247,285" text-anchor="end" x="368.375" y="247.5" transform="rotate(270.0, 372.375, 247.5)" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">treat</text>
+<line aria-label="76,76,240,245" x1="76.5" y1="240.5" x2="76.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="173,173,240,245" x1="173.5" y1="240.5" x2="173.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="271,271,240,245" x1="271.5" y1="240.5" x2="271.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="368,368,240,245" x1="368.5" y1="240.5" x2="368.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="28,417,240,240" x1="28.5" y1="240.5" x2="417.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="177,268,0,26" text-anchor="middle" x="222.5" y="25.165499999999994" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">ex blah</text>
+<text aria-label="19,26,230,245" text-anchor="end" x="26.5" y="244.5" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="11,26,168,183" text-anchor="end" x="26.5" y="182.0" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="4,26,105,120" text-anchor="end" x="26.5" y="119.5" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="4,26,43,58" text-anchor="end" x="26.5" y="57.0" font-family="serif" font-size="14px" font-weight="normal" fill="#000" opacity="1">150</text>
+<path aria-label="cyan yet: mini; Plastic Mexico Shirt: 33; synergistic North: brand" role="graphics-symbol" aria-roledescription="bar" d="M134.48875,198.75h78.77250000000001v41.25h-78.77250000000001Z" fill="#1608ae"/>
+<path aria-label="cyan yet: mini; Plastic Mexico Shirt: 72; synergistic North: Yttrium" role="graphics-symbol" aria-roledescription="bar" d="M134.48875,108.75h78.77250000000001v90h-78.77250000000001Z" fill="#b6a4b8"/>
+<path aria-label="cyan yet: boudoir; Plastic Mexico Shirt: 75; synergistic North: brand" role="graphics-symbol" aria-roledescription="bar" d="M37.23875000000001,146.25h78.77250000000001v93.75h-78.77250000000001Z" fill="#1608ae"/>
+<path aria-label="cyan yet: boudoir; Plastic Mexico Shirt: 76; synergistic North: Yttrium" role="graphics-symbol" aria-roledescription="bar" d="M37.23875000000001,51.25h78.77250000000001v95h-78.77250000000001Z" fill="#b6a4b8"/>
+<path aria-label="cyan yet: treat; Plastic Mexico Shirt: 82; synergistic North: brand" role="graphics-symbol" aria-roledescription="bar" d="M328.98875000000004,137.5h78.77250000000001v102.49999999999999h-78.77250000000001Z" fill="#1608ae"/>
+<path aria-label="cyan yet: treat; Plastic Mexico Shirt: 77; synergistic North: Yttrium" role="graphics-symbol" aria-roledescription="bar" d="M328.98875000000004,41.24999999999999h78.77250000000001v96.25000000000001h-78.77250000000001Z" fill="#b6a4b8"/>
+<path aria-label="cyan yet: plaster; Plastic Mexico Shirt: 31; synergistic North: brand" role="graphics-symbol" aria-roledescription="bar" d="M231.73875,201.25h78.77250000000001v38.75h-78.77250000000001Z" fill="#1608ae"/>
+<path aria-label="cyan yet: plaster; Plastic Mexico Shirt: 63; synergistic North: Yttrium" role="graphics-symbol" aria-roledescription="bar" d="M231.73875,122.5h78.77250000000001v78.75h-78.77250000000001Z" fill="#b6a4b8"/>
+<text aria-label="170,177,190,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.875" y="196.6655" font-family="serif" font-size="5.835px" fill="#000" opacity="1">33</text>
+<text aria-label="170,177,100,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.875" y="106.6655" font-family="serif" font-size="5.835px" fill="#000" opacity="1">72</text>
+<text aria-label="73,80,138,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="76.62500000000001" y="144.1655" font-family="serif" font-size="5.835px" fill="#000" opacity="1">75</text>
+<text aria-label="73,80,43,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="76.62500000000001" y="49.16550000000001" font-family="serif" font-size="5.835px" fill="#000" opacity="1">76</text>
+<text aria-label="364,371,129,136" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="368.375" y="135.4155" font-family="serif" font-size="5.835px" fill="#000" opacity="1">82</text>
+<text aria-label="364,371,33,40" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="368.375" y="39.165499999999994" font-family="serif" font-size="5.835px" fill="#000" opacity="1">77</text>
+<text aria-label="267,274,193,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.125" y="199.1655" font-family="serif" font-size="5.835px" fill="#000" opacity="1">31</text>
+<text aria-label="267,274,114,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.125" y="120.4155" font-family="serif" font-size="5.835px" fill="#000" opacity="1">63</text>
+</svg>

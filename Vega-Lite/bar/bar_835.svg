@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="910" height="404" viewBox="0 0 910 404" style="background-color: rgb(255, 255, 255);">
+<line x1="116.5" y1="79.5" x2="116.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="199.5" y1="79.5" x2="199.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="282.5" y1="79.5" x2="282.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="365.5" y1="79.5" x2="365.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="448.5" y1="79.5" x2="448.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="531.5" y1="79.5" x2="531.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="614.5" y1="79.5" x2="614.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="697.5" y1="79.5" x2="697.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="780.5" y1="79.5" x2="780.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="863.5" y1="79.5" x2="863.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="102,122,286,336" text-anchor="end" x="116.49999999999997" y="286.5" transform="rotate(270.0, 122.49999999999997, 286.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">brief</text>
+<text aria-label="185,205,286,356" text-anchor="end" x="199.49999999999997" y="286.5" transform="rotate(270.0, 205.49999999999997, 286.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">giraffe</text>
+<text aria-label="268,288,286,376" text-anchor="end" x="282.5" y="286.5" transform="rotate(270.0, 288.5, 286.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">hardcover</text>
+<text aria-label="351,371,286,376" text-anchor="end" x="365.5" y="286.5" transform="rotate(270.0, 371.5, 286.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">intestine</text>
+<text aria-label="434,454,286,356" text-anchor="end" x="448.5" y="286.5" transform="rotate(270.0, 454.5, 286.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">marimba</text>
+<text aria-label="517,537,286,356" text-anchor="end" x="531.5" y="286.5" transform="rotate(270.0, 537.5, 286.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">massage</text>
+<text aria-label="600,620,286,386" text-anchor="end" x="614.5" y="286.5" transform="rotate(270.0, 620.5, 286.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">pseudocode</text>
+<text aria-label="683,703,286,316" text-anchor="end" x="697.5" y="286.5" transform="rotate(270.0, 703.5, 286.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">spy</text>
+<text aria-label="766,786,286,366" text-anchor="end" x="780.5" y="286.5" transform="rotate(270.0, 786.5, 286.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">thinking</text>
+<text aria-label="849,869,286,326" text-anchor="end" x="863.5" y="286.5" transform="rotate(270.0, 869.5, 286.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">tram</text>
+<line aria-label="116,116,279,284" x1="116.5" y1="279.5" x2="116.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="199,199,279,284" x1="199.5" y1="279.5" x2="199.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="282,282,279,284" x1="282.5" y1="279.5" x2="282.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="365,365,279,284" x1="365.5" y1="279.5" x2="365.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="448,448,279,284" x1="448.5" y1="279.5" x2="448.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="531,531,279,284" x1="531.5" y1="279.5" x2="531.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="614,614,279,284" x1="614.5" y1="279.5" x2="614.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="697,697,279,284" x1="697.5" y1="279.5" x2="697.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="780,780,279,284" x1="780.5" y1="279.5" x2="780.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="863,863,279,284" x1="863.5" y1="279.5" x2="863.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="75,905,279,279" x1="75.5" y1="279.5" x2="905.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="327,652,0,26" text-anchor="middle" x="490.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">zowie Einsteinium Estates</text>
+<text aria-label="63,73,266,286" text-anchor="end" x="73.5" y="285.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="43,73,235,255" text-anchor="end" x="73.5" y="254.73076923076923" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="43,73,204,224" text-anchor="end" x="73.5" y="223.96153846153845" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="43,73,174,194" text-anchor="end" x="73.5" y="193.19230769230768" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="43,73,143,163" text-anchor="end" x="73.5" y="162.4230769230769" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="23,73,112,132" text-anchor="end" x="73.5" y="131.65384615384613" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="23,73,81,101" text-anchor="end" x="73.5" y="100.88461538461537" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,200</text>
+<text aria-label="3,15,170,188" text-anchor="middle" x="17.20361328125" y="179.5" transform="rotate(-90.0, 15.20361328125, 179.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Way</text>
+<path aria-label="North North: pseudocode; Way: 314; female Concrete Gasoline: decisive primary" role="graphics-symbol" aria-roledescription="bar" d="M595.8249999999999,197.9230769230769h37.35v48.30769230769232h-37.35Z" fill="#e9ddd7"/>
+<path aria-label="North North: pseudocode; Way: 126; female Concrete Gasoline: Handmade" role="graphics-symbol" aria-roledescription="bar" d="M595.8249999999999,178.53846153846155h37.35v19.384615384615373h-37.35Z" fill="#adcd4a"/>
+<path aria-label="North North: pseudocode; Way: 213; female Concrete Gasoline: except Mountain Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M595.8249999999999,246.23076923076923h37.35v32.769230769230774h-37.35Z" fill="#b2bc45"/>
+<path aria-label="North North: giraffe; Way: 240; female Concrete Gasoline: decisive primary" role="graphics-symbol" aria-roledescription="bar" d="M180.825,170.23076923076923h37.35v36.923076923076934h-37.35Z" fill="#e9ddd7"/>
+<path aria-label="North North: giraffe; Way: 244; female Concrete Gasoline: Handmade" role="graphics-symbol" aria-roledescription="bar" d="M180.825,132.69230769230768h37.35v37.53846153846154h-37.35Z" fill="#adcd4a"/>
+<path aria-label="North North: giraffe; Way: 467; female Concrete Gasoline: except Mountain Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M180.825,207.15384615384616h37.35v71.84615384615384h-37.35Z" fill="#b2bc45"/>
+<path aria-label="North North: marimba; Way: 290; female Concrete Gasoline: decisive primary" role="graphics-symbol" aria-roledescription="bar" d="M429.825,167.76923076923077h37.35v44.61538461538461h-37.35Z" fill="#e9ddd7"/>
+<path aria-label="North North: marimba; Way: 444; female Concrete Gasoline: Handmade" role="graphics-symbol" aria-roledescription="bar" d="M429.825,99.46153846153847h37.35v68.3076923076923h-37.35Z" fill="#adcd4a"/>
+<path aria-label="North North: marimba; Way: 433; female Concrete Gasoline: except Mountain Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M429.825,212.3846153846154h37.35v66.61538461538461h-37.35Z" fill="#b2bc45"/>
+<path aria-label="North North: massage; Way: 99; female Concrete Gasoline: decisive primary" role="graphics-symbol" aria-roledescription="bar" d="M512.825,202.3846153846154h37.35v15.230769230769255h-37.35Z" fill="#e9ddd7"/>
+<path aria-label="North North: massage; Way: 298; female Concrete Gasoline: Handmade" role="graphics-symbol" aria-roledescription="bar" d="M512.825,156.53846153846155h37.35v45.846153846153854h-37.35Z" fill="#adcd4a"/>
+<path aria-label="North North: massage; Way: 399; female Concrete Gasoline: except Mountain Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M512.825,217.61538461538464h37.35v61.38461538461536h-37.35Z" fill="#b2bc45"/>
+<path aria-label="North North: hardcover; Way: 330; female Concrete Gasoline: decisive primary" role="graphics-symbol" aria-roledescription="bar" d="M263.825,221.92307692307693h37.35v50.769230769230774h-37.35Z" fill="#e9ddd7"/>
+<path aria-label="North North: hardcover; Way: 116; female Concrete Gasoline: Handmade" role="graphics-symbol" aria-roledescription="bar" d="M263.825,204.0769230769231h37.35v17.846153846153854h-37.35Z" fill="#adcd4a"/>
+<path aria-label="North North: hardcover; Way: 41; female Concrete Gasoline: except Mountain Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M263.825,272.69230769230774h37.35v6.307692307692292h-37.35Z" fill="#b2bc45"/>
+<path aria-label="North North: brief; Way: 16; female Concrete Gasoline: decisive primary" role="graphics-symbol" aria-roledescription="bar" d="M97.82499999999997,234.07692307692307h37.35v2.461538461538481h-37.35Z" fill="#e9ddd7"/>
+<path aria-label="North North: brief; Way: 316; female Concrete Gasoline: Handmade" role="graphics-symbol" aria-roledescription="bar" d="M97.82499999999997,185.46153846153848h37.35v48.615384615384585h-37.35Z" fill="#adcd4a"/>
+<path aria-label="North North: brief; Way: 276; female Concrete Gasoline: except Mountain Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M97.82499999999997,236.53846153846155h37.35v42.46153846153845h-37.35Z" fill="#b2bc45"/>
+<path aria-label="North North: intestine; Way: 339; female Concrete Gasoline: decisive primary" role="graphics-symbol" aria-roledescription="bar" d="M346.825,165.15384615384616h37.35v52.15384615384616h-37.35Z" fill="#e9ddd7"/>
+<path aria-label="North North: intestine; Way: 392; female Concrete Gasoline: Handmade" role="graphics-symbol" aria-roledescription="bar" d="M346.825,104.84615384615385h37.35v60.30769230769231h-37.35Z" fill="#adcd4a"/>
+<path aria-label="North North: intestine; Way: 401; female Concrete Gasoline: except Mountain Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M346.825,217.30769230769232h37.35v61.69230769230768h-37.35Z" fill="#b2bc45"/>
+<path aria-label="North North: thinking; Way: 44; female Concrete Gasoline: decisive primary" role="graphics-symbol" aria-roledescription="bar" d="M761.8249999999999,194.53846153846155h37.35v6.769230769230774h-37.35Z" fill="#e9ddd7"/>
+<path aria-label="North North: thinking; Way: 128; female Concrete Gasoline: Handmade" role="graphics-symbol" aria-roledescription="bar" d="M761.8249999999999,174.84615384615387h37.35v19.692307692307693h-37.35Z" fill="#adcd4a"/>
+<path aria-label="North North: thinking; Way: 505; female Concrete Gasoline: except Mountain Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M761.8249999999999,201.30769230769232h37.35v77.69230769230768h-37.35Z" fill="#b2bc45"/>
+<path aria-label="North North: tram; Way: 101; female Concrete Gasoline: decisive primary" role="graphics-symbol" aria-roledescription="bar" d="M844.8249999999999,243.30769230769232h37.35v15.538461538461547h-37.35Z" fill="#e9ddd7"/>
+<path aria-label="North North: tram; Way: 186; female Concrete Gasoline: Handmade" role="graphics-symbol" aria-roledescription="bar" d="M844.8249999999999,214.69230769230768h37.35v28.61538461538464h-37.35Z" fill="#adcd4a"/>
+<path aria-label="North North: tram; Way: 131; female Concrete Gasoline: except Mountain Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M844.8249999999999,258.84615384615387h37.35v20.153846153846132h-37.35Z" fill="#b2bc45"/>
+<path aria-label="North North: spy; Way: 483; female Concrete Gasoline: decisive primary" role="graphics-symbol" aria-roledescription="bar" d="M678.8249999999999,131.0h37.35v74.30769230769232h-37.35Z" fill="#e9ddd7"/>
+<path aria-label="North North: spy; Way: 243; female Concrete Gasoline: Handmade" role="graphics-symbol" aria-roledescription="bar" d="M678.8249999999999,93.61538461538461h37.35v37.384615384615394h-37.35Z" fill="#adcd4a"/>
+<path aria-label="North North: spy; Way: 479; female Concrete Gasoline: except Mountain Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M678.8249999999999,205.30769230769232h37.35v73.69230769230768h-37.35Z" fill="#b2bc45"/>
+<path  d="M76.0,51.0h10v10h-10Z" fill="#e9ddd7" stroke-width="1.5" opacity="1"/>
+<path  d="M181.0,51.0h10v10h-10Z" fill="#adcd4a" stroke-width="1.5" opacity="1"/>
+<path  d="M260.0,51.0h10v10h-10Z" fill="#b2bc45" stroke-width="1.5" opacity="1"/>
+<text aria-label="91,179,49,60" text-anchor="start" x="91.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">decisive primary</text>
+<text aria-label="196,240,49,60" text-anchor="start" x="196.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Handmade</text>
+<text aria-label="275,396,49,60" text-anchor="start" x="275.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">except Mountain Jaguar</text>
+<text aria-label="75,219,32,44" text-anchor="start" x="75.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">female Concrete Gasoline</text>
+</svg>

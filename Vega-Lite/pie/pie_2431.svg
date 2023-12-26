@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="49,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Rustic Bacon</text>
+<path aria-label="Grocery Bedfordshire: 289; Argon Trans: quantify" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.578110082856796,118.69555355477024L51.15728072742832,122.77673927349818A55,55,0,0,1,104.99999999999999,79.0Z" fill="#dda2dd" stroke="black" stroke-width="1"/>
+<path aria-label="Grocery Bedfordshire: 490; Argon Trans: lime" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.578110082856796,118.69555355477024A75,75,0,0,0,143.46744580544296,198.38365952013996L133.20946025732485,181.21468364810264A55,55,0,0,1,51.15728072742832,122.77673927349818Z" fill="#b789fa" stroke="black" stroke-width="1"/>
+<path aria-label="Grocery Bedfordshire: 551; Argon Trans: Rubber" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.46744580544296,198.38365952013996A75,75,0,0,0,105.0,59.0L105.0,79.0A55,55,0,0,1,133.20946025732485,181.21468364810264Z" fill="#ea2aa5" stroke="black" stroke-width="1"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#ea2aa5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,258.25A5,5,0,1,1,68.0,258.25A5,5,0,1,1,78.0,258.25" fill="#b789fa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M126.0,258.25A5,5,0,1,1,116.0,258.25A5,5,0,1,1,126.0,258.25" fill="#dda2dd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Rubber</text>
+<text aria-label="83,105,251,262" text-anchor="start" x="83.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">lime</text>
+<text aria-label="131,175,251,262" text-anchor="start" x="131.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">quantify</text>
+</svg>

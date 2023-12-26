@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="75,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">white East</text>
+<path aria-label="Rhianna ew: 242; Minivan payment East: Ramp" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,48.40323895757075,214.21185466436071L68.77807293284528,196.49558698519087A48,48,0,0,1,104.99999999999999,117.0Z" fill="#7473da" stroke="white" stroke-width="0"/>
+<path aria-label="Rhianna ew: 311; Minivan payment East: Metal" role="graphics-symbol" aria-roledescription="arc mark"  d="M48.40323895757075,214.21185466436071A75,75,0,0,0,170.3613182720458,128.21823721271187L146.8312436941093,141.4596718161356A48,48,0,0,1,68.77807293284528,196.49558698519087Z" fill="#c5c29e" stroke="white" stroke-width="0"/>
+<path aria-label="Rhianna ew: 112; Minivan payment East: Ergonomic" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.3613182720458,128.21823721271187A75,75,0,0,0,105.0,90.0L105.0,117.0A48,48,0,0,1,146.8312436941093,141.4596718161356Z" fill="#64caa3" stroke="white" stroke-width="0"/>
+<text aria-label="13,32,119,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="23.101036930401364" y="131.68298178947683" font-family="monospace" font-size="12px" fill="#7473da" opacity="1">242</text>
+<text aria-label="147,166,230,243" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="156.8634658898403" y="242.55393195399802" font-family="monospace" font-size="12px" fill="#c5c29e" opacity="1">311</text>
+<text aria-label="140,160,79,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.42889839613593" y="91.30691671381835" font-family="monospace" font-size="12px" fill="#64caa3" opacity="1">112</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#64caa3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,40.25A5,5,0,1,1,78.0,40.25A5,5,0,1,1,88.0,40.25" fill="#c5c29e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,40.25A5,5,0,1,1,130.0,40.25A5,5,0,1,1,140.0,40.25" fill="#7473da" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Ergonomic</text>
+<text aria-label="93,120,33,44" text-anchor="start" x="93.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Metal</text>
+<text aria-label="145,167,33,44" text-anchor="start" x="145.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Ramp</text>
+</svg>

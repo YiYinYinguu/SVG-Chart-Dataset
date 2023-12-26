@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="286" viewBox="0 0 308 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,304,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">leafy Southwest payment</text>
+<path aria-label="Soul: 123; killer: Outdoors" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.86097825146875,205.7432758513912A75,75,0,0,0,158.1388874177412,186.92691795300976L134.75777695393506,163.63907405368548A42,42,0,0,1,117.2421478208225,174.17623447677906Z" fill="#022d7d" stroke="black" stroke-width="0"/>
+<path aria-label="Soul: 543; killer: boohoo" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.433768460852974,111.5662195944331A75,75,0,0,0,126.86097825146875,205.7432758513912L117.2421478208225,174.17623447677906A42,42,0,0,1,64.92291033807766,121.43708297288254Z" fill="#7b6dc1" stroke="black" stroke-width="0"/>
+<path aria-label="Soul: 317; killer: vortals" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,33.433768460852974,111.5662195944331L64.92291033807766,121.43708297288254A42,42,0,0,1,104.99999999999999,92.0Z" fill="#d8a485" stroke="black" stroke-width="0"/>
+<path aria-label="Soul: 589; killer: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M158.1388874177412,186.92691795300976A75,75,0,0,0,105.0,59.0L105.0,92.0A42,42,0,0,1,134.75777695393506,163.63907405368548Z" fill="#14498b" stroke="black" stroke-width="0"/>
+<text aria-label="140,161,202,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.39453268420135" y="215.12034321120836" font-family="serif" font-size="13px" fill="#022d7d" opacity="1">123</text>
+<text aria-label="30,51,188,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="41.10653518032804" y="201.38473912021206" font-family="serif" font-size="13px" fill="#7b6dc1" opacity="1">543</text>
+<text aria-label="41,62,52,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="51.721713070901096" y="65.4643250400149" font-family="serif" font-size="13px" fill="#d8a485" opacity="1">317</text>
+<text aria-label="177,198,90,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.1147012836028" y="103.47542280436338" font-family="serif" font-size="13px" fill="#14498b" opacity="1">589</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#14498b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,274.25A5,5,0,1,1,78.0,274.25A5,5,0,1,1,88.0,274.25" fill="#022d7d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,274.25A5,5,0,1,1,145.0,274.25A5,5,0,1,1,155.0,274.25" fill="#7b6dc1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M212.0,274.25A5,5,0,1,1,202.0,274.25A5,5,0,1,1,212.0,274.25" fill="#d8a485" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="93,137,267,278" text-anchor="start" x="93.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Outdoors</text>
+<text aria-label="160,193,267,278" text-anchor="start" x="160.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">boohoo</text>
+<text aria-label="217,255,267,278" text-anchor="start" x="217.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">vortals</text>
+<text aria-label="5,41,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">killer</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="466" height="313" viewBox="0 0 466 313" style="background-color: rgb(255, 255, 255);">
+<line x1="34.5" y1="234.5" x2="461.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="34.5" y1="198.5" x2="461.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="34.5" y1="161.5" x2="461.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="34.5" y1="125.5" x2="461.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="34.5" y1="89.5" x2="461.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="34.5" y1="52.5" x2="461.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="76,92,241,297" text-anchor="end" x="87.375" y="241.5" transform="rotate(270.0, 92.375, 241.5)" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">dreamer</text>
+<text aria-label="183,199,241,289" text-anchor="end" x="194.125" y="241.5" transform="rotate(270.0, 199.125, 241.5)" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">fedora</text>
+<text aria-label="289,305,241,281" text-anchor="end" x="300.875" y="241.5" transform="rotate(270.0, 305.875, 241.5)" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">perch</text>
+<text aria-label="396,412,241,297" text-anchor="end" x="407.625" y="241.5" transform="rotate(270.0, 412.625, 241.5)" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">summary</text>
+<line aria-label="87,87,234,239" x1="87.5" y1="234.5" x2="87.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="194,194,234,239" x1="194.5" y1="234.5" x2="194.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="300,300,234,239" x1="300.5" y1="234.5" x2="300.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="407,407,234,239" x1="407.5" y1="234.5" x2="407.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,461,234,234" x1="34.5" y1="234.5" x2="461.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="228,267,0,26" text-anchor="middle" x="247.5" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">aha</text>
+<text aria-label="24,32,224,240" text-anchor="end" x="32.5" y="239.5" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="8,32,188,204" text-anchor="end" x="32.5" y="203.13636363636363" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="8,32,151,167" text-anchor="end" x="32.5" y="166.77272727272725" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="8,32,115,131" text-anchor="end" x="32.5" y="130.40909090909093" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="8,32,79,95" text-anchor="end" x="32.5" y="94.04545454545453" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="8,32,42,58" text-anchor="end" x="32.5" y="57.68181818181819" font-family="Balto" font-size="15px" font-weight="normal" fill="#000" opacity="1">500</text>
+<line aria-label="34,34,34,234" x1="34.5" y1="234.5" x2="34.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Bellevue Rapids: dreamer; East: 529; VGA Investment lime: convergence" role="graphics-symbol" aria-roledescription="bar" d="M48.94500000000001,41.63636363636364h76.86000000000001v192.36363636363635h-76.86000000000001Z" fill="#db4f03"/>
+<path aria-label="Bellevue Rapids: summary; East: 186; VGA Investment lime: convergence" role="graphics-symbol" aria-roledescription="bar" d="M369.195,166.36363636363637h76.86000000000001v67.63636363636363h-76.86000000000001Z" fill="#db4f03"/>
+<path aria-label="Bellevue Rapids: perch; East: 250; VGA Investment lime: convergence" role="graphics-symbol" aria-roledescription="bar" d="M262.445,143.09090909090907h76.86000000000001v90.90909090909092h-76.86000000000001Z" fill="#db4f03"/>
+<path aria-label="Bellevue Rapids: fedora; East: 462; VGA Investment lime: convergence" role="graphics-symbol" aria-roledescription="bar" d="M155.695,66.0h76.86000000000001v168h-76.86000000000001Z" fill="#db4f03"/>
+<text aria-label="81,92,32,40" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="87.375" y="39.15286363636364" font-family="Balto" font-size="6.404999999999999px" fill="#000" opacity="1">529</text>
+<text aria-label="402,413,157,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="407.625" y="163.88013636363638" font-family="Balto" font-size="6.404999999999999px" fill="#000" opacity="1">186</text>
+<text aria-label="295,306,134,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="300.875" y="140.60740909090907" font-family="Balto" font-size="6.404999999999999px" fill="#000" opacity="1">250</text>
+<text aria-label="188,199,57,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.125" y="63.51650000000001" font-family="Balto" font-size="6.404999999999999px" fill="#000" opacity="1">462</text>
+</svg>

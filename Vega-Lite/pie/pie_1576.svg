@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="309" height="239" viewBox="0 0 309 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="161,304,0,26" text-anchor="end" x="304.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">communities</text>
+<path aria-label="Brooks Australian Blues: 203; Representative: California" role="graphics-symbol" aria-roledescription="arc mark"  d="M235.48667310473013,65.92952610128336A75,75,0,0,0,204.0,59.0L204.0,134.0Z" fill="#08f7c5" stroke="white" stroke-width="4"/>
+<path aria-label="Brooks Australian Blues: 509; Representative: perfectly" role="graphics-symbol" aria-roledescription="arc mark"  d="M204.0,59.0A75,75,0,0,0,137.6308965141276,99.06946747497884L204.0,134.0Z" fill="#f46bce" stroke="white" stroke-width="4"/>
+<path aria-label="Brooks Australian Blues: 357; Representative: Keyboard" role="graphics-symbol" aria-roledescription="arc mark"  d="M227.14582580842026,205.33912494309322A75,75,0,0,0,269.99258206714376,169.6367662970603L204.0,134.0Z" fill="#3a8ad0" stroke="white" stroke-width="4"/>
+<path aria-label="Brooks Australian Blues: 346; Representative: Director" role="graphics-symbol" aria-roledescription="arc mark"  d="M269.99258206714376,169.6367662970603A75,75,0,0,0,276.79107151292874,115.93179842929307L204.0,134.0Z" fill="#ec3316" stroke="white" stroke-width="4"/>
+<path aria-label="Brooks Australian Blues: 522; Representative: Redding" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.1806450639515,186.2348258757281A75,75,0,0,0,227.14582580842026,205.33912494309322L204.0,134.0Z" fill="#0abdf1" stroke="white" stroke-width="4"/>
+<path aria-label="Brooks Australian Blues: 419; Representative: Chicken" role="graphics-symbol" aria-roledescription="arc mark"  d="M276.79107151292874,115.93179842929307A75,75,0,0,0,235.48667310473013,65.92952610128336L204.0,134.0Z" fill="#10fee0" stroke="white" stroke-width="4"/>
+<path aria-label="Brooks Australian Blues: 139; Representative: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.26193273127694,168.22032111531678A75,75,0,0,0,150.1806450639515,186.2348258757281L204.0,134.0Z" fill="#ccbccc" stroke="white" stroke-width="4"/>
+<path aria-label="Brooks Australian Blues: 449; Representative: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.6308965141276,99.06946747497884A75,75,0,0,0,137.26193273127694,168.22032111531678L204.0,134.0Z" fill="#9b3bee" stroke="white" stroke-width="4"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#08f7c5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#10fee0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ec3316" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#3a8ad0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#0abdf1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#ccbccc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#9b3bee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#f46bce" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">California</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Chicken</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Director</text>
+<text aria-label="21,65,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Keyboard</text>
+<text aria-label="21,59,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Redding</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="21,43,145,156" text-anchor="start" x="21.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="21,70,161,172" text-anchor="start" x="21.0" y="171.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">perfectly</text>
+<text aria-label="5,89,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Representative</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="818" height="346" viewBox="0 0 818 346" style="background-color: rgb(255, 255, 255);">
+<line x1="96.5" y1="54.5" x2="96.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="190.5" y1="54.5" x2="190.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="285.5" y1="54.5" x2="285.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="379.5" y1="54.5" x2="379.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="473.5" y1="54.5" x2="473.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="567.5" y1="54.5" x2="567.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="662.5" y1="54.5" x2="662.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="756.5" y1="54.5" x2="756.5" y2="254.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="82,101,261,318" text-anchor="end" x="96.56097560975607" y="261.5" transform="rotate(270.0, 101.56097560975607, 261.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">cactus</text>
+<text aria-label="176,195,261,328" text-anchor="end" x="190.8292682926829" y="261.5" transform="rotate(270.0, 195.8292682926829, 261.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">calorie</text>
+<text aria-label="271,290,261,318" text-anchor="end" x="285.0975609756098" y="261.5" transform="rotate(270.0, 290.0975609756098, 261.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">gallon</text>
+<text aria-label="365,384,261,318" text-anchor="end" x="379.3658536585366" y="261.5" transform="rotate(270.0, 384.3658536585366, 261.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">marker</text>
+<text aria-label="459,478,261,318" text-anchor="end" x="473.6341463414634" y="261.5" transform="rotate(270.0, 478.6341463414634, 261.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">patron</text>
+<text aria-label="553,572,261,309" text-anchor="end" x="567.9024390243902" y="261.5" transform="rotate(270.0, 572.9024390243902, 261.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">total</text>
+<text aria-label="648,667,261,299" text-anchor="end" x="662.1707317073171" y="261.5" transform="rotate(270.0, 667.1707317073171, 261.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">wool</text>
+<text aria-label="742,761,261,347" text-anchor="end" x="756.439024390244" y="261.5" transform="rotate(270.0, 761.439024390244, 261.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">zoologist</text>
+<line aria-label="96,96,254,259" x1="96.5" y1="254.5" x2="96.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="190,190,254,259" x1="190.5" y1="254.5" x2="190.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="285,285,254,259" x1="285.5" y1="254.5" x2="285.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="379,379,254,259" x1="379.5" y1="254.5" x2="379.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="473,473,254,259" x1="473.5" y1="254.5" x2="473.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="567,567,254,259" x1="567.5" y1="254.5" x2="567.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="662,662,254,259" x1="662.5" y1="254.5" x2="662.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="756,756,254,259" x1="756.5" y1="254.5" x2="756.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,813,254,254" x1="40.5" y1="254.5" x2="813.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,291,0,26" text-anchor="start" x="5.6572265625" y="25.405" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Central white Computer</text>
+<text aria-label="5,33,241,260" text-anchor="end" x="33.5" y="259.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">0.0</text>
+<text aria-label="5,33,191,210" text-anchor="end" x="33.5" y="209.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">0.5</text>
+<text aria-label="5,33,141,160" text-anchor="end" x="33.5" y="159.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">1.0</text>
+<text aria-label="5,33,91,110" text-anchor="end" x="33.5" y="109.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">1.5</text>
+<text aria-label="5,33,41,60" text-anchor="end" x="33.5" y="59.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">2.0</text>
+<line aria-label="35,40,254,254" x1="40.5" y1="254.5" x2="35.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,204,204" x1="40.5" y1="204.5" x2="35.5" y2="204.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,154,154" x1="40.5" y1="154.5" x2="35.5" y2="154.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,104,104" x1="40.5" y1="104.5" x2="35.5" y2="104.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,54,54" x1="40.5" y1="54.5" x2="35.5" y2="54.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Corporate Grocery relationships: total; Rustic: 2; Tricycle Seaborgium: unleash Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M530.1951219512196,54.0h75.41463414634147v200h-75.41463414634147Z" fill="#ed3f85"/>
+<path aria-label="Corporate Grocery relationships: patron; Rustic: 2; Tricycle Seaborgium: unleash Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M435.9268292682927,54.0h75.41463414634147v200h-75.41463414634147Z" fill="#ed3f85"/>
+<path aria-label="Corporate Grocery relationships: cactus; Rustic: 1; Tricycle Seaborgium: unleash Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M58.85365853658533,154.0h75.41463414634147v100h-75.41463414634147Z" fill="#ed3f85"/>
+<path aria-label="Corporate Grocery relationships: zoologist; Rustic: 2; Tricycle Seaborgium: unleash Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M718.7317073170732,54.0h75.41463414634147v200h-75.41463414634147Z" fill="#ed3f85"/>
+<path aria-label="Corporate Grocery relationships: gallon; Rustic: 1; Tricycle Seaborgium: unleash Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M247.390243902439,154.0h75.41463414634147v100h-75.41463414634147Z" fill="#ed3f85"/>
+<path aria-label="Corporate Grocery relationships: marker; Rustic: 2; Tricycle Seaborgium: unleash Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M341.6585365853659,54.0h75.41463414634147v200h-75.41463414634147Z" fill="#ed3f85"/>
+<path aria-label="Corporate Grocery relationships: wool; Rustic: 2; Tricycle Seaborgium: unleash Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M624.4634146341464,54.0h75.41463414634147v200h-75.41463414634147Z" fill="#ed3f85"/>
+<path aria-label="Corporate Grocery relationships: calorie; Rustic: 2; Tricycle Seaborgium: unleash Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M153.12195121951217,54.0h75.41463414634147v200h-75.41463414634147Z" fill="#ed3f85"/>
+<text aria-label="563,572,30,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="567.9024390243902" y="47.405" font-family="avenir" font-size="16.564285714285713px" fill="#000" opacity="1">2</text>
+<text aria-label="469,478,30,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="473.6341463414634" y="47.405" font-family="avenir" font-size="16.564285714285713px" fill="#000" opacity="1">2</text>
+<text aria-label="92,100,130,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="96.56097560975607" y="147.405" font-family="avenir" font-size="16.564285714285713px" fill="#000" opacity="1">1</text>
+<text aria-label="752,760,30,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="756.439024390244" y="47.405" font-family="avenir" font-size="16.564285714285713px" fill="#000" opacity="1">2</text>
+<text aria-label="280,289,130,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="285.0975609756098" y="147.405" font-family="avenir" font-size="16.564285714285713px" fill="#000" opacity="1">1</text>
+<text aria-label="374,383,30,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="379.3658536585366" y="47.405" font-family="avenir" font-size="16.564285714285713px" fill="#000" opacity="1">2</text>
+<text aria-label="657,666,30,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="662.1707317073171" y="47.405" font-family="avenir" font-size="16.564285714285713px" fill="#000" opacity="1">2</text>
+<text aria-label="186,195,30,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.8292682926829" y="47.405" font-family="avenir" font-size="16.564285714285713px" fill="#000" opacity="1">2</text>
+</svg>

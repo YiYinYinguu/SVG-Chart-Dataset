@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="218" height="286" viewBox="0 0 218 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="85,124,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">VGA</text>
+<path aria-label="online Soap: 147; Aluminium: handsome" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.869175550641785,192.38511600548867L105.0,181.0Z" fill="#dfb2f4" stroke="black" stroke-width="4"/>
+<path aria-label="online Soap: 273; Aluminium: Cyclocross" role="graphics-symbol" aria-roledescription="arc mark"  d="M100.60663122076957,255.87121149527155A75,75,0,1,0,105.0,106.0L105.0,181.0Z" fill="#423ab6" stroke="black" stroke-width="4"/>
+<path aria-label="online Soap: 116; Aluminium: Gender" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.869175550641785,192.38511600548867A75,75,0,0,0,100.60663122076957,255.87121149527155L105.0,181.0Z" fill="#5bdca1" stroke="black" stroke-width="4"/>
+<text aria-label="26,46,114,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="36.700686209183715" y="126.38938888133299" font-family="Balto" font-size="12px" fill="#dfb2f4" opacity="1">147</text>
+<text aria-label="185,204,175,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.96135515177983" y="187.6371536275568" font-family="Balto" font-size="12px" fill="#423ab6" opacity="1">273</text>
+<text aria-label="34,54,239,252" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="44.41326904852946" y="251.55259598703964" font-family="Balto" font-size="12px" fill="#5bdca1" opacity="1">116</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#423ab6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M94.0,56.25A5,5,0,1,1,84.0,56.25A5,5,0,1,1,94.0,56.25" fill="#5bdca1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M157.0,56.25A5,5,0,1,1,147.0,56.25A5,5,0,1,1,157.0,56.25" fill="#dfb2f4" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Cyclocross</text>
+<text aria-label="99,132,49,60" text-anchor="start" x="99.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Gender</text>
+<text aria-label="162,206,49,60" text-anchor="start" x="162.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">handsome</text>
+<text aria-label="5,59,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Aluminium</text>
+</svg>

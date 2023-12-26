@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="949" height="317" viewBox="0 0 949 317" style="background-color: rgb(255, 255, 255);">
+<line x1="122.5" y1="34.5" x2="122.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="219.5" y1="34.5" x2="219.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="315.5" y1="34.5" x2="315.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="412.5" y1="34.5" x2="412.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="509.5" y1="34.5" x2="509.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="605.5" y1="34.5" x2="605.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="702.5" y1="34.5" x2="702.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="799.5" y1="34.5" x2="799.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="895.5" y1="34.5" x2="895.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="109,127,241,277" text-anchor="end" x="122.33333333333331" y="241.5" transform="rotate(270.0, 127.33333333333331, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">axis</text>
+<text aria-label="206,224,241,277" text-anchor="end" x="219.0" y="241.5" transform="rotate(270.0, 224.0, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">bull</text>
+<text aria-label="302,320,241,286" text-anchor="end" x="315.66666666666663" y="241.5" transform="rotate(270.0, 320.66666666666663, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">craft</text>
+<text aria-label="399,417,241,322" text-anchor="end" x="412.3333333333333" y="241.5" transform="rotate(270.0, 417.3333333333333, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">facsimile</text>
+<text aria-label="496,514,241,304" text-anchor="end" x="509.0" y="241.5" transform="rotate(270.0, 514.0, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">iceberg</text>
+<text aria-label="592,610,241,268" text-anchor="end" x="605.6666666666667" y="241.5" transform="rotate(270.0, 610.6666666666667, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">mud</text>
+<text aria-label="689,707,241,304" text-anchor="end" x="702.3333333333333" y="241.5" transform="rotate(270.0, 707.3333333333333, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">pendant</text>
+<text aria-label="786,804,241,277" text-anchor="end" x="799.0" y="241.5" transform="rotate(270.0, 804.0, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">ping</text>
+<text aria-label="882,900,241,277" text-anchor="end" x="895.6666666666667" y="241.5" transform="rotate(270.0, 900.6666666666667, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">tube</text>
+<line aria-label="122,122,234,239" x1="122.5" y1="234.5" x2="122.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="219,219,234,239" x1="219.5" y1="234.5" x2="219.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="315,315,234,239" x1="315.5" y1="234.5" x2="315.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="412,412,234,239" x1="412.5" y1="234.5" x2="412.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="509,509,234,239" x1="509.5" y1="234.5" x2="509.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="605,605,234,239" x1="605.5" y1="234.5" x2="605.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="702,702,234,239" x1="702.5" y1="234.5" x2="702.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="799,799,234,239" x1="799.5" y1="234.5" x2="799.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="895,895,234,239" x1="895.5" y1="234.5" x2="895.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="74,944,234,234" x1="74.5" y1="234.5" x2="944.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,369,0,26" text-anchor="start" x="5.20849609375" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Maserati Research Investment</text>
+<text aria-label="58,67,222,240" text-anchor="end" x="67.5" y="239.5" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="40,67,191,209" text-anchor="end" x="67.5" y="208.73076923076923" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="40,67,160,178" text-anchor="end" x="67.5" y="177.96153846153845" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="40,67,130,148" text-anchor="end" x="67.5" y="147.19230769230768" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="40,67,99,117" text-anchor="end" x="67.5" y="116.42307692307692" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="22,67,68,86" text-anchor="end" x="67.5" y="85.65384615384615" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="22,67,37,55" text-anchor="end" x="67.5" y="54.88461538461537" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">1,200</text>
+<line aria-label="69,74,234,234" x1="74.5" y1="234.5" x2="69.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="69,74,203,203" x1="74.5" y1="203.5" x2="69.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="69,74,172,172" x1="74.5" y1="172.5" x2="69.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="69,74,142,142" x1="74.5" y1="142.5" x2="69.5" y2="142.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="69,74,111,111" x1="74.5" y1="111.5" x2="69.5" y2="111.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="69,74,80,80" x1="74.5" y1="80.5" x2="69.5" y2="80.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="69,74,49,49" x1="74.5" y1="49.5" x2="69.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,113,155" text-anchor="middle" x="16.70849609375" y="134.5" transform="rotate(-90.0, 14.70849609375, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">neutral</text>
+<line aria-label="74,74,34,234" x1="74.5" y1="234.5" x2="74.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Home: facsimile; neutral: 394; Account Towels Electric: Man override" role="graphics-symbol" aria-roledescription="bar" d="M377.5333333333333,79.69230769230771h69.60000000000001v60.615384615384606h-69.60000000000001Z" fill="#e4eaab"/>
+<path aria-label="Home: facsimile; neutral: 609; Account Towels Electric: input SUV workforce" role="graphics-symbol" aria-roledescription="bar" d="M377.5333333333333,140.30769230769232h69.60000000000001v93.6923076923077h-69.60000000000001Z" fill="#fd799d"/>
+<path aria-label="Home: pendant; neutral: 519; Account Towels Electric: Man override" role="graphics-symbol" aria-roledescription="bar" d="M667.5333333333333,102.0h69.60000000000001v79.84615384615384h-69.60000000000001Z" fill="#e4eaab"/>
+<path aria-label="Home: pendant; neutral: 339; Account Towels Electric: input SUV workforce" role="graphics-symbol" aria-roledescription="bar" d="M667.5333333333333,181.84615384615384h69.60000000000001v52.15384615384616h-69.60000000000001Z" fill="#fd799d"/>
+<path aria-label="Home: mud; neutral: 414; Account Towels Electric: Man override" role="graphics-symbol" aria-roledescription="bar" d="M570.8666666666667,133.84615384615387h69.60000000000001v63.69230769230769h-69.60000000000001Z" fill="#e4eaab"/>
+<path aria-label="Home: mud; neutral: 237; Account Towels Electric: input SUV workforce" role="graphics-symbol" aria-roledescription="bar" d="M570.8666666666667,197.53846153846155h69.60000000000001v36.46153846153845h-69.60000000000001Z" fill="#fd799d"/>
+<path aria-label="Home: ping; neutral: 610; Account Towels Electric: Man override" role="graphics-symbol" aria-roledescription="bar" d="M764.2,48.615384615384606h69.60000000000001v93.84615384615387h-69.60000000000001Z" fill="#e4eaab"/>
+<path aria-label="Home: ping; neutral: 595; Account Towels Electric: input SUV workforce" role="graphics-symbol" aria-roledescription="bar" d="M764.2,142.46153846153848h69.60000000000001v91.53846153846152h-69.60000000000001Z" fill="#fd799d"/>
+<path aria-label="Home: bull; neutral: 582; Account Towels Electric: Man override" role="graphics-symbol" aria-roledescription="bar" d="M184.2,105.84615384615385h69.60000000000001v89.5384615384615h-69.60000000000001Z" fill="#e4eaab"/>
+<path aria-label="Home: bull; neutral: 251; Account Towels Electric: input SUV workforce" role="graphics-symbol" aria-roledescription="bar" d="M184.2,195.38461538461536h69.60000000000001v38.61538461538464h-69.60000000000001Z" fill="#fd799d"/>
+<path aria-label="Home: iceberg; neutral: 638; Account Towels Electric: Man override" role="graphics-symbol" aria-roledescription="bar" d="M474.2,111.84615384615385h69.60000000000001v98.15384615384615h-69.60000000000001Z" fill="#e4eaab"/>
+<path aria-label="Home: iceberg; neutral: 156; Account Towels Electric: input SUV workforce" role="graphics-symbol" aria-roledescription="bar" d="M474.2,210.0h69.60000000000001v24h-69.60000000000001Z" fill="#fd799d"/>
+<path aria-label="Home: craft; neutral: 274; Account Towels Electric: Man override" role="graphics-symbol" aria-roledescription="bar" d="M280.8666666666667,155.0769230769231h69.60000000000001v42.153846153846146h-69.60000000000001Z" fill="#e4eaab"/>
+<path aria-label="Home: craft; neutral: 239; Account Towels Electric: input SUV workforce" role="graphics-symbol" aria-roledescription="bar" d="M280.8666666666667,197.23076923076923h69.60000000000001v36.769230769230774h-69.60000000000001Z" fill="#fd799d"/>
+<path aria-label="Home: tube; neutral: 102; Account Towels Electric: Man override" role="graphics-symbol" aria-roledescription="bar" d="M860.8666666666668,148.92307692307693h69.60000000000001v15.69230769230768h-69.60000000000001Z" fill="#e4eaab"/>
+<path aria-label="Home: tube; neutral: 451; Account Towels Electric: input SUV workforce" role="graphics-symbol" aria-roledescription="bar" d="M860.8666666666668,164.6153846153846h69.60000000000001v69.38461538461539h-69.60000000000001Z" fill="#fd799d"/>
+<path aria-label="Home: axis; neutral: 685; Account Towels Electric: Man override" role="graphics-symbol" aria-roledescription="bar" d="M87.53333333333332,109.07692307692308h69.60000000000001v105.38461538461537h-69.60000000000001Z" fill="#e4eaab"/>
+<path aria-label="Home: axis; neutral: 127; Account Towels Electric: input SUV workforce" role="graphics-symbol" aria-roledescription="bar" d="M87.53333333333332,214.46153846153845h69.60000000000001v19.538461538461547h-69.60000000000001Z" fill="#fd799d"/>
+</svg>

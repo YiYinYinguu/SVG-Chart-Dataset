@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="337" height="239" viewBox="0 0 337 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="267,332,0,26" text-anchor="end" x="332.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Court</text>
+<path aria-label="East: 63; Modern ADP Gasoline: hacking" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.878651402567215,157.80659097146096A75,75,0,0,0,95.07346093018334,208.34018981745612L97.85289186973202,187.5249366685684A54,54,0,0,1,53.7926290098484,151.1407454994519Z" fill="#d6b77c" stroke="black" stroke-width="0"/>
+<path aria-label="East: 84; Modern ADP Gasoline: Luxurious" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.73510991251072,127.70211572312238A75,75,0,0,0,105.0,59.0L105.0,80.0A54,54,0,0,1,158.8092791370077,129.46552332064812Z" fill="#de61fa" stroke="black" stroke-width="0"/>
+<path aria-label="East: 107; Modern ADP Gasoline: repeatedly" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,33.878651402567215,157.80659097146096L53.7926290098484,151.1407454994519A54,54,0,0,1,104.99999999999999,80.0Z" fill="#66bacd" stroke="black" stroke-width="0"/>
+<path aria-label="East: 101; Modern ADP Gasoline: Manager" role="graphics-symbol" aria-roledescription="arc mark"  d="M95.07346093018334,208.34018981745612A75,75,0,0,0,179.73510991251072,127.70211572312238L158.8092791370077,129.46552332064812A54,54,0,0,1,97.85289186973202,187.5249366685684Z" fill="#b7e4bb" stroke="black" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#de61fa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#b7e4bb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#d6b77c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#66bacd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Luxurious</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Manager</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">hacking</text>
+<text aria-label="239,294,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">repeatedly</text>
+<text aria-label="223,337,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Modern ADP Gasoline</text>
+</svg>

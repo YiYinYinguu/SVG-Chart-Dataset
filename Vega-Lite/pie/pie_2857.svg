@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="49,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Nitrogen lux</text>
+<path aria-label="moccasins Northeast: 46; Bespoke: copy" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,82.55539162156639,62.437163592135704L93.02954219816874,95.83315391580571A40,40,0,0,1,104.99999999999999,94.0Z" fill="#39e6cd" stroke="black" stroke-width="0"/>
+<path aria-label="moccasins Northeast: 734; Bespoke: Direct" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.70369726645906,123.75015121447943A75,75,0,1,0,105.0,59.0L105.0,94.0A40,40,0,1,1,65.37530520877817,128.5334139810557Z" fill="#02f1e2" stroke="black" stroke-width="0"/>
+<path aria-label="moccasins Northeast: 171; Bespoke: Myanmar" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.55539162156639,62.437163592135704A75,75,0,0,0,30.70369726645906,123.75015121447943L65.37530520877817,128.5334139810557A40,40,0,0,1,93.02954219816874,95.83315391580571Z" fill="#eceb6d" stroke="black" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#02f1e2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,274.25A5,5,0,1,1,63.0,274.25A5,5,0,1,1,73.0,274.25" fill="#eceb6d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,274.25A5,5,0,1,1,125.0,274.25A5,5,0,1,1,135.0,274.25" fill="#39e6cd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Direct</text>
+<text aria-label="78,116,267,278" text-anchor="start" x="78.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Myanmar</text>
+<text aria-label="140,162,267,278" text-anchor="start" x="140.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">copy</text>
+<text aria-label="5,47,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bespoke</text>
+</svg>

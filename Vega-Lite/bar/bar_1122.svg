@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="866" height="294" viewBox="0 0 866 294" style="background-color: rgb(255, 255, 255);">
+<line x1="186.5" y1="40.5" x2="186.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="456.5" y1="40.5" x2="456.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="726.5" y1="40.5" x2="726.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="240.5" x2="861.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="190.5" x2="861.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="140.5" x2="861.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="90.5" x2="861.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="40.5" x2="861.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="177,190,247,286" text-anchor="end" x="186.83333333333331" y="247.5" transform="rotate(270.0, 190.83333333333331, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">editor</text>
+<text aria-label="447,460,247,280" text-anchor="end" x="456.5" y="247.5" transform="rotate(270.0, 460.5, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">press</text>
+<text aria-label="717,730,247,273" text-anchor="end" x="726.1666666666666" y="247.5" transform="rotate(270.0, 730.1666666666666, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">tuna</text>
+<line aria-label="186,186,240,245" x1="186.5" y1="240.5" x2="186.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="456,456,240,245" x1="456.5" y1="240.5" x2="456.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="726,726,240,245" x1="726.5" y1="240.5" x2="726.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,861,240,240" x1="52.5" y1="240.5" x2="861.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,135,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">cupiditate</text>
+<text aria-label="44,50,232,245" text-anchor="end" x="50.5" y="244.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="31,50,182,195" text-anchor="end" x="50.5" y="194.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="18,50,132,145" text-anchor="end" x="50.5" y="144.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="18,50,82,95" text-anchor="end" x="50.5" y="94.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<text aria-label="18,50,32,45" text-anchor="end" x="50.5" y="44.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">2,000</text>
+<text aria-label="2,14,86,194" text-anchor="middle" x="16.5" y="140.5" transform="rotate(-90.0, 14.5, 140.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">red Georgia indigo</text>
+<line aria-label="52,52,40,240" x1="52.5" y1="240.5" x2="52.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="front: editor; red Georgia indigo: 242; Joliet Bicycle: channels Computers" role="graphics-symbol" aria-roledescription="bar" d="M114.02333333333328,193.2h145.62000000000003v24.200000000000017h-145.62000000000003Z" fill="#cf607d"/>
+<path aria-label="front: editor; red Georgia indigo: 226; Joliet Bicycle: female Baby PNG" role="graphics-symbol" aria-roledescription="bar" d="M114.02333333333328,217.4h145.62000000000003v22.599999999999994h-145.62000000000003Z" fill="#d6b4bc"/>
+<path aria-label="front: editor; red Georgia indigo: 139; Joliet Bicycle: backing magenta Analyst" role="graphics-symbol" aria-roledescription="bar" d="M114.02333333333328,179.3h145.62000000000003v13.899999999999977h-145.62000000000003Z" fill="#e6e045"/>
+<path aria-label="front: press; red Georgia indigo: 850; Joliet Bicycle: channels Computers" role="graphics-symbol" aria-roledescription="bar" d="M383.68999999999994,127.9h145.62000000000003v85h-145.62000000000003Z" fill="#cf607d"/>
+<path aria-label="front: press; red Georgia indigo: 271; Joliet Bicycle: female Baby PNG" role="graphics-symbol" aria-roledescription="bar" d="M383.68999999999994,212.9h145.62000000000003v27.099999999999994h-145.62000000000003Z" fill="#d6b4bc"/>
+<path aria-label="front: press; red Georgia indigo: 841; Joliet Bicycle: backing magenta Analyst" role="graphics-symbol" aria-roledescription="bar" d="M383.68999999999994,43.800000000000004h145.62000000000003v84.10000000000001h-145.62000000000003Z" fill="#e6e045"/>
+<path aria-label="front: tuna; red Georgia indigo: 178; Joliet Bicycle: channels Computers" role="graphics-symbol" aria-roledescription="bar" d="M653.3566666666666,185.9h145.62000000000003v17.799999999999983h-145.62000000000003Z" fill="#cf607d"/>
+<path aria-label="front: tuna; red Georgia indigo: 363; Joliet Bicycle: female Baby PNG" role="graphics-symbol" aria-roledescription="bar" d="M653.3566666666666,203.7h145.62000000000003v36.30000000000001h-145.62000000000003Z" fill="#d6b4bc"/>
+<path aria-label="front: tuna; red Georgia indigo: 149; Joliet Bicycle: backing magenta Analyst" role="graphics-symbol" aria-roledescription="bar" d="M653.3566666666666,171.0h145.62000000000003v14.900000000000006h-145.62000000000003Z" fill="#e6e045"/>
+</svg>

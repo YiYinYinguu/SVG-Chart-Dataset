@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="267" height="286" viewBox="0 0 267 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,170,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Operations</text>
+<path aria-label="Incredible tan: 8; OCR: Sausages" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.93050897730805,78.03622356142358A75,75,0,0,0,105.0,59.0L105.0,88.0A46,46,0,0,1,135.62404550608227,99.67555045100647Z" fill="#33ccae" stroke="white" stroke-width="3"/>
+<path aria-label="Incredible tan: 41; OCR: occurrence" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,146.8450536138475,196.24139689992688L130.66496621649313,172.17472343195516A46,46,0,1,1,104.99999999999999,88.0Z" fill="#1951bc" stroke="white" stroke-width="3"/>
+<path aria-label="Incredible tan: 8; OCR: black" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.51466244987733,125.48148604621439A75,75,0,0,0,154.93050897730805,78.03622356142358L135.62404550608227,99.67555045100647A46,46,0,0,1,150.70232630259144,128.77531144167816Z" fill="#ed6c8a" stroke="white" stroke-width="3"/>
+<path aria-label="Incredible tan: 12; OCR: bluetooth" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.8450536138475,196.24139689992688A75,75,0,0,0,179.51466244987733,125.48148604621439L150.70232630259144,128.77531144167816A46,46,0,0,1,130.66496621649313,172.17472343195516Z" fill="#7a8ed8" stroke="white" stroke-width="3"/>
+<text aria-label="134,139,42,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.06175404304753" y="52.90455465553961" font-family="serif" font-size="10px" fill="#33ccae" opacity="1">8</text>
+<text aria-label="13,24,153,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.912629076059886" y="163.24813455093428" font-family="serif" font-size="10px" fill="#1951bc" opacity="1">41</text>
+<text aria-label="182,187,85,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.90966965621377" y="95.59414660419631" font-family="serif" font-size="10px" fill="#ed6c8a" opacity="1">8</text>
+<text aria-label="181,192,164,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.71142797873603" y="174.72588683749976" font-family="serif" font-size="10px" fill="#7a8ed8" opacity="1">12</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#33ccae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#ed6c8a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,274.25A5,5,0,1,1,125.0,274.25A5,5,0,1,1,135.0,274.25" fill="#7a8ed8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,274.25A5,5,0,1,1,197.0,274.25A5,5,0,1,1,207.0,274.25" fill="#1951bc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Sausages</text>
+<text aria-label="88,115,267,278" text-anchor="start" x="88.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">black</text>
+<text aria-label="140,189,267,278" text-anchor="start" x="140.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">bluetooth</text>
+<text aria-label="212,267,267,278" text-anchor="start" x="212.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">occurrence</text>
+<text aria-label="5,23,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">OCR</text>
+</svg>

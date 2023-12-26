@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="241" height="286" viewBox="0 0 241 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">UDP Missouri</text>
+<path aria-label="Planner: 14; Minnesota Dodge array: repurpose" role="graphics-symbol" aria-roledescription="arc mark"  d="M49.0085083791028,183.8994275124174A75,75,0,0,0,177.31901215898557,153.87361266474963L139.71312583631308,143.53933407907982A36,36,0,0,1,78.12408402196934,157.95172520596034Z" fill="#dfc580" stroke="white" stroke-width="2"/>
+<path aria-label="Planner: 10; Minnesota Dodge array: sail" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.992562440581864,79.96088047994098A75,75,0,0,0,49.0085083791028,183.8994275124174L78.12408402196934,157.95172520596034A36,36,0,0,1,80.0364299714793,108.06122263037167Z" fill="#4b1fcc" stroke="white" stroke-width="2"/>
+<path aria-label="Planner: 12; Minnesota Dodge array: maximize" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.31901215898557,153.87361266474963A75,75,0,0,0,105.0,59.0L105.0,98.0A36,36,0,0,1,139.71312583631308,143.53933407907982Z" fill="#d56030" stroke="white" stroke-width="2"/>
+<path aria-label="Planner: 5; Minnesota Dodge array: solid" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,52.992562440581864,79.96088047994098L80.0364299714793,108.06122263037167A36,36,0,0,1,105.0,98.0Z" fill="#ac8bd1" stroke="white" stroke-width="2"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#d56030" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M89.0,274.25A5,5,0,1,1,79.0,274.25A5,5,0,1,1,89.0,274.25" fill="#dfc580" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M165.0,274.25A5,5,0,1,1,155.0,274.25A5,5,0,1,1,165.0,274.25" fill="#4b1fcc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M208.0,274.25A5,5,0,1,1,198.0,274.25A5,5,0,1,1,208.0,274.25" fill="#ac8bd1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">maximize</text>
+<text aria-label="94,143,267,278" text-anchor="start" x="94.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">repurpose</text>
+<text aria-label="170,192,267,278" text-anchor="start" x="170.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">sail</text>
+<text aria-label="213,240,267,278" text-anchor="start" x="213.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">solid</text>
+<text aria-label="5,131,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Minnesota Dodge array</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="420" height="311" viewBox="0 0 420 311" style="background-color: rgb(255, 255, 255);">
+<line x1="110.5" y1="34.5" x2="110.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="178.5" y1="34.5" x2="178.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="245.5" y1="34.5" x2="245.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="313.5" y1="34.5" x2="313.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="381.5" y1="34.5" x2="381.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="234.5" x2="415.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="178.5" x2="415.5" y2="178.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="123.5" x2="415.5" y2="123.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="67.5" x2="415.5" y2="67.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="96,115,241,298" text-anchor="end" x="110.8" y="241.5" transform="rotate(270.0, 115.8, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">e-mail</text>
+<text aria-label="164,183,241,298" text-anchor="end" x="178.39999999999998" y="241.5" transform="rotate(270.0, 183.39999999999998, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">enigma</text>
+<text aria-label="231,250,241,279" text-anchor="end" x="245.99999999999997" y="241.5" transform="rotate(270.0, 250.99999999999997, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">lake</text>
+<text aria-label="299,318,241,298" text-anchor="end" x="313.59999999999997" y="241.5" transform="rotate(270.0, 318.59999999999997, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">ligand</text>
+<text aria-label="367,386,241,298" text-anchor="end" x="381.2" y="241.5" transform="rotate(270.0, 386.2, 241.5)" font-family="avenir" font-size="18px" font-weight="normal" fill="#000" opacity="1">mentor</text>
+<line aria-label="110,110,234,239" x1="110.5" y1="234.5" x2="110.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="178,178,234,239" x1="178.5" y1="234.5" x2="178.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="245,245,234,239" x1="245.5" y1="234.5" x2="245.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="313,313,234,239" x1="313.5" y1="234.5" x2="313.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="381,381,234,239" x1="381.5" y1="234.5" x2="381.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="77,415,234,234" x1="77.5" y1="234.5" x2="415.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,174,0,26" text-anchor="start" x="5.4560546875" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">gross Islands</text>
+<text aria-label="61,70,221,240" text-anchor="end" x="70.5" y="239.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="42,70,165,184" text-anchor="end" x="70.5" y="183.94444444444443" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="23,70,110,129" text-anchor="end" x="70.5" y="128.38888888888889" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="23,70,54,73" text-anchor="end" x="70.5" y="72.83333333333333" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<line aria-label="72,77,234,234" x1="77.5" y1="234.5" x2="72.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,178,178" x1="77.5" y1="178.5" x2="72.5" y2="178.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,123,123" x1="77.5" y1="123.5" x2="72.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,67,67" x1="77.5" y1="67.5" x2="72.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,89,179" text-anchor="middle" x="16.9560546875" y="134.5" transform="rotate(-90.0, 14.9560546875, 134.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">dirty Rosenbaum</text>
+<path aria-label="West: lake; dirty Rosenbaum: 64; Clothing: Franc ride" role="graphics-symbol" aria-roledescription="bar" d="M224.706,185.55555555555554h42.588v7.111111111111114h-42.588Z" fill="#f7edad"/>
+<path aria-label="West: lake; dirty Rosenbaum: 483; Clothing: Computer" role="graphics-symbol" aria-roledescription="bar" d="M224.706,131.88888888888889h42.588v53.66666666666666h-42.588Z" fill="#7ffbbe"/>
+<path aria-label="West: lake; dirty Rosenbaum: 372; Clothing: generate Borders Iceland" role="graphics-symbol" aria-roledescription="bar" d="M224.706,192.66666666666666h42.588v41.33333333333334h-42.588Z" fill="#fadedc"/>
+<path aria-label="West: ligand; dirty Rosenbaum: 233; Clothing: Franc ride" role="graphics-symbol" aria-roledescription="bar" d="M292.306,149.77777777777777h42.588v25.88888888888887h-42.588Z" fill="#f7edad"/>
+<path aria-label="West: ligand; dirty Rosenbaum: 520; Clothing: Computer" role="graphics-symbol" aria-roledescription="bar" d="M292.306,92.0h42.588v57.77777777777778h-42.588Z" fill="#7ffbbe"/>
+<path aria-label="West: ligand; dirty Rosenbaum: 525; Clothing: generate Borders Iceland" role="graphics-symbol" aria-roledescription="bar" d="M292.306,175.66666666666666h42.588v58.33333333333334h-42.588Z" fill="#fadedc"/>
+<path aria-label="West: e-mail; dirty Rosenbaum: 534; Clothing: Franc ride" role="graphics-symbol" aria-roledescription="bar" d="M89.506,109.33333333333334h42.588v59.333333333333314h-42.588Z" fill="#f7edad"/>
+<path aria-label="West: e-mail; dirty Rosenbaum: 620; Clothing: Computer" role="graphics-symbol" aria-roledescription="bar" d="M89.506,40.44444444444445h42.588v68.88888888888889h-42.588Z" fill="#7ffbbe"/>
+<path aria-label="West: e-mail; dirty Rosenbaum: 588; Clothing: generate Borders Iceland" role="graphics-symbol" aria-roledescription="bar" d="M89.506,168.66666666666666h42.588v65.33333333333334h-42.588Z" fill="#fadedc"/>
+<path aria-label="West: mentor; dirty Rosenbaum: 482; Clothing: Franc ride" role="graphics-symbol" aria-roledescription="bar" d="M359.90599999999995,137.22222222222223h42.588v53.55555555555553h-42.588Z" fill="#f7edad"/>
+<path aria-label="West: mentor; dirty Rosenbaum: 127; Clothing: Computer" role="graphics-symbol" aria-roledescription="bar" d="M359.90599999999995,123.11111111111111h42.588v14.111111111111128h-42.588Z" fill="#7ffbbe"/>
+<path aria-label="West: mentor; dirty Rosenbaum: 389; Clothing: generate Borders Iceland" role="graphics-symbol" aria-roledescription="bar" d="M359.90599999999995,190.77777777777777h42.588v43.22222222222223h-42.588Z" fill="#fadedc"/>
+<path aria-label="West: enigma; dirty Rosenbaum: 521; Clothing: Franc ride" role="graphics-symbol" aria-roledescription="bar" d="M157.106,136.22222222222223h42.588v57.8888888888889h-42.588Z" fill="#f7edad"/>
+<path aria-label="West: enigma; dirty Rosenbaum: 607; Clothing: Computer" role="graphics-symbol" aria-roledescription="bar" d="M157.106,68.77777777777777h42.588v67.44444444444444h-42.588Z" fill="#7ffbbe"/>
+<path aria-label="West: enigma; dirty Rosenbaum: 359; Clothing: generate Borders Iceland" role="graphics-symbol" aria-roledescription="bar" d="M157.106,194.11111111111111h42.588v39.888888888888886h-42.588Z" fill="#fadedc"/>
+</svg>

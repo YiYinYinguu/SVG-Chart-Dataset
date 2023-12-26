@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="286" viewBox="0 0 279 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">indeed male XML</text>
+<path aria-label="Steel aha: 479; Concrete: Auto" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.8753974628852,176.6785587155483A75,75,0,0,0,105.0,106.0L105.0,122.0A59,59,0,0,1,163.9019793374697,177.60046618956466Z" fill="#efafec" stroke="black" stroke-width="0"/>
+<path aria-label="Steel aha: 554; Concrete: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.11730612669672,243.87770146611413A75,75,0,0,0,174.15991812820062,210.0156117374869L159.40580226085115,203.82561456682302A59,59,0,0,1,72.83894748633476,230.4637918200098Z" fill="#362b6c" stroke="black" stroke-width="0"/>
+<path aria-label="Steel aha: 202; Concrete: katal" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.707154732046135,207.15178586895158A75,75,0,0,0,64.11730612669672,243.87770146611413L72.83894748633476,230.4637918200098A59,59,0,0,1,49.70296172254295,201.57273821690856Z" fill="#3efb11" stroke="black" stroke-width="0"/>
+<path aria-label="Steel aha: 144; Concrete: Facilitator" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.15991812820062,210.0156117374869A75,75,0,0,0,179.8753974628852,176.6785587155483L163.9019793374697,177.60046618956466A59,59,0,0,1,159.40580226085115,203.82561456682302Z" fill="#ddc6ff" stroke="black" stroke-width="0"/>
+<path aria-label="Steel aha: 610; Concrete: local" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,34.707154732046135,207.15178586895158L49.70296172254295,201.57273821690856A59,59,0,0,1,104.99999999999999,122.0Z" fill="#b3d12b" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#efafec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,56.25A5,5,0,1,1,53.0,56.25A5,5,0,1,1,63.0,56.25" fill="#ddc6ff" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,56.25A5,5,0,1,1,135.0,56.25A5,5,0,1,1,145.0,56.25" fill="#362b6c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,56.25A5,5,0,1,1,182.0,56.25A5,5,0,1,1,192.0,56.25" fill="#3efb11" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M244.0,56.25A5,5,0,1,1,234.0,56.25A5,5,0,1,1,244.0,56.25" fill="#b3d12b" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Auto</text>
+<text aria-label="68,128,49,60" text-anchor="start" x="68.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Facilitator</text>
+<text aria-label="150,172,49,60" text-anchor="start" x="150.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="197,224,49,60" text-anchor="start" x="197.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">katal</text>
+<text aria-label="249,276,49,60" text-anchor="start" x="249.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">local</text>
+<text aria-label="5,53,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Concrete</text>
+</svg>

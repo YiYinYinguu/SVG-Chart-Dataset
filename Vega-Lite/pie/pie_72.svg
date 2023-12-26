@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="270" viewBox="0 0 289 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">circuit</text>
+<path aria-label="Modern novel: 152; deposit: Optimization" role="graphics-symbol" aria-roledescription="arc mark"  d="M47.563600026951576,116.77075619361213A75,75,0,0,0,79.44751289662511,235.5129094764346L105.0,165.0Z" fill="#b3f9df" stroke="black" stroke-width="1"/>
+<path aria-label="Modern novel: 69; deposit: expedition" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,47.563600026951576,116.77075619361213L105.0,165.0Z" fill="#85f6c8" stroke="black" stroke-width="1"/>
+<path aria-label="Modern novel: 167; deposit: Franc" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.31059668971943,203.58946946269475A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#e05c65" stroke="black" stroke-width="1"/>
+<path aria-label="Modern novel: 109; deposit: Hafnium" role="graphics-symbol" aria-roledescription="arc mark"  d="M79.44751289662511,235.5129094764346A75,75,0,0,0,169.31059668971943,203.58946946269475L105.0,165.0Z" fill="#2e069b" stroke="black" stroke-width="1"/>
+<text aria-label="9,26,181,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.07895787559336" y="191.33950376522876" font-family="avenir" font-size="10px" fill="#b3f9df" opacity="1">152</text>
+<text aria-label="61,72,76,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="66.97867921211771" y="86.42562188073421" font-family="avenir" font-size="10px" fill="#85f6c8" opacity="1">69</text>
+<text aria-label="175,191,113,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="183.31878032110507" y="123.65849969820052" font-family="avenir" font-size="10px" fill="#e05c65" opacity="1">167</text>
+<text aria-label="126,143,242,253" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="135.12751149973155" y="252.8076237777804" font-family="avenir" font-size="10px" fill="#2e069b" opacity="1">109</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#e05c65" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M69.0,40.25A5,5,0,1,1,59.0,40.25A5,5,0,1,1,69.0,40.25" fill="#2e069b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M138.0,40.25A5,5,0,1,1,128.0,40.25A5,5,0,1,1,138.0,40.25" fill="#b3f9df" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M228.0,40.25A5,5,0,1,1,218.0,40.25A5,5,0,1,1,228.0,40.25" fill="#85f6c8" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Franc</text>
+<text aria-label="74,112,33,44" text-anchor="start" x="74.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hafnium</text>
+<text aria-label="143,209,33,44" text-anchor="start" x="143.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Optimization</text>
+<text aria-label="233,288,33,44" text-anchor="start" x="233.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">expedition</text>
+</svg>

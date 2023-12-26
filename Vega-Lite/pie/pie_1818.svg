@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="300" height="286" viewBox="0 0 300 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="74,295,0,26" text-anchor="end" x="295.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">lumen South Wagon</text>
+<path aria-label="generate UDP: 428; drive Silver Texas: barring" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,49.89310531139702,231.87465142661148L105.0,181.0Z" fill="#1eb5e7" stroke="black" stroke-width="0"/>
+<path aria-label="generate UDP: 142; drive Silver Texas: Implementation" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.30235406851872,250.45485407212516A75,75,0,0,0,173.62279403967233,211.26404034805518L105.0,181.0Z" fill="#d67392" stroke="black" stroke-width="0"/>
+<path aria-label="generate UDP: 224; drive Silver Texas: Uganda" role="graphics-symbol" aria-roledescription="arc mark"  d="M49.89310531139702,231.87465142661148A75,75,0,0,0,133.30235406851872,250.45485407212516L105.0,181.0Z" fill="#cb3510" stroke="black" stroke-width="0"/>
+<path aria-label="generate UDP: 367; drive Silver Texas: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.62279403967233,211.26404034805518A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#2ffb37" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#2ffb37" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M86.0,56.25A5,5,0,1,1,76.0,56.25A5,5,0,1,1,86.0,56.25" fill="#d67392" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M190.0,56.25A5,5,0,1,1,180.0,56.25A5,5,0,1,1,190.0,56.25" fill="#cb3510" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M255.0,56.25A5,5,0,1,1,245.0,56.25A5,5,0,1,1,255.0,56.25" fill="#1eb5e7" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="91,168,49,60" text-anchor="start" x="91.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Implementation</text>
+<text aria-label="195,228,49,60" text-anchor="start" x="195.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Uganda</text>
+<text aria-label="260,298,49,60" text-anchor="start" x="260.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">barring</text>
+<text aria-label="5,113,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">drive Silver Texas</text>
+</svg>

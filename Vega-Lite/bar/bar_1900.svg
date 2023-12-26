@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="960" height="325" viewBox="0 0 960 325" style="background-color: rgb(255, 255, 255);">
+<line x1="51.5" y1="241.5" x2="955.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="51.5" y1="196.5" x2="955.5" y2="196.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="51.5" y1="150.5" x2="955.5" y2="150.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="51.5" y1="105.5" x2="955.5" y2="105.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="51.5" y1="59.5" x2="955.5" y2="59.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="189,206,248,316" text-anchor="end" x="201.6666666666667" y="248.5" transform="rotate(270.0, 206.6666666666667, 248.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">corporal</text>
+<text aria-label="491,508,248,316" text-anchor="end" x="503.0" y="248.5" transform="rotate(270.0, 508.0, 248.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">sunshine</text>
+<text aria-label="792,809,248,291" text-anchor="end" x="804.3333333333334" y="248.5" transform="rotate(270.0, 809.3333333333334, 248.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">thyme</text>
+<line aria-label="201,201,241,246" x1="201.5" y1="241.5" x2="201.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="503,503,241,246" x1="503.5" y1="241.5" x2="503.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="804,804,241,246" x1="804.5" y1="241.5" x2="804.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,955,241,241" x1="51.5" y1="241.5" x2="955.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.50800000000001" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">patiently Table</text>
+<text aria-label="36,44,230,247" text-anchor="end" x="44.5" y="246.5" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="27,44,185,202" text-anchor="end" x="44.5" y="201.04545454545453" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="19,44,139,156" text-anchor="end" x="44.5" y="155.59090909090907" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,44,94,111" text-anchor="end" x="44.5" y="110.13636363636365" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="19,44,48,65" text-anchor="end" x="44.5" y="64.68181818181819" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">200</text>
+<line aria-label="46,51,241,241" x1="51.5" y1="241.5" x2="46.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,196,196" x1="51.5" y1="196.5" x2="46.5" y2="196.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,150,150" x1="51.5" y1="150.5" x2="46.5" y2="150.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,105,105" x1="51.5" y1="105.5" x2="46.5" y2="105.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,59,59" x1="51.5" y1="59.5" x2="46.5" y2="59.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,105,177" text-anchor="middle" x="16.5" y="141.5" transform="rotate(-90.0, 14.5, 141.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Tools Bronze</text>
+<line aria-label="51,51,41,241" x1="51.5" y1="241.5" x2="51.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Configuration Chicken: sunshine; Tools Bronze: 42; Electric: South Handcrafted" role="graphics-symbol" aria-roledescription="bar" d="M421.64000000000004,202.8181818181818h162.72000000000003v38.18181818181819h-162.72000000000003Z" fill="#b918df"/>
+<path aria-label="Configuration Chicken: corporal; Tools Bronze: 86; Electric: South Handcrafted" role="graphics-symbol" aria-roledescription="bar" d="M120.3066666666667,162.8181818181818h162.72000000000003v78.18181818181817h-162.72000000000003Z" fill="#b918df"/>
+<path aria-label="Configuration Chicken: thyme; Tools Bronze: 209; Electric: South Handcrafted" role="graphics-symbol" aria-roledescription="bar" d="M722.9733333333334,51.00000000000001h162.72000000000003v190h-162.72000000000003Z" fill="#b918df"/>
+<text aria-label="495,510,183,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="503.0" y="197.32618181818182" font-family="serif" font-size="13.559999999999999px" fill="#000" opacity="1">42</text>
+<text aria-label="194,208,143,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="201.6666666666667" y="157.32618181818182" font-family="serif" font-size="13.559999999999999px" fill="#000" opacity="1">86</text>
+<text aria-label="793,815,31,46" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="804.3333333333334" y="45.50800000000001" font-family="serif" font-size="13.559999999999999px" fill="#000" opacity="1">209</text>
+</svg>

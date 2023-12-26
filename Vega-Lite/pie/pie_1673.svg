@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="292" height="239" viewBox="0 0 292 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="196,287,0,26" text-anchor="end" x="287.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle</text>
+<path aria-label="invoice mint: 227; intranet Bicycle: dutiful" role="graphics-symbol" aria-roledescription="arc mark"  d="M261.8897394522602,138.06533206178534A75,75,0,0,0,238.73088123268724,79.6960781629024L187.0,134.0Z" fill="#67fbe0" stroke="black" stroke-width="1"/>
+<path aria-label="invoice mint: 45; intranet Bicycle: Proactive" role="graphics-symbol" aria-roledescription="arc mark"  d="M238.73088123268724,79.6960781629024A75,75,0,0,0,228.7196675108819,71.67448882855861L187.0,134.0Z" fill="#5cb826" stroke="black" stroke-width="1"/>
+<path aria-label="invoice mint: 155; intranet Bicycle: Incredible" role="graphics-symbol" aria-roledescription="arc mark"  d="M228.7196675108819,71.67448882855861A75,75,0,0,0,187.0,59.0L187.0,134.0Z" fill="#ee647f" stroke="black" stroke-width="1"/>
+<path aria-label="invoice mint: 473; intranet Bicycle: seize" role="graphics-symbol" aria-roledescription="arc mark"  d="M187.0,59.0A75,75,0,0,0,113.96294156650201,151.04664469571068L187.0,134.0Z" fill="#c8a63a" stroke="black" stroke-width="1"/>
+<path aria-label="invoice mint: 420; intranet Bicycle: mobile" role="graphics-symbol" aria-roledescription="arc mark"  d="M180.8701786286518,208.7490822014248A75,75,0,0,0,261.8897394522602,138.06533206178534L187.0,134.0Z" fill="#cce9dc" stroke="black" stroke-width="1"/>
+<path aria-label="invoice mint: 331; intranet Bicycle: models" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.96294156650201,151.04664469571068A75,75,0,0,0,180.8701786286518,208.7490822014248L187.0,134.0Z" fill="#e2f442" stroke="black" stroke-width="1"/>
+<text aria-label="262,278,93,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="270.6559053385193" y="103.8082916680581" font-family="avenir" font-size="10px" fill="#67fbe0" opacity="1">227</text>
+<text aria-label="237,248,56,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="243.27651680881021" y="66.76501117058748" font-family="avenir" font-size="10px" fill="#5cb826" opacity="1">45</text>
+<text aria-label="204,221,40,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="213.16146778646345" y="50.88625194977381" font-family="avenir" font-size="10px" fill="#ee647f" opacity="1">155</text>
+<text aria-label="108,124,71,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="116.49809354656868" y="81.05823397110511" font-family="avenir" font-size="10px" fill="#c8a63a" opacity="1">473</text>
+<text aria-label="237,254,194,205" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="246.16656820018224" y="204.8182660307176" font-family="avenir" font-size="10px" fill="#cce9dc" opacity="1">420</text>
+<text aria-label="119,136,195,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.22153613125903" y="205.15491314080822" font-family="avenir" font-size="10px" fill="#e2f442" opacity="1">331</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#ee647f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#5cb826" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#67fbe0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#cce9dc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#e2f442" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#c8a63a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Incredible</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Proactive</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">dutiful</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">mobile</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">models</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">seize</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="456" height="350" viewBox="0 0 456 350" style="background-color: rgb(255, 255, 255);">
+<line x1="80.5" y1="41.5" x2="80.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="148.5" y1="41.5" x2="148.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="215.5" y1="41.5" x2="215.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="282.5" y1="41.5" x2="282.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="350.5" y1="41.5" x2="350.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="417.5" y1="41.5" x2="417.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="71,83,248,278" text-anchor="end" x="80.66666666666667" y="248.5" transform="rotate(270.0, 83.66666666666667, 248.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">bench</text>
+<text aria-label="139,151,248,296" text-anchor="end" x="148.0" y="248.5" transform="rotate(270.0, 151.0, 248.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">lobotomy</text>
+<text aria-label="206,218,248,278" text-anchor="end" x="215.33333333333331" y="248.5" transform="rotate(270.0, 218.33333333333331, 248.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">pride</text>
+<text aria-label="273,285,248,272" text-anchor="end" x="282.6666666666667" y="248.5" transform="rotate(270.0, 285.6666666666667, 248.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">race</text>
+<text aria-label="341,353,248,272" text-anchor="end" x="350.0" y="248.5" transform="rotate(270.0, 353.0, 248.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">seed</text>
+<text aria-label="408,420,248,296" text-anchor="end" x="417.3333333333333" y="248.5" transform="rotate(270.0, 420.3333333333333, 248.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">teletype</text>
+<line aria-label="80,80,241,246" x1="80.5" y1="241.5" x2="80.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="148,148,241,246" x1="148.5" y1="241.5" x2="148.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,215,241,246" x1="215.5" y1="241.5" x2="215.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="282,282,241,246" x1="282.5" y1="241.5" x2="282.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="350,350,241,246" x1="350.5" y1="241.5" x2="350.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="417,417,241,246" x1="417.5" y1="241.5" x2="417.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,451,241,241" x1="47.5" y1="241.5" x2="451.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,187,0,26" text-anchor="start" x="5.64794921875" y="25.202444444444453" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Shoes maintain</text>
+<text aria-label="34,40,233,245" text-anchor="end" x="40.5" y="244.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="22,40,189,201" text-anchor="end" x="40.5" y="200.05555555555557" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="22,40,144,156" text-anchor="end" x="40.5" y="155.61111111111111" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,40,100,112" text-anchor="end" x="40.5" y="111.16666666666667" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="22,40,55,67" text-anchor="end" x="40.5" y="66.72222222222223" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">400</text>
+<line aria-label="42,47,241,241" x1="47.5" y1="241.5" x2="42.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,197,197" x1="47.5" y1="197.5" x2="42.5" y2="197.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,152,152" x1="47.5" y1="152.5" x2="42.5" y2="152.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,108,108" x1="47.5" y1="108.5" x2="42.5" y2="108.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,63,63" x1="47.5" y1="63.5" x2="42.5" y2="63.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,75,207" text-anchor="middle" x="17.14794921875" y="141.5" transform="rotate(-90.0, 15.14794921875, 141.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">female radian Croatian</text>
+<line aria-label="47,47,41,241" x1="47.5" y1="241.5" x2="47.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="content Nebraska Strontium: bench; female radian Croatian: 314; orange: Home" role="graphics-symbol" aria-roledescription="bar" d="M62.48666666666667,101.44444444444443h36.36v139.55555555555557h-36.36Z" fill="#2b7ce0"/>
+<path aria-label="content Nebraska Strontium: pride; female radian Croatian: 449; orange: Home" role="graphics-symbol" aria-roledescription="bar" d="M197.15333333333334,41.44444444444445h36.36v199.55555555555554h-36.36Z" fill="#2b7ce0"/>
+<path aria-label="content Nebraska Strontium: seed; female radian Croatian: 33; orange: Home" role="graphics-symbol" aria-roledescription="bar" d="M331.82,226.33333333333331h36.36v14.666666666666686h-36.36Z" fill="#2b7ce0"/>
+<path aria-label="content Nebraska Strontium: race; female radian Croatian: 406; orange: Home" role="graphics-symbol" aria-roledescription="bar" d="M264.4866666666667,60.55555555555555h36.36v180.44444444444446h-36.36Z" fill="#2b7ce0"/>
+<path aria-label="content Nebraska Strontium: lobotomy; female radian Croatian: 210; orange: Home" role="graphics-symbol" aria-roledescription="bar" d="M129.82,147.66666666666669h36.36v93.33333333333333h-36.36Z" fill="#2b7ce0"/>
+<path aria-label="content Nebraska Strontium: teletype; female radian Croatian: 145; orange: Home" role="graphics-symbol" aria-roledescription="bar" d="M399.1533333333333,176.55555555555557h36.36v64.44444444444443h-36.36Z" fill="#2b7ce0"/>
+<text aria-label="75,85,93,100" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="80.66666666666667" y="99.20244444444444" font-family="avenir" font-size="6.06px" fill="#000" opacity="1">314</text>
+<text aria-label="210,220,33,40" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="215.33333333333331" y="39.202444444444446" font-family="avenir" font-size="6.06px" fill="#000" opacity="1">449</text>
+<text aria-label="346,353,218,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="350.0" y="224.09133333333332" font-family="avenir" font-size="6.06px" fill="#000" opacity="1">33</text>
+<text aria-label="277,287,52,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="282.6666666666667" y="58.31355555555555" font-family="avenir" font-size="6.06px" fill="#000" opacity="1">406</text>
+<text aria-label="142,153,139,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.0" y="145.42466666666667" font-family="avenir" font-size="6.06px" fill="#000" opacity="1">210</text>
+<text aria-label="412,422,168,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="417.3333333333333" y="174.31355555555558" font-family="avenir" font-size="6.06px" fill="#000" opacity="1">145</text>
+<path  d="M48.0,335.0h10v10h-10Z" fill="#2b7ce0" stroke-width="1.5" opacity="1"/>
+<text aria-label="63,85,333,344" text-anchor="start" x="63.0" y="343.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Home</text>
+<text aria-label="47,83,316,328" text-anchor="start" x="47.0" y="327.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">orange</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="7,202,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Woodbury haptic</text>
+<path aria-label="Margie Transmasculine: 133; West: ick" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,33.583418280287646,111.09428334516365L48.818955713826284,115.98083623152873A59,59,0,0,1,104.99999999999999,75.0Z" fill="#dcaa84" stroke="white" stroke-width="3"/>
+<path aria-label="Margie Transmasculine: 152; West: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.3641499207634,124.25458022647416A75,75,0,0,0,105.0,59.0L105.0,75.0A59,59,0,0,1,163.49979793766718,126.333603111493Z" fill="#e1f4db" stroke="white" stroke-width="3"/>
+<path aria-label="Margie Transmasculine: 231; West: XSS" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.83147784986753,200.24330192385975A75,75,0,0,0,179.3641499207634,124.25458022647416L163.49979793766718,126.333603111493A59,59,0,0,1,77.33409590856245,186.11139751343634Z" fill="#0deb4b" stroke="white" stroke-width="3"/>
+<path aria-label="Margie Transmasculine: 147; West: hertz" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.583418280287646,111.09428334516365A75,75,0,0,0,69.83147784986753,200.24330192385975L77.33409590856245,186.11139751343634A59,59,0,0,1,48.818955713826284,115.98083623152873Z" fill="#bcdadb" stroke="white" stroke-width="3"/>
+<text aria-label="42,61,53,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="51.96141686810597" y="65.28886811937826" font-family="monospace" font-size="12px" fill="#dcaa84" opacity="1">133</text>
+<text aria-label="154,174,58,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.36116013210662" y="70.35199435481934" font-family="monospace" font-size="12px" fill="#e1f4db" opacity="1">152</text>
+<text aria-label="146,166,199,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="156.3011686236597" y="211.94721156234922" font-family="monospace" font-size="12px" fill="#0deb4b" opacity="1">231</text>
+<text aria-label="11,31,159,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.628209345267678" y="171.89903424912703" font-family="monospace" font-size="12px" fill="#bcdadb" opacity="1">147</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#e1f4db" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,274.25A5,5,0,1,1,78.0,274.25A5,5,0,1,1,88.0,274.25" fill="#0deb4b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,274.25A5,5,0,1,1,120.0,274.25A5,5,0,1,1,130.0,274.25" fill="#bcdadb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M182.0,274.25A5,5,0,1,1,172.0,274.25A5,5,0,1,1,182.0,274.25" fill="#dcaa84" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="93,109,267,278" text-anchor="start" x="93.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">XSS</text>
+<text aria-label="135,162,267,278" text-anchor="start" x="135.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">hertz</text>
+<text aria-label="187,203,267,278" text-anchor="start" x="187.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">ick</text>
+<text aria-label="5,29,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">West</text>
+</svg>

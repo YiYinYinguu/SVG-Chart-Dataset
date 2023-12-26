@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="405" height="270" viewBox="0 0 405 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">alias</text>
+<path aria-label="Tuna Lead withdrawal: 149; Northeast: cyclone" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.86636763769474,192.5537666119648A75,75,0,0,0,175.55970428017127,108.57701567685692L105.0,134.0Z" fill="#505bd9" stroke="black" stroke-width="2"/>
+<path aria-label="Tuna Lead withdrawal: 110; Northeast: index" role="graphics-symbol" aria-roledescription="arc mark"  d="M87.05132517843319,206.82063630695393A75,75,0,0,0,151.86636763769474,192.5537666119648L105.0,134.0Z" fill="#2fc17b" stroke="black" stroke-width="2"/>
+<path aria-label="Tuna Lead withdrawal: 14; Northeast: array" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.55970428017127,108.57701567685692A75,75,0,0,0,172.12085173290146,100.53671769461548L105.0,134.0Z" fill="#cc311e" stroke="black" stroke-width="2"/>
+<path aria-label="Tuna Lead withdrawal: 18; Northeast: Fantastic" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.2075978779268,59.842129549138946A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#4aa7c8" stroke="black" stroke-width="2"/>
+<path aria-label="Tuna Lead withdrawal: 176; Northeast: metrics" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.40651410770056,126.20180389863627L105.0,134.0Z" fill="#49a459" stroke="black" stroke-width="2"/>
+<path aria-label="Tuna Lead withdrawal: 110; Northeast: meter" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.40651410770056,126.20180389863627A75,75,0,0,0,53.42254058599324,188.4496618942348L105.0,134.0Z" fill="#4a3249" stroke="black" stroke-width="2"/>
+<path aria-label="Tuna Lead withdrawal: 115; Northeast: Latin" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.12085173290146,100.53671769461548A75,75,0,0,0,116.2075978779268,59.842129549138946L105.0,134.0Z" fill="#b8e9be" stroke="black" stroke-width="2"/>
+<path aria-label="Tuna Lead withdrawal: 62; Northeast: index" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.42254058599324,188.4496618942348A75,75,0,0,0,87.05132517843319,206.82063630695393L105.0,134.0Z" fill="#2fc17b" stroke="black" stroke-width="2"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#4aa7c8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M85.0,258.25A5,5,0,1,1,75.0,258.25A5,5,0,1,1,85.0,258.25" fill="#b8e9be" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M136.0,258.25A5,5,0,1,1,126.0,258.25A5,5,0,1,1,136.0,258.25" fill="#cc311e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,258.25A5,5,0,1,1,177.0,258.25A5,5,0,1,1,187.0,258.25" fill="#505bd9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,258.25A5,5,0,1,1,241.0,258.25A5,5,0,1,1,251.0,258.25" fill="#2fc17b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M304.0,258.25A5,5,0,1,1,294.0,258.25A5,5,0,1,1,304.0,258.25" fill="#4a3249" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M360.0,258.25A5,5,0,1,1,350.0,258.25A5,5,0,1,1,360.0,258.25" fill="#49a459" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Fantastic</text>
+<text aria-label="90,117,251,262" text-anchor="start" x="90.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Latin</text>
+<text aria-label="141,168,251,262" text-anchor="start" x="141.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">array</text>
+<text aria-label="192,230,251,262" text-anchor="start" x="192.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">cyclone</text>
+<text aria-label="256,283,251,262" text-anchor="start" x="256.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">index</text>
+<text aria-label="309,336,251,262" text-anchor="start" x="309.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">meter</text>
+<text aria-label="365,403,251,262" text-anchor="start" x="365.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">metrics</text>
+</svg>

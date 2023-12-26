@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="286" viewBox="0 0 289 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Quality Nevada</text>
+<path aria-label="mmm Fort Screen: 361; Diesel Hatchback transform: navigating" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.08449384857711,130.44093578645757L105.0,134.0Z" fill="#bcfcbd" stroke="black" stroke-width="0"/>
+<path aria-label="mmm Fort Screen: 414; Diesel Hatchback transform: Technician" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.20885826322086,195.30248418774633A75,75,0,0,0,157.78065356827472,80.71583153594523L105.0,134.0Z" fill="#141b3f" stroke="black" stroke-width="0"/>
+<path aria-label="mmm Fort Screen: 185; Diesel Hatchback transform: Europium" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.78065356827472,80.71583153594523A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#19c67d" stroke="black" stroke-width="0"/>
+<path aria-label="mmm Fort Screen: 529; Diesel Hatchback transform: fuchsia" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.08449384857711,130.44093578645757A75,75,0,0,0,148.20885826322086,195.30248418774633L105.0,134.0Z" fill="#0a86ad" stroke="black" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#19c67d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M90.0,274.25A5,5,0,1,1,80.0,274.25A5,5,0,1,1,90.0,274.25" fill="#141b3f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M167.0,274.25A5,5,0,1,1,157.0,274.25A5,5,0,1,1,167.0,274.25" fill="#0a86ad" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M228.0,274.25A5,5,0,1,1,218.0,274.25A5,5,0,1,1,228.0,274.25" fill="#bcfcbd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Europium</text>
+<text aria-label="95,150,267,278" text-anchor="start" x="95.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Technician</text>
+<text aria-label="172,210,267,278" text-anchor="start" x="172.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">fuchsia</text>
+<text aria-label="233,288,267,278" text-anchor="start" x="233.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">navigating</text>
+<text aria-label="5,161,250,262" text-anchor="start" x="5.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Diesel Hatchback transform</text>
+</svg>

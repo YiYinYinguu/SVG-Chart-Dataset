@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="270" viewBox="0 0 279 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="79,274,0,26" text-anchor="end" x="274.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">laudantium gray</text>
+<path aria-label="Cargo: 103; Volkswagen: relationships" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,38.965953951685975,98.44012426218077L105.0,134.0Z" fill="#ef8cea" stroke="white" stroke-width="3"/>
+<path aria-label="Cargo: 139; Volkswagen: Corporate" role="graphics-symbol" aria-roledescription="arc mark"  d="M85.99912496217199,206.55319943184344A75,75,0,0,0,174.82234947904607,161.38319764428468L105.0,134.0Z" fill="#47aacc" stroke="white" stroke-width="3"/>
+<path aria-label="Cargo: 186; Volkswagen: Chrysler" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.82234947904607,161.38319764428468A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#9cf4fa" stroke="white" stroke-width="3"/>
+<path aria-label="Cargo: 173; Volkswagen: New" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.965953951685975,98.44012426218077A75,75,0,0,0,85.99912496217199,206.55319943184344L105.0,134.0Z" fill="#feb8bf" stroke="white" stroke-width="3"/>
+<text aria-label="50,67,49,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="58.850604444285885" y="59.732715268088825" font-family="avenir" font-size="10px" fill="#ef8cea" opacity="1">103</text>
+<text aria-label="137,154,207,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.79625567760203" y="217.2225998250351" font-family="avenir" font-size="10px" fill="#47aacc" opacity="1">139</text>
+<text aria-label="171,187,76,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.35517919278638" y="86.29194021451198" font-family="avenir" font-size="10px" fill="#9cf4fa" opacity="1">186</text>
+<text aria-label="14,30,162,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.471368982417317" y="172.90299517259933" font-family="avenir" font-size="10px" fill="#feb8bf" opacity="1">173</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#9cf4fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,258.25A5,5,0,1,1,73.0,258.25A5,5,0,1,1,83.0,258.25" fill="#47aacc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M159.0,258.25A5,5,0,1,1,149.0,258.25A5,5,0,1,1,159.0,258.25" fill="#feb8bf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M208.0,258.25A5,5,0,1,1,198.0,258.25A5,5,0,1,1,208.0,258.25" fill="#ef8cea" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Chrysler</text>
+<text aria-label="88,137,251,262" text-anchor="start" x="88.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Corporate</text>
+<text aria-label="164,180,251,262" text-anchor="start" x="164.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">New</text>
+<text aria-label="213,284,251,262" text-anchor="start" x="213.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">relationships</text>
+</svg>

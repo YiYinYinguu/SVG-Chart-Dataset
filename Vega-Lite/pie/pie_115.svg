@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="245" height="270" viewBox="0 0 245 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Vista CLI orange</text>
+<path aria-label="moratorium: 784; Pants South: web" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,31.609585669633645,180.45467839902068L51.18036282439801,176.3334308259485A55,55,0,0,1,104.99999999999999,110.0Z" fill="#52fac3" stroke="white" stroke-width="0"/>
+<path aria-label="moratorium: 499; Pants South: Country" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.89097482677403,133.12813878873192A75,75,0,0,0,105.0,90.0L105.0,110.0A55,55,0,0,1,154.78671487296762,141.62730177840342Z" fill="#330f01" stroke="white" stroke-width="0"/>
+<path aria-label="moratorium: 784; Pants South: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.198078901748,238.00154849103717A75,75,0,0,0,172.89097482677403,133.12813878873192L154.78671487296762,141.62730177840342A55,55,0,0,1,117.61192452794853,218.53446889342726Z" fill="#aab9d6" stroke="white" stroke-width="0"/>
+<path aria-label="moratorium: 703; Pants South: neque" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.609585669633645,180.45467839902068A75,75,0,0,0,122.198078901748,238.00154849103717L117.61192452794853,218.53446889342726A55,55,0,0,1,51.18036282439801,176.3334308259485Z" fill="#adae0e" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#330f01" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,40.25A5,5,0,1,1,72.0,40.25A5,5,0,1,1,82.0,40.25" fill="#aab9d6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M157.0,40.25A5,5,0,1,1,147.0,40.25A5,5,0,1,1,157.0,40.25" fill="#adae0e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M215.0,40.25A5,5,0,1,1,205.0,40.25A5,5,0,1,1,215.0,40.25" fill="#52fac3" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Country</text>
+<text aria-label="87,136,33,44" text-anchor="start" x="87.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="162,189,33,44" text-anchor="start" x="162.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">neque</text>
+<text aria-label="220,236,33,44" text-anchor="start" x="220.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">web</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="140,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">cloud</text>
+<path aria-label="aha: 202; um pixel: Investor" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,64.70812789297159,244.2579247376237L73.84095223723136,229.91946179709566A58,58,0,0,1,104.99999999999999,123.0Z" fill="#af37c3" stroke="black" stroke-width="0"/>
+<path aria-label="aha: 261; um pixel: Forward" role="graphics-symbol" aria-roledescription="arc mark"  d="M91.21878616375723,254.72298247629263A75,75,0,1,0,105.0,106.0L105.0,123.0A58,58,0,1,1,94.34252796663893,238.0124397816663Z" fill="#8e0826" stroke="black" stroke-width="0"/>
+<path aria-label="aha: 30; um pixel: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.70812789297159,244.2579247376237A75,75,0,0,0,91.21878616375723,254.72298247629263L94.34252796663893,238.0124397816663A58,58,0,0,1,73.84095223723136,229.91946179709566Z" fill="#8e4dd9" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#8e0826" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,56.25A5,5,0,1,1,73.0,56.25A5,5,0,1,1,83.0,56.25" fill="#8e4dd9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,56.25A5,5,0,1,1,135.0,56.25A5,5,0,1,1,145.0,56.25" fill="#af37c3" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Forward</text>
+<text aria-label="88,126,49,60" text-anchor="start" x="88.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="150,194,49,60" text-anchor="start" x="150.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Investor</text>
+<text aria-label="5,53,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">um pixel</text>
+</svg>

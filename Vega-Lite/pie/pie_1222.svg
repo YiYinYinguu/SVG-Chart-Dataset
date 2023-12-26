@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="166,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">SAS</text>
+<path aria-label="likely: 53; Technician: selfishly" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.01906349654257,135.6909053978519L74.00787957857092,134.69890756444545A31,31,0,0,1,105.0,103.0Z" fill="#180eac" stroke="white" stroke-width="2"/>
+<path aria-label="likely: 102; Technician: Ford" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.01906349654257,135.6909053978519A75,75,0,0,0,179.89622939343803,137.94396027433157L135.95710814928773,135.63017024672374A31,31,0,0,1,74.00787957857092,134.69890756444545Z" fill="#0d80bc" stroke="white" stroke-width="2"/>
+<path aria-label="likely: 54; Technician: Chicken" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.89622939343803,137.94396027433157A75,75,0,0,0,105.0,59.0L105.0,103.0A31,31,0,0,1,135.95710814928773,135.63017024672374Z" fill="#5bb7eb" stroke="white" stroke-width="2"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#5bb7eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,274.25A5,5,0,1,1,68.0,274.25A5,5,0,1,1,78.0,274.25" fill="#0d80bc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,274.25A5,5,0,1,1,115.0,274.25A5,5,0,1,1,125.0,274.25" fill="#180eac" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Chicken</text>
+<text aria-label="83,105,267,278" text-anchor="start" x="83.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Ford</text>
+<text aria-label="130,179,267,278" text-anchor="start" x="130.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">selfishly</text>
+<text aria-label="5,65,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Technician</text>
+</svg>

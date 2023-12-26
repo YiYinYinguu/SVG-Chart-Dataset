@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="441" height="312" viewBox="0 0 441 312" style="background-color: rgb(255, 255, 255);">
+<line x1="59.5" y1="234.5" x2="436.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="59.5" y1="198.5" x2="436.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="59.5" y1="161.5" x2="436.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="59.5" y1="125.5" x2="436.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="59.5" y1="89.5" x2="436.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="59.5" y1="52.5" x2="436.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="93,111,241,277" text-anchor="end" x="106.125" y="241.5" transform="rotate(270.0, 111.125, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">east</text>
+<text aria-label="187,205,241,286" text-anchor="end" x="200.375" y="241.5" transform="rotate(270.0, 205.375, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">jumbo</text>
+<text aria-label="281,299,241,286" text-anchor="end" x="294.625" y="241.5" transform="rotate(270.0, 299.625, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">slash</text>
+<text aria-label="375,393,241,304" text-anchor="end" x="388.875" y="241.5" transform="rotate(270.0, 393.875, 241.5)" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">wiseguy</text>
+<line aria-label="106,106,234,239" x1="106.5" y1="234.5" x2="106.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="200,200,234,239" x1="200.5" y1="234.5" x2="200.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="294,294,234,239" x1="294.5" y1="234.5" x2="294.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="388,388,234,239" x1="388.5" y1="234.5" x2="388.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="59,436,234,234" x1="59.5" y1="234.5" x2="436.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="332,436,0,26" text-anchor="end" x="436.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Nebraska</text>
+<text aria-label="43,52,222,240" text-anchor="end" x="52.5" y="239.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="25,52,186,204" text-anchor="end" x="52.5" y="203.13636363636363" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="25,52,149,167" text-anchor="end" x="52.5" y="166.77272727272725" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="25,52,113,131" text-anchor="end" x="52.5" y="130.40909090909093" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="25,52,77,95" text-anchor="end" x="52.5" y="94.04545454545453" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="25,52,40,58" text-anchor="end" x="52.5" y="57.68181818181819" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="54,59,234,234" x1="59.5" y1="234.5" x2="54.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,59,198,198" x1="59.5" y1="198.5" x2="54.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,59,161,161" x1="59.5" y1="161.5" x2="54.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,59,125,125" x1="59.5" y1="125.5" x2="54.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,59,89,89" x1="59.5" y1="89.5" x2="54.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,59,52,52" x1="59.5" y1="52.5" x2="54.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,119,149" text-anchor="middle" x="17.04833984375" y="134.5" transform="rotate(-90.0, 15.04833984375, 134.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">North</text>
+<line aria-label="59,59,34,234" x1="59.5" y1="234.5" x2="59.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Brazilian: slash; North: 165; Investor Licensed: East ampere" role="graphics-symbol" aria-roledescription="bar" d="M264.93625,174.0h59.377500000000005v60h-59.377500000000005Z" fill="#252fb1"/>
+<path aria-label="Brazilian: east; North: 77; Investor Licensed: East ampere" role="graphics-symbol" aria-roledescription="bar" d="M76.43625,206.0h59.377500000000005v28h-59.377500000000005Z" fill="#252fb1"/>
+<path aria-label="Brazilian: wiseguy; North: 528; Investor Licensed: East ampere" role="graphics-symbol" aria-roledescription="bar" d="M359.18625,42.00000000000001h59.377500000000005v192h-59.377500000000005Z" fill="#252fb1"/>
+<path aria-label="Brazilian: jumbo; North: 457; Investor Licensed: East ampere" role="graphics-symbol" aria-roledescription="bar" d="M170.68625,67.81818181818181h59.377500000000005v166.1818181818182h-59.377500000000005Z" fill="#252fb1"/>
+</svg>

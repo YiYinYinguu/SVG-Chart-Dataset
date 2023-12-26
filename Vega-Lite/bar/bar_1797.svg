@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="926" height="317" viewBox="0 0 926 317" style="background-color: rgb(255, 255, 255);">
+<line x1="209.5" y1="241.5" x2="921.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="209.5" y1="201.5" x2="921.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="209.5" y1="161.5" x2="921.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="209.5" y1="121.5" x2="921.5" y2="121.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="209.5" y1="81.5" x2="921.5" y2="81.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="209.5" y1="41.5" x2="921.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="239,254,248,286" text-anchor="end" x="250.88235294117646" y="248.5" transform="rotate(270.0, 254.88235294117646, 248.5)" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">basis</text>
+<text aria-label="309,324,248,301" text-anchor="end" x="320.68627450980387" y="248.5" transform="rotate(270.0, 324.68627450980387, 248.5)" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">chateau</text>
+<text aria-label="379,394,248,301" text-anchor="end" x="390.4901960784313" y="248.5" transform="rotate(270.0, 394.4901960784313, 248.5)" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">country</text>
+<text aria-label="449,464,248,286" text-anchor="end" x="460.2941176470588" y="248.5" transform="rotate(270.0, 464.2941176470588, 248.5)" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">igloo</text>
+<text aria-label="519,534,248,286" text-anchor="end" x="530.0980392156862" y="248.5" transform="rotate(270.0, 534.0980392156862, 248.5)" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">ninja</text>
+<text aria-label="588,603,248,301" text-anchor="end" x="599.9019607843137" y="248.5" transform="rotate(270.0, 603.9019607843137, 248.5)" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">steeple</text>
+<text aria-label="658,673,248,308" text-anchor="end" x="669.7058823529411" y="248.5" transform="rotate(270.0, 673.7058823529411, 248.5)" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">stiletto</text>
+<text aria-label="728,743,248,271" text-anchor="end" x="739.5098039215685" y="248.5" transform="rotate(270.0, 743.5098039215685, 248.5)" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">sum</text>
+<text aria-label="798,813,248,278" text-anchor="end" x="809.3137254901959" y="248.5" transform="rotate(270.0, 813.3137254901959, 248.5)" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">type</text>
+<text aria-label="868,883,248,286" text-anchor="end" x="879.1176470588233" y="248.5" transform="rotate(270.0, 883.1176470588233, 248.5)" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">witch</text>
+<line aria-label="250,250,241,246" x1="250.5" y1="241.5" x2="250.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="320,320,241,246" x1="320.5" y1="241.5" x2="320.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="390,390,241,246" x1="390.5" y1="241.5" x2="390.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="460,460,241,246" x1="460.5" y1="241.5" x2="460.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="530,530,241,246" x1="530.5" y1="241.5" x2="530.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="599,599,241,246" x1="599.5" y1="241.5" x2="599.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="669,669,241,246" x1="669.5" y1="241.5" x2="669.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="739,739,241,246" x1="739.5" y1="241.5" x2="739.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="809,809,241,246" x1="809.5" y1="241.5" x2="809.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="879,879,241,246" x1="879.5" y1="241.5" x2="879.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="209,921,241,241" x1="209.5" y1="241.5" x2="921.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="376,753,0,26" text-anchor="middle" x="565.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Northwest Kentucky extensible</text>
+<text aria-label="200,207,231,246" text-anchor="end" x="207.5" y="245.5" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="185,207,191,206" text-anchor="end" x="207.5" y="205.5" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="185,207,151,166" text-anchor="end" x="207.5" y="165.5" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="185,207,111,126" text-anchor="end" x="207.5" y="125.5" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="185,207,71,86" text-anchor="end" x="207.5" y="85.5" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="185,207,31,46" text-anchor="end" x="207.5" y="45.5" font-family="serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="209,209,41,241" x1="209.5" y1="241.5" x2="209.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Small Fresh: witch; Unbranded: 251; Northeast Northeast Security: jovially female" role="graphics-symbol" aria-roledescription="bar" d="M851.1960784313724,140.6h27.92156862745098v100.4h-27.92156862745098Z" fill="#3e1c2a"/>
+<path aria-label="Small Fresh: witch; Unbranded: 355; Northeast Northeast Security: man Hungary Representative" role="graphics-symbol" aria-roledescription="bar" d="M879.1176470588233,99.0h27.92156862745098v142h-27.92156862745098Z" fill="#ea2e73"/>
+<path aria-label="Small Fresh: stiletto; Unbranded: 246; Northeast Northeast Security: jovially female" role="graphics-symbol" aria-roledescription="bar" d="M641.7843137254902,142.6h27.92156862745098v98.4h-27.92156862745098Z" fill="#3e1c2a"/>
+<path aria-label="Small Fresh: stiletto; Unbranded: 190; Northeast Northeast Security: man Hungary Representative" role="graphics-symbol" aria-roledescription="bar" d="M669.7058823529411,165.0h27.92156862745098v76h-27.92156862745098Z" fill="#ea2e73"/>
+<path aria-label="Small Fresh: chateau; Unbranded: 466; Northeast Northeast Security: jovially female" role="graphics-symbol" aria-roledescription="bar" d="M292.7647058823529,54.599999999999994h27.92156862745098v186.4h-27.92156862745098Z" fill="#3e1c2a"/>
+<path aria-label="Small Fresh: chateau; Unbranded: 5; Northeast Northeast Security: man Hungary Representative" role="graphics-symbol" aria-roledescription="bar" d="M320.68627450980387,239.0h27.92156862745098v2h-27.92156862745098Z" fill="#ea2e73"/>
+<path aria-label="Small Fresh: country; Unbranded: 169; Northeast Northeast Security: jovially female" role="graphics-symbol" aria-roledescription="bar" d="M362.56862745098033,173.39999999999998h27.92156862745098v67.60000000000002h-27.92156862745098Z" fill="#3e1c2a"/>
+<path aria-label="Small Fresh: country; Unbranded: 140; Northeast Northeast Security: man Hungary Representative" role="graphics-symbol" aria-roledescription="bar" d="M390.4901960784313,185.0h27.92156862745098v56h-27.92156862745098Z" fill="#ea2e73"/>
+<path aria-label="Small Fresh: ninja; Unbranded: 418; Northeast Northeast Security: jovially female" role="graphics-symbol" aria-roledescription="bar" d="M502.17647058823525,73.80000000000001h27.92156862745098v167.2h-27.92156862745098Z" fill="#3e1c2a"/>
+<path aria-label="Small Fresh: ninja; Unbranded: 95; Northeast Northeast Security: man Hungary Representative" role="graphics-symbol" aria-roledescription="bar" d="M530.0980392156862,203.0h27.92156862745098v38h-27.92156862745098Z" fill="#ea2e73"/>
+<path aria-label="Small Fresh: basis; Unbranded: 149; Northeast Northeast Security: jovially female" role="graphics-symbol" aria-roledescription="bar" d="M222.96078431372547,181.39999999999998h27.92156862745098v59.60000000000002h-27.92156862745098Z" fill="#3e1c2a"/>
+<path aria-label="Small Fresh: basis; Unbranded: 216; Northeast Northeast Security: man Hungary Representative" role="graphics-symbol" aria-roledescription="bar" d="M250.88235294117646,154.60000000000002h27.92156862745098v86.39999999999999h-27.92156862745098Z" fill="#ea2e73"/>
+<path aria-label="Small Fresh: sum; Unbranded: 351; Northeast Northeast Security: jovially female" role="graphics-symbol" aria-roledescription="bar" d="M711.5882352941176,100.60000000000001h27.92156862745098v140.39999999999998h-27.92156862745098Z" fill="#3e1c2a"/>
+<path aria-label="Small Fresh: sum; Unbranded: 296; Northeast Northeast Security: man Hungary Representative" role="graphics-symbol" aria-roledescription="bar" d="M739.5098039215685,122.60000000000001h27.92156862745098v118.39999999999999h-27.92156862745098Z" fill="#ea2e73"/>
+<path aria-label="Small Fresh: steeple; Unbranded: 60; Northeast Northeast Security: jovially female" role="graphics-symbol" aria-roledescription="bar" d="M571.9803921568628,217.0h27.92156862745098v24h-27.92156862745098Z" fill="#3e1c2a"/>
+<path aria-label="Small Fresh: steeple; Unbranded: 214; Northeast Northeast Security: man Hungary Representative" role="graphics-symbol" aria-roledescription="bar" d="M599.9019607843137,155.4h27.92156862745098v85.6h-27.92156862745098Z" fill="#ea2e73"/>
+<path aria-label="Small Fresh: igloo; Unbranded: 177; Northeast Northeast Security: jovially female" role="graphics-symbol" aria-roledescription="bar" d="M432.3725490196078,170.20000000000002h27.92156862745098v70.79999999999998h-27.92156862745098Z" fill="#3e1c2a"/>
+<path aria-label="Small Fresh: igloo; Unbranded: 51; Northeast Northeast Security: man Hungary Representative" role="graphics-symbol" aria-roledescription="bar" d="M460.2941176470588,220.6h27.92156862745098v20.400000000000006h-27.92156862745098Z" fill="#ea2e73"/>
+<path aria-label="Small Fresh: type; Unbranded: 466; Northeast Northeast Security: jovially female" role="graphics-symbol" aria-roledescription="bar" d="M781.392156862745,54.599999999999994h27.92156862745098v186.4h-27.92156862745098Z" fill="#3e1c2a"/>
+<path aria-label="Small Fresh: type; Unbranded: 280; Northeast Northeast Security: man Hungary Representative" role="graphics-symbol" aria-roledescription="bar" d="M809.3137254901959,129.0h27.92156862745098v112.00000000000001h-27.92156862745098Z" fill="#ea2e73"/>
+<path  d="M6.0,58.0h10v10h-10Z" fill="#3e1c2a" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,71.0h10v10h-10Z" fill="#ea2e73" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,103,56,67" text-anchor="start" x="21.0" y="66.0" font-family="serif" font-size="10px" fill="#000" opacity="1">jovially female</text>
+<text aria-label="21,164,69,80" text-anchor="start" x="21.0" y="79.0" font-family="serif" font-size="10px" fill="#000" opacity="1">man Hungary Representative</text>
+<text aria-label="5,173,39,51" text-anchor="start" x="5.0" y="50.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northeast Northeast Security</text>
+</svg>

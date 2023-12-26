@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="320" height="239" viewBox="0 0 320 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="0,273,0,26" text-anchor="middle" x="137.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Volvo Polarised seize</text>
+<path aria-label="Plastic Cruiser interface: 605; Manager Program: cluttered" role="graphics-symbol" aria-roledescription="arc mark"  d="M81.17950654298588,184.09064294072738A75,75,0,0,0,211.89244667549332,138.01515017880917L190.92256160635517,136.8909081287426A54,54,0,0,1,96.80924471094983,170.0652629173237Z" fill="#49fea5" stroke="white" stroke-width="0"/>
+<path aria-label="Plastic Cruiser interface: 591; Manager Program: nor" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.0,59.0A75,75,0,0,0,81.17950654298588,184.09064294072738L96.80924471094983,170.0652629173237A54,54,0,0,1,137.0,80.0Z" fill="#68ef08" stroke="white" stroke-width="0"/>
+<path aria-label="Plastic Cruiser interface: 58; Manager Program: Producer" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.8009462966385,60.90603168839806A75,75,0,0,0,137.0,59.0L137.0,80.0A54,54,0,0,1,149.0966813335797,81.37234281564659Z" fill="#aa81ff" stroke="white" stroke-width="0"/>
+<path aria-label="Plastic Cruiser interface: 359; Manager Program: Rustic" role="graphics-symbol" aria-roledescription="arc mark"  d="M211.89244667549332,138.01515017880917A75,75,0,0,0,153.8009462966385,60.90603168839806L149.0966813335797,81.37234281564659A54,54,0,0,1,190.92256160635517,136.8909081287426Z" fill="#ee6abf" stroke="white" stroke-width="0"/>
+<path  d="M266.0,40.0A5,5,0,1,1,256.0,40.0A5,5,0,1,1,266.0,40.0" fill="#aa81ff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,56.0A5,5,0,1,1,256.0,56.0A5,5,0,1,1,266.0,56.0" fill="#ee6abf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,72.0A5,5,0,1,1,256.0,72.0A5,5,0,1,1,266.0,72.0" fill="#49fea5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,88.0A5,5,0,1,1,256.0,88.0A5,5,0,1,1,266.0,88.0" fill="#68ef08" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="271,315,33,44" text-anchor="start" x="271.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Producer</text>
+<text aria-label="271,304,49,60" text-anchor="start" x="271.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rustic</text>
+<text aria-label="271,320,65,76" text-anchor="start" x="271.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">cluttered</text>
+<text aria-label="271,287,81,92" text-anchor="start" x="271.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">nor</text>
+</svg>

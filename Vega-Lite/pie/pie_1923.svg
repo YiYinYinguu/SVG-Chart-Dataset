@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="380" height="270" viewBox="0 0 380 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="258,375,0,26" text-anchor="end" x="375.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">drat Road</text>
+<path aria-label="Blues maximized South: 15; Coordinator holistic: whiteboard" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,95.80728987236579,59.56550476755221L101.20034648057786,103.23374197058826A31,31,0,0,1,105.0,103.0Z" fill="#aab023" stroke="black" stroke-width="4"/>
+<path aria-label="Blues maximized South: 196; Coordinator holistic: lux" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.62729180688729,90.89094423391953A75,75,0,0,0,64.05336215559069,196.8360792000805L88.07538969097749,159.9722460693666A31,31,0,0,1,79.63261394684675,116.1815902833534Z" fill="#7f4cc5" stroke="black" stroke-width="4"/>
+<path aria-label="Blues maximized South: 218; Coordinator holistic: auxiliary" role="graphics-symbol" aria-roledescription="arc mark"  d="M98.55683269341556,208.7227247566586A75,75,0,0,0,179.37661141967237,124.35014644012365L135.74233272013126,130.01139386191778A31,31,0,0,1,102.3368241799451,164.8853928994189Z" fill="#d2f917" stroke="black" stroke-width="4"/>
+<path aria-label="Blues maximized South: 60; Coordinator holistic: cocktail" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.05336215559069,196.8360792000805A75,75,0,0,0,98.55683269341556,208.7227247566586L102.3368241799451,164.8853928994189A31,31,0,0,1,88.07538969097749,159.9722460693666Z" fill="#f6a03a" stroke="black" stroke-width="4"/>
+<path aria-label="Blues maximized South: 102; Coordinator holistic: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M95.80728987236579,59.56550476755221A75,75,0,0,0,43.62729180688729,90.89094423391953L79.63261394684675,116.1815902833534A31,31,0,0,1,101.20034648057786,103.23374197058826Z" fill="#be76de" stroke="black" stroke-width="4"/>
+<path aria-label="Blues maximized South: 176; Coordinator holistic: Cisgender" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.37661141967237,124.35014644012365A75,75,0,0,0,105.0,59.0L105.0,103.0A31,31,0,0,1,135.74233272013126,130.01139386191778Z" fill="#b1c4db" stroke="black" stroke-width="4"/>
+<text aria-label="92,105,36,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.47394739006043" y="48.169811630208756" font-family="avenir" font-size="12px" fill="#aab023" opacity="1">15</text>
+<text aria-label="6,26,143,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.627474457522013" y="155.03809640904979" font-family="avenir" font-size="12px" fill="#7f4cc5" opacity="1">196</text>
+<text aria-label="160,179,188,201" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="169.9932806396516" y="200.25651348811215" font-family="avenir" font-size="12px" fill="#d2f917" opacity="1">218</text>
+<text aria-label="69,82,211,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="75.6853116860971" y="223.09200343780094" font-family="avenir" font-size="12px" fill="#f6a03a" opacity="1">60</text>
+<text aria-label="48,68,48,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="58.6764194886072" y="60.83701736840061" font-family="avenir" font-size="12px" fill="#be76de" opacity="1">102</text>
+<text aria-label="154,174,58,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.40461183920553" y="70.39014796471358" font-family="avenir" font-size="12px" fill="#b1c4db" opacity="1">176</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#b1c4db" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M92.0,258.25A5,5,0,1,1,82.0,258.25A5,5,0,1,1,92.0,258.25" fill="#d2f917" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M159.0,258.25A5,5,0,1,1,149.0,258.25A5,5,0,1,1,159.0,258.25" fill="#f6a03a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M223.0,258.25A5,5,0,1,1,213.0,258.25A5,5,0,1,1,223.0,258.25" fill="#7f4cc5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M264.0,258.25A5,5,0,1,1,254.0,258.25A5,5,0,1,1,264.0,258.25" fill="#be76de" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M315.0,258.25A5,5,0,1,1,305.0,258.25A5,5,0,1,1,315.0,258.25" fill="#aab023" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Cisgender</text>
+<text aria-label="97,146,251,262" text-anchor="start" x="97.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">auxiliary</text>
+<text aria-label="164,208,251,262" text-anchor="start" x="164.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">cocktail</text>
+<text aria-label="228,244,251,262" text-anchor="start" x="228.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">lux</text>
+<text aria-label="269,291,251,262" text-anchor="start" x="269.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="320,375,251,262" text-anchor="start" x="320.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">whiteboard</text>
+</svg>

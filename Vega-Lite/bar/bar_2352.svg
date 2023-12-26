@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="904" height="340" viewBox="0 0 904 340" style="background-color: rgb(255, 255, 255);">
+<line x1="139.5" y1="43.5" x2="139.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="356.5" y1="43.5" x2="356.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="573.5" y1="43.5" x2="573.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="790.5" y1="43.5" x2="790.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="243.5" x2="899.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="214.5" x2="899.5" y2="214.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="186.5" x2="899.5" y2="186.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="157.5" x2="899.5" y2="157.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="129.5" x2="899.5" y2="129.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="100.5" x2="899.5" y2="100.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="72.5" x2="899.5" y2="72.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="31.5" y1="43.5" x2="899.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="125,145,250,290" text-anchor="end" x="139.50000000000003" y="250.5" transform="rotate(270.0, 145.50000000000003, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">ball</text>
+<text aria-label="342,362,250,290" text-anchor="end" x="356.5" y="250.5" transform="rotate(270.0, 362.5, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">bump</text>
+<text aria-label="559,579,250,320" text-anchor="end" x="573.5" y="250.5" transform="rotate(270.0, 579.5, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">drummer</text>
+<text aria-label="776,796,250,320" text-anchor="end" x="790.5" y="250.5" transform="rotate(270.0, 796.5, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">veranda</text>
+<line aria-label="139,139,243,248" x1="139.5" y1="243.5" x2="139.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="356,356,243,248" x1="356.5" y1="243.5" x2="356.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="573,573,243,248" x1="573.5" y1="243.5" x2="573.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="790,790,243,248" x1="790.5" y1="243.5" x2="790.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="31,899,243,243" x1="31.5" y1="243.5" x2="899.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="847,899,0,26" text-anchor="end" x="899.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Fish</text>
+<text aria-label="19,29,230,250" text-anchor="end" x="29.5" y="249.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="19,29,201,221" text-anchor="end" x="29.5" y="220.92857142857144" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">5</text>
+<text aria-label="9,29,173,193" text-anchor="end" x="29.5" y="192.35714285714286" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">10</text>
+<text aria-label="9,29,144,164" text-anchor="end" x="29.5" y="163.78571428571428" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">15</text>
+<text aria-label="9,29,116,136" text-anchor="end" x="29.5" y="135.21428571428572" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="9,29,87,107" text-anchor="end" x="29.5" y="106.64285714285714" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">25</text>
+<text aria-label="9,29,59,79" text-anchor="end" x="29.5" y="78.07142857142858" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">30</text>
+<text aria-label="9,29,30,50" text-anchor="end" x="29.5" y="49.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">35</text>
+<line aria-label="31,31,43,243" x1="31.5" y1="243.5" x2="31.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="lux parsing throughput: ball; lumen: 32; Bicycle person: same grown Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M61.380000000000024,60.14285714285715h156.24v182.85714285714286h-156.24Z" fill="#77b83e"/>
+<path aria-label="lux parsing throughput: bump; lumen: 4; Bicycle person: same grown Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M278.38,220.14285714285714h156.24v22.85714285714286h-156.24Z" fill="#77b83e"/>
+<path aria-label="lux parsing throughput: drummer; lumen: 14; Bicycle person: same grown Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M495.38,163.0h156.24v80h-156.24Z" fill="#77b83e"/>
+<path aria-label="lux parsing throughput: veranda; lumen: 13; Bicycle person: same grown Berkshire" role="graphics-symbol" aria-roledescription="bar" d="M712.38,168.71428571428572h156.24v74.28571428571429h-156.24Z" fill="#77b83e"/>
+<text aria-label="132,146,42,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="139.50000000000003" y="55.02885714285715" font-family="sans-serif" font-size="13.02px" fill="#000" opacity="1">32</text>
+<text aria-label="352,360,202,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="356.5" y="215.02885714285713" font-family="sans-serif" font-size="13.02px" fill="#000" opacity="1">4</text>
+<text aria-label="566,580,144,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="573.5" y="157.886" font-family="sans-serif" font-size="13.02px" fill="#000" opacity="1">14</text>
+<text aria-label="783,797,150,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="790.5" y="163.6002857142857" font-family="sans-serif" font-size="13.02px" fill="#000" opacity="1">13</text>
+</svg>

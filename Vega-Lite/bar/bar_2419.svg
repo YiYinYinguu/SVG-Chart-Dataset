@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="591" height="340" viewBox="0 0 591 340" style="background-color: rgb(255, 255, 255);">
+<line x1="87.5" y1="34.5" x2="87.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="198.5" y1="34.5" x2="198.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="308.5" y1="34.5" x2="308.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="419.5" y1="34.5" x2="419.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="530.5" y1="34.5" x2="530.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="234.5" x2="586.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="198.5" x2="586.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="161.5" x2="586.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="125.5" x2="586.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="89.5" x2="586.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="52.5" x2="586.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="74,92,241,304" text-anchor="end" x="87.39999999999996" y="241.5" transform="rotate(270.0, 92.39999999999996, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">current</text>
+<text aria-label="185,203,241,304" text-anchor="end" x="198.19999999999996" y="241.5" transform="rotate(270.0, 203.19999999999996, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">diagram</text>
+<text aria-label="295,313,241,331" text-anchor="end" x="308.99999999999994" y="241.5" transform="rotate(270.0, 313.99999999999994, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">impairment</text>
+<text aria-label="406,424,241,313" text-anchor="end" x="419.79999999999995" y="241.5" transform="rotate(270.0, 424.79999999999995, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">merchant</text>
+<text aria-label="517,535,241,322" text-anchor="end" x="530.5999999999999" y="241.5" transform="rotate(270.0, 535.5999999999999, 241.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">submarine</text>
+<line aria-label="87,87,234,239" x1="87.5" y1="234.5" x2="87.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="198,198,234,239" x1="198.5" y1="234.5" x2="198.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="308,308,234,239" x1="308.5" y1="234.5" x2="308.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="419,419,234,239" x1="419.5" y1="234.5" x2="419.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="530,530,234,239" x1="530.5" y1="234.5" x2="530.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,586,234,234" x1="32.5" y1="234.5" x2="586.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="276,341,0,26" text-anchor="middle" x="309.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">yowza</text>
+<text aria-label="16,25,222,240" text-anchor="end" x="25.5" y="239.5" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="7,25,186,204" text-anchor="end" x="25.5" y="203.13636363636363" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="7,25,149,167" text-anchor="end" x="25.5" y="166.77272727272725" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="7,25,113,131" text-anchor="end" x="25.5" y="130.40909090909093" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="7,25,77,95" text-anchor="end" x="25.5" y="94.04545454545453" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="7,25,40,58" text-anchor="end" x="25.5" y="57.68181818181819" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">50</text>
+<line aria-label="27,32,234,234" x1="32.5" y1="234.5" x2="27.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,198,198" x1="32.5" y1="198.5" x2="27.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,161,161" x1="32.5" y1="161.5" x2="27.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,125,125" x1="32.5" y1="125.5" x2="27.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,89,89" x1="32.5" y1="89.5" x2="27.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,52,52" x1="32.5" y1="52.5" x2="27.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,32,34,234" x1="32.5" y1="234.5" x2="32.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Clothing South Metal: submarine; Internal: 12; Bicycle evolve Account: Compatible" role="graphics-symbol" aria-roledescription="bar" d="M505.66999999999996,139.45454545454547h49.86v43.636363636363626h-49.86Z" fill="#ced5a4"/>
+<path aria-label="Clothing South Metal: submarine; Internal: 14; Bicycle evolve Account: program once Luxurious" role="graphics-symbol" aria-roledescription="bar" d="M505.66999999999996,183.0909090909091h49.86v50.90909090909091h-49.86Z" fill="#02ed7a"/>
+<path aria-label="Clothing South Metal: submarine; Internal: 2; Bicycle evolve Account: Brand" role="graphics-symbol" aria-roledescription="bar" d="M505.66999999999996,132.1818181818182h49.86v7.2727272727272805h-49.86Z" fill="#b9aeed"/>
+<path aria-label="Clothing South Metal: merchant; Internal: 5; Bicycle evolve Account: Compatible" role="graphics-symbol" aria-roledescription="bar" d="M394.86999999999995,143.09090909090907h49.86v18.181818181818187h-49.86Z" fill="#ced5a4"/>
+<path aria-label="Clothing South Metal: merchant; Internal: 20; Bicycle evolve Account: program once Luxurious" role="graphics-symbol" aria-roledescription="bar" d="M394.86999999999995,161.27272727272725h49.86v72.72727272727273h-49.86Z" fill="#02ed7a"/>
+<path aria-label="Clothing South Metal: merchant; Internal: 13; Bicycle evolve Account: Brand" role="graphics-symbol" aria-roledescription="bar" d="M394.86999999999995,95.81818181818181h49.86v47.272727272727266h-49.86Z" fill="#b9aeed"/>
+<path aria-label="Clothing South Metal: current; Internal: 4; Bicycle evolve Account: Compatible" role="graphics-symbol" aria-roledescription="bar" d="M62.46999999999996,190.36363636363637h49.86v14.545454545454533h-49.86Z" fill="#ced5a4"/>
+<path aria-label="Clothing South Metal: current; Internal: 8; Bicycle evolve Account: program once Luxurious" role="graphics-symbol" aria-roledescription="bar" d="M62.46999999999996,204.9090909090909h49.86v29.090909090909093h-49.86Z" fill="#02ed7a"/>
+<path aria-label="Clothing South Metal: current; Internal: 21; Bicycle evolve Account: Brand" role="graphics-symbol" aria-roledescription="bar" d="M62.46999999999996,114.0h49.86v76.36363636363637h-49.86Z" fill="#b9aeed"/>
+<path aria-label="Clothing South Metal: impairment; Internal: 17; Bicycle evolve Account: Compatible" role="graphics-symbol" aria-roledescription="bar" d="M284.06999999999994,110.36363636363637h49.86v61.81818181818181h-49.86Z" fill="#ced5a4"/>
+<path aria-label="Clothing South Metal: impairment; Internal: 17; Bicycle evolve Account: program once Luxurious" role="graphics-symbol" aria-roledescription="bar" d="M284.06999999999994,172.1818181818182h49.86v61.81818181818181h-49.86Z" fill="#02ed7a"/>
+<path aria-label="Clothing South Metal: impairment; Internal: 18; Bicycle evolve Account: Brand" role="graphics-symbol" aria-roledescription="bar" d="M284.06999999999994,44.909090909090914h49.86v65.45454545454547h-49.86Z" fill="#b9aeed"/>
+<path aria-label="Clothing South Metal: diagram; Internal: 12; Bicycle evolve Account: Compatible" role="graphics-symbol" aria-roledescription="bar" d="M173.26999999999995,117.63636363636364h49.86v43.636363636363626h-49.86Z" fill="#ced5a4"/>
+<path aria-label="Clothing South Metal: diagram; Internal: 20; Bicycle evolve Account: program once Luxurious" role="graphics-symbol" aria-roledescription="bar" d="M173.26999999999995,161.27272727272725h49.86v72.72727272727273h-49.86Z" fill="#02ed7a"/>
+<path aria-label="Clothing South Metal: diagram; Internal: 18; Bicycle evolve Account: Brand" role="graphics-symbol" aria-roledescription="bar" d="M173.26999999999995,52.18181818181819h49.86v65.45454545454545h-49.86Z" fill="#b9aeed"/>
+</svg>

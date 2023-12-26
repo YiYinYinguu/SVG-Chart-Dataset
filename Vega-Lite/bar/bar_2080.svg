@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="360" height="299" viewBox="0 0 360 299" style="background-color: rgb(255, 255, 255);">
+<line x1="40.5" y1="234.5" x2="355.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="190.5" x2="355.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="145.5" x2="355.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="101.5" x2="355.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="56.5" x2="355.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="65,81,241,289" text-anchor="end" x="76.34615384615387" y="241.5" transform="rotate(270.0, 81.34615384615387, 241.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">client</text>
+<text aria-label="125,141,241,281" text-anchor="end" x="136.92307692307693" y="241.5" transform="rotate(270.0, 141.92307692307693, 241.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">login</text>
+<text aria-label="186,202,241,265" text-anchor="end" x="197.5" y="241.5" transform="rotate(270.0, 202.5, 241.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">mop</text>
+<text aria-label="247,263,241,273" text-anchor="end" x="258.0769230769231" y="241.5" transform="rotate(270.0, 263.0769230769231, 241.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">ping</text>
+<text aria-label="307,323,241,289" text-anchor="end" x="318.6538461538462" y="241.5" transform="rotate(270.0, 323.6538461538462, 241.5)" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">temple</text>
+<line aria-label="76,76,234,239" x1="76.5" y1="234.5" x2="76.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="136,136,234,239" x1="136.5" y1="234.5" x2="136.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,197,234,239" x1="197.5" y1="234.5" x2="197.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="258,258,234,239" x1="258.5" y1="234.5" x2="258.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="318,318,234,239" x1="318.5" y1="234.5" x2="318.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,355,234,234" x1="40.5" y1="234.5" x2="355.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,135,0,26" text-anchor="start" x="5.24853515625" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">withdrawal</text>
+<text aria-label="25,33,224,240" text-anchor="end" x="33.5" y="239.5" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="9,33,180,196" text-anchor="end" x="33.5" y="195.05555555555557" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="9,33,135,151" text-anchor="end" x="33.5" y="150.61111111111111" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="9,33,91,107" text-anchor="end" x="33.5" y="106.16666666666667" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="9,33,46,62" text-anchor="end" x="33.5" y="61.72222222222223" font-family="Balto" font-size="15px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="35,40,234,234" x1="40.5" y1="234.5" x2="35.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,190,190" x1="40.5" y1="190.5" x2="35.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,145,145" x1="40.5" y1="145.5" x2="35.5" y2="145.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,101,101" x1="40.5" y1="101.5" x2="35.5" y2="101.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,40,56,56" x1="40.5" y1="56.5" x2="35.5" y2="56.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Latin Montenegro: temple; Xenogender Electric: 29; Northeast utilisation programming: oily Northeast" role="graphics-symbol" aria-roledescription="bar" d="M326.7307692307692,227.55555555555554h16.153846153846153v6.444444444444457h-16.153846153846153Z" fill="#6c4d35"/>
+<path aria-label="Latin Montenegro: temple; Xenogender Electric: 629; Northeast utilisation programming: eyeballs where" role="graphics-symbol" aria-roledescription="bar" d="M310.5769230769231,94.22222222222223h16.153846153846153v139.77777777777777h-16.153846153846153Z" fill="#e5087c"/>
+<path aria-label="Latin Montenegro: temple; Xenogender Electric: 453; Northeast utilisation programming: empowering" role="graphics-symbol" aria-roledescription="bar" d="M294.4230769230769,133.33333333333334h16.153846153846153v100.66666666666666h-16.153846153846153Z" fill="#f09d01"/>
+<path aria-label="Latin Montenegro: client; Xenogender Electric: 4; Northeast utilisation programming: oily Northeast" role="graphics-symbol" aria-roledescription="bar" d="M84.42307692307695,233.11111111111111h16.153846153846153v0.8888888888888857h-16.153846153846153Z" fill="#6c4d35"/>
+<path aria-label="Latin Montenegro: client; Xenogender Electric: 791; Northeast utilisation programming: eyeballs where" role="graphics-symbol" aria-roledescription="bar" d="M68.2692307692308,58.222222222222214h16.153846153846153v175.7777777777778h-16.153846153846153Z" fill="#e5087c"/>
+<path aria-label="Latin Montenegro: client; Xenogender Electric: 367; Northeast utilisation programming: empowering" role="graphics-symbol" aria-roledescription="bar" d="M52.11538461538464,152.44444444444446h16.153846153846153v81.55555555555556h-16.153846153846153Z" fill="#f09d01"/>
+<path aria-label="Latin Montenegro: ping; Xenogender Electric: 542; Northeast utilisation programming: oily Northeast" role="graphics-symbol" aria-roledescription="bar" d="M266.1538461538462,113.55555555555556h16.153846153846153v120.44444444444444h-16.153846153846153Z" fill="#6c4d35"/>
+<path aria-label="Latin Montenegro: ping; Xenogender Electric: 656; Northeast utilisation programming: eyeballs where" role="graphics-symbol" aria-roledescription="bar" d="M250.00000000000003,88.22222222222221h16.153846153846153v145.77777777777777h-16.153846153846153Z" fill="#e5087c"/>
+<path aria-label="Latin Montenegro: ping; Xenogender Electric: 813; Northeast utilisation programming: empowering" role="graphics-symbol" aria-roledescription="bar" d="M233.84615384615387,53.333333333333336h16.153846153846153v180.66666666666666h-16.153846153846153Z" fill="#f09d01"/>
+<path aria-label="Latin Montenegro: mop; Xenogender Electric: 417; Northeast utilisation programming: oily Northeast" role="graphics-symbol" aria-roledescription="bar" d="M205.5769230769231,141.33333333333331h16.153846153846153v92.66666666666667h-16.153846153846153Z" fill="#6c4d35"/>
+<path aria-label="Latin Montenegro: mop; Xenogender Electric: 293; Northeast utilisation programming: eyeballs where" role="graphics-symbol" aria-roledescription="bar" d="M189.42307692307693,168.88888888888889h16.153846153846153v65.11111111111111h-16.153846153846153Z" fill="#e5087c"/>
+<path aria-label="Latin Montenegro: mop; Xenogender Electric: 15; Northeast utilisation programming: empowering" role="graphics-symbol" aria-roledescription="bar" d="M173.26923076923077,230.66666666666666h16.153846153846153v3.333333333333343h-16.153846153846153Z" fill="#f09d01"/>
+<path aria-label="Latin Montenegro: login; Xenogender Electric: 252; Northeast utilisation programming: oily Northeast" role="graphics-symbol" aria-roledescription="bar" d="M145.0,178.0h16.153846153846153v56h-16.153846153846153Z" fill="#6c4d35"/>
+<path aria-label="Latin Montenegro: login; Xenogender Electric: 118; Northeast utilisation programming: eyeballs where" role="graphics-symbol" aria-roledescription="bar" d="M128.84615384615387,207.77777777777777h16.153846153846153v26.22222222222223h-16.153846153846153Z" fill="#e5087c"/>
+<path aria-label="Latin Montenegro: login; Xenogender Electric: 259; Northeast utilisation programming: empowering" role="graphics-symbol" aria-roledescription="bar" d="M112.69230769230771,176.44444444444443h16.153846153846153v57.55555555555557h-16.153846153846153Z" fill="#f09d01"/>
+</svg>

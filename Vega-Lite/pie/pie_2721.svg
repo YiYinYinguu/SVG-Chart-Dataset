@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="195,299,0,26" text-anchor="end" x="299.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Customer</text>
+<path aria-label="monthly gadzooks: 62; Indiana: Loan" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.3671790623861,153.69749716467922A75,75,0,0,0,179.53809433776297,142.31098625283119L105.0,134.0Z" fill="#3be921" stroke="black" stroke-width="4"/>
+<path aria-label="monthly gadzooks: 429; Indiana: Bespoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.80756985308776,98.02273287156214A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#6deaeb" stroke="black" stroke-width="4"/>
+<path aria-label="monthly gadzooks: 347; Indiana: Plantation" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.09478424985569,200.3824217201804A75,75,0,0,0,132.9431146277218,203.60016052353615L105.0,134.0Z" fill="#d3baab" stroke="black" stroke-width="4"/>
+<path aria-label="monthly gadzooks: 398; Indiana: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.97145093151411,94.94433582456324A75,75,0,0,0,37.317521891684564,166.3122601672709L105.0,134.0Z" fill="#3e8d5c" stroke="black" stroke-width="4"/>
+<path aria-label="monthly gadzooks: 245; Indiana: Hafnium" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.53809433776297,142.31098625283119A75,75,0,0,0,170.80756985308776,98.02273287156214L105.0,134.0Z" fill="#a28dc8" stroke="black" stroke-width="4"/>
+<path aria-label="monthly gadzooks: 370; Indiana: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.9431146277218,203.60016052353615A75,75,0,0,0,177.3671790623861,153.69749716467922L105.0,134.0Z" fill="#1b3acd" stroke="black" stroke-width="4"/>
+<path aria-label="monthly gadzooks: 257; Indiana: inside" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.317521891684564,166.3122601672709A75,75,0,0,0,70.09478424985569,200.3824217201804L105.0,134.0Z" fill="#721816" stroke="black" stroke-width="4"/>
+<path aria-label="monthly gadzooks: 410; Indiana: synthesizing" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,40.97145093151411,94.94433582456324L105.0,134.0Z" fill="#d2160f" stroke="black" stroke-width="4"/>
+<text aria-label="187,198,143,154" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.40753539188017" y="153.85549423581094" font-family="avenir" font-size="10px" fill="#3be921" opacity="1">62</text>
+<text aria-label="142,159,49,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.90454852260672" y="59.58700093049201" font-family="avenir" font-size="10px" fill="#6deaeb" opacity="1">429</text>
+<text aria-label="92,108,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.39816447312981" y="226.88227361267423" font-family="avenir" font-size="10px" fill="#d3baab" opacity="1">347</text>
+<text aria-label="6,23,122,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.11772638732576" y="132.39816447312978" font-family="avenir" font-size="10px" fill="#3e8d5c" opacity="1">398</text>
+<text aria-label="185,201,109,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.30066672514104" y="119.59332725947978" font-family="avenir" font-size="10px" fill="#a28dc8" opacity="1">245</text>
+<text aria-label="163,180,186,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="172.2225787885374" y="196.84250079181922" font-family="avenir" font-size="10px" fill="#1b3acd" opacity="1">370</text>
+<text aria-label="31,48,189,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="40.14166281658285" y="199.39708404887335" font-family="avenir" font-size="10px" fill="#721816" opacity="1">257</text>
+<text aria-label="52,69,48,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="60.943285023433546" y="58.52066599751508" font-family="avenir" font-size="10px" fill="#d2160f" opacity="1">410</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#6deaeb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#a28dc8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#3be921" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#1b3acd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#d3baab" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#721816" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#3e8d5c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#d2160f" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bespoke</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hafnium</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Loan</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="239,294,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Plantation</text>
+<text aria-label="239,272,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">inside</text>
+<text aria-label="239,277,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="239,305,145,156" text-anchor="start" x="239.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">synthesizing</text>
+</svg>

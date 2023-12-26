@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="320" height="239" viewBox="0 0 320 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Mouse</text>
+<path aria-label="bandwidth: 149; compelling Towels: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.4830636412903,149.00797647553065A75,75,0,0,0,177.14273479422627,113.49571224329082L159.82847844361197,118.41674130490102A57,57,0,0,1,160.8471283673806,145.4060621214033Z" fill="#a2bd8d" stroke="black" stroke-width="4"/>
+<path aria-label="bandwidth: 717; compelling Towels: by" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.758314514523335,178.67593681019918A75,75,0,0,0,178.4830636412903,149.00797647553065L160.8471283673806,145.4060621214033A57,57,0,0,1,59.216319031037735,167.9537119757514Z" fill="#30cffe" stroke="black" stroke-width="4"/>
+<path aria-label="bandwidth: 147; compelling Towels: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.14273479422627,113.49571224329082A75,75,0,0,0,159.93402373072448,82.93873251913736L146.7498580353506,95.19343671454439A57,57,0,0,1,159.82847844361197,118.41674130490102Z" fill="#ba1b84" stroke="black" stroke-width="4"/>
+<path aria-label="bandwidth: 256; compelling Towels: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.93402373072448,82.93873251913736A75,75,0,0,0,105.0,59.0L105.0,77.0A57,57,0,0,1,146.7498580353506,95.19343671454439Z" fill="#d8ca95" stroke="black" stroke-width="4"/>
+<path aria-label="bandwidth: 688; compelling Towels: input" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,44.758314514523335,178.67593681019918L59.216319031037735,167.9537119757514A57,57,0,0,1,104.99999999999999,77.0Z" fill="#bbffde" stroke="black" stroke-width="4"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#d8ca95" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ba1b84" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#a2bd8d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#30cffe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#bbffde" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,316,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="239,250,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">by</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">input</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="871" height="321" viewBox="0 0 871 321" style="background-color: rgb(255, 255, 255);">
+<line x1="151.5" y1="41.5" x2="151.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="355.5" y1="41.5" x2="355.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="559.5" y1="41.5" x2="559.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="763.5" y1="41.5" x2="763.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="241.5" x2="866.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="201.5" x2="866.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="161.5" x2="866.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="121.5" x2="866.5" y2="121.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="81.5" x2="866.5" y2="81.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="49.5" y1="41.5" x2="866.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="140,155,248,316" text-anchor="end" x="151.12500000000006" y="248.5" transform="rotate(270.0, 155.12500000000006, 248.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">brushfire</text>
+<text aria-label="344,359,248,293" text-anchor="end" x="355.37500000000006" y="248.5" transform="rotate(270.0, 359.37500000000006, 248.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">goodie</text>
+<text aria-label="548,563,248,293" text-anchor="end" x="559.625" y="248.5" transform="rotate(270.0, 563.625, 248.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">memory</text>
+<text aria-label="752,767,248,301" text-anchor="end" x="763.8750000000001" y="248.5" transform="rotate(270.0, 767.8750000000001, 248.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">minimum</text>
+<line aria-label="151,151,241,246" x1="151.5" y1="241.5" x2="151.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="355,355,241,246" x1="355.5" y1="241.5" x2="355.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="559,559,241,246" x1="559.5" y1="241.5" x2="559.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="763,763,241,246" x1="763.5" y1="241.5" x2="763.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,866,241,241" x1="49.5" y1="241.5" x2="866.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,83,0,26" text-anchor="start" x="5.7900390625" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">grubby</text>
+<text aria-label="35,42,231,246" text-anchor="end" x="42.5" y="245.5" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="20,42,191,206" text-anchor="end" x="42.5" y="205.5" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="20,42,151,166" text-anchor="end" x="42.5" y="165.5" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="20,42,111,126" text-anchor="end" x="42.5" y="125.5" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="20,42,71,86" text-anchor="end" x="42.5" y="85.5" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="5,42,31,46" text-anchor="end" x="42.5" y="45.5" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<line aria-label="44,49,241,241" x1="49.5" y1="241.5" x2="44.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,201,201" x1="49.5" y1="201.5" x2="44.5" y2="201.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,161,161" x1="49.5" y1="161.5" x2="44.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,121,121" x1="49.5" y1="121.5" x2="44.5" y2="121.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,81,81" x1="49.5" y1="81.5" x2="44.5" y2="81.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,41,41" x1="49.5" y1="41.5" x2="44.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,49,41,241" x1="49.5" y1="241.5" x2="49.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Account Avon Cotton: goodie; physically Minivan Vatu: 474; white Bugatti: hack" role="graphics-symbol" aria-roledescription="bar" d="M300.2275,146.2h110.29500000000003v94.8h-110.29500000000003Z" fill="#84dabb"/>
+<path aria-label="Account Avon Cotton: goodie; physically Minivan Vatu: 370; white Bugatti: fuga West maximize" role="graphics-symbol" aria-roledescription="bar" d="M300.2275,72.2h110.29500000000003v74h-110.29500000000003Z" fill="#3ddef3"/>
+<path aria-label="Account Avon Cotton: minimum; physically Minivan Vatu: 505; white Bugatti: hack" role="graphics-symbol" aria-roledescription="bar" d="M708.7275000000001,140.0h110.29500000000003v101h-110.29500000000003Z" fill="#84dabb"/>
+<path aria-label="Account Avon Cotton: minimum; physically Minivan Vatu: 399; white Bugatti: fuga West maximize" role="graphics-symbol" aria-roledescription="bar" d="M708.7275000000001,60.199999999999996h110.29500000000003v79.80000000000001h-110.29500000000003Z" fill="#3ddef3"/>
+<path aria-label="Account Avon Cotton: brushfire; physically Minivan Vatu: 438; white Bugatti: hack" role="graphics-symbol" aria-roledescription="bar" d="M95.97750000000002,153.4h110.29500000000003v87.6h-110.29500000000003Z" fill="#84dabb"/>
+<path aria-label="Account Avon Cotton: brushfire; physically Minivan Vatu: 434; white Bugatti: fuga West maximize" role="graphics-symbol" aria-roledescription="bar" d="M95.97750000000002,66.6h110.29500000000003v86.80000000000001h-110.29500000000003Z" fill="#3ddef3"/>
+<path aria-label="Account Avon Cotton: memory; physically Minivan Vatu: 310; white Bugatti: hack" role="graphics-symbol" aria-roledescription="bar" d="M504.4775,179.0h110.29500000000003v62h-110.29500000000003Z" fill="#84dabb"/>
+<path aria-label="Account Avon Cotton: memory; physically Minivan Vatu: 320; white Bugatti: fuga West maximize" role="graphics-symbol" aria-roledescription="bar" d="M504.4775,115.0h110.29500000000003v64h-110.29500000000003Z" fill="#3ddef3"/>
+<text aria-label="345,365,129,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="355.37500000000006" y="141.6215" font-family="avenir" font-size="12.254999999999999px" fill="#000" opacity="1">474</text>
+<text aria-label="345,365,55,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="355.37500000000006" y="67.62150000000001" font-family="avenir" font-size="12.254999999999999px" fill="#000" opacity="1">370</text>
+<text aria-label="753,773,123,136" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="763.8750000000001" y="135.4215" font-family="avenir" font-size="12.254999999999999px" fill="#000" opacity="1">505</text>
+<text aria-label="753,773,43,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="763.8750000000001" y="55.6215" font-family="avenir" font-size="12.254999999999999px" fill="#000" opacity="1">399</text>
+<text aria-label="141,161,136,149" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.12500000000006" y="148.82150000000001" font-family="avenir" font-size="12.254999999999999px" fill="#000" opacity="1">438</text>
+<text aria-label="141,161,49,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.12500000000006" y="62.0215" font-family="avenir" font-size="12.254999999999999px" fill="#000" opacity="1">434</text>
+<text aria-label="549,569,162,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="559.625" y="174.4215" font-family="avenir" font-size="12.254999999999999px" fill="#000" opacity="1">310</text>
+<text aria-label="549,569,98,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="559.625" y="110.42150000000001" font-family="avenir" font-size="12.254999999999999px" fill="#000" opacity="1">320</text>
+</svg>

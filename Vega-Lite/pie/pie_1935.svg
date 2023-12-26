@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="473" height="286" viewBox="0 0 473 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">seamless</text>
+<path aria-label="at Fresh Borders: 131; humble Adaptive: Buckinghamshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.39179159817306,175.62047982868702A75,75,0,0,0,145.47846289298423,70.86131105398769L122.27081083433994,107.0608260497014A32,32,0,0,1,131.62049774855384,151.75807139357312Z" fill="#18e7ca" stroke="black" stroke-width="1"/>
+<path aria-label="at Fresh Borders: 62; humble Adaptive: Forward" role="graphics-symbol" aria-roledescription="arc mark"  d="M68.42287921397742,199.47605848708912A75,75,0,0,0,123.01661258117602,206.80385752897857L112.68708803463511,165.06297921236418A32,32,0,0,1,89.3937617979637,161.93645162115803Z" fill="#9edbfe" stroke="black" stroke-width="1"/>
+<path aria-label="at Fresh Borders: 47; humble Adaptive: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M145.47846289298423,70.86131105398769A75,75,0,0,0,105.0,59.0L105.0,102.0A32,32,0,0,1,122.27081083433994,107.0608260497014Z" fill="#1fd175" stroke="black" stroke-width="1"/>
+<path aria-label="at Fresh Borders: 61; humble Adaptive: Developer" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.01661258117602,206.80385752897857A75,75,0,0,0,167.39179159817306,175.62047982868702L131.62049774855384,151.75807139357312A32,32,0,0,1,112.68708803463511,165.06297921236418Z" fill="#29ebc7" stroke="black" stroke-width="1"/>
+<path aria-label="at Fresh Borders: 54; humble Adaptive: Identity" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.10712906705234,163.64409443069928A75,75,0,0,0,68.42287921397742,199.47605848708912L89.3937617979637,161.93645162115803A32,32,0,0,1,75.60570840194234,146.64814695709836Z" fill="#d09fad" stroke="black" stroke-width="1"/>
+<path aria-label="at Fresh Borders: 39; humble Adaptive: Malta" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.166838310304797,129.00020885196835A75,75,0,0,0,36.10712906705234,163.64409443069928L75.60570840194234,146.64814695709836A32,32,0,0,1,73.07118434573005,131.86675577683982Z" fill="#3a2566" stroke="black" stroke-width="1"/>
+<path aria-label="at Fresh Borders: 124; humble Adaptive: haptic" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.166838310304797,129.00020885196835L73.07118434573005,131.86675577683982A32,32,0,0,1,105.0,102.0Z" fill="#1fd96f" stroke="black" stroke-width="1"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#1fd175" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,274.25A5,5,0,1,1,68.0,274.25A5,5,0,1,1,78.0,274.25" fill="#18e7ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M180.0,274.25A5,5,0,1,1,170.0,274.25A5,5,0,1,1,180.0,274.25" fill="#29ebc7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M252.0,274.25A5,5,0,1,1,242.0,274.25A5,5,0,1,1,252.0,274.25" fill="#9edbfe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M314.0,274.25A5,5,0,1,1,304.0,274.25A5,5,0,1,1,314.0,274.25" fill="#d09fad" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M381.0,274.25A5,5,0,1,1,371.0,274.25A5,5,0,1,1,381.0,274.25" fill="#3a2566" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M433.0,274.25A5,5,0,1,1,423.0,274.25A5,5,0,1,1,433.0,274.25" fill="#1fd96f" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="83,165,267,278" text-anchor="start" x="83.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Buckinghamshire</text>
+<text aria-label="185,234,267,278" text-anchor="start" x="185.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Developer</text>
+<text aria-label="257,295,267,278" text-anchor="start" x="257.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Forward</text>
+<text aria-label="319,363,267,278" text-anchor="start" x="319.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Identity</text>
+<text aria-label="386,413,267,278" text-anchor="start" x="386.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Malta</text>
+<text aria-label="438,471,267,278" text-anchor="start" x="438.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">haptic</text>
+<text aria-label="5,95,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">humble Adaptive</text>
+</svg>

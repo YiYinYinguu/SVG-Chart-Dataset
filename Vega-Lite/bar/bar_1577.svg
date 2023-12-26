@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1069" height="317" viewBox="0 0 1069 317" style="background-color: rgb(255, 255, 255);">
+<line x1="54.5" y1="241.5" x2="919.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="212.5" x2="919.5" y2="212.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="184.5" x2="919.5" y2="184.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="155.5" x2="919.5" y2="155.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="127.5" x2="919.5" y2="127.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="98.5" x2="919.5" y2="98.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="70.5" x2="919.5" y2="70.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="41.5" x2="919.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="126,142,248,304" text-anchor="end" x="137.70967741935488" y="248.5" transform="rotate(270.0, 142.70967741935488, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">booklet</text>
+<text aria-label="266,282,248,296" text-anchor="end" x="277.2258064516129" y="248.5" transform="rotate(270.0, 282.2258064516129, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">comics</text>
+<text aria-label="405,421,248,312" text-anchor="end" x="416.741935483871" y="248.5" transform="rotate(270.0, 421.741935483871, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">jodhpurs</text>
+<text aria-label="545,561,248,320" text-anchor="end" x="556.258064516129" y="248.5" transform="rotate(270.0, 561.258064516129, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">portfolio</text>
+<text aria-label="684,700,248,296" text-anchor="end" x="695.7741935483871" y="248.5" transform="rotate(270.0, 700.7741935483871, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">recess</text>
+<text aria-label="824,840,248,296" text-anchor="end" x="835.2903225806451" y="248.5" transform="rotate(270.0, 840.2903225806451, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">violin</text>
+<line aria-label="137,137,241,246" x1="137.5" y1="241.5" x2="137.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="277,277,241,246" x1="277.5" y1="241.5" x2="277.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="416,416,241,246" x1="416.5" y1="241.5" x2="416.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="556,556,241,246" x1="556.5" y1="241.5" x2="556.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="695,695,241,246" x1="695.5" y1="241.5" x2="695.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="835,835,241,246" x1="835.5" y1="241.5" x2="835.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,919,241,241" x1="54.5" y1="241.5" x2="919.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="804,1064,0,26" text-anchor="end" x="1064.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">CLI Borders Cadillac</text>
+<text aria-label="39,47,231,247" text-anchor="end" x="47.5" y="246.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="31,47,202,218" text-anchor="end" x="47.5" y="217.92857142857144" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="23,47,174,190" text-anchor="end" x="47.5" y="189.35714285714286" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="23,47,145,161" text-anchor="end" x="47.5" y="160.78571428571428" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="23,47,117,133" text-anchor="end" x="47.5" y="132.21428571428572" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="23,47,88,104" text-anchor="end" x="47.5" y="103.64285714285714" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">250</text>
+<text aria-label="23,47,60,76" text-anchor="end" x="47.5" y="75.07142857142858" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="23,47,31,47" text-anchor="end" x="47.5" y="46.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">350</text>
+<line aria-label="49,54,241,241" x1="54.5" y1="241.5" x2="49.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,212,212" x1="54.5" y1="212.5" x2="49.5" y2="212.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,184,184" x1="54.5" y1="184.5" x2="49.5" y2="184.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,155,155" x1="54.5" y1="155.5" x2="49.5" y2="155.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,127,127" x1="54.5" y1="127.5" x2="49.5" y2="127.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,98,98" x1="54.5" y1="98.5" x2="49.5" y2="98.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,70,70" x1="54.5" y1="70.5" x2="49.5" y2="70.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,41,41" x1="54.5" y1="41.5" x2="49.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,111,171" text-anchor="middle" x="17.11083984375" y="141.5" transform="rotate(-90.0, 15.11083984375, 141.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">stable USB</text>
+<path aria-label="dolore weber Northeast: booklet; stable USB: 110; candela useful: error South Rock" role="graphics-symbol" aria-roledescription="bar" d="M137.70967741935488,178.14285714285714h55.806451612903224v62.85714285714286h-55.806451612903224Z" fill="#c4cbf9"/>
+<path aria-label="dolore weber Northeast: booklet; stable USB: 303; candela useful: South Waldorf Terbium" role="graphics-symbol" aria-roledescription="bar" d="M81.90322580645164,67.85714285714285h55.806451612903224v173.14285714285717h-55.806451612903224Z" fill="#6fb533"/>
+<path aria-label="dolore weber Northeast: violin; stable USB: 226; candela useful: error South Rock" role="graphics-symbol" aria-roledescription="bar" d="M835.2903225806451,111.85714285714286h55.806451612903224v129.14285714285714h-55.806451612903224Z" fill="#c4cbf9"/>
+<path aria-label="dolore weber Northeast: violin; stable USB: 24; candela useful: South Waldorf Terbium" role="graphics-symbol" aria-roledescription="bar" d="M779.483870967742,227.28571428571428h55.806451612903224v13.714285714285722h-55.806451612903224Z" fill="#6fb533"/>
+<path aria-label="dolore weber Northeast: comics; stable USB: 188; candela useful: error South Rock" role="graphics-symbol" aria-roledescription="bar" d="M277.2258064516129,133.57142857142856h55.806451612903224v107.42857142857143h-55.806451612903224Z" fill="#c4cbf9"/>
+<path aria-label="dolore weber Northeast: comics; stable USB: 84; candela useful: South Waldorf Terbium" role="graphics-symbol" aria-roledescription="bar" d="M221.4193548387097,193.0h55.806451612903224v48h-55.806451612903224Z" fill="#6fb533"/>
+<path aria-label="dolore weber Northeast: portfolio; stable USB: 313; candela useful: error South Rock" role="graphics-symbol" aria-roledescription="bar" d="M556.258064516129,62.14285714285715h55.806451612903224v178.85714285714283h-55.806451612903224Z" fill="#c4cbf9"/>
+<path aria-label="dolore weber Northeast: portfolio; stable USB: 118; candela useful: South Waldorf Terbium" role="graphics-symbol" aria-roledescription="bar" d="M500.4516129032258,173.57142857142856h55.806451612903224v67.42857142857144h-55.806451612903224Z" fill="#6fb533"/>
+<path aria-label="dolore weber Northeast: recess; stable USB: 151; candela useful: error South Rock" role="graphics-symbol" aria-roledescription="bar" d="M695.7741935483871,154.7142857142857h55.806451612903224v86.2857142857143h-55.806451612903224Z" fill="#c4cbf9"/>
+<path aria-label="dolore weber Northeast: recess; stable USB: 309; candela useful: South Waldorf Terbium" role="graphics-symbol" aria-roledescription="bar" d="M639.9677419354839,64.42857142857142h55.806451612903224v176.57142857142858h-55.806451612903224Z" fill="#6fb533"/>
+<path aria-label="dolore weber Northeast: jodhpurs; stable USB: 187; candela useful: error South Rock" role="graphics-symbol" aria-roledescription="bar" d="M416.741935483871,134.14285714285717h55.806451612903224v106.85714285714285h-55.806451612903224Z" fill="#c4cbf9"/>
+<path aria-label="dolore weber Northeast: jodhpurs; stable USB: 141; candela useful: South Waldorf Terbium" role="graphics-symbol" aria-roledescription="bar" d="M360.93548387096774,160.42857142857144h55.806451612903224v80.57142857142856h-55.806451612903224Z" fill="#6fb533"/>
+<text aria-label="148,182,147,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.61290322580646" y="169.00535714285715" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">110</text>
+<text aria-label="92,126,37,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.80645161290326" y="58.71964285714285" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">303</text>
+<text aria-label="846,880,81,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="863.1935483870968" y="102.71964285714287" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">226</text>
+<text aria-label="796,818,196,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="807.3870967741935" y="218.1482142857143" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">24</text>
+<text aria-label="288,322,102,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="305.1290322580645" y="124.43392857142857" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">188</text>
+<text aria-label="238,260,162,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.3225806451613" y="183.8625" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">84</text>
+<text aria-label="567,601,31,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="584.1612903225806" y="53.00535714285716" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">313</text>
+<text aria-label="511,545,142,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="528.3548387096773" y="164.43392857142857" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">118</text>
+<text aria-label="706,740,123,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="723.6774193548388" y="145.5767857142857" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">151</text>
+<text aria-label="650,684,33,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="667.8709677419355" y="55.29107142857143" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">309</text>
+<text aria-label="427,461,103,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="444.64516129032256" y="125.00535714285715" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">187</text>
+<text aria-label="371,405,129,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="388.83870967741933" y="151.29107142857146" font-family="avenir" font-size="21.624999999999996px" fill="#000" opacity="1">141</text>
+<path  d="M938.0,42.0h10v10h-10Z" fill="#c4cbf9" stroke-width="1.5" opacity="1"/>
+<path  d="M938.0,55.0h10v10h-10Z" fill="#6fb533" stroke-width="1.5" opacity="1"/>
+<text aria-label="953,1041,40,51" text-anchor="start" x="953.0" y="50.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">error South Rock</text>
+<text aria-label="953,1068,53,64" text-anchor="start" x="953.0" y="63.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">South Waldorf Terbium</text>
+</svg>

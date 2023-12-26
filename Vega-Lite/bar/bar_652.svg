@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="720" height="351" viewBox="0 0 720 351" style="background-color: rgb(255, 255, 255);">
+<text aria-label="117,135,250,340" text-anchor="end" x="130.2692307692308" y="250.5" transform="rotate(270.0, 135.2692307692308, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">competitor</text>
+<text aria-label="244,262,250,331" text-anchor="end" x="257.3846153846154" y="250.5" transform="rotate(270.0, 262.3846153846154, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">hardcover</text>
+<text aria-label="371,389,250,331" text-anchor="end" x="384.50000000000006" y="250.5" transform="rotate(270.0, 389.50000000000006, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">highlight</text>
+<text aria-label="498,516,250,331" text-anchor="end" x="511.61538461538464" y="250.5" transform="rotate(270.0, 516.6153846153846, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">overheard</text>
+<text aria-label="625,643,250,313" text-anchor="end" x="638.7307692307693" y="250.5" transform="rotate(270.0, 643.7307692307693, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">respect</text>
+<line aria-label="130,130,243,248" x1="130.5" y1="243.5" x2="130.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="257,257,243,248" x1="257.5" y1="243.5" x2="257.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="384,384,243,248" x1="384.5" y1="243.5" x2="384.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="511,511,243,248" x1="511.5" y1="243.5" x2="511.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="638,638,243,248" x1="638.5" y1="243.5" x2="638.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,715,243,243" x1="54.5" y1="243.5" x2="715.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="676,715,0,26" text-anchor="end" x="715.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">sip</text>
+<text aria-label="43,52,231,249" text-anchor="end" x="52.5" y="248.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="25,52,198,216" text-anchor="end" x="52.5" y="215.16666666666669" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="25,52,164,182" text-anchor="end" x="52.5" y="181.83333333333334" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="25,52,131,149" text-anchor="end" x="52.5" y="148.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="25,52,98,116" text-anchor="end" x="52.5" y="115.16666666666667" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="25,52,64,82" text-anchor="end" x="52.5" y="81.83333333333333" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="25,52,31,49" text-anchor="end" x="52.5" y="48.5" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="3,15,131,155" text-anchor="middle" x="17.04833984375" y="143.5" transform="rotate(-90.0, 15.04833984375, 143.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Vatu</text>
+<path aria-label="duh: overheard; Vatu: 176; Buckinghamshire loosely granular: database try seminar" role="graphics-symbol" aria-roledescription="bar" d="M511.61538461538464,184.33333333333334h50.84615384615385v58.66666666666666h-50.84615384615385Z" fill="#b28214"/>
+<path aria-label="duh: overheard; Vatu: 315; Buckinghamshire loosely granular: West majestically" role="graphics-symbol" aria-roledescription="bar" d="M460.7692307692308,138.0h50.84615384615385v105h-50.84615384615385Z" fill="#23f7d8"/>
+<path aria-label="duh: competitor; Vatu: 296; Buckinghamshire loosely granular: database try seminar" role="graphics-symbol" aria-roledescription="bar" d="M130.2692307692308,144.33333333333331h50.84615384615385v98.66666666666669h-50.84615384615385Z" fill="#b28214"/>
+<path aria-label="duh: competitor; Vatu: 533; Buckinghamshire loosely granular: West majestically" role="graphics-symbol" aria-roledescription="bar" d="M79.42307692307696,65.33333333333334h50.84615384615385v177.66666666666666h-50.84615384615385Z" fill="#23f7d8"/>
+<path aria-label="duh: highlight; Vatu: 158; Buckinghamshire loosely granular: database try seminar" role="graphics-symbol" aria-roledescription="bar" d="M384.50000000000006,190.33333333333334h50.84615384615385v52.66666666666666h-50.84615384615385Z" fill="#b28214"/>
+<path aria-label="duh: highlight; Vatu: 157; Buckinghamshire loosely granular: West majestically" role="graphics-symbol" aria-roledescription="bar" d="M333.6538461538462,190.66666666666666h50.84615384615385v52.33333333333334h-50.84615384615385Z" fill="#23f7d8"/>
+<path aria-label="duh: respect; Vatu: 239; Buckinghamshire loosely granular: database try seminar" role="graphics-symbol" aria-roledescription="bar" d="M638.7307692307693,163.33333333333334h50.84615384615385v79.66666666666666h-50.84615384615385Z" fill="#b28214"/>
+<path aria-label="duh: respect; Vatu: 564; Buckinghamshire loosely granular: West majestically" role="graphics-symbol" aria-roledescription="bar" d="M587.8846153846155,55.000000000000014h50.84615384615385v188h-50.84615384615385Z" fill="#23f7d8"/>
+<path aria-label="duh: hardcover; Vatu: 71; Buckinghamshire loosely granular: database try seminar" role="graphics-symbol" aria-roledescription="bar" d="M257.3846153846154,219.33333333333334h50.84615384615385v23.666666666666657h-50.84615384615385Z" fill="#b28214"/>
+<path aria-label="duh: hardcover; Vatu: 385; Buckinghamshire loosely granular: West majestically" role="graphics-symbol" aria-roledescription="bar" d="M206.53846153846158,114.66666666666666h50.84615384615385v128.33333333333334h-50.84615384615385Z" fill="#23f7d8"/>
+</svg>

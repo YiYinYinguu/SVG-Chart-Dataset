@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="292" height="286" viewBox="0 0 292 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="118,287,0,26" text-anchor="end" x="287.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Coupe payment</text>
+<path aria-label="Architect Pizza: 487; yet: whose" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.051348927200962,178.22516624501216L54.034917270496656,179.11311304660828A51,51,0,0,1,104.99999999999999,130.0Z" fill="#dceab7" stroke="black" stroke-width="0"/>
+<path aria-label="Architect Pizza: 398; yet: Oklahoma" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.99102623263589,255.32913590325273A75,75,0,0,0,172.49561090285562,213.70080287776304L150.89701541394183,203.23654595687887A51,51,0,0,1,98.1938978381924,231.54381241421186Z" fill="#ff7cb2" stroke="black" stroke-width="0"/>
+<path aria-label="Architect Pizza: 421; yet: Bend" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.76264538484287,162.8176614100495A75,75,0,0,0,105.0,106.0L105.0,130.0A51,51,0,0,1,154.47859886169317,168.63600975883367Z" fill="#c1a8a2" stroke="black" stroke-width="0"/>
+<path aria-label="Architect Pizza: 468; yet: mean" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.051348927200962,178.22516624501216A75,75,0,0,0,94.99102623263589,255.32913590325273L98.1938978381924,231.54381241421186A51,51,0,0,1,54.034917270496656,179.11311304660828Z" fill="#54b37a" stroke="black" stroke-width="0"/>
+<path aria-label="Architect Pizza: 221; yet: COM" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.49561090285562,213.70080287776304A75,75,0,0,0,177.76264538484287,162.8176614100495L154.47859886169317,168.63600975883367A51,51,0,0,1,150.89701541394183,203.23654595687887Z" fill="#103ff3" stroke="black" stroke-width="0"/>
+<text aria-label="32,52,108,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="42.54874719246493" y="120.19381956349115" font-family="sans-serif" font-size="12px" fill="#dceab7" opacity="1">487</text>
+<text aria-label="137,157,252,265" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.58576477493799" y="264.28715304848356" font-family="sans-serif" font-size="12px" fill="#ff7cb2" opacity="1">398</text>
+<text aria-label="150,170,102,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.39091727117972" y="114.06449208007794" font-family="sans-serif" font-size="12px" fill="#c1a8a2" opacity="1">421</text>
+<text aria-label="26,45,230,243" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="36.16239940269067" y="242.97745030617781" font-family="sans-serif" font-size="12px" fill="#54b37a" opacity="1">468</text>
+<text aria-label="184,204,182,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.5216739973961" y="194.2666004933813" font-family="sans-serif" font-size="12px" fill="#103ff3" opacity="1">221</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#c1a8a2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,56.25A5,5,0,1,1,58.0,56.25A5,5,0,1,1,68.0,56.25" fill="#103ff3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M120.0,56.25A5,5,0,1,1,110.0,56.25A5,5,0,1,1,120.0,56.25" fill="#ff7cb2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M197.0,56.25A5,5,0,1,1,187.0,56.25A5,5,0,1,1,197.0,56.25" fill="#54b37a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,56.25A5,5,0,1,1,241.0,56.25A5,5,0,1,1,251.0,56.25" fill="#dceab7" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bend</text>
+<text aria-label="73,89,49,60" text-anchor="start" x="73.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">COM</text>
+<text aria-label="125,169,49,60" text-anchor="start" x="125.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Oklahoma</text>
+<text aria-label="202,224,49,60" text-anchor="start" x="202.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">mean</text>
+<text aria-label="256,283,49,60" text-anchor="start" x="256.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">whose</text>
+<text aria-label="5,23,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">yet</text>
+</svg>

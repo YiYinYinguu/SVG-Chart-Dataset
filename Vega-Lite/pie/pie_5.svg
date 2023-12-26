@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="229" height="270" viewBox="0 0 229 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="79,131,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Ford</text>
+<path aria-label="Androgynous: 147; Specialist: autem" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.51661444293222,189.46555492101777A75,75,0,0,0,175.81497184952883,158.70303143240596L105.0,134.0Z" fill="#c6ffe8" stroke="white" stroke-width="0"/>
+<path aria-label="Androgynous: 142; Specialist: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.81497184952883,158.70303143240596A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#971ff5" stroke="white" stroke-width="0"/>
+<path aria-label="Androgynous: 179; Specialist: lavender" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,54.51661444293222,189.46555492101777L105.0,134.0Z" fill="#20a9a1" stroke="white" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#971ff5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M119.0,258.25A5,5,0,1,1,109.0,258.25A5,5,0,1,1,119.0,258.25" fill="#c6ffe8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M177.0,258.25A5,5,0,1,1,167.0,258.25A5,5,0,1,1,177.0,258.25" fill="#20a9a1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="124,151,251,262" text-anchor="start" x="124.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">autem</text>
+<text aria-label="182,226,251,262" text-anchor="start" x="182.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">lavender</text>
+</svg>

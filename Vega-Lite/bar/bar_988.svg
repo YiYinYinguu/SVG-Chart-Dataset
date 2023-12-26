@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="981" height="368" viewBox="0 0 981 368" style="background-color: rgb(255, 255, 255);">
+<line x1="128.5" y1="79.5" x2="128.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="280.5" y1="79.5" x2="280.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="431.5" y1="79.5" x2="431.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="582.5" y1="79.5" x2="582.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="733.5" y1="79.5" x2="733.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="885.5" y1="79.5" x2="885.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="117,132,286,331" text-anchor="end" x="128.77419354838713" y="286.5" transform="rotate(270.0, 132.77419354838713, 286.5)" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">breeze</text>
+<text aria-label="269,284,286,346" text-anchor="end" x="280.0645161290323" y="286.5" transform="rotate(270.0, 284.0645161290323, 286.5)" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">clearing</text>
+<text aria-label="420,435,286,354" text-anchor="end" x="431.35483870967744" y="286.5" transform="rotate(270.0, 435.35483870967744, 286.5)" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">recession</text>
+<text aria-label="571,586,286,331" text-anchor="end" x="582.6451612903227" y="286.5" transform="rotate(270.0, 586.6451612903227, 286.5)" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">status</text>
+<text aria-label="722,737,286,331" text-anchor="end" x="733.9354838709678" y="286.5" transform="rotate(270.0, 737.9354838709678, 286.5)" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">throat</text>
+<text aria-label="874,889,286,369" text-anchor="end" x="885.2258064516129" y="286.5" transform="rotate(270.0, 889.2258064516129, 286.5)" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">willingness</text>
+<line aria-label="128,128,279,284" x1="128.5" y1="279.5" x2="128.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="280,280,279,284" x1="280.5" y1="279.5" x2="280.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="431,431,279,284" x1="431.5" y1="279.5" x2="431.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="582,582,279,284" x1="582.5" y1="279.5" x2="582.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="733,733,279,284" x1="733.5" y1="279.5" x2="733.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="885,885,279,284" x1="885.5" y1="279.5" x2="885.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,976,279,279" x1="38.5" y1="279.5" x2="976.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="481,533,0,26" text-anchor="middle" x="507.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Loaf</text>
+<text aria-label="29,36,269,284" text-anchor="end" x="36.5" y="283.5" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="29,36,240,255" text-anchor="end" x="36.5" y="254.92857142857144" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">5</text>
+<text aria-label="21,36,212,227" text-anchor="end" x="36.5" y="226.35714285714286" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">10</text>
+<text aria-label="21,36,183,198" text-anchor="end" x="36.5" y="197.78571428571428" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">15</text>
+<text aria-label="21,36,155,170" text-anchor="end" x="36.5" y="169.21428571428572" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="21,36,126,141" text-anchor="end" x="36.5" y="140.64285714285714" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">25</text>
+<text aria-label="21,36,98,113" text-anchor="end" x="36.5" y="112.07142857142858" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">30</text>
+<text aria-label="21,36,69,84" text-anchor="end" x="36.5" y="83.5" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">35</text>
+<text aria-label="2,14,149,209" text-anchor="middle" x="16.5" y="179.5" transform="rotate(-90.0, 14.5, 179.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">bag Cobalt</text>
+<line aria-label="38,38,79,279" x1="38.5" y1="279.5" x2="38.5" y2="79.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Account: recession; bag Cobalt: 11; card SUV transparent: sapiente Accounts truthful" role="graphics-symbol" aria-roledescription="bar" d="M451.52688172043014,216.14285714285714h40.344086021505376v62.85714285714286h-40.344086021505376Z" fill="#a39d7e"/>
+<path aria-label="Account: recession; bag Cobalt: 9; card SUV transparent: Generic copying" role="graphics-symbol" aria-roledescription="bar" d="M370.8387096774194,227.57142857142858h40.344086021505376v51.428571428571416h-40.344086021505376Z" fill="#1a8594"/>
+<path aria-label="Account: recession; bag Cobalt: 32; card SUV transparent: bandwidth but" role="graphics-symbol" aria-roledescription="bar" d="M411.1827956989248,96.14285714285715h40.344086021505376v182.85714285714286h-40.344086021505376Z" fill="#22f89d"/>
+<path aria-label="Account: throat; bag Cobalt: 10; card SUV transparent: sapiente Accounts truthful" role="graphics-symbol" aria-roledescription="bar" d="M754.1075268817206,221.85714285714286h40.344086021505376v57.14285714285714h-40.344086021505376Z" fill="#a39d7e"/>
+<path aria-label="Account: throat; bag Cobalt: 29; card SUV transparent: Generic copying" role="graphics-symbol" aria-roledescription="bar" d="M673.4193548387098,113.28571428571428h40.344086021505376v165.71428571428572h-40.344086021505376Z" fill="#1a8594"/>
+<path aria-label="Account: throat; bag Cobalt: 10; card SUV transparent: bandwidth but" role="graphics-symbol" aria-roledescription="bar" d="M713.7634408602152,221.85714285714286h40.344086021505376v57.14285714285714h-40.344086021505376Z" fill="#22f89d"/>
+<path aria-label="Account: status; bag Cobalt: 25; card SUV transparent: sapiente Accounts truthful" role="graphics-symbol" aria-roledescription="bar" d="M602.8172043010753,136.14285714285714h40.344086021505376v142.85714285714286h-40.344086021505376Z" fill="#a39d7e"/>
+<path aria-label="Account: status; bag Cobalt: 7; card SUV transparent: Generic copying" role="graphics-symbol" aria-roledescription="bar" d="M522.1290322580646,239.0h40.344086021505376v40h-40.344086021505376Z" fill="#1a8594"/>
+<path aria-label="Account: status; bag Cobalt: 6; card SUV transparent: bandwidth but" role="graphics-symbol" aria-roledescription="bar" d="M562.4731182795699,244.7142857142857h40.344086021505376v34.285714285714306h-40.344086021505376Z" fill="#22f89d"/>
+<path aria-label="Account: willingness; bag Cobalt: 6; card SUV transparent: sapiente Accounts truthful" role="graphics-symbol" aria-roledescription="bar" d="M905.3978494623657,244.7142857142857h40.344086021505376v34.285714285714306h-40.344086021505376Z" fill="#a39d7e"/>
+<path aria-label="Account: willingness; bag Cobalt: 31; card SUV transparent: Generic copying" role="graphics-symbol" aria-roledescription="bar" d="M824.7096774193549,101.85714285714286h40.344086021505376v177.14285714285714h-40.344086021505376Z" fill="#1a8594"/>
+<path aria-label="Account: willingness; bag Cobalt: 5; card SUV transparent: bandwidth but" role="graphics-symbol" aria-roledescription="bar" d="M865.0537634408603,250.42857142857144h40.344086021505376v28.571428571428555h-40.344086021505376Z" fill="#22f89d"/>
+<path aria-label="Account: clearing; bag Cobalt: 26; card SUV transparent: sapiente Accounts truthful" role="graphics-symbol" aria-roledescription="bar" d="M300.23655913978496,130.42857142857142h40.344086021505376v148.57142857142858h-40.344086021505376Z" fill="#a39d7e"/>
+<path aria-label="Account: clearing; bag Cobalt: 28; card SUV transparent: Generic copying" role="graphics-symbol" aria-roledescription="bar" d="M219.54838709677423,119.0h40.344086021505376v160h-40.344086021505376Z" fill="#1a8594"/>
+<path aria-label="Account: clearing; bag Cobalt: 8; card SUV transparent: bandwidth but" role="graphics-symbol" aria-roledescription="bar" d="M259.8924731182796,233.2857142857143h40.344086021505376v45.714285714285694h-40.344086021505376Z" fill="#22f89d"/>
+<path aria-label="Account: breeze; bag Cobalt: 19; card SUV transparent: sapiente Accounts truthful" role="graphics-symbol" aria-roledescription="bar" d="M148.94623655913983,170.42857142857144h40.344086021505376v108.57142857142857h-40.344086021505376Z" fill="#a39d7e"/>
+<path aria-label="Account: breeze; bag Cobalt: 16; card SUV transparent: Generic copying" role="graphics-symbol" aria-roledescription="bar" d="M68.25806451612908,187.57142857142858h40.344086021505376v91.42857142857142h-40.344086021505376Z" fill="#1a8594"/>
+<path aria-label="Account: breeze; bag Cobalt: 20; card SUV transparent: bandwidth but" role="graphics-symbol" aria-roledescription="bar" d="M108.60215053763446,164.71428571428572h40.344086021505376v114.28571428571428h-40.344086021505376Z" fill="#22f89d"/>
+<text aria-label="462,480,191,209" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="471.69892473118284" y="208.83160714285714" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">11</text>
+<text aria-label="386,395,202,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="391.0107526881721" y="220.26017857142858" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">9</text>
+<text aria-label="422,440,71,89" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="431.35483870967744" y="88.83160714285715" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">32</text>
+<text aria-label="764,783,196,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="774.2795698924732" y="214.54589285714286" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">10</text>
+<text aria-label="684,702,88,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="693.5913978494624" y="105.97446428571428" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">29</text>
+<text aria-label="724,743,196,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="733.9354838709678" y="214.54589285714286" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">10</text>
+<text aria-label="613,632,111,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="622.989247311828" y="128.83160714285714" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">25</text>
+<text aria-label="537,546,214,232" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="542.3010752688173" y="231.68875" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">7</text>
+<text aria-label="577,587,219,238" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="582.6451612903227" y="237.4030357142857" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">6</text>
+<text aria-label="920,930,219,238" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="925.5698924731183" y="237.4030357142857" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">6</text>
+<text aria-label="835,854,76,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="844.8817204301075" y="94.54589285714286" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">31</text>
+<text aria-label="880,889,225,244" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="885.2258064516129" y="243.11732142857144" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">5</text>
+<text aria-label="311,329,105,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="320.40860215053766" y="123.11732142857143" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">26</text>
+<text aria-label="230,249,94,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="239.7204301075269" y="111.68875" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">28</text>
+<text aria-label="275,284,208,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="280.0645161290323" y="225.9744642857143" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">8</text>
+<text aria-label="159,178,145,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="169.11827956989254" y="163.11732142857142" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">19</text>
+<text aria-label="79,97,162,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="88.43010752688177" y="180.26017857142858" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">16</text>
+<text aria-label="119,138,139,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.77419354838713" y="157.40303571428572" font-family="monospace" font-size="17.5875px" fill="#000" opacity="1">20</text>
+<path  d="M39.0,51.0h10v10h-10Z" fill="#a39d7e" stroke-width="1.5" opacity="1"/>
+<path  d="M195.0,51.0h10v10h-10Z" fill="#1a8594" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,51.0h10v10h-10Z" fill="#22f89d" stroke-width="1.5" opacity="1"/>
+<text aria-label="54,197,49,60" text-anchor="start" x="54.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">sapiente Accounts truthful</text>
+<text aria-label="210,292,49,60" text-anchor="start" x="210.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Generic copying</text>
+<text aria-label="311,382,49,60" text-anchor="start" x="311.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">bandwidth but</text>
+<text aria-label="38,158,32,44" text-anchor="start" x="38.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">card SUV transparent</text>
+</svg>

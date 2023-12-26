@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="286" viewBox="0 0 308 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,303,0,26" text-anchor="end" x="303.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Dalasi hourly Southeast</text>
+<path aria-label="Planner male henry: 236; motor: ascent" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.54939184555224,153.38838255375285A75,75,0,0,0,174.45728604757326,200.0891887235769L158.85608018664104,171.00994568520306A42,42,0,0,1,98.42765943350926,144.8574942301016Z" fill="#daa659" stroke="white" stroke-width="3"/>
+<path aria-label="Planner male henry: 73; motor: via" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.0,59.0A75,75,0,0,0,99.33161803018533,70.3492382457454L116.78570609690378,98.35557341761742A42,42,0,0,1,139.0,92.0Z" fill="#b49612" stroke="white" stroke-width="3"/>
+<path aria-label="Planner male henry: 347; motor: UAE" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.45728604757326,200.0891887235769A75,75,0,0,0,139.0,59.0L139.0,92.0A42,42,0,0,1,158.85608018664104,171.00994568520306Z" fill="#dca6ee" stroke="white" stroke-width="3"/>
+<path aria-label="Planner male henry: 54; motor: loudly" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.85094711893535,122.7342129950421A75,75,0,0,0,66.54939184555224,153.38838255375285L98.42765943350926,144.8574942301016A42,42,0,0,1,97.4765303866038,127.69115927722358Z" fill="#3ee0d3" stroke="white" stroke-width="3"/>
+<path aria-label="Planner male henry: 113; motor: steradian" role="graphics-symbol" aria-roledescription="arc mark"  d="M99.33161803018533,70.3492382457454A75,75,0,0,0,64.85094711893535,122.7342129950421L97.4765303866038,127.69115927722358A42,42,0,0,1,116.78570609690378,98.35557341761742Z" fill="#868fc6" stroke="white" stroke-width="3"/>
+<path  d="M50.0,274.25A5,5,0,1,1,40.0,274.25A5,5,0,1,1,50.0,274.25" fill="#dca6ee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M97.0,274.25A5,5,0,1,1,87.0,274.25A5,5,0,1,1,97.0,274.25" fill="#daa659" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,274.25A5,5,0,1,1,145.0,274.25A5,5,0,1,1,155.0,274.25" fill="#3ee0d3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M212.0,274.25A5,5,0,1,1,202.0,274.25A5,5,0,1,1,212.0,274.25" fill="#868fc6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M284.0,274.25A5,5,0,1,1,274.0,274.25A5,5,0,1,1,284.0,274.25" fill="#b49612" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="55,71,267,278" text-anchor="start" x="55.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">UAE</text>
+<text aria-label="102,135,267,278" text-anchor="start" x="102.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">ascent</text>
+<text aria-label="160,193,267,278" text-anchor="start" x="160.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">loudly</text>
+<text aria-label="217,266,267,278" text-anchor="start" x="217.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">steradian</text>
+<text aria-label="289,305,267,278" text-anchor="start" x="289.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">via</text>
+<text aria-label="39,69,250,262" text-anchor="start" x="39.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">motor</text>
+</svg>

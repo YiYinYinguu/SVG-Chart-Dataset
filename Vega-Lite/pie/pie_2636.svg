@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="296" height="239" viewBox="0 0 296 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="187,291,0,26" text-anchor="end" x="291.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">dimly aw</text>
+<path aria-label="Account: 423; payment: readily" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,40.810810658112175,172.79108108355933L105.0,134.0Z" fill="#ed13df" stroke="white" stroke-width="4"/>
+<path aria-label="Account: 329; payment: AI" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.79624524706435,139.52464450811138A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#f65b2c" stroke="white" stroke-width="4"/>
+<path aria-label="Account: 140; payment: calculating" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.810810658112175,172.79108108355933A75,75,0,0,0,80.8809467630033,205.0159930645972L105.0,134.0Z" fill="#af17b6" stroke="white" stroke-width="4"/>
+<path aria-label="Account: 365; payment: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.8809467630033,205.0159930645972A75,75,0,0,0,179.79624524706435,139.52464450811138L105.0,134.0Z" fill="#e1fd2a" stroke="white" stroke-width="4"/>
+<text aria-label="18,34,82,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.61174591488718" y="92.78143352066022" font-family="sans-serif" font-size="10px" fill="#ed13df" opacity="1">423</text>
+<text aria-label="162,179,65,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.9418744307289" y="75.74912901385005" font-family="sans-serif" font-size="10px" fill="#f65b2c" opacity="1">329</text>
+<text aria-label="40,56,197,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="48.59747667488247" y="207.13383892643816" font-family="sans-serif" font-size="10px" fill="#af17b6" opacity="1">140</text>
+<text aria-label="146,162,202,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="154.68526974142395" y="212.04248110718316" font-family="sans-serif" font-size="10px" fill="#e1fd2a" opacity="1">365</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#f65b2c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#e1fd2a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#af17b6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#ed13df" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,250,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">AI</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="239,299,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">calculating</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">readily</text>
+<text aria-label="223,265,32,44" text-anchor="start" x="223.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">payment</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="305" height="239" viewBox="0 0 305 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">SSD</text>
+<path aria-label="lux redundant applications: 16; Movies: blah" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.21310562229104,73.84076054337172A75,75,0,0,0,132.97755197574406,100.34006148496533L173.19102079029764,120.53602459398614A30,30,0,0,1,182.08524224891642,109.93630421734869Z" fill="#39bbff" stroke="black" stroke-width="0"/>
+<path aria-label="lux redundant applications: 18; Movies: Internal" role="graphics-symbol" aria-roledescription="arc mark"  d="M197.81864609426665,208.96827125616505A75,75,0,0,0,235.59502773107306,200.0151043385083L214.23801109242922,160.40604173540333A30,30,0,0,1,199.12745843770665,163.98730850246602Z" fill="#6db853" stroke="black" stroke-width="0"/>
+<path aria-label="lux redundant applications: 35; Movies: HDD" role="graphics-symbol" aria-roledescription="arc mark"  d="M235.59502773107306,200.0151043385083A75,75,0,0,0,274.8731118703451,138.36086216828568L229.94924474813806,135.74434486731428A30,30,0,0,1,214.23801109242922,160.40604173540333Z" fill="#19be85" stroke="black" stroke-width="0"/>
+<path aria-label="lux redundant applications: 25; Movies: RAM" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.15078657633836,112.48975754666822A75,75,0,0,0,132.02691597225123,165.69636963055243L172.8107663889005,146.67854785222096A30,30,0,0,1,171.26031463053533,125.39590301866728Z" fill="#beee5d" stroke="black" stroke-width="0"/>
+<path aria-label="lux redundant applications: 22; Movies: compressing" role="graphics-symbol" aria-roledescription="arc mark"  d="M200.0,59.0A75,75,0,0,0,155.21310562229104,73.84076054337172L182.08524224891642,109.93630421734869A30,30,0,0,1,200.0,104.0Z" fill="#d4e6bb" stroke="black" stroke-width="0"/>
+<path aria-label="lux redundant applications: 6; Movies: bandwidth" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.97755197574406,100.34006148496533A75,75,0,0,0,128.15078657633836,112.48975754666822L171.26031463053533,125.39590301866728A30,30,0,0,1,173.19102079029764,120.53602459398614Z" fill="#668d0d" stroke="black" stroke-width="0"/>
+<path aria-label="lux redundant applications: 9; Movies: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.02691597225123,165.69636963055243A75,75,0,0,0,142.54666676607667,182.20907072649047L177.01866670643068,153.2836282905962A30,30,0,0,1,172.8107663889005,146.67854785222096Z" fill="#e6cfc9" stroke="black" stroke-width="0"/>
+<path aria-label="lux redundant applications: 29; Movies: Kentucky" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.54666676607667,182.20907072649047A75,75,0,0,0,197.81864609426665,208.96827125616505L199.12745843770665,163.98730850246602A30,30,0,0,1,177.01866670643068,153.2836282905962Z" fill="#30c726" stroke="black" stroke-width="0"/>
+<path aria-label="lux redundant applications: 17; Movies: Corner" role="graphics-symbol" aria-roledescription="arc mark"  d="M235.59502773107303,67.98489566149166A75,75,0,0,0,200.0,59.0L200.0,104.0A30,30,0,0,1,214.23801109242922,107.59395826459667Z" fill="#abaac0" stroke="black" stroke-width="0"/>
+<path aria-label="lux redundant applications: 39; Movies: Garden" role="graphics-symbol" aria-roledescription="arc mark"  d="M274.8731118703451,138.36086216828568A75,75,0,0,0,235.59502773107303,67.98489566149166L214.23801109242922,107.59395826459667A30,30,0,0,1,229.94924474813806,135.74434486731428Z" fill="#34d0d6" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#abaac0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#34d0d6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#19be85" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#6db853" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#30c726" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#e6cfc9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#beee5d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#668d0d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,184.0A5,5,0,1,1,6.0,184.0A5,5,0,1,1,16.0,184.0" fill="#39bbff" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,200.0A5,5,0,1,1,6.0,200.0A5,5,0,1,1,16.0,200.0" fill="#d4e6bb" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Corner</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Garden</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">HDD</text>
+<text aria-label="21,65,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Internal</text>
+<text aria-label="21,65,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Kentucky</text>
+<text aria-label="21,48,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,37,145,156" text-anchor="start" x="21.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">RAM</text>
+<text aria-label="21,70,161,172" text-anchor="start" x="21.0" y="171.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">bandwidth</text>
+<text aria-label="21,43,177,188" text-anchor="start" x="21.0" y="187.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">blah</text>
+<text aria-label="21,81,193,204" text-anchor="start" x="21.0" y="203.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">compressing</text>
+<text aria-label="5,41,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Movies</text>
+</svg>

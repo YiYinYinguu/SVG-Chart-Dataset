@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="79,131,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cape</text>
+<path aria-label="Refined: 287; Rubber Moroccan: port" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,34.22936202048123,158.82975634137185L61.594008705895156,149.22891722270808A46,46,0,0,1,104.99999999999999,88.0Z" fill="#d5d1c6" stroke="black" stroke-width="1"/>
+<path aria-label="Refined: 449; Rubber Moroccan: Analyst" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.67101507041178,208.08635101843134A75,75,0,0,0,105.0,59.0L105.0,88.0A46,46,0,0,1,112.15822257651922,179.4396286246379Z" fill="#6e5e50" stroke="black" stroke-width="1"/>
+<path aria-label="Refined: 184; Rubber Moroccan: Sleek" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.31306676761078,170.19705516369584A75,75,0,0,0,116.67101507041178,208.08635101843134L112.15822257651922,179.4396286246379A46,46,0,0,1,64.71201428413461,156.20086050040013Z" fill="#1ba2b3" stroke="black" stroke-width="1"/>
+<path aria-label="Refined: 25; Rubber Moroccan: but" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.22936202048123,158.82975634137185A75,75,0,0,0,39.31306676761078,170.19705516369584L64.71201428413461,156.20086050040013A46,46,0,0,1,61.594008705895156,149.22891722270808Z" fill="#ada0ad" stroke="black" stroke-width="1"/>
+<text aria-label="24,38,75,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="31.577885876024467" y="83.95008974488128" font-family="Balto" font-size="8px" fill="#d5d1c6" opacity="1">287</text>
+<text aria-label="187,201,120,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.72548665231798" y="128.9759666142089" font-family="Balto" font-size="8px" fill="#6e5e50" opacity="1">449</text>
+<text aria-label="58,72,208,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="65.41219208026689" y="216.82577227660937" font-family="Balto" font-size="8px" fill="#1ba2b3" opacity="1">184</text>
+<text aria-label="18,27,164,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.8418700280683" y="172.7429133237306" font-family="Balto" font-size="8px" fill="#ada0ad" opacity="1">25</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#6e5e50" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M79.0,258.25A5,5,0,1,1,69.0,258.25A5,5,0,1,1,79.0,258.25" fill="#1ba2b3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M132.0,258.25A5,5,0,1,1,122.0,258.25A5,5,0,1,1,132.0,258.25" fill="#ada0ad" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M176.0,258.25A5,5,0,1,1,166.0,258.25A5,5,0,1,1,176.0,258.25" fill="#d5d1c6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Analyst</text>
+<text aria-label="84,111,251,262" text-anchor="start" x="84.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Sleek</text>
+<text aria-label="137,153,251,262" text-anchor="start" x="137.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">but</text>
+<text aria-label="181,203,251,262" text-anchor="start" x="181.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">port</text>
+</svg>

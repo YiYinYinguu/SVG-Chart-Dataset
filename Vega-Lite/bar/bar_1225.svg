@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="889" height="390" viewBox="0 0 889 390" style="background-color: rgb(255, 255, 255);">
+<text aria-label="94,114,250,280" text-anchor="end" x="108.61111111111109" y="250.5" transform="rotate(270.0, 114.61111111111109, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">bar</text>
+<text aria-label="185,205,250,340" text-anchor="end" x="199.83333333333331" y="250.5" transform="rotate(270.0, 205.83333333333331, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">blueberry</text>
+<text aria-label="277,297,250,290" text-anchor="end" x="291.05555555555554" y="250.5" transform="rotate(270.0, 297.05555555555554, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">chap</text>
+<text aria-label="368,388,250,380" text-anchor="end" x="382.27777777777777" y="250.5" transform="rotate(270.0, 388.27777777777777, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">embellishment</text>
+<text aria-label="459,479,250,370" text-anchor="end" x="473.5" y="250.5" transform="rotate(270.0, 479.5, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">hippopotamus</text>
+<text aria-label="550,570,250,300" text-anchor="end" x="564.7222222222222" y="250.5" transform="rotate(270.0, 570.7222222222222, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">major</text>
+<text aria-label="641,661,250,290" text-anchor="end" x="655.9444444444443" y="250.5" transform="rotate(270.0, 661.9444444444443, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">poet</text>
+<text aria-label="733,753,250,310" text-anchor="end" x="747.1666666666667" y="250.5" transform="rotate(270.0, 753.1666666666667, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">search</text>
+<text aria-label="824,844,250,310" text-anchor="end" x="838.3888888888889" y="250.5" transform="rotate(270.0, 844.3888888888889, 250.5)" font-family="sans-serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">zephyr</text>
+<line aria-label="108,108,243,248" x1="108.5" y1="243.5" x2="108.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="199,199,243,248" x1="199.5" y1="243.5" x2="199.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="291,291,243,248" x1="291.5" y1="243.5" x2="291.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="382,382,243,248" x1="382.5" y1="243.5" x2="382.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="473,473,243,248" x1="473.5" y1="243.5" x2="473.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="564,564,243,248" x1="564.5" y1="243.5" x2="564.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="655,655,243,248" x1="655.5" y1="243.5" x2="655.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="747,747,243,248" x1="747.5" y1="243.5" x2="747.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="838,838,243,248" x1="838.5" y1="243.5" x2="838.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="63,884,243,243" x1="63.5" y1="243.5" x2="884.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="415,532,0,26" text-anchor="middle" x="473.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">er Hawaii</text>
+<text aria-label="46,56,230,250" text-anchor="end" x="56.5" y="249.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="36,56,201,221" text-anchor="end" x="56.5" y="220.92857142857144" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="36,56,173,193" text-anchor="end" x="56.5" y="192.35714285714286" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="36,56,144,164" text-anchor="end" x="56.5" y="163.78571428571428" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="36,56,116,136" text-anchor="end" x="56.5" y="135.21428571428572" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">80</text>
+<text aria-label="26,56,87,107" text-anchor="end" x="56.5" y="106.64285714285714" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="26,56,59,79" text-anchor="end" x="56.5" y="78.07142857142858" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">120</text>
+<text aria-label="26,56,30,50" text-anchor="end" x="56.5" y="49.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">140</text>
+<line aria-label="58,63,243,243" x1="63.5" y1="243.5" x2="58.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,214,214" x1="63.5" y1="214.5" x2="58.5" y2="214.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,186,186" x1="63.5" y1="186.5" x2="58.5" y2="186.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,157,157" x1="63.5" y1="157.5" x2="58.5" y2="157.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,129,129" x1="63.5" y1="129.5" x2="58.5" y2="129.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,100,100" x1="63.5" y1="100.5" x2="58.5" y2="100.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,72,72" x1="63.5" y1="72.5" x2="58.5" y2="72.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,43,43" x1="63.5" y1="43.5" x2="58.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,101,185" text-anchor="middle" x="17.34814453125" y="143.5" transform="rotate(-90.0, 15.34814453125, 143.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Credit Bicycle</text>
+<path aria-label="female Bohrium: blueberry; Credit Bicycle: 10; Albany: Bossier Orchestrator" role="graphics-symbol" aria-roledescription="bar" d="M179.3083333333333,228.71428571428572h41.050000000000004v14.285714285714278h-41.050000000000004Z" fill="#c4af31"/>
+<path aria-label="female Bohrium: zephyr; Credit Bicycle: 109; Albany: Bossier Orchestrator" role="graphics-symbol" aria-roledescription="bar" d="M817.8638888888889,87.28571428571428h41.050000000000004v155.71428571428572h-41.050000000000004Z" fill="#c4af31"/>
+<path aria-label="female Bohrium: embellishment; Credit Bicycle: 122; Albany: Bossier Orchestrator" role="graphics-symbol" aria-roledescription="bar" d="M361.75277777777774,68.71428571428571h41.050000000000004v174.28571428571428h-41.050000000000004Z" fill="#c4af31"/>
+<path aria-label="female Bohrium: search; Credit Bicycle: 134; Albany: Bossier Orchestrator" role="graphics-symbol" aria-roledescription="bar" d="M726.6416666666668,51.57142857142856h41.050000000000004v191.42857142857144h-41.050000000000004Z" fill="#c4af31"/>
+<path aria-label="female Bohrium: hippopotamus; Credit Bicycle: 71; Albany: Bossier Orchestrator" role="graphics-symbol" aria-roledescription="bar" d="M452.97499999999997,141.57142857142858h41.050000000000004v101.42857142857142h-41.050000000000004Z" fill="#c4af31"/>
+<path aria-label="female Bohrium: bar; Credit Bicycle: 7; Albany: Bossier Orchestrator" role="graphics-symbol" aria-roledescription="bar" d="M88.08611111111108,233.0h41.050000000000004v10h-41.050000000000004Z" fill="#c4af31"/>
+<path aria-label="female Bohrium: major; Credit Bicycle: 120; Albany: Bossier Orchestrator" role="graphics-symbol" aria-roledescription="bar" d="M544.1972222222222,71.57142857142858h41.050000000000004v171.42857142857142h-41.050000000000004Z" fill="#c4af31"/>
+<path aria-label="female Bohrium: chap; Credit Bicycle: 61; Albany: Bossier Orchestrator" role="graphics-symbol" aria-roledescription="bar" d="M270.53055555555557,155.85714285714286h41.050000000000004v87.14285714285714h-41.050000000000004Z" fill="#c4af31"/>
+<path aria-label="female Bohrium: poet; Credit Bicycle: 40; Albany: Bossier Orchestrator" role="graphics-symbol" aria-roledescription="bar" d="M635.4194444444444,185.85714285714286h41.050000000000004v57.14285714285714h-41.050000000000004Z" fill="#c4af31"/>
+<text aria-label="193,206,211,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="199.83333333333331" y="224.09378571428573" font-family="sans-serif" font-size="12.315px" fill="#000" opacity="1">10</text>
+<text aria-label="828,848,70,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="838.3888888888889" y="82.66521428571428" font-family="sans-serif" font-size="12.315px" fill="#000" opacity="1">109</text>
+<text aria-label="372,392,51,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="382.27777777777777" y="64.09378571428572" font-family="sans-serif" font-size="12.315px" fill="#000" opacity="1">122</text>
+<text aria-label="737,757,34,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="747.1666666666667" y="46.95092857142856" font-family="sans-serif" font-size="12.315px" fill="#000" opacity="1">134</text>
+<text aria-label="466,480,124,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="473.5" y="136.9509285714286" font-family="sans-serif" font-size="12.315px" fill="#000" opacity="1">71</text>
+<text aria-label="105,111,216,229" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.61111111111109" y="228.3795" font-family="sans-serif" font-size="12.315px" fill="#000" opacity="1">7</text>
+<text aria-label="554,574,54,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="564.7222222222222" y="66.95092857142858" font-family="sans-serif" font-size="12.315px" fill="#000" opacity="1">120</text>
+<text aria-label="284,297,138,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="291.05555555555554" y="151.23664285714287" font-family="sans-serif" font-size="12.315px" fill="#000" opacity="1">61</text>
+<text aria-label="649,662,168,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="655.9444444444443" y="181.23664285714287" font-family="sans-serif" font-size="12.315px" fill="#000" opacity="1">40</text>
+</svg>

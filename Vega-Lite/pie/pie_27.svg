@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="321" height="239" viewBox="0 0 321 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">um Account Guinea</text>
+<path aria-label="meter: 752; virtual Maine Cis: metrics" role="graphics-symbol" aria-roledescription="arc mark"  d="M216.0,59.0A75,75,0,0,0,141.78568932911693,144.82756166667508L216.0,134.0Z" fill="#56bcff" stroke="black" stroke-width="0"/>
+<path aria-label="meter: 442; virtual Maine Cis: Interactions" role="graphics-symbol" aria-roledescription="arc mark"  d="M271.4832709870869,184.46391424150016A75,75,0,0,0,288.27571248374426,113.96948864938463L216.0,134.0Z" fill="#25dac1" stroke="black" stroke-width="0"/>
+<path aria-label="meter: 570; virtual Maine Cis: Guaynabo" role="graphics-symbol" aria-roledescription="arc mark"  d="M288.27571248374426,113.96948864938463A75,75,0,0,0,216.0,59.0L216.0,134.0Z" fill="#fc811b" stroke="black" stroke-width="0"/>
+<path aria-label="meter: 205; virtual Maine Cis: Passenger" role="graphics-symbol" aria-roledescription="arc mark"  d="M201.04321305271156,207.49349987729136A75,75,0,0,0,235.78305156836188,206.34383782080914L216.0,134.0Z" fill="#b93558" stroke="black" stroke-width="0"/>
+<path aria-label="meter: 248; virtual Maine Cis: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M235.78305156836188,206.34383782080914A75,75,0,0,0,271.4832709870869,184.46391424150016L216.0,134.0Z" fill="#32869c" stroke="black" stroke-width="0"/>
+<path aria-label="meter: 537; virtual Maine Cis: benchmark" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.78568932911693,144.82756166667508A75,75,0,0,0,201.04321305271156,207.49349987729136L216.0,134.0Z" fill="#ab2b9c" stroke="black" stroke-width="0"/>
+<text aria-label="138,157,67,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.92145470120232" y="79.13310208615073" font-family="sans-serif" font-size="12px" fill="#56bcff" opacity="1">752</text>
+<text aria-label="293,313,146,159" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="303.55030487064266" y="158.85531388058033" font-family="sans-serif" font-size="12px" fill="#25dac1" opacity="1">442</text>
+<text aria-label="260,280,54,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="270.4825879255636" y="66.36448078688038" font-family="sans-serif" font-size="12px" fill="#fc811b" opacity="1">570</text>
+<text aria-label="209,228,215,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="218.97678334670604" y="227.95075742264083" font-family="sans-serif" font-size="12px" fill="#b93558" opacity="1">205</text>
+<text aria-label="253,272,202,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.02924762388415" y="214.73493251402118" font-family="sans-serif" font-size="12px" fill="#32869c" opacity="1">248</text>
+<text aria-label="140,160,187,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.60686881324116" y="199.83638405980213" font-family="sans-serif" font-size="12px" fill="#ab2b9c" opacity="1">537</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fc811b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#25dac1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#32869c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#b93558" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#ab2b9c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#56bcff" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Guaynabo</text>
+<text aria-label="21,87,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Interactions</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Passenger</text>
+<text aria-label="21,70,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">benchmark</text>
+<text aria-label="21,59,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">metrics</text>
+<text aria-label="5,107,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">virtual Maine Cis</text>
+</svg>

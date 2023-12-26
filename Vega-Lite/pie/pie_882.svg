@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="420" height="270" viewBox="0 0 420 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Philippines CSS</text>
+<path aria-label="Zirconium: 421; Vegas: soft" role="graphics-symbol" aria-roledescription="arc mark"  d="M74.06976555065484,96.67489043617609A75,75,0,0,0,34.011006987979854,140.8015936239728L49.15532549721082,145.96392031752526A59,59,0,0,1,80.66821556651514,111.25091380979185Z" fill="#fd5fa7" stroke="black" stroke-width="0"/>
+<path aria-label="Zirconium: 530; Vegas: M2F" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.9835799453506,239.9406315072785A75,75,0,0,0,170.7377235084349,201.1047324865947L156.71367582663544,193.40238955612116A59,59,0,0,1,107.34708289034248,223.95329678572574Z" fill="#af1c4e" stroke="black" stroke-width="0"/>
+<path aria-label="Zirconium: 76; Vegas: index" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.011006987979854,140.8015936239728A75,75,0,0,0,31.225228984205174,151.49877184967832L46.963846800908065,154.37903385508028A59,59,0,0,1,49.15532549721082,145.96392031752526Z" fill="#f9fa39" stroke="black" stroke-width="0"/>
+<path aria-label="Zirconium: 523; Vegas: henry" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.225228984205174,151.49877184967832A75,75,0,0,0,54.61538403570411,220.55529204432662L65.36410210808722,208.7034964082036A59,59,0,0,1,46.963846800908065,154.37903385508028Z" fill="#af7cea" stroke="black" stroke-width="0"/>
+<path aria-label="Zirconium: 871; Vegas: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.7377235084349,201.1047324865947A75,75,0,0,0,132.98522688837832,95.41676152976216L127.01504515219094,110.26118573674623A59,59,0,0,1,156.71367582663544,193.40238955612116Z" fill="#7d4286" stroke="black" stroke-width="0"/>
+<path aria-label="Zirconium: 197; Vegas: COM" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.98522688837832,95.41676152976216A75,75,0,0,0,105.0,90.0L105.0,106.0A59,59,0,0,1,127.01504515219094,110.26118573674623Z" fill="#6de3d8" stroke="black" stroke-width="0"/>
+<path aria-label="Zirconium: 400; Vegas: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.61538403570411,220.55529204432662A75,75,0,0,0,107.9835799453506,239.9406315072785L107.34708289034248,223.95329678572574A59,59,0,0,1,65.36410210808722,208.7034964082036Z" fill="#92b6ba" stroke="black" stroke-width="0"/>
+<path aria-label="Zirconium: 219; Vegas: transmitter" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,74.06976555065484,96.67489043617609L80.66821556651514,111.25091380979185A59,59,0,0,1,104.99999999999999,106.0Z" fill="#dd5a16" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#6de3d8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M58.0,40.25A5,5,0,1,1,48.0,40.25A5,5,0,1,1,58.0,40.25" fill="#7d4286" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M105.0,40.25A5,5,0,1,1,95.0,40.25A5,5,0,1,1,105.0,40.25" fill="#af1c4e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M147.0,40.25A5,5,0,1,1,137.0,40.25A5,5,0,1,1,147.0,40.25" fill="#92b6ba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M204.0,40.25A5,5,0,1,1,194.0,40.25A5,5,0,1,1,204.0,40.25" fill="#af7cea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M256.0,40.25A5,5,0,1,1,246.0,40.25A5,5,0,1,1,256.0,40.25" fill="#f9fa39" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M308.0,40.25A5,5,0,1,1,298.0,40.25A5,5,0,1,1,308.0,40.25" fill="#fd5fa7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M355.0,40.25A5,5,0,1,1,345.0,40.25A5,5,0,1,1,355.0,40.25" fill="#dd5a16" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">COM</text>
+<text aria-label="63,85,33,44" text-anchor="start" x="63.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="110,126,33,44" text-anchor="start" x="110.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">M2F</text>
+<text aria-label="152,185,33,44" text-anchor="start" x="152.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="209,236,33,44" text-anchor="start" x="209.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">henry</text>
+<text aria-label="261,288,33,44" text-anchor="start" x="261.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">index</text>
+<text aria-label="313,335,33,44" text-anchor="start" x="313.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">soft</text>
+<text aria-label="360,420,33,44" text-anchor="start" x="360.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">transmitter</text>
+</svg>

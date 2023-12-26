@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Senger Engineer aha</text>
+<path aria-label="female Money: 3; Northeast: Classical" role="graphics-symbol" aria-roledescription="arc mark"  d="M187.03941838876096,59.06161240153308A75,75,0,0,0,184.0,59.0L184.0,76.0A58,58,0,0,1,186.35048355397515,76.04764692385226Z" fill="#16d9fb" stroke="black" stroke-width="4"/>
+<path aria-label="female Money: 26; Northeast: holistic" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.640540957816,82.32748106932351A75,75,0,0,0,115.17846891123693,104.19065819917489L130.77801595802322,110.94744234069525A58,58,0,0,1,141.96201834071104,94.03991869361019Z" fill="#f68e98" stroke="black" stroke-width="4"/>
+<path aria-label="female Money: 168; Northeast: Soft" role="graphics-symbol" aria-roledescription="arc mark"  d="M239.39553830060362,184.56020506669606A75,75,0,0,0,187.03941838876096,59.06161240153308L186.35048355397515,76.04764692385226A58,58,0,0,1,226.83921628580015,173.09989191824496Z" fill="#7bb1db" stroke="black" stroke-width="4"/>
+<path aria-label="female Money: 208; Northeast: bypass" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.17846891123693,104.19065819917489A75,75,0,0,0,239.39553830060362,184.56020506669606L226.83921628580015,173.09989191824496A58,58,0,0,1,130.77801595802322,110.94744234069525Z" fill="#facb5c" stroke="black" stroke-width="4"/>
+<path aria-label="female Money: 60; Northeast: minima" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.0,59.0A75,75,0,0,0,129.640540957816,82.32748106932351L141.96201834071104,94.03991869361019A58,58,0,0,1,184.0,76.0Z" fill="#2b4ba0" stroke="black" stroke-width="4"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#16d9fb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#7bb1db" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#facb5c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f68e98" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#2b4ba0" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Classical</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Soft</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">bypass</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">holistic</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">minima</text>
+</svg>

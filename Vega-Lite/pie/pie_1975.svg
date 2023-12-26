@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="301" height="239" viewBox="0 0 301 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Evans indigo</text>
+<path aria-label="Hop: 99; Maldives connecting East: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.04003206716968,188.00773150622004A75,75,0,0,0,264.4655090569937,103.38180166034073L224.29907707689074,121.3444780196075A31,31,0,0,1,217.5098799210968,156.32319568923762Z" fill="#e3464d" stroke="white" stroke-width="4"/>
+<path aria-label="Hop: 24; Maldives connecting East: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M158.76810328674804,199.10595876825514A75,75,0,0,0,179.44015277562204,207.14896759288717L189.1552631472571,164.23490660506005A31,31,0,0,1,180.6108160251892,160.91046295754546Z" fill="#f5eaed" stroke="white" stroke-width="4"/>
+<path aria-label="Hop: 68; Maldives connecting East: Revere" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.65181263563998,149.6538624742502A75,75,0,0,0,158.76810328674804,199.10595876825514L180.6108160251892,160.91046295754546A31,31,0,0,1,165.6827492227312,140.4702631560234Z" fill="#5bafec" stroke="white" stroke-width="4"/>
+<path aria-label="Hop: 93; Maldives connecting East: Cargo" role="graphics-symbol" aria-roledescription="arc mark"  d="M264.4655090569937,103.38180166034073A75,75,0,0,0,196.0,59.0L196.0,103.0A31,31,0,0,1,224.29907707689074,121.3444780196075Z" fill="#19ccef" stroke="white" stroke-width="4"/>
+<path aria-label="Hop: 115; Maldives connecting East: enormously" role="graphics-symbol" aria-roledescription="arc mark"  d="M196.0,59.0A75,75,0,0,0,121.82457216339019,122.90919726728988L165.34082316086796,129.41580153714648A31,31,0,0,1,196.0,103.0Z" fill="#cfa333" stroke="white" stroke-width="4"/>
+<path aria-label="Hop: 80; Maldives connecting East: Mount" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.44015277562204,207.14896759288717A75,75,0,0,0,248.04003206716968,188.00773150622004L217.5098799210968,156.32319568923762A31,31,0,0,1,189.1552631472571,164.23490660506005Z" fill="#feacaa" stroke="white" stroke-width="4"/>
+<path aria-label="Hop: 29; Maldives connecting East: Wagon" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.82457216339019,122.90919726728988A75,75,0,0,0,122.65181263563998,149.6538624742502L165.6827492227312,140.4702631560234A31,31,0,0,1,165.34082316086796,129.41580153714648Z" fill="#58dab4" stroke="white" stroke-width="4"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#19ccef" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#e3464d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#feacaa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f5eaed" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#5bafec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#58dab4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#cfa333" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Cargo</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Mount</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Revere</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Wagon</text>
+<text aria-label="21,76,129,140" text-anchor="start" x="21.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">enormously</text>
+</svg>

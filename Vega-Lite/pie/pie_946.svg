@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="306" height="239" viewBox="0 0 306 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,291,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Global matrix Devolved</text>
+<path aria-label="usefully: 203; quantifying sky: Coupe" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.72357930692465,187.3406429007603A75,75,0,0,0,105.0,59.0L105.0,87.0A47,47,0,0,1,138.0401096990061,167.42680288447644Z" fill="#ddcbed" stroke="black" stroke-width="1"/>
+<path aria-label="usefully: 26; quantifying sky: Engineer" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.4374840040259,200.62626880947528A75,75,0,0,0,157.72357930692465,187.3406429007603L138.0401096990061,167.42680288447644A47,47,0,0,1,126.58082330918957,175.7524617872712Z" fill="#21e836" stroke="black" stroke-width="1"/>
+<path aria-label="usefully: 124; quantifying sky: spirited" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.613473634405366,124.42687641045539L58.3844434775607,128.00084255055205A47,47,0,0,1,104.99999999999999,87.0Z" fill="#ecfd3b" stroke="black" stroke-width="1"/>
+<path aria-label="usefully: 187; quantifying sky: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.613473634405366,124.42687641045539A75,75,0,0,0,139.4374840040259,200.62626880947528L126.58082330918957,175.7524617872712A47,47,0,0,1,58.3844434775607,128.00084255055205Z" fill="#ba9e3e" stroke="black" stroke-width="1"/>
+<text aria-label="179,197,91,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.24899228603945" y="102.8005075569981" font-family="sans-serif" font-size="11px" fill="#ddcbed" opacity="1">203</text>
+<text aria-label="151,163,198,210" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.90067270632258" y="209.81152949374527" font-family="sans-serif" font-size="11px" fill="#21e836" opacity="1">26</text>
+<text aria-label="36,54,58,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.5605238400893" y="69.42079703166507" font-family="sans-serif" font-size="11px" fill="#ecfd3b" opacity="1">124</text>
+<text aria-label="44,62,199,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="53.378120728405875" y="210.7236839860093" font-family="sans-serif" font-size="11px" fill="#ba9e3e" opacity="1">187</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#ddcbed" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#21e836" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ba9e3e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#ecfd3b" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Coupe</text>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Engineer</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="239,283,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">spirited</text>
+</svg>

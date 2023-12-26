@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1006" height="345" viewBox="0 0 1006 345" style="background-color: rgb(255, 255, 255);">
+<line x1="224.5" y1="42.5" x2="224.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="326.5" y1="42.5" x2="326.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="428.5" y1="42.5" x2="428.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="530.5" y1="42.5" x2="530.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="633.5" y1="42.5" x2="633.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="735.5" y1="42.5" x2="735.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="837.5" y1="42.5" x2="837.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="939.5" y1="42.5" x2="939.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="213,229,249,321" text-anchor="end" x="224.3170731707317" y="249.5" transform="rotate(270.0, 229.3170731707317, 249.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">asparagus</text>
+<text aria-label="315,331,249,329" text-anchor="end" x="326.5121951219512" y="249.5" transform="rotate(270.0, 331.5121951219512, 249.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">atmosphere</text>
+<text aria-label="417,433,249,281" text-anchor="end" x="428.70731707317077" y="249.5" transform="rotate(270.0, 433.70731707317077, 249.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">blue</text>
+<text aria-label="519,535,249,297" text-anchor="end" x="530.9024390243903" y="249.5" transform="rotate(270.0, 535.9024390243903, 249.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">pickle</text>
+<text aria-label="622,638,249,305" text-anchor="end" x="633.0975609756098" y="249.5" transform="rotate(270.0, 638.0975609756098, 249.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">puritan</text>
+<text aria-label="724,740,249,313" text-anchor="end" x="735.2926829268293" y="249.5" transform="rotate(270.0, 740.2926829268293, 249.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">revolver</text>
+<text aria-label="826,842,249,297" text-anchor="end" x="837.4878048780489" y="249.5" transform="rotate(270.0, 842.4878048780489, 249.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">sheath</text>
+<text aria-label="928,944,249,281" text-anchor="end" x="939.6829268292682" y="249.5" transform="rotate(270.0, 944.6829268292682, 249.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">year</text>
+<line aria-label="224,224,242,247" x1="224.5" y1="242.5" x2="224.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="326,326,242,247" x1="326.5" y1="242.5" x2="326.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="428,428,242,247" x1="428.5" y1="242.5" x2="428.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="530,530,242,247" x1="530.5" y1="242.5" x2="530.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="633,633,242,247" x1="633.5" y1="242.5" x2="633.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="735,735,242,247" x1="735.5" y1="242.5" x2="735.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="837,837,242,247" x1="837.5" y1="242.5" x2="837.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="939,939,242,247" x1="939.5" y1="242.5" x2="939.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="163,1001,242,242" x1="163.5" y1="242.5" x2="1001.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.144107142857145" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">mellow</text>
+<text aria-label="148,156,232,248" text-anchor="end" x="156.5" y="247.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="132,156,203,219" text-anchor="end" x="156.5" y="218.92857142857144" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="132,156,175,191" text-anchor="end" x="156.5" y="190.35714285714286" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="132,156,146,162" text-anchor="end" x="156.5" y="161.78571428571428" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="132,156,118,134" text-anchor="end" x="156.5" y="133.21428571428572" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="132,156,89,105" text-anchor="end" x="156.5" y="104.64285714285714" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="132,156,61,77" text-anchor="end" x="156.5" y="76.07142857142858" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="132,156,32,48" text-anchor="end" x="156.5" y="47.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">700</text>
+<line aria-label="158,163,242,242" x1="163.5" y1="242.5" x2="158.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="158,163,213,213" x1="163.5" y1="213.5" x2="158.5" y2="213.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="158,163,185,185" x1="163.5" y1="185.5" x2="158.5" y2="185.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="158,163,156,156" x1="163.5" y1="156.5" x2="158.5" y2="156.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="158,163,128,128" x1="163.5" y1="128.5" x2="158.5" y2="128.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="158,163,99,99" x1="163.5" y1="99.5" x2="158.5" y2="99.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="158,163,71,71" x1="163.5" y1="71.5" x2="158.5" y2="71.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="158,163,42,42" x1="163.5" y1="42.5" x2="158.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="112,124,88,196" text-anchor="middle" x="126.11083984375" y="142.5" transform="rotate(-90.0, 124.11083984375, 142.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">UDP Cobalt Bicycle</text>
+<path aria-label="Account DRAM override: sheath; UDP Cobalt Bicycle: 599; Loop: East" role="graphics-symbol" aria-roledescription="bar" d="M796.6097560975611,70.85714285714285h40.87804878048781v171.14285714285717h-40.87804878048781Z" fill="#231e42"/>
+<path aria-label="Account DRAM override: sheath; UDP Cobalt Bicycle: 169; Loop: Rubber Kwanza" role="graphics-symbol" aria-roledescription="bar" d="M837.4878048780489,193.71428571428572h40.87804878048781v48.28571428571428h-40.87804878048781Z" fill="#9abeae"/>
+<path aria-label="Account DRAM override: asparagus; UDP Cobalt Bicycle: 502; Loop: East" role="graphics-symbol" aria-roledescription="bar" d="M183.4390243902439,98.57142857142856h40.87804878048781v143.42857142857144h-40.87804878048781Z" fill="#231e42"/>
+<path aria-label="Account DRAM override: asparagus; UDP Cobalt Bicycle: 507; Loop: Rubber Kwanza" role="graphics-symbol" aria-roledescription="bar" d="M224.3170731707317,97.14285714285714h40.87804878048781v144.85714285714286h-40.87804878048781Z" fill="#9abeae"/>
+<path aria-label="Account DRAM override: atmosphere; UDP Cobalt Bicycle: 233; Loop: East" role="graphics-symbol" aria-roledescription="bar" d="M285.6341463414634,175.42857142857142h40.87804878048781v66.57142857142858h-40.87804878048781Z" fill="#231e42"/>
+<path aria-label="Account DRAM override: atmosphere; UDP Cobalt Bicycle: 375; Loop: Rubber Kwanza" role="graphics-symbol" aria-roledescription="bar" d="M326.5121951219512,134.85714285714286h40.87804878048781v107.14285714285714h-40.87804878048781Z" fill="#9abeae"/>
+<path aria-label="Account DRAM override: year; UDP Cobalt Bicycle: 30; Loop: East" role="graphics-symbol" aria-roledescription="bar" d="M898.8048780487804,233.42857142857144h40.87804878048781v8.571428571428555h-40.87804878048781Z" fill="#231e42"/>
+<path aria-label="Account DRAM override: year; UDP Cobalt Bicycle: 119; Loop: Rubber Kwanza" role="graphics-symbol" aria-roledescription="bar" d="M939.6829268292682,208.0h40.87804878048781v34h-40.87804878048781Z" fill="#9abeae"/>
+<path aria-label="Account DRAM override: pickle; UDP Cobalt Bicycle: 165; Loop: East" role="graphics-symbol" aria-roledescription="bar" d="M490.0243902439025,194.85714285714283h40.87804878048781v47.14285714285717h-40.87804878048781Z" fill="#231e42"/>
+<path aria-label="Account DRAM override: pickle; UDP Cobalt Bicycle: 661; Loop: Rubber Kwanza" role="graphics-symbol" aria-roledescription="bar" d="M530.9024390243903,53.14285714285714h40.87804878048781v188.85714285714286h-40.87804878048781Z" fill="#9abeae"/>
+<path aria-label="Account DRAM override: blue; UDP Cobalt Bicycle: 259; Loop: East" role="graphics-symbol" aria-roledescription="bar" d="M387.82926829268297,168.0h40.87804878048781v74h-40.87804878048781Z" fill="#231e42"/>
+<path aria-label="Account DRAM override: blue; UDP Cobalt Bicycle: 512; Loop: Rubber Kwanza" role="graphics-symbol" aria-roledescription="bar" d="M428.70731707317077,95.71428571428572h40.87804878048781v146.28571428571428h-40.87804878048781Z" fill="#9abeae"/>
+<path aria-label="Account DRAM override: revolver; UDP Cobalt Bicycle: 195; Loop: East" role="graphics-symbol" aria-roledescription="bar" d="M694.4146341463415,186.28571428571428h40.87804878048781v55.71428571428572h-40.87804878048781Z" fill="#231e42"/>
+<path aria-label="Account DRAM override: revolver; UDP Cobalt Bicycle: 571; Loop: Rubber Kwanza" role="graphics-symbol" aria-roledescription="bar" d="M735.2926829268293,78.85714285714286h40.87804878048781v163.14285714285714h-40.87804878048781Z" fill="#9abeae"/>
+<path aria-label="Account DRAM override: puritan; UDP Cobalt Bicycle: 178; Loop: East" role="graphics-symbol" aria-roledescription="bar" d="M592.219512195122,191.14285714285717h40.87804878048781v50.85714285714283h-40.87804878048781Z" fill="#231e42"/>
+<path aria-label="Account DRAM override: puritan; UDP Cobalt Bicycle: 460; Loop: Rubber Kwanza" role="graphics-symbol" aria-roledescription="bar" d="M633.0975609756098,110.57142857142857h40.87804878048781v131.42857142857144h-40.87804878048781Z" fill="#9abeae"/>
+<text aria-label="804,829,49,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="817.0487804878051" y="64.85839285714285" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">599</text>
+<text aria-label="845,870,172,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="857.9268292682929" y="187.71553571428572" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">169</text>
+<text aria-label="191,216,76,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="203.8780487804878" y="92.57267857142857" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">502</text>
+<text aria-label="232,257,75,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="244.7560975609756" y="91.14410714285714" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">507</text>
+<text aria-label="293,318,153,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="306.07317073170736" y="169.42982142857142" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">233</text>
+<text aria-label="334,359,113,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="346.95121951219517" y="128.85839285714286" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">375</text>
+<text aria-label="910,927,211,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="919.2439024390244" y="227.42982142857144" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">30</text>
+<text aria-label="947,972,186,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="960.1219512195122" y="202.00125" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">119</text>
+<text aria-label="497,522,173,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="510.4634146341464" y="188.85839285714283" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">165</text>
+<text aria-label="538,563,31,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="551.3414634146342" y="47.144107142857145" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">661</text>
+<text aria-label="395,420,146,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="408.2682926829268" y="162.00125" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">259</text>
+<text aria-label="436,461,74,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="449.1463414634147" y="89.71553571428572" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">512</text>
+<text aria-label="702,727,164,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="714.8536585365855" y="180.28696428571428" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">195</text>
+<text aria-label="743,768,57,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="755.7317073170733" y="72.85839285714286" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">571</text>
+<text aria-label="600,625,169,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="612.6585365853659" y="185.14410714285717" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">178</text>
+<text aria-label="641,666,88,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="653.5365853658536" y="104.57267857142857" font-family="avenir" font-size="15.712499999999999px" fill="#000" opacity="1">460</text>
+<path  d="M6.0,59.0h10v10h-10Z" fill="#231e42" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,72.0h10v10h-10Z" fill="#9abeae" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,57,68" text-anchor="start" x="21.0" y="67.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="21,92,70,81" text-anchor="start" x="21.0" y="80.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rubber Kwanza</text>
+<text aria-label="5,29,40,52" text-anchor="start" x="5.0" y="51.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Loop</text>
+</svg>

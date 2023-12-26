@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="307" height="270" viewBox="0 0 307 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="42,302,0,26" text-anchor="end" x="302.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">ampere Ball stallion</text>
+<path aria-label="Innovative: 34; tan: Volkswagen" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,76.98282527752843,64.42961894189094L87.81613283688411,91.33016628435978A46,46,0,0,1,104.99999999999999,88.0Z" fill="#93a69d" stroke="black" stroke-width="0"/>
+<path aria-label="Innovative: 217; tan: Michigan" role="graphics-symbol" aria-roledescription="arc mark"  d="M76.98282527752843,64.42961894189094A75,75,0,0,0,81.74342206271916,205.30309658526187L90.73596553180109,177.73256590562727A46,46,0,0,1,87.81613283688411,91.33016628435978Z" fill="#b03815" stroke="black" stroke-width="0"/>
+<path aria-label="Innovative: 184; tan: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.77987800646017,170.0278732296984A75,75,0,0,0,105.0,59.0L105.0,88.0A46,46,0,0,1,145.34499184396225,156.09709558088167Z" fill="#dca463" stroke="black" stroke-width="0"/>
+<path aria-label="Innovative: 123; tan: Fundamental" role="graphics-symbol" aria-roledescription="arc mark"  d="M81.74342206271916,205.30309658526187A75,75,0,0,0,170.77987800646017,170.0278732296984L145.34499184396225,156.09709558088167A46,46,0,0,1,90.73596553180109,177.73256590562727Z" fill="#6eb82b" stroke="black" stroke-width="0"/>
+<text aria-label="82,92,39,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="87.87693301823212" y="48.643899038391865" font-family="sans-serif" font-size="9px" fill="#93a69d" opacity="1">34</text>
+<text aria-label="7,22,131,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.05134581632538" y="140.03967276951215" font-family="sans-serif" font-size="9px" fill="#b03815" opacity="1">217</text>
+<text aria-label="174,189,82,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.4306473846352" y="91.12522647907363" font-family="sans-serif" font-size="9px" fill="#dca463" opacity="1">184</text>
+<text aria-label="130,145,211,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.15005392696983" y="220.6724203345343" font-family="sans-serif" font-size="9px" fill="#6eb82b" opacity="1">123</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#dca463" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,258.25A5,5,0,1,1,68.0,258.25A5,5,0,1,1,78.0,258.25" fill="#6eb82b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M168.0,258.25A5,5,0,1,1,158.0,258.25A5,5,0,1,1,168.0,258.25" fill="#b03815" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M240.0,258.25A5,5,0,1,1,230.0,258.25A5,5,0,1,1,240.0,258.25" fill="#93a69d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="83,143,251,262" text-anchor="start" x="83.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Fundamental</text>
+<text aria-label="173,217,251,262" text-anchor="start" x="173.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Michigan</text>
+<text aria-label="245,300,251,262" text-anchor="start" x="245.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Volkswagen</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="625" height="286" viewBox="0 0 625 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,135,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Horizontal</text>
+<path aria-label="where: 251; stable: vain" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,39.18627550238915,145.0339928856069L63.75673264816386,158.46130220831364A47,47,0,0,1,104.99999999999999,134.0Z" fill="#0a3ccc" stroke="white" stroke-width="0"/>
+<path aria-label="where: 24; stable: THX" role="graphics-symbol" aria-roledescription="arc mark"  d="M71.51488557740947,248.1099628379127A75,75,0,0,0,78.5485009907534,251.18061128377144L88.4237272875388,224.9798497378301A47,47,0,0,1,84.01599496184328,223.05557671175862Z" fill="#d7f83e" stroke="white" stroke-width="0"/>
+<path aria-label="where: 66; stable: Armenian" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.83676122914886,108.95258934923866A75,75,0,0,0,105.0,106.0L105.0,134.0A47,47,0,0,1,118.05770370359996,135.8502893255229Z" fill="#6febed" stroke="white" stroke-width="0"/>
+<path aria-label="where: 136; stable: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M88.96880630018586,254.26664199046547A75,75,0,0,0,131.75061780136616,251.067142422431L121.76372048885614,224.90874258472343A47,47,0,0,1,94.9537852814498,226.91376231402504Z" fill="#53af81" stroke="white" stroke-width="0"/>
+<path aria-label="where: 185; stable: Home" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.81372449761085,145.03399288560686A75,75,0,0,0,125.83676122914886,108.95258934923866L118.05770370359996,135.8502893255229A47,47,0,0,1,146.24326735183615,158.46130220831364Z" fill="#02da88" stroke="white" stroke-width="0"/>
+<path aria-label="where: 204; stable: Iridium" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.92351379534637,208.12383119162934A75,75,0,0,0,170.81372449761085,145.03399288560686L146.24326735183615,158.46130220831364A47,47,0,0,1,148.8187353117504,197.99760088008773Z" fill="#a41392" stroke="white" stroke-width="0"/>
+<path aria-label="where: 182; stable: models" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.18627550238915,145.0339928856069A75,75,0,0,0,32.84251317925141,201.45231272285594L59.781308258997555,193.8167826396564A47,47,0,0,1,63.75673264816386,158.46130220831364Z" fill="#ecb1de" stroke="white" stroke-width="0"/>
+<path aria-label="where: 42; stable: Mill" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.75061780136616,251.067142422431A75,75,0,0,0,143.80823325947253,245.17882073767305L129.3198261759361,221.2187276622751A47,47,0,0,1,121.76372048885614,224.90874258472343Z" fill="#5945fa" stroke="white" stroke-width="0"/>
+<path aria-label="where: 195; stable: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.84251317925141,201.45231272285594A75,75,0,0,0,71.51488557740947,248.1099628379127L84.01599496184328,223.05557671175862A47,47,0,0,1,59.781308258997555,193.8167826396564Z" fill="#1fceef" stroke="white" stroke-width="0"/>
+<path aria-label="where: 34; stable: Reggae" role="graphics-symbol" aria-roledescription="arc mark"  d="M78.5485009907534,251.18061128377144A75,75,0,0,0,88.96880630018586,254.26664199046547L94.9537852814498,226.91376231402504A47,47,0,0,1,88.4237272875388,224.9798497378301Z" fill="#eabac6" stroke="white" stroke-width="0"/>
+<path aria-label="where: 154; stable: Market" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.80823325947253,245.17882073767305A75,75,0,0,0,174.92351379534637,208.12383119162934L148.8187353117504,197.99760088008773A47,47,0,0,1,129.3198261759361,221.2187276622751Z" fill="#059fdf" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#6febed" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M90.0,56.25A5,5,0,1,1,80.0,56.25A5,5,0,1,1,90.0,56.25" fill="#02da88" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M147.0,56.25A5,5,0,1,1,137.0,56.25A5,5,0,1,1,147.0,56.25" fill="#a41392" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M209.0,56.25A5,5,0,1,1,199.0,56.25A5,5,0,1,1,209.0,56.25" fill="#059fdf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M270.0,56.25A5,5,0,1,1,260.0,56.25A5,5,0,1,1,270.0,56.25" fill="#5945fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M315.0,56.25A5,5,0,1,1,305.0,56.25A5,5,0,1,1,315.0,56.25" fill="#53af81" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M371.0,56.25A5,5,0,1,1,361.0,56.25A5,5,0,1,1,371.0,56.25" fill="#eabac6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M434.0,56.25A5,5,0,1,1,424.0,56.25A5,5,0,1,1,434.0,56.25" fill="#d7f83e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M481.0,56.25A5,5,0,1,1,471.0,56.25A5,5,0,1,1,481.0,56.25" fill="#1fceef" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M532.0,56.25A5,5,0,1,1,522.0,56.25A5,5,0,1,1,532.0,56.25" fill="#ecb1de" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M595.0,56.25A5,5,0,1,1,585.0,56.25A5,5,0,1,1,595.0,56.25" fill="#0a3ccc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Armenian</text>
+<text aria-label="95,117,49,60" text-anchor="start" x="95.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Home</text>
+<text aria-label="152,190,49,60" text-anchor="start" x="152.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Iridium</text>
+<text aria-label="214,247,49,60" text-anchor="start" x="214.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Market</text>
+<text aria-label="275,297,49,60" text-anchor="start" x="275.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Mill</text>
+<text aria-label="320,347,49,60" text-anchor="start" x="320.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="376,409,49,60" text-anchor="start" x="376.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Reggae</text>
+<text aria-label="439,455,49,60" text-anchor="start" x="439.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">THX</text>
+<text aria-label="486,508,49,60" text-anchor="start" x="486.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="537,570,49,60" text-anchor="start" x="537.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">models</text>
+<text aria-label="600,622,49,60" text-anchor="start" x="600.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">vain</text>
+<text aria-label="5,41,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">stable</text>
+</svg>

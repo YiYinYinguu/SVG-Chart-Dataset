@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="490" height="286" viewBox="0 0 490 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,291,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">West Engineer Missouri</text>
+<path aria-label="Car: 187; East: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.68713500742422,255.53788483459408A75,75,0,0,0,149.22817812764717,241.5711834085245L128.58836166807848,213.30463115121307A40,40,0,0,1,100.56647200395957,220.75353857845016Z" fill="#c3f05c" stroke="black" stroke-width="0"/>
+<path aria-label="Car: 171; East: siemens" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,57.93982444643613,122.60188464626833L79.90123970476594,149.8543384780098A40,40,0,0,1,104.99999999999999,141.0Z" fill="#aa4a1a" stroke="black" stroke-width="0"/>
+<path aria-label="Car: 375; East: Cotton" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.22817812764717,241.5711834085245A75,75,0,0,0,169.04109690158612,141.9649144020196L139.15525168084594,160.1812876810771A40,40,0,0,1,128.58836166807848,213.30463115121307Z" fill="#5acec4" stroke="black" stroke-width="0"/>
+<path aria-label="Car: 331; East: fooey" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.93982444643613,122.60188464626833A75,75,0,0,0,36.53257844819866,211.61392144185274L68.48404183903929,197.32742476898812A40,40,0,0,1,79.90123970476594,149.8543384780098Z" fill="#d9fbfe" stroke="black" stroke-width="0"/>
+<path aria-label="Car: 116; East: TLS" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.53257844819866,211.61392144185274A75,75,0,0,0,57.24823694106839,238.83397898090408L79.53239303523648,211.8447887898155A40,40,0,0,1,68.48404183903929,197.32742476898812Z" fill="#bfd921" stroke="black" stroke-width="0"/>
+<path aria-label="Car: 100; East: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.24823694106839,238.83397898090408A75,75,0,0,0,83.29983217024105,252.7920797592624L93.42657715746189,219.28910920493996A40,40,0,0,1,79.53239303523648,211.8447887898155Z" fill="#b3ded1" stroke="black" stroke-width="0"/>
+<path aria-label="Car: 46; East: Hassium" role="graphics-symbol" aria-roledescription="arc mark"  d="M83.29983217024105,252.7920797592624A75,75,0,0,0,96.68713500742422,255.53788483459408L100.56647200395957,220.75353857845016A40,40,0,0,1,93.42657715746189,219.28910920493996Z" fill="#afcdd9" stroke="black" stroke-width="0"/>
+<path aria-label="Car: 258; East: Convertible" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.04109690158612,141.9649144020196A75,75,0,0,0,105.0,106.0L105.0,141.0A40,40,0,0,1,139.15525168084594,160.1812876810771Z" fill="#b66df1" stroke="black" stroke-width="0"/>
+<text aria-label="119,136,260,271" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.12125100148072" y="270.9793524471557" font-family="monospace" font-size="10px" fill="#c3f05c" opacity="1">187</text>
+<text aria-label="66,83,89,100" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="75.05836058432182" y="99.12657524818792" font-family="monospace" font-size="10px" fill="#aa4a1a" opacity="1">171</text>
+<text aria-label="185,201,191,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.27067523629074" y="201.55812898145155" font-family="monospace" font-size="10px" fill="#5acec4" opacity="1">375</text>
+<text aria-label="9,25,152,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.49504802882467" y="162.95520538179812" font-family="monospace" font-size="10px" fill="#d9fbfe" opacity="1">331</text>
+<text aria-label="25,41,228,239" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.3814343522251" y="238.50487184239" font-family="monospace" font-size="10px" fill="#bfd921" opacity="1">116</text>
+<text aria-label="54,70,253,264" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="62.49560327045857" y="263.3308027102824" font-family="monospace" font-size="10px" fill="#b3ded1" opacity="1">100</text>
+<text aria-label="81,92,262,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.9169756264541" y="272.16464274019233" font-family="monospace" font-size="10px" fill="#afcdd9" opacity="1">46</text>
+<text aria-label="140,157,95,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="149.06932467952123" y="105.52774616279368" font-family="monospace" font-size="10px" fill="#b66df1" opacity="1">258</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#b66df1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M98.0,56.25A5,5,0,1,1,88.0,56.25A5,5,0,1,1,98.0,56.25" fill="#5acec4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,56.25A5,5,0,1,1,145.0,56.25A5,5,0,1,1,155.0,56.25" fill="#c3f05c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,56.25A5,5,0,1,1,207.0,56.25A5,5,0,1,1,217.0,56.25" fill="#afcdd9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,56.25A5,5,0,1,1,269.0,56.25A5,5,0,1,1,279.0,56.25" fill="#b3ded1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M351.0,56.25A5,5,0,1,1,341.0,56.25A5,5,0,1,1,351.0,56.25" fill="#bfd921" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M393.0,56.25A5,5,0,1,1,383.0,56.25A5,5,0,1,1,393.0,56.25" fill="#d9fbfe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M445.0,56.25A5,5,0,1,1,435.0,56.25A5,5,0,1,1,445.0,56.25" fill="#aa4a1a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Convertible</text>
+<text aria-label="103,136,49,60" text-anchor="start" x="103.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cotton</text>
+<text aria-label="160,198,49,60" text-anchor="start" x="160.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="222,260,49,60" text-anchor="start" x="222.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hassium</text>
+<text aria-label="284,333,49,60" text-anchor="start" x="284.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="356,372,49,60" text-anchor="start" x="356.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">TLS</text>
+<text aria-label="398,425,49,60" text-anchor="start" x="398.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">fooey</text>
+<text aria-label="450,488,49,60" text-anchor="start" x="450.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">siemens</text>
+<text aria-label="5,29,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">East</text>
+</svg>

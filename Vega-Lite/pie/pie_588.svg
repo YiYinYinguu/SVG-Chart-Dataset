@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="575" height="286" viewBox="0 0 575 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">azure</text>
+<path aria-label="coolly: 70; siemens Flint: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.33212128032167,188.6810142998678A75,75,0,0,0,177.73257730918826,152.30224570818984L105.0,134.0Z" fill="#f3b929" stroke="white" stroke-width="0"/>
+<path aria-label="coolly: 6; siemens Flint: dedicated" role="graphics-symbol" aria-roledescription="arc mark"  d="M99.19935308736943,208.77534684235835A75,75,0,0,0,102.86107326259025,208.96949374520273L105.0,134.0Z" fill="#5c56ec" stroke="white" stroke-width="0"/>
+<path aria-label="coolly: 120; siemens Flint: fairly" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.520406885797257,118.97504090617188A75,75,0,0,0,51.48301657452212,186.54457617144823L105.0,134.0Z" fill="#4ac9db" stroke="white" stroke-width="0"/>
+<path aria-label="coolly: 223; siemens Flint: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.73257730918826,152.30224570818984A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#df8cfc" stroke="white" stroke-width="0"/>
+<path aria-label="coolly: 39; siemens Flint: Integration" role="graphics-symbol" aria-roledescription="arc mark"  d="M102.86107326259025,208.96949374520273A75,75,0,0,0,126.39636287033312,205.88320844203486L105.0,134.0Z" fill="#a4d15f" stroke="white" stroke-width="0"/>
+<path aria-label="coolly: 88; siemens Flint: disintermediate" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.48301657452212,186.54457617144823A75,75,0,0,0,99.19935308736943,208.77534684235835L105.0,134.0Z" fill="#9bf637" stroke="white" stroke-width="0"/>
+<path aria-label="coolly: 168; siemens Flint: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.520406885797257,118.97504090617188L105.0,134.0Z" fill="#a57aae" stroke="white" stroke-width="0"/>
+<path aria-label="coolly: 57; siemens Flint: Functionality" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.39636287033312,205.88320844203486A75,75,0,0,0,156.33212128032167,188.6810142998678L105.0,134.0Z" fill="#29af4c" stroke="white" stroke-width="0"/>
+<text aria-label="178,187,173,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.5729793583243" y="181.63368134911968" font-family="monospace" font-size="8px" fill="#f3b929" opacity="1">70</text>
+<text aria-label="97,102,217,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.23483177682597" y="225.873762421548" font-family="monospace" font-size="8px" fill="#5c56ec" opacity="1">6</text>
+<text aria-label="11,25,153,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.68801869059442" y="161.49984083175465" font-family="monospace" font-size="8px" fill="#4ac9db" opacity="1">120</text>
+<text aria-label="169,182,72,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="175.9811331851095" y="80.66756166806177" font-family="monospace" font-size="8px" fill="#df8cfc" opacity="1">223</text>
+<text aria-label="112,121,217,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="116.70190758889429" y="225.23600931676054" font-family="monospace" font-size="8px" fill="#a4d15f" opacity="1">39</text>
+<text aria-label="62,71,209,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="66.99205561887896" y="217.58061144611267" font-family="monospace" font-size="8px" fill="#9bf637" opacity="1">88</text>
+<text aria-label="41,54,58,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="48.090842486175575" y="66.27663382289462" font-family="monospace" font-size="8px" fill="#a57aae" opacity="1">168</text>
+<text aria-label="145,154,206,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="149.84111105287718" y="214.03380523557425" font-family="monospace" font-size="8px" fill="#29af4c" opacity="1">57</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#df8cfc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,274.25A5,5,0,1,1,68.0,274.25A5,5,0,1,1,78.0,274.25" fill="#f3b929" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,274.25A5,5,0,1,1,115.0,274.25A5,5,0,1,1,125.0,274.25" fill="#29af4c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,274.25A5,5,0,1,1,207.0,274.25A5,5,0,1,1,217.0,274.25" fill="#a4d15f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M299.0,274.25A5,5,0,1,1,289.0,274.25A5,5,0,1,1,299.0,274.25" fill="#5c56ec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M371.0,274.25A5,5,0,1,1,361.0,274.25A5,5,0,1,1,371.0,274.25" fill="#9bf637" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M473.0,274.25A5,5,0,1,1,463.0,274.25A5,5,0,1,1,473.0,274.25" fill="#4ac9db" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M530.0,274.25A5,5,0,1,1,520.0,274.25A5,5,0,1,1,530.0,274.25" fill="#a57aae" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="83,105,267,278" text-anchor="start" x="83.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="130,201,267,278" text-anchor="start" x="130.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Functionality</text>
+<text aria-label="222,282,267,278" text-anchor="start" x="222.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Integration</text>
+<text aria-label="304,353,267,278" text-anchor="start" x="304.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">dedicated</text>
+<text aria-label="376,458,267,278" text-anchor="start" x="376.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">disintermediate</text>
+<text aria-label="478,511,267,278" text-anchor="start" x="478.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">fairly</text>
+<text aria-label="535,573,267,278" text-anchor="start" x="535.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="5,83,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">siemens Flint</text>
+</svg>

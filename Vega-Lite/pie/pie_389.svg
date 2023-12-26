@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="390" height="270" viewBox="0 0 390 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">copying</text>
+<path aria-label="protocol up: 485; workforce porro: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.60046892521368,97.64647916924588A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#dd16ee" stroke="white" stroke-width="0"/>
+<path aria-label="protocol up: 426; workforce porro: protocol" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,44.644692327074694,89.47768160005003L105.0,134.0Z" fill="#3eae8c" stroke="white" stroke-width="0"/>
+<path aria-label="protocol up: 127; workforce porro: Park" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.07219504297984,117.10460679354539A75,75,0,0,0,170.60046892521368,97.64647916924588L105.0,134.0Z" fill="#e91178" stroke="white" stroke-width="0"/>
+<path aria-label="protocol up: 647; workforce porro: exercitationem" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.67080477367739,201.67439054781596A75,75,0,0,0,167.06711448214463,176.1031269605994L105.0,134.0Z" fill="#c60df0" stroke="white" stroke-width="0"/>
+<path aria-label="protocol up: 375; workforce porro: costly" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.06711448214463,176.1031269605994A75,75,0,0,0,178.07219504297984,117.10460679354539L105.0,134.0Z" fill="#aecbbb" stroke="white" stroke-width="0"/>
+<path aria-label="protocol up: 802; workforce porro: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.644692327074694,89.47768160005003A75,75,0,0,0,72.67080477367739,201.67439054781596L105.0,134.0Z" fill="#a2de52" stroke="white" stroke-width="0"/>
+<text aria-label="141,159,48,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="150.68270871061912" y="59.45588271918544" font-family="sans-serif" font-size="11px" fill="#dd16ee" opacity="1">485</text>
+<text aria-label="55,73,45,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="64.43160335430173" y="56.66193185296713" font-family="sans-serif" font-size="11px" fill="#3eae8c" opacity="1">426</text>
+<text aria-label="180,198,93,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.0186974819561" y="104.73766168679734" font-family="sans-serif" font-size="11px" fill="#e91178" opacity="1">127</text>
+<text aria-label="119,137,212,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.53219094603332" y="223.8690738368922" font-family="sans-serif" font-size="11px" fill="#c60df0" opacity="1">647</text>
+<text aria-label="184,202,142,154" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.47397928147396" y="153.5031812115518" font-family="sans-serif" font-size="11px" fill="#aecbbb" opacity="1">375</text>
+<text aria-label="8,26,147,159" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.682953053252305" y="158.8113115721971" font-family="sans-serif" font-size="11px" fill="#a2de52" opacity="1">802</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#dd16ee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,258.25A5,5,0,1,1,68.0,258.25A5,5,0,1,1,78.0,258.25" fill="#e91178" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M126.0,258.25A5,5,0,1,1,116.0,258.25A5,5,0,1,1,126.0,258.25" fill="#aecbbb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M181.0,258.25A5,5,0,1,1,171.0,258.25A5,5,0,1,1,181.0,258.25" fill="#c60df0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,258.25A5,5,0,1,1,269.0,258.25A5,5,0,1,1,279.0,258.25" fill="#a2de52" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M339.0,258.25A5,5,0,1,1,329.0,258.25A5,5,0,1,1,339.0,258.25" fill="#3eae8c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="83,105,251,262" text-anchor="start" x="83.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Park</text>
+<text aria-label="131,164,251,262" text-anchor="start" x="131.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">costly</text>
+<text aria-label="186,263,251,262" text-anchor="start" x="186.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">exercitationem</text>
+<text aria-label="284,317,251,262" text-anchor="start" x="284.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="344,388,251,262" text-anchor="start" x="344.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">protocol</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,135,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Mozambique</text>
+<path aria-label="Mini: 883; Trans: ohm" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,140.78995747412569,190.5983366769876L190.0,134.0Z" fill="#6d5e0f" stroke="black" stroke-width="2"/>
+<path aria-label="Mini: 318; Trans: Transexual" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.78995747412569,190.5983366769876A75,75,0,0,0,201.79872233430757,208.06612013112277L190.0,134.0Z" fill="#a3b35d" stroke="black" stroke-width="2"/>
+<path aria-label="Mini: 218; Trans: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M201.79872233430757,208.06612013112277A75,75,0,0,0,241.5000320978036,188.52290063748626L190.0,134.0Z" fill="#d2b00b" stroke="black" stroke-width="2"/>
+<path aria-label="Mini: 868; Trans: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M241.5000320978036,188.52290063748626A75,75,0,0,0,190.0,59.0L190.0,134.0Z" fill="#dd4c55" stroke="black" stroke-width="2"/>
+<text aria-label="95,116,93,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="105.70106655148398" y="106.47715400788397" font-family="avenir" font-size="13px" fill="#6d5e0f" opacity="1">883</text>
+<text aria-label="154,175,211,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.2269718964448" y="224.523390355328" font-family="avenir" font-size="13px" fill="#a3b35d" opacity="1">318</text>
+<text aria-label="219,240,205,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="229.7482214281336" y="218.74700547574542" font-family="avenir" font-size="13px" fill="#d2b00b" opacity="1">218</text>
+<text aria-label="263,284,91,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="273.6315528638818" y="104.74697960221144" font-family="avenir" font-size="13px" fill="#dd4c55" opacity="1">868</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#dd4c55" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#d2b00b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#a3b35d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#6d5e0f" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="21,76,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Transexual</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">ohm</text>
+</svg>

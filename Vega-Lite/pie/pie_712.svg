@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="211" height="270" viewBox="0 0 211 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Taiwan</text>
+<path aria-label="Westminster: 223; Plutonium system: Cargo" role="graphics-symbol" aria-roledescription="arc mark"  d="M102.32914251666547,208.95242838163227A75,75,0,1,0,105.0,59.0L105.0,134.0Z" fill="#5bae7d" stroke="black" stroke-width="1"/>
+<path aria-label="Westminster: 54; Plutonium system: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,52.82380870473849,80.12379874267046L105.0,134.0Z" fill="#590063" stroke="black" stroke-width="1"/>
+<path aria-label="Westminster: 164; Plutonium system: Wagon" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.82380870473849,80.12379874267046A75,75,0,0,0,102.32914251666547,208.95242838163227L105.0,134.0Z" fill="#02f5c8" stroke="black" stroke-width="1"/>
+<text aria-label="183,206,125,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.9857273827808" y="139.6027686644856" font-family="serif" font-size="14px" fill="#5bae7d" opacity="1">223</text>
+<text aria-label="63,78,40,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="71.22596956085637" y="54.57749183885802" font-family="serif" font-size="14px" fill="#590063" opacity="1">54</text>
+<text aria-label="9,32,156,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.989255170693696" y="170.28304126356724" font-family="serif" font-size="14px" fill="#02f5c8" opacity="1">164</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#5bae7d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,258.25A5,5,0,1,1,58.0,258.25A5,5,0,1,1,68.0,258.25" fill="#02f5c8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M120.0,258.25A5,5,0,1,1,110.0,258.25A5,5,0,1,1,120.0,258.25" fill="#590063" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Cargo</text>
+<text aria-label="73,100,251,262" text-anchor="start" x="73.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Wagon</text>
+<text aria-label="125,147,251,262" text-anchor="start" x="125.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+</svg>

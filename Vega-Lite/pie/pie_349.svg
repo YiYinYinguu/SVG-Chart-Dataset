@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">bypass</text>
+<path aria-label="payment: 7; psst plum Southwest: Fundamental" role="graphics-symbol" aria-roledescription="arc mark"  d="M114.84774575754392,59.64933151951641A75,75,0,0,0,105.0,59.0L105.0,87.0A47,47,0,0,1,111.17125400806086,87.40691441889695Z" fill="#f35235" stroke="black" stroke-width="0"/>
+<path aria-label="payment: 149; psst plum Southwest: Integrated" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.4093194904859,207.3999514498486A75,75,0,0,0,114.84774575754392,59.64933151951641L111.17125400806086,87.40691441889695A47,47,0,0,1,114.6565068807045,179.99730290857178Z" fill="#0ebcaf" stroke="black" stroke-width="0"/>
+<path aria-label="payment: 77; psst plum Southwest: inside" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.559994282526247,124.8520194150581L58.350929750383116,128.26726550010306A47,47,0,0,1,104.99999999999999,87.0Z" fill="#bedcbc" stroke="black" stroke-width="0"/>
+<path aria-label="payment: 101; psst plum Southwest: Movies" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.559994282526247,124.8520194150581A75,75,0,0,0,120.4093194904859,207.3999514498486L114.6565068807045,179.99730290857178A47,47,0,0,1,58.350929750383116,128.26726550010306Z" fill="#f3c7d3" stroke="black" stroke-width="0"/>
+<text aria-label="107,113,36,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.92147802950296" y="47.19501072910195" font-family="serif" font-size="11px" fill="#f35235" opacity="1">7</text>
+<text aria-label="185,203,122,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.93630753208993" y="133.61465105294235" font-family="serif" font-size="11px" fill="#0ebcaf" opacity="1">149</text>
+<text aria-label="39,51,58,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.36771806803685" y="69.59086893018973" font-family="serif" font-size="11px" fill="#bedcbc" opacity="1">77</text>
+<text aria-label="35,53,192,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="44.11024815394785" y="203.2754714817344" font-family="serif" font-size="11px" fill="#f3c7d3" opacity="1">101</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#f35235" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#0ebcaf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#f3c7d3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#bedcbc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,299,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Fundamental</text>
+<text aria-label="239,294,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Integrated</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Movies</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">inside</text>
+</svg>

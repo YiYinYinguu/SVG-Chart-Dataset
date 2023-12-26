@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="13,299,0,26" text-anchor="end" x="299.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electronic North Agent</text>
+<path aria-label="Bolivia: 56; Reggae: Forward" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.24008214578635,198.5189593645427A75,75,0,0,0,164.6317486190467,179.48686136275862L105.0,134.0Z" fill="#3edea8" stroke="white" stroke-width="2"/>
+<path aria-label="Bolivia: 33; Reggae: Praseodymium" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.78450853320258,205.4553438932346A75,75,0,0,0,143.24008214578635,198.5189593645427L105.0,134.0Z" fill="#2ec7e5" stroke="white" stroke-width="2"/>
+<path aria-label="Bolivia: 324; Reggae: Arlington" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.6317486190467,179.48686136275862A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#939e4a" stroke="white" stroke-width="2"/>
+<path aria-label="Bolivia: 82; Reggae: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M86.16893094663256,206.5974575195806A75,75,0,0,0,127.78450853320258,205.4553438932346L105.0,134.0Z" fill="#f00ed1" stroke="white" stroke-width="2"/>
+<path aria-label="Bolivia: 421; Reggae: impactful" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,86.16893094663256,206.5974575195806L105.0,134.0Z" fill="#20d30a" stroke="white" stroke-width="2"/>
+<text aria-label="157,172,191,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.82308721705581" y="205.23985600683966" font-family="serif" font-size="14px" fill="#3edea8" opacity="1">56</text>
+<text aria-label="134,149,206,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.85052340513616" y="220.1099197708018" font-family="serif" font-size="14px" fill="#2ec7e5" opacity="1">33</text>
+<text aria-label="174,196,84,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.66158015802174" y="98.07870885841697" font-family="serif" font-size="14px" fill="#939e4a" opacity="1">324</text>
+<text aria-label="99,114,213,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.46906431917712" y="227.96612541055532" font-family="serif" font-size="14px" fill="#f00ed1" opacity="1">82</text>
+<text aria-label="4,26,112,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.723672196615567" y="126.60977199777597" font-family="serif" font-size="14px" fill="#20d30a" opacity="1">421</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#939e4a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#3edea8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#2ec7e5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#f00ed1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#20d30a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Arlington</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Forward</text>
+<text aria-label="239,305,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Praseodymium</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="239,288,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">impactful</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="418" height="286" viewBox="0 0 418 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="348,413,0,26" text-anchor="end" x="413.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">North</text>
+<path aria-label="Kia: 136; tempore: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.919655443284626,197.86010793179457A75,75,0,0,0,39.36819324584431,217.29691367299932L76.1220050281715,196.9706420161197A33,33,0,0,1,72.84464839504524,188.4184474899896Z" fill="#ffe5e8" stroke="white" stroke-width="1"/>
+<path aria-label="Kia: 297; tempore: Fisher" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.0892786766926,234.15501452400613A75,75,0,0,0,91.93858456038973,254.85390596788983L99.25297720657149,213.49571862587152A33,33,0,0,1,81.71928261774474,204.3882063905627Z" fill="#d84a40" stroke="white" stroke-width="1"/>
+<path aria-label="Kia: 808; tempore: Cargo" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.7391441736303,187.24982625304906A75,75,0,0,0,105.0,106.0L105.0,148.0A33,33,0,0,1,137.88522343639733,183.7499235513416Z" fill="#323ead" stroke="white" stroke-width="1"/>
+<path aria-label="Kia: 305; tempore: paradigm" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.853125446975795,151.95331792530627A75,75,0,0,0,31.919655443284626,197.86010793179457L72.84464839504524,188.4184474899896A33,33,0,0,1,74.57537519666936,168.21945988713475Z" fill="#bac4cd" stroke="white" stroke-width="1"/>
+<path aria-label="Kia: 573; tempore: redundant" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,35.853125446975795,151.95331792530627L74.57537519666936,168.21945988713475A33,33,0,0,1,105.0,148.0Z" fill="#cddbdc" stroke="white" stroke-width="1"/>
+<path aria-label="Kia: 138; tempore: degree" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.36819324584431,217.29691367299932A75,75,0,0,0,52.0892786766926,234.15501452400613L81.71928261774474,204.3882063905627A33,33,0,0,1,76.1220050281715,196.9706420161197Z" fill="#abd2dc" stroke="white" stroke-width="1"/>
+<path aria-label="Kia: 812; tempore: Cloned" role="graphics-symbol" aria-roledescription="arc mark"  d="M91.93858456038973,254.85390596788983A75,75,0,0,0,179.7391441736303,187.24982625304906L137.88522343639733,183.7499235513416A33,33,0,0,1,99.25297720657149,213.49571862587152Z" fill="#0a0be5" stroke="white" stroke-width="1"/>
+<text aria-label="11,30,205,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.959616124531692" y="217.20580503673096" font-family="monospace" font-size="12px" fill="#ffe5e8" opacity="1">136</text>
+<text aria-label="53,73,252,265" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="63.51414582070789" y="264.8681657671848" font-family="monospace" font-size="12px" fill="#d84a40" opacity="1">297</text>
+<text aria-label="161,180,112,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="171.23813567473536" y="124.06963497290246" font-family="monospace" font-size="12px" fill="#323ead" opacity="1">808</text>
+<text aria-label="5,25,165,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.328569316753487" y="177.3166075708894" font-family="monospace" font-size="12px" fill="#bac4cd" opacity="1">305</text>
+<text aria-label="45,64,98,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="55.18555261807536" y="110.04320689868422" font-family="monospace" font-size="12px" fill="#cddbdc" opacity="1">573</text>
+<text aria-label="23,42,227,240" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.158858932867815" y="239.21116536445618" font-family="monospace" font-size="12px" fill="#abd2dc" opacity="1">138</text>
+<text aria-label="150,169,244,257" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="159.90722515039386" y="256.3105646190237" font-family="monospace" font-size="12px" fill="#0a0be5" opacity="1">812</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#323ead" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,56.25A5,5,0,1,1,58.0,56.25A5,5,0,1,1,68.0,56.25" fill="#0a0be5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,56.25A5,5,0,1,1,115.0,56.25A5,5,0,1,1,125.0,56.25" fill="#d84a40" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M182.0,56.25A5,5,0,1,1,172.0,56.25A5,5,0,1,1,182.0,56.25" fill="#abd2dc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,56.25A5,5,0,1,1,229.0,56.25A5,5,0,1,1,239.0,56.25" fill="#ffe5e8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,56.25A5,5,0,1,1,286.0,56.25A5,5,0,1,1,296.0,56.25" fill="#bac4cd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M363.0,56.25A5,5,0,1,1,353.0,56.25A5,5,0,1,1,363.0,56.25" fill="#cddbdc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cargo</text>
+<text aria-label="73,106,49,60" text-anchor="start" x="73.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cloned</text>
+<text aria-label="130,163,49,60" text-anchor="start" x="130.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Fisher</text>
+<text aria-label="187,220,49,60" text-anchor="start" x="187.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">degree</text>
+<text aria-label="244,277,49,60" text-anchor="start" x="244.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="301,345,49,60" text-anchor="start" x="301.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">paradigm</text>
+<text aria-label="368,417,49,60" text-anchor="start" x="368.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">redundant</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">tempore</text>
+</svg>

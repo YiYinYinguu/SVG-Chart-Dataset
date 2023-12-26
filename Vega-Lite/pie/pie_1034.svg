@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="212" height="270" viewBox="0 0 212 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.574157904091592" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Greece</text>
+<path aria-label="alarm: 44; blah black: banana" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.37802578310124,84.53770922409707A75,75,0,0,0,107.0,59.0L107.0,134.0Z" fill="#bdca31" stroke="white" stroke-width="1"/>
+<path aria-label="alarm: 120; blah black: lux" role="graphics-symbol" aria-roledescription="arc mark"  d="M76.05385167902733,65.68209675278112A75,75,0,0,0,78.04775785935415,203.18647031775367L107.0,134.0Z" fill="#0a6d94" stroke="white" stroke-width="1"/>
+<path aria-label="alarm: 139; blah black: drat" role="graphics-symbol" aria-roledescription="arc mark"  d="M78.04775785935415,203.18647031775367A75,75,0,0,0,163.37802578310124,84.53770922409707L107.0,134.0Z" fill="#c746a4" stroke="white" stroke-width="1"/>
+<path aria-label="alarm: 22; blah black: tan" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.99999999999999,59.0A75,75,0,0,0,76.05385167902733,65.68209675278112L107.0,134.0Z" fill="#0b4043" stroke="white" stroke-width="1"/>
+<text aria-label="137,151,43,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="144.13537798516722" y="56.01851610333735" font-family="avenir" font-size="13px" fill="#bdca31" opacity="1">44</text>
+<text aria-label="6,27,126,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.009460638466592" y="139.3049235304441" font-family="avenir" font-size="13px" fill="#0a6d94" opacity="1">120</text>
+<text aria-label="169,190,177,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.06635862205297" y="190.5481420957349" font-family="avenir" font-size="13px" fill="#c746a4" opacity="1">139</text>
+<text aria-label="81,95,37,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="88.00438933200144" y="50.0274657898852" font-family="avenir" font-size="13px" fill="#0b4043" opacity="1">22</text>
+<path  d="M18.0,258.25A5,5,0,1,1,8.0,258.25A5,5,0,1,1,18.0,258.25" fill="#bdca31" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M81.0,258.25A5,5,0,1,1,71.0,258.25A5,5,0,1,1,81.0,258.25" fill="#c746a4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M128.0,258.25A5,5,0,1,1,118.0,258.25A5,5,0,1,1,128.0,258.25" fill="#0a6d94" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M169.0,258.25A5,5,0,1,1,159.0,258.25A5,5,0,1,1,169.0,258.25" fill="#0b4043" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="23,56,251,262" text-anchor="start" x="23.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">banana</text>
+<text aria-label="86,108,251,262" text-anchor="start" x="86.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">drat</text>
+<text aria-label="133,149,251,262" text-anchor="start" x="133.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">lux</text>
+<text aria-label="174,190,251,262" text-anchor="start" x="174.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">tan</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="281" height="239" viewBox="0 0 281 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Customer Diesel</text>
+<path aria-label="RAM withdrawal: 160; hurt: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.91689176873064,130.47022271066544A75,75,0,0,0,116.5105938489573,59.88855534234712L112.98067840194373,82.61606503736067A52,52,0,0,1,156.94237829298658,131.55268774606137Z" fill="#db48a4" stroke="white" stroke-width="1"/>
+<path aria-label="RAM withdrawal: 130; hurt: Tala" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.2889501524238,199.63621025649564A75,75,0,0,0,179.91689176873064,130.47022271066544L156.94237829298658,131.55268774606137A52,52,0,0,1,130.16033877234716,179.50777244450364Z" fill="#0ac9bd" stroke="white" stroke-width="1"/>
+<path aria-label="RAM withdrawal: 110; hurt: holistic" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.72862970670202,167.1596552886484A75,75,0,0,0,92.22233774000097,207.90352729856266L96.14082083306734,185.23977892700344A52,52,0,0,1,58.35851659664674,156.9906943334629Z" fill="#4f3cca" stroke="white" stroke-width="1"/>
+<path aria-label="RAM withdrawal: 79; hurt: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M92.22233774000097,207.90352729856266A75,75,0,0,0,141.2889501524238,199.63621025649564L130.16033877234716,179.50777244450364A52,52,0,0,1,96.14082083306734,185.23977892700344Z" fill="#dcbba8" stroke="white" stroke-width="1"/>
+<path aria-label="RAM withdrawal: 140; hurt: stable" role="graphics-symbol" aria-roledescription="arc mark"  d="M49.637981374022715,83.40309403079132A75,75,0,0,0,37.72862970670202,167.1596552886484L58.35851659664674,156.9906943334629A52,52,0,0,1,66.61566708598909,98.91947852801532Z" fill="#8024ab" stroke="white" stroke-width="1"/>
+<path aria-label="RAM withdrawal: 97; hurt: woman" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,49.637981374022715,83.40309403079132L66.61566708598909,98.91947852801532A52,52,0,0,1,104.99999999999999,82.0Z" fill="#06bccb" stroke="white" stroke-width="1"/>
+<path aria-label="RAM withdrawal: 18; hurt: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.5105938489573,59.88855534234712A75,75,0,0,0,105.0,59.0L105.0,82.0A52,52,0,0,1,112.98067840194373,82.61606503736067Z" fill="#fa7f53" stroke="white" stroke-width="1"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#fa7f53" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#db48a4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#0ac9bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#dcbba8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#4f3cca" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#8024ab" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#06bccb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Tala</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="239,283,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">holistic</text>
+<text aria-label="239,272,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">stable</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">woman</text>
+</svg>

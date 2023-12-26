@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="460" height="239" viewBox="0 0 460 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,447,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Buckinghamshire Assistant Director</text>
+<path aria-label="exercitationem: 226; accidentally: directional" role="graphics-symbol" aria-roledescription="arc mark"  d="M209.0,59.0A75,75,0,0,0,145.38183741968845,173.72064186169516L181.85625063240042,150.94747386098993A32,32,0,0,1,209.0,102.0Z" fill="#b290fd" stroke="white" stroke-width="0"/>
+<path aria-label="exercitationem: 94; accidentally: Triathlon/Time" role="graphics-symbol" aria-roledescription="arc mark"  d="M145.38183741968845,173.72064186169516A75,75,0,0,0,199.48786874751488,208.39435031664362L204.94149066560635,165.74158946843463A32,32,0,0,1,181.85625063240042,150.94747386098993Z" fill="#e9d1b7" stroke="white" stroke-width="0"/>
+<path aria-label="exercitationem: 347; accidentally: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.48786874751488,208.39435031664362A75,75,0,1,0,209.0,59.0L209.0,102.0A32,32,0,1,1,204.94149066560635,165.74158946843463Z" fill="#c9a271" stroke="white" stroke-width="0"/>
+<text aria-label="122,138,83,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.29221982210692" y="93.35271670002291" font-family="Balto" font-size="10px" fill="#b290fd" opacity="1">226</text>
+<text aria-label="154,165,202,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.43962380425393" y="212.77525891560924" font-family="Balto" font-size="10px" fill="#e9d1b7" opacity="1">94</text>
+<text aria-label="290,307,132,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="298.8181213180211" y="142.71883579946507" font-family="Balto" font-size="10px" fill="#c9a271" opacity="1">347</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#c9a271" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#e9d1b7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#b290fd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="21,98,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Triathlon/Time</text>
+<text aria-label="21,81,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">directional</text>
+</svg>

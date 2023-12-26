@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="325" height="239" viewBox="0 0 325 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="281,320,0,26" text-anchor="end" x="320.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">mmm</text>
+<path aria-label="quidem kilogram: 706; fluid oh networks: Hop" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.87331842638113,87.85852704895652A75,75,0,0,0,256.38122706742183,199.58510743353776L220.0,134.0Z" fill="#d1d4ae" stroke="black" stroke-width="0"/>
+<path aria-label="quidem kilogram: 234; fluid oh networks: yellow" role="graphics-symbol" aria-roledescription="arc mark"  d="M220.0,59.0A75,75,0,0,0,160.87331842638113,87.85852704895652L220.0,134.0Z" fill="#db0aff" stroke="black" stroke-width="0"/>
+<path aria-label="quidem kilogram: 412; fluid oh networks: Field" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.38122706742183,199.58510743353776A75,75,0,0,0,284.53564080934177,95.7880769218871L220.0,134.0Z" fill="#fad50d" stroke="black" stroke-width="0"/>
+<path aria-label="quidem kilogram: 267; fluid oh networks: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M284.53564080934177,95.7880769218871A75,75,0,0,0,220.0,59.0L220.0,134.0Z" fill="#aee8e0" stroke="black" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#aee8e0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#fad50d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#d1d4ae" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#db0aff" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Field</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Hop</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">yellow</text>
+<text aria-label="5,107,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">fluid oh networks</text>
+</svg>

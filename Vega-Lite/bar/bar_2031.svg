@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="850" height="317" viewBox="0 0 850 317" style="background-color: rgb(255, 255, 255);">
+<line x1="143.5" y1="41.5" x2="143.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="296.5" y1="41.5" x2="296.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="448.5" y1="41.5" x2="448.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="601.5" y1="41.5" x2="601.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="753.5" y1="41.5" x2="753.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="132,148,248,312" text-anchor="end" x="143.5" y="248.5" transform="rotate(270.0, 148.5, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">darkness</text>
+<text aria-label="285,301,248,280" text-anchor="end" x="296.0" y="248.5" transform="rotate(270.0, 301.0, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">dime</text>
+<text aria-label="437,453,248,288" text-anchor="end" x="448.5" y="248.5" transform="rotate(270.0, 453.5, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">ranch</text>
+<text aria-label="590,606,248,304" text-anchor="end" x="601.0" y="248.5" transform="rotate(270.0, 606.0, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">seabass</text>
+<text aria-label="742,758,248,280" text-anchor="end" x="753.5" y="248.5" transform="rotate(270.0, 758.5, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">tray</text>
+<line aria-label="143,143,241,246" x1="143.5" y1="241.5" x2="143.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="296,296,241,246" x1="296.5" y1="241.5" x2="296.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="448,448,241,246" x1="448.5" y1="241.5" x2="448.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="601,601,241,246" x1="601.5" y1="241.5" x2="601.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="753,753,241,246" x1="753.5" y1="241.5" x2="753.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,845,241,241" x1="52.5" y1="241.5" x2="845.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="37,45,231,247" text-anchor="end" x="45.5" y="246.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="21,45,191,207" text-anchor="end" x="45.5" y="206.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="21,45,151,167" text-anchor="end" x="45.5" y="166.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="21,45,111,127" text-anchor="end" x="45.5" y="126.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="21,45,71,87" text-anchor="end" x="45.5" y="86.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="5,45,31,47" text-anchor="end" x="45.5" y="46.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<line aria-label="47,52,241,241" x1="52.5" y1="241.5" x2="47.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,52,201,201" x1="52.5" y1="201.5" x2="47.5" y2="201.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,52,161,161" x1="52.5" y1="161.5" x2="47.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,52,121,121" x1="52.5" y1="121.5" x2="47.5" y2="121.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,52,81,81" x1="52.5" y1="81.5" x2="47.5" y2="81.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,52,41,41" x1="52.5" y1="41.5" x2="47.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,52,41,241" x1="52.5" y1="241.5" x2="52.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="impressive SCSI AGP: dime; consequently overriding: 167; Metal finally yellow: capacity" role="graphics-symbol" aria-roledescription="bar" d="M316.3333333333333,207.6h40.666666666666664v33.400000000000006h-40.666666666666664Z" fill="#fb2ff6"/>
+<path aria-label="impressive SCSI AGP: dime; consequently overriding: 700; Metal finally yellow: Argentine" role="graphics-symbol" aria-roledescription="bar" d="M235.0,101.0h40.666666666666664v140h-40.666666666666664Z" fill="#1ba4eb"/>
+<path aria-label="impressive SCSI AGP: dime; consequently overriding: 333; Metal finally yellow: Computer male Iraqi" role="graphics-symbol" aria-roledescription="bar" d="M275.66666666666663,174.4h40.666666666666664v66.6h-40.666666666666664Z" fill="#49184f"/>
+<path aria-label="impressive SCSI AGP: seabass; consequently overriding: 346; Metal finally yellow: capacity" role="graphics-symbol" aria-roledescription="bar" d="M621.3333333333334,171.8h40.666666666666664v69.19999999999999h-40.666666666666664Z" fill="#fb2ff6"/>
+<path aria-label="impressive SCSI AGP: seabass; consequently overriding: 252; Metal finally yellow: Argentine" role="graphics-symbol" aria-roledescription="bar" d="M540.0,190.6h40.666666666666664v50.400000000000006h-40.666666666666664Z" fill="#1ba4eb"/>
+<path aria-label="impressive SCSI AGP: seabass; consequently overriding: 41; Metal finally yellow: Computer male Iraqi" role="graphics-symbol" aria-roledescription="bar" d="M580.6666666666666,232.79999999999998h40.666666666666664v8.200000000000017h-40.666666666666664Z" fill="#49184f"/>
+<path aria-label="impressive SCSI AGP: tray; consequently overriding: 349; Metal finally yellow: capacity" role="graphics-symbol" aria-roledescription="bar" d="M773.8333333333334,171.20000000000002h40.666666666666664v69.79999999999998h-40.666666666666664Z" fill="#fb2ff6"/>
+<path aria-label="impressive SCSI AGP: tray; consequently overriding: 690; Metal finally yellow: Argentine" role="graphics-symbol" aria-roledescription="bar" d="M692.5,103.00000000000001h40.666666666666664v138h-40.666666666666664Z" fill="#1ba4eb"/>
+<path aria-label="impressive SCSI AGP: tray; consequently overriding: 612; Metal finally yellow: Computer male Iraqi" role="graphics-symbol" aria-roledescription="bar" d="M733.1666666666666,118.60000000000001h40.666666666666664v122.39999999999999h-40.666666666666664Z" fill="#49184f"/>
+<path aria-label="impressive SCSI AGP: ranch; consequently overriding: 208; Metal finally yellow: capacity" role="graphics-symbol" aria-roledescription="bar" d="M468.8333333333333,199.4h40.666666666666664v41.599999999999994h-40.666666666666664Z" fill="#fb2ff6"/>
+<path aria-label="impressive SCSI AGP: ranch; consequently overriding: 482; Metal finally yellow: Argentine" role="graphics-symbol" aria-roledescription="bar" d="M387.5,144.60000000000002h40.666666666666664v96.39999999999999h-40.666666666666664Z" fill="#1ba4eb"/>
+<path aria-label="impressive SCSI AGP: ranch; consequently overriding: 623; Metal finally yellow: Computer male Iraqi" role="graphics-symbol" aria-roledescription="bar" d="M428.1666666666667,116.4h40.666666666666664v124.6h-40.666666666666664Z" fill="#49184f"/>
+<path aria-label="impressive SCSI AGP: darkness; consequently overriding: 914; Metal finally yellow: capacity" role="graphics-symbol" aria-roledescription="bar" d="M163.83333333333331,58.19999999999999h40.666666666666664v182.8h-40.666666666666664Z" fill="#fb2ff6"/>
+<path aria-label="impressive SCSI AGP: darkness; consequently overriding: 417; Metal finally yellow: Argentine" role="graphics-symbol" aria-roledescription="bar" d="M82.5,157.6h40.666666666666664v83.4h-40.666666666666664Z" fill="#1ba4eb"/>
+<path aria-label="impressive SCSI AGP: darkness; consequently overriding: 212; Metal finally yellow: Computer male Iraqi" role="graphics-symbol" aria-roledescription="bar" d="M123.16666666666666,198.6h40.666666666666664v42.400000000000006h-40.666666666666664Z" fill="#49184f"/>
+<text aria-label="324,348,186,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="336.66666666666663" y="201.19187499999998" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">167</text>
+<text aria-label="243,267,79,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="255.33333333333334" y="94.59187500000002" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">700</text>
+<text aria-label="284,307,153,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="296.0" y="167.991875" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">333</text>
+<text aria-label="629,653,150,166" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="641.6666666666666" y="165.39187500000003" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">346</text>
+<text aria-label="548,572,169,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="560.3333333333333" y="184.19187499999998" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">252</text>
+<text aria-label="593,608,211,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="601.0" y="226.39187499999997" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">41</text>
+<text aria-label="782,806,149,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="794.1666666666666" y="164.791875" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">349</text>
+<text aria-label="700,724,81,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="712.8333333333334" y="96.59187500000002" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">690</text>
+<text aria-label="741,765,97,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="753.5" y="112.19187500000001" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">612</text>
+<text aria-label="477,501,178,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="489.16666666666663" y="192.991875" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">208</text>
+<text aria-label="395,419,123,139" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="407.8333333333333" y="138.191875" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">482</text>
+<text aria-label="436,460,95,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="448.5" y="109.99187500000001" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">623</text>
+<text aria-label="172,196,36,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.16666666666666" y="51.79187499999999" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">914</text>
+<text aria-label="90,114,136,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.83333333333333" y="151.19187499999998" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">417</text>
+<text aria-label="131,155,177,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.5" y="192.19187499999998" font-family="monospace" font-size="14.868749999999999px" fill="#000" opacity="1">212</text>
+</svg>

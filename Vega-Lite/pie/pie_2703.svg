@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="310" height="239" viewBox="0 0 310 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,343,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Facilitator driver Bicycle</text>
+<path aria-label="Identity Industrial transition: 896; carefully: Brand" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.8693913982728,200.4012465509049A75,75,0,0,0,105.0,59.0L105.0,91.0A43,43,0,0,1,124.99178440167641,172.0700480225188Z" fill="#e189ea" stroke="white" stroke-width="0"/>
+<path aria-label="Identity Industrial transition: 504; carefully: Luxurious" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.42391872532713,173.78796161851204A75,75,0,0,0,139.8693913982728,200.4012465509049L124.99178440167641,172.0700480225188A43,43,0,0,1,68.5497134025209,156.81176466128025Z" fill="#ec5a2a" stroke="white" stroke-width="0"/>
+<path aria-label="Identity Industrial transition: 718; carefully: bus" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,41.42391872532713,173.78796161851204L68.5497134025209,156.81176466128025A43,43,0,0,1,104.99999999999999,91.0Z" fill="#2070ec" stroke="white" stroke-width="0"/>
+<text aria-label="184,200,105,116" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.38230549572873" y="115.45161986943947" font-family="avenir" font-size="10px" fill="#e189ea" opacity="1">896</text>
+<text aria-label="73,89,213,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="81.51292371794834" y="223.88128249353304" font-family="avenir" font-size="10px" fill="#ec5a2a" opacity="1">504</text>
+<text aria-label="18,34,83,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.26912976856123" y="93.3943802635446" font-family="avenir" font-size="10px" fill="#2070ec" opacity="1">718</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#e189ea" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ec5a2a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#2070ec" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Brand</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Luxurious</text>
+<text aria-label="239,255,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">bus</text>
+<text aria-label="223,277,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">carefully</text>
+</svg>

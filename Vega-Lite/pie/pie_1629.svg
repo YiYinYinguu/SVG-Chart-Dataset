@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="301" height="239" viewBox="0 0 301 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="70,291,0,26" text-anchor="middle" x="181.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Organized tenetur</text>
+<path aria-label="steradian: 27; Plastic Franc Rubber: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M204.50610490766374,205.22122599387A75,75,0,0,0,214.1356198926493,201.2832125743849L196.021481018001,164.50172303372113A34,34,0,0,1,191.65610089147424,166.28695578388775Z" fill="#e3b98d" stroke="white" stroke-width="0"/>
+<path aria-label="steradian: 353; Plastic Franc Rubber: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.77425215455037,152.13582706539518A75,75,0,0,0,181.0,59.0L181.0,100.0A34,34,0,0,1,213.99099431006283,142.2215749363125Z" fill="#8181a6" stroke="white" stroke-width="0"/>
+<path aria-label="steradian: 169; Plastic Franc Rubber: Health" role="graphics-symbol" aria-roledescription="arc mark"  d="M214.1356198926493,201.2832125743849A75,75,0,0,0,253.77425215455037,152.13582706539518L213.99099431006283,142.2215749363125A34,34,0,0,1,196.021481018001,164.50172303372113Z" fill="#39edf9" stroke="white" stroke-width="0"/>
+<path aria-label="steradian: 476; Plastic Franc Rubber: wet" role="graphics-symbol" aria-roledescription="arc mark"  d="M181.0,59.0A75,75,0,0,0,133.0210768084649,191.6456670477563L159.2495548198374,160.13270239498286A34,34,0,0,1,181.0,100.0Z" fill="#f3d7ee" stroke="white" stroke-width="0"/>
+<path aria-label="steradian: 197; Plastic Franc Rubber: Pop" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.0210768084649,191.6456670477563A75,75,0,0,0,204.50610490766374,205.22122599387L191.65610089147424,166.28695578388775A34,34,0,0,1,159.2495548198374,160.13270239498286Z" fill="#0f5cc2" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#8181a6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#39edf9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#e3b98d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#0f5cc2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#f3d7ee" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Health</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Pop</text>
+<text aria-label="21,37,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">wet</text>
+</svg>

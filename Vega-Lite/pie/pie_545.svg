@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="296" height="239" viewBox="0 0 296 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle Cruiser</text>
+<path aria-label="Strategist: 503; interfaces: Rustic" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.039797725550855,165.72397999646256A75,75,0,0,0,120.15094644331822,207.45371891110554L105.0,134.0Z" fill="#fc53fe" stroke="black" stroke-width="3"/>
+<path aria-label="Strategist: 364; interfaces: Classical" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.77602917489267,91.47092501143706A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#fcfca7" stroke="black" stroke-width="3"/>
+<path aria-label="Strategist: 137; interfaces: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M44.259320164714026,90.00488875855314A75,75,0,0,0,32.57063910856746,114.53239406453316L105.0,134.0Z" fill="#ceffb1" stroke="black" stroke-width="3"/>
+<path aria-label="Strategist: 131; interfaces: Shore" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.29293006727366,140.62221277721702A75,75,0,0,0,37.039797725550855,165.72397999646256L105.0,134.0Z" fill="#1671be" stroke="black" stroke-width="3"/>
+<path aria-label="Strategist: 132; interfaces: Toyota" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.57063910856746,114.53239406453316A75,75,0,0,0,30.29293006727366,140.62221277721702L105.0,134.0Z" fill="#bfbf68" stroke="black" stroke-width="3"/>
+<path aria-label="Strategist: 185; interfaces: Marketing" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.15094644331822,207.45371891110554A75,75,0,0,0,153.04762631845088,191.58841554655334L105.0,134.0Z" fill="#a0af51" stroke="black" stroke-width="3"/>
+<path aria-label="Strategist: 73; interfaces: Kissimmee" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.04762631845088,191.58841554655334A75,75,0,0,0,163.25351211801575,181.2390550912716L105.0,134.0Z" fill="#ed60fa" stroke="black" stroke-width="3"/>
+<path aria-label="Strategist: 355; interfaces: silver" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,44.259320164714026,90.00488875855314L105.0,134.0Z" fill="#cca15c" stroke="black" stroke-width="3"/>
+<path aria-label="Strategist: 483; interfaces: Customer" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.25351211801575,181.2390550912716A75,75,0,0,0,166.77602917489267,91.47092501143706L105.0,134.0Z" fill="#ee7d8d" stroke="black" stroke-width="3"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#fcfca7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ee7d8d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ed60fa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#a0af51" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#fc53fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#1671be" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#bfbf68" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#ceffb1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#cca15c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Classical</text>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Customer</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Kissimmee</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Marketing</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Rustic</text>
+<text aria-label="239,266,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Shore</text>
+<text aria-label="239,272,129,140" text-anchor="start" x="239.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Toyota</text>
+<text aria-label="239,277,145,156" text-anchor="start" x="239.0" y="155.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="239,272,161,172" text-anchor="start" x="239.0" y="171.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">silver</text>
+</svg>

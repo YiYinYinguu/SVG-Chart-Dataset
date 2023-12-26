@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="818" height="313" viewBox="0 0 818 313" style="background-color: rgb(255, 255, 255);">
+<line x1="196.5" y1="34.5" x2="196.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="433.5" y1="34.5" x2="433.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="670.5" y1="34.5" x2="670.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="234.5" x2="813.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="198.5" x2="813.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="163.5" x2="813.5" y2="163.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="127.5" x2="813.5" y2="127.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="91.5" x2="813.5" y2="91.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="55.5" x2="813.5" y2="55.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="185,201,241,305" text-anchor="end" x="196.3125" y="241.5" transform="rotate(270.0, 201.3125, 241.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">kick-off</text>
+<text aria-label="422,438,241,305" text-anchor="end" x="433.5" y="241.5" transform="rotate(270.0, 438.5, 241.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">platform</text>
+<text aria-label="659,675,241,273" text-anchor="end" x="670.6875" y="241.5" transform="rotate(270.0, 675.6875, 241.5)" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">roar</text>
+<line aria-label="196,196,234,239" x1="196.5" y1="234.5" x2="196.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="433,433,234,239" x1="433.5" y1="234.5" x2="433.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="670,670,234,239" x1="670.5" y1="234.5" x2="670.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,813,234,234" x1="54.5" y1="234.5" x2="813.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,252,0,26" text-anchor="start" x="5.61083984375" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southeast Ruthenium</text>
+<text aria-label="39,47,224,240" text-anchor="end" x="47.5" y="239.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="31,47,188,204" text-anchor="end" x="47.5" y="203.78571428571428" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="23,47,153,169" text-anchor="end" x="47.5" y="168.07142857142856" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="23,47,117,133" text-anchor="end" x="47.5" y="132.35714285714286" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="23,47,81,97" text-anchor="end" x="47.5" y="96.64285714285714" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="23,47,45,61" text-anchor="end" x="47.5" y="60.928571428571416" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">250</text>
+<line aria-label="49,54,234,234" x1="54.5" y1="234.5" x2="49.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,198,198" x1="54.5" y1="198.5" x2="49.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,163,163" x1="54.5" y1="163.5" x2="49.5" y2="163.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,127,127" x1="54.5" y1="127.5" x2="49.5" y2="127.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,91,91" x1="54.5" y1="91.5" x2="49.5" y2="91.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,55,55" x1="54.5" y1="55.5" x2="49.5" y2="55.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,116,152" text-anchor="middle" x="17.11083984375" y="134.5" transform="rotate(-90.0, 15.11083984375, 134.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">matrix</text>
+<line aria-label="54,54,34,234" x1="54.5" y1="234.5" x2="54.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Redding male secondary: kick-off; matrix: 2; Southwest Soul Clothing: boliviano" role="graphics-symbol" aria-roledescription="bar" d="M101.4375,232.57142857142858h94.87500000000001v1.4285714285714164h-94.87500000000001Z" fill="#be5ed4"/>
+<path aria-label="Redding male secondary: kick-off; matrix: 246; Southwest Soul Clothing: wireless" role="graphics-symbol" aria-roledescription="bar" d="M196.3125,58.28571428571429h94.87500000000001v175.71428571428572h-94.87500000000001Z" fill="#abacb2"/>
+<path aria-label="Redding male secondary: platform; matrix: 84; Southwest Soul Clothing: boliviano" role="graphics-symbol" aria-roledescription="bar" d="M338.625,174.0h94.87500000000001v60h-94.87500000000001Z" fill="#be5ed4"/>
+<path aria-label="Redding male secondary: platform; matrix: 113; Southwest Soul Clothing: wireless" role="graphics-symbol" aria-roledescription="bar" d="M433.5,153.28571428571428h94.87500000000001v80.71428571428572h-94.87500000000001Z" fill="#abacb2"/>
+<path aria-label="Redding male secondary: roar; matrix: 262; Southwest Soul Clothing: boliviano" role="graphics-symbol" aria-roledescription="bar" d="M575.8125,46.857142857142854h94.87500000000001v187.14285714285714h-94.87500000000001Z" fill="#be5ed4"/>
+<path aria-label="Redding male secondary: roar; matrix: 80; Southwest Soul Clothing: wireless" role="graphics-symbol" aria-roledescription="bar" d="M670.6875,176.85714285714286h94.87500000000001v57.14285714285714h-94.87500000000001Z" fill="#abacb2"/>
+</svg>

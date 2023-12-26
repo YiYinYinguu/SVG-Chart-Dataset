@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="239" viewBox="0 0 279 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="76,271,0,26" text-anchor="middle" x="174.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Senior East SSD</text>
+<path aria-label="Republic: 76; Electronic provident Hybrid: turf" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.0,59.0A75,75,0,0,0,137.51754606588224,68.47114715680598L147.24620044831363,85.94550791499105A55,55,0,0,1,174.0,79.0Z" fill="#539ddc" stroke="black" stroke-width="3"/>
+<path aria-label="Republic: 856; Electronic provident Hybrid: Road" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.51754606588224,68.47114715680598A75,75,0,1,0,178.0086327548394,59.107204195351144L176.93966402021556,79.07861640992417A55,55,0,1,1,147.24620044831363,85.94550791499105Z" fill="#ffdec9" stroke="black" stroke-width="3"/>
+<path aria-label="Republic: 8; Electronic provident Hybrid: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.0086327548394,59.107204195351144A75,75,0,0,0,174.0,59.0L174.0,79.0A55,55,0,0,1,176.93966402021556,79.07861640992417Z" fill="#d0bc2d" stroke="black" stroke-width="3"/>
+<text aria-label="144,158,37,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.38491772140716" y="50.88766991101389" font-family="sans-serif" font-size="13px" fill="#539ddc" opacity="1">76</text>
+<text aria-label="183,204,212,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.27815810957406" y="225.68578165063659" font-family="sans-serif" font-size="13px" fill="#ffdec9" opacity="1">856</text>
+<text aria-label="172,179,35,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.4060395983778" y="48.03216700702947" font-family="sans-serif" font-size="13px" fill="#d0bc2d" opacity="1">8</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#d0bc2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ffdec9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#539ddc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Road</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">turf</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="334" height="270" viewBox="0 0 334 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="186,329,0,26" text-anchor="end" x="329.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">female gold</text>
+<path aria-label="yellow: 253; Shilling Blues target: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.30893135170366,207.98304000903886A75,75,0,0,0,150.95174368343504,74.72574545005321L132.57104621006104,98.43544727003193A45,45,0,0,1,112.3853588110222,178.38982400542332Z" fill="#2dfcd1" stroke="black" stroke-width="0"/>
+<path aria-label="yellow: 135; Shilling Blues target: orange" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,34.15221561964016,109.39123228615375L62.4913293717841,119.23473937169226A45,45,0,0,1,104.99999999999999,89.0Z" fill="#8a3403" stroke="black" stroke-width="0"/>
+<path aria-label="yellow: 122; Shilling Blues target: navigating" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.15221561964016,109.39123228615375A75,75,0,0,0,51.84569606419159,186.91143518276274L73.10741763851496,165.74686110965763A45,45,0,0,1,62.4913293717841,119.23473937169226Z" fill="#fa9797" stroke="black" stroke-width="0"/>
+<path aria-label="yellow: 104; Shilling Blues target: navigate" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.84569606419159,186.91143518276274A75,75,0,0,0,117.30893135170366,207.98304000903886L112.3853588110222,178.38982400542332A45,45,0,0,1,73.10741763851496,165.74686110965763Z" fill="#acf7d2" stroke="black" stroke-width="0"/>
+<path aria-label="yellow: 72; Shilling Blues target: Molybdenum" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.95174368343504,74.72574545005321A75,75,0,0,0,105.0,59.0L105.0,89.0A45,45,0,0,1,132.57104621006104,98.43544727003193Z" fill="#39addc" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#39addc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M93.0,258.25A5,5,0,1,1,83.0,258.25A5,5,0,1,1,93.0,258.25" fill="#2dfcd1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M150.0,258.25A5,5,0,1,1,140.0,258.25A5,5,0,1,1,150.0,258.25" fill="#acf7d2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,258.25A5,5,0,1,1,207.0,258.25A5,5,0,1,1,217.0,258.25" fill="#fa9797" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M294.0,258.25A5,5,0,1,1,284.0,258.25A5,5,0,1,1,294.0,258.25" fill="#8a3403" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Molybdenum</text>
+<text aria-label="98,131,251,262" text-anchor="start" x="98.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="155,199,251,262" text-anchor="start" x="155.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">navigate</text>
+<text aria-label="222,277,251,262" text-anchor="start" x="222.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">navigating</text>
+<text aria-label="299,332,251,262" text-anchor="start" x="299.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">orange</text>
+</svg>

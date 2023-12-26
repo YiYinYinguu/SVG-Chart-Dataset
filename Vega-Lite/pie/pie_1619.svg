@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="224" height="270" viewBox="0 0 224 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="6,214,0,26" text-anchor="middle" x="110.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Stage weber pile</text>
+<path aria-label="Land blue withdrawal: 71; atop Bicycle: killer" role="graphics-symbol" aria-roledescription="arc mark"  d="M85.89204010226287,62.980240287867076A75,75,0,0,0,38.67076127786348,110.82372542187895L60.54506115265201,117.93111629250274A52,52,0,0,1,93.28514780423558,84.75963326625451Z" fill="#cc983e" stroke="black" stroke-width="0"/>
+<path aria-label="Land blue withdrawal: 25; atop Bicycle: superstructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M109.99999999999999,59.0A75,75,0,0,0,85.89204010226287,62.980240287867076L93.28514780423558,84.75963326625451A52,52,0,0,1,109.99999999999999,82.0Z" fill="#514bef" stroke="black" stroke-width="0"/>
+<path aria-label="Land blue withdrawal: 384; atop Bicycle: Nebraska" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.67076127786348,110.82372542187895A75,75,0,1,0,110.0,59.0L110.0,82.0A52,52,0,1,1,60.54506115265201,117.93111629250274Z" fill="#d29498" stroke="black" stroke-width="0"/>
+<text aria-label="39,52,62,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.94523544603456" y="74.77827004948335" font-family="sans-serif" font-size="12px" fill="#cc983e" opacity="1">71</text>
+<text aria-label="88,101,37,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="95.339407394487" y="49.202100112360895" font-family="sans-serif" font-size="12px" fill="#514bef" opacity="1">25</text>
+<text aria-label="153,172,198,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.90067270632258" y="210.81152949374527" font-family="sans-serif" font-size="12px" fill="#d29498" opacity="1">384</text>
+<path  d="M21.0,258.25A5,5,0,1,1,11.0,258.25A5,5,0,1,1,21.0,258.25" fill="#d29498" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M94.0,258.25A5,5,0,1,1,84.0,258.25A5,5,0,1,1,94.0,258.25" fill="#cc983e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M144.0,258.25A5,5,0,1,1,134.0,258.25A5,5,0,1,1,144.0,258.25" fill="#514bef" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="26,70,251,262" text-anchor="start" x="26.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Nebraska</text>
+<text aria-label="99,132,251,262" text-anchor="start" x="99.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">killer</text>
+<text aria-label="149,226,251,262" text-anchor="start" x="149.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">superstructure</text>
+</svg>

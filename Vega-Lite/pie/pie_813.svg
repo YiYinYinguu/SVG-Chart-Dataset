@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="62,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Handcrafted</text>
+<path aria-label="unexpectedly face: 66; Dakota Honduras Michigan: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.99460833094605,181.89928932385322A75,75,0,0,0,105.0,106.0L105.0,131.0A50,50,0,0,1,154.99640555396405,181.59952621590213Z" fill="#dd9bab" stroke="white" stroke-width="3"/>
+<path aria-label="unexpectedly face: 111; Dakota Honduras Michigan: UDP" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.0524597379045,214.80868014068432A75,75,0,0,0,179.99460833094605,181.89928932385322L154.99640555396405,181.59952621590213A50,50,0,0,1,60.36830649193633,203.53912009378953Z" fill="#0be713" stroke="white" stroke-width="3"/>
+<path aria-label="unexpectedly face: 85; Dakota Honduras Michigan: incidentally" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,38.0524597379045,214.80868014068432L60.36830649193633,203.53912009378953A50,50,0,0,1,104.99999999999999,131.0Z" fill="#2d17eb" stroke="white" stroke-width="3"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#dd9bab" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,56.25A5,5,0,1,1,78.0,56.25A5,5,0,1,1,88.0,56.25" fill="#0be713" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,56.25A5,5,0,1,1,120.0,56.25A5,5,0,1,1,130.0,56.25" fill="#2d17eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="93,109,49,60" text-anchor="start" x="93.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">UDP</text>
+<text aria-label="135,201,49,60" text-anchor="start" x="135.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">incidentally</text>
+<text aria-label="5,149,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Dakota Honduras Michigan</text>
+</svg>

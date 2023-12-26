@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="483" height="270" viewBox="0 0 483 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="426,478,0,26" text-anchor="end" x="478.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">male</text>
+<path aria-label="ADP: 292; Bike Officer: beware" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.25314842236145,213.4466407063178A75,75,0,0,0,171.71190727929593,130.7287084112865L105.0,165.0Z" fill="#aaeaeb" stroke="black" stroke-width="0"/>
+<path aria-label="ADP: 272; Bike Officer: Greenland" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.71190727929593,130.7287084112865A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#8ec4ec" stroke="black" stroke-width="0"/>
+<path aria-label="ADP: 5; Bike Officer: open" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,103.48875238762854,90.01522734145217L105.0,165.0Z" fill="#5c25db" stroke="black" stroke-width="0"/>
+<path aria-label="ADP: 391; Bike Officer: firewall" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.90870560913804,122.93254035638336A75,75,0,0,0,63.2458784345182,227.30243440103257L105.0,165.0Z" fill="#8370f2" stroke="black" stroke-width="0"/>
+<path aria-label="ADP: 237; Bike Officer: linkage" role="graphics-symbol" aria-roledescription="arc mark"  d="M103.48875238762854,90.01522734145217A75,75,0,0,0,42.90870560913804,122.93254035638336L105.0,165.0Z" fill="#3ae3c0" stroke="black" stroke-width="0"/>
+<path aria-label="ADP: 337; Bike Officer: compelling" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.72441046518502,231.18634891706336A75,75,0,0,0,162.25314842236145,213.4466407063178L105.0,165.0Z" fill="#e065ac" stroke="black" stroke-width="0"/>
+<path aria-label="ADP: 25; Bike Officer: disintermediate" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.2458784345182,227.30243440103257A75,75,0,0,0,69.72441046518502,231.18634891706336L105.0,165.0Z" fill="#5adf6b" stroke="black" stroke-width="0"/>
+<text aria-label="186,202,168,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.41729636362834" y="178.22482816574717" font-family="monospace" font-size="10px" fill="#aaeaeb" opacity="1">292</text>
+<text aria-label="143,160,81,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.89723077335665" y="91.18431315290783" font-family="monospace" font-size="10px" fill="#8ec4ec" opacity="1">272</text>
+<text aria-label="101,106,68,79" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="104.09320540450588" y="78.00456831837751" font-family="monospace" font-size="10px" fill="#5c25db" opacity="1">5</text>
+<text aria-label="8,24,175,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.661445159582513" y="185.21335901869685" font-family="monospace" font-size="10px" fill="#8370f2" opacity="1">391</text>
+<text aria-label="53,70,78,89" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="62.03047796004044" y="88.92016580911775" font-family="monospace" font-size="10px" fill="#3ae3c0" opacity="1">237</text>
+<text aria-label="113,130,246,257" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.94625985699695" y="256.3901820162123" font-family="monospace" font-size="10px" fill="#e065ac" opacity="1">337</text>
+<text aria-label="53,64,235,246" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="58.72346138377797" y="245.19120399178465" font-family="monospace" font-size="10px" fill="#5adf6b" opacity="1">25</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#8ec4ec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,40.25A5,5,0,1,1,78.0,40.25A5,5,0,1,1,88.0,40.25" fill="#aaeaeb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,40.25A5,5,0,1,1,135.0,40.25A5,5,0,1,1,145.0,40.25" fill="#e065ac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M222.0,40.25A5,5,0,1,1,212.0,40.25A5,5,0,1,1,222.0,40.25" fill="#5adf6b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M324.0,40.25A5,5,0,1,1,314.0,40.25A5,5,0,1,1,324.0,40.25" fill="#8370f2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M391.0,40.25A5,5,0,1,1,381.0,40.25A5,5,0,1,1,391.0,40.25" fill="#3ae3c0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M453.0,40.25A5,5,0,1,1,443.0,40.25A5,5,0,1,1,453.0,40.25" fill="#5c25db" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Greenland</text>
+<text aria-label="93,126,33,44" text-anchor="start" x="93.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">beware</text>
+<text aria-label="150,205,33,44" text-anchor="start" x="150.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">compelling</text>
+<text aria-label="227,309,33,44" text-anchor="start" x="227.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">disintermediate</text>
+<text aria-label="329,373,33,44" text-anchor="start" x="329.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">firewall</text>
+<text aria-label="396,434,33,44" text-anchor="start" x="396.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">linkage</text>
+<text aria-label="458,480,33,44" text-anchor="start" x="458.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">open</text>
+</svg>

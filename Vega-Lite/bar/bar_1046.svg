@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="808" height="317" viewBox="0 0 808 317" style="background-color: rgb(255, 255, 255);">
+<line x1="40.5" y1="241.5" x2="803.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="191.5" x2="803.5" y2="191.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="141.5" x2="803.5" y2="141.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="91.5" x2="803.5" y2="91.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="41.5" x2="803.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="102,118,248,312" text-anchor="end" x="113.83870967741936" y="248.5" transform="rotate(270.0, 118.83870967741936, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">beginner</text>
+<text aria-label="225,241,248,280" text-anchor="end" x="236.90322580645162" y="248.5" transform="rotate(270.0, 241.90322580645162, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">harp</text>
+<text aria-label="348,364,248,312" text-anchor="end" x="359.9677419354839" y="248.5" transform="rotate(270.0, 364.9677419354839, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">hospital</text>
+<text aria-label="472,488,248,296" text-anchor="end" x="483.03225806451616" y="248.5" transform="rotate(270.0, 488.03225806451616, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">hummus</text>
+<text aria-label="595,611,248,288" text-anchor="end" x="606.0967741935484" y="248.5" transform="rotate(270.0, 611.0967741935484, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">messy</text>
+<text aria-label="718,734,248,280" text-anchor="end" x="729.1612903225806" y="248.5" transform="rotate(270.0, 734.1612903225806, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">rape</text>
+<line aria-label="113,113,241,246" x1="113.5" y1="241.5" x2="113.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="236,236,241,246" x1="236.5" y1="241.5" x2="236.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="359,359,241,246" x1="359.5" y1="241.5" x2="359.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="483,483,241,246" x1="483.5" y1="241.5" x2="483.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="606,606,241,246" x1="606.5" y1="241.5" x2="606.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="729,729,241,246" x1="729.5" y1="241.5" x2="729.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,803,241,241" x1="40.5" y1="241.5" x2="803.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">North</text>
+<text aria-label="30,38,231,247" text-anchor="end" x="38.5" y="246.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="22,38,181,197" text-anchor="end" x="38.5" y="196.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="22,38,131,147" text-anchor="end" x="38.5" y="146.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="22,38,81,97" text-anchor="end" x="38.5" y="96.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="22,38,31,47" text-anchor="end" x="38.5" y="46.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">80</text>
+<text aria-label="2,14,111,171" text-anchor="middle" x="16.5" y="141.5" transform="rotate(-90.0, 14.5, 141.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bangladesh</text>
+<line aria-label="40,40,41,241" x1="40.5" y1="241.5" x2="40.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="vault Latin calculate: beginner; Bangladesh: 76; South female Metal: Tesla" role="graphics-symbol" aria-roledescription="bar" d="M97.43010752688173,51.00000000000001h32.81720430107527v190h-32.81720430107527Z" fill="#1b123b"/>
+<path aria-label="vault Latin calculate: beginner; Bangladesh: 15; South female Metal: Frozen" role="graphics-symbol" aria-roledescription="bar" d="M64.61290322580646,203.5h32.81720430107527v37.5h-32.81720430107527Z" fill="#77c79b"/>
+<path aria-label="vault Latin calculate: beginner; Bangladesh: 11; South female Metal: UDP Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M130.247311827957,213.5h32.81720430107527v27.5h-32.81720430107527Z" fill="#cf1f1b"/>
+<path aria-label="vault Latin calculate: hospital; Bangladesh: 50; South female Metal: Tesla" role="graphics-symbol" aria-roledescription="bar" d="M343.55913978494624,116.0h32.81720430107527v125h-32.81720430107527Z" fill="#1b123b"/>
+<path aria-label="vault Latin calculate: hospital; Bangladesh: 25; South female Metal: Frozen" role="graphics-symbol" aria-roledescription="bar" d="M310.741935483871,178.5h32.81720430107527v62.5h-32.81720430107527Z" fill="#77c79b"/>
+<path aria-label="vault Latin calculate: hospital; Bangladesh: 57; South female Metal: UDP Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M376.3763440860215,98.5h32.81720430107527v142.5h-32.81720430107527Z" fill="#cf1f1b"/>
+<path aria-label="vault Latin calculate: rape; Bangladesh: 33; South female Metal: Tesla" role="graphics-symbol" aria-roledescription="bar" d="M712.752688172043,158.5h32.81720430107527v82.5h-32.81720430107527Z" fill="#1b123b"/>
+<path aria-label="vault Latin calculate: rape; Bangladesh: 45; South female Metal: Frozen" role="graphics-symbol" aria-roledescription="bar" d="M679.9354838709677,128.5h32.81720430107527v112.5h-32.81720430107527Z" fill="#77c79b"/>
+<path aria-label="vault Latin calculate: rape; Bangladesh: 19; South female Metal: UDP Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M745.5698924731182,193.5h32.81720430107527v47.5h-32.81720430107527Z" fill="#cf1f1b"/>
+<path aria-label="vault Latin calculate: harp; Bangladesh: 22; South female Metal: Tesla" role="graphics-symbol" aria-roledescription="bar" d="M220.49462365591398,186.0h32.81720430107527v55h-32.81720430107527Z" fill="#1b123b"/>
+<path aria-label="vault Latin calculate: harp; Bangladesh: 49; South female Metal: Frozen" role="graphics-symbol" aria-roledescription="bar" d="M187.67741935483872,118.49999999999999h32.81720430107527v122.50000000000001h-32.81720430107527Z" fill="#77c79b"/>
+<path aria-label="vault Latin calculate: harp; Bangladesh: 75; South female Metal: UDP Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M253.31182795698925,53.5h32.81720430107527v187.5h-32.81720430107527Z" fill="#cf1f1b"/>
+<path aria-label="vault Latin calculate: messy; Bangladesh: 6; South female Metal: Tesla" role="graphics-symbol" aria-roledescription="bar" d="M589.6881720430108,226.0h32.81720430107527v15h-32.81720430107527Z" fill="#1b123b"/>
+<path aria-label="vault Latin calculate: messy; Bangladesh: 4; South female Metal: Frozen" role="graphics-symbol" aria-roledescription="bar" d="M556.8709677419355,231.0h32.81720430107527v10h-32.81720430107527Z" fill="#77c79b"/>
+<path aria-label="vault Latin calculate: messy; Bangladesh: 34; South female Metal: UDP Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M622.505376344086,156.0h32.81720430107527v85.00000000000001h-32.81720430107527Z" fill="#cf1f1b"/>
+<path aria-label="vault Latin calculate: hummus; Bangladesh: 48; South female Metal: Tesla" role="graphics-symbol" aria-roledescription="bar" d="M466.6236559139785,121.0h32.81720430107527v120h-32.81720430107527Z" fill="#1b123b"/>
+<path aria-label="vault Latin calculate: hummus; Bangladesh: 34; South female Metal: Frozen" role="graphics-symbol" aria-roledescription="bar" d="M433.80645161290323,156.0h32.81720430107527v85.00000000000001h-32.81720430107527Z" fill="#77c79b"/>
+<path aria-label="vault Latin calculate: hummus; Bangladesh: 62; South female Metal: UDP Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M499.44086021505376,86.0h32.81720430107527v155h-32.81720430107527Z" fill="#cf1f1b"/>
+</svg>

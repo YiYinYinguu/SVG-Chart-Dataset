@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="245,284,0,26" text-anchor="end" x="284.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">hot</text>
+<path aria-label="explicabo Female: 7; payment: Card" role="graphics-symbol" aria-roledescription="arc mark"  d="M193.01560336745146,59.543845815669485A75,75,0,0,0,184.0,59.0L184.0,90.0A44,44,0,0,1,189.28915397557154,90.31905621185943Z" fill="#f2b9cc" stroke="black" stroke-width="1"/>
+<path aria-label="explicabo Female: 186; payment: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.0,59.0A75,75,0,1,0,188.51599580243447,208.8639150853894L186.6493842040949,177.9201635167618A44,44,0,1,1,184.0,90.0Z" fill="#2faa2d" stroke="black" stroke-width="1"/>
+<path aria-label="explicabo Female: 133; payment: Group" role="graphics-symbol" aria-roledescription="arc mark"  d="M234.10478981601503,189.80779549035202A75,75,0,0,0,193.01560336745146,59.543845815669485L189.28915397557154,90.31905621185943A44,44,0,0,1,213.3948100253955,166.74057335433986Z" fill="#4bbb8b" stroke="black" stroke-width="1"/>
+<path aria-label="explicabo Female: 39; payment: Outdoors" role="graphics-symbol" aria-roledescription="arc mark"  d="M188.51599580243447,208.8639150853894A75,75,0,0,0,234.10478981601503,189.80779549035202L213.3948100253955,166.74057335433986A44,44,0,0,1,186.6493842040949,177.9201635167618Z" fill="#c2c3fc" stroke="black" stroke-width="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#f2b9cc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#4bbb8b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c2c3fc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#2faa2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Card</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Group</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Outdoors</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">payment</text>
+</svg>

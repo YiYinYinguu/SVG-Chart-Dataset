@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="269" height="239" viewBox="0 0 269 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="112,216,0,26" text-anchor="middle" x="164.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Human or</text>
+<path aria-label="deposit Lane override: 342; hypothermia Infrastructure: nobis" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.0,59.0A75,75,0,0,0,97.8210184777172,98.71059075766001L131.35170244900715,116.59055810711227A37,37,0,0,1,164.0,97.0Z" fill="#f19384" stroke="black" stroke-width="0"/>
+<path aria-label="deposit Lane override: 151; hypothermia Infrastructure: grey" role="graphics-symbol" aria-roledescription="arc mark"  d="M97.8210184777172,98.71059075766001A75,75,0,0,0,89.00599338867227,133.05185845986378L127.00295673841165,133.5322501735328A37,37,0,0,1,131.35170244900715,116.59055810711227Z" fill="#de4e5c" stroke="black" stroke-width="0"/>
+<path aria-label="deposit Lane override: 612; hypothermia Infrastructure: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.04874974850046,199.26565026758757A75,75,0,0,0,238.1385945372868,145.33440779378398L200.57503997172813,139.59164117826677A37,37,0,0,1,145.77071654259356,166.19772079867653Z" fill="#c2606e" stroke="black" stroke-width="0"/>
+<path aria-label="deposit Lane override: 47; hypothermia Infrastructure: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M89.00599338867227,133.05185845986378A75,75,0,0,0,89.69155480883668,144.1614454322147L127.34116703902609,139.01297974655924A37,37,0,0,1,127.00295673841165,133.5322501735328Z" fill="#bc5ef1" stroke="black" stroke-width="0"/>
+<path aria-label="deposit Lane override: 545; hypothermia Infrastructure: Cargo" role="graphics-symbol" aria-roledescription="arc mark"  d="M238.1385945372868,145.33440779378398A75,75,0,0,0,164.0,59.0L164.0,97.0A37,37,0,0,1,200.57503997172813,139.59164117826677Z" fill="#8d58fb" stroke="black" stroke-width="0"/>
+<path aria-label="deposit Lane override: 291; hypothermia Infrastructure: Spur" role="graphics-symbol" aria-roledescription="arc mark"  d="M89.69155480883668,144.1614454322147A75,75,0,0,0,127.04874974850046,199.26565026758757L145.77071654259356,166.19772079867653A37,37,0,0,1,127.34116703902609,139.01297974655924Z" fill="#dec53f" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#8d58fb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#c2606e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#dec53f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#bc5ef1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#de4e5c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#f19384" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Cargo</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Spur</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="21,43,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">grey</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">nobis</text>
+</svg>

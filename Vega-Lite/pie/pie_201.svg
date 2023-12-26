@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="306" height="239" viewBox="0 0 306 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="46,163,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">implement</text>
+<path aria-label="unnatural array: 26; scalable Representative candela: whiteboard" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.081619136804193,137.49802927905634L68.04026544082339,135.72569444433447A37,37,0,0,1,105.0,97.0Z" fill="#af14fd" stroke="black" stroke-width="0"/>
+<path aria-label="unnatural array: 35; scalable Representative candela: Human" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.62167344653005,176.7524193660337A75,75,0,0,0,105.0,59.0L105.0,97.0A37,37,0,0,1,135.4000255669548,155.09119355390996Z" fill="#790fa4" stroke="black" stroke-width="0"/>
+<path aria-label="unnatural array: 8; scalable Representative candela: International" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.7371282005727,200.98362621400935A75,75,0,0,0,166.62167344653005,176.7524193660337L135.4000255669548,155.09119355390996A37,37,0,0,1,121.64364991228253,167.0452555989113Z" fill="#eaf71b" stroke="black" stroke-width="0"/>
+<path aria-label="unnatural array: 2; scalable Representative candela: ouch" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.42004726896015,193.56062381335653A75,75,0,0,0,67.16378524135206,198.7566278672498L86.33413405240034,165.94660308117656A37,37,0,0,1,82.51388998602033,163.38324108125587Z" fill="#5a1a6d" stroke="black" stroke-width="0"/>
+<path aria-label="unnatural array: 16; scalable Representative candela: indeed" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.16378524135206,198.7566278672498A75,75,0,0,0,138.7371282005727,200.98362621400935L121.64364991228253,167.0452555989113A37,37,0,0,1,86.33413405240034,165.94660308117656Z" fill="#78ff6b" stroke="black" stroke-width="0"/>
+<path aria-label="unnatural array: 14; scalable Representative candela: parsing" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.081619136804193,137.49802927905634A75,75,0,0,0,59.42004726896015,193.56062381335653L82.51388998602033,163.38324108125587A37,37,0,0,1,68.04026544082339,135.72569444433447Z" fill="#adcce1" stroke="black" stroke-width="0"/>
+<text aria-label="34,44,65,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="39.893214016747535" y="74.86219814854277" font-family="avenir" font-size="9px" fill="#af14fd" opacity="1">26</text>
+<text aria-label="179,189,86,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.74102235214832" y="95.27028212132055" font-family="avenir" font-size="9px" fill="#790fa4" opacity="1">35</text>
+<text aria-label="161,166,195,205" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.03357415299462" y="204.93406452379313" font-family="avenir" font-size="9px" fill="#eaf71b" opacity="1">8</text>
+<text aria-label="52,57,202,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.85329557741145" y="211.7349184488318" font-family="avenir" font-size="9px" fill="#5a1a6d" opacity="1">2</text>
+<text aria-label="97,107,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.20101239571467" y="226.95646540627894" font-family="avenir" font-size="9px" fill="#78ff6b" opacity="1">16</text>
+<text aria-label="20,30,169,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.258977647851665" y="178.72971787867945" font-family="avenir" font-size="9px" fill="#adcce1" opacity="1">14</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#790fa4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#eaf71b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#78ff6b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#5a1a6d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#adcce1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#af14fd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Human</text>
+<text aria-label="239,310,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">International</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">indeed</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">ouch</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">parsing</text>
+<text aria-label="239,294,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">whiteboard</text>
+</svg>

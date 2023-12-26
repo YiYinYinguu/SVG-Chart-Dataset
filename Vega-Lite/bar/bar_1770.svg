@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="431" height="288" viewBox="0 0 431 288" style="background-color: rgb(255, 255, 255);">
+<line x1="111.5" y1="34.5" x2="111.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="237.5" y1="34.5" x2="237.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="363.5" y1="34.5" x2="363.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="102,115,241,267" text-anchor="end" x="111.83333333333334" y="241.5" transform="rotate(270.0, 115.83333333333334, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">dash</text>
+<text aria-label="228,241,241,267" text-anchor="end" x="237.5" y="241.5" transform="rotate(270.0, 241.5, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">font</text>
+<text aria-label="354,367,241,280" text-anchor="end" x="363.1666666666667" y="241.5" transform="rotate(270.0, 367.1666666666667, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">mantel</text>
+<line aria-label="111,111,234,239" x1="111.5" y1="234.5" x2="111.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="237,237,234,239" x1="237.5" y1="234.5" x2="237.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="363,363,234,239" x1="363.5" y1="234.5" x2="363.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,426,234,234" x1="49.5" y1="234.5" x2="426.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="133,341,0,26" text-anchor="middle" x="237.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Modern Beaverton</text>
+<text aria-label="36,42,226,239" text-anchor="end" x="42.5" y="238.5" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="29,42,170,183" text-anchor="end" x="42.5" y="182.94444444444443" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="23,42,115,128" text-anchor="end" x="42.5" y="127.38888888888889" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="23,42,59,72" text-anchor="end" x="42.5" y="71.83333333333333" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="44,49,234,234" x1="49.5" y1="234.5" x2="44.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,178,178" x1="49.5" y1="178.5" x2="44.5" y2="178.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,123,123" x1="49.5" y1="123.5" x2="44.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,49,67,67" x1="49.5" y1="67.5" x2="44.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,119,149" text-anchor="middle" x="17.388671875" y="134.5" transform="rotate(-90.0, 15.388671875, 134.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Mason</text>
+<path aria-label="ouch Communications: dash; Mason: 79; bluetooth: beyond North Man" role="graphics-symbol" aria-roledescription="bar" d="M72.24833333333333,146.22222222222223h79.17000000000002v87.77777777777777h-79.17000000000002Z" fill="#d6e6fe"/>
+<path aria-label="ouch Communications: mantel; Mason: 82; bluetooth: beyond North Man" role="graphics-symbol" aria-roledescription="bar" d="M323.58166666666665,142.8888888888889h79.17000000000002v91.1111111111111h-79.17000000000002Z" fill="#d6e6fe"/>
+<path aria-label="ouch Communications: font; Mason: 173; bluetooth: beyond North Man" role="graphics-symbol" aria-roledescription="bar" d="M197.915,41.77777777777777h79.17000000000002v192.22222222222223h-79.17000000000002Z" fill="#d6e6fe"/>
+<text aria-label="108,115,138,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.83333333333334" y="144.2637222222222" font-family="sans-serif" font-size="5.654999999999999px" fill="#000" opacity="1">79</text>
+<text aria-label="359,366,135,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="363.1666666666667" y="140.9303888888889" font-family="sans-serif" font-size="5.654999999999999px" fill="#000" opacity="1">82</text>
+<text aria-label="232,242,34,40" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="237.5" y="39.81927777777777" font-family="sans-serif" font-size="5.654999999999999px" fill="#000" opacity="1">173</text>
+</svg>

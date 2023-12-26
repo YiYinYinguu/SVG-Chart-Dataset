@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="941" height="318" viewBox="0 0 941 318" style="background-color: rgb(255, 255, 255);">
+<line x1="82.5" y1="63.5" x2="82.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="196.5" y1="63.5" x2="196.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="310.5" y1="63.5" x2="310.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="424.5" y1="63.5" x2="424.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="537.5" y1="63.5" x2="537.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="651.5" y1="63.5" x2="651.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="765.5" y1="63.5" x2="765.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="879.5" y1="63.5" x2="879.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="26.5" y1="263.5" x2="936.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="26.5" y1="223.5" x2="936.5" y2="223.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="26.5" y1="183.5" x2="936.5" y2="183.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="26.5" y1="143.5" x2="936.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="26.5" y1="103.5" x2="936.5" y2="103.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="26.5" y1="63.5" x2="936.5" y2="63.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="74,85,270,292" text-anchor="end" x="82.875" y="270.5" transform="rotate(270.0, 85.875, 270.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">alto</text>
+<text aria-label="188,199,270,320" text-anchor="end" x="196.625" y="270.5" transform="rotate(270.0, 199.625, 270.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">balalaika</text>
+<text aria-label="302,313,270,303" text-anchor="end" x="310.375" y="270.5" transform="rotate(270.0, 313.375, 270.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">bonsai</text>
+<text aria-label="416,427,270,298" text-anchor="end" x="424.125" y="270.5" transform="rotate(270.0, 427.125, 270.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">cello</text>
+<text aria-label="529,540,270,309" text-anchor="end" x="537.875" y="270.5" transform="rotate(270.0, 540.875, 270.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">egghead</text>
+<text aria-label="643,654,270,298" text-anchor="end" x="651.625" y="270.5" transform="rotate(270.0, 654.625, 270.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">robin</text>
+<text aria-label="757,768,270,292" text-anchor="end" x="765.375" y="270.5" transform="rotate(270.0, 768.375, 270.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">tire</text>
+<text aria-label="871,882,270,298" text-anchor="end" x="879.125" y="270.5" transform="rotate(270.0, 882.125, 270.5)" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">tummy</text>
+<line aria-label="82,82,263,268" x1="82.5" y1="263.5" x2="82.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="196,196,263,268" x1="196.5" y1="263.5" x2="196.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="310,310,263,268" x1="310.5" y1="263.5" x2="310.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="424,424,263,268" x1="424.5" y1="263.5" x2="424.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="537,537,263,268" x1="537.5" y1="263.5" x2="537.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="651,651,263,268" x1="651.5" y1="263.5" x2="651.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="765,765,263,268" x1="765.5" y1="263.5" x2="765.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="879,879,263,268" x1="879.5" y1="263.5" x2="879.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="26,936,263,263" x1="26.5" y1="263.5" x2="936.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="780,936,0,26" text-anchor="end" x="936.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">connive Data</text>
+<text aria-label="19,24,256,267" text-anchor="end" x="24.5" y="266.5" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="13,24,216,227" text-anchor="end" x="24.5" y="226.5" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="13,24,176,187" text-anchor="end" x="24.5" y="186.5" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="13,24,136,147" text-anchor="end" x="24.5" y="146.5" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="13,24,96,107" text-anchor="end" x="24.5" y="106.5" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">80</text>
+<text aria-label="8,24,56,67" text-anchor="end" x="24.5" y="66.5" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">100</text>
+<path aria-label="in payment Southwest: bonsai; slave Chief: 94; East: farad" role="graphics-symbol" aria-roledescription="bar" d="M269.425,75.00000000000001h81.9v188h-81.9Z" fill="#30fec9"/>
+<path aria-label="in payment Southwest: tummy; slave Chief: 36; East: farad" role="graphics-symbol" aria-roledescription="bar" d="M838.175,191.0h81.9v72h-81.9Z" fill="#30fec9"/>
+<path aria-label="in payment Southwest: cello; slave Chief: 69; East: farad" role="graphics-symbol" aria-roledescription="bar" d="M383.175,125.00000000000001h81.9v138h-81.9Z" fill="#30fec9"/>
+<path aria-label="in payment Southwest: alto; slave Chief: 56; East: farad" role="graphics-symbol" aria-roledescription="bar" d="M41.925,151.0h81.9v112.00000000000001h-81.9Z" fill="#30fec9"/>
+<path aria-label="in payment Southwest: tire; slave Chief: 38; East: farad" role="graphics-symbol" aria-roledescription="bar" d="M724.425,187.0h81.9v76h-81.9Z" fill="#30fec9"/>
+<path aria-label="in payment Southwest: egghead; slave Chief: 70; East: farad" role="graphics-symbol" aria-roledescription="bar" d="M496.925,123.0h81.9v140h-81.9Z" fill="#30fec9"/>
+<path aria-label="in payment Southwest: balalaika; slave Chief: 97; East: farad" role="graphics-symbol" aria-roledescription="bar" d="M155.675,69.0h81.9v194h-81.9Z" fill="#30fec9"/>
+<path aria-label="in payment Southwest: robin; slave Chief: 33; East: farad" role="graphics-symbol" aria-roledescription="bar" d="M610.675,197.0h81.9v66h-81.9Z" fill="#30fec9"/>
+<path  d="M27.0,35.0h10v10h-10Z" fill="#30fec9" stroke-width="1.5" opacity="1"/>
+<text aria-label="42,69,33,44" text-anchor="start" x="42.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">farad</text>
+</svg>

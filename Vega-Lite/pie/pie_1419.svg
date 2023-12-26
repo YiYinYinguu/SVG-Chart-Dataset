@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="274" height="239" viewBox="0 0 274 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="117,221,0,26" text-anchor="middle" x="169.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">compress</text>
+<path aria-label="reboot: 731; olive: Fresh" role="graphics-symbol" aria-roledescription="arc mark"  d="M94.39046351119107,126.35689428798149A75,75,0,1,0,169.0,59.0L169.0,102.0A32,32,0,1,1,137.16659776477485,130.7389415628721Z" fill="#c427af" stroke="white" stroke-width="0"/>
+<path aria-label="reboot: 209; olive: boohoo" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.09433946287984,59.31859767956911A75,75,0,0,0,94.39046351119107,126.35689428798149L137.16659776477485,130.7389415628721A32,32,0,0,1,166.0535848374954,102.13593500994949Z" fill="#d7b48a" stroke="white" stroke-width="0"/>
+<path aria-label="reboot: 14; olive: white" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.0,59.0A75,75,0,0,0,162.09433946287984,59.31859767956911L166.0535848374954,102.13593500994949A32,32,0,0,1,169.0,102.0Z" fill="#0f72d0" stroke="white" stroke-width="0"/>
+<text aria-label="221,236,194,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="229.3098026157523" y="203.80365041260094" font-family="serif" font-size="9px" fill="#c427af" opacity="1">731</text>
+<text aria-label="98,113,64,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="105.67551973367594" y="73.04681244066145" font-family="serif" font-size="9px" fill="#d7b48a" opacity="1">209</text>
+<text aria-label="159,169,38,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.85219640089707" y="47.095630110081586" font-family="serif" font-size="9px" fill="#0f72d0" opacity="1">14</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#c427af" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#d7b48a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#0f72d0" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">boohoo</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">white</text>
+</svg>

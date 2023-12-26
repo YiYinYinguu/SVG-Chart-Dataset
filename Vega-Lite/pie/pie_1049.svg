@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="356" height="286" viewBox="0 0 356 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="182,351,0,26" text-anchor="end" x="351.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Planner Human</text>
+<path aria-label="Audi intangible Mini: 779; Xenon behind tolerance: Lead" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.50681586355995,219.2605633406615A75,75,0,0,0,133.51033187924193,111.63025892988009L127.42812774500365,126.42913702483901A59,59,0,0,1,155.74536181266717,211.09830982798704Z" fill="#d7b60c" stroke="white" stroke-width="0"/>
+<path aria-label="Audi intangible Mini: 788; Xenon behind tolerance: synthesizing" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,31.021471366643155,193.33601642523237L46.80355747509262,190.7043329211828A59,59,0,0,1,104.99999999999999,122.0Z" fill="#5b0341" stroke="white" stroke-width="0"/>
+<path aria-label="Audi intangible Mini: 732; Xenon behind tolerance: epoxy" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.292727567184826,202.97878705129165A75,75,0,0,0,129.9602193449657,251.72473011790996L124.63537255137304,236.63678769275583A59,59,0,0,1,48.59027901951873,198.2899791470161Z" fill="#f4faee" stroke="white" stroke-width="0"/>
+<path aria-label="Audi intangible Mini: 60; Xenon behind tolerance: focused" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.021471366643155,193.33601642523237A75,75,0,0,0,33.292727567184826,202.97878705129165L48.59027901951873,198.2899791470161A59,59,0,0,1,46.80355747509262,190.7043329211828Z" fill="#cae949" stroke="white" stroke-width="0"/>
+<path aria-label="Audi intangible Mini: 177; Xenon behind tolerance: Jazz" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.51033187924193,111.63025892988009A75,75,0,0,0,105.0,106.0L105.0,122.0A59,59,0,0,1,127.42812774500365,126.42913702483901Z" fill="#ea5cf8" stroke="white" stroke-width="0"/>
+<path aria-label="Audi intangible Mini: 316; Xenon behind tolerance: Plastic" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.9602193449657,251.72473011790996A75,75,0,0,0,169.50681586355995,219.2605633406615L155.74536181266717,211.09830982798704A59,59,0,0,1,124.63537255137304,236.63678769275583Z" fill="#5ebdcf" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#ea5cf8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,56.25A5,5,0,1,1,53.0,56.25A5,5,0,1,1,63.0,56.25" fill="#d7b60c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M110.0,56.25A5,5,0,1,1,100.0,56.25A5,5,0,1,1,110.0,56.25" fill="#5ebdcf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M172.0,56.25A5,5,0,1,1,162.0,56.25A5,5,0,1,1,172.0,56.25" fill="#f4faee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M224.0,56.25A5,5,0,1,1,214.0,56.25A5,5,0,1,1,224.0,56.25" fill="#cae949" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M286.0,56.25A5,5,0,1,1,276.0,56.25A5,5,0,1,1,286.0,56.25" fill="#5b0341" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Jazz</text>
+<text aria-label="68,90,49,60" text-anchor="start" x="68.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Lead</text>
+<text aria-label="115,153,49,60" text-anchor="start" x="115.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Plastic</text>
+<text aria-label="177,204,49,60" text-anchor="start" x="177.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">epoxy</text>
+<text aria-label="229,267,49,60" text-anchor="start" x="229.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">focused</text>
+<text aria-label="291,357,49,60" text-anchor="start" x="291.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">synthesizing</text>
+<text aria-label="5,137,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Xenon behind tolerance</text>
+</svg>

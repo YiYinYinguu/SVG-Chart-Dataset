@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="252" height="286" viewBox="0 0 252 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Jazz</text>
+<path aria-label="Electric Mouse: 86; Program versus: California" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.7518821478226,65.59443191986175A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#e6958c" stroke="black" stroke-width="0"/>
+<path aria-label="Electric Mouse: 391; Program versus: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.93851338249259,165.50609527400783A75,75,0,0,0,157.9352203872842,187.13061680942215L105.0,134.0Z" fill="#c7c96b" stroke="black" stroke-width="0"/>
+<path aria-label="Electric Mouse: 394; Program versus: drive" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.9352203872842,187.13061680942215A75,75,0,0,0,135.7518821478226,65.59443191986175L105.0,134.0Z" fill="#b3ecba" stroke="black" stroke-width="0"/>
+<path aria-label="Electric Mouse: 408; Program versus: virtual" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,36.93851338249259,165.50609527400783L105.0,134.0Z" fill="#dee44c" stroke="black" stroke-width="0"/>
+<text aria-label="119,128,40,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.87059415261041" y="48.000564340858034" font-family="serif" font-size="8px" fill="#e6958c" opacity="1">86</text>
+<text aria-label="82,95,216,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="89.16609365276062" y="224.5962042628625" font-family="serif" font-size="8px" fill="#c7c96b" opacity="1">391</text>
+<text aria-label="186,200,111,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.537264090117" y="119.83977514275003" font-family="serif" font-size="8px" fill="#b3ecba" opacity="1">394</text>
+<text aria-label="22,35,79,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="29.162481944644156" y="87.53691244665094" font-family="serif" font-size="8px" fill="#dee44c" opacity="1">408</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#e6958c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M93.0,274.25A5,5,0,1,1,83.0,274.25A5,5,0,1,1,93.0,274.25" fill="#b3ecba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,274.25A5,5,0,1,1,135.0,274.25A5,5,0,1,1,145.0,274.25" fill="#c7c96b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,274.25A5,5,0,1,1,197.0,274.25A5,5,0,1,1,207.0,274.25" fill="#dee44c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">California</text>
+<text aria-label="98,125,267,278" text-anchor="start" x="98.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">drive</text>
+<text aria-label="150,188,267,278" text-anchor="start" x="150.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="212,250,267,278" text-anchor="start" x="212.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">virtual</text>
+<text aria-label="5,89,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Program versus</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="287" height="239" viewBox="0 0 287 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="165,282,0,26" text-anchor="end" x="282.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">bandwidth</text>
+<path aria-label="Plastic Bicycle: 675; functionalities orchid: convince" role="graphics-symbol" aria-roledescription="arc mark"  d="M182.0,59.0A75,75,0,1,0,195.01353415504906,207.86235799644749L187.20541366201962,163.544943198579A30,30,0,1,1,182.0,104.0Z" fill="#6da51b" stroke="white" stroke-width="3"/>
+<path aria-label="Plastic Bicycle: 152; functionalities orchid: calculate" role="graphics-symbol" aria-roledescription="arc mark"  d="M195.01353415504906,207.86235799644749A75,75,0,0,0,241.72043253191327,179.37036409597343L205.88817301276532,152.14814563838937A30,30,0,0,1,187.20541366201962,163.544943198579Z" fill="#d6fab7" stroke="white" stroke-width="3"/>
+<path aria-label="Plastic Bicycle: 452; functionalities orchid: Small" role="graphics-symbol" aria-roledescription="arc mark"  d="M241.72043253191327,179.37036409597343A75,75,0,0,0,182.0,59.0L182.0,104.0A30,30,0,0,1,205.88817301276532,152.14814563838937Z" fill="#0deecb" stroke="white" stroke-width="3"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#0deecb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#d6fab7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#6da51b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Small</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">calculate</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">convince</text>
+</svg>

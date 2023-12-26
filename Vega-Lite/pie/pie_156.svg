@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="302" height="239" viewBox="0 0 302 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="167,297,0,26" text-anchor="end" x="297.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">synthesize</text>
+<path aria-label="Legacy calculate: 56; Pants frame South: bus" role="graphics-symbol" aria-roledescription="arc mark"  d="M78.20768326491505,204.0512081549411A75,75,0,0,0,168.04909065813703,174.61787989521383L105.0,134.0Z" fill="#b40f8d" stroke="black" stroke-width="2"/>
+<path aria-label="Legacy calculate: 33; Pants frame South: roughhouse" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,51.00723946815029,81.9444353584525L105.0,134.0Z" fill="#ca01ae" stroke="black" stroke-width="2"/>
+<path aria-label="Legacy calculate: 36; Pants frame South: bypassing" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.01701701317931,158.2160303578585A75,75,0,0,0,78.20768326491505,204.0512081549411L105.0,134.0Z" fill="#9a191c" stroke="black" stroke-width="2"/>
+<path aria-label="Legacy calculate: 45; Pants frame South: illum" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.00723946815029,81.9444353584525A75,75,0,0,0,34.01701701317931,158.2160303578585L105.0,134.0Z" fill="#b3a935" stroke="black" stroke-width="2"/>
+<path aria-label="Legacy calculate: 9; Pants frame South: EXE" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.30726316861677,60.79430918330546A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#2e1bcd" stroke="black" stroke-width="2"/>
+<path aria-label="Legacy calculate: 79; Pants frame South: Pop" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.04909065813703,174.61787989521383A75,75,0,0,0,121.30726316861677,60.79430918330546L105.0,134.0Z" fill="#f23e04" stroke="black" stroke-width="2"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#2e1bcd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#f23e04" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#b40f8d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#9a191c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#b3a935" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#ca01ae" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,255,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">EXE</text>
+<text aria-label="239,255,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Pop</text>
+<text aria-label="239,255,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">bus</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">bypassing</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">illum</text>
+<text aria-label="239,294,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">roughhouse</text>
+</svg>

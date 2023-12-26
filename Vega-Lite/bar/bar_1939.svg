@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="676" height="325" viewBox="0 0 676 325" style="background-color: rgb(255, 255, 255);">
+<line x1="108.5" y1="41.5" x2="108.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="233.5" y1="41.5" x2="233.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="358.5" y1="41.5" x2="358.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="483.5" y1="41.5" x2="483.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="608.5" y1="41.5" x2="608.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="46.5" y1="241.5" x2="671.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="46.5" y1="201.5" x2="671.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="46.5" y1="161.5" x2="671.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="46.5" y1="121.5" x2="671.5" y2="121.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="46.5" y1="81.5" x2="671.5" y2="81.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="46.5" y1="41.5" x2="671.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="97,113,248,312" text-anchor="end" x="108.5" y="248.5" transform="rotate(270.0, 113.5, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">earrings</text>
+<text aria-label="222,238,248,296" text-anchor="end" x="233.5" y="248.5" transform="rotate(270.0, 238.5, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">hobbit</text>
+<text aria-label="347,363,248,288" text-anchor="end" x="358.5" y="248.5" transform="rotate(270.0, 363.5, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">paint</text>
+<text aria-label="472,488,248,272" text-anchor="end" x="483.5" y="248.5" transform="rotate(270.0, 488.5, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">tap</text>
+<text aria-label="597,613,248,296" text-anchor="end" x="608.5" y="248.5" transform="rotate(270.0, 613.5, 248.5)" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">thrush</text>
+<line aria-label="108,108,241,246" x1="108.5" y1="241.5" x2="108.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="233,233,241,246" x1="233.5" y1="241.5" x2="233.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="358,358,241,246" x1="358.5" y1="241.5" x2="358.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="483,483,241,246" x1="483.5" y1="241.5" x2="483.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="608,608,241,246" x1="608.5" y1="241.5" x2="608.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,671,241,241" x1="46.5" y1="241.5" x2="671.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,239,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">syndicate Creative</text>
+<text aria-label="36,44,231,247" text-anchor="end" x="44.5" y="246.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="20,44,191,207" text-anchor="end" x="44.5" y="206.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="20,44,151,167" text-anchor="end" x="44.5" y="166.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="20,44,111,127" text-anchor="end" x="44.5" y="126.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="20,44,71,87" text-anchor="end" x="44.5" y="86.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="20,44,31,47" text-anchor="end" x="44.5" y="46.5" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="2,14,117,165" text-anchor="middle" x="16.5" y="141.5" transform="rotate(-90.0, 14.5, 141.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Director</text>
+<line aria-label="46,46,41,241" x1="46.5" y1="241.5" x2="46.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="overdue parsing: hobbit; Director: 172; Steel Soft Tasty: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M194.125,172.20000000000002h78.75000000000001v68.79999999999998h-78.75000000000001Z" fill="#f344ae"/>
+<path aria-label="overdue parsing: thrush; Director: 413; Steel Soft Tasty: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M569.125,75.80000000000001h78.75000000000001v165.2h-78.75000000000001Z" fill="#f344ae"/>
+<path aria-label="overdue parsing: tap; Director: 365; Steel Soft Tasty: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M444.125,95.0h78.75000000000001v146h-78.75000000000001Z" fill="#f344ae"/>
+<path aria-label="overdue parsing: earrings; Director: 414; Steel Soft Tasty: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M69.125,75.4h78.75000000000001v165.6h-78.75000000000001Z" fill="#f344ae"/>
+<path aria-label="overdue parsing: paint; Director: 464; Steel Soft Tasty: Bicycle" role="graphics-symbol" aria-roledescription="bar" d="M319.125,55.39999999999999h78.75000000000001v185.60000000000002h-78.75000000000001Z" fill="#f344ae"/>
+<text aria-label="225,241,159,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="233.5" y="168.63750000000002" font-family="monospace" font-size="9.375px" fill="#000" opacity="1">172</text>
+<text aria-label="600,616,62,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="608.5" y="72.23750000000001" font-family="monospace" font-size="9.375px" fill="#000" opacity="1">413</text>
+<text aria-label="475,491,82,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="483.5" y="91.4375" font-family="monospace" font-size="9.375px" fill="#000" opacity="1">365</text>
+<text aria-label="100,116,62,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.5" y="71.8375" font-family="monospace" font-size="9.375px" fill="#000" opacity="1">414</text>
+<text aria-label="350,366,42,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="358.5" y="51.83749999999999" font-family="monospace" font-size="9.375px" fill="#000" opacity="1">464</text>
+</svg>

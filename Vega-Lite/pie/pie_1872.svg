@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">itaque</text>
+<path aria-label="North Product: 153; Metal Functionality: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.350587867332436,175.23167665073987A75,75,0,0,0,179.46419926096598,142.94891213629637L105.0,134.0Z" fill="#b1acbf" stroke="black" stroke-width="0"/>
+<path aria-label="North Product: 106; Metal Functionality: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.46419926096598,142.94891213629637A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#16bdb0" stroke="black" stroke-width="0"/>
+<path aria-label="North Product: 135; Metal Functionality: Interface" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,42.350587867332436,175.23167665073987L105.0,134.0Z" fill="#4eda5e" stroke="black" stroke-width="0"/>
+<text aria-label="119,131,216,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="125.62609484729299" y="223.60459012717584" font-family="monospace" font-size="7px" fill="#b1acbf" opacity="1">153</text>
+<text aria-label="166,178,69,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="172.3293491380988" y="76.27765288738229" font-family="monospace" font-size="7px" fill="#16bdb0" opacity="1">106</text>
+<text aria-label="19,31,86,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.775568546439203" y="93.2976644566126" font-family="monospace" font-size="7px" fill="#4eda5e" opacity="1">135</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#16bdb0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,274.25A5,5,0,1,1,68.0,274.25A5,5,0,1,1,78.0,274.25" fill="#b1acbf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,274.25A5,5,0,1,1,115.0,274.25A5,5,0,1,1,125.0,274.25" fill="#4eda5e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="83,105,267,278" text-anchor="start" x="83.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="130,179,267,278" text-anchor="start" x="130.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Interface</text>
+<text aria-label="5,119,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Metal Functionality</text>
+</svg>

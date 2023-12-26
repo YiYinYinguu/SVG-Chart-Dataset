@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="326" height="239" viewBox="0 0 326 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="229,320,0,26" text-anchor="end" x="320.9316885641011" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Generic</text>
+<path aria-label="plum: 73; capital Intelligent: exclamation" role="graphics-symbol" aria-roledescription="arc mark"  d="M212.91224188871342,208.6643401159877A75,75,0,0,0,245.79490413650956,204.4245903118242L220.0,134.0Z" fill="#e5bc35" stroke="black" stroke-width="3"/>
+<path aria-label="plum: 457; capital Intelligent: Blues" role="graphics-symbol" aria-roledescription="arc mark"  d="M245.79490413650956,204.4245903118242A75,75,0,0,0,220.0,59.0L220.0,134.0Z" fill="#74dc1a" stroke="black" stroke-width="3"/>
+<path aria-label="plum: 180; capital Intelligent: national" role="graphics-symbol" aria-roledescription="arc mark"  d="M220.0,59.0A75,75,0,0,0,153.1901108402719,99.92011281613676L220.0,134.0Z" fill="#f45e13" stroke="black" stroke-width="3"/>
+<path aria-label="plum: 319; capital Intelligent: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.1901108402719,99.92011281613676A75,75,0,0,0,212.91224188871342,208.6643401159877L220.0,134.0Z" fill="#f08ecc" stroke="black" stroke-width="3"/>
+<text aria-label="224,239,213,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="231.50894455160554" y="227.26110124409217" font-family="sans-serif" font-size="14px" fill="#e5bc35" opacity="1">73</text>
+<text aria-label="297,319,108,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="308.6167471578511" y="122.28147197853777" font-family="sans-serif" font-size="14px" fill="#74dc1a" opacity="1">457</text>
+<text aria-label="161,184,47,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="172.9927017148254" y="61.2516195094084" font-family="sans-serif" font-size="14px" fill="#f45e13" opacity="1">180</text>
+<text aria-label="129,152,167,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.1138736686617" y="181.32411652228046" font-family="sans-serif" font-size="14px" fill="#f08ecc" opacity="1">319</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#74dc1a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#e5bc35" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f08ecc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#f45e13" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Blues</text>
+<text aria-label="21,81,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">exclamation</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="21,65,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">national</text>
+<text aria-label="5,119,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">capital Intelligent</text>
+</svg>

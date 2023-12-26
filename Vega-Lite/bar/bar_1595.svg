@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="612" height="322" viewBox="0 0 612 322" style="background-color: rgb(255, 255, 255);">
+<line x1="38.5" y1="241.5" x2="607.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="38.5" y1="201.5" x2="607.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="38.5" y1="161.5" x2="607.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="38.5" y1="121.5" x2="607.5" y2="121.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="38.5" y1="81.5" x2="607.5" y2="81.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="38.5" y1="41.5" x2="607.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="74,89,248,293" text-anchor="end" x="85.41666666666667" y="248.5" transform="rotate(270.0, 89.41666666666667, 248.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">beetle</text>
+<text aria-label="169,184,248,301" text-anchor="end" x="180.25" y="248.5" transform="rotate(270.0, 184.25, 248.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">invader</text>
+<text aria-label="264,279,248,316" text-anchor="end" x="275.0833333333333" y="248.5" transform="rotate(270.0, 279.0833333333333, 248.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">pantology</text>
+<text aria-label="358,373,248,286" text-anchor="end" x="369.9166666666667" y="248.5" transform="rotate(270.0, 373.9166666666667, 248.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">polyp</text>
+<text aria-label="453,468,248,286" text-anchor="end" x="464.75" y="248.5" transform="rotate(270.0, 468.75, 248.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">stove</text>
+<text aria-label="548,563,248,316" text-anchor="end" x="559.5833333333333" y="248.5" transform="rotate(270.0, 563.5833333333333, 248.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">underpass</text>
+<line aria-label="85,85,241,246" x1="85.5" y1="241.5" x2="85.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="180,180,241,246" x1="180.5" y1="241.5" x2="180.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="275,275,241,246" x1="275.5" y1="241.5" x2="275.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="369,369,241,246" x1="369.5" y1="241.5" x2="369.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="464,464,241,246" x1="464.5" y1="241.5" x2="464.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="559,559,241,246" x1="559.5" y1="241.5" x2="559.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,607,241,241" x1="38.5" y1="241.5" x2="607.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="360,607,0,26" text-anchor="end" x="607.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Customer Industrial</text>
+<text aria-label="24,31,231,246" text-anchor="end" x="31.5" y="245.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="16,31,191,206" text-anchor="end" x="31.5" y="205.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="16,31,151,166" text-anchor="end" x="31.5" y="165.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="16,31,111,126" text-anchor="end" x="31.5" y="125.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="16,31,71,86" text-anchor="end" x="31.5" y="85.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">80</text>
+<text aria-label="9,31,31,46" text-anchor="end" x="31.5" y="45.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">100</text>
+<line aria-label="33,38,241,241" x1="38.5" y1="241.5" x2="33.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,201,201" x1="38.5" y1="201.5" x2="33.5" y2="201.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,161,161" x1="38.5" y1="161.5" x2="33.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,121,121" x1="38.5" y1="121.5" x2="33.5" y2="121.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,81,81" x1="38.5" y1="81.5" x2="33.5" y2="81.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,41,41" x1="38.5" y1="41.5" x2="33.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Sausages Southwest: invader; female Dynamic: 55; Volvo: Assurance up black" role="graphics-symbol" aria-roledescription="bar" d="M146.11,101.0h68.28v110h-68.28Z" fill="#3a1489"/>
+<path aria-label="Sausages Southwest: invader; female Dynamic: 15; Volvo: Beauty male" role="graphics-symbol" aria-roledescription="bar" d="M146.11,211.0h68.28v30h-68.28Z" fill="#e0b8f4"/>
+<path aria-label="Sausages Southwest: beetle; female Dynamic: 35; Volvo: Assurance up black" role="graphics-symbol" aria-roledescription="bar" d="M51.27666666666667,58.99999999999999h68.28v70h-68.28Z" fill="#3a1489"/>
+<path aria-label="Sausages Southwest: beetle; female Dynamic: 56; Volvo: Beauty male" role="graphics-symbol" aria-roledescription="bar" d="M51.27666666666667,129.0h68.28v112.00000000000001h-68.28Z" fill="#e0b8f4"/>
+<path aria-label="Sausages Southwest: underpass; female Dynamic: 20; Volvo: Assurance up black" role="graphics-symbol" aria-roledescription="bar" d="M525.4433333333334,151.0h68.28v39.999999999999986h-68.28Z" fill="#3a1489"/>
+<path aria-label="Sausages Southwest: underpass; female Dynamic: 25; Volvo: Beauty male" role="graphics-symbol" aria-roledescription="bar" d="M525.4433333333334,191.0h68.28v50h-68.28Z" fill="#e0b8f4"/>
+<path aria-label="Sausages Southwest: stove; female Dynamic: 6; Volvo: Assurance up black" role="graphics-symbol" aria-roledescription="bar" d="M430.61,187.0h68.28v12h-68.28Z" fill="#3a1489"/>
+<path aria-label="Sausages Southwest: stove; female Dynamic: 21; Volvo: Beauty male" role="graphics-symbol" aria-roledescription="bar" d="M430.61,199.0h68.28v42h-68.28Z" fill="#e0b8f4"/>
+<path aria-label="Sausages Southwest: pantology; female Dynamic: 8; Volvo: Assurance up black" role="graphics-symbol" aria-roledescription="bar" d="M240.94333333333333,185.0h68.28v16h-68.28Z" fill="#3a1489"/>
+<path aria-label="Sausages Southwest: pantology; female Dynamic: 20; Volvo: Beauty male" role="graphics-symbol" aria-roledescription="bar" d="M240.94333333333333,201.0h68.28v40h-68.28Z" fill="#e0b8f4"/>
+<path aria-label="Sausages Southwest: polyp; female Dynamic: 13; Volvo: Assurance up black" role="graphics-symbol" aria-roledescription="bar" d="M335.7766666666667,187.0h68.28v26h-68.28Z" fill="#3a1489"/>
+<path aria-label="Sausages Southwest: polyp; female Dynamic: 14; Volvo: Beauty male" role="graphics-symbol" aria-roledescription="bar" d="M335.7766666666667,213.0h68.28v28h-68.28Z" fill="#e0b8f4"/>
+<text aria-label="175,185,89,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.25" y="98.02550000000001" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">55</text>
+<text aria-label="175,185,199,209" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.25" y="208.0255" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">15</text>
+<text aria-label="80,90,47,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="85.41666666666667" y="56.025499999999994" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">35</text>
+<text aria-label="80,90,117,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="85.41666666666667" y="126.02549999999998" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">56</text>
+<text aria-label="554,564,139,149" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="559.5833333333333" y="148.02550000000002" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">20</text>
+<text aria-label="554,564,179,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="559.5833333333333" y="188.0255" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">25</text>
+<text aria-label="462,467,175,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="464.75" y="184.0255" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">6</text>
+<text aria-label="459,469,187,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="464.75" y="196.0255" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">21</text>
+<text aria-label="272,277,173,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="275.0833333333333" y="182.0255" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">8</text>
+<text aria-label="270,279,189,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="275.0833333333333" y="198.0255" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">20</text>
+<text aria-label="365,374,175,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="369.9166666666667" y="184.0255" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">13</text>
+<text aria-label="365,374,201,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="369.9166666666667" y="210.0255" font-family="Balto" font-size="8.535px" fill="#000" opacity="1">14</text>
+</svg>

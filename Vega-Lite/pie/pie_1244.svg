@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="129,259,0,26" text-anchor="middle" x="194.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">withdrawal</text>
+<path aria-label="sed: 131; pfft: Directives" role="graphics-symbol" aria-roledescription="arc mark"  d="M264.7011317240088,159.0269848951957A75,75,0,0,0,255.55725809054573,91.15488386789058L194.0,134.0Z" fill="#ce5c2a" stroke="white" stroke-width="0"/>
+<path aria-label="sed: 85; pfft: Proactive" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.67397483867082,153.84807507953298A75,75,0,0,0,146.394279252503,191.9542522349425L194.0,134.0Z" fill="#97bbb6" stroke="white" stroke-width="0"/>
+<path aria-label="sed: 113; pfft: Passenger" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.394279252503,191.9542522349425A75,75,0,0,0,203.74460785856658,208.36425631768776L194.0,134.0Z" fill="#c247df" stroke="white" stroke-width="0"/>
+<path aria-label="sed: 128; pfft: DNS" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.96656889295485,88.95545965151268A75,75,0,0,0,194.0,59.0L194.0,134.0Z" fill="#dd3c3f" stroke="white" stroke-width="0"/>
+<path aria-label="sed: 108; pfft: improvement" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,141.1592831763661,80.77539435970866L194.0,134.0Z" fill="#6bfe28" stroke="white" stroke-width="0"/>
+<path aria-label="sed: 152; pfft: Louisiana" role="graphics-symbol" aria-roledescription="arc mark"  d="M203.74460785856658,208.36425631768776A75,75,0,0,0,264.7011317240088,159.0269848951957L194.0,134.0Z" fill="#32b65c" stroke="white" stroke-width="0"/>
+<path aria-label="sed: 5; pfft: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M255.55725809054573,91.15488386789058A75,75,0,0,0,253.96656889295485,88.95545965151268L194.0,134.0Z" fill="#7f7ef7" stroke="white" stroke-width="0"/>
+<path aria-label="sed: 146; pfft: fuchsia" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.1592831763661,80.77539435970866A75,75,0,0,0,121.67397483867082,153.84807507953298L194.0,134.0Z" fill="#2d0acf" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#dd3c3f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#7f7ef7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ce5c2a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#32b65c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#c247df" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#97bbb6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#2d0acf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#6bfe28" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">DNS</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="21,76,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Directives</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Louisiana</text>
+<text aria-label="21,70,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Passenger</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Proactive</text>
+<text aria-label="21,59,145,156" text-anchor="start" x="21.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">fuchsia</text>
+<text aria-label="21,81,161,172" text-anchor="start" x="21.0" y="171.0" font-family="serif" font-size="10px" fill="#000" opacity="1">improvement</text>
+<text aria-label="5,29,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">pfft</text>
+</svg>

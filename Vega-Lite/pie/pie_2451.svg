@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="332" height="270" viewBox="0 0 332 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="210,327,0,26" text-anchor="end" x="327.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Magnesium</text>
+<path aria-label="and Seamless: 105; Northwest: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.409927379426,111.07354646559773A75,75,0,0,0,130.10252641099206,63.32565410429717L120.06151584659523,91.5953924625783A45,45,0,0,1,147.8459564276556,120.24412787935864Z" fill="#aebffa" stroke="black" stroke-width="4"/>
+<path aria-label="and Seamless: 39; Northwest: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.10252641099206,63.32565410429717A75,75,0,0,0,105.0,59.0L105.0,89.0A45,45,0,0,1,120.06151584659523,91.5953924625783Z" fill="#0d09a6" stroke="black" stroke-width="4"/>
+<path aria-label="and Seamless: 176; Northwest: Rashad" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.10252641099206,204.67434589570283A75,75,0,0,0,176.409927379426,111.07354646559773L147.8459564276556,120.24412787935864A45,45,0,0,1,120.06151584659523,176.4046075374217Z" fill="#35ed25" stroke="black" stroke-width="4"/>
+<path aria-label="and Seamless: 149; Northwest: target" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.65559645523294,114.21901732087368L61.593357873139766,122.1314103925242A45,45,0,0,1,104.99999999999999,89.0Z" fill="#4c6f2d" stroke="black" stroke-width="4"/>
+<path aria-label="and Seamless: 249; Northwest: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.65559645523294,114.21901732087368A75,75,0,0,0,130.10252641099206,204.67434589570283L120.06151584659523,176.4046075374217A45,45,0,0,1,61.593357873139766,122.1314103925242Z" fill="#b88c6c" stroke="black" stroke-width="4"/>
+<text aria-label="159,180,62,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="169.6066976881949" y="75.3424017869645" font-family="Balto" font-size="13px" fill="#aebffa" opacity="1">105</text>
+<text aria-label="113,127,36,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.28349834403261" y="49.307189252070984" font-family="Balto" font-size="13px" fill="#0d09a6" opacity="1">39</text>
+<text aria-label="175,196,164,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.6676813886258" y="177.9089611413672" font-family="Balto" font-size="13px" fill="#35ed25" opacity="1">176</text>
+<text aria-label="39,60,53,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="50.393892875181265" y="66.4585919577143" font-family="Balto" font-size="13px" fill="#4c6f2d" opacity="1">149</text>
+<text aria-label="33,54,190,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="43.770708707571366" y="203.96191240274135" font-family="Balto" font-size="13px" fill="#b88c6c" opacity="1">249</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#0d09a6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,258.25A5,5,0,1,1,58.0,258.25A5,5,0,1,1,68.0,258.25" fill="#aebffa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M171.0,258.25A5,5,0,1,1,161.0,258.25A5,5,0,1,1,171.0,258.25" fill="#35ed25" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M233.0,258.25A5,5,0,1,1,223.0,258.25A5,5,0,1,1,233.0,258.25" fill="#b88c6c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M293.0,258.25A5,5,0,1,1,283.0,258.25A5,5,0,1,1,293.0,258.25" fill="#4c6f2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="73,150,251,262" text-anchor="start" x="73.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="176,209,251,262" text-anchor="start" x="176.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Rashad</text>
+<text aria-label="238,271,251,262" text-anchor="start" x="238.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="298,331,251,262" text-anchor="start" x="298.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">target</text>
+</svg>

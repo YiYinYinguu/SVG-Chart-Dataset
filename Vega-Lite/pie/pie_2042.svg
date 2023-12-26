@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="239" viewBox="0 0 314 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="107,302,0,26" text-anchor="middle" x="205.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Avon navigating</text>
+<path aria-label="reboot turquoise: 539; deposit Pickup: Outdoors" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.17034081315649,147.19778103904338A75,75,0,1,0,254.55060425425611,77.69957710604567L226.1415911484826,109.97848623191283A32,32,0,1,1,173.49934541361344,139.63105324332517Z" fill="#ecb873" stroke="black" stroke-width="2"/>
+<path aria-label="reboot turquoise: 29; deposit Pickup: Planner" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.03003696612586,131.87758564376614A75,75,0,0,0,131.17034081315649,147.19778103904338L173.49934541361344,139.63105324332517A32,32,0,0,1,173.0128157722137,133.09443654134023Z" fill="#5b13fe" stroke="black" stroke-width="2"/>
+<path aria-label="reboot turquoise: 74; deposit Pickup: Bar" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.5,69.0480947161671A75,75,0,0,0,205.0,59.0L205.0,102.0A32,32,0,0,1,221.0,106.28718707889796Z" fill="#595ccb" stroke="black" stroke-width="2"/>
+<path aria-label="reboot turquoise: 175; deposit Pickup: ack" role="graphics-symbol" aria-roledescription="arc mark"  d="M182.5314329003535,62.44468229063138A75,75,0,0,0,130.03003696612586,131.87758564376614L173.0128157722137,133.09443654134023A32,32,0,0,1,195.4134113708175,103.46973111066939Z" fill="#5a8ddd" stroke="black" stroke-width="2"/>
+<path aria-label="reboot turquoise: 43; deposit Pickup: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M205.0,59.0A75,75,0,0,0,182.5314329003535,62.44468229063138L195.4134113708175,103.46973111066939A32,32,0,0,1,205.0,102.0Z" fill="#fcaeae" stroke="black" stroke-width="2"/>
+<path aria-label="reboot turquoise: 28; deposit Pickup: Facilitator" role="graphics-symbol" aria-roledescription="arc mark"  d="M254.55060425425611,77.69957710604567A75,75,0,0,0,242.5,69.0480947161671L221.0,106.28718707889796A32,32,0,0,1,226.1415911484826,109.97848623191283Z" fill="#51caeb" stroke="black" stroke-width="2"/>
+<text aria-label="239,258,204,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.1702414414906" y="216.41549445741208" font-family="sans-serif" font-size="12px" fill="#ecb873" opacity="1">539</text>
+<text aria-label="108,121,132,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.24827051475836" y="144.6803483747486" font-family="sans-serif" font-size="12px" fill="#5b13fe" opacity="1">29</text>
+<text aria-label="221,234,39,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="228.29371405922686" y="51.06667563398385" font-family="sans-serif" font-size="12px" fill="#595ccb" opacity="1">74</text>
+<text aria-label="123,142,71,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="133.2123250122583" y="83.71805346292041" font-family="sans-serif" font-size="12px" fill="#5a8ddd" opacity="1">175</text>
+<text aria-label="184,197,37,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.36134743847128" y="49.03940672238126" font-family="sans-serif" font-size="12px" fill="#fcaeae" opacity="1">43</text>
+<text aria-label="250,263,52,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="257.4876757485646" y="64.89019289785027" font-family="sans-serif" font-size="12px" fill="#51caeb" opacity="1">28</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#595ccb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#51caeb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ecb873" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#5b13fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#5a8ddd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#fcaeae" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bar</text>
+<text aria-label="21,81,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Facilitator</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Outdoors</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Planner</text>
+<text aria-label="21,37,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">ack</text>
+<text aria-label="21,54,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="5,89,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">deposit Pickup</text>
+</svg>

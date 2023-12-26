@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="172,289,0,26" text-anchor="end" x="289.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southeast</text>
+<path aria-label="male: 72; Bespoke: sievert" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,171.28333338974346,61.1225705432675L189.0,134.0Z" fill="#bd066b" stroke="white" stroke-width="2"/>
+<path aria-label="male: 223; Bespoke: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.25172805148662,88.01921354617045A75,75,0,0,0,201.85369099878935,60.109658089113964L189.0,134.0Z" fill="#c3fab3" stroke="white" stroke-width="2"/>
+<path aria-label="male: 104; Bespoke: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.28333338974346,61.1225705432675A75,75,0,0,0,147.71382927879824,71.38648622557761L189.0,134.0Z" fill="#b86e28" stroke="white" stroke-width="2"/>
+<path aria-label="male: 52; Bespoke: Bespoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M201.85369099878935,60.109658089113964A75,75,0,0,0,189.0,59.0L189.0,134.0Z" fill="#a9fd6d" stroke="white" stroke-width="2"/>
+<path aria-label="male: 276; Bespoke: Sunnyvale" role="graphics-symbol" aria-roledescription="arc mark"  d="M231.21478988455618,195.99122127368338A75,75,0,0,0,263.8704229873597,138.40678586884408L189.0,134.0Z" fill="#b082c1" stroke="white" stroke-width="2"/>
+<path aria-label="male: 217; Bespoke: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.8704229873597,138.40678586884408A75,75,0,0,0,248.25172805148662,88.01921354617045L189.0,134.0Z" fill="#fbebee" stroke="white" stroke-width="2"/>
+<path aria-label="male: 52; Bespoke: faithfully" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.50829668881465,172.2860314478015A75,75,0,0,0,132.02403746294758,182.77232507248758L189.0,134.0Z" fill="#7df075" stroke="white" stroke-width="2"/>
+<path aria-label="male: 460; Bespoke: online" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.71382927879824,71.38648622557761A75,75,0,0,0,124.50829668881465,172.2860314478015L189.0,134.0Z" fill="#a7a2a3" stroke="white" stroke-width="2"/>
+<path aria-label="male: 441; Bespoke: complexity" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.02403746294758,182.77232507248758A75,75,0,0,0,231.21478988455618,195.99122127368338L189.0,134.0Z" fill="#dd4eaa" stroke="white" stroke-width="2"/>
+<text aria-label="173,182,38,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.29398256416303" y="46.639039896252484" font-family="serif" font-size="8px" fill="#bd066b" opacity="1">72</text>
+<text aria-label="228,242,50,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="235.39103908301158" y="58.87755519436321" font-family="serif" font-size="8px" fill="#c3fab3" opacity="1">223</text>
+<text aria-label="146,159,45,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.06664780198494" y="53.48458204787782" font-family="serif" font-size="8px" fill="#b86e28" opacity="1">104</text>
+<text aria-label="192,201,38,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.740900258507" y="46.33351538513486" font-family="serif" font-size="8px" fill="#a9fd6d" opacity="1">52</text>
+<text aria-label="260,274,172,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="267.2877330026623" y="180.39629332842838" font-family="serif" font-size="8px" fill="#b082c1" opacity="1">276</text>
+<text aria-label="268,281,101,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="274.9648601684986" y="109.3533713912907" font-family="serif" font-size="8px" fill="#fbebee" opacity="1">217</text>
+<text aria-label="111,120,180,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.84832037323531" y="188.42930256815532" font-family="serif" font-size="8px" fill="#7df075" opacity="1">52</text>
+<text aria-label="94,108,107,116" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="101.28977442788819" y="115.8278327865035" font-family="serif" font-size="8px" fill="#a7a2a3" opacity="1">460</text>
+<text aria-label="170,183,217,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="177.1110422430002" y="225.21128114455186" font-family="serif" font-size="8px" fill="#dd4eaa" opacity="1">441</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#a9fd6d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#c3fab3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#fbebee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#b082c1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#dd4eaa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#7df075" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#a7a2a3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#b86e28" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,184.0A5,5,0,1,1,6.0,184.0A5,5,0,1,1,16.0,184.0" fill="#bd066b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bespoke</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Sunnyvale</text>
+<text aria-label="21,76,113,124" text-anchor="start" x="21.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">complexity</text>
+<text aria-label="21,76,129,140" text-anchor="start" x="21.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">faithfully</text>
+<text aria-label="21,54,145,156" text-anchor="start" x="21.0" y="155.0" font-family="serif" font-size="10px" fill="#000" opacity="1">online</text>
+<text aria-label="21,59,161,172" text-anchor="start" x="21.0" y="171.0" font-family="serif" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="21,59,177,188" text-anchor="start" x="21.0" y="187.0" font-family="serif" font-size="10px" fill="#000" opacity="1">sievert</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bespoke</text>
+</svg>

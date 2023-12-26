@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="242" height="286" viewBox="0 0 242 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="55,237,0,26" text-anchor="end" x="237.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Blues Moroccan</text>
+<path aria-label="Passenger: 450; Volvo moderator: gold" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,54.01490836173433,236.00473098414037L105.0,181.0Z" fill="#2da99d" stroke="black" stroke-width="2"/>
+<path aria-label="Passenger: 679; Volvo moderator: Loan" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.97737972553892,247.83907023335848A75,75,0,1,0,105.0,106.0L105.0,181.0Z" fill="#f35e3a" stroke="black" stroke-width="2"/>
+<path aria-label="Passenger: 37; Volvo moderator: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.01490836173433,236.00473098414037A75,75,0,0,0,65.75733690689711,244.91410950143342L105.0,181.0Z" fill="#faabce" stroke="black" stroke-width="2"/>
+<path aria-label="Passenger: 15; Volvo moderator: Product" role="graphics-symbol" aria-roledescription="arc mark"  d="M65.75733690689711,244.91410950143342A75,75,0,0,0,70.97737972553892,247.83907023335848L105.0,181.0Z" fill="#bc46bb" stroke="black" stroke-width="2"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#f35e3a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M67.0,56.25A5,5,0,1,1,57.0,56.25A5,5,0,1,1,67.0,56.25" fill="#bc46bb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M132.0,56.25A5,5,0,1,1,122.0,56.25A5,5,0,1,1,132.0,56.25" fill="#faabce" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M210.0,56.25A5,5,0,1,1,200.0,56.25A5,5,0,1,1,210.0,56.25" fill="#2da99d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Loan</text>
+<text aria-label="72,110,49,60" text-anchor="start" x="72.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Product</text>
+<text aria-label="137,186,49,60" text-anchor="start" x="137.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="215,237,49,60" text-anchor="start" x="215.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">gold</text>
+<text aria-label="5,95,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Volvo moderator</text>
+</svg>

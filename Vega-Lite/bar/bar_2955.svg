@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="401" height="312" viewBox="0 0 401 312" style="background-color: rgb(255, 255, 255);">
+<text aria-label="57,77,250,300" text-anchor="end" x="71.1111111111111" y="250.5" transform="rotate(270.0, 77.1111111111111, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">agent</text>
+<text aria-label="95,115,250,280" text-anchor="end" x="109.33333333333331" y="250.5" transform="rotate(270.0, 115.33333333333331, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">bee</text>
+<text aria-label="133,153,250,290" text-anchor="end" x="147.55555555555554" y="250.5" transform="rotate(270.0, 153.55555555555554, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">case</text>
+<text aria-label="171,191,250,280" text-anchor="end" x="185.77777777777774" y="250.5" transform="rotate(270.0, 191.77777777777774, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">due</text>
+<text aria-label="209,229,250,310" text-anchor="end" x="223.99999999999997" y="250.5" transform="rotate(270.0, 229.99999999999997, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">lychee</text>
+<text aria-label="248,268,250,310" text-anchor="end" x="262.2222222222222" y="250.5" transform="rotate(270.0, 268.2222222222222, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">marten</text>
+<text aria-label="286,306,250,310" text-anchor="end" x="300.4444444444444" y="250.5" transform="rotate(270.0, 306.4444444444444, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">rubric</text>
+<text aria-label="324,344,250,310" text-anchor="end" x="338.66666666666663" y="250.5" transform="rotate(270.0, 344.66666666666663, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">storey</text>
+<text aria-label="362,382,250,290" text-anchor="end" x="376.88888888888886" y="250.5" transform="rotate(270.0, 382.88888888888886, 250.5)" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">zero</text>
+<line aria-label="71,71,243,248" x1="71.5" y1="243.5" x2="71.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="109,109,243,248" x1="109.5" y1="243.5" x2="109.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="147,147,243,248" x1="147.5" y1="243.5" x2="147.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="185,185,243,248" x1="185.5" y1="243.5" x2="185.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="223,223,243,248" x1="223.5" y1="243.5" x2="223.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="262,262,243,248" x1="262.5" y1="243.5" x2="262.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="300,300,243,248" x1="300.5" y1="243.5" x2="300.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="338,338,243,248" x1="338.5" y1="243.5" x2="338.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="376,376,243,248" x1="376.5" y1="243.5" x2="376.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,396,243,243" x1="52.5" y1="243.5" x2="396.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="227,396,0,26" text-anchor="end" x="396.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">once Sterling</text>
+<text aria-label="40,50,230,250" text-anchor="end" x="50.5" y="249.5" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="20,50,180,200" text-anchor="end" x="50.5" y="199.5" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="20,50,130,150" text-anchor="end" x="50.5" y="149.5" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="20,50,80,100" text-anchor="end" x="50.5" y="99.5" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="20,50,30,50" text-anchor="end" x="50.5" y="49.5" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="2,14,89,197" text-anchor="middle" x="16.88671875" y="143.5" transform="rotate(-90.0, 14.88671875, 143.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Southeast services</text>
+<line aria-label="52,52,43,243" x1="52.5" y1="243.5" x2="52.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Oklahoma Table: storey; Southeast services: 143; Usability Fullerton Tasty: North" role="graphics-symbol" aria-roledescription="bar" d="M330.06666666666666,207.25h17.2v35.75h-17.2Z" fill="#f1d06d"/>
+<path aria-label="Oklahoma Table: agent; Southeast services: 211; Usability Fullerton Tasty: North" role="graphics-symbol" aria-roledescription="bar" d="M62.5111111111111,190.25h17.2v52.75h-17.2Z" fill="#f1d06d"/>
+<path aria-label="Oklahoma Table: marten; Southeast services: 60; Usability Fullerton Tasty: North" role="graphics-symbol" aria-roledescription="bar" d="M253.6222222222222,228.0h17.2v15h-17.2Z" fill="#f1d06d"/>
+<path aria-label="Oklahoma Table: bee; Southeast services: 441; Usability Fullerton Tasty: North" role="graphics-symbol" aria-roledescription="bar" d="M100.73333333333332,132.75h17.2v110.25h-17.2Z" fill="#f1d06d"/>
+<path aria-label="Oklahoma Table: lychee; Southeast services: 61; Usability Fullerton Tasty: North" role="graphics-symbol" aria-roledescription="bar" d="M215.39999999999998,227.75h17.2v15.25h-17.2Z" fill="#f1d06d"/>
+<path aria-label="Oklahoma Table: case; Southeast services: 425; Usability Fullerton Tasty: North" role="graphics-symbol" aria-roledescription="bar" d="M138.95555555555552,136.75h17.2v106.25h-17.2Z" fill="#f1d06d"/>
+<path aria-label="Oklahoma Table: zero; Southeast services: 715; Usability Fullerton Tasty: North" role="graphics-symbol" aria-roledescription="bar" d="M368.2888888888889,64.25h17.2v178.75h-17.2Z" fill="#f1d06d"/>
+<path aria-label="Oklahoma Table: due; Southeast services: 400; Usability Fullerton Tasty: North" role="graphics-symbol" aria-roledescription="bar" d="M177.17777777777775,143.0h17.2v100h-17.2Z" fill="#f1d06d"/>
+<path aria-label="Oklahoma Table: rubric; Southeast services: 355; Usability Fullerton Tasty: North" role="graphics-symbol" aria-roledescription="bar" d="M291.84444444444443,154.25h17.2v88.75h-17.2Z" fill="#f1d06d"/>
+<text aria-label="334,343,200,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="338.66666666666663" y="205.638" font-family="serif" font-size="5.16px" fill="#000" opacity="1">143</text>
+<text aria-label="66,75,183,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="71.1111111111111" y="188.638" font-family="serif" font-size="5.16px" fill="#000" opacity="1">211</text>
+<text aria-label="259,265,221,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="262.2222222222222" y="226.388" font-family="serif" font-size="5.16px" fill="#000" opacity="1">60</text>
+<text aria-label="104,113,125,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.33333333333331" y="131.138" font-family="serif" font-size="5.16px" fill="#000" opacity="1">441</text>
+<text aria-label="220,227,220,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="223.99999999999997" y="226.138" font-family="serif" font-size="5.16px" fill="#000" opacity="1">61</text>
+<text aria-label="142,152,129,136" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.55555555555554" y="135.138" font-family="serif" font-size="5.16px" fill="#000" opacity="1">425</text>
+<text aria-label="372,381,57,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="376.88888888888886" y="62.63799999999999" font-family="serif" font-size="5.16px" fill="#000" opacity="1">715</text>
+<text aria-label="181,190,136,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.77777777777774" y="141.388" font-family="serif" font-size="5.16px" fill="#000" opacity="1">400</text>
+<text aria-label="295,305,147,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="300.4444444444444" y="152.638" font-family="serif" font-size="5.16px" fill="#000" opacity="1">355</text>
+</svg>

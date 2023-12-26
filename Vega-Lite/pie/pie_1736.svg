@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="278" height="286" viewBox="0 0 278 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="13,273,0,26" text-anchor="end" x="273.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Diesel Anderson port</text>
+<path aria-label="Customer: 5; heuristic Branding: encompassing" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.0,59.0A75,75,0,0,0,117.79092927350953,76.54666676607665L166.0,134.0Z" fill="#8f0c01" stroke="white" stroke-width="0"/>
+<path aria-label="Customer: 23; heuristic Branding: Bike" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.76826446919063,208.81730376948684A75,75,0,1,0,166.0,59.0L166.0,134.0Z" fill="#aff9eb" stroke="white" stroke-width="0"/>
+<path aria-label="Customer: 17; heuristic Branding: Incredible" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.79092927350953,76.54666676607665A75,75,0,0,0,160.76826446919063,208.81730376948684L166.0,134.0Z" fill="#83c64a" stroke="white" stroke-width="0"/>
+<text aria-label="132,137,43,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="135.21818710068976" y="52.427664129268265" font-family="Balto" font-size="9px" fill="#8f0c01" opacity="1">5</text>
+<text aria-label="250,260,131,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="255.9451744317186" y="140.14095470322508" font-family="Balto" font-size="9px" fill="#aff9eb" opacity="1">23</text>
+<text aria-label="75,85,155,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="80.40491353343619" y="164.81152949374527" font-family="Balto" font-size="9px" fill="#83c64a" opacity="1">17</text>
+<path  d="M77.0,274.25A5,5,0,1,1,67.0,274.25A5,5,0,1,1,77.0,274.25" fill="#aff9eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M124.0,274.25A5,5,0,1,1,114.0,274.25A5,5,0,1,1,124.0,274.25" fill="#83c64a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M199.0,274.25A5,5,0,1,1,189.0,274.25A5,5,0,1,1,199.0,274.25" fill="#8f0c01" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="82,104,267,278" text-anchor="start" x="82.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Bike</text>
+<text aria-label="129,184,267,278" text-anchor="start" x="129.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Incredible</text>
+<text aria-label="204,270,267,278" text-anchor="start" x="204.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">encompassing</text>
+<text aria-label="66,174,250,262" text-anchor="start" x="66.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">heuristic Branding</text>
+</svg>

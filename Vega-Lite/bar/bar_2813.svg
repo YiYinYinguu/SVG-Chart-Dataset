@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1009" height="378" viewBox="0 0 1009 378" style="background-color: rgb(255, 255, 255);">
+<line x1="271.5" y1="62.5" x2="271.5" y2="262.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="356.5" y1="62.5" x2="356.5" y2="262.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="441.5" y1="62.5" x2="441.5" y2="262.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="526.5" y1="62.5" x2="526.5" y2="262.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="611.5" y1="62.5" x2="611.5" y2="262.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="697.5" y1="62.5" x2="697.5" y2="262.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="782.5" y1="62.5" x2="782.5" y2="262.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="867.5" y1="62.5" x2="867.5" y2="262.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="952.5" y1="62.5" x2="952.5" y2="262.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="220.5" y1="262.5" x2="1004.5" y2="262.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="220.5" y1="229.5" x2="1004.5" y2="229.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="220.5" y1="195.5" x2="1004.5" y2="195.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="220.5" y1="162.5" x2="1004.5" y2="162.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="220.5" y1="129.5" x2="1004.5" y2="129.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="220.5" y1="95.5" x2="1004.5" y2="95.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="220.5" y1="62.5" x2="1004.5" y2="62.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="257,277,269,299" text-anchor="end" x="271.1304347826087" y="269.5" transform="rotate(270.0, 277.1304347826087, 269.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">ant</text>
+<text aria-label="342,362,269,319" text-anchor="end" x="356.3478260869565" y="269.5" transform="rotate(270.0, 362.3478260869565, 269.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">congo</text>
+<text aria-label="427,447,269,309" text-anchor="end" x="441.5652173913043" y="269.5" transform="rotate(270.0, 447.5652173913043, 269.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">harp</text>
+<text aria-label="512,532,269,309" text-anchor="end" x="526.7826086956521" y="269.5" transform="rotate(270.0, 532.7826086956521, 269.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">heat</text>
+<text aria-label="598,618,269,319" text-anchor="end" x="612.0" y="269.5" transform="rotate(270.0, 618.0, 269.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">mouse</text>
+<text aria-label="683,703,269,319" text-anchor="end" x="697.2173913043478" y="269.5" transform="rotate(270.0, 703.2173913043478, 269.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">onion</text>
+<text aria-label="768,788,269,349" text-anchor="end" x="782.4347826086956" y="269.5" transform="rotate(270.0, 788.4347826086956, 269.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">princess</text>
+<text aria-label="853,873,269,339" text-anchor="end" x="867.6521739130434" y="269.5" transform="rotate(270.0, 873.6521739130434, 269.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">quartet</text>
+<text aria-label="938,958,269,359" text-anchor="end" x="952.8695652173911" y="269.5" transform="rotate(270.0, 958.8695652173911, 269.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">shadowbox</text>
+<line aria-label="271,271,262,267" x1="271.5" y1="262.5" x2="271.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="356,356,262,267" x1="356.5" y1="262.5" x2="356.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="441,441,262,267" x1="441.5" y1="262.5" x2="441.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="526,526,262,267" x1="526.5" y1="262.5" x2="526.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="611,611,262,267" x1="611.5" y1="262.5" x2="611.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="697,697,262,267" x1="697.5" y1="262.5" x2="697.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="782,782,262,267" x1="782.5" y1="262.5" x2="782.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="867,867,262,267" x1="867.5" y1="262.5" x2="867.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="952,952,262,267" x1="952.5" y1="262.5" x2="952.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="220,1004,262,262" x1="220.5" y1="262.5" x2="1004.5" y2="262.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="835,1004,0,26" text-anchor="end" x="1004.0" y="25.20266666666666" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electric male</text>
+<text aria-label="203,213,249,269" text-anchor="end" x="213.5" y="268.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="183,213,216,236" text-anchor="end" x="213.5" y="235.16666666666669" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="183,213,182,202" text-anchor="end" x="213.5" y="201.83333333333334" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="183,213,149,169" text-anchor="end" x="213.5" y="168.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="183,213,116,136" text-anchor="end" x="213.5" y="135.16666666666669" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="183,213,82,102" text-anchor="end" x="213.5" y="101.83333333333333" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="183,213,49,69" text-anchor="end" x="213.5" y="68.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="215,220,262,262" x1="220.5" y1="262.5" x2="215.5" y2="262.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,220,229,229" x1="220.5" y1="229.5" x2="215.5" y2="229.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,220,195,195" x1="220.5" y1="195.5" x2="215.5" y2="195.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,220,162,162" x1="220.5" y1="162.5" x2="215.5" y2="162.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,220,129,129" x1="220.5" y1="129.5" x2="215.5" y2="129.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,220,95,95" x1="220.5" y1="95.5" x2="215.5" y2="95.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="215,220,62,62" x1="220.5" y1="62.5" x2="215.5" y2="62.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="160,172,108,216" text-anchor="middle" x="174.34814453125" y="162.5" transform="rotate(-90.0, 172.34814453125, 162.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Southwest Jewelery</text>
+<path aria-label="bountiful down: quartet; Southwest Jewelery: 105; known Bespoke lavender: shrilly" role="graphics-symbol" aria-roledescription="bar" d="M833.5652173913043,227.0h68.17391304347825v35h-68.17391304347825Z" fill="#ab600e"/>
+<path aria-label="bountiful down: congo; Southwest Jewelery: 421; known Bespoke lavender: shrilly" role="graphics-symbol" aria-roledescription="bar" d="M322.2608695652174,121.66666666666667h68.17391304347825v140.33333333333331h-68.17391304347825Z" fill="#ab600e"/>
+<path aria-label="bountiful down: mouse; Southwest Jewelery: 497; known Bespoke lavender: shrilly" role="graphics-symbol" aria-roledescription="bar" d="M577.9130434782608,96.33333333333333h68.17391304347825v165.66666666666669h-68.17391304347825Z" fill="#ab600e"/>
+<path aria-label="bountiful down: onion; Southwest Jewelery: 319; known Bespoke lavender: shrilly" role="graphics-symbol" aria-roledescription="bar" d="M663.1304347826086,155.66666666666669h68.17391304347825v106.33333333333333h-68.17391304347825Z" fill="#ab600e"/>
+<path aria-label="bountiful down: harp; Southwest Jewelery: 598; known Bespoke lavender: shrilly" role="graphics-symbol" aria-roledescription="bar" d="M407.4782608695652,62.66666666666666h68.17391304347825v199.33333333333334h-68.17391304347825Z" fill="#ab600e"/>
+<path aria-label="bountiful down: shadowbox; Southwest Jewelery: 251; known Bespoke lavender: shrilly" role="graphics-symbol" aria-roledescription="bar" d="M918.782608695652,178.33333333333331h68.17391304347825v83.66666666666667h-68.17391304347825Z" fill="#ab600e"/>
+<path aria-label="bountiful down: heat; Southwest Jewelery: 327; known Bespoke lavender: shrilly" role="graphics-symbol" aria-roledescription="bar" d="M492.695652173913,153.0h68.17391304347825v109.00000000000001h-68.17391304347825Z" fill="#ab600e"/>
+<path aria-label="bountiful down: princess; Southwest Jewelery: 597; known Bespoke lavender: shrilly" role="graphics-symbol" aria-roledescription="bar" d="M748.3478260869565,63.0h68.17391304347825v199h-68.17391304347825Z" fill="#ab600e"/>
+<path aria-label="bountiful down: ant; Southwest Jewelery: 23; known Bespoke lavender: shrilly" role="graphics-symbol" aria-roledescription="bar" d="M237.04347826086956,254.33333333333334h68.17391304347825v7.666666666666657h-68.17391304347825Z" fill="#ab600e"/>
+<text aria-label="849,886,194,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="867.6521739130434" y="217.536" font-family="avenir" font-size="23.52px" fill="#000" opacity="1">105</text>
+<text aria-label="337,374,88,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="356.3478260869565" y="112.20266666666667" font-family="avenir" font-size="23.52px" fill="#000" opacity="1">421</text>
+<text aria-label="593,630,63,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="612.0" y="86.86933333333333" font-family="avenir" font-size="23.52px" fill="#000" opacity="1">497</text>
+<text aria-label="678,715,122,147" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="697.2173913043478" y="146.2026666666667" font-family="avenir" font-size="23.52px" fill="#000" opacity="1">319</text>
+<text aria-label="423,459,29,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="441.5652173913043" y="53.20266666666666" font-family="avenir" font-size="23.52px" fill="#000" opacity="1">598</text>
+<text aria-label="934,971,145,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="952.8695652173911" y="168.86933333333332" font-family="avenir" font-size="23.52px" fill="#000" opacity="1">251</text>
+<text aria-label="508,545,120,144" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="526.7826086956521" y="143.536" font-family="avenir" font-size="23.52px" fill="#000" opacity="1">327</text>
+<text aria-label="764,800,30,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="782.4347826086956" y="53.536" font-family="avenir" font-size="23.52px" fill="#000" opacity="1">597</text>
+<text aria-label="258,283,221,245" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.1304347826087" y="244.86933333333334" font-family="avenir" font-size="23.52px" fill="#000" opacity="1">23</text>
+<path  d="M6.0,79.0h10v10h-10Z" fill="#ab600e" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,77,88" text-anchor="start" x="21.0" y="87.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">shrilly</text>
+<text aria-label="5,137,60,72" text-anchor="start" x="5.0" y="71.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">known Bespoke lavender</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="649" height="324" viewBox="0 0 649 324" style="background-color: rgb(255, 255, 255);">
+<line x1="113.5" y1="36.5" x2="113.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="231.5" y1="36.5" x2="231.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="349.5" y1="36.5" x2="349.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="467.5" y1="36.5" x2="467.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="585.5" y1="36.5" x2="585.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="55.5" y1="236.5" x2="644.5" y2="236.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="55.5" y1="200.5" x2="644.5" y2="200.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="55.5" y1="163.5" x2="644.5" y2="163.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="55.5" y1="127.5" x2="644.5" y2="127.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="55.5" y1="91.5" x2="644.5" y2="91.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="55.5" y1="54.5" x2="644.5" y2="54.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="102,118,243,299" text-anchor="end" x="113.89999999999998" y="243.5" transform="rotate(270.0, 118.89999999999998, 243.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">channel</text>
+<text aria-label="220,236,243,331" text-anchor="end" x="231.7" y="243.5" transform="rotate(270.0, 236.7, 243.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">frustration</text>
+<text aria-label="338,354,243,283" text-anchor="end" x="349.5" y="243.5" transform="rotate(270.0, 354.5, 243.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">jewel</text>
+<text aria-label="456,472,243,291" text-anchor="end" x="467.29999999999995" y="243.5" transform="rotate(270.0, 472.29999999999995, 243.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">ligand</text>
+<text aria-label="574,590,243,299" text-anchor="end" x="585.1" y="243.5" transform="rotate(270.0, 590.1, 243.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">passing</text>
+<line aria-label="113,113,236,241" x1="113.5" y1="236.5" x2="113.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="231,231,236,241" x1="231.5" y1="236.5" x2="231.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="349,349,236,241" x1="349.5" y1="236.5" x2="349.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="467,467,236,241" x1="467.5" y1="236.5" x2="467.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="585,585,236,241" x1="585.5" y1="236.5" x2="585.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="55,644,236,236" x1="55.5" y1="236.5" x2="644.5" y2="236.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,148,0,26" text-anchor="start" x="5.24853515625" y="25.906409090909083" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Canada West</text>
+<text aria-label="40,48,226,242" text-anchor="end" x="48.5" y="241.5" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="24,48,190,206" text-anchor="end" x="48.5" y="205.13636363636363" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="24,48,153,169" text-anchor="end" x="48.5" y="168.77272727272725" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="24,48,117,133" text-anchor="end" x="48.5" y="132.40909090909093" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="24,48,81,97" text-anchor="end" x="48.5" y="96.04545454545453" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="24,48,44,60" text-anchor="end" x="48.5" y="59.68181818181819" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="50,55,236,236" x1="55.5" y1="236.5" x2="50.5" y2="236.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,200,200" x1="55.5" y1="200.5" x2="50.5" y2="200.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,163,163" x1="55.5" y1="163.5" x2="50.5" y2="163.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,127,127" x1="55.5" y1="127.5" x2="50.5" y2="127.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,91,91" x1="55.5" y1="91.5" x2="50.5" y2="91.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,54,54" x1="55.5" y1="54.5" x2="50.5" y2="54.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,61,211" text-anchor="middle" x="16.74853515625" y="136.5" transform="rotate(-90.0, 14.74853515625, 136.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">molestias uniform Ferrari</text>
+<line aria-label="55,55,36,236" x1="55.5" y1="236.5" x2="55.5" y2="36.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="in driver: jewel; molestias uniform Ferrari: 30; ROI: Mandatory" role="graphics-symbol" aria-roledescription="bar" d="M307.092,225.0909090909091h84.816v10.909090909090907h-84.816Z" fill="#5ed3bb"/>
+<path aria-label="in driver: ligand; molestias uniform Ferrari: 525; ROI: Mandatory" role="graphics-symbol" aria-roledescription="bar" d="M424.89199999999994,45.09090909090908h84.816v190.9090909090909h-84.816Z" fill="#5ed3bb"/>
+<path aria-label="in driver: frustration; molestias uniform Ferrari: 101; ROI: Mandatory" role="graphics-symbol" aria-roledescription="bar" d="M189.29199999999997,199.27272727272728h84.816v36.72727272727272h-84.816Z" fill="#5ed3bb"/>
+<path aria-label="in driver: passing; molestias uniform Ferrari: 235; ROI: Mandatory" role="graphics-symbol" aria-roledescription="bar" d="M542.692,150.54545454545456h84.816v85.45454545454545h-84.816Z" fill="#5ed3bb"/>
+<path aria-label="in driver: channel; molestias uniform Ferrari: 432; ROI: Mandatory" role="graphics-symbol" aria-roledescription="bar" d="M71.49199999999999,78.90909090909092h84.816v157.09090909090907h-84.816Z" fill="#5ed3bb"/>
+<text aria-label="344,354,213,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="349.5" y="221.9064090909091" font-family="avenir" font-size="8.834999999999999px" fill="#000" opacity="1">30</text>
+<text aria-label="459,474,33,42" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="467.29999999999995" y="41.90640909090909" font-family="avenir" font-size="8.834999999999999px" fill="#000" opacity="1">525</text>
+<text aria-label="224,239,187,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="231.7" y="196.0882272727273" font-family="avenir" font-size="8.834999999999999px" fill="#000" opacity="1">101</text>
+<text aria-label="577,592,138,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="585.1" y="147.36095454545455" font-family="avenir" font-size="8.834999999999999px" fill="#000" opacity="1">235</text>
+<text aria-label="106,121,66,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="113.89999999999998" y="75.72459090909092" font-family="avenir" font-size="8.834999999999999px" fill="#000" opacity="1">432</text>
+</svg>

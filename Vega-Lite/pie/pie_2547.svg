@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="483" height="270" viewBox="0 0 483 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="426,478,0,26" text-anchor="end" x="478.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">East</text>
+<path aria-label="male East: 151; South Northeast: generously" role="graphics-symbol" aria-roledescription="arc mark"  d="M46.278111419022345,118.34445583338197A75,75,0,0,0,33.02587218079712,186.08850219112412L68.53310857160388,175.68484111016954A38,38,0,0,1,75.24757645230466,141.3611909555802Z" fill="#ce45f7" stroke="black" stroke-width="3"/>
+<path aria-label="male East: 4; South Northeast: District" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.89995357348911,90.02406935276771A75,75,0,0,0,105.0,90.0L105.0,127.0A38,38,0,0,1,105.96264314390115,127.01219513873565Z" fill="#1a79bd" stroke="black" stroke-width="3"/>
+<path aria-label="male East: 11; South Northeast: Principe" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.69700118483638,231.69560909300463A75,75,0,0,0,75.42331086650108,233.9218358715173L90.01447750569389,199.92039684156876A38,38,0,0,1,87.61981393365043,198.7924419404557Z" fill="#161ced" stroke="black" stroke-width="3"/>
+<path aria-label="male East: 142; South Northeast: microchip" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,46.278111419022345,118.34445583338197L75.24757645230466,141.3611909555802A38,38,0,0,1,105.0,127.0Z" fill="#a42c2a" stroke="black" stroke-width="3"/>
+<path aria-label="male East: 128; South Northeast: Realigned" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.02587218079712,186.08850219112412A75,75,0,0,0,70.69700118483638,231.69560909300463L87.61981393365043,198.7924419404557A38,38,0,0,1,68.53310857160388,175.68484111016954Z" fill="#f6ee4f" stroke="black" stroke-width="3"/>
+<path aria-label="male East: 260; South Northeast: Incredible" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.61519925439214,172.5876241490574A75,75,0,0,0,106.89995357348911,90.02406935276771L105.96264314390115,127.01219513873565A38,38,0,0,1,142.80503428889202,168.84439623552242Z" fill="#e8016a" stroke="black" stroke-width="3"/>
+<path aria-label="male East: 221; South Northeast: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.22120476701866,239.81803940749091A75,75,0,0,0,179.61519925439214,172.5876241490574L142.80503428889202,168.84439623552242A38,38,0,0,1,107.64541041528946,202.90780663312873Z" fill="#0c3de7" stroke="black" stroke-width="3"/>
+<path aria-label="male East: 75; South Northeast: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.42331086650108,233.9218358715173A75,75,0,0,0,110.22120476701866,239.81803940749091L107.64541041528946,202.90780663312873A38,38,0,0,1,90.01447750569389,199.92039684156876Z" fill="#0c3de7" stroke="black" stroke-width="3"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#1a79bd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,40.25A5,5,0,1,1,73.0,40.25A5,5,0,1,1,83.0,40.25" fill="#e8016a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M160.0,40.25A5,5,0,1,1,150.0,40.25A5,5,0,1,1,160.0,40.25" fill="#0c3de7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M212.0,40.25A5,5,0,1,1,202.0,40.25A5,5,0,1,1,212.0,40.25" fill="#161ced" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,40.25A5,5,0,1,1,269.0,40.25A5,5,0,1,1,279.0,40.25" fill="#f6ee4f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M351.0,40.25A5,5,0,1,1,341.0,40.25A5,5,0,1,1,351.0,40.25" fill="#ce45f7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M428.0,40.25A5,5,0,1,1,418.0,40.25A5,5,0,1,1,428.0,40.25" fill="#a42c2a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">District</text>
+<text aria-label="88,143,33,44" text-anchor="start" x="88.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Incredible</text>
+<text aria-label="165,192,33,44" text-anchor="start" x="165.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="217,261,33,44" text-anchor="start" x="217.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Principe</text>
+<text aria-label="284,333,33,44" text-anchor="start" x="284.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Realigned</text>
+<text aria-label="356,411,33,44" text-anchor="start" x="356.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">generously</text>
+<text aria-label="433,482,33,44" text-anchor="start" x="433.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">microchip</text>
+</svg>

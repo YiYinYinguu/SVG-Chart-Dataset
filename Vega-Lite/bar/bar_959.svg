@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1034" height="302" viewBox="0 0 1034 302" style="background-color: rgb(255, 255, 255);">
+<line x1="202.5" y1="238.5" x2="1029.5" y2="238.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="202.5" y1="207.5" x2="1029.5" y2="207.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="202.5" y1="176.5" x2="1029.5" y2="176.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="202.5" y1="146.5" x2="1029.5" y2="146.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="202.5" y1="115.5" x2="1029.5" y2="115.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="202.5" y1="84.5" x2="1029.5" y2="84.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="202.5" y1="53.5" x2="1029.5" y2="53.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="262,273,245,273" text-anchor="end" x="270.91666666666663" y="245.5" transform="rotate(270.0, 273.91666666666663, 245.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">demur</text>
+<text aria-label="400,411,245,284" text-anchor="end" x="408.74999999999994" y="245.5" transform="rotate(270.0, 411.74999999999994, 245.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">feeling</text>
+<text aria-label="538,549,245,284" text-anchor="end" x="546.5833333333333" y="245.5" transform="rotate(270.0, 549.5833333333333, 245.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">flicker</text>
+<text aria-label="676,687,245,295" text-anchor="end" x="684.4166666666666" y="245.5" transform="rotate(270.0, 687.4166666666666, 245.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">overshoot</text>
+<text aria-label="814,825,245,284" text-anchor="end" x="822.2499999999999" y="245.5" transform="rotate(270.0, 825.2499999999999, 245.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">soprano</text>
+<text aria-label="952,963,245,284" text-anchor="end" x="960.0833333333334" y="245.5" transform="rotate(270.0, 963.0833333333334, 245.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">taxicab</text>
+<line aria-label="270,270,238,243" x1="270.5" y1="238.5" x2="270.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="408,408,238,243" x1="408.5" y1="238.5" x2="408.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="546,546,238,243" x1="546.5" y1="238.5" x2="546.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="684,684,238,243" x1="684.5" y1="238.5" x2="684.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="822,822,238,243" x1="822.5" y1="238.5" x2="822.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="960,960,238,243" x1="960.5" y1="238.5" x2="960.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="202,1029,238,238" x1="202.5" y1="238.5" x2="1029.5" y2="238.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.854961538461545" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">MTF</text>
+<text aria-label="190,195,231,242" text-anchor="end" x="195.5" y="241.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="179,195,200,211" text-anchor="end" x="195.5" y="210.73076923076923" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="179,195,169,180" text-anchor="end" x="195.5" y="179.96153846153845" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="179,195,139,150" text-anchor="end" x="195.5" y="149.19230769230768" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="179,195,108,119" text-anchor="end" x="195.5" y="118.42307692307692" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="168,195,77,88" text-anchor="end" x="195.5" y="87.65384615384615" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="168,195,46,57" text-anchor="end" x="195.5" y="56.88461538461537" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">1,200</text>
+<line aria-label="197,202,238,238" x1="202.5" y1="238.5" x2="197.5" y2="238.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,202,207,207" x1="202.5" y1="207.5" x2="197.5" y2="207.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,202,176,176" x1="202.5" y1="176.5" x2="197.5" y2="176.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,202,146,146" x1="202.5" y1="146.5" x2="197.5" y2="146.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,202,115,115" x1="202.5" y1="115.5" x2="197.5" y2="115.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,202,84,84" x1="202.5" y1="84.5" x2="197.5" y2="84.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,202,53,53" x1="202.5" y1="53.5" x2="197.5" y2="53.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="149,161,90,186" text-anchor="middle" x="163.9755859375" y="138.5" transform="rotate(-90.0, 161.9755859375, 138.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Research Account</text>
+<line aria-label="202,202,38,238" x1="202.5" y1="238.5" x2="202.5" y2="38.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="programming: taxicab; Research Account: 273; Tin: Graphic Plastic whereas" role="graphics-symbol" aria-roledescription="bar" d="M904.2608333333334,177.69230769230768h111.64500000000001v42h-111.64500000000001Z" fill="#4cdf0c"/>
+<path aria-label="programming: taxicab; Research Account: 119; Tin: protocol Montana" role="graphics-symbol" aria-roledescription="bar" d="M904.2608333333334,219.69230769230768h111.64500000000001v18.30769230769232h-111.64500000000001Z" fill="#bf6a46"/>
+<path aria-label="programming: taxicab; Research Account: 182; Tin: Coupe Personal" role="graphics-symbol" aria-roledescription="bar" d="M904.2608333333334,149.69230769230768h111.64500000000001v27.999999999999986h-111.64500000000001Z" fill="#9aebb1"/>
+<path aria-label="programming: soprano; Research Account: 562; Tin: Graphic Plastic whereas" role="graphics-symbol" aria-roledescription="bar" d="M766.4274999999999,148.76923076923077h111.64500000000001v86.46153846153845h-111.64500000000001Z" fill="#4cdf0c"/>
+<path aria-label="programming: soprano; Research Account: 18; Tin: protocol Montana" role="graphics-symbol" aria-roledescription="bar" d="M766.4274999999999,235.23076923076923h111.64500000000001v2.7692307692307736h-111.64500000000001Z" fill="#bf6a46"/>
+<path aria-label="programming: soprano; Research Account: 125; Tin: Coupe Personal" role="graphics-symbol" aria-roledescription="bar" d="M766.4274999999999,129.53846153846155h111.64500000000001v19.230769230769226h-111.64500000000001Z" fill="#9aebb1"/>
+<path aria-label="programming: demur; Research Account: 221; Tin: Graphic Plastic whereas" role="graphics-symbol" aria-roledescription="bar" d="M215.09416666666658,147.38461538461536h111.64500000000001v34.000000000000014h-111.64500000000001Z" fill="#4cdf0c"/>
+<path aria-label="programming: demur; Research Account: 368; Tin: protocol Montana" role="graphics-symbol" aria-roledescription="bar" d="M215.09416666666658,181.3846153846154h111.64500000000001v56.61538461538461h-111.64500000000001Z" fill="#bf6a46"/>
+<path aria-label="programming: demur; Research Account: 80; Tin: Coupe Personal" role="graphics-symbol" aria-roledescription="bar" d="M215.09416666666658,135.0769230769231h111.64500000000001v12.307692307692292h-111.64500000000001Z" fill="#9aebb1"/>
+<path aria-label="programming: overshoot; Research Account: 165; Tin: Graphic Plastic whereas" role="graphics-symbol" aria-roledescription="bar" d="M628.5941666666665,124.76923076923077h111.64500000000001v25.38461538461536h-111.64500000000001Z" fill="#4cdf0c"/>
+<path aria-label="programming: overshoot; Research Account: 571; Tin: protocol Montana" role="graphics-symbol" aria-roledescription="bar" d="M628.5941666666665,150.15384615384613h111.64500000000001v87.84615384615387h-111.64500000000001Z" fill="#bf6a46"/>
+<path aria-label="programming: overshoot; Research Account: 434; Tin: Coupe Personal" role="graphics-symbol" aria-roledescription="bar" d="M628.5941666666665,58.0h111.64500000000001v66.76923076923077h-111.64500000000001Z" fill="#9aebb1"/>
+<path aria-label="programming: flicker; Research Account: 561; Tin: Graphic Plastic whereas" role="graphics-symbol" aria-roledescription="bar" d="M490.76083333333327,110.76923076923076h111.64500000000001v86.3076923076923h-111.64500000000001Z" fill="#4cdf0c"/>
+<path aria-label="programming: flicker; Research Account: 266; Tin: protocol Montana" role="graphics-symbol" aria-roledescription="bar" d="M490.76083333333327,197.07692307692307h111.64500000000001v40.923076923076934h-111.64500000000001Z" fill="#bf6a46"/>
+<path aria-label="programming: flicker; Research Account: 398; Tin: Coupe Personal" role="graphics-symbol" aria-roledescription="bar" d="M490.76083333333327,49.53846153846154h111.64500000000001v61.23076923076922h-111.64500000000001Z" fill="#9aebb1"/>
+<path aria-label="programming: feeling; Research Account: 546; Tin: Graphic Plastic whereas" role="graphics-symbol" aria-roledescription="bar" d="M352.9274999999999,128.6153846153846h111.64500000000001v84h-111.64500000000001Z" fill="#4cdf0c"/>
+<path aria-label="programming: feeling; Research Account: 165; Tin: protocol Montana" role="graphics-symbol" aria-roledescription="bar" d="M352.9274999999999,212.6153846153846h111.64500000000001v25.384615384615387h-111.64500000000001Z" fill="#bf6a46"/>
+<path aria-label="programming: feeling; Research Account: 148; Tin: Coupe Personal" role="graphics-symbol" aria-roledescription="bar" d="M352.9274999999999,105.84615384615384h111.64500000000001v22.769230769230774h-111.64500000000001Z" fill="#9aebb1"/>
+<text aria-label="950,970,160,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="960.0833333333334" y="173.00880769230767" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">273</text>
+<text aria-label="950,970,202,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="960.0833333333334" y="215.00880769230767" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">119</text>
+<text aria-label="950,970,132,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="960.0833333333334" y="145.0088076923077" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">182</text>
+<text aria-label="812,832,131,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="822.2499999999999" y="144.0857307692308" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">562</text>
+<text aria-label="815,828,218,231" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="822.2499999999999" y="230.54726923076922" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">18</text>
+<text aria-label="812,832,112,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="822.2499999999999" y="124.85496153846155" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">125</text>
+<text aria-label="260,280,130,143" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="270.91666666666663" y="142.70111538461538" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">221</text>
+<text aria-label="260,280,164,177" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="270.91666666666663" y="176.70111538461538" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">368</text>
+<text aria-label="264,277,117,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="270.91666666666663" y="130.39342307692309" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">80</text>
+<text aria-label="674,694,107,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="684.4166666666666" y="120.08573076923078" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">165</text>
+<text aria-label="674,694,133,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="684.4166666666666" y="145.47034615384615" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">571</text>
+<text aria-label="674,694,40,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="684.4166666666666" y="53.3165" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">434</text>
+<text aria-label="536,556,93,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="546.5833333333333" y="106.08573076923076" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">561</text>
+<text aria-label="536,556,179,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="546.5833333333333" y="192.39342307692306" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">266</text>
+<text aria-label="536,556,32,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="546.5833333333333" y="44.854961538461545" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">398</text>
+<text aria-label="398,418,111,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="408.74999999999994" y="123.93188461538462" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">546</text>
+<text aria-label="398,418,195,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="408.74999999999994" y="207.9318846153846" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">165</text>
+<text aria-label="398,418,88,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="408.74999999999994" y="101.16265384615384" font-family="Balto" font-size="12.405px" fill="#000" opacity="1">148</text>
+<path  d="M6.0,55.0h10v10h-10Z" fill="#4cdf0c" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,68.0h10v10h-10Z" fill="#bf6a46" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,81.0h10v10h-10Z" fill="#9aebb1" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,147,53,64" text-anchor="start" x="21.0" y="63.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Graphic Plastic whereas</text>
+<text aria-label="21,109,66,77" text-anchor="start" x="21.0" y="76.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">protocol Montana</text>
+<text aria-label="21,98,79,90" text-anchor="start" x="21.0" y="89.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Coupe Personal</text>
+<text aria-label="5,23,36,48" text-anchor="start" x="5.0" y="47.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Tin</text>
+</svg>

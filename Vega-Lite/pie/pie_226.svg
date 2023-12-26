@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="266" height="270" viewBox="0 0 266 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="170,261,0,26" text-anchor="end" x="261.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Plastic</text>
+<path aria-label="Cambridgeshire: 519; Rubber Azerbaijan: maroon" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.72348070089957,107.80437373905397A75,75,0,0,0,173.33100735733763,164.91720287366678L153.28724519918526,155.84815669739118A53,53,0,0,1,55.337926361969025,115.48842410893147Z" fill="#97ce8b" stroke="white" stroke-width="0"/>
+<path aria-label="Cambridgeshire: 229; Rubber Azerbaijan: Georgia" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.27849692891277,118.02308265530164A75,75,0,0,0,105.0,59.0L105.0,81.0A53,53,0,0,1,156.78347116309834,122.70964507641315Z" fill="#d81e48" stroke="white" stroke-width="0"/>
+<path aria-label="Cambridgeshire: 108; Rubber Azerbaijan: foolishly" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.33100735733763,164.91720287366678A75,75,0,0,0,178.27849692891277,118.02308265530164L156.78347116309834,122.70964507641315A53,53,0,0,1,153.28724519918526,155.84815669739118Z" fill="#0cb3d6" stroke="white" stroke-width="0"/>
+<path aria-label="Cambridgeshire: 205; Rubber Azerbaijan: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,34.72348070089957,107.80437373905397L55.337926361969025,115.48842410893147A53,53,0,0,1,104.99999999999999,81.0Z" fill="#3d6d50" stroke="white" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#d81e48" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M81.0,258.25A5,5,0,1,1,71.0,258.25A5,5,0,1,1,81.0,258.25" fill="#0cb3d6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M149.0,258.25A5,5,0,1,1,139.0,258.25A5,5,0,1,1,149.0,258.25" fill="#97ce8b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M214.0,258.25A5,5,0,1,1,204.0,258.25A5,5,0,1,1,214.0,258.25" fill="#3d6d50" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Georgia</text>
+<text aria-label="86,135,251,262" text-anchor="start" x="86.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">foolishly</text>
+<text aria-label="154,187,251,262" text-anchor="start" x="154.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">maroon</text>
+<text aria-label="219,257,251,262" text-anchor="start" x="219.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">payment</text>
+</svg>

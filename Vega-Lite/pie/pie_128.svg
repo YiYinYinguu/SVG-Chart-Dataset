@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="366" height="286" viewBox="0 0 366 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="33,176,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Connecticut</text>
+<path aria-label="Lilangeni SMTP: 177; blue challenge Communications: Trial" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.91777615777153,167.8675542975631A75,75,0,0,0,176.6254883939986,111.75613764830463L149.88530606023912,120.0605129262709A47,47,0,0,1,146.93513972553683,155.2236673598062Z" fill="#a3ed4c" stroke="black" stroke-width="2"/>
+<path aria-label="Lilangeni SMTP: 292; blue challenge Communications: Infrastructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.6254883939986,111.75613764830463A75,75,0,0,0,105.0,59.0L105.0,87.0A47,47,0,0,1,149.88530606023912,120.0605129262709Z" fill="#7fbba7" stroke="black" stroke-width="2"/>
+<path aria-label="Lilangeni SMTP: 312; blue challenge Communications: black" role="graphics-symbol" aria-roledescription="arc mark"  d="M86.12723527714837,206.58662929022046A75,75,0,0,0,171.91777615777153,167.8675542975631L146.93513972553683,155.2236673598062A47,47,0,0,1,93.17306744034632,179.48762102187146Z" fill="#7f11e2" stroke="black" stroke-width="2"/>
+<path aria-label="Lilangeni SMTP: 291; blue challenge Communications: gee" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.210877326331698,128.3797571491088A75,75,0,0,0,77.1482534327227,203.63677342577094L87.54623881783957,177.6390446801498A47,47,0,0,1,58.13214979116786,130.47798114677485Z" fill="#423d0b" stroke="black" stroke-width="2"/>
+<path aria-label="Lilangeni SMTP: 29; blue challenge Communications: cyan" role="graphics-symbol" aria-roledescription="arc mark"  d="M77.1482534327227,203.63677342577094A75,75,0,0,0,86.12723527714837,206.58662929022046L93.17306744034632,179.48762102187146A47,47,0,0,1,87.54623881783957,177.6390446801498Z" fill="#38631b" stroke="black" stroke-width="2"/>
+<path aria-label="Lilangeni SMTP: 344; blue challenge Communications: voluptates" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.210877326331698,128.3797571491088L58.13214979116786,130.47798114677485A47,47,0,0,1,104.99999999999999,87.0Z" fill="#3be0f1" stroke="black" stroke-width="2"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#7fbba7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M113.0,274.25A5,5,0,1,1,103.0,274.25A5,5,0,1,1,113.0,274.25" fill="#a3ed4c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M165.0,274.25A5,5,0,1,1,155.0,274.25A5,5,0,1,1,165.0,274.25" fill="#7f11e2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,274.25A5,5,0,1,1,207.0,274.25A5,5,0,1,1,217.0,274.25" fill="#38631b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M264.0,274.25A5,5,0,1,1,254.0,274.25A5,5,0,1,1,264.0,274.25" fill="#423d0b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M306.0,274.25A5,5,0,1,1,296.0,274.25A5,5,0,1,1,306.0,274.25" fill="#3be0f1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Infrastructure</text>
+<text aria-label="118,145,267,278" text-anchor="start" x="118.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Trial</text>
+<text aria-label="170,197,267,278" text-anchor="start" x="170.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">black</text>
+<text aria-label="222,244,267,278" text-anchor="start" x="222.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">cyan</text>
+<text aria-label="269,285,267,278" text-anchor="start" x="269.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">gee</text>
+<text aria-label="311,366,267,278" text-anchor="start" x="311.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">voluptates</text>
+<text aria-label="5,179,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">blue challenge Communications</text>
+</svg>

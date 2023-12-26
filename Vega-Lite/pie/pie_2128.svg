@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="270" viewBox="0 0 299 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">South</text>
+<path aria-label="virtual: 272; female: Legacy" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.99377216963063,133.03349300595727A75,75,0,0,0,105.0,59.0L105.0,77.0A57,57,0,0,1,161.99526684891927,133.26545468452753Z" fill="#75e1b9" stroke="white" stroke-width="0"/>
+<path aria-label="virtual: 248; female: feel" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.18846256578874,208.00298223911227A75,75,0,0,0,179.99377216963063,133.03349300595727L161.99526684891927,133.26545468452753A57,57,0,0,1,114.26323154999943,190.24226650172534Z" fill="#ba3d7f" stroke="white" stroke-width="0"/>
+<path aria-label="virtual: 133; female: tragic" role="graphics-symbol" aria-roledescription="arc mark"  d="M62.74254537505799,195.96214593298853A75,75,0,0,0,117.18846256578874,208.00298223911227L114.26323154999943,190.24226650172534A57,57,0,0,1,72.88433448504408,181.09123090907127Z" fill="#ac90bb" stroke="white" stroke-width="0"/>
+<path aria-label="virtual: 70; female: transition" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.911263830746755,174.55627409620314A75,75,0,0,0,62.74254537505799,195.96214593298853L72.88433448504408,181.09123090907127A57,57,0,0,1,57.05256051136753,164.82276831311438Z" fill="#2b4038" stroke="white" stroke-width="0"/>
+<path aria-label="virtual: 374; female: whoever" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,41.911263830746755,174.55627409620314L57.05256051136753,164.82276831311438A57,57,0,0,1,104.99999999999999,77.0Z" fill="#184fba" stroke="white" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#75e1b9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,258.25A5,5,0,1,1,63.0,258.25A5,5,0,1,1,73.0,258.25" fill="#ba3d7f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M120.0,258.25A5,5,0,1,1,110.0,258.25A5,5,0,1,1,120.0,258.25" fill="#ac90bb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M177.0,258.25A5,5,0,1,1,167.0,258.25A5,5,0,1,1,177.0,258.25" fill="#2b4038" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,258.25A5,5,0,1,1,244.0,258.25A5,5,0,1,1,254.0,258.25" fill="#184fba" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Legacy</text>
+<text aria-label="78,100,251,262" text-anchor="start" x="78.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">feel</text>
+<text aria-label="125,158,251,262" text-anchor="start" x="125.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">tragic</text>
+<text aria-label="182,237,251,262" text-anchor="start" x="182.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">transition</text>
+<text aria-label="259,297,251,262" text-anchor="start" x="259.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">whoever</text>
+</svg>

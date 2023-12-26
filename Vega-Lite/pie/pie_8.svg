@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="424" height="286" viewBox="0 0 424 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="19,396,0,26" text-anchor="middle" x="208.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">generating Northwest approach</text>
+<path aria-label="firewall Tuna: 19; Northeast: Washington" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.3716082615859,170.3030879930242A75,75,0,0,0,144.88065709924913,174.5086231780029L166.76202930484277,160.46563380962854A49,49,0,0,1,165.1227840642361,157.7180174887758Z" fill="#27632b" stroke="white" stroke-width="0"/>
+<path aria-label="firewall Tuna: 604; Northeast: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M208.0,59.0A75,75,0,0,0,142.3716082615859,170.3030879930242L165.1227840642361,157.7180174887758A49,49,0,0,1,208.0,85.0Z" fill="#c98c1d" stroke="white" stroke-width="0"/>
+<path aria-label="firewall Tuna: 729; Northeast: Branding" role="graphics-symbol" aria-roledescription="arc mark"  d="M252.54145226229056,194.34118850640988A75,75,0,0,0,208.0,59.0L208.0,85.0A49,49,0,0,1,237.10041547802984,173.4229098241878Z" fill="#fef91e" stroke="white" stroke-width="0"/>
+<path aria-label="firewall Tuna: 286; Northeast: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M182.4831152322605,204.52580089406928A75,75,0,0,0,252.54145226229056,194.34118850640988L237.10041547802984,173.4229098241878A49,49,0,0,1,191.3289686184102,180.07685658412527Z" fill="#1e8774" stroke="white" stroke-width="0"/>
+<path aria-label="firewall Tuna: 190; Northeast: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.88065709924913,174.5086231780029A75,75,0,0,0,182.4831152322605,204.52580089406928L191.3289686184102,180.07685658412527A49,49,0,0,1,166.76202930484277,160.46563380962854Z" fill="#02eb6a" stroke="white" stroke-width="0"/>
+<text aria-label="125,135,174,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.71015815563334" y="183.11160751560053" font-family="sans-serif" font-size="9px" fill="#27632b" opacity="1">19</text>
+<text aria-label="122,137,82,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.47344486162626" y="91.28749352336173" font-family="sans-serif" font-size="9px" fill="#c98c1d" opacity="1">604</text>
+<text aria-label="285,300,99,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="293.48932201945536" y="108.86504272877127" font-family="sans-serif" font-size="9px" fill="#fef91e" opacity="1">729</text>
+<text aria-label="213,228,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="220.94750088715867" y="226.06380982630952" font-family="sans-serif" font-size="9px" fill="#1e8774" opacity="1">286</text>
+<text aria-label="144,159,198,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.8513735448336" y="207.3372713943197" font-family="sans-serif" font-size="9px" fill="#02eb6a" opacity="1">190</text>
+<path  d="M119.0,274.25A5,5,0,1,1,109.0,274.25A5,5,0,1,1,119.0,274.25" fill="#fef91e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M190.0,274.25A5,5,0,1,1,180.0,274.25A5,5,0,1,1,190.0,274.25" fill="#1e8774" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M252.0,274.25A5,5,0,1,1,242.0,274.25A5,5,0,1,1,252.0,274.25" fill="#02eb6a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M308.0,274.25A5,5,0,1,1,298.0,274.25A5,5,0,1,1,308.0,274.25" fill="#27632b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M393.0,274.25A5,5,0,1,1,383.0,274.25A5,5,0,1,1,393.0,274.25" fill="#c98c1d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="124,168,267,278" text-anchor="start" x="124.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Branding</text>
+<text aria-label="195,239,267,278" text-anchor="start" x="195.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="257,284,267,278" text-anchor="start" x="257.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="313,368,267,278" text-anchor="start" x="313.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Washington</text>
+<text aria-label="398,420,267,278" text-anchor="start" x="398.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="108,162,250,262" text-anchor="start" x="108.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northeast</text>
+</svg>

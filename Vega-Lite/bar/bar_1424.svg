@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1107" height="341" viewBox="0 0 1107 341" style="background-color: rgb(255, 255, 255);">
+<line x1="159.5" y1="41.5" x2="159.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="219.5" y1="41.5" x2="219.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="280.5" y1="41.5" x2="280.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="340.5" y1="41.5" x2="340.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="400.5" y1="41.5" x2="400.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="461.5" y1="41.5" x2="461.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="521.5" y1="41.5" x2="521.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="582.5" y1="41.5" x2="582.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="642.5" y1="41.5" x2="642.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="703.5" y1="41.5" x2="703.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="763.5" y1="41.5" x2="763.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="824.5" y1="41.5" x2="824.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="884.5" y1="41.5" x2="884.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="944.5" y1="41.5" x2="944.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="1005.5" y1="41.5" x2="1005.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="1065.5" y1="41.5" x2="1065.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="123.5" y1="241.5" x2="1102.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="123.5" y1="201.5" x2="1102.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="123.5" y1="161.5" x2="1102.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="123.5" y1="121.5" x2="1102.5" y2="121.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="123.5" y1="81.5" x2="1102.5" y2="81.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="123.5" y1="41.5" x2="1102.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="148,164,248,280" text-anchor="end" x="159.2592592592592" y="248.5" transform="rotate(270.0, 164.2592592592592, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">bail</text>
+<text aria-label="208,224,248,280" text-anchor="end" x="219.6913580246913" y="248.5" transform="rotate(270.0, 224.6913580246913, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">bake</text>
+<text aria-label="269,285,248,304" text-anchor="end" x="280.12345679012344" y="248.5" transform="rotate(270.0, 285.12345679012344, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">billing</text>
+<text aria-label="329,345,248,304" text-anchor="end" x="340.55555555555554" y="248.5" transform="rotate(270.0, 345.55555555555554, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">comment</text>
+<text aria-label="389,405,248,336" text-anchor="end" x="400.98765432098764" y="248.5" transform="rotate(270.0, 405.98765432098764, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">consequence</text>
+<text aria-label="450,466,248,328" text-anchor="end" x="461.41975308641975" y="248.5" transform="rotate(270.0, 466.41975308641975, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">deployment</text>
+<text aria-label="510,526,248,328" text-anchor="end" x="521.8518518518518" y="248.5" transform="rotate(270.0, 526.8518518518518, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">exposition</text>
+<text aria-label="571,587,248,272" text-anchor="end" x="582.283950617284" y="248.5" transform="rotate(270.0, 587.283950617284, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">hub</text>
+<text aria-label="631,647,248,304" text-anchor="end" x="642.716049382716" y="248.5" transform="rotate(270.0, 647.716049382716, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">mandate</text>
+<text aria-label="692,708,248,296" text-anchor="end" x="703.1481481481482" y="248.5" transform="rotate(270.0, 708.1481481481482, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">museum</text>
+<text aria-label="752,768,248,304" text-anchor="end" x="763.5802469135803" y="248.5" transform="rotate(270.0, 768.5802469135803, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">poultry</text>
+<text aria-label="813,829,248,336" text-anchor="end" x="824.0123456790124" y="248.5" transform="rotate(270.0, 829.0123456790124, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">restoration</text>
+<text aria-label="873,889,248,280" text-anchor="end" x="884.4444444444445" y="248.5" transform="rotate(270.0, 889.4444444444445, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">sage</text>
+<text aria-label="933,949,248,288" text-anchor="end" x="944.8765432098766" y="248.5" transform="rotate(270.0, 949.8765432098766, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">slave</text>
+<text aria-label="994,1010,248,320" text-anchor="end" x="1005.3086419753087" y="248.5" transform="rotate(270.0, 1010.3086419753087, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">spectacle</text>
+<text aria-label="1054,1070,248,336" text-anchor="end" x="1065.7407407407409" y="248.5" transform="rotate(270.0, 1070.7407407407409, 248.5)" font-family="serif" font-size="15px" font-weight="normal" fill="#000" opacity="1">sponsorship</text>
+<line aria-label="159,159,241,246" x1="159.5" y1="241.5" x2="159.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="219,219,241,246" x1="219.5" y1="241.5" x2="219.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="280,280,241,246" x1="280.5" y1="241.5" x2="280.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="340,340,241,246" x1="340.5" y1="241.5" x2="340.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="400,400,241,246" x1="400.5" y1="241.5" x2="400.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="461,461,241,246" x1="461.5" y1="241.5" x2="461.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="521,521,241,246" x1="521.5" y1="241.5" x2="521.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="582,582,241,246" x1="582.5" y1="241.5" x2="582.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="642,642,241,246" x1="642.5" y1="241.5" x2="642.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="703,703,241,246" x1="703.5" y1="241.5" x2="703.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="763,763,241,246" x1="763.5" y1="241.5" x2="763.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="824,824,241,246" x1="824.5" y1="241.5" x2="824.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="884,884,241,246" x1="884.5" y1="241.5" x2="884.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="944,944,241,246" x1="944.5" y1="241.5" x2="944.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="1005,1005,241,246" x1="1005.5" y1="241.5" x2="1005.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="1065,1065,241,246" x1="1065.5" y1="241.5" x2="1065.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="123,1102,241,241" x1="123.5" y1="241.5" x2="1102.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="573,651,0,26" text-anchor="middle" x="612.5" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Diesel</text>
+<text aria-label="108,116,231,247" text-anchor="end" x="116.5" y="246.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="92,116,191,207" text-anchor="end" x="116.5" y="206.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="92,116,151,167" text-anchor="end" x="116.5" y="166.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="92,116,111,127" text-anchor="end" x="116.5" y="126.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="92,116,71,87" text-anchor="end" x="116.5" y="86.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="92,116,31,47" text-anchor="end" x="116.5" y="46.5" font-family="serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="118,123,241,241" x1="123.5" y1="241.5" x2="118.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="118,123,201,201" x1="123.5" y1="201.5" x2="118.5" y2="201.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="118,123,161,161" x1="123.5" y1="161.5" x2="118.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="118,123,121,121" x1="123.5" y1="121.5" x2="118.5" y2="121.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="118,123,81,81" x1="123.5" y1="81.5" x2="118.5" y2="81.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="118,123,41,41" x1="123.5" y1="41.5" x2="118.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="71,83,114,168" text-anchor="middle" x="85.5" y="141.5" transform="rotate(-90.0, 83.5, 141.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Ergonomic</text>
+<path aria-label="Norfolk Bacon: consequence; Ergonomic: 71; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M376.8148148148148,212.6h48.345679012345684v28.400000000000006h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: deployment; Ergonomic: 445; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M437.2469135802469,63.0h48.345679012345684v178h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: sponsorship; Ergonomic: 57; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M1041.567901234568,218.2h48.345679012345684v22.80000000000001h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: slave; Ergonomic: 100; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M920.7037037037037,201.0h48.345679012345684v40h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: museum; Ergonomic: 159; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M678.9753086419753,177.39999999999998h48.345679012345684v63.60000000000002h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: billing; Ergonomic: 107; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M255.95061728395058,198.20000000000002h48.345679012345684v42.79999999999998h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: spectacle; Ergonomic: 301; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M981.1358024691358,120.60000000000001h48.345679012345684v120.39999999999999h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: mandate; Ergonomic: 471; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M618.5432098765432,52.60000000000001h48.345679012345684v188.39999999999998h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: restoration; Ergonomic: 200; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M799.8395061728395,161.0h48.345679012345684v80h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: poultry; Ergonomic: 293; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M739.4074074074074,123.80000000000001h48.345679012345684v117.19999999999999h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: exposition; Ergonomic: 222; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M497.679012345679,152.20000000000002h48.345679012345684v88.79999999999998h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: bake; Ergonomic: 53; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M195.51851851851848,219.8h48.345679012345684v21.19999999999999h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: sage; Ergonomic: 85; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M860.2716049382716,207.0h48.345679012345684v34h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: bail; Ergonomic: 111; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M135.08641975308637,196.6h48.345679012345684v44.400000000000006h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: hub; Ergonomic: 444; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M558.1111111111111,63.4h48.345679012345684v177.6h-48.345679012345684Z" fill="#2ad8ff"/>
+<path aria-label="Norfolk Bacon: comment; Ergonomic: 291; Diesel: Grenada" role="graphics-symbol" aria-roledescription="bar" d="M316.3827160493827,124.60000000000001h48.345679012345684v116.39999999999999h-48.345679012345684Z" fill="#2ad8ff"/>
+<path  d="M6.0,58.0h10v10h-10Z" fill="#2ad8ff" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,56,67" text-anchor="start" x="21.0" y="66.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Grenada</text>
+<text aria-label="5,41,39,51" text-anchor="start" x="5.0" y="50.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Diesel</text>
+</svg>

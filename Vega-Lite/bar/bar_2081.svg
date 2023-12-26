@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="640" height="293" viewBox="0 0 640 293" style="background-color: rgb(255, 255, 255);">
+<line x1="43.5" y1="239.5" x2="491.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="43.5" y1="189.5" x2="491.5" y2="189.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="43.5" y1="139.5" x2="491.5" y2="139.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="43.5" y1="89.5" x2="491.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="43.5" y1="39.5" x2="491.5" y2="39.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="59,70,246,274" text-anchor="end" x="67.88888888888889" y="246.5" transform="rotate(270.0, 70.88888888888889, 246.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">banjo</text>
+<text aria-label="109,120,246,268" text-anchor="end" x="117.66666666666666" y="246.5" transform="rotate(270.0, 120.66666666666666, 246.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">cell</text>
+<text aria-label="159,170,246,285" text-anchor="end" x="167.44444444444446" y="246.5" transform="rotate(270.0, 170.44444444444446, 246.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">console</text>
+<text aria-label="209,220,246,274" text-anchor="end" x="217.22222222222223" y="246.5" transform="rotate(270.0, 220.22222222222223, 246.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">honor</text>
+<text aria-label="259,270,246,268" text-anchor="end" x="267.0" y="246.5" transform="rotate(270.0, 270.0, 246.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">many</text>
+<text aria-label="308,319,246,279" text-anchor="end" x="316.77777777777777" y="246.5" transform="rotate(270.0, 319.77777777777777, 246.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">orient</text>
+<text aria-label="358,369,246,279" text-anchor="end" x="366.55555555555554" y="246.5" transform="rotate(270.0, 369.55555555555554, 246.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">plight</text>
+<text aria-label="408,419,246,290" text-anchor="end" x="416.3333333333333" y="246.5" transform="rotate(270.0, 419.3333333333333, 246.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">redesign</text>
+<text aria-label="458,469,246,279" text-anchor="end" x="466.1111111111111" y="246.5" transform="rotate(270.0, 469.1111111111111, 246.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">tensor</text>
+<line aria-label="67,67,239,244" x1="67.5" y1="239.5" x2="67.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="117,117,239,244" x1="117.5" y1="239.5" x2="117.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="167,167,239,244" x1="167.5" y1="239.5" x2="167.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="217,217,239,244" x1="217.5" y1="239.5" x2="217.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="267,267,239,244" x1="267.5" y1="239.5" x2="267.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="316,316,239,244" x1="316.5" y1="239.5" x2="316.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="366,366,239,244" x1="366.5" y1="239.5" x2="366.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="416,416,239,244" x1="416.5" y1="239.5" x2="416.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="466,466,239,244" x1="466.5" y1="239.5" x2="466.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,491,239,239" x1="43.5" y1="239.5" x2="491.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,148,0,26" text-anchor="start" x="5.4140625" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">mole reboot</text>
+<text aria-label="31,36,232,243" text-anchor="end" x="36.5" y="242.5" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="20,36,182,193" text-anchor="end" x="36.5" y="192.5" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="20,36,132,143" text-anchor="end" x="36.5" y="142.5" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="20,36,82,93" text-anchor="end" x="36.5" y="92.5" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="20,36,32,43" text-anchor="end" x="36.5" y="42.5" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">400</text>
+<line aria-label="38,43,239,239" x1="43.5" y1="239.5" x2="38.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,189,189" x1="43.5" y1="189.5" x2="38.5" y2="189.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,139,139" x1="43.5" y1="139.5" x2="38.5" y2="139.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,89,89" x1="43.5" y1="89.5" x2="38.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,39,39" x1="43.5" y1="39.5" x2="38.5" y2="39.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,79,199" text-anchor="middle" x="16.9140625" y="139.5" transform="rotate(-90.0, 14.9140625, 139.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">National candela gah</text>
+<line aria-label="43,43,39,239" x1="43.5" y1="239.5" x2="43.5" y2="39.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="harness male: honor; National candela gah: 86; Kyat: impactful Kwacha South" role="graphics-symbol" aria-roledescription="bar" d="M203.78222222222223,196.0h26.880000000000006v43h-26.880000000000006Z" fill="#afc9b6"/>
+<path aria-label="harness male: tensor; National candela gah: 100; Kyat: impactful Kwacha South" role="graphics-symbol" aria-roledescription="bar" d="M452.6711111111111,189.0h26.880000000000006v50h-26.880000000000006Z" fill="#afc9b6"/>
+<path aria-label="harness male: orient; National candela gah: 155; Kyat: impactful Kwacha South" role="graphics-symbol" aria-roledescription="bar" d="M303.3377777777778,161.5h26.880000000000006v77.49999999999999h-26.880000000000006Z" fill="#afc9b6"/>
+<path aria-label="harness male: console; National candela gah: 104; Kyat: impactful Kwacha South" role="graphics-symbol" aria-roledescription="bar" d="M154.00444444444443,187.0h26.880000000000006v52h-26.880000000000006Z" fill="#afc9b6"/>
+<path aria-label="harness male: banjo; National candela gah: 265; Kyat: impactful Kwacha South" role="graphics-symbol" aria-roledescription="bar" d="M54.44888888888888,106.5h26.880000000000006v132.5h-26.880000000000006Z" fill="#afc9b6"/>
+<path aria-label="harness male: redesign; National candela gah: 345; Kyat: impactful Kwacha South" role="graphics-symbol" aria-roledescription="bar" d="M402.8933333333333,66.5h26.880000000000006v172.5h-26.880000000000006Z" fill="#afc9b6"/>
+<path aria-label="harness male: cell; National candela gah: 359; Kyat: impactful Kwacha South" role="graphics-symbol" aria-roledescription="bar" d="M104.22666666666666,59.50000000000001h26.880000000000006v179.5h-26.880000000000006Z" fill="#afc9b6"/>
+<path aria-label="harness male: many; National candela gah: 349; Kyat: impactful Kwacha South" role="graphics-symbol" aria-roledescription="bar" d="M253.56,64.49999999999999h26.880000000000006v174.5h-26.880000000000006Z" fill="#afc9b6"/>
+<path aria-label="harness male: plight; National candela gah: 253; Kyat: impactful Kwacha South" role="graphics-symbol" aria-roledescription="bar" d="M353.11555555555555,112.50000000000001h26.880000000000006v126.49999999999999h-26.880000000000006Z" fill="#afc9b6"/>
+<path  d="M510.0,56.0h10v10h-10Z" fill="#afc9b6" stroke-width="1.5" opacity="1"/>
+<text aria-label="525,646,54,65" text-anchor="start" x="525.0" y="64.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">impactful Kwacha South</text>
+<text aria-label="509,533,37,49" text-anchor="start" x="509.0" y="48.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Kyat</text>
+</svg>

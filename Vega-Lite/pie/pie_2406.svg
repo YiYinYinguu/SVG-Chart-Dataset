@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="319" height="239" viewBox="0 0 319 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">invoice</text>
+<path aria-label="Account Refined: 312; Russian: Pop" role="graphics-symbol" aria-roledescription="arc mark"  d="M76.33527071701351,64.69391588660417A75,75,0,0,0,30.70324284300152,144.246554345437L61.41256913456089,140.01131188265637A44,44,0,0,1,88.18335882064792,93.34043065347444Z" fill="#31be86" stroke="black" stroke-width="0"/>
+<path aria-label="Account Refined: 93; Russian: functionalities" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,76.33527071701351,64.69391588660417L88.18335882064792,93.34043065347444A44,44,0,0,1,104.99999999999999,90.0Z" fill="#fa0859" stroke="black" stroke-width="0"/>
+<path aria-label="Account Refined: 301; Russian: Berkshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.61671949455712,111.72792131753482A75,75,0,0,0,105.0,59.0L105.0,90.0A44,44,0,0,1,147.01514210347352,120.93371383962042Z" fill="#58423b" stroke="black" stroke-width="0"/>
+<path aria-label="Account Refined: 598; Russian: Chlorine" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.64666961002923,193.73336942227647A75,75,0,0,0,176.61671949455712,111.72792131753482L147.01514210347352,120.93371383962042A44,44,0,0,1,78.3927128378838,169.0435767277355Z" fill="#16525a" stroke="black" stroke-width="0"/>
+<path aria-label="Account Refined: 186; Russian: Mercedes" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.70324284300152,144.246554345437A75,75,0,0,0,59.64666961002923,193.73336942227647L78.3927128378838,169.0435767277355A44,44,0,0,1,61.41256913456089,140.01131188265637Z" fill="#6f7ac2" stroke="black" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#58423b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#16525a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#6f7ac2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#31be86" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#fa0859" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Berkshire</text>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Chlorine</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Mercedes</text>
+<text aria-label="239,255,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Pop</text>
+<text aria-label="239,321,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">functionalities</text>
+</svg>

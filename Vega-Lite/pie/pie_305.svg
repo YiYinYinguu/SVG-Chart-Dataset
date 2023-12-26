@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="239" viewBox="0 0 279 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">South voluptate</text>
+<path aria-label="Bicycle tangerine: 254; SQL: 5th" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.90904479918507,78.92487714371791A75,75,0,0,0,105.0,59.0L105.0,87.0A47,47,0,0,1,136.9030014074893,99.48625634339655Z" fill="#d188f9" stroke="white" stroke-width="4"/>
+<path aria-label="Bicycle tangerine: 300; SQL: man" role="graphics-symbol" aria-roledescription="arc mark"  d="M46.03054556593221,87.65775745878926A75,75,0,0,0,31.729451948246094,150.0133315770211L59.08378988756755,144.0350211215999A47,47,0,0,1,68.04580855465085,104.95886134084127Z" fill="#99fe3b" stroke="white" stroke-width="4"/>
+<path aria-label="Bicycle tangerine: 587; SQL: Human" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.64476262691613,192.73045308422752A75,75,0,0,0,155.90904479918507,78.92487714371791L136.9030014074893,99.48625634339655A47,47,0,0,1,134.23071791286742,170.8044172661159Z" fill="#e45cd9" stroke="white" stroke-width="4"/>
+<path aria-label="Bicycle tangerine: 202; SQL: flaky" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.729451948246094,150.0133315770211A75,75,0,0,0,53.20784830517614,188.2454885019976L72.54358493791038,167.99383946125184A47,47,0,0,1,59.08378988756755,144.0350211215999Z" fill="#19f8db" stroke="white" stroke-width="4"/>
+<path aria-label="Bicycle tangerine: 488; SQL: Lights" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.20784830517614,188.2454885019976A75,75,0,0,0,151.64476262691613,192.73045308422752L134.23071791286742,170.8044172661159A47,47,0,0,1,72.54358493791038,167.99383946125184Z" fill="#afd2c4" stroke="white" stroke-width="4"/>
+<path aria-label="Bicycle tangerine: 308; SQL: reboot" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,46.03054556593221,87.65775745878926L68.04580855465085,104.95886134084127A47,47,0,0,1,104.99999999999999,87.0Z" fill="#56e0f7" stroke="white" stroke-width="4"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#d188f9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#e45cd9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#afd2c4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#19f8db" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#99fe3b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#56e0f7" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,255,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">5th</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Human</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Lights</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">flaky</text>
+<text aria-label="239,255,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">man</text>
+<text aria-label="239,272,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">reboot</text>
+<text aria-label="223,241,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">SQL</text>
+</svg>

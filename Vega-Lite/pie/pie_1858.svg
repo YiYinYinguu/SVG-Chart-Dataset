@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="49,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Chicken East</text>
+<path aria-label="Steel Account: 845; Planner: Officer" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.550833800235424,171.92687197490133A75,75,0,0,0,155.2034571307978,236.71905322343648L105.0,181.0Z" fill="#7a0ed5" stroke="white" stroke-width="2"/>
+<path aria-label="Steel Account: 505; Planner: quae" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.550833800235424,171.92687197490133L105.0,181.0Z" fill="#f9bddc" stroke="white" stroke-width="2"/>
+<path aria-label="Steel Account: 839; Planner: Bespoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.2034571307978,236.71905322343648A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#cbdd3a" stroke="white" stroke-width="2"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#cbdd3a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M84.0,56.25A5,5,0,1,1,74.0,56.25A5,5,0,1,1,84.0,56.25" fill="#7a0ed5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M144.0,56.25A5,5,0,1,1,134.0,56.25A5,5,0,1,1,144.0,56.25" fill="#f9bddc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bespoke</text>
+<text aria-label="89,127,49,60" text-anchor="start" x="89.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Officer</text>
+<text aria-label="149,171,49,60" text-anchor="start" x="149.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">quae</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Planner</text>
+</svg>

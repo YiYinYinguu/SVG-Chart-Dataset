@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="570" height="306" viewBox="0 0 570 306" style="background-color: rgb(255, 255, 255);">
+<line x1="69.5" y1="34.5" x2="69.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="134.5" y1="34.5" x2="134.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="199.5" y1="34.5" x2="199.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="264.5" y1="34.5" x2="264.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="330.5" y1="34.5" x2="330.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="395.5" y1="34.5" x2="395.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="460.5" y1="34.5" x2="460.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="525.5" y1="34.5" x2="525.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="30.5" y1="234.5" x2="565.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="30.5" y1="203.5" x2="565.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="30.5" y1="172.5" x2="565.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="30.5" y1="142.5" x2="565.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="30.5" y1="111.5" x2="565.5" y2="111.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="30.5" y1="80.5" x2="565.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="30.5" y1="49.5" x2="565.5" y2="49.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="59,73,241,269" text-anchor="end" x="69.14634146341461" y="241.5" transform="rotate(270.0, 73.14634146341461, 241.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">bias</text>
+<text aria-label="124,138,241,269" text-anchor="end" x="134.390243902439" y="241.5" transform="rotate(270.0, 138.390243902439, 241.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">body</text>
+<text aria-label="189,203,241,283" text-anchor="end" x="199.6341463414634" y="241.5" transform="rotate(270.0, 203.6341463414634, 241.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">endive</text>
+<text aria-label="254,268,241,297" text-anchor="end" x="264.8780487804878" y="241.5" transform="rotate(270.0, 268.8780487804878, 241.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">entrance</text>
+<text aria-label="320,334,241,311" text-anchor="end" x="330.1219512195122" y="241.5" transform="rotate(270.0, 334.1219512195122, 241.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">fertilizer</text>
+<text aria-label="385,399,241,283" text-anchor="end" x="395.3658536585366" y="241.5" transform="rotate(270.0, 399.3658536585366, 241.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">sarong</text>
+<text aria-label="450,464,241,276" text-anchor="end" x="460.609756097561" y="241.5" transform="rotate(270.0, 464.609756097561, 241.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">slope</text>
+<text aria-label="515,529,241,304" text-anchor="end" x="525.8536585365854" y="241.5" transform="rotate(270.0, 529.8536585365854, 241.5)" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">tangerine</text>
+<line aria-label="69,69,234,239" x1="69.5" y1="234.5" x2="69.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="134,134,234,239" x1="134.5" y1="234.5" x2="134.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="199,199,234,239" x1="199.5" y1="234.5" x2="199.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="264,264,234,239" x1="264.5" y1="234.5" x2="264.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="330,330,234,239" x1="330.5" y1="234.5" x2="330.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="395,395,234,239" x1="395.5" y1="234.5" x2="395.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="460,460,234,239" x1="460.5" y1="234.5" x2="460.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="525,525,234,239" x1="525.5" y1="234.5" x2="525.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,565,234,234" x1="30.5" y1="234.5" x2="565.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,213,0,26" text-anchor="start" x="5.12939453125" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Minivan protocol</text>
+<text aria-label="21,28,225,239" text-anchor="end" x="28.5" y="238.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="7,28,194,208" text-anchor="end" x="28.5" y="207.73076923076923" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="7,28,163,177" text-anchor="end" x="28.5" y="176.96153846153845" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="7,28,133,147" text-anchor="end" x="28.5" y="146.19230769230768" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="7,28,102,116" text-anchor="end" x="28.5" y="115.42307692307692" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="7,28,71,85" text-anchor="end" x="28.5" y="84.65384615384615" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="7,28,40,54" text-anchor="end" x="28.5" y="53.88461538461537" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">600</text>
+<path aria-label="Concrete: bias; Smart Gadolinium Idaho: 641; forceful paint: Handmade Decentralized" role="graphics-symbol" aria-roledescription="bar" d="M43.04878048780486,36.76923076923077h52.19512195121952v197.23076923076923h-52.19512195121952Z" fill="#b0bf4a"/>
+<path aria-label="Concrete: slope; Smart Gadolinium Idaho: 395; forceful paint: Handmade Decentralized" role="graphics-symbol" aria-roledescription="bar" d="M434.5121951219512,112.46153846153847h52.19512195121952v121.53846153846153h-52.19512195121952Z" fill="#b0bf4a"/>
+<path aria-label="Concrete: sarong; Smart Gadolinium Idaho: 51; forceful paint: Handmade Decentralized" role="graphics-symbol" aria-roledescription="bar" d="M369.2682926829268,218.3076923076923h52.19512195121952v15.692307692307708h-52.19512195121952Z" fill="#b0bf4a"/>
+<path aria-label="Concrete: entrance; Smart Gadolinium Idaho: 27; forceful paint: Handmade Decentralized" role="graphics-symbol" aria-roledescription="bar" d="M238.78048780487805,225.6923076923077h52.19512195121952v8.307692307692292h-52.19512195121952Z" fill="#b0bf4a"/>
+<path aria-label="Concrete: body; Smart Gadolinium Idaho: 139; forceful paint: Handmade Decentralized" role="graphics-symbol" aria-roledescription="bar" d="M108.29268292682926,191.23076923076923h52.19512195121952v42.769230769230774h-52.19512195121952Z" fill="#b0bf4a"/>
+<path aria-label="Concrete: endive; Smart Gadolinium Idaho: 409; forceful paint: Handmade Decentralized" role="graphics-symbol" aria-roledescription="bar" d="M173.53658536585365,108.15384615384615h52.19512195121952v125.84615384615385h-52.19512195121952Z" fill="#b0bf4a"/>
+<path aria-label="Concrete: tangerine; Smart Gadolinium Idaho: 538; forceful paint: Handmade Decentralized" role="graphics-symbol" aria-roledescription="bar" d="M499.7560975609756,68.46153846153845h52.19512195121952v165.53846153846155h-52.19512195121952Z" fill="#b0bf4a"/>
+<path aria-label="Concrete: fertilizer; Smart Gadolinium Idaho: 309; forceful paint: Handmade Decentralized" role="graphics-symbol" aria-roledescription="bar" d="M304.0243902439024,138.9230769230769h52.19512195121952v95.07692307692308h-52.19512195121952Z" fill="#b0bf4a"/>
+</svg>

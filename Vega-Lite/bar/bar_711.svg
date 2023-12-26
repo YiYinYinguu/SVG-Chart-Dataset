@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="413" height="301" viewBox="0 0 413 301" style="background-color: rgb(255, 255, 255);">
+<line x1="92.5" y1="40.5" x2="92.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="180.5" y1="40.5" x2="180.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="267.5" y1="40.5" x2="267.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="355.5" y1="40.5" x2="355.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="83,96,247,286" text-anchor="end" x="92.57142857142857" y="247.5" transform="rotate(270.0, 96.57142857142857, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">gaffer</text>
+<text aria-label="171,184,247,280" text-anchor="end" x="180.1904761904762" y="247.5" transform="rotate(270.0, 184.1904761904762, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">month</text>
+<text aria-label="258,271,247,293" text-anchor="end" x="267.8095238095238" y="247.5" transform="rotate(270.0, 271.8095238095238, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">runaway</text>
+<text aria-label="346,359,247,293" text-anchor="end" x="355.42857142857144" y="247.5" transform="rotate(270.0, 359.42857142857144, 247.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">typhoon</text>
+<line aria-label="92,92,240,245" x1="92.5" y1="240.5" x2="92.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="180,180,240,245" x1="180.5" y1="240.5" x2="180.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="267,267,240,245" x1="267.5" y1="240.5" x2="267.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="355,355,240,245" x1="355.5" y1="240.5" x2="355.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,408,240,240" x1="40.5" y1="240.5" x2="408.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Latin</text>
+<text aria-label="32,38,232,245" text-anchor="end" x="38.5" y="244.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,38,182,195" text-anchor="end" x="38.5" y="194.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,38,132,145" text-anchor="end" x="38.5" y="144.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,38,82,95" text-anchor="end" x="38.5" y="94.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="19,38,32,45" text-anchor="end" x="38.5" y="44.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="2,14,68,212" text-anchor="middle" x="16.5" y="140.5" transform="rotate(-90.0, 14.5, 140.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">compress innovative rude</text>
+<line aria-label="40,40,40,240" x1="40.5" y1="240.5" x2="40.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="deposit innocently: typhoon; compress innovative rude: 187; Corporate: VGA" role="graphics-symbol" aria-roledescription="bar" d="M320.3809523809524,146.5h35.04761904761905v93.5h-35.04761904761905Z" fill="#4b5b7f"/>
+<path aria-label="deposit innocently: typhoon; compress innovative rude: 341; Corporate: grey Carolina" role="graphics-symbol" aria-roledescription="bar" d="M355.42857142857144,69.5h35.04761904761905v170.5h-35.04761904761905Z" fill="#f7fbbf"/>
+<path aria-label="deposit innocently: runaway; compress innovative rude: 50; Corporate: VGA" role="graphics-symbol" aria-roledescription="bar" d="M232.76190476190476,215.0h35.04761904761905v25h-35.04761904761905Z" fill="#4b5b7f"/>
+<path aria-label="deposit innocently: runaway; compress innovative rude: 94; Corporate: grey Carolina" role="graphics-symbol" aria-roledescription="bar" d="M267.8095238095238,193.0h35.04761904761905v47h-35.04761904761905Z" fill="#f7fbbf"/>
+<path aria-label="deposit innocently: gaffer; compress innovative rude: 398; Corporate: VGA" role="graphics-symbol" aria-roledescription="bar" d="M57.52380952380952,41.0h35.04761904761905v199h-35.04761904761905Z" fill="#4b5b7f"/>
+<path aria-label="deposit innocently: gaffer; compress innovative rude: 207; Corporate: grey Carolina" role="graphics-symbol" aria-roledescription="bar" d="M92.57142857142857,136.5h35.04761904761905v103.49999999999999h-35.04761904761905Z" fill="#f7fbbf"/>
+<path aria-label="deposit innocently: month; compress innovative rude: 2; Corporate: VGA" role="graphics-symbol" aria-roledescription="bar" d="M145.14285714285714,239.0h35.04761904761905v1h-35.04761904761905Z" fill="#4b5b7f"/>
+<path aria-label="deposit innocently: month; compress innovative rude: 196; Corporate: grey Carolina" role="graphics-symbol" aria-roledescription="bar" d="M180.1904761904762,142.0h35.04761904761905v98h-35.04761904761905Z" fill="#f7fbbf"/>
+</svg>

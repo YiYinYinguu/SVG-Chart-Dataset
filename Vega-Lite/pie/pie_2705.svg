@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="225" height="270" viewBox="0 0 225 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Chrysler</text>
+<path aria-label="Cambridgeshire visionary programming: 370; interactive Berkshire: superstructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.626765947462474,153.67523806149808A75,75,0,0,0,93.79977356146576,208.15898413358667L99.92256401453115,167.61873947389262A34,34,0,0,1,72.19080056284966,142.9194412545458Z" fill="#b8dca7" stroke="black" stroke-width="0"/>
+<path aria-label="Cambridgeshire visionary programming: 578; interactive Berkshire: Soft" role="graphics-symbol" aria-roledescription="arc mark"  d="M93.79977356146576,208.15898413358667A75,75,0,0,0,179.7335564153102,127.68370792951691L138.8792122416073,131.136614261381A34,34,0,0,1,99.92256401453115,167.61873947389262Z" fill="#ce0aae" stroke="black" stroke-width="0"/>
+<path aria-label="Cambridgeshire visionary programming: 476; interactive Berkshire: CLI" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.7335564153102,127.68370792951691A75,75,0,0,0,105.0,59.0L105.0,100.0A34,34,0,0,1,138.8792122416073,131.136614261381Z" fill="#3364e0" stroke="black" stroke-width="0"/>
+<path aria-label="Cambridgeshire visionary programming: 588; interactive Berkshire: up" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.626765947462474,153.67523806149808L72.19080056284966,142.9194412545458A34,34,0,0,1,105.0,100.0Z" fill="#4bdf64" stroke="black" stroke-width="0"/>
+<text aria-label="34,55,192,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="45.14116039864955" y="205.20803018672544" font-family="sans-serif" font-size="13px" fill="#b8dca7" opacity="1">370</text>
+<text aria-label="156,177,190,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="166.5190334392643" y="203.69176907877184" font-family="sans-serif" font-size="13px" fill="#ce0aae" opacity="1">578</text>
+<text aria-label="155,176,58,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.90090498665774" y="71.73477705609007" font-family="sans-serif" font-size="13px" fill="#3364e0" opacity="1">476</text>
+<text aria-label="22,43,70,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.49851151674601" y="83.34163243675223" font-family="sans-serif" font-size="13px" fill="#4bdf64" opacity="1">588</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#3364e0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M58.0,258.25A5,5,0,1,1,48.0,258.25A5,5,0,1,1,58.0,258.25" fill="#ce0aae" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M105.0,258.25A5,5,0,1,1,95.0,258.25A5,5,0,1,1,105.0,258.25" fill="#b8dca7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M202.0,258.25A5,5,0,1,1,192.0,258.25A5,5,0,1,1,202.0,258.25" fill="#4bdf64" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">CLI</text>
+<text aria-label="63,85,251,262" text-anchor="start" x="63.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Soft</text>
+<text aria-label="110,187,251,262" text-anchor="start" x="110.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">superstructure</text>
+<text aria-label="207,218,251,262" text-anchor="start" x="207.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">up</text>
+</svg>

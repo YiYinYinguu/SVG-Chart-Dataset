@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="277" height="239" viewBox="0 0 277 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="155,272,0,26" text-anchor="end" x="272.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Extension</text>
+<path aria-label="Extended Incredible: 105; olive PNG male: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.42370110987795,206.4000588519416A75,75,0,0,0,246.77544959535476,128.20067781438524L224.8413177140507,129.90181232216557A53,53,0,0,1,158.16608211764708,185.16270825537205Z" fill="#f2ffac" stroke="black" stroke-width="0"/>
+<path aria-label="Extended Incredible: 158; olive PNG male: koala" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.0,59.0A75,75,0,0,0,152.42370110987795,206.4000588519416L158.16608211764708,185.16270825537205A53,53,0,0,1,172.0,81.0Z" fill="#b0baa1" stroke="black" stroke-width="0"/>
+<path aria-label="Extended Incredible: 82; olive PNG male: Games" role="graphics-symbol" aria-roledescription="arc mark"  d="M246.77544959535476,128.20067781438524A75,75,0,0,0,172.0,59.0L172.0,81.0A53,53,0,0,1,224.8413177140507,129.90181232216557Z" fill="#dfcdcc" stroke="black" stroke-width="0"/>
+<text aria-label="221,237,196,207" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="229.43128238133755" y="206.29392328361172" font-family="sans-serif" font-size="10px" fill="#f2ffac" opacity="1">105</text>
+<text aria-label="74,91,115,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="82.78339180396485" y="125.1510835096557" font-family="sans-serif" font-size="10px" fill="#b0baa1" opacity="1">158</text>
+<text aria-label="227,238,60,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="233.12967038989171" y="70.94575412569456" font-family="sans-serif" font-size="10px" fill="#dfcdcc" opacity="1">82</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#dfcdcc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#f2ffac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#b0baa1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Games</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">koala</text>
+</svg>

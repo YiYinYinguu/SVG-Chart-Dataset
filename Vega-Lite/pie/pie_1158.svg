@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="188,279,0,26" text-anchor="end" x="279.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Awesome</text>
+<path aria-label="Tasty olive ROI: 528; chirp: Mouse" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.4598261911213,142.98522585069554A75,75,0,0,0,179.0,59.0L179.0,79.0A55,55,0,0,1,233.6038725401556,140.5891656238434Z" fill="#02a11f" stroke="black" stroke-width="3"/>
+<path aria-label="Tasty olive ROI: 581; chirp: bum" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.0,59.0A75,75,0,0,0,107.12786577084128,155.4335326380369L126.29376823195028,149.7179239345604A55,55,0,0,1,179.0,79.0Z" fill="#4653b6" stroke="black" stroke-width="3"/>
+<path aria-label="Tasty olive ROI: 279; chirp: Northern" role="graphics-symbol" aria-roledescription="arc mark"  d="M218.6624375631175,197.6544660377558A75,75,0,0,0,253.4598261911213,142.98522585069554L233.6038725401556,140.5891656238434A55,55,0,0,1,208.08578754628616,180.67994176102093Z" fill="#d0acd0" stroke="black" stroke-width="3"/>
+<path aria-label="Tasty olive ROI: 574; chirp: Tuna" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.12786577084128,155.4335326380369A75,75,0,0,0,218.6624375631175,197.6544660377558L208.08578754628616,180.67994176102093A55,55,0,0,1,126.29376823195028,149.7179239345604Z" fill="#da9125" stroke="black" stroke-width="3"/>
+<text aria-label="236,256,66,79" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="246.34390986523994" y="78.29407228706314" font-family="monospace" font-size="12px" fill="#02a11f" opacity="1">528</text>
+<text aria-label="97,116,72,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.83760839291705" y="84.2172031450018" font-family="monospace" font-size="12px" fill="#4653b6" opacity="1">581</text>
+<text aria-label="245,264,174,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="254.92458156966103" y="186.32657564396516" font-family="monospace" font-size="12px" fill="#d0acd0" opacity="1">279</text>
+<text aria-label="137,156,210,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.13739120024417" y="222.17110050649046" font-family="monospace" font-size="12px" fill="#da9125" opacity="1">574</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#02a11f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#d0acd0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#da9125" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#4653b6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Mouse</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northern</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Tuna</text>
+<text aria-label="21,37,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">bum</text>
+<text aria-label="5,35,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">chirp</text>
+</svg>

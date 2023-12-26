@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="664" height="328" viewBox="0 0 664 328" style="background-color: rgb(255, 255, 255);">
+<line x1="92.5" y1="35.5" x2="92.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="144.5" y1="35.5" x2="144.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="196.5" y1="35.5" x2="196.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="248.5" y1="35.5" x2="248.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="300.5" y1="35.5" x2="300.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="351.5" y1="35.5" x2="351.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="403.5" y1="35.5" x2="403.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="455.5" y1="35.5" x2="455.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="507.5" y1="35.5" x2="507.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="559.5" y1="35.5" x2="559.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="235.5" x2="585.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="199.5" x2="585.5" y2="199.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="162.5" x2="585.5" y2="162.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="126.5" x2="585.5" y2="126.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="90.5" x2="585.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="53.5" x2="585.5" y2="53.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="80,97,242,293" text-anchor="end" x="92.90000000000003" y="242.5" transform="rotate(270.0, 97.90000000000003, 242.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">bronze</text>
+<text aria-label="132,149,242,293" text-anchor="end" x="144.70000000000005" y="242.5" transform="rotate(270.0, 149.70000000000005, 242.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">expert</text>
+<text aria-label="184,201,242,293" text-anchor="end" x="196.50000000000003" y="242.5" transform="rotate(270.0, 201.50000000000003, 242.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">fedora</text>
+<text aria-label="236,253,242,293" text-anchor="end" x="248.3" y="242.5" transform="rotate(270.0, 253.3, 242.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">glance</text>
+<text aria-label="288,305,242,276" text-anchor="end" x="300.1" y="242.5" transform="rotate(270.0, 305.1, 242.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">glue</text>
+<text aria-label="339,356,242,302" text-anchor="end" x="351.90000000000003" y="242.5" transform="rotate(270.0, 356.90000000000003, 242.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">ladybug</text>
+<text aria-label="391,408,242,276" text-anchor="end" x="403.7" y="242.5" transform="rotate(270.0, 408.7, 242.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">limb</text>
+<text aria-label="443,460,242,319" text-anchor="end" x="455.5" y="242.5" transform="rotate(270.0, 460.5, 242.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">macadamia</text>
+<text aria-label="495,512,242,293" text-anchor="end" x="507.3" y="242.5" transform="rotate(270.0, 512.3, 242.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">pastor</text>
+<text aria-label="547,564,242,293" text-anchor="end" x="559.1" y="242.5" transform="rotate(270.0, 564.1, 242.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">powder</text>
+<line aria-label="92,92,235,240" x1="92.5" y1="235.5" x2="92.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="144,144,235,240" x1="144.5" y1="235.5" x2="144.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="196,196,235,240" x1="196.5" y1="235.5" x2="196.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="248,248,235,240" x1="248.5" y1="235.5" x2="248.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="300,300,235,240" x1="300.5" y1="235.5" x2="300.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="351,351,235,240" x1="351.5" y1="235.5" x2="351.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="403,403,235,240" x1="403.5" y1="235.5" x2="403.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="455,455,235,240" x1="455.5" y1="235.5" x2="455.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="507,507,235,240" x1="507.5" y1="235.5" x2="507.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="559,559,235,240" x1="559.5" y1="235.5" x2="559.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="67,585,235,235" x1="67.5" y1="235.5" x2="585.5" y2="235.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.651909090909083" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Senior Oklahoma</text>
+<text aria-label="57,65,224,241" text-anchor="end" x="65.5" y="240.5" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="40,65,188,205" text-anchor="end" x="65.5" y="204.13636363636363" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="40,65,151,168" text-anchor="end" x="65.5" y="167.77272727272725" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="40,65,115,132" text-anchor="end" x="65.5" y="131.40909090909093" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="40,65,79,96" text-anchor="end" x="65.5" y="95.04545454545453" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="23,65,42,59" text-anchor="end" x="65.5" y="58.68181818181819" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="2,14,93,177" text-anchor="middle" x="16.5" y="135.5" transform="rotate(-90.0, 14.5, 135.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Health HTTP of</text>
+<line aria-label="67,67,35,235" x1="67.5" y1="235.5" x2="67.5" y2="35.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Developer: bronze; Health HTTP of: 310; Towels alongside: an about" role="graphics-symbol" aria-roledescription="bar" d="M81.24500000000003,178.63636363636365h23.31v56.363636363636346h-23.31Z" fill="#83bac4"/>
+<path aria-label="Developer: bronze; Health HTTP of: 483; Towels alongside: Granite" role="graphics-symbol" aria-roledescription="bar" d="M81.24500000000003,90.81818181818181h23.31v87.81818181818184h-23.31Z" fill="#15cdf6"/>
+<path aria-label="Developer: expert; Health HTTP of: 390; Towels alongside: an about" role="graphics-symbol" aria-roledescription="bar" d="M133.04500000000002,164.0909090909091h23.31v70.9090909090909h-23.31Z" fill="#83bac4"/>
+<path aria-label="Developer: expert; Health HTTP of: 173; Towels alongside: Granite" role="graphics-symbol" aria-roledescription="bar" d="M133.04500000000002,132.63636363636363h23.31v31.454545454545467h-23.31Z" fill="#15cdf6"/>
+<path aria-label="Developer: ladybug; Health HTTP of: 398; Towels alongside: an about" role="graphics-symbol" aria-roledescription="bar" d="M340.245,162.63636363636363h23.31v72.36363636363636h-23.31Z" fill="#83bac4"/>
+<path aria-label="Developer: ladybug; Health HTTP of: 267; Towels alongside: Granite" role="graphics-symbol" aria-roledescription="bar" d="M340.245,114.0909090909091h23.31v48.54545454545455h-23.31Z" fill="#15cdf6"/>
+<path aria-label="Developer: fedora; Health HTTP of: 144; Towels alongside: an about" role="graphics-symbol" aria-roledescription="bar" d="M184.84500000000003,208.8181818181818h23.31v26.181818181818187h-23.31Z" fill="#83bac4"/>
+<path aria-label="Developer: fedora; Health HTTP of: 388; Towels alongside: Granite" role="graphics-symbol" aria-roledescription="bar" d="M184.84500000000003,138.27272727272725h23.31v70.54545454545455h-23.31Z" fill="#15cdf6"/>
+<path aria-label="Developer: glue; Health HTTP of: 481; Towels alongside: an about" role="graphics-symbol" aria-roledescription="bar" d="M288.44500000000005,147.54545454545456h23.31v87.45454545454545h-23.31Z" fill="#83bac4"/>
+<path aria-label="Developer: glue; Health HTTP of: 569; Towels alongside: Granite" role="graphics-symbol" aria-roledescription="bar" d="M288.44500000000005,44.09090909090908h23.31v103.45454545454547h-23.31Z" fill="#15cdf6"/>
+<path aria-label="Developer: glance; Health HTTP of: 436; Towels alongside: an about" role="graphics-symbol" aria-roledescription="bar" d="M236.645,155.72727272727275h23.31v79.27272727272727h-23.31Z" fill="#83bac4"/>
+<path aria-label="Developer: glance; Health HTTP of: 451; Towels alongside: Granite" role="graphics-symbol" aria-roledescription="bar" d="M236.645,73.72727272727272h23.31v82.00000000000001h-23.31Z" fill="#15cdf6"/>
+<path aria-label="Developer: powder; Health HTTP of: 279; Towels alongside: an about" role="graphics-symbol" aria-roledescription="bar" d="M547.4449999999999,184.27272727272728h23.31v50.72727272727272h-23.31Z" fill="#83bac4"/>
+<path aria-label="Developer: powder; Health HTTP of: 484; Towels alongside: Granite" role="graphics-symbol" aria-roledescription="bar" d="M547.4449999999999,96.27272727272728h23.31v88h-23.31Z" fill="#15cdf6"/>
+<path aria-label="Developer: macadamia; Health HTTP of: 402; Towels alongside: an about" role="graphics-symbol" aria-roledescription="bar" d="M443.84499999999997,161.9090909090909h23.31v73.0909090909091h-23.31Z" fill="#83bac4"/>
+<path aria-label="Developer: macadamia; Health HTTP of: 258; Towels alongside: Granite" role="graphics-symbol" aria-roledescription="bar" d="M443.84499999999997,115.0h23.31v46.90909090909091h-23.31Z" fill="#15cdf6"/>
+<path aria-label="Developer: pastor; Health HTTP of: 238; Towels alongside: an about" role="graphics-symbol" aria-roledescription="bar" d="M495.645,191.72727272727275h23.31v43.27272727272725h-23.31Z" fill="#83bac4"/>
+<path aria-label="Developer: pastor; Health HTTP of: 330; Towels alongside: Granite" role="graphics-symbol" aria-roledescription="bar" d="M495.645,131.72727272727275h23.31v60.000000000000014h-23.31Z" fill="#15cdf6"/>
+<path aria-label="Developer: limb; Health HTTP of: 73; Towels alongside: an about" role="graphics-symbol" aria-roledescription="bar" d="M392.04499999999996,221.72727272727272h23.31v13.27272727272728h-23.31Z" fill="#83bac4"/>
+<path aria-label="Developer: limb; Health HTTP of: 507; Towels alongside: Granite" role="graphics-symbol" aria-roledescription="bar" d="M392.04499999999996,129.54545454545456h23.31v92.18181818181816h-23.31Z" fill="#15cdf6"/>
+<text aria-label="86,99,167,176" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.90000000000003" y="175.19736363636366" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">310</text>
+<text aria-label="86,99,79,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.90000000000003" y="87.37918181818182" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">483</text>
+<text aria-label="138,151,152,161" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="144.70000000000005" y="160.6519090909091" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">390</text>
+<text aria-label="138,151,121,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="144.70000000000005" y="129.19736363636363" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">173</text>
+<text aria-label="345,358,151,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="351.90000000000003" y="159.19736363636366" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">398</text>
+<text aria-label="345,358,102,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="351.90000000000003" y="110.6519090909091" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">267</text>
+<text aria-label="189,203,197,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.50000000000003" y="205.37918181818182" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">144</text>
+<text aria-label="189,203,127,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="196.50000000000003" y="134.8337272727273" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">388</text>
+<text aria-label="293,306,136,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="300.1" y="144.10645454545454" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">481</text>
+<text aria-label="293,306,32,41" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="300.1" y="40.651909090909086" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">569</text>
+<text aria-label="241,254,144,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="248.3" y="152.28827272727273" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">436</text>
+<text aria-label="241,254,62,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="248.3" y="70.28827272727273" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">451</text>
+<text aria-label="552,565,173,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="559.1" y="180.8337272727273" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">279</text>
+<text aria-label="552,565,85,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="559.1" y="92.83372727272729" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">484</text>
+<text aria-label="448,462,150,159" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="455.5" y="158.4700909090909" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">402</text>
+<text aria-label="448,462,103,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="455.5" y="111.561" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">258</text>
+<text aria-label="500,513,180,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="507.3" y="188.28827272727275" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">238</text>
+<text aria-label="500,513,120,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="507.3" y="128.28827272727273" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">330</text>
+<text aria-label="399,408,210,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="403.7" y="218.28827272727273" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">73</text>
+<text aria-label="397,410,118,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="403.7" y="126.10645454545457" font-family="monospace" font-size="7.77px" fill="#000" opacity="1">507</text>
+<path  d="M604.0,36.0h10v10h-10Z" fill="#83bac4" stroke-width="1.5" opacity="1"/>
+<path  d="M604.0,49.0h10v10h-10Z" fill="#15cdf6" stroke-width="1.5" opacity="1"/>
+<text aria-label="619,663,34,45" text-anchor="start" x="619.0" y="44.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">an about</text>
+<text aria-label="619,657,47,58" text-anchor="start" x="619.0" y="57.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Granite</text>
+</svg>

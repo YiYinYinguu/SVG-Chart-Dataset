@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="599" height="284" viewBox="0 0 599 284" style="background-color: rgb(255, 255, 255);">
+<line x1="120.5" y1="34.5" x2="120.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="252.5" y1="34.5" x2="252.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="383.5" y1="34.5" x2="383.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="515.5" y1="34.5" x2="515.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="234.5" x2="594.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="190.5" x2="594.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="145.5" x2="594.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="101.5" x2="594.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="56.5" x2="594.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="111,123,241,283" text-anchor="end" x="120.8571428571429" y="241.5" transform="rotate(270.0, 123.8571428571429, 241.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">adviser</text>
+<text aria-label="243,255,241,283" text-anchor="end" x="252.28571428571433" y="241.5" transform="rotate(270.0, 255.28571428571433, 241.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">capital</text>
+<text aria-label="374,386,241,265" text-anchor="end" x="383.7142857142857" y="241.5" transform="rotate(270.0, 386.7142857142857, 241.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">rain</text>
+<text aria-label="506,518,241,277" text-anchor="end" x="515.1428571428571" y="241.5" transform="rotate(270.0, 518.1428571428571, 241.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">reject</text>
+<line aria-label="120,120,234,239" x1="120.5" y1="234.5" x2="120.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="252,252,234,239" x1="252.5" y1="234.5" x2="252.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="383,383,234,239" x1="383.5" y1="234.5" x2="383.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="515,515,234,239" x1="515.5" y1="234.5" x2="515.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,594,234,234" x1="42.5" y1="234.5" x2="594.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,57,0,26" text-anchor="start" x="5.64794921875" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Jazz</text>
+<text aria-label="34,40,226,238" text-anchor="end" x="40.5" y="237.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="22,40,182,194" text-anchor="end" x="40.5" y="193.05555555555557" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,40,137,149" text-anchor="end" x="40.5" y="148.61111111111111" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="22,40,93,105" text-anchor="end" x="40.5" y="104.16666666666667" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="22,40,48,60" text-anchor="end" x="40.5" y="59.72222222222223" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="3,15,77,191" text-anchor="middle" x="17.14794921875" y="134.5" transform="rotate(-90.0, 15.14794921875, 134.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Program Argon Other</text>
+<line aria-label="42,42,34,234" x1="42.5" y1="234.5" x2="42.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="female: reject; Program Argon Other: 714; deposit: East if" role="graphics-symbol" aria-roledescription="bar" d="M462.57142857142856,75.33333333333334h35.047619047619044v158.66666666666666h-35.047619047619044Z" fill="#4eb52c"/>
+<path aria-label="female: reject; Program Argon Other: 841; deposit: pixel Reggae Mobility" role="graphics-symbol" aria-roledescription="bar" d="M532.6666666666666,47.111111111111114h35.047619047619044v186.88888888888889h-35.047619047619044Z" fill="#90aadb"/>
+<path aria-label="female: reject; Program Argon Other: 69; deposit: green" role="graphics-symbol" aria-roledescription="bar" d="M497.6190476190476,218.66666666666666h35.047619047619044v15.333333333333343h-35.047619047619044Z" fill="#9687bd"/>
+<path aria-label="female: adviser; Program Argon Other: 763; deposit: East if" role="graphics-symbol" aria-roledescription="bar" d="M68.28571428571433,64.44444444444446h35.047619047619044v169.55555555555554h-35.047619047619044Z" fill="#4eb52c"/>
+<path aria-label="female: adviser; Program Argon Other: 652; deposit: pixel Reggae Mobility" role="graphics-symbol" aria-roledescription="bar" d="M138.3809523809524,89.11111111111111h35.047619047619044v144.88888888888889h-35.047619047619044Z" fill="#90aadb"/>
+<path aria-label="female: adviser; Program Argon Other: 639; deposit: green" role="graphics-symbol" aria-roledescription="bar" d="M103.33333333333337,92.0h35.047619047619044v142h-35.047619047619044Z" fill="#9687bd"/>
+<path aria-label="female: capital; Program Argon Other: 848; deposit: East if" role="graphics-symbol" aria-roledescription="bar" d="M199.71428571428575,45.555555555555564h35.047619047619044v188.44444444444443h-35.047619047619044Z" fill="#4eb52c"/>
+<path aria-label="female: capital; Program Argon Other: 709; deposit: pixel Reggae Mobility" role="graphics-symbol" aria-roledescription="bar" d="M269.80952380952385,76.44444444444444h35.047619047619044v157.55555555555554h-35.047619047619044Z" fill="#90aadb"/>
+<path aria-label="female: capital; Program Argon Other: 735; deposit: green" role="graphics-symbol" aria-roledescription="bar" d="M234.7619047619048,70.66666666666667h35.047619047619044v163.33333333333331h-35.047619047619044Z" fill="#9687bd"/>
+<path aria-label="female: rain; Program Argon Other: 806; deposit: East if" role="graphics-symbol" aria-roledescription="bar" d="M331.14285714285717,54.888888888888886h35.047619047619044v179.11111111111111h-35.047619047619044Z" fill="#4eb52c"/>
+<path aria-label="female: rain; Program Argon Other: 708; deposit: pixel Reggae Mobility" role="graphics-symbol" aria-roledescription="bar" d="M401.23809523809524,76.66666666666667h35.047619047619044v157.33333333333331h-35.047619047619044Z" fill="#90aadb"/>
+<path aria-label="female: rain; Program Argon Other: 270; deposit: green" role="graphics-symbol" aria-roledescription="bar" d="M366.1904761904762,174.0h35.047619047619044v60h-35.047619047619044Z" fill="#9687bd"/>
+<text aria-label="472,487,62,72" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="480.0952380952381" y="71.89333333333335" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">714</text>
+<text aria-label="542,557,34,44" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="550.1904761904761" y="43.67111111111112" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">841</text>
+<text aria-label="510,520,206,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="515.1428571428571" y="215.22666666666666" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">69</text>
+<text aria-label="78,93,51,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="85.80952380952385" y="61.004444444444445" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">763</text>
+<text aria-label="148,163,76,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.90476190476193" y="85.67111111111112" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">652</text>
+<text aria-label="113,128,79,89" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.8571428571429" y="88.56" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">639</text>
+<text aria-label="209,224,32,43" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="217.23809523809527" y="42.11555555555556" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">848</text>
+<text aria-label="279,294,63,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="287.33333333333337" y="73.00444444444445" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">709</text>
+<text aria-label="244,259,58,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="252.28571428571433" y="67.22666666666667" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">735</text>
+<text aria-label="341,356,42,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="348.6666666666667" y="51.44888888888889" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">806</text>
+<text aria-label="411,426,64,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="418.76190476190476" y="73.22666666666667" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">708</text>
+<text aria-label="376,391,161,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="383.7142857142857" y="170.56" font-family="avenir" font-size="9.200000000000001px" fill="#000" opacity="1">270</text>
+</svg>

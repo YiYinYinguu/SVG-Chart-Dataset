@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="336" height="270" viewBox="0 0 336 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="149,331,0,26" text-anchor="end" x="331.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">South channels</text>
+<path aria-label="Funk: 299; Hatchback: Zinc" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.90171563659848,97.21578250856463A75,75,0,0,0,30.147620344457394,169.70332434587624L105.0,165.0Z" fill="#c62d3a" stroke="black" stroke-width="0"/>
+<path aria-label="Funk: 104; Hatchback: Minivan" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.31200104350677,197.30069344868267A75,75,0,0,0,56.04474784489829,221.8188638255853L105.0,165.0Z" fill="#15aaac" stroke="black" stroke-width="0"/>
+<path aria-label="Funk: 96; Hatchback: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.147620344457394,169.70332434587624A75,75,0,0,0,37.31200104350677,197.30069344868267L105.0,165.0Z" fill="#6ff0cf" stroke="black" stroke-width="0"/>
+<path aria-label="Funk: 111; Hatchback: although" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,72.90171563659848,97.21578250856463L105.0,165.0Z" fill="#29bc84" stroke="black" stroke-width="0"/>
+<path aria-label="Funk: 311; Hatchback: Liaison" role="graphics-symbol" aria-roledescription="arc mark"  d="M56.04474784489829,221.8188638255853A75,75,0,0,0,142.7800008544784,229.78943999939816L105.0,165.0Z" fill="#f35fce" stroke="black" stroke-width="0"/>
+<path aria-label="Funk: 656; Hatchback: Jazz" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.7800008544784,229.78943999939816A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#de10ca" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#de10ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,40.25A5,5,0,1,1,53.0,40.25A5,5,0,1,1,63.0,40.25" fill="#f35fce" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M125.0,40.25A5,5,0,1,1,115.0,40.25A5,5,0,1,1,125.0,40.25" fill="#15aaac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,40.25A5,5,0,1,1,177.0,40.25A5,5,0,1,1,187.0,40.25" fill="#6ff0cf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,40.25A5,5,0,1,1,229.0,40.25A5,5,0,1,1,239.0,40.25" fill="#c62d3a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M286.0,40.25A5,5,0,1,1,276.0,40.25A5,5,0,1,1,286.0,40.25" fill="#29bc84" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Jazz</text>
+<text aria-label="68,106,33,44" text-anchor="start" x="68.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Liaison</text>
+<text aria-label="130,168,33,44" text-anchor="start" x="130.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Minivan</text>
+<text aria-label="192,219,33,44" text-anchor="start" x="192.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="244,266,33,44" text-anchor="start" x="244.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Zinc</text>
+<text aria-label="291,335,33,44" text-anchor="start" x="291.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">although</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="909" height="318" viewBox="0 0 909 318" style="background-color: rgb(255, 255, 255);">
+<line x1="122.5" y1="34.5" x2="122.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="242.5" y1="34.5" x2="242.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="362.5" y1="34.5" x2="362.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="483.5" y1="34.5" x2="483.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="603.5" y1="34.5" x2="603.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="723.5" y1="34.5" x2="723.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="843.5" y1="34.5" x2="843.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="113,126,241,319" text-anchor="end" x="122.14285714285711" y="241.5" transform="rotate(270.0, 126.14285714285711, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">architecture</text>
+<text aria-label="233,246,241,287" text-anchor="end" x="242.4285714285714" y="241.5" transform="rotate(270.0, 246.4285714285714, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">balance</text>
+<text aria-label="353,366,241,313" text-anchor="end" x="362.71428571428567" y="241.5" transform="rotate(270.0, 366.71428571428567, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">documentary</text>
+<text aria-label="474,487,241,293" text-anchor="end" x="483.0" y="241.5" transform="rotate(270.0, 487.0, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">footrest</text>
+<text aria-label="594,607,241,287" text-anchor="end" x="603.2857142857142" y="241.5" transform="rotate(270.0, 607.2857142857142, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">granola</text>
+<text aria-label="714,727,241,267" text-anchor="end" x="723.5714285714284" y="241.5" transform="rotate(270.0, 727.5714285714284, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">grin</text>
+<text aria-label="834,847,241,293" text-anchor="end" x="843.8571428571429" y="241.5" transform="rotate(270.0, 847.8571428571429, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">weakness</text>
+<line aria-label="122,122,234,239" x1="122.5" y1="234.5" x2="122.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="242,242,234,239" x1="242.5" y1="234.5" x2="242.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="362,362,234,239" x1="362.5" y1="234.5" x2="362.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="483,483,234,239" x1="483.5" y1="234.5" x2="483.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="603,603,234,239" x1="603.5" y1="234.5" x2="603.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="723,723,234,239" x1="723.5" y1="234.5" x2="723.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="843,843,234,239" x1="843.5" y1="234.5" x2="843.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="62,904,234,234" x1="62.5" y1="234.5" x2="904.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="774,904,0,26" text-anchor="end" x="904.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">motivating</text>
+<text aria-label="49,55,226,239" text-anchor="end" x="55.5" y="238.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="36,55,170,183" text-anchor="end" x="55.5" y="182.94444444444443" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="23,55,115,128" text-anchor="end" x="55.5" y="127.38888888888889" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="23,55,59,72" text-anchor="end" x="55.5" y="71.83333333333333" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<line aria-label="57,62,234,234" x1="62.5" y1="234.5" x2="57.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,62,178,178" x1="62.5" y1="178.5" x2="57.5" y2="178.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,62,123,123" x1="62.5" y1="123.5" x2="57.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,62,67,67" x1="62.5" y1="67.5" x2="57.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,86,182" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">female Recumbent</text>
+<line aria-label="62,62,34,234" x1="62.5" y1="234.5" x2="62.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="XSS: balance; female Recumbent: 593; Program: discharge Shirt" role="graphics-symbol" aria-roledescription="bar" d="M199.12571428571425,159.1111111111111h86.6057142857143v65.8888888888889h-86.6057142857143Z" fill="#5e7fca"/>
+<path aria-label="XSS: balance; female Recumbent: 237; Program: Diesel" role="graphics-symbol" aria-roledescription="bar" d="M199.12571428571425,132.77777777777777h86.6057142857143v26.333333333333314h-86.6057142857143Z" fill="#ec3ab9"/>
+<path aria-label="XSS: balance; female Recumbent: 81; Program: quantify Cheese Automotive" role="graphics-symbol" aria-roledescription="bar" d="M199.12571428571425,225.0h86.6057142857143v9h-86.6057142857143Z" fill="#e8c6ee"/>
+<path aria-label="XSS: architecture; female Recumbent: 571; Program: discharge Shirt" role="graphics-symbol" aria-roledescription="bar" d="M78.83999999999996,98.22222222222223h86.6057142857143v63.44444444444443h-86.6057142857143Z" fill="#5e7fca"/>
+<path aria-label="XSS: architecture; female Recumbent: 498; Program: Diesel" role="graphics-symbol" aria-roledescription="bar" d="M78.83999999999996,42.88888888888888h86.6057142857143v55.33333333333335h-86.6057142857143Z" fill="#ec3ab9"/>
+<path aria-label="XSS: architecture; female Recumbent: 651; Program: quantify Cheese Automotive" role="graphics-symbol" aria-roledescription="bar" d="M78.83999999999996,161.66666666666666h86.6057142857143v72.33333333333334h-86.6057142857143Z" fill="#e8c6ee"/>
+<path aria-label="XSS: footrest; female Recumbent: 111; Program: discharge Shirt" role="graphics-symbol" aria-roledescription="bar" d="M439.69714285714286,203.22222222222223h86.6057142857143v12.333333333333343h-86.6057142857143Z" fill="#5e7fca"/>
+<path aria-label="XSS: footrest; female Recumbent: 655; Program: Diesel" role="graphics-symbol" aria-roledescription="bar" d="M439.69714285714286,130.44444444444446h86.6057142857143v72.77777777777779h-86.6057142857143Z" fill="#ec3ab9"/>
+<path aria-label="XSS: footrest; female Recumbent: 166; Program: quantify Cheese Automotive" role="graphics-symbol" aria-roledescription="bar" d="M439.69714285714286,215.55555555555557h86.6057142857143v18.44444444444443h-86.6057142857143Z" fill="#e8c6ee"/>
+<path aria-label="XSS: grin; female Recumbent: 276; Program: discharge Shirt" role="graphics-symbol" aria-roledescription="bar" d="M680.2685714285714,121.33333333333333h86.6057142857143v30.666666666666686h-86.6057142857143Z" fill="#5e7fca"/>
+<path aria-label="XSS: grin; female Recumbent: 614; Program: Diesel" role="graphics-symbol" aria-roledescription="bar" d="M680.2685714285714,53.1111111111111h86.6057142857143v68.22222222222223h-86.6057142857143Z" fill="#ec3ab9"/>
+<path aria-label="XSS: grin; female Recumbent: 738; Program: quantify Cheese Automotive" role="graphics-symbol" aria-roledescription="bar" d="M680.2685714285714,152.0h86.6057142857143v81.99999999999999h-86.6057142857143Z" fill="#e8c6ee"/>
+<path aria-label="XSS: granola; female Recumbent: 407; Program: discharge Shirt" role="graphics-symbol" aria-roledescription="bar" d="M559.9828571428571,179.88888888888889h86.6057142857143v45.22222222222223h-86.6057142857143Z" fill="#5e7fca"/>
+<path aria-label="XSS: granola; female Recumbent: 5; Program: Diesel" role="graphics-symbol" aria-roledescription="bar" d="M559.9828571428571,179.33333333333334h86.6057142857143v0.5555555555555429h-86.6057142857143Z" fill="#ec3ab9"/>
+<path aria-label="XSS: granola; female Recumbent: 80; Program: quantify Cheese Automotive" role="graphics-symbol" aria-roledescription="bar" d="M559.9828571428571,225.11111111111111h86.6057142857143v8.888888888888886h-86.6057142857143Z" fill="#e8c6ee"/>
+<path aria-label="XSS: weakness; female Recumbent: 810; Program: discharge Shirt" role="graphics-symbol" aria-roledescription="bar" d="M800.5542857142858,75.55555555555554h86.6057142857143v90.00000000000003h-86.6057142857143Z" fill="#5e7fca"/>
+<path aria-label="XSS: weakness; female Recumbent: 110; Program: Diesel" role="graphics-symbol" aria-roledescription="bar" d="M800.5542857142858,63.33333333333332h86.6057142857143v12.222222222222221h-86.6057142857143Z" fill="#ec3ab9"/>
+<path aria-label="XSS: weakness; female Recumbent: 616; Program: quantify Cheese Automotive" role="graphics-symbol" aria-roledescription="bar" d="M800.5542857142858,165.55555555555557h86.6057142857143v68.44444444444443h-86.6057142857143Z" fill="#e8c6ee"/>
+<path aria-label="XSS: documentary; female Recumbent: 134; Program: discharge Shirt" role="graphics-symbol" aria-roledescription="bar" d="M319.41142857142853,188.0h86.6057142857143v14.888888888888886h-86.6057142857143Z" fill="#5e7fca"/>
+<path aria-label="XSS: documentary; female Recumbent: 145; Program: Diesel" role="graphics-symbol" aria-roledescription="bar" d="M319.41142857142853,171.8888888888889h86.6057142857143v16.111111111111086h-86.6057142857143Z" fill="#ec3ab9"/>
+<path aria-label="XSS: documentary; female Recumbent: 280; Program: quantify Cheese Automotive" role="graphics-symbol" aria-roledescription="bar" d="M319.41142857142853,202.88888888888889h86.6057142857143v31.111111111111114h-86.6057142857143Z" fill="#e8c6ee"/>
+</svg>

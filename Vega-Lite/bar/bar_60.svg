@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="998" height="374" viewBox="0 0 998 374" style="background-color: rgb(255, 255, 255);">
+<text aria-label="103,120,270,321" text-anchor="end" x="115.23913043478267" y="270.5" transform="rotate(270.0, 120.23913043478267, 270.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">brewer</text>
+<text aria-label="205,222,270,321" text-anchor="end" x="217.304347826087" y="270.5" transform="rotate(270.0, 222.304347826087, 270.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">cactus</text>
+<text aria-label="307,324,270,338" text-anchor="end" x="319.3695652173913" y="270.5" transform="rotate(270.0, 324.3695652173913, 270.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">ceramics</text>
+<text aria-label="409,426,270,313" text-anchor="end" x="421.4347826086957" y="270.5" transform="rotate(270.0, 426.4347826086957, 270.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">codon</text>
+<text aria-label="511,528,270,364" text-anchor="end" x="523.5" y="270.5" transform="rotate(270.0, 528.5, 270.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">grandfather</text>
+<text aria-label="613,630,270,304" text-anchor="end" x="625.5652173913043" y="270.5" transform="rotate(270.0, 630.5652173913043, 270.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">lead</text>
+<text aria-label="715,732,270,355" text-anchor="end" x="727.6304347826087" y="270.5" transform="rotate(270.0, 732.6304347826087, 270.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">playground</text>
+<text aria-label="817,834,270,330" text-anchor="end" x="829.695652173913" y="270.5" transform="rotate(270.0, 834.695652173913, 270.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">seaside</text>
+<text aria-label="919,936,270,330" text-anchor="end" x="931.7608695652173" y="270.5" transform="rotate(270.0, 936.7608695652173, 270.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">village</text>
+<line aria-label="115,115,263,268" x1="115.5" y1="263.5" x2="115.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="217,217,263,268" x1="217.5" y1="263.5" x2="217.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="319,319,263,268" x1="319.5" y1="263.5" x2="319.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="421,421,263,268" x1="421.5" y1="263.5" x2="421.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="523,523,263,268" x1="523.5" y1="263.5" x2="523.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="625,625,263,268" x1="625.5" y1="263.5" x2="625.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="727,727,263,268" x1="727.5" y1="263.5" x2="727.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="829,829,263,268" x1="829.5" y1="263.5" x2="829.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="931,931,263,268" x1="931.5" y1="263.5" x2="931.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,993,263,263" x1="54.5" y1="263.5" x2="993.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="837,993,0,26" text-anchor="end" x="993.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Table Garden</text>
+<text aria-label="39,47,252,269" text-anchor="end" x="47.5" y="268.5" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="22,47,208,225" text-anchor="end" x="47.5" y="224.05555555555557" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="22,47,163,180" text-anchor="end" x="47.5" y="179.61111111111111" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="22,47,119,136" text-anchor="end" x="47.5" y="135.16666666666669" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="22,47,74,91" text-anchor="end" x="47.5" y="90.72222222222223" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="49,54,263,263" x1="54.5" y1="263.5" x2="49.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,219,219" x1="54.5" y1="219.5" x2="49.5" y2="219.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,174,174" x1="54.5" y1="174.5" x2="49.5" y2="174.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,130,130" x1="54.5" y1="130.5" x2="49.5" y2="130.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,85,85" x1="54.5" y1="85.5" x2="49.5" y2="85.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,112,214" text-anchor="middle" x="16.5" y="163.5" transform="rotate(-90.0, 14.5, 163.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">hacking proactive</text>
+<line aria-label="54,54,63,263" x1="54.5" y1="263.5" x2="54.5" y2="63.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="reboot Bicycle: brewer; hacking proactive: 638; Analyst: yuck unless psst" role="graphics-symbol" aria-roledescription="bar" d="M128.8478260869566,121.22222222222223h27.217391304347824v141.77777777777777h-27.217391304347824Z" fill="#d4ebf3"/>
+<path aria-label="reboot Bicycle: brewer; hacking proactive: 128; Analyst: haptic Granite" role="graphics-symbol" aria-roledescription="bar" d="M101.63043478260876,234.55555555555554h27.217391304347824v28.444444444444457h-27.217391304347824Z" fill="#1ae857"/>
+<path aria-label="reboot Bicycle: brewer; hacking proactive: 393; Analyst: Specialist" role="graphics-symbol" aria-roledescription="bar" d="M74.41304347826093,175.66666666666669h27.217391304347824v87.33333333333333h-27.217391304347824Z" fill="#1b3fa5"/>
+<path aria-label="reboot Bicycle: ceramics; hacking proactive: 418; Analyst: yuck unless psst" role="graphics-symbol" aria-roledescription="bar" d="M332.97826086956525,170.11111111111111h27.217391304347824v92.88888888888889h-27.217391304347824Z" fill="#d4ebf3"/>
+<path aria-label="reboot Bicycle: ceramics; hacking proactive: 617; Analyst: haptic Granite" role="graphics-symbol" aria-roledescription="bar" d="M305.7608695652174,125.88888888888889h27.217391304347824v137.11111111111111h-27.217391304347824Z" fill="#1ae857"/>
+<path aria-label="reboot Bicycle: ceramics; hacking proactive: 370; Analyst: Specialist" role="graphics-symbol" aria-roledescription="bar" d="M278.5434782608696,180.77777777777777h27.217391304347824v82.22222222222221h-27.217391304347824Z" fill="#1b3fa5"/>
+<path aria-label="reboot Bicycle: village; hacking proactive: 142; Analyst: yuck unless psst" role="graphics-symbol" aria-roledescription="bar" d="M945.3695652173911,231.44444444444443h27.217391304347824v31.55555555555557h-27.217391304347824Z" fill="#d4ebf3"/>
+<path aria-label="reboot Bicycle: village; hacking proactive: 809; Analyst: haptic Granite" role="graphics-symbol" aria-roledescription="bar" d="M918.1521739130434,83.22222222222223h27.217391304347824v179.77777777777777h-27.217391304347824Z" fill="#1ae857"/>
+<path aria-label="reboot Bicycle: village; hacking proactive: 54; Analyst: Specialist" role="graphics-symbol" aria-roledescription="bar" d="M890.9347826086955,251.0h27.217391304347824v12h-27.217391304347824Z" fill="#1b3fa5"/>
+<path aria-label="reboot Bicycle: codon; hacking proactive: 768; Analyst: yuck unless psst" role="graphics-symbol" aria-roledescription="bar" d="M435.04347826086956,92.33333333333331h27.217391304347824v170.66666666666669h-27.217391304347824Z" fill="#d4ebf3"/>
+<path aria-label="reboot Bicycle: codon; hacking proactive: 382; Analyst: haptic Granite" role="graphics-symbol" aria-roledescription="bar" d="M407.82608695652175,178.11111111111111h27.217391304347824v84.88888888888889h-27.217391304347824Z" fill="#1ae857"/>
+<path aria-label="reboot Bicycle: codon; hacking proactive: 507; Analyst: Specialist" role="graphics-symbol" aria-roledescription="bar" d="M380.60869565217394,150.33333333333331h27.217391304347824v112.66666666666667h-27.217391304347824Z" fill="#1b3fa5"/>
+<path aria-label="reboot Bicycle: seaside; hacking proactive: 835; Analyst: yuck unless psst" role="graphics-symbol" aria-roledescription="bar" d="M843.3043478260869,77.44444444444444h27.217391304347824v185.55555555555557h-27.217391304347824Z" fill="#d4ebf3"/>
+<path aria-label="reboot Bicycle: seaside; hacking proactive: 829; Analyst: haptic Granite" role="graphics-symbol" aria-roledescription="bar" d="M816.0869565217391,78.77777777777777h27.217391304347824v184.22222222222223h-27.217391304347824Z" fill="#1ae857"/>
+<path aria-label="reboot Bicycle: seaside; hacking proactive: 807; Analyst: Specialist" role="graphics-symbol" aria-roledescription="bar" d="M788.8695652173913,83.66666666666669h27.217391304347824v179.33333333333331h-27.217391304347824Z" fill="#1b3fa5"/>
+<path aria-label="reboot Bicycle: cactus; hacking proactive: 90; Analyst: yuck unless psst" role="graphics-symbol" aria-roledescription="bar" d="M230.9130434782609,243.0h27.217391304347824v20h-27.217391304347824Z" fill="#d4ebf3"/>
+<path aria-label="reboot Bicycle: cactus; hacking proactive: 754; Analyst: haptic Granite" role="graphics-symbol" aria-roledescription="bar" d="M203.6956521739131,95.44444444444446h27.217391304347824v167.55555555555554h-27.217391304347824Z" fill="#1ae857"/>
+<path aria-label="reboot Bicycle: cactus; hacking proactive: 361; Analyst: Specialist" role="graphics-symbol" aria-roledescription="bar" d="M176.47826086956525,182.77777777777777h27.217391304347824v80.22222222222221h-27.217391304347824Z" fill="#1b3fa5"/>
+<path aria-label="reboot Bicycle: grandfather; hacking proactive: 533; Analyst: yuck unless psst" role="graphics-symbol" aria-roledescription="bar" d="M537.1086956521739,144.55555555555554h27.217391304347824v118.44444444444444h-27.217391304347824Z" fill="#d4ebf3"/>
+<path aria-label="reboot Bicycle: grandfather; hacking proactive: 555; Analyst: haptic Granite" role="graphics-symbol" aria-roledescription="bar" d="M509.89130434782606,139.66666666666666h27.217391304347824v123.33333333333334h-27.217391304347824Z" fill="#1ae857"/>
+<path aria-label="reboot Bicycle: grandfather; hacking proactive: 743; Analyst: Specialist" role="graphics-symbol" aria-roledescription="bar" d="M482.67391304347825,97.88888888888889h27.217391304347824v165.11111111111111h-27.217391304347824Z" fill="#1b3fa5"/>
+<path aria-label="reboot Bicycle: playground; hacking proactive: 679; Analyst: yuck unless psst" role="graphics-symbol" aria-roledescription="bar" d="M741.2391304347826,112.11111111111111h27.217391304347824v150.88888888888889h-27.217391304347824Z" fill="#d4ebf3"/>
+<path aria-label="reboot Bicycle: playground; hacking proactive: 680; Analyst: haptic Granite" role="graphics-symbol" aria-roledescription="bar" d="M714.0217391304349,111.88888888888889h27.217391304347824v151.11111111111111h-27.217391304347824Z" fill="#1ae857"/>
+<path aria-label="reboot Bicycle: playground; hacking proactive: 275; Analyst: Specialist" role="graphics-symbol" aria-roledescription="bar" d="M686.804347826087,201.88888888888889h27.217391304347824v61.111111111111114h-27.217391304347824Z" fill="#1b3fa5"/>
+<path aria-label="reboot Bicycle: lead; hacking proactive: 318; Analyst: yuck unless psst" role="graphics-symbol" aria-roledescription="bar" d="M639.1739130434781,192.33333333333334h27.217391304347824v70.66666666666666h-27.217391304347824Z" fill="#d4ebf3"/>
+<path aria-label="reboot Bicycle: lead; hacking proactive: 57; Analyst: haptic Granite" role="graphics-symbol" aria-roledescription="bar" d="M611.9565217391304,250.33333333333334h27.217391304347824v12.666666666666657h-27.217391304347824Z" fill="#1ae857"/>
+<path aria-label="reboot Bicycle: lead; hacking proactive: 528; Analyst: Specialist" role="graphics-symbol" aria-roledescription="bar" d="M584.7391304347825,145.66666666666669h27.217391304347824v117.33333333333333h-27.217391304347824Z" fill="#1b3fa5"/>
+<path  d="M55.0,35.0h10v10h-10Z" fill="#d4ebf3" stroke-width="1.5" opacity="1"/>
+<path  d="M161.0,35.0h10v10h-10Z" fill="#1ae857" stroke-width="1.5" opacity="1"/>
+<path  d="M257.0,35.0h10v10h-10Z" fill="#1b3fa5" stroke-width="1.5" opacity="1"/>
+<text aria-label="70,158,33,44" text-anchor="start" x="70.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">yuck unless psst</text>
+<text aria-label="176,253,33,44" text-anchor="start" x="176.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">haptic Granite</text>
+<text aria-label="272,327,33,44" text-anchor="start" x="272.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Specialist</text>
+</svg>

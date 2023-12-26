@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="269" height="286" viewBox="0 0 269 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,265,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">than Granite siemens</text>
+<path aria-label="solid ad: 47; Jeep: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.797865693894984,193.8478659115999A75,75,0,0,0,75.47488755996658,202.94394632890828L81.77357821384038,188.23590444540784A59,59,0,0,1,69.44098767919738,181.08032118379194Z" fill="#c39cd1" stroke="black" stroke-width="0"/>
+<path aria-label="solid ad: 159; Jeep: Coupe" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.47488755996658,202.94394632890828A75,75,0,0,0,135.23425719659792,202.63592129322637L128.78428232799035,187.99359141733808A59,59,0,0,1,81.77357821384038,188.23590444540784Z" fill="#9ae086" stroke="black" stroke-width="0"/>
+<path aria-label="solid ad: 529; Jeep: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.23425719659792,202.63592129322637A75,75,0,0,0,105.0,59.0L105.0,75.0A59,59,0,0,1,128.78428232799035,187.99359141733808Z" fill="#84ebdc" stroke="black" stroke-width="0"/>
+<path aria-label="solid ad: 484; Jeep: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,59.797865693894984,193.8478659115999L69.44098767919738,181.08032118379194A59,59,0,0,1,104.99999999999999,75.0Z" fill="#500f96" stroke="black" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#84ebdc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#9ae086" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,274.25A5,5,0,1,1,125.0,274.25A5,5,0,1,1,135.0,274.25" fill="#c39cd1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M197.0,274.25A5,5,0,1,1,187.0,274.25A5,5,0,1,1,197.0,274.25" fill="#500f96" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="88,115,267,278" text-anchor="start" x="88.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Coupe</text>
+<text aria-label="140,178,267,278" text-anchor="start" x="140.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="202,224,267,278" text-anchor="start" x="202.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="5,29,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Jeep</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="412" height="239" viewBox="0 0 412 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,408,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">practitioner invoice transition</text>
+<path aria-label="Configuration Diesel guy: 290; Jazz: naturally" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.82517627064534,96.88878401550889A75,75,0,0,0,51.78903727840538,186.85445531117568L105.0,134.0Z" fill="#bedd6a" stroke="black" stroke-width="1"/>
+<path aria-label="Configuration Diesel guy: 235; Jazz: vortals" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,39.82517627064534,96.88878401550889L105.0,134.0Z" fill="#6b4187" stroke="black" stroke-width="1"/>
+<path aria-label="Configuration Diesel guy: 366; Jazz: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.81912283936228,139.20565630333178A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#d05b45" stroke="black" stroke-width="1"/>
+<path aria-label="Configuration Diesel guy: 193; Jazz: midst" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.78903727840538,186.85445531117568A75,75,0,0,0,110.70849753181889,208.78243815180952L105.0,134.0Z" fill="#6eec5c" stroke="black" stroke-width="1"/>
+<path aria-label="Configuration Diesel guy: 318; Jazz: Licensed" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.70849753181889,208.78243815180952A75,75,0,0,0,179.81912283936228,139.20565630333178L105.0,134.0Z" fill="#0cd1ee" stroke="black" stroke-width="1"/>
+<text aria-label="6,25,137,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.785394019228548" y="149.8639824551327" font-family="monospace" font-size="12px" fill="#bedd6a" opacity="1">290</text>
+<text aria-label="50,69,48,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="59.767331088719956" y="60.19250895214189" font-family="monospace" font-size="12px" fill="#6b4187" opacity="1">235</text>
+<text aria-label="161,180,64,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.81113462310094" y="76.60867683768265" font-family="monospace" font-size="12px" fill="#d05b45" opacity="1">366</text>
+<text aria-label="63,83,210,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="73.6083541845383" y="222.34787829576157" font-family="monospace" font-size="12px" fill="#6eec5c" opacity="1">193</text>
+<text aria-label="159,178,189,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.85315526591356" y="201.42534637341083" font-family="monospace" font-size="12px" fill="#0cd1ee" opacity="1">318</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#d05b45" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#0cd1ee" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#6eec5c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#bedd6a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#6b4187" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Licensed</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">midst</text>
+<text aria-label="239,288,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">naturally</text>
+<text aria-label="239,277,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">vortals</text>
+<text aria-label="223,247,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Jazz</text>
+</svg>

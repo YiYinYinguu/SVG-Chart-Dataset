@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="380" height="239" viewBox="0 0 380 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="255,294,0,26" text-anchor="middle" x="275.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">non</text>
+<path aria-label="Mongolia: 15; collaborative as withdrawal: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M341.59139138017815,168.5048778298364A75,75,0,0,0,275.0,59.0L275.0,96.0A38,38,0,0,1,308.7396382992903,151.4824714337838Z" fill="#eacfe3" stroke="white" stroke-width="1"/>
+<path aria-label="Mongolia: 21; collaborative as withdrawal: Program" role="graphics-symbol" aria-roledescription="arc mark"  d="M275.0,59.0A75,75,0,0,0,254.7652421632232,206.21879655108495L264.74772269603307,170.59085691921638A38,38,0,0,1,275.0,96.0Z" fill="#f6cf41" stroke="white" stroke-width="1"/>
+<path aria-label="Mongolia: 10; collaborative as withdrawal: Producer" role="graphics-symbol" aria-roledescription="arc mark"  d="M254.7652421632232,206.21879655108495A75,75,0,0,0,341.59139138017815,168.5048778298364L308.7396382992903,151.4824714337838A38,38,0,0,1,264.74772269603307,170.59085691921638Z" fill="#79bb54" stroke="white" stroke-width="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#eacfe3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#79bb54" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f6cf41" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Producer</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Program</text>
+<text aria-label="5,167,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">collaborative as withdrawal</text>
+</svg>

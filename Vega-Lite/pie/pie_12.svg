@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="415" height="270" viewBox="0 0 415 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,421,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">furthermore Industrial structure</text>
+<path aria-label="Virginia Mini Cab: 169; Hawaii Francium: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.97969204501112,135.6538402887448A75,75,0,0,0,64.40440506674457,228.06344164422876L105.0,165.0Z" fill="#ac1f21" stroke="black" stroke-width="0"/>
+<path aria-label="Virginia Mini Cab: 103; Hawaii Francium: sticky" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,48.46708229603932,115.71481748154716L105.0,165.0Z" fill="#8bc725" stroke="black" stroke-width="0"/>
+<path aria-label="Virginia Mini Cab: 38; Hawaii Francium: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M48.46708229603932,115.71481748154716A75,75,0,0,0,35.97969204501112,135.6538402887448L105.0,165.0Z" fill="#aa1d76" stroke="black" stroke-width="0"/>
+<path aria-label="Virginia Mini Cab: 448; Hawaii Francium: Wagon" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.40440506674457,228.06344164422876A75,75,0,1,0,105.0,90.0L105.0,165.0Z" fill="#bf5d04" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#bf5d04" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,40.25A5,5,0,1,1,68.0,40.25A5,5,0,1,1,78.0,40.25" fill="#ac1f21" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M129.0,40.25A5,5,0,1,1,119.0,40.25A5,5,0,1,1,129.0,40.25" fill="#aa1d76" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,40.25A5,5,0,1,1,182.0,40.25A5,5,0,1,1,192.0,40.25" fill="#8bc725" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Wagon</text>
+<text aria-label="83,105,33,44" text-anchor="start" x="83.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="134,172,33,44" text-anchor="start" x="134.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="197,230,33,44" text-anchor="start" x="197.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">sticky</text>
+</svg>

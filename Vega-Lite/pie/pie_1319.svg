@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="293" height="239" viewBox="0 0 293 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Tungsten</text>
+<path aria-label="next: 279; sans: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.9713221445438,131.926149499352A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#043d7e" stroke="white" stroke-width="0"/>
+<path aria-label="next: 235; sans: gee" role="graphics-symbol" aria-roledescription="arc mark"  d="M86.52510136172491,206.68891332456045A75,75,0,0,0,170.08973774292974,171.26024745699667L105.0,134.0Z" fill="#67e0f6" stroke="white" stroke-width="0"/>
+<path aria-label="next: 99; sans: Salad" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.08973774292974,171.26024745699667A75,75,0,0,0,179.9713221445438,131.926149499352L105.0,134.0Z" fill="#f3ccb6" stroke="white" stroke-width="0"/>
+<path aria-label="next: 523; sans: joule" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,86.52510136172491,206.68891332456045L105.0,134.0Z" fill="#c5f338" stroke="white" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#043d7e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#f3ccb6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#67e0f6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#c5f338" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Salad</text>
+<text aria-label="239,255,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">gee</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">joule</text>
+<text aria-label="223,247,32,44" text-anchor="start" x="223.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">sans</text>
+</svg>

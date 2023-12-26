@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="514" height="298" viewBox="0 0 514 298" style="background-color: rgb(255, 255, 255);">
+<line x1="63.5" y1="40.5" x2="63.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="121.5" y1="40.5" x2="121.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="180.5" y1="40.5" x2="180.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="239.5" y1="40.5" x2="239.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="297.5" y1="40.5" x2="297.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="356.5" y1="40.5" x2="356.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="415.5" y1="40.5" x2="415.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="473.5" y1="40.5" x2="473.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="28.5" y1="240.5" x2="509.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="28.5" y1="207.5" x2="509.5" y2="207.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="28.5" y1="173.5" x2="509.5" y2="173.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="28.5" y1="140.5" x2="509.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="28.5" y1="107.5" x2="509.5" y2="107.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="28.5" y1="73.5" x2="509.5" y2="73.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="28.5" y1="40.5" x2="509.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="54,66,247,265" text-anchor="end" x="63.195121951219505" y="247.5" transform="rotate(270.0, 66.1951219512195, 247.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">bow</text>
+<text aria-label="112,124,247,289" text-anchor="end" x="121.85365853658536" y="247.5" transform="rotate(270.0, 124.85365853658536, 247.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">cayenne</text>
+<text aria-label="171,183,247,277" text-anchor="end" x="180.51219512195124" y="247.5" transform="rotate(270.0, 183.51219512195124, 247.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">drain</text>
+<text aria-label="230,242,247,289" text-anchor="end" x="239.1707317073171" y="247.5" transform="rotate(270.0, 242.1707317073171, 247.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">gorilla</text>
+<text aria-label="288,300,247,289" text-anchor="end" x="297.82926829268297" y="247.5" transform="rotate(270.0, 300.82926829268297, 247.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">mascara</text>
+<text aria-label="347,359,247,289" text-anchor="end" x="356.4878048780488" y="247.5" transform="rotate(270.0, 359.4878048780488, 247.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">tritone</text>
+<text aria-label="406,418,247,271" text-anchor="end" x="415.14634146341473" y="247.5" transform="rotate(270.0, 418.14634146341473, 247.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">vice</text>
+<text aria-label="464,476,247,271" text-anchor="end" x="473.80487804878055" y="247.5" transform="rotate(270.0, 476.80487804878055, 247.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">wear</text>
+<line aria-label="63,63,240,245" x1="63.5" y1="240.5" x2="63.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="121,121,240,245" x1="121.5" y1="240.5" x2="121.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="180,180,240,245" x1="180.5" y1="240.5" x2="180.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="239,239,240,245" x1="239.5" y1="240.5" x2="239.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="297,297,240,245" x1="297.5" y1="240.5" x2="297.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="356,356,240,245" x1="356.5" y1="240.5" x2="356.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="415,415,240,245" x1="415.5" y1="240.5" x2="415.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="473,473,240,245" x1="473.5" y1="240.5" x2="473.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="28,509,240,240" x1="28.5" y1="240.5" x2="509.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="210,509,0,26" text-anchor="end" x="509.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Borders Quality optical</text>
+<text aria-label="20,26,232,244" text-anchor="end" x="26.5" y="243.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="8,26,199,211" text-anchor="end" x="26.5" y="210.16666666666669" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="8,26,165,177" text-anchor="end" x="26.5" y="176.83333333333334" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="8,26,132,144" text-anchor="end" x="26.5" y="143.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="8,26,99,111" text-anchor="end" x="26.5" y="110.16666666666667" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="8,26,65,77" text-anchor="end" x="26.5" y="76.83333333333333" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="8,26,32,44" text-anchor="end" x="26.5" y="43.5" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="28,28,40,240" x1="28.5" y1="240.5" x2="28.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="magnetic Bronze: cayenne; Ball Pants: 231; sick Tellurium turquoise: back Sedan" role="graphics-symbol" aria-roledescription="bar" d="M98.39024390243901,163.0h46.92682926829269v77h-46.92682926829269Z" fill="#9bd6bb"/>
+<path aria-label="magnetic Bronze: vice; Ball Pants: 372; sick Tellurium turquoise: back Sedan" role="graphics-symbol" aria-roledescription="bar" d="M391.68292682926835,116.0h46.92682926829269v124h-46.92682926829269Z" fill="#9bd6bb"/>
+<path aria-label="magnetic Bronze: gorilla; Ball Pants: 575; sick Tellurium turquoise: back Sedan" role="graphics-symbol" aria-roledescription="bar" d="M215.70731707317074,48.33333333333333h46.92682926829269v191.66666666666669h-46.92682926829269Z" fill="#9bd6bb"/>
+<path aria-label="magnetic Bronze: tritone; Ball Pants: 72; sick Tellurium turquoise: back Sedan" role="graphics-symbol" aria-roledescription="bar" d="M333.0243902439024,216.0h46.92682926829269v24h-46.92682926829269Z" fill="#9bd6bb"/>
+<path aria-label="magnetic Bronze: mascara; Ball Pants: 418; sick Tellurium turquoise: back Sedan" role="graphics-symbol" aria-roledescription="bar" d="M274.3658536585366,100.66666666666667h46.92682926829269v139.33333333333331h-46.92682926829269Z" fill="#9bd6bb"/>
+<path aria-label="magnetic Bronze: wear; Ball Pants: 74; sick Tellurium turquoise: back Sedan" role="graphics-symbol" aria-roledescription="bar" d="M450.3414634146342,215.33333333333334h46.92682926829269v24.666666666666657h-46.92682926829269Z" fill="#9bd6bb"/>
+<path aria-label="magnetic Bronze: drain; Ball Pants: 159; sick Tellurium turquoise: back Sedan" role="graphics-symbol" aria-roledescription="bar" d="M157.0487804878049,187.0h46.92682926829269v53h-46.92682926829269Z" fill="#9bd6bb"/>
+<path aria-label="magnetic Bronze: bow; Ball Pants: 471; sick Tellurium turquoise: back Sedan" role="graphics-symbol" aria-roledescription="bar" d="M39.73170731707316,83.0h46.92682926829269v157h-46.92682926829269Z" fill="#9bd6bb"/>
+</svg>

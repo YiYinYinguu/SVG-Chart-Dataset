@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="780" height="377" viewBox="0 0 780 377" style="background-color: rgb(255, 255, 255);">
+<line x1="41.5" y1="279.5" x2="775.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="243.5" x2="775.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="206.5" x2="775.5" y2="206.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="170.5" x2="775.5" y2="170.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="134.5" x2="775.5" y2="134.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="97.5" x2="775.5" y2="97.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="98,118,286,376" text-anchor="end" x="112.03225806451614" y="286.5" transform="rotate(270.0, 118.03225806451614, 286.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">birdhouse</text>
+<text aria-label="216,236,286,356" text-anchor="end" x="230.4193548387097" y="286.5" transform="rotate(270.0, 236.4193548387097, 286.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">c-clamp</text>
+<text aria-label="334,354,286,326" text-anchor="end" x="348.8064516129033" y="286.5" transform="rotate(270.0, 354.8064516129033, 286.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">dial</text>
+<text aria-label="453,473,286,346" text-anchor="end" x="467.1935483870968" y="286.5" transform="rotate(270.0, 473.1935483870968, 286.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">ginger</text>
+<text aria-label="571,591,286,346" text-anchor="end" x="585.5806451612904" y="286.5" transform="rotate(270.0, 591.5806451612904, 286.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">slider</text>
+<text aria-label="689,709,286,326" text-anchor="end" x="703.967741935484" y="286.5" transform="rotate(270.0, 709.967741935484, 286.5)" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">wrap</text>
+<line aria-label="112,112,279,284" x1="112.5" y1="279.5" x2="112.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="230,230,279,284" x1="230.5" y1="279.5" x2="230.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="348,348,279,284" x1="348.5" y1="279.5" x2="348.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="467,467,279,284" x1="467.5" y1="279.5" x2="467.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="585,585,279,284" x1="585.5" y1="279.5" x2="585.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="703,703,279,284" x1="703.5" y1="279.5" x2="703.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,775,279,279" x1="41.5" y1="279.5" x2="775.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="193,622,0,26" text-anchor="middle" x="408.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">implementation Trujillo Classical</text>
+<text aria-label="24,34,266,286" text-anchor="end" x="34.5" y="285.5" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="14,34,230,250" text-anchor="end" x="34.5" y="249.13636363636363" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="14,34,193,213" text-anchor="end" x="34.5" y="212.77272727272725" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="14,34,157,177" text-anchor="end" x="34.5" y="176.40909090909093" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">60</text>
+<text aria-label="14,34,121,141" text-anchor="end" x="34.5" y="140.04545454545453" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">80</text>
+<text aria-label="4,34,84,104" text-anchor="end" x="34.5" y="103.68181818181819" font-family="monospace" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<line aria-label="36,41,279,279" x1="41.5" y1="279.5" x2="36.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,243,243" x1="41.5" y1="243.5" x2="36.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,206,206" x1="41.5" y1="206.5" x2="36.5" y2="206.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,170,170" x1="41.5" y1="170.5" x2="36.5" y2="170.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,134,134" x1="41.5" y1="134.5" x2="36.5" y2="134.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,97,97" x1="41.5" y1="97.5" x2="36.5" y2="97.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,41,79,279" x1="41.5" y1="279.5" x2="41.5" y2="79.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="HDD: dial; among: 71; male Consultant: necessitatibus" role="graphics-symbol" aria-roledescription="bar" d="M301.45161290322585,149.9090909090909h94.70967741935485v129.0909090909091h-94.70967741935485Z" fill="#e94d9f"/>
+<path aria-label="HDD: slider; among: 58; male Consultant: necessitatibus" role="graphics-symbol" aria-roledescription="bar" d="M538.2258064516129,173.54545454545456h94.70967741935485v105.45454545454544h-94.70967741935485Z" fill="#e94d9f"/>
+<path aria-label="HDD: ginger; among: 103; male Consultant: necessitatibus" role="graphics-symbol" aria-roledescription="bar" d="M419.8387096774194,91.72727272727272h94.70967741935485v187.27272727272728h-94.70967741935485Z" fill="#e94d9f"/>
+<path aria-label="HDD: birdhouse; among: 77; male Consultant: necessitatibus" role="graphics-symbol" aria-roledescription="bar" d="M64.67741935483872,139.0h94.70967741935485v140h-94.70967741935485Z" fill="#e94d9f"/>
+<path aria-label="HDD: wrap; among: 23; male Consultant: necessitatibus" role="graphics-symbol" aria-roledescription="bar" d="M656.6129032258066,237.1818181818182h94.70967741935485v41.81818181818181h-94.70967741935485Z" fill="#e94d9f"/>
+<path aria-label="HDD: c-clamp; among: 7; male Consultant: necessitatibus" role="graphics-symbol" aria-roledescription="bar" d="M183.06451612903226,266.27272727272725h94.70967741935485v12.72727272727272h-94.70967741935485Z" fill="#e94d9f"/>
+<path  d="M42.0,51.0h10v10h-10Z" fill="#e94d9f" stroke-width="1.5" opacity="1"/>
+<text aria-label="57,134,49,60" text-anchor="start" x="57.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">necessitatibus</text>
+<text aria-label="41,131,32,44" text-anchor="start" x="41.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">male Consultant</text>
+</svg>

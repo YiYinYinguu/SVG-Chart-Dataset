@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="433" height="306" viewBox="0 0 433 306" style="background-color: rgb(255, 255, 255);">
+<line x1="77.5" y1="234.5" x2="428.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="172.5" x2="428.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="109.5" x2="428.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="77.5" y1="47.5" x2="428.5" y2="47.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="106,126,241,281" text-anchor="end" x="120.87500000000003" y="241.5" transform="rotate(270.0, 126.87500000000003, 241.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">dead</text>
+<text aria-label="194,214,241,281" text-anchor="end" x="208.62500000000003" y="241.5" transform="rotate(270.0, 214.62500000000003, 241.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">edge</text>
+<text aria-label="282,302,241,291" text-anchor="end" x="296.375" y="241.5" transform="rotate(270.0, 302.375, 241.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">first</text>
+<text aria-label="370,390,241,281" text-anchor="end" x="384.12500000000006" y="241.5" transform="rotate(270.0, 390.12500000000006, 241.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">mRNA</text>
+<line aria-label="120,120,234,239" x1="120.5" y1="234.5" x2="120.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="208,208,234,239" x1="208.5" y1="234.5" x2="208.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="296,296,234,239" x1="296.5" y1="234.5" x2="296.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="384,384,234,239" x1="384.5" y1="234.5" x2="384.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="77,428,234,234" x1="77.5" y1="234.5" x2="428.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="311,428,0,26" text-anchor="end" x="428.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southwest</text>
+<text aria-label="60,70,221,241" text-anchor="end" x="70.5" y="240.5" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="40,70,159,179" text-anchor="end" x="70.5" y="178.0" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="20,70,96,116" text-anchor="end" x="70.5" y="115.5" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="20,70,34,54" text-anchor="end" x="70.5" y="53.0" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<line aria-label="72,77,234,234" x1="77.5" y1="234.5" x2="72.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,172,172" x1="77.5" y1="172.5" x2="72.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,109,109" x1="77.5" y1="109.5" x2="72.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,47,47" x1="77.5" y1="47.5" x2="72.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,74,194" text-anchor="middle" x="17.35791015625" y="134.5" transform="rotate(-90.0, 15.35791015625, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">foolishly Tasty blue</text>
+<line aria-label="77,77,34,234" x1="77.5" y1="234.5" x2="77.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Northeast: dead; foolishly Tasty blue: 873; transmitting Buckinghamshire invoice: Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M85.33625000000002,39.62499999999999h71.07750000000001v109.12500000000001h-71.07750000000001Z" fill="#e7cc9d"/>
+<path aria-label="Northeast: dead; foolishly Tasty blue: 621; transmitting Buckinghamshire invoice: candela sint" role="graphics-symbol" aria-roledescription="bar" d="M85.33625000000002,156.375h71.07750000000001v77.62500000000001h-71.07750000000001Z" fill="#7bcf22"/>
+<path aria-label="Northeast: dead; foolishly Tasty blue: 61; transmitting Buckinghamshire invoice: Pleasanton Southeast Van" role="graphics-symbol" aria-roledescription="bar" d="M85.33625000000002,148.75h71.07750000000001v7.624999999999986h-71.07750000000001Z" fill="#c3ee71"/>
+<path aria-label="Northeast: mRNA; foolishly Tasty blue: 343; transmitting Buckinghamshire invoice: Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M348.58625000000006,67.0h71.07750000000001v42.87499999999999h-71.07750000000001Z" fill="#e7cc9d"/>
+<path aria-label="Northeast: mRNA; foolishly Tasty blue: 782; transmitting Buckinghamshire invoice: candela sint" role="graphics-symbol" aria-roledescription="bar" d="M348.58625000000006,136.25h71.07750000000001v97.75h-71.07750000000001Z" fill="#7bcf22"/>
+<path aria-label="Northeast: mRNA; foolishly Tasty blue: 211; transmitting Buckinghamshire invoice: Pleasanton Southeast Van" role="graphics-symbol" aria-roledescription="bar" d="M348.58625000000006,109.875h71.07750000000001v26.375h-71.07750000000001Z" fill="#c3ee71"/>
+<path aria-label="Northeast: first; foolishly Tasty blue: 350; transmitting Buckinghamshire invoice: Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M260.83625,50.37500000000001h71.07750000000001v43.75h-71.07750000000001Z" fill="#e7cc9d"/>
+<path aria-label="Northeast: first; foolishly Tasty blue: 664; transmitting Buckinghamshire invoice: candela sint" role="graphics-symbol" aria-roledescription="bar" d="M260.83625,151.0h71.07750000000001v83h-71.07750000000001Z" fill="#7bcf22"/>
+<path aria-label="Northeast: first; foolishly Tasty blue: 455; transmitting Buckinghamshire invoice: Pleasanton Southeast Van" role="graphics-symbol" aria-roledescription="bar" d="M260.83625,94.125h71.07750000000001v56.87499999999999h-71.07750000000001Z" fill="#c3ee71"/>
+<path aria-label="Northeast: edge; foolishly Tasty blue: 168; transmitting Buckinghamshire invoice: Bedfordshire" role="graphics-symbol" aria-roledescription="bar" d="M173.08625,132.0h71.07750000000001v21h-71.07750000000001Z" fill="#e7cc9d"/>
+<path aria-label="Northeast: edge; foolishly Tasty blue: 188; transmitting Buckinghamshire invoice: candela sint" role="graphics-symbol" aria-roledescription="bar" d="M173.08625,210.5h71.07750000000001v23.5h-71.07750000000001Z" fill="#7bcf22"/>
+<path aria-label="Northeast: edge; foolishly Tasty blue: 460; transmitting Buckinghamshire invoice: Pleasanton Southeast Van" role="graphics-symbol" aria-roledescription="bar" d="M173.08625,153.0h71.07750000000001v57.5h-71.07750000000001Z" fill="#c3ee71"/>
+</svg>

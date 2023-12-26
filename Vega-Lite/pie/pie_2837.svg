@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="7,202,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Paradigm system</text>
+<path aria-label="Music: 556; proactive Southwest bifurcated: magnam" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,78.56661603254646,204.18743628334897L105.0,134.0Z" fill="#d1a605" stroke="black" stroke-width="0"/>
+<path aria-label="Music: 417; proactive Southwest bifurcated: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.74572468383477,196.30806104045823A75,75,0,0,0,138.64752007758602,66.97131664258616L105.0,134.0Z" fill="#f1ed44" stroke="black" stroke-width="0"/>
+<path aria-label="Music: 93; proactive Southwest bifurcated: Astatine" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.64752007758602,66.97131664258616A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#e5ffbe" stroke="black" stroke-width="0"/>
+<path aria-label="Music: 190; proactive Southwest bifurcated: Shirt" role="graphics-symbol" aria-roledescription="arc mark"  d="M78.56661603254646,204.18743628334897A75,75,0,0,0,146.74572468383477,196.30806104045823L105.0,134.0Z" fill="#0bafa2" stroke="black" stroke-width="0"/>
+<text aria-label="8,24,110,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.45553908176501" y="120.87925433799184" font-family="monospace" font-size="10px" fill="#d1a605" opacity="1">556</text>
+<text aria-label="186,203,121,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.8240977163398" y="131.37581388595265" font-family="monospace" font-size="10px" fill="#f1ed44" opacity="1">417</text>
+<text aria-label="120,131,39,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="125.7473154576599" y="49.42403924991547" font-family="monospace" font-size="10px" fill="#e5ffbe" opacity="1">93</text>
+<text aria-label="107,123,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.3324169329261" y="226.40492805390642" font-family="monospace" font-size="10px" fill="#0bafa2" opacity="1">190</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#e5ffbe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#f1ed44" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#0bafa2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#d1a605" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Astatine</text>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Shirt</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">magnam</text>
+</svg>

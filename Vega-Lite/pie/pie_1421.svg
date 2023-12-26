@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="333" height="286" viewBox="0 0 333 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="53,157,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">gadzooks</text>
+<path aria-label="Mouse: 75; Skyway: input" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,32.21001486573243,162.92742231575397L105.0,181.0Z" fill="#54abb1" stroke="white" stroke-width="1"/>
+<path aria-label="Mouse: 52; Skyway: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.84915052272611,240.88656603513476A75,75,0,0,0,125.31810577366912,253.1953916657427L105.0,181.0Z" fill="#19cb02" stroke="white" stroke-width="1"/>
+<path aria-label="Mouse: 8; Skyway: Incredible" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.58401951886667,106.75056545114805A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#9ac3e5" stroke="white" stroke-width="1"/>
+<path aria-label="Mouse: 66; Skyway: geez" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.21001486573243,162.92742231575397A75,75,0,0,0,59.84915052272611,240.88656603513476L105.0,181.0Z" fill="#a4b01b" stroke="white" stroke-width="1"/>
+<path aria-label="Mouse: 32; Skyway: SUV" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.31810577366912,253.1953916657427A75,75,0,0,0,160.88365693210713,231.02016481274882L105.0,181.0Z" fill="#5c223c" stroke="white" stroke-width="1"/>
+<path aria-label="Mouse: 122; Skyway: Oro" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.88365693210713,231.02016481274882A75,75,0,0,0,115.58401951886667,106.75056545114805L105.0,181.0Z" fill="#54ea5f" stroke="white" stroke-width="1"/>
+<text aria-label="44,54,104,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="49.55560618916722" y="113.10628240140535" font-family="sans-serif" font-size="9px" fill="#54abb1" opacity="1">75</text>
+<text aria-label="83,93,263,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="88.37044662742537" y="272.45031347953886" font-family="sans-serif" font-size="9px" fill="#19cb02" opacity="1">52</text>
+<text aria-label="108,113,85,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.36635958472303" y="94.22545201652082" font-family="sans-serif" font-size="9px" fill="#9ac3e5" opacity="1">8</text>
+<text aria-label="15,25,205,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.17334922916396" y="214.073897635701" font-family="sans-serif" font-size="9px" fill="#a4b01b" opacity="1">66</text>
+<text aria-label="147,157,251,261" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.61766223956926" y="260.37118725565483" font-family="sans-serif" font-size="9px" fill="#5c223c" opacity="1">32</text>
+<text aria-label="182,197,144,154" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.55719201689632" y="153.17661150655684" font-family="sans-serif" font-size="9px" fill="#54ea5f" opacity="1">122</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#9ac3e5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M91.0,56.25A5,5,0,1,1,81.0,56.25A5,5,0,1,1,91.0,56.25" fill="#54ea5f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M137.0,56.25A5,5,0,1,1,127.0,56.25A5,5,0,1,1,137.0,56.25" fill="#5c223c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M184.0,56.25A5,5,0,1,1,174.0,56.25A5,5,0,1,1,184.0,56.25" fill="#19cb02" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M247.0,56.25A5,5,0,1,1,237.0,56.25A5,5,0,1,1,247.0,56.25" fill="#a4b01b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M297.0,56.25A5,5,0,1,1,287.0,56.25A5,5,0,1,1,297.0,56.25" fill="#54abb1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Incredible</text>
+<text aria-label="96,112,49,60" text-anchor="start" x="96.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Oro</text>
+<text aria-label="142,158,49,60" text-anchor="start" x="142.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">SUV</text>
+<text aria-label="189,227,49,60" text-anchor="start" x="189.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="252,274,49,60" text-anchor="start" x="252.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">geez</text>
+<text aria-label="302,329,49,60" text-anchor="start" x="302.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">input</text>
+<text aria-label="5,41,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Skyway</text>
+</svg>

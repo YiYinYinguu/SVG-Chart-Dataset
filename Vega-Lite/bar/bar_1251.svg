@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="395" height="307" viewBox="0 0 395 307" style="background-color: rgb(255, 255, 255);">
+<line x1="114.5" y1="43.5" x2="114.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="224.5" y1="43.5" x2="224.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="334.5" y1="43.5" x2="334.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="100,119,250,298" text-anchor="end" x="114.16666666666669" y="250.5" transform="rotate(270.0, 119.16666666666669, 250.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">alder</text>
+<text aria-label="210,229,250,307" text-anchor="end" x="224.5" y="250.5" transform="rotate(270.0, 229.5, 250.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">buffet</text>
+<text aria-label="320,339,250,279" text-anchor="end" x="334.8333333333333" y="250.5" transform="rotate(270.0, 339.8333333333333, 250.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">yin</text>
+<line aria-label="114,114,243,248" x1="114.5" y1="243.5" x2="114.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="224,224,243,248" x1="224.5" y1="243.5" x2="224.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="334,334,243,248" x1="334.5" y1="243.5" x2="334.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="59,390,243,243" x1="59.5" y1="243.5" x2="390.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,96,0,26" text-anchor="start" x="5.3330078125" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">program</text>
+<text aria-label="43,52,230,249" text-anchor="end" x="52.5" y="248.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="24,52,180,199" text-anchor="end" x="52.5" y="198.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="24,52,130,149" text-anchor="end" x="52.5" y="148.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="24,52,80,99" text-anchor="end" x="52.5" y="98.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="24,52,30,49" text-anchor="end" x="52.5" y="48.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<line aria-label="54,59,243,243" x1="59.5" y1="243.5" x2="54.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,59,193,193" x1="59.5" y1="193.5" x2="54.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,59,143,143" x1="59.5" y1="143.5" x2="54.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,59,93,93" x1="59.5" y1="93.5" x2="54.5" y2="93.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,59,43,43" x1="59.5" y1="43.5" x2="54.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,77,209" text-anchor="middle" x="16.8330078125" y="143.5" transform="rotate(-90.0, 14.8330078125, 143.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bicycle District Bauch</text>
+<line aria-label="59,59,43,243" x1="59.5" y1="243.5" x2="59.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Kyat Toys East: alder; Bicycle District Bauch: 124; female: Orchestrator outlying Oriental" role="graphics-symbol" aria-roledescription="bar" d="M84.37666666666668,131.5h59.580000000000005v62h-59.580000000000005Z" fill="#feffaf"/>
+<path aria-label="Kyat Toys East: alder; Bicycle District Bauch: 176; female: Generic content Rustic" role="graphics-symbol" aria-roledescription="bar" d="M84.37666666666668,43.499999999999986h59.580000000000005v88.00000000000001h-59.580000000000005Z" fill="#9fce2c"/>
+<path aria-label="Kyat Toys East: alder; Bicycle District Bauch: 99; female: Pants" role="graphics-symbol" aria-roledescription="bar" d="M84.37666666666668,193.5h59.580000000000005v49.5h-59.580000000000005Z" fill="#4dcf0b"/>
+<path aria-label="Kyat Toys East: buffet; Bicycle District Bauch: 180; female: Orchestrator outlying Oriental" role="graphics-symbol" aria-roledescription="bar" d="M194.71,99.0h59.580000000000005v90h-59.580000000000005Z" fill="#feffaf"/>
+<path aria-label="Kyat Toys East: buffet; Bicycle District Bauch: 73; female: Generic content Rustic" role="graphics-symbol" aria-roledescription="bar" d="M194.71,62.50000000000001h59.580000000000005v36.5h-59.580000000000005Z" fill="#9fce2c"/>
+<path aria-label="Kyat Toys East: buffet; Bicycle District Bauch: 108; female: Pants" role="graphics-symbol" aria-roledescription="bar" d="M194.71,189.0h59.580000000000005v54h-59.580000000000005Z" fill="#4dcf0b"/>
+<path aria-label="Kyat Toys East: yin; Bicycle District Bauch: 170; female: Orchestrator outlying Oriental" role="graphics-symbol" aria-roledescription="bar" d="M305.0433333333333,130.5h59.580000000000005v85h-59.580000000000005Z" fill="#feffaf"/>
+<path aria-label="Kyat Toys East: yin; Bicycle District Bauch: 55; female: Generic content Rustic" role="graphics-symbol" aria-roledescription="bar" d="M305.0433333333333,103.0h59.580000000000005v27.499999999999993h-59.580000000000005Z" fill="#9fce2c"/>
+<path aria-label="Kyat Toys East: yin; Bicycle District Bauch: 55; female: Pants" role="graphics-symbol" aria-roledescription="bar" d="M305.0433333333333,215.5h59.580000000000005v27.5h-59.580000000000005Z" fill="#4dcf0b"/>
+<text aria-label="109,118,124,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="114.16666666666669" y="129.0245" font-family="Balto" font-size="4.965px" fill="#000" opacity="1">124</text>
+<text aria-label="109,118,36,42" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="114.16666666666669" y="41.02449999999999" font-family="Balto" font-size="4.965px" fill="#000" opacity="1">176</text>
+<text aria-label="111,117,186,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="114.16666666666669" y="191.0245" font-family="Balto" font-size="4.965px" fill="#000" opacity="1">99</text>
+<text aria-label="220,228,91,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="224.5" y="96.52450000000002" font-family="Balto" font-size="4.965px" fill="#000" opacity="1">180</text>
+<text aria-label="221,227,55,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="224.5" y="60.0245" font-family="Balto" font-size="4.965px" fill="#000" opacity="1">73</text>
+<text aria-label="220,228,181,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="224.5" y="186.5245" font-family="Balto" font-size="4.965px" fill="#000" opacity="1">108</text>
+<text aria-label="330,339,123,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="334.8333333333333" y="128.0245" font-family="Balto" font-size="4.965px" fill="#000" opacity="1">170</text>
+<text aria-label="331,337,95,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="334.8333333333333" y="100.52450000000002" font-family="Balto" font-size="4.965px" fill="#000" opacity="1">55</text>
+<text aria-label="331,337,208,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="334.8333333333333" y="213.0245" font-family="Balto" font-size="4.965px" fill="#000" opacity="1">55</text>
+</svg>

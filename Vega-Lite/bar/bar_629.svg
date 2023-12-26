@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="793" height="323" viewBox="0 0 793 323" style="background-color: rgb(255, 255, 255);">
+<line x1="37.5" y1="240.5" x2="608.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="190.5" x2="608.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="140.5" x2="608.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="90.5" x2="608.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="40.5" x2="608.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="50,64,247,296" text-anchor="end" x="60.791666666666664" y="247.5" transform="rotate(270.0, 64.79166666666666, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">cockpit</text>
+<text aria-label="98,112,247,282" text-anchor="end" x="108.375" y="247.5" transform="rotate(270.0, 112.375, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">court</text>
+<text aria-label="145,159,247,289" text-anchor="end" x="155.95833333333334" y="247.5" transform="rotate(270.0, 159.95833333333334, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">diaper</text>
+<text aria-label="193,207,247,282" text-anchor="end" x="203.54166666666666" y="247.5" transform="rotate(270.0, 207.54166666666666, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">dozen</text>
+<text aria-label="241,255,247,296" text-anchor="end" x="251.125" y="247.5" transform="rotate(270.0, 255.125, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">freezer</text>
+<text aria-label="288,302,247,275" text-anchor="end" x="298.70833333333337" y="247.5" transform="rotate(270.0, 302.70833333333337, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">game</text>
+<text aria-label="336,350,247,310" text-anchor="end" x="346.2916666666667" y="247.5" transform="rotate(270.0, 350.2916666666667, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">newsprint</text>
+<text aria-label="383,397,247,289" text-anchor="end" x="393.87500000000006" y="247.5" transform="rotate(270.0, 397.87500000000006, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">police</text>
+<text aria-label="431,445,247,289" text-anchor="end" x="441.45833333333337" y="247.5" transform="rotate(270.0, 445.45833333333337, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">rating</text>
+<text aria-label="479,493,247,310" text-anchor="end" x="489.0416666666667" y="247.5" transform="rotate(270.0, 493.0416666666667, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">shearling</text>
+<text aria-label="526,540,247,289" text-anchor="end" x="536.625" y="247.5" transform="rotate(270.0, 540.625, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">sleuth</text>
+<text aria-label="574,588,247,310" text-anchor="end" x="584.2083333333334" y="247.5" transform="rotate(270.0, 588.2083333333334, 247.5)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">sunbonnet</text>
+<line aria-label="60,60,240,245" x1="60.5" y1="240.5" x2="60.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="108,108,240,245" x1="108.5" y1="240.5" x2="108.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="155,155,240,245" x1="155.5" y1="240.5" x2="155.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="203,203,240,245" x1="203.5" y1="240.5" x2="203.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="251,251,240,245" x1="251.5" y1="240.5" x2="251.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="298,298,240,245" x1="298.5" y1="240.5" x2="298.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="346,346,240,245" x1="346.5" y1="240.5" x2="346.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="393,393,240,245" x1="393.5" y1="240.5" x2="393.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="441,441,240,245" x1="441.5" y1="240.5" x2="441.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="489,489,240,245" x1="489.5" y1="240.5" x2="489.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="536,536,240,245" x1="536.5" y1="240.5" x2="536.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="584,584,240,245" x1="584.5" y1="240.5" x2="584.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,608,240,240" x1="37.5" y1="240.5" x2="608.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="134,511,0,26" text-anchor="middle" x="322.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">North Identity Implementation</text>
+<text aria-label="23,30,231,245" text-anchor="end" x="30.5" y="244.5" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="9,30,181,195" text-anchor="end" x="30.5" y="194.5" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="9,30,131,145" text-anchor="end" x="30.5" y="144.5" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="9,30,81,95" text-anchor="end" x="30.5" y="94.5" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="9,30,31,45" text-anchor="end" x="30.5" y="44.5" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">400</text>
+<line aria-label="32,37,240,240" x1="37.5" y1="240.5" x2="32.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,37,190,190" x1="37.5" y1="190.5" x2="32.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,37,140,140" x1="37.5" y1="140.5" x2="32.5" y2="140.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,37,90,90" x1="37.5" y1="90.5" x2="32.5" y2="90.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,37,40,40" x1="37.5" y1="40.5" x2="32.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="extranet timeout: freezer; deposit Northwest: 172; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M238.2775,154.0h25.695000000000004v85.99999999999999h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: court; deposit Northwest: 207; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M95.5275,136.5h25.695000000000004v103.49999999999999h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: rating; deposit Northwest: 235; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M428.61083333333335,122.5h25.695000000000004v117.5h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: game; deposit Northwest: 315; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M285.86083333333335,82.5h25.695000000000004v157.5h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: sunbonnet; deposit Northwest: 110; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M571.3608333333334,185.0h25.695000000000004v55h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: newsprint; deposit Northwest: 171; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M333.44416666666666,154.5h25.695000000000004v85.5h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: police; deposit Northwest: 241; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M381.02750000000003,119.5h25.695000000000004v120.5h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: diaper; deposit Northwest: 152; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M143.11083333333335,164.0h25.695000000000004v76h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: cockpit; deposit Northwest: 167; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M47.94416666666666,156.5h25.695000000000004v83.5h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: sleuth; deposit Northwest: 93; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M523.7775,193.5h25.695000000000004v46.5h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: shearling; deposit Northwest: 353; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M476.19416666666666,63.500000000000014h25.695000000000004v176.5h-25.695000000000004Z" fill="#50aa5c"/>
+<path aria-label="extranet timeout: dozen; deposit Northwest: 123; communities: Rap envisioneer programming" role="graphics-symbol" aria-roledescription="bar" d="M190.69416666666666,178.5h25.695000000000004v61.5h-25.695000000000004Z" fill="#50aa5c"/>
+<text aria-label="243,258,142,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="251.125" y="151.0045" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">172</text>
+<text aria-label="101,115,124,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.375" y="133.5045" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">207</text>
+<text aria-label="434,448,110,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="441.45833333333337" y="119.50450000000001" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">235</text>
+<text aria-label="291,305,70,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="298.70833333333337" y="79.50450000000001" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">315</text>
+<text aria-label="577,591,173,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="584.2083333333334" y="182.0045" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">110</text>
+<text aria-label="339,353,142,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="346.2916666666667" y="151.5045" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">171</text>
+<text aria-label="386,401,107,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="393.87500000000006" y="116.50450000000001" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">241</text>
+<text aria-label="148,163,152,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.95833333333334" y="161.0045" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">152</text>
+<text aria-label="53,67,144,154" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="60.791666666666664" y="153.5045" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">167</text>
+<text aria-label="531,541,181,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="536.625" y="190.5045" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">93</text>
+<text aria-label="481,496,51,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="489.0416666666667" y="60.50450000000001" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">353</text>
+<text aria-label="196,210,166,176" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="203.54166666666666" y="175.5045" font-family="sans-serif" font-size="8.565px" fill="#000" opacity="1">123</text>
+<path  d="M627.0,57.0h10v10h-10Z" fill="#50aa5c" stroke-width="1.5" opacity="1"/>
+<text aria-label="642,790,55,66" text-anchor="start" x="642.0" y="65.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Rap envisioneer programming</text>
+<text aria-label="626,692,38,50" text-anchor="start" x="626.0" y="49.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">communities</text>
+</svg>

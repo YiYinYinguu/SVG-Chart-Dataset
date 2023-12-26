@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="799" height="280" viewBox="0 0 799 280" style="background-color: rgb(255, 255, 255);">
+<line x1="152.5" y1="39.5" x2="152.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="330.5" y1="39.5" x2="330.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="509.5" y1="39.5" x2="509.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="687.5" y1="39.5" x2="687.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="144,155,246,268" text-anchor="end" x="152.8571428571429" y="246.5" transform="rotate(270.0, 155.8571428571429, 246.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">carp</text>
+<text aria-label="322,333,246,268" text-anchor="end" x="330.95238095238096" y="246.5" transform="rotate(270.0, 333.95238095238096, 246.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">fool</text>
+<text aria-label="501,512,246,274" text-anchor="end" x="509.04761904761904" y="246.5" transform="rotate(270.0, 512.047619047619, 246.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">hutch</text>
+<text aria-label="679,690,246,268" text-anchor="end" x="687.1428571428571" y="246.5" transform="rotate(270.0, 690.1428571428571, 246.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">jury</text>
+<line aria-label="152,152,239,244" x1="152.5" y1="239.5" x2="152.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="330,330,239,244" x1="330.5" y1="239.5" x2="330.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="509,509,239,244" x1="509.5" y1="239.5" x2="509.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="687,687,239,244" x1="687.5" y1="239.5" x2="687.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,794,239,239" x1="46.5" y1="239.5" x2="794.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="664,794,0,26" text-anchor="end" x="794.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">in Germany</text>
+<text aria-label="34,39,232,243" text-anchor="end" x="39.5" y="242.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="28,39,199,210" text-anchor="end" x="39.5" y="209.16666666666669" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="23,39,165,176" text-anchor="end" x="39.5" y="175.83333333333334" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="23,39,132,143" text-anchor="end" x="39.5" y="142.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="23,39,99,110" text-anchor="end" x="39.5" y="109.16666666666667" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="23,39,65,76" text-anchor="end" x="39.5" y="75.83333333333333" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">250</text>
+<text aria-label="23,39,32,43" text-anchor="end" x="39.5" y="42.5" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">300</text>
+<line aria-label="41,46,239,239" x1="46.5" y1="239.5" x2="41.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,206,206" x1="46.5" y1="206.5" x2="41.5" y2="206.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,172,172" x1="46.5" y1="172.5" x2="41.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,139,139" x1="46.5" y1="139.5" x2="41.5" y2="139.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,106,106" x1="46.5" y1="106.5" x2="41.5" y2="106.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,72,72" x1="46.5" y1="72.5" x2="41.5" y2="72.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,39,39" x1="46.5" y1="39.5" x2="41.5" y2="39.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,64,214" text-anchor="middle" x="16.9990234375" y="139.5" transform="rotate(-90.0, 14.9990234375, 139.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">white amongst calculating</text>
+<path aria-label="possess Latvia Infrastructure: jury; white amongst calculating: 271; East Northeast Utah: Ford" role="graphics-symbol" aria-roledescription="bar" d="M615.9047619047619,58.333333333333336h47.49206349206349v180.66666666666666h-47.49206349206349Z" fill="#b04052"/>
+<path aria-label="possess Latvia Infrastructure: jury; white amongst calculating: 188; East Northeast Utah: Sedan Southwest" role="graphics-symbol" aria-roledescription="bar" d="M663.3968253968254,113.66666666666666h47.49206349206349v125.33333333333334h-47.49206349206349Z" fill="#850ff1"/>
+<path aria-label="possess Latvia Infrastructure: jury; white amongst calculating: 80; East Northeast Utah: synthesizing" role="graphics-symbol" aria-roledescription="bar" d="M710.8888888888889,185.66666666666669h47.49206349206349v53.333333333333314h-47.49206349206349Z" fill="#58aee8"/>
+<path aria-label="possess Latvia Infrastructure: fool; white amongst calculating: 15; East Northeast Utah: Ford" role="graphics-symbol" aria-roledescription="bar" d="M259.7142857142857,229.0h47.49206349206349v10h-47.49206349206349Z" fill="#b04052"/>
+<path aria-label="possess Latvia Infrastructure: fool; white amongst calculating: 21; East Northeast Utah: Sedan Southwest" role="graphics-symbol" aria-roledescription="bar" d="M307.2063492063492,225.0h47.49206349206349v14h-47.49206349206349Z" fill="#850ff1"/>
+<path aria-label="possess Latvia Infrastructure: fool; white amongst calculating: 194; East Northeast Utah: synthesizing" role="graphics-symbol" aria-roledescription="bar" d="M354.6984126984127,109.66666666666667h47.49206349206349v129.33333333333331h-47.49206349206349Z" fill="#58aee8"/>
+<path aria-label="possess Latvia Infrastructure: hutch; white amongst calculating: 34; East Northeast Utah: Ford" role="graphics-symbol" aria-roledescription="bar" d="M437.8095238095238,216.33333333333334h47.49206349206349v22.666666666666657h-47.49206349206349Z" fill="#b04052"/>
+<path aria-label="possess Latvia Infrastructure: hutch; white amongst calculating: 209; East Northeast Utah: Sedan Southwest" role="graphics-symbol" aria-roledescription="bar" d="M485.3015873015873,99.66666666666667h47.49206349206349v139.33333333333331h-47.49206349206349Z" fill="#850ff1"/>
+<path aria-label="possess Latvia Infrastructure: hutch; white amongst calculating: 253; East Northeast Utah: synthesizing" role="graphics-symbol" aria-roledescription="bar" d="M532.7936507936508,70.33333333333333h47.49206349206349v168.66666666666669h-47.49206349206349Z" fill="#58aee8"/>
+<path aria-label="possess Latvia Infrastructure: carp; white amongst calculating: 262; East Northeast Utah: Ford" role="graphics-symbol" aria-roledescription="bar" d="M81.61904761904765,64.33333333333334h47.49206349206349v174.66666666666666h-47.49206349206349Z" fill="#b04052"/>
+<path aria-label="possess Latvia Infrastructure: carp; white amongst calculating: 287; East Northeast Utah: Sedan Southwest" role="graphics-symbol" aria-roledescription="bar" d="M129.11111111111114,47.66666666666667h47.49206349206349v191.33333333333334h-47.49206349206349Z" fill="#850ff1"/>
+<path aria-label="possess Latvia Infrastructure: carp; white amongst calculating: 190; East Northeast Utah: synthesizing" role="graphics-symbol" aria-roledescription="bar" d="M176.60317460317464,112.33333333333334h47.49206349206349v126.66666666666666h-47.49206349206349Z" fill="#58aee8"/>
+</svg>

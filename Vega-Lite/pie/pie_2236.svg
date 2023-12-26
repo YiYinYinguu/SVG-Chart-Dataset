@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="293" height="239" viewBox="0 0 293 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,209,0,26" text-anchor="middle" x="112.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Manager Granite</text>
+<path aria-label="robust ack Frozen: 1; state: Small" role="graphics-symbol" aria-roledescription="arc mark"  d="M111.99999999999999,59.0A75,75,0,0,0,109.8485193983463,59.03086547637949L112.0,134.0Z" fill="#cc52a5" stroke="white" stroke-width="0"/>
+<path aria-label="robust ack Frozen: 115; state: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M109.8485193983463,59.03086547637949A75,75,0,1,0,125.90561401699384,207.69961939393164L112.0,134.0Z" fill="#7bdb7f" stroke="white" stroke-width="0"/>
+<path aria-label="robust ack Frozen: 103; state: Arizona" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.90561401699384,207.69961939393164A75,75,0,0,0,112.0,59.0L112.0,134.0Z" fill="#7a9cee" stroke="white" stroke-width="0"/>
+<path  d="M241.0,56.0A5,5,0,1,1,231.0,56.0A5,5,0,1,1,241.0,56.0" fill="#7a9cee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M241.0,72.0A5,5,0,1,1,231.0,72.0A5,5,0,1,1,241.0,72.0" fill="#7bdb7f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M241.0,88.0A5,5,0,1,1,231.0,88.0A5,5,0,1,1,241.0,88.0" fill="#cc52a5" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="246,284,49,60" text-anchor="start" x="246.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Arizona</text>
+<text aria-label="246,290,65,76" text-anchor="start" x="246.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="246,273,81,92" text-anchor="start" x="246.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Small</text>
+<text aria-label="230,260,32,44" text-anchor="start" x="230.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">state</text>
+</svg>

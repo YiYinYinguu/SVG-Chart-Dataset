@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="384" height="270" viewBox="0 0 384 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="327,379,0,26" text-anchor="end" x="379.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gold</text>
+<path aria-label="Account mole: 85; Rial Grocery Kids: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.036909489747956,162.64732893251954A75,75,0,0,0,46.67129739638988,212.14618173913564L73.89135861140794,190.14463026087233A40,40,0,0,1,65.01968506119891,163.74524209734375Z" fill="#84e5db" stroke="black" stroke-width="4"/>
+<path aria-label="Account mole: 109; Rial Grocery Kids: Franc" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.3019848042699,119.08404854220984A75,75,0,0,0,105.0,90.0L105.0,125.0A40,40,0,0,1,136.62772522894394,140.51149255584525Z" fill="#3fd769" stroke="black" stroke-width="4"/>
+<path aria-label="Account mole: 184; Rial Grocery Kids: meanwhile" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,30.036909489747956,162.64732893251954L65.01968506119891,163.74524209734375A40,40,0,0,1,104.99999999999999,125.0Z" fill="#84e806" stroke="black" stroke-width="4"/>
+<path aria-label="Account mole: 118; Rial Grocery Kids: Tuna" role="graphics-symbol" aria-roledescription="arc mark"  d="M46.67129739638988,212.14618173913564A75,75,0,0,0,112.20491358123486,239.65312599139395L108.84262057665859,204.81500052874344A40,40,0,0,1,73.89135861140794,190.14463026087233Z" fill="#4fa9a3" stroke="black" stroke-width="4"/>
+<path aria-label="Account mole: 78; Rial Grocery Kids: Metal" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.9985235041445,164.5293916721018A75,75,0,0,0,164.3019848042699,119.08404854220984L136.62772522894394,140.51149255584525A40,40,0,0,1,144.99921253554373,164.74900889178764Z" fill="#cddbc4" stroke="black" stroke-width="4"/>
+<path aria-label="Account mole: 174; Rial Grocery Kids: Total" role="graphics-symbol" aria-roledescription="arc mark"  d="M112.20491358123486,239.65312599139395A75,75,0,0,0,179.9867118861045,166.41175086695793L144.9929130059224,165.7529337957109A40,40,0,0,1,108.84262057665859,204.81500052874344Z" fill="#69cebe" stroke="black" stroke-width="4"/>
+<path aria-label="Account mole: 3; Rial Grocery Kids: Rolls" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.9867118861045,166.41175086695793A75,75,0,0,0,179.9985235041445,164.5293916721018L144.99921253554373,164.74900889178764A40,40,0,0,1,144.9929130059224,165.7529337957109Z" fill="#bdba13" stroke="black" stroke-width="4"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#3fd769" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M69.0,40.25A5,5,0,1,1,59.0,40.25A5,5,0,1,1,69.0,40.25" fill="#cddbc4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M124.0,40.25A5,5,0,1,1,114.0,40.25A5,5,0,1,1,124.0,40.25" fill="#bdba13" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M174.0,40.25A5,5,0,1,1,164.0,40.25A5,5,0,1,1,174.0,40.25" fill="#69cebe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M224.0,40.25A5,5,0,1,1,214.0,40.25A5,5,0,1,1,224.0,40.25" fill="#4fa9a3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M274.0,40.25A5,5,0,1,1,264.0,40.25A5,5,0,1,1,274.0,40.25" fill="#84e5db" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M322.0,40.25A5,5,0,1,1,312.0,40.25A5,5,0,1,1,322.0,40.25" fill="#84e806" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Franc</text>
+<text aria-label="74,101,33,44" text-anchor="start" x="74.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Metal</text>
+<text aria-label="129,156,33,44" text-anchor="start" x="129.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Rolls</text>
+<text aria-label="179,206,33,44" text-anchor="start" x="179.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Total</text>
+<text aria-label="229,251,33,44" text-anchor="start" x="229.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Tuna</text>
+<text aria-label="279,301,33,44" text-anchor="start" x="279.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">blue</text>
+<text aria-label="327,376,33,44" text-anchor="start" x="327.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">meanwhile</text>
+</svg>

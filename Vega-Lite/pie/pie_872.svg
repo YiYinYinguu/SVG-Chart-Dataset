@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="350" height="239" viewBox="0 0 350 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="20,280,0,26" text-anchor="middle" x="150.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Extended Baby Oregon</text>
+<path aria-label="juvenile excluding: 102; monitor anise: neural" role="graphics-symbol" aria-roledescription="arc mark"  d="M88.58986020738683,177.05571658504488A75,75,0,0,0,116.61301118137644,201.15883395075517L129.96780670882586,174.2953003704531A45,45,0,0,1,113.1539161244321,159.83342995102691Z" fill="#53a1a7" stroke="white" stroke-width="2"/>
+<path aria-label="juvenile excluding: 375; monitor anise: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.26600270850015,202.85411683457338A75,75,0,0,0,224.18361465699238,145.03591031237872L194.5101687941954,140.6215461874272A45,45,0,0,1,132.1596016251001,175.312470100744Z" fill="#a8cd4b" stroke="white" stroke-width="2"/>
+<path aria-label="juvenile excluding: 447; monitor anise: transmit" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.0,59.0A75,75,0,0,0,88.58986020738683,177.05571658504488L113.1539161244321,159.83342995102691A45,45,0,0,1,150.0,89.0Z" fill="#16efe4" stroke="white" stroke-width="2"/>
+<path aria-label="juvenile excluding: 352; monitor anise: Davie" role="graphics-symbol" aria-roledescription="arc mark"  d="M224.18361465699238,145.03591031237872A75,75,0,0,0,150.0,59.0L150.0,89.0A45,45,0,0,1,194.5101687941954,140.6215461874272Z" fill="#f7345a" stroke="white" stroke-width="2"/>
+<path aria-label="juvenile excluding: 11; monitor anise: conk" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.61301118137644,201.15883395075517A75,75,0,0,0,120.26600270850015,202.85411683457338L132.1596016251001,175.312470100744A45,45,0,0,1,129.96780670882586,174.2953003704531Z" fill="#484aa0" stroke="white" stroke-width="2"/>
+<path  d="M279.0,56.0A5,5,0,1,1,269.0,56.0A5,5,0,1,1,279.0,56.0" fill="#f7345a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,72.0A5,5,0,1,1,269.0,72.0A5,5,0,1,1,279.0,72.0" fill="#a8cd4b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,88.0A5,5,0,1,1,269.0,88.0A5,5,0,1,1,279.0,88.0" fill="#484aa0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,104.0A5,5,0,1,1,269.0,104.0A5,5,0,1,1,279.0,104.0" fill="#53a1a7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,120.0A5,5,0,1,1,269.0,120.0A5,5,0,1,1,279.0,120.0" fill="#16efe4" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="284,311,49,60" text-anchor="start" x="284.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Davie</text>
+<text aria-label="284,306,65,76" text-anchor="start" x="284.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="284,306,81,92" text-anchor="start" x="284.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">conk</text>
+<text aria-label="284,317,97,108" text-anchor="start" x="284.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">neural</text>
+<text aria-label="284,328,113,124" text-anchor="start" x="284.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">transmit</text>
+<text aria-label="268,346,32,44" text-anchor="start" x="268.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">monitor anise</text>
+</svg>

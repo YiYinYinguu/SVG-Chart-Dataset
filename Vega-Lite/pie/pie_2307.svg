@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="282" height="239" viewBox="0 0 282 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="186,277,0,26" text-anchor="end" x="277.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">digital</text>
+<path aria-label="cruelly: 212; Usability global system: only" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.0,59.0A75,75,0,0,0,106.059958545728,109.65846104975756L121.19383405597269,114.85132269247596A59,59,0,0,1,177.0,75.0Z" fill="#caa7c2" stroke="white" stroke-width="0"/>
+<path aria-label="cruelly: 183; Usability global system: TLS" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.81158170570808,98.03007209636212A75,75,0,0,0,177.0,59.0L177.0,75.0A59,59,0,0,1,228.77177760849037,105.70365671580487Z" fill="#fecafc" stroke="white" stroke-width="0"/>
+<path aria-label="cruelly: 280; Usability global system: Wagon" role="graphics-symbol" aria-roledescription="arc mark"  d="M208.46421682715095,202.08085677673301A75,75,0,0,0,242.81158170570808,98.03007209636212L228.77177760849037,105.70365671580487A59,59,0,0,1,201.75185057069206,187.55694066436328Z" fill="#f2af66" stroke="white" stroke-width="0"/>
+<path aria-label="cruelly: 399; Usability global system: hacking" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.059958545728,109.65846104975756A75,75,0,0,0,208.46421682715095,202.08085677673301L201.75185057069206,187.55694066436328A59,59,0,0,1,121.19383405597269,114.85132269247596Z" fill="#2839c6" stroke="white" stroke-width="0"/>
+<text aria-label="118,130,55,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="124.697448468675" y="62.75764133158263" font-family="Balto" font-size="7px" fill="#caa7c2" opacity="1">212</text>
+<text aria-label="216,228,51,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="222.90886508293966" y="58.589560737608224" font-family="Balto" font-size="7px" fill="#fecafc" opacity="1">183</text>
+<text aria-label="256,268,157,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="262.463985620905" y="164.21182662979726" font-family="Balto" font-size="7px" fill="#f2af66" opacity="1">280</text>
+<text aria-label="110,122,195,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="116.70002996447053" y="202.81252587437663" font-family="Balto" font-size="7px" fill="#2839c6" opacity="1">399</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#fecafc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#f2af66" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#2839c6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#caa7c2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">TLS</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Wagon</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">hacking</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">only</text>
+</svg>

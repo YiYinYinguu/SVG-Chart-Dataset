@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="332" height="239" viewBox="0 0 332 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">City Bicycle Gloves</text>
+<path aria-label="Magnesium: 781; undercharge panel: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M254.82618506588054,203.64699149769046A75,75,0,0,0,227.0,59.0L227.0,91.0A43,43,0,0,1,242.9536794377715,173.9309417920092Z" fill="#bb8838" stroke="white" stroke-width="0"/>
+<path aria-label="Magnesium: 755; undercharge panel: Focused" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.54831371969075,84.62179513075083A75,75,0,0,0,254.82618506588054,203.64699149769046L242.9536794377715,173.9309417920092A43,43,0,0,1,194.6343665326227,105.68982920829714Z" fill="#b8022b" stroke="white" stroke-width="0"/>
+<path aria-label="Magnesium: 241; undercharge panel: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M227.0,59.0A75,75,0,0,0,170.54831371969075,84.62179513075083L194.6343665326227,105.68982920829714A43,43,0,0,1,227.0,91.0Z" fill="#6d3b2d" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#bb8838" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#b8022b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#6d3b2d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Focused</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="5,107,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">undercharge panel</text>
+</svg>

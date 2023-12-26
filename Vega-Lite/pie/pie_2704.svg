@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="164,294,0,26" text-anchor="end" x="294.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">withdrawal</text>
+<path aria-label="Ergonomic: 99; North: Afghanistan" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.19969196220734,73.40802668301697A75,75,0,0,0,105.0,59.0L105.0,92.0A42,42,0,0,1,129.7518274988361,100.06849494248951Z" fill="#dbe0e9" stroke="white" stroke-width="0"/>
+<path aria-label="Ergonomic: 209; North: Planner" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.19356384376202,208.9905021009385A75,75,0,0,0,178.11959341363678,150.68907004672357L145.94697231163659,143.3458792261652A42,42,0,0,1,105.66839575250674,175.99468117652557Z" fill="#adcce8" stroke="white" stroke-width="0"/>
+<path aria-label="Ergonomic: 183; North: Marvin" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.11959341363678,150.68907004672357A75,75,0,0,0,149.19969196220734,73.40802668301697L129.7518274988361,100.06849494248951A42,42,0,0,1,145.94697231163659,143.3458792261652Z" fill="#ed4a01" stroke="white" stroke-width="0"/>
+<path aria-label="Ergonomic: 209; North: sky" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.15525929451576,116.14940472839163L64.20694520492883,124.00366664789931A42,42,0,0,1,104.99999999999999,92.0Z" fill="#afc215" stroke="white" stroke-width="0"/>
+<path aria-label="Ergonomic: 167; North: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.15525929451576,116.14940472839163A75,75,0,0,0,53.98704466718103,188.97889038723696L76.43274501362137,164.7881786168527A42,42,0,0,1,64.20694520492883,124.00366664789931Z" fill="#5efedb" stroke="white" stroke-width="0"/>
+<path aria-label="Ergonomic: 120; North: genuflect" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.98704466718103,188.97889038723696A75,75,0,0,0,106.19356384376202,208.9905021009385L105.66839575250674,175.99468117652557A42,42,0,0,1,76.43274501362137,164.7881786168527Z" fill="#2b3085" stroke="white" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#dbe0e9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ed4a01" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#adcce8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#2b3085" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#5efedb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#afc215" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,299,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Afghanistan</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Marvin</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Planner</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">genuflect</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="239,255,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">sky</text>
+</svg>

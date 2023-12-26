@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="356" height="287" viewBox="0 0 356 287" style="background-color: rgb(255, 255, 255);">
+<line x1="25.5" y1="240.5" x2="351.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="25.5" y1="207.5" x2="351.5" y2="207.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="25.5" y1="173.5" x2="351.5" y2="173.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="25.5" y1="140.5" x2="351.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="25.5" y1="107.5" x2="351.5" y2="107.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="25.5" y1="73.5" x2="351.5" y2="73.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="25.5" y1="40.5" x2="351.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="43,55,247,283" text-anchor="end" x="52.16666666666666" y="247.5" transform="rotate(270.0, 55.16666666666666, 247.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">condor</text>
+<text aria-label="88,100,247,277" text-anchor="end" x="97.44444444444443" y="247.5" transform="rotate(270.0, 100.44444444444443, 247.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">crown</text>
+<text aria-label="133,145,247,283" text-anchor="end" x="142.72222222222223" y="247.5" transform="rotate(270.0, 145.72222222222223, 247.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">design</text>
+<text aria-label="179,191,247,271" text-anchor="end" x="188.0" y="247.5" transform="rotate(270.0, 191.0, 247.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">haze</text>
+<text aria-label="224,236,247,283" text-anchor="end" x="233.27777777777777" y="247.5" transform="rotate(270.0, 236.27777777777777, 247.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">heifer</text>
+<text aria-label="269,281,247,277" text-anchor="end" x="278.55555555555554" y="247.5" transform="rotate(270.0, 281.55555555555554, 247.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">spine</text>
+<text aria-label="314,326,247,283" text-anchor="end" x="323.8333333333333" y="247.5" transform="rotate(270.0, 326.8333333333333, 247.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">vanity</text>
+<line aria-label="52,52,240,245" x1="52.5" y1="240.5" x2="52.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="97,97,240,245" x1="97.5" y1="240.5" x2="97.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="142,142,240,245" x1="142.5" y1="240.5" x2="142.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="188,188,240,245" x1="188.5" y1="240.5" x2="188.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="233,233,240,245" x1="233.5" y1="240.5" x2="233.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="278,278,240,245" x1="278.5" y1="240.5" x2="278.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="323,323,240,245" x1="323.5" y1="240.5" x2="323.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,351,240,240" x1="25.5" y1="240.5" x2="351.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,135,0,26" text-anchor="start" x="5.85546875" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">connecting</text>
+<text aria-label="17,23,232,244" text-anchor="end" x="23.5" y="243.5" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="5,23,199,211" text-anchor="end" x="23.5" y="210.16666666666669" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="5,23,165,177" text-anchor="end" x="23.5" y="176.83333333333334" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="5,23,132,144" text-anchor="end" x="23.5" y="143.5" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="5,23,99,111" text-anchor="end" x="23.5" y="110.16666666666667" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="5,23,65,77" text-anchor="end" x="23.5" y="76.83333333333333" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="5,23,32,44" text-anchor="end" x="23.5" y="43.5" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="25,25,40,240" x1="25.5" y1="240.5" x2="25.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="male Elegant passive: vanity; urgently: 488; Southeast: during Northwest" role="graphics-symbol" aria-roledescription="bar" d="M329.8703703703704,77.33333333333333h12.074074074074074v162.66666666666669h-12.074074074074074Z" fill="#79c3ea"/>
+<path aria-label="male Elegant passive: vanity; urgently: 325; Southeast: Minivan Investment Minivan" role="graphics-symbol" aria-roledescription="bar" d="M305.72222222222223,131.66666666666669h12.074074074074074v108.33333333333333h-12.074074074074074Z" fill="#77f4b5"/>
+<path aria-label="male Elegant passive: vanity; urgently: 577; Southeast: Northwest Southwest Soul" role="graphics-symbol" aria-roledescription="bar" d="M317.7962962962963,47.666666666666664h12.074074074074074v192.33333333333334h-12.074074074074074Z" fill="#3da3a1"/>
+<path aria-label="male Elegant passive: spine; urgently: 510; Southeast: during Northwest" role="graphics-symbol" aria-roledescription="bar" d="M284.59259259259255,70.0h12.074074074074074v170h-12.074074074074074Z" fill="#79c3ea"/>
+<path aria-label="male Elegant passive: spine; urgently: 260; Southeast: Minivan Investment Minivan" role="graphics-symbol" aria-roledescription="bar" d="M260.44444444444446,153.33333333333331h12.074074074074074v86.66666666666667h-12.074074074074074Z" fill="#77f4b5"/>
+<path aria-label="male Elegant passive: spine; urgently: 189; Southeast: Northwest Southwest Soul" role="graphics-symbol" aria-roledescription="bar" d="M272.5185185185185,177.0h12.074074074074074v63h-12.074074074074074Z" fill="#3da3a1"/>
+<path aria-label="male Elegant passive: design; urgently: 170; Southeast: during Northwest" role="graphics-symbol" aria-roledescription="bar" d="M148.75925925925924,183.33333333333334h12.074074074074074v56.66666666666666h-12.074074074074074Z" fill="#79c3ea"/>
+<path aria-label="male Elegant passive: design; urgently: 180; Southeast: Minivan Investment Minivan" role="graphics-symbol" aria-roledescription="bar" d="M124.6111111111111,180.0h12.074074074074074v60h-12.074074074074074Z" fill="#77f4b5"/>
+<path aria-label="male Elegant passive: design; urgently: 383; Southeast: Northwest Southwest Soul" role="graphics-symbol" aria-roledescription="bar" d="M136.68518518518516,112.33333333333334h12.074074074074074v127.66666666666666h-12.074074074074074Z" fill="#3da3a1"/>
+<path aria-label="male Elegant passive: crown; urgently: 32; Southeast: during Northwest" role="graphics-symbol" aria-roledescription="bar" d="M103.48148148148147,229.33333333333334h12.074074074074074v10.666666666666657h-12.074074074074074Z" fill="#79c3ea"/>
+<path aria-label="male Elegant passive: crown; urgently: 265; Southeast: Minivan Investment Minivan" role="graphics-symbol" aria-roledescription="bar" d="M79.33333333333331,151.66666666666669h12.074074074074074v88.33333333333333h-12.074074074074074Z" fill="#77f4b5"/>
+<path aria-label="male Elegant passive: crown; urgently: 448; Southeast: Northwest Southwest Soul" role="graphics-symbol" aria-roledescription="bar" d="M91.40740740740739,90.66666666666666h12.074074074074074v149.33333333333334h-12.074074074074074Z" fill="#3da3a1"/>
+<path aria-label="male Elegant passive: condor; urgently: 472; Southeast: during Northwest" role="graphics-symbol" aria-roledescription="bar" d="M58.203703703703695,82.66666666666667h12.074074074074074v157.33333333333331h-12.074074074074074Z" fill="#79c3ea"/>
+<path aria-label="male Elegant passive: condor; urgently: 285; Southeast: Minivan Investment Minivan" role="graphics-symbol" aria-roledescription="bar" d="M34.05555555555554,145.0h12.074074074074074v95h-12.074074074074074Z" fill="#77f4b5"/>
+<path aria-label="male Elegant passive: condor; urgently: 195; Southeast: Northwest Southwest Soul" role="graphics-symbol" aria-roledescription="bar" d="M46.12962962962962,175.0h12.074074074074074v65h-12.074074074074074Z" fill="#3da3a1"/>
+<path aria-label="male Elegant passive: haze; urgently: 186; Southeast: during Northwest" role="graphics-symbol" aria-roledescription="bar" d="M194.03703703703704,178.0h12.074074074074074v62h-12.074074074074074Z" fill="#79c3ea"/>
+<path aria-label="male Elegant passive: haze; urgently: 35; Southeast: Minivan Investment Minivan" role="graphics-symbol" aria-roledescription="bar" d="M169.88888888888889,228.33333333333334h12.074074074074074v11.666666666666657h-12.074074074074074Z" fill="#77f4b5"/>
+<path aria-label="male Elegant passive: haze; urgently: 558; Southeast: Northwest Southwest Soul" role="graphics-symbol" aria-roledescription="bar" d="M181.96296296296296,53.999999999999986h12.074074074074074v186h-12.074074074074074Z" fill="#3da3a1"/>
+<path aria-label="male Elegant passive: heifer; urgently: 67; Southeast: during Northwest" role="graphics-symbol" aria-roledescription="bar" d="M239.3148148148148,217.66666666666666h12.074074074074074v22.333333333333343h-12.074074074074074Z" fill="#79c3ea"/>
+<path aria-label="male Elegant passive: heifer; urgently: 481; Southeast: Minivan Investment Minivan" role="graphics-symbol" aria-roledescription="bar" d="M215.16666666666666,79.66666666666667h12.074074074074074v160.33333333333331h-12.074074074074074Z" fill="#77f4b5"/>
+<path aria-label="male Elegant passive: heifer; urgently: 56; Southeast: Northwest Southwest Soul" role="graphics-symbol" aria-roledescription="bar" d="M227.24074074074073,221.33333333333331h12.074074074074074v18.666666666666686h-12.074074074074074Z" fill="#3da3a1"/>
+</svg>

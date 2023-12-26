@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="749" height="316" viewBox="0 0 749 316" style="background-color: rgb(255, 255, 255);">
+<line x1="48.5" y1="234.5" x2="590.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="198.5" x2="590.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="161.5" x2="590.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="125.5" x2="590.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="89.5" x2="590.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="48.5" y1="52.5" x2="590.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="77,91,241,290" text-anchor="end" x="87.65853658536582" y="241.5" transform="rotate(270.0, 91.65853658536582, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">bagpipe</text>
+<text aria-label="143,157,241,283" text-anchor="end" x="153.7560975609756" y="241.5" transform="rotate(270.0, 157.7560975609756, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">basics</text>
+<text aria-label="209,223,241,269" text-anchor="end" x="219.85365853658536" y="241.5" transform="rotate(270.0, 223.85365853658536, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">curd</text>
+<text aria-label="275,289,241,297" text-anchor="end" x="285.9512195121951" y="241.5" transform="rotate(270.0, 289.9512195121951, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">doubling</text>
+<text aria-label="342,356,241,304" text-anchor="end" x="352.0487804878049" y="241.5" transform="rotate(270.0, 356.0487804878049, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">institute</text>
+<text aria-label="408,422,241,276" text-anchor="end" x="418.1463414634147" y="241.5" transform="rotate(270.0, 422.1463414634147, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">sloth</text>
+<text aria-label="474,488,241,311" text-anchor="end" x="484.2439024390244" y="241.5" transform="rotate(270.0, 488.2439024390244, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">strawberry</text>
+<text aria-label="540,554,241,297" text-anchor="end" x="550.3414634146342" y="241.5" transform="rotate(270.0, 554.3414634146342, 241.5)" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">tomorrow</text>
+<line aria-label="87,87,234,239" x1="87.5" y1="234.5" x2="87.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="153,153,234,239" x1="153.5" y1="234.5" x2="153.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="219,219,234,239" x1="219.5" y1="234.5" x2="219.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="285,285,234,239" x1="285.5" y1="234.5" x2="285.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="352,352,234,239" x1="352.5" y1="234.5" x2="352.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="418,418,234,239" x1="418.5" y1="234.5" x2="418.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="484,484,234,239" x1="484.5" y1="234.5" x2="484.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="550,550,234,239" x1="550.5" y1="234.5" x2="550.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,590,234,234" x1="48.5" y1="234.5" x2="590.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="653,744,0,26" text-anchor="end" x="744.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">carpool</text>
+<text aria-label="34,41,225,239" text-anchor="end" x="41.5" y="238.5" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="27,41,189,203" text-anchor="end" x="41.5" y="202.13636363636363" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="27,41,152,166" text-anchor="end" x="41.5" y="165.77272727272725" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="27,41,116,130" text-anchor="end" x="41.5" y="129.40909090909093" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">60</text>
+<text aria-label="27,41,80,94" text-anchor="end" x="41.5" y="93.04545454545453" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">80</text>
+<text aria-label="20,41,43,57" text-anchor="end" x="41.5" y="56.68181818181819" font-family="monospace" font-size="13px" font-weight="normal" fill="#000" opacity="1">100</text>
+<line aria-label="43,48,234,234" x1="48.5" y1="234.5" x2="43.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,198,198" x1="48.5" y1="198.5" x2="43.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,161,161" x1="48.5" y1="161.5" x2="43.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,125,125" x1="48.5" y1="125.5" x2="43.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,89,89" x1="48.5" y1="89.5" x2="43.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,52,52" x1="48.5" y1="52.5" x2="43.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,62,206" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Grocery Hybrid Assistant</text>
+<path aria-label="female exploit: strawberry; Grocery Hybrid Assistant: 100; reinvent Soul: Electronics" role="graphics-symbol" aria-roledescription="bar" d="M457.8048780487805,52.18181818181819h17.626016260162604v181.8181818181818h-17.626016260162604Z" fill="#89c173"/>
+<path aria-label="female exploit: strawberry; Grocery Hybrid Assistant: 33; reinvent Soul: through Jazz" role="graphics-symbol" aria-roledescription="bar" d="M493.0569105691057,174.0h17.626016260162604v60h-17.626016260162604Z" fill="#07fe9d"/>
+<path aria-label="female exploit: strawberry; Grocery Hybrid Assistant: 82; reinvent Soul: Toys sarcastic Northeast" role="graphics-symbol" aria-roledescription="bar" d="M475.4308943089431,84.9090909090909h17.626016260162604v149.0909090909091h-17.626016260162604Z" fill="#42c4b5"/>
+<path aria-label="female exploit: doubling; Grocery Hybrid Assistant: 26; reinvent Soul: Electronics" role="graphics-symbol" aria-roledescription="bar" d="M259.5121951219512,186.72727272727275h17.626016260162604v47.27272727272725h-17.626016260162604Z" fill="#89c173"/>
+<path aria-label="female exploit: doubling; Grocery Hybrid Assistant: 14; reinvent Soul: through Jazz" role="graphics-symbol" aria-roledescription="bar" d="M294.7642276422764,208.54545454545456h17.626016260162604v25.45454545454544h-17.626016260162604Z" fill="#07fe9d"/>
+<path aria-label="female exploit: doubling; Grocery Hybrid Assistant: 102; reinvent Soul: Toys sarcastic Northeast" role="graphics-symbol" aria-roledescription="bar" d="M277.1382113821138,48.54545454545455h17.626016260162604v185.45454545454544h-17.626016260162604Z" fill="#42c4b5"/>
+<path aria-label="female exploit: basics; Grocery Hybrid Assistant: 28; reinvent Soul: Electronics" role="graphics-symbol" aria-roledescription="bar" d="M127.31707317073169,183.0909090909091h17.626016260162604v50.90909090909091h-17.626016260162604Z" fill="#89c173"/>
+<path aria-label="female exploit: basics; Grocery Hybrid Assistant: 12; reinvent Soul: through Jazz" role="graphics-symbol" aria-roledescription="bar" d="M162.5691056910569,212.1818181818182h17.626016260162604v21.818181818181813h-17.626016260162604Z" fill="#07fe9d"/>
+<path aria-label="female exploit: basics; Grocery Hybrid Assistant: 85; reinvent Soul: Toys sarcastic Northeast" role="graphics-symbol" aria-roledescription="bar" d="M144.9430894308943,79.45454545454547h17.626016260162604v154.54545454545453h-17.626016260162604Z" fill="#42c4b5"/>
+<path aria-label="female exploit: curd; Grocery Hybrid Assistant: 92; reinvent Soul: Electronics" role="graphics-symbol" aria-roledescription="bar" d="M193.41463414634146,66.72727272727275h17.626016260162604v167.27272727272725h-17.626016260162604Z" fill="#89c173"/>
+<path aria-label="female exploit: curd; Grocery Hybrid Assistant: 76; reinvent Soul: through Jazz" role="graphics-symbol" aria-roledescription="bar" d="M228.66666666666666,95.81818181818181h17.626016260162604v138.1818181818182h-17.626016260162604Z" fill="#07fe9d"/>
+<path aria-label="female exploit: curd; Grocery Hybrid Assistant: 75; reinvent Soul: Toys sarcastic Northeast" role="graphics-symbol" aria-roledescription="bar" d="M211.04065040650406,97.63636363636365h17.626016260162604v136.36363636363635h-17.626016260162604Z" fill="#42c4b5"/>
+<path aria-label="female exploit: institute; Grocery Hybrid Assistant: 37; reinvent Soul: Electronics" role="graphics-symbol" aria-roledescription="bar" d="M325.609756097561,166.72727272727272h17.626016260162604v67.27272727272728h-17.626016260162604Z" fill="#89c173"/>
+<path aria-label="female exploit: institute; Grocery Hybrid Assistant: 97; reinvent Soul: through Jazz" role="graphics-symbol" aria-roledescription="bar" d="M360.8617886178862,57.63636363636363h17.626016260162604v176.36363636363637h-17.626016260162604Z" fill="#07fe9d"/>
+<path aria-label="female exploit: institute; Grocery Hybrid Assistant: 9; reinvent Soul: Toys sarcastic Northeast" role="graphics-symbol" aria-roledescription="bar" d="M343.2357723577236,217.63636363636365h17.626016260162604v16.363636363636346h-17.626016260162604Z" fill="#42c4b5"/>
+<path aria-label="female exploit: sloth; Grocery Hybrid Assistant: 53; reinvent Soul: Electronics" role="graphics-symbol" aria-roledescription="bar" d="M391.70731707317077,137.63636363636363h17.626016260162604v96.36363636363636h-17.626016260162604Z" fill="#89c173"/>
+<path aria-label="female exploit: sloth; Grocery Hybrid Assistant: 75; reinvent Soul: through Jazz" role="graphics-symbol" aria-roledescription="bar" d="M426.959349593496,97.63636363636365h17.626016260162604v136.36363636363635h-17.626016260162604Z" fill="#07fe9d"/>
+<path aria-label="female exploit: sloth; Grocery Hybrid Assistant: 41; reinvent Soul: Toys sarcastic Northeast" role="graphics-symbol" aria-roledescription="bar" d="M409.33333333333337,159.45454545454544h17.626016260162604v74.54545454545456h-17.626016260162604Z" fill="#42c4b5"/>
+<path aria-label="female exploit: bagpipe; Grocery Hybrid Assistant: 95; reinvent Soul: Electronics" role="graphics-symbol" aria-roledescription="bar" d="M61.21951219512192,61.272727272727266h17.626016260162604v172.72727272727272h-17.626016260162604Z" fill="#89c173"/>
+<path aria-label="female exploit: bagpipe; Grocery Hybrid Assistant: 20; reinvent Soul: through Jazz" role="graphics-symbol" aria-roledescription="bar" d="M96.47154471544712,197.63636363636363h17.626016260162604v36.363636363636374h-17.626016260162604Z" fill="#07fe9d"/>
+<path aria-label="female exploit: bagpipe; Grocery Hybrid Assistant: 78; reinvent Soul: Toys sarcastic Northeast" role="graphics-symbol" aria-roledescription="bar" d="M78.84552845528452,92.18181818181819h17.626016260162604v141.8181818181818h-17.626016260162604Z" fill="#42c4b5"/>
+<path aria-label="female exploit: tomorrow; Grocery Hybrid Assistant: 97; reinvent Soul: Electronics" role="graphics-symbol" aria-roledescription="bar" d="M523.9024390243903,57.63636363636363h17.626016260162604v176.36363636363637h-17.626016260162604Z" fill="#89c173"/>
+<path aria-label="female exploit: tomorrow; Grocery Hybrid Assistant: 41; reinvent Soul: through Jazz" role="graphics-symbol" aria-roledescription="bar" d="M559.1544715447155,159.45454545454544h17.626016260162604v74.54545454545456h-17.626016260162604Z" fill="#07fe9d"/>
+<path aria-label="female exploit: tomorrow; Grocery Hybrid Assistant: 100; reinvent Soul: Toys sarcastic Northeast" role="graphics-symbol" aria-roledescription="bar" d="M541.5284552845528,52.18181818181819h17.626016260162604v181.8181818181818h-17.626016260162604Z" fill="#42c4b5"/>
+<path  d="M609.0,35.0h10v10h-10Z" fill="#89c173" stroke-width="1.5" opacity="1"/>
+<path  d="M609.0,48.0h10v10h-10Z" fill="#07fe9d" stroke-width="1.5" opacity="1"/>
+<path  d="M609.0,61.0h10v10h-10Z" fill="#42c4b5" stroke-width="1.5" opacity="1"/>
+<text aria-label="624,684,33,44" text-anchor="start" x="624.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Electronics</text>
+<text aria-label="624,690,46,57" text-anchor="start" x="624.0" y="56.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">through Jazz</text>
+<text aria-label="624,756,59,70" text-anchor="start" x="624.0" y="69.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Toys sarcastic Northeast</text>
+</svg>

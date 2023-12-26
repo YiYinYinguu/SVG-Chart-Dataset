@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="153,244,0,26" text-anchor="middle" x="199.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Planner</text>
+<path aria-label="Mississippi East evolve: 188; Developer: unexpectedly" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.0,59.0A75,75,0,0,0,124.48921822600393,142.55239144496647L151.31309966464252,139.47353052477854A48,48,0,0,1,199.0,86.0Z" fill="#6cfd42" stroke="black" stroke-width="0"/>
+<path aria-label="Mississippi East evolve: 141; Developer: Huntington" role="graphics-symbol" aria-roledescription="arc mark"  d="M270.49358994523925,111.33578598887705A75,75,0,0,0,199.0,59.0L199.0,86.0A48,48,0,0,1,244.75589756495313,119.49490303288131Z" fill="#4a4bbb" stroke="black" stroke-width="0"/>
+<path aria-label="Mississippi East evolve: 372; Developer: microchip" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.48921822600393,142.55239144496647A75,75,0,1,0,270.49358994523925,111.33578598887705L244.75589756495313,119.49490303288131A48,48,0,1,1,151.31309966464252,139.47353052477854Z" fill="#c3e404" stroke="black" stroke-width="0"/>
+<text aria-label="121,142,65,79" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.82984935234856" y="78.09865726069398" font-family="monospace" font-size="13px" fill="#6cfd42" opacity="1">188</text>
+<text aria-label="241,262,52,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="252.16138112765094" y="65.37860124866336" font-family="monospace" font-size="13px" fill="#4a4bbb" opacity="1">141</text>
+<text aria-label="207,228,213,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="217.81724647720173" y="226.01085861992394" font-family="monospace" font-size="13px" fill="#c3e404" opacity="1">372</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#4a4bbb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#c3e404" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#6cfd42" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Huntington</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">microchip</text>
+<text aria-label="21,87,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">unexpectedly</text>
+</svg>

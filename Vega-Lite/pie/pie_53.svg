@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="239" viewBox="0 0 308 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="96,291,0,26" text-anchor="middle" x="194.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Northwest Cargo</text>
+<path aria-label="SMS: 282; hertz: illustrious" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.5534065071202,205.24083978715893A75,75,0,0,0,230.26181923052894,199.65120308183577L213.8231278460225,169.88932435140356A41,41,0,0,1,181.18252889055904,172.9449924169802Z" fill="#d6ce0f" stroke="white" stroke-width="1"/>
+<path aria-label="SMS: 74; hertz: circle" role="graphics-symbol" aria-roledescription="arc mark"  d="M230.26181923052894,199.65120308183577A75,75,0,0,0,243.48176927803513,190.36093069773864L221.05003387199255,164.8106421147638A41,41,0,0,1,213.8231278460225,169.88932435140356Z" fill="#ceb84d" stroke="white" stroke-width="1"/>
+<path aria-label="SMS: 376; hertz: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.87847816892001,98.60304602452334A75,75,0,0,0,132.32404801619,176.67407816099563L160.28381291551722,157.32849606134428A41,41,0,0,1,157.85356806567628,114.64966516007276Z" fill="#fad5ed" stroke="white" stroke-width="1"/>
+<path aria-label="SMS: 222; hertz: magenta" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.32404801619,176.67407816099563A75,75,0,0,0,170.5534065071202,205.24083978715893L181.18252889055904,172.9449924169802A41,41,0,0,1,160.28381291551722,157.32849606134428Z" fill="#d49629" stroke="white" stroke-width="1"/>
+<path aria-label="SMS: 660; hertz: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M243.48176927803513,190.36093069773864A75,75,0,0,0,229.68592743246765,68.03398918166529L213.50830699641566,97.93858075264369A41,41,0,0,1,221.05003387199255,164.8106421147638Z" fill="#f01023" stroke="white" stroke-width="1"/>
+<path aria-label="SMS: 370; hertz: whiteboard" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,127.87847816892001,98.60304602452334L157.85356806567628,114.64966516007276A41,41,0,0,1,194.0,93.0Z" fill="#5532ec" stroke="white" stroke-width="1"/>
+<path aria-label="SMS: 170; hertz: Hatchback" role="graphics-symbol" aria-roledescription="arc mark"  d="M229.68592743246765,68.03398918166529A75,75,0,0,0,194.0,59.0L194.0,93.0A41,41,0,0,1,213.50830699641566,97.93858075264369Z" fill="#df02b1" stroke="white" stroke-width="1"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#df02b1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#f01023" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ceb84d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#d6ce0f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#d49629" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#fad5ed" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#5532ec" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Hatchback</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">circle</text>
+<text aria-label="21,81,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">illustrious</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">magenta</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="21,76,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">whiteboard</text>
+</svg>

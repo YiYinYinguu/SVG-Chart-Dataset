@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="398" height="270" viewBox="0 0 398 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,343,0,26" text-anchor="middle" x="174.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">visualize Supervisor Metal</text>
+<path aria-label="payment next: 859; trivialise Northeast Pickup: Supervisor" role="graphics-symbol" aria-roledescription="arc mark"  d="M99.32871037723393,126.98583532607142A75,75,0,0,0,164.12763293652674,208.34740324022118L174.0,134.0Z" fill="#d7176e" stroke="white" stroke-width="4"/>
+<path aria-label="payment next: 828; trivialise Northeast Pickup: redefine" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.0,59.0A75,75,0,0,0,99.32871037723393,126.98583532607142L174.0,134.0Z" fill="#c1ffd0" stroke="white" stroke-width="4"/>
+<path aria-label="payment next: 800; trivialise Northeast Pickup: 1080p" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.2279284911432,123.26619210560702A75,75,0,0,0,174.0,59.0L174.0,134.0Z" fill="#b596dd" stroke="white" stroke-width="4"/>
+<path aria-label="payment next: 835; trivialise Northeast Pickup: Elegant" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.71702112366899,207.11320814155815A75,75,0,0,0,248.2279284911432,123.26619210560702L174.0,134.0Z" fill="#6ca28b" stroke="white" stroke-width="4"/>
+<path aria-label="payment next: 200; trivialise Northeast Pickup: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.12763293652674,208.34740324022118A75,75,0,0,0,190.71702112366899,207.11320814155815L174.0,134.0Z" fill="#b4aec2" stroke="white" stroke-width="4"/>
+<text aria-label="95,111,183,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="103.59942853244286" y="193.06923877708147" font-family="monospace" font-size="10px" fill="#d7176e" opacity="1">859</text>
+<text aria-label="105,121,60,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="113.40928200121859" y="70.45103387435574" font-family="monospace" font-size="10px" fill="#c1ffd0" opacity="1">828</text>
+<text aria-label="224,241,58,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="232.90988349761676" y="68.95864767439421" font-family="monospace" font-size="10px" fill="#b596dd" opacity="1">800</text>
+<text aria-label="239,256,177,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="248.2190686083203" y="187.90707077522183" font-family="monospace" font-size="10px" fill="#6ca28b" opacity="1">835</text>
+<text aria-label="169,186,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.173021642445" y="226.9032028927317" font-family="monospace" font-size="10px" fill="#b4aec2" opacity="1">200</text>
+<path  d="M85.0,258.25A5,5,0,1,1,75.0,258.25A5,5,0,1,1,85.0,258.25" fill="#b596dd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M137.0,258.25A5,5,0,1,1,127.0,258.25A5,5,0,1,1,137.0,258.25" fill="#6ca28b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M199.0,258.25A5,5,0,1,1,189.0,258.25A5,5,0,1,1,199.0,258.25" fill="#b4aec2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M271.0,258.25A5,5,0,1,1,261.0,258.25A5,5,0,1,1,271.0,258.25" fill="#d7176e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M348.0,258.25A5,5,0,1,1,338.0,258.25A5,5,0,1,1,348.0,258.25" fill="#c1ffd0" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="90,117,251,262" text-anchor="start" x="90.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">1080p</text>
+<text aria-label="142,180,251,262" text-anchor="start" x="142.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Elegant</text>
+<text aria-label="204,253,251,262" text-anchor="start" x="204.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="276,331,251,262" text-anchor="start" x="276.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Supervisor</text>
+<text aria-label="353,397,251,262" text-anchor="start" x="353.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">redefine</text>
+</svg>

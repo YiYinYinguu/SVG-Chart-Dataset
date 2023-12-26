@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="408" height="357" viewBox="0 0 408 357" style="background-color: rgb(255, 255, 255);">
+<line x1="46.5" y1="279.5" x2="403.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="235.5" x2="403.5" y2="235.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="190.5" x2="403.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="146.5" x2="403.5" y2="146.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="101.5" x2="403.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="46,65,286,353" text-anchor="end" x="60.09210526315789" y="286.5" transform="rotate(270.0, 65.09210526315789, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">analyst</text>
+<text aria-label="69,88,286,343" text-anchor="end" x="83.57894736842105" y="286.5" transform="rotate(270.0, 88.57894736842105, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">behest</text>
+<text aria-label="93,112,286,334" text-anchor="end" x="107.0657894736842" y="286.5" transform="rotate(270.0, 112.0657894736842, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">fiery</text>
+<text aria-label="116,135,286,343" text-anchor="end" x="130.55263157894737" y="286.5" transform="rotate(270.0, 135.55263157894737, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">glider</text>
+<text aria-label="140,159,286,324" text-anchor="end" x="154.03947368421052" y="286.5" transform="rotate(270.0, 159.03947368421052, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">hint</text>
+<text aria-label="163,182,286,353" text-anchor="end" x="177.52631578947367" y="286.5" transform="rotate(270.0, 182.52631578947367, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">passing</text>
+<text aria-label="187,206,286,343" text-anchor="end" x="201.01315789473685" y="286.5" transform="rotate(270.0, 206.01315789473685, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">pickax</text>
+<text aria-label="210,229,286,343" text-anchor="end" x="224.5" y="286.5" transform="rotate(270.0, 229.5, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">poetry</text>
+<text aria-label="233,252,286,334" text-anchor="end" x="247.98684210526315" y="286.5" transform="rotate(270.0, 252.98684210526315, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">purse</text>
+<text aria-label="257,276,286,343" text-anchor="end" x="271.4736842105263" y="286.5" transform="rotate(270.0, 276.4736842105263, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">review</text>
+<text aria-label="280,299,286,324" text-anchor="end" x="294.9605263157895" y="286.5" transform="rotate(270.0, 299.9605263157895, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">road</text>
+<text aria-label="304,323,286,334" text-anchor="end" x="318.44736842105266" y="286.5" transform="rotate(270.0, 323.44736842105266, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">slide</text>
+<text aria-label="327,346,286,343" text-anchor="end" x="341.9342105263158" y="286.5" transform="rotate(270.0, 346.9342105263158, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">street</text>
+<text aria-label="351,370,286,353" text-anchor="end" x="365.4210526315789" y="286.5" transform="rotate(270.0, 370.4210526315789, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">trigger</text>
+<text aria-label="374,393,286,353" text-anchor="end" x="388.90789473684214" y="286.5" transform="rotate(270.0, 393.90789473684214, 286.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">variety</text>
+<line aria-label="60,60,279,284" x1="60.5" y1="279.5" x2="60.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="83,83,279,284" x1="83.5" y1="279.5" x2="83.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="107,107,279,284" x1="107.5" y1="279.5" x2="107.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="130,130,279,284" x1="130.5" y1="279.5" x2="130.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="154,154,279,284" x1="154.5" y1="279.5" x2="154.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="177,177,279,284" x1="177.5" y1="279.5" x2="177.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="201,201,279,284" x1="201.5" y1="279.5" x2="201.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="224,224,279,284" x1="224.5" y1="279.5" x2="224.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="247,247,279,284" x1="247.5" y1="279.5" x2="247.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="271,271,279,284" x1="271.5" y1="279.5" x2="271.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="294,294,279,284" x1="294.5" y1="279.5" x2="294.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="318,318,279,284" x1="318.5" y1="279.5" x2="318.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="341,341,279,284" x1="341.5" y1="279.5" x2="341.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="365,365,279,284" x1="365.5" y1="279.5" x2="365.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="388,388,279,284" x1="388.5" y1="279.5" x2="388.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,403,279,279" x1="46.5" y1="279.5" x2="403.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="286,403,0,26" text-anchor="end" x="403.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">including</text>
+<text aria-label="30,39,266,285" text-anchor="end" x="39.5" y="284.5" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="11,39,222,241" text-anchor="end" x="39.5" y="240.05555555555557" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="11,39,177,196" text-anchor="end" x="39.5" y="195.61111111111111" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="11,39,133,152" text-anchor="end" x="39.5" y="151.16666666666669" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="11,39,88,107" text-anchor="end" x="39.5" y="106.72222222222223" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<line aria-label="41,46,279,279" x1="46.5" y1="279.5" x2="41.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,235,235" x1="46.5" y1="235.5" x2="41.5" y2="235.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,190,190" x1="46.5" y1="190.5" x2="41.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,146,146" x1="46.5" y1="146.5" x2="41.5" y2="146.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,101,101" x1="46.5" y1="101.5" x2="41.5" y2="101.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,46,79,279" x1="46.5" y1="279.5" x2="46.5" y2="79.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Hryvnia Mississippi Associate: fiery; services: 286; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M97.67105263157895,151.88888888888889h9.394736842105264v127.11111111111111h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: fiery; services: 181; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M107.0657894736842,198.55555555555554h9.394736842105264v80.44444444444446h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: glider; services: 339; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M121.15789473684211,128.33333333333334h9.394736842105264v150.66666666666666h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: glider; services: 73; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M130.55263157894737,246.55555555555554h9.394736842105264v32.44444444444446h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: review; services: 178; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M262.07894736842104,199.88888888888889h9.394736842105264v79.11111111111111h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: review; services: 130; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M271.4736842105263,221.22222222222223h9.394736842105264v57.77777777777777h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: pickax; services: 72; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M191.6184210526316,247.0h9.394736842105264v32h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: pickax; services: 375; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M201.01315789473685,112.33333333333333h9.394736842105264v166.66666666666669h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: poetry; services: 9; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M215.10526315789474,275.0h9.394736842105264v4h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: poetry; services: 415; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M224.5,94.55555555555554h9.394736842105264v184.44444444444446h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: behest; services: 31; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M74.18421052631578,265.22222222222223h9.394736842105264v13.777777777777771h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: behest; services: 335; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M83.57894736842105,130.11111111111111h9.394736842105264v148.88888888888889h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: hint; services: 272; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M144.64473684210526,158.11111111111111h9.394736842105264v120.88888888888889h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: hint; services: 327; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M154.03947368421052,133.66666666666666h9.394736842105264v145.33333333333334h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: variety; services: 247; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M379.5131578947369,169.22222222222223h9.394736842105264v109.77777777777777h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: variety; services: 153; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M388.90789473684214,210.99999999999997h9.394736842105264v68.00000000000003h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: analyst; services: 33; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M50.69736842105263,264.3333333333333h9.394736842105264v14.666666666666686h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: analyst; services: 10; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M60.09210526315789,274.55555555555554h9.394736842105264v4.444444444444457h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: street; services: 393; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M332.5394736842105,104.33333333333334h9.394736842105264v174.66666666666666h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: street; services: 122; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M341.9342105263158,224.77777777777777h9.394736842105264v54.22222222222223h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: road; services: 137; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M285.56578947368416,218.1111111111111h9.394736842105264v60.888888888888914h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: road; services: 335; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M294.9605263157895,130.11111111111111h9.394736842105264v148.88888888888889h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: purse; services: 301; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M238.5921052631579,145.22222222222223h9.394736842105264v133.77777777777777h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: purse; services: 213; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M247.98684210526315,184.33333333333331h9.394736842105264v94.66666666666667h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: passing; services: 423; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M168.1315789473684,91.00000000000001h9.394736842105264v188h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: passing; services: 140; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M177.52631578947367,216.77777777777777h9.394736842105264v62.22222222222223h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: slide; services: 41; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M309.0526315789474,260.77777777777777h9.394736842105264v18.22222222222223h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: slide; services: 391; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M318.44736842105266,105.22222222222221h9.394736842105264v173.77777777777777h-9.394736842105264Z" fill="#afa713"/>
+<path aria-label="Hryvnia Mississippi Associate: trigger; services: 419; grown Tactics bypassing: maroon" role="graphics-symbol" aria-roledescription="bar" d="M356.02631578947364,92.77777777777777h9.394736842105264v186.22222222222223h-9.394736842105264Z" fill="#ba4a5a"/>
+<path aria-label="Hryvnia Mississippi Associate: trigger; services: 125; grown Tactics bypassing: systems or Awesome" role="graphics-symbol" aria-roledescription="bar" d="M365.4210526315789,223.44444444444443h9.394736842105264v55.55555555555557h-9.394736842105264Z" fill="#afa713"/>
+<path  d="M47.0,51.0h10v10h-10Z" fill="#ba4a5a" stroke-width="1.5" opacity="1"/>
+<path  d="M111.0,51.0h10v10h-10Z" fill="#afa713" stroke-width="1.5" opacity="1"/>
+<text aria-label="62,95,49,60" text-anchor="start" x="62.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">maroon</text>
+<text aria-label="126,225,49,60" text-anchor="start" x="126.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">systems or Awesome</text>
+<text aria-label="46,184,32,44" text-anchor="start" x="46.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">grown Tactics bypassing</text>
+</svg>

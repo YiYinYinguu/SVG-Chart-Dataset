@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="286" viewBox="0 0 294 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="10,283,0,26" text-anchor="middle" x="147.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">niches beyond garrote</text>
+<path aria-label="Sedan Borders: 231; Optimized: deficit" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.0,59.0A75,75,0,0,0,73.42020914451956,148.52633393749977L147.0,134.0Z" fill="#9f85cd" stroke="black" stroke-width="3"/>
+<path aria-label="Sedan Borders: 300; Optimized: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M203.2697023150922,183.58548781015378A75,75,0,0,0,147.0,59.0L147.0,134.0Z" fill="#ffb17b" stroke="black" stroke-width="3"/>
+<path aria-label="Sedan Borders: 291; Optimized: Hawaii" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.42020914451956,148.52633393749977A75,75,0,0,0,203.2697023150922,183.58548781015378L147.0,134.0Z" fill="#26bbb8" stroke="black" stroke-width="3"/>
+<text aria-label="70,84,70,79" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="77.46999185513502" y="78.85476426354504" font-family="avenir" font-size="8px" fill="#9f85cd" opacity="1">231</text>
+<text aria-label="222,235,90,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="229.02204790023416" y="98.95430310749038" font-family="avenir" font-size="8px" fill="#ffb17b" opacity="1">300</text>
+<text aria-label="116,130,214,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.54020382025232" y="222.88865267228337" font-family="avenir" font-size="8px" fill="#26bbb8" opacity="1">291</text>
+<path  d="M58.0,274.25A5,5,0,1,1,48.0,274.25A5,5,0,1,1,58.0,274.25" fill="#ffb17b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M114.0,274.25A5,5,0,1,1,104.0,274.25A5,5,0,1,1,114.0,274.25" fill="#26bbb8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M174.0,274.25A5,5,0,1,1,164.0,274.25A5,5,0,1,1,174.0,274.25" fill="#9f85cd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="63,96,267,278" text-anchor="start" x="63.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="119,152,267,278" text-anchor="start" x="119.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hawaii</text>
+<text aria-label="179,217,267,278" text-anchor="start" x="179.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">deficit</text>
+<text aria-label="47,101,250,262" text-anchor="start" x="47.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Optimized</text>
+</svg>

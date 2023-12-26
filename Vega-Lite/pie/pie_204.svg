@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="221" height="270" viewBox="0 0 221 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="46,163,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southwest</text>
+<path aria-label="Quality Granite Franc: 302; lavender katal: Uruguay" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,32.208486117617085,183.06641931072275L105.0,165.0Z" fill="#cca24f" stroke="white" stroke-width="0"/>
+<path aria-label="Quality Granite Franc: 318; lavender katal: Audi" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.72189082111163,189.96826302902883A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#4abdbf" stroke="white" stroke-width="0"/>
+<path aria-label="Quality Granite Franc: 25; lavender katal: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.208486117617085,183.06641931072275A75,75,0,0,0,35.730605180190764,193.753277053188L105.0,165.0Z" fill="#a310ab" stroke="white" stroke-width="0"/>
+<path aria-label="Quality Granite Franc: 401; lavender katal: M2F" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.730605180190764,193.753277053188A75,75,0,0,0,175.72189082111163,189.96826302902883L105.0,165.0Z" fill="#0af787" stroke="white" stroke-width="0"/>
+<text aria-label="23,44,100,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.10862786784955" y="113.55260730006358" font-family="sans-serif" font-size="13px" fill="#cca24f" opacity="1">302</text>
+<text aria-label="167,188,104,118" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.47303045041463" y="117.02198737511752" font-family="sans-serif" font-size="13px" fill="#4abdbf" opacity="1">318</text>
+<text aria-label="12,26,184,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.522612022289238" y="197.17119352295722" font-family="sans-serif" font-size="13px" fill="#a310ab" opacity="1">25</text>
+<text aria-label="96,117,245,259" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.43248582459942" y="258.9671218429995" font-family="sans-serif" font-size="13px" fill="#0af787" opacity="1">401</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#4abdbf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M66.0,40.25A5,5,0,1,1,56.0,40.25A5,5,0,1,1,66.0,40.25" fill="#0af787" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M114.0,40.25A5,5,0,1,1,104.0,40.25A5,5,0,1,1,114.0,40.25" fill="#a310ab" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M170.0,40.25A5,5,0,1,1,160.0,40.25A5,5,0,1,1,170.0,40.25" fill="#cca24f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Audi</text>
+<text aria-label="71,87,33,44" text-anchor="start" x="71.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">M2F</text>
+<text aria-label="119,146,33,44" text-anchor="start" x="119.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="175,213,33,44" text-anchor="start" x="175.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Uruguay</text>
+</svg>

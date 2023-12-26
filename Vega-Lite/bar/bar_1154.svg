@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="701" height="344" viewBox="0 0 701 344" style="background-color: rgb(255, 255, 255);">
+<line x1="214.5" y1="43.5" x2="214.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="271.5" y1="43.5" x2="271.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="327.5" y1="43.5" x2="327.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="384.5" y1="43.5" x2="384.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="441.5" y1="43.5" x2="441.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="497.5" y1="43.5" x2="497.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="554.5" y1="43.5" x2="554.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="611.5" y1="43.5" x2="611.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="667.5" y1="43.5" x2="667.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="200,220,250,320" text-anchor="end" x="214.33333333333334" y="250.5" transform="rotate(270.0, 220.33333333333334, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">barrier</text>
+<text aria-label="257,277,250,310" text-anchor="end" x="271.0" y="250.5" transform="rotate(270.0, 277.0, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">buffet</text>
+<text aria-label="313,333,250,340" text-anchor="end" x="327.6666666666667" y="250.5" transform="rotate(270.0, 333.6666666666667, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">cigarette</text>
+<text aria-label="370,390,250,310" text-anchor="end" x="384.33333333333337" y="250.5" transform="rotate(270.0, 390.33333333333337, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">duffel</text>
+<text aria-label="427,447,250,280" text-anchor="end" x="441.0" y="250.5" transform="rotate(270.0, 447.0, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">fit</text>
+<text aria-label="483,503,250,280" text-anchor="end" x="497.66666666666663" y="250.5" transform="rotate(270.0, 503.66666666666663, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">gel</text>
+<text aria-label="540,560,250,340" text-anchor="end" x="554.3333333333334" y="250.5" transform="rotate(270.0, 560.3333333333334, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">mechanism</text>
+<text aria-label="597,617,250,310" text-anchor="end" x="611.0" y="250.5" transform="rotate(270.0, 617.0, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">reason</text>
+<text aria-label="653,673,250,320" text-anchor="end" x="667.6666666666666" y="250.5" transform="rotate(270.0, 673.6666666666666, 250.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">stadium</text>
+<line aria-label="214,214,243,248" x1="214.5" y1="243.5" x2="214.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="271,271,243,248" x1="271.5" y1="243.5" x2="271.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="327,327,243,248" x1="327.5" y1="243.5" x2="327.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="384,384,243,248" x1="384.5" y1="243.5" x2="384.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="441,441,243,248" x1="441.5" y1="243.5" x2="441.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="497,497,243,248" x1="497.5" y1="243.5" x2="497.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="554,554,243,248" x1="554.5" y1="243.5" x2="554.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="611,611,243,248" x1="611.5" y1="243.5" x2="611.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="667,667,243,248" x1="667.5" y1="243.5" x2="667.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="186,696,243,243" x1="186.5" y1="243.5" x2="696.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="306,696,0,26" text-anchor="end" x="696.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Assistant generating Southeast</text>
+<text aria-label="169,179,230,250" text-anchor="end" x="179.5" y="249.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="159,179,180,200" text-anchor="end" x="179.5" y="199.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="159,179,130,150" text-anchor="end" x="179.5" y="149.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="159,179,80,100" text-anchor="end" x="179.5" y="99.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="159,179,30,50" text-anchor="end" x="179.5" y="49.5" font-family="serif" font-size="19px" font-weight="normal" fill="#000" opacity="1">40</text>
+<line aria-label="181,186,243,243" x1="186.5" y1="243.5" x2="181.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="181,186,193,193" x1="186.5" y1="193.5" x2="181.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="181,186,143,143" x1="186.5" y1="143.5" x2="181.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="181,186,93,93" x1="186.5" y1="93.5" x2="181.5" y2="93.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="181,186,43,43" x1="186.5" y1="43.5" x2="181.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="186,186,43,243" x1="186.5" y1="243.5" x2="186.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="futon Branding Cotton: stadium; FTM: 15; SCSI Florida programming: monitor Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M647.2666666666667,168.0h40.800000000000004v75h-40.800000000000004Z" fill="#c99c11"/>
+<path aria-label="futon Branding Cotton: stadium; FTM: 15; SCSI Florida programming: Bicycle safely" role="graphics-symbol" aria-roledescription="bar" d="M647.2666666666667,93.0h40.800000000000004v75h-40.800000000000004Z" fill="#2acdfa"/>
+<path aria-label="futon Branding Cotton: barrier; FTM: 5; SCSI Florida programming: monitor Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M193.93333333333334,218.0h40.800000000000004v25h-40.800000000000004Z" fill="#c99c11"/>
+<path aria-label="futon Branding Cotton: barrier; FTM: 17; SCSI Florida programming: Bicycle safely" role="graphics-symbol" aria-roledescription="bar" d="M193.93333333333334,133.0h40.800000000000004v85.00000000000001h-40.800000000000004Z" fill="#2acdfa"/>
+<path aria-label="futon Branding Cotton: duffel; FTM: 17; SCSI Florida programming: monitor Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M363.93333333333334,158.0h40.800000000000004v85.00000000000001h-40.800000000000004Z" fill="#c99c11"/>
+<path aria-label="futon Branding Cotton: duffel; FTM: 1; SCSI Florida programming: Bicycle safely" role="graphics-symbol" aria-roledescription="bar" d="M363.93333333333334,153.0h40.800000000000004v4.999999999999972h-40.800000000000004Z" fill="#2acdfa"/>
+<path aria-label="futon Branding Cotton: gel; FTM: 3; SCSI Florida programming: monitor Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M477.26666666666665,228.0h40.800000000000004v15h-40.800000000000004Z" fill="#c99c11"/>
+<path aria-label="futon Branding Cotton: gel; FTM: 15; SCSI Florida programming: Bicycle safely" role="graphics-symbol" aria-roledescription="bar" d="M477.26666666666665,153.0h40.800000000000004v74.99999999999999h-40.800000000000004Z" fill="#2acdfa"/>
+<path aria-label="futon Branding Cotton: buffet; FTM: 1; SCSI Florida programming: monitor Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M250.60000000000002,238.0h40.800000000000004v5h-40.800000000000004Z" fill="#c99c11"/>
+<path aria-label="futon Branding Cotton: buffet; FTM: 12; SCSI Florida programming: Bicycle safely" role="graphics-symbol" aria-roledescription="bar" d="M250.60000000000002,178.0h40.800000000000004v60h-40.800000000000004Z" fill="#2acdfa"/>
+<path aria-label="futon Branding Cotton: fit; FTM: 11; SCSI Florida programming: monitor Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M420.6,188.0h40.800000000000004v55h-40.800000000000004Z" fill="#c99c11"/>
+<path aria-label="futon Branding Cotton: fit; FTM: 4; SCSI Florida programming: Bicycle safely" role="graphics-symbol" aria-roledescription="bar" d="M420.6,168.0h40.800000000000004v20h-40.800000000000004Z" fill="#2acdfa"/>
+<path aria-label="futon Branding Cotton: cigarette; FTM: 15; SCSI Florida programming: monitor Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M307.26666666666665,168.0h40.800000000000004v75h-40.800000000000004Z" fill="#c99c11"/>
+<path aria-label="futon Branding Cotton: cigarette; FTM: 10; SCSI Florida programming: Bicycle safely" role="graphics-symbol" aria-roledescription="bar" d="M307.26666666666665,118.0h40.800000000000004v50h-40.800000000000004Z" fill="#2acdfa"/>
+<path aria-label="futon Branding Cotton: reason; FTM: 21; SCSI Florida programming: monitor Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M590.6,138.0h40.800000000000004v105h-40.800000000000004Z" fill="#c99c11"/>
+<path aria-label="futon Branding Cotton: reason; FTM: 15; SCSI Florida programming: Bicycle safely" role="graphics-symbol" aria-roledescription="bar" d="M590.6,63.0h40.800000000000004v75h-40.800000000000004Z" fill="#2acdfa"/>
+<path aria-label="futon Branding Cotton: mechanism; FTM: 21; SCSI Florida programming: monitor Jaguar" role="graphics-symbol" aria-roledescription="bar" d="M533.9333333333334,138.0h40.800000000000004v105h-40.800000000000004Z" fill="#c99c11"/>
+<path aria-label="futon Branding Cotton: mechanism; FTM: 5; SCSI Florida programming: Bicycle safely" role="graphics-symbol" aria-roledescription="bar" d="M533.9333333333334,113.0h40.800000000000004v25h-40.800000000000004Z" fill="#2acdfa"/>
+<text aria-label="663,671,156,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="667.6666666666666" y="164.64499999999998" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">15</text>
+<text aria-label="663,671,81,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="667.6666666666666" y="89.64500000000001" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">15</text>
+<text aria-label="212,216,206,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="214.33333333333334" y="214.645" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">5</text>
+<text aria-label="210,218,121,130" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="214.33333333333334" y="129.64499999999998" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">17</text>
+<text aria-label="380,388,146,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="384.33333333333337" y="154.64499999999998" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">17</text>
+<text aria-label="382,386,141,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="384.33333333333337" y="149.645" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">1</text>
+<text aria-label="495,499,216,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="497.66666666666663" y="224.645" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">3</text>
+<text aria-label="493,501,141,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="497.66666666666663" y="149.645" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">15</text>
+<text aria-label="268,273,226,235" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.0" y="234.645" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">1</text>
+<text aria-label="266,275,166,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.0" y="174.645" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">12</text>
+<text aria-label="436,445,176,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="441.0" y="184.645" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">11</text>
+<text aria-label="438,443,156,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="441.0" y="164.64499999999998" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">4</text>
+<text aria-label="323,331,156,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="327.6666666666667" y="164.64499999999998" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">15</text>
+<text aria-label="323,331,106,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="327.6666666666667" y="114.645" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">10</text>
+<text aria-label="606,615,126,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="611.0" y="134.64499999999998" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">21</text>
+<text aria-label="606,615,51,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="611.0" y="59.644999999999996" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">15</text>
+<text aria-label="550,558,126,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="554.3333333333334" y="134.64499999999998" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">21</text>
+<text aria-label="552,556,101,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="554.3333333333334" y="109.645" font-family="serif" font-size="7.6499999999999995px" fill="#000" opacity="1">5</text>
+<path  d="M6.0,60.0h10v10h-10Z" fill="#c99c11" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,73.0h10v10h-10Z" fill="#2acdfa" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,58,69" text-anchor="start" x="21.0" y="68.0" font-family="serif" font-size="10px" fill="#000" opacity="1">monitor Jaguar</text>
+<text aria-label="21,98,71,82" text-anchor="start" x="21.0" y="81.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bicycle safely</text>
+<text aria-label="5,149,41,53" text-anchor="start" x="5.0" y="52.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">SCSI Florida programming</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="640" height="329" viewBox="0 0 640 329" style="background-color: rgb(255, 255, 255);">
+<line x1="109.5" y1="48.5" x2="109.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="223.5" y1="48.5" x2="223.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="338.5" y1="48.5" x2="338.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="452.5" y1="48.5" x2="452.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="566.5" y1="48.5" x2="566.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="248.5" x2="635.5" y2="248.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="208.5" x2="635.5" y2="208.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="168.5" x2="635.5" y2="168.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="128.5" x2="635.5" y2="128.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="88.5" x2="635.5" y2="88.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="48.5" x2="635.5" y2="48.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="97,114,255,323" text-anchor="end" x="109.53846153846156" y="255.5" transform="rotate(270.0, 114.53846153846156, 255.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">fanlight</text>
+<text aria-label="211,228,255,315" text-anchor="end" x="223.76923076923077" y="255.5" transform="rotate(270.0, 228.76923076923077, 255.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">gobbler</text>
+<text aria-label="326,343,255,315" text-anchor="end" x="338.0" y="255.5" transform="rotate(270.0, 343.0, 255.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">outcome</text>
+<text aria-label="440,457,255,298" text-anchor="end" x="452.2307692307692" y="255.5" transform="rotate(270.0, 457.2307692307692, 255.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">scout</text>
+<text aria-label="554,571,255,289" text-anchor="end" x="566.4615384615385" y="255.5" transform="rotate(270.0, 571.4615384615385, 255.5)" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">wall</text>
+<line aria-label="109,109,248,253" x1="109.5" y1="248.5" x2="109.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="223,223,248,253" x1="223.5" y1="248.5" x2="223.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="338,338,248,253" x1="338.5" y1="248.5" x2="338.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="452,452,248,253" x1="452.5" y1="248.5" x2="452.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="566,566,248,253" x1="566.5" y1="248.5" x2="566.5" y2="253.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,635,248,248" x1="41.5" y1="248.5" x2="635.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="323,635,0,26" text-anchor="end" x="635.0" y="25.52600000000001" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">transmitting East Credit</text>
+<text aria-label="26,34,237,254" text-anchor="end" x="34.5" y="253.5" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="17,34,197,214" text-anchor="end" x="34.5" y="213.5" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="17,34,157,174" text-anchor="end" x="34.5" y="173.5" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="17,34,117,134" text-anchor="end" x="34.5" y="133.5" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">60</text>
+<text aria-label="17,34,77,94" text-anchor="end" x="34.5" y="93.5" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">80</text>
+<text aria-label="9,34,37,54" text-anchor="end" x="34.5" y="53.5" font-family="Balto" font-size="16px" font-weight="normal" fill="#000" opacity="1">100</text>
+<line aria-label="36,41,248,248" x1="41.5" y1="248.5" x2="36.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,208,208" x1="41.5" y1="208.5" x2="36.5" y2="208.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,168,168" x1="41.5" y1="168.5" x2="36.5" y2="168.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,128,128" x1="41.5" y1="128.5" x2="36.5" y2="128.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,88,88" x1="41.5" y1="88.5" x2="36.5" y2="88.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,48,48" x1="41.5" y1="48.5" x2="36.5" y2="48.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Hill consequently Sri: fanlight; Cotton COM Northeast: 51; et Corporate: East" role="graphics-symbol" aria-roledescription="bar" d="M63.84615384615387,146.0h45.69230769230769v102h-45.69230769230769Z" fill="#de6bc8"/>
+<path aria-label="Hill consequently Sri: fanlight; Cotton COM Northeast: 45; et Corporate: Lead nor" role="graphics-symbol" aria-roledescription="bar" d="M109.53846153846156,158.0h45.69230769230769v89.99999999999999h-45.69230769230769Z" fill="#fbf34f"/>
+<path aria-label="Hill consequently Sri: scout; Cotton COM Northeast: 96; et Corporate: East" role="graphics-symbol" aria-roledescription="bar" d="M406.53846153846155,56.00000000000001h45.69230769230769v192h-45.69230769230769Z" fill="#de6bc8"/>
+<path aria-label="Hill consequently Sri: scout; Cotton COM Northeast: 86; et Corporate: Lead nor" role="graphics-symbol" aria-roledescription="bar" d="M452.2307692307692,76.0h45.69230769230769v172h-45.69230769230769Z" fill="#fbf34f"/>
+<path aria-label="Hill consequently Sri: wall; Cotton COM Northeast: 10; et Corporate: East" role="graphics-symbol" aria-roledescription="bar" d="M520.7692307692307,228.0h45.69230769230769v20h-45.69230769230769Z" fill="#de6bc8"/>
+<path aria-label="Hill consequently Sri: wall; Cotton COM Northeast: 67; et Corporate: Lead nor" role="graphics-symbol" aria-roledescription="bar" d="M566.4615384615385,113.99999999999999h45.69230769230769v134h-45.69230769230769Z" fill="#fbf34f"/>
+<path aria-label="Hill consequently Sri: gobbler; Cotton COM Northeast: 24; et Corporate: East" role="graphics-symbol" aria-roledescription="bar" d="M178.0769230769231,200.0h45.69230769230769v48h-45.69230769230769Z" fill="#de6bc8"/>
+<path aria-label="Hill consequently Sri: gobbler; Cotton COM Northeast: 78; et Corporate: Lead nor" role="graphics-symbol" aria-roledescription="bar" d="M223.76923076923077,92.0h45.69230769230769v156h-45.69230769230769Z" fill="#fbf34f"/>
+<path aria-label="Hill consequently Sri: outcome; Cotton COM Northeast: 23; et Corporate: East" role="graphics-symbol" aria-roledescription="bar" d="M292.3076923076923,202.0h45.69230769230769v46h-45.69230769230769Z" fill="#de6bc8"/>
+<path aria-label="Hill consequently Sri: outcome; Cotton COM Northeast: 50; et Corporate: Lead nor" role="graphics-symbol" aria-roledescription="bar" d="M338.0,148.0h45.69230769230769v100h-45.69230769230769Z" fill="#fbf34f"/>
+<text aria-label="77,96,120,139" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.69230769230771" y="138.526" font-family="Balto" font-size="17.82px" fill="#000" opacity="1">51</text>
+<text aria-label="122,141,132,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="132.38461538461542" y="150.526" font-family="Balto" font-size="17.82px" fill="#000" opacity="1">45</text>
+<text aria-label="419,438,30,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="429.3846153846154" y="48.52600000000001" font-family="Balto" font-size="17.82px" fill="#000" opacity="1">96</text>
+<text aria-label="465,484,50,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="475.0769230769231" y="68.52600000000001" font-family="Balto" font-size="17.82px" fill="#000" opacity="1">86</text>
+<text aria-label="534,553,202,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="543.6153846153846" y="220.526" font-family="Balto" font-size="17.82px" fill="#000" opacity="1">10</text>
+<text aria-label="579,598,88,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="589.3076923076924" y="106.52599999999998" font-family="Balto" font-size="17.82px" fill="#000" opacity="1">67</text>
+<text aria-label="191,210,174,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="200.92307692307693" y="192.526" font-family="Balto" font-size="17.82px" fill="#000" opacity="1">24</text>
+<text aria-label="237,256,66,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="246.61538461538464" y="84.526" font-family="Balto" font-size="17.82px" fill="#000" opacity="1">78</text>
+<text aria-label="305,324,176,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="315.1538461538462" y="194.526" font-family="Balto" font-size="17.82px" fill="#000" opacity="1">23</text>
+<text aria-label="351,370,122,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="360.84615384615387" y="140.526" font-family="Balto" font-size="17.82px" fill="#000" opacity="1">50</text>
+</svg>

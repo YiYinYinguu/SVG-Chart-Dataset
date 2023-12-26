@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="370" height="239" viewBox="0 0 370 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="16,250,0,26" text-anchor="middle" x="133.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gasoline applewood</text>
+<path aria-label="5th: 277; Greenholt bluetooth: pish" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.41877950762947,62.48015323649703A75,75,0,0,0,74.71654172844698,86.79789737831442L133.0,134.0Z" fill="#6fd6c8" stroke="white" stroke-width="3"/>
+<path aria-label="5th: 410; Greenholt bluetooth: Modern" role="graphics-symbol" aria-roledescription="arc mark"  d="M196.39738448851878,174.07208055510617A75,75,0,0,0,204.62620264678628,111.75843768074046L133.0,134.0Z" fill="#b381b9" stroke="white" stroke-width="3"/>
+<path aria-label="5th: 601; Greenholt bluetooth: oeuvre" role="graphics-symbol" aria-roledescription="arc mark"  d="M74.71654172844698,86.79789737831442A75,75,0,0,0,70.54929633023593,175.53203114646956L133.0,134.0Z" fill="#c67fca" stroke="white" stroke-width="3"/>
+<path aria-label="5th: 145; Greenholt bluetooth: underpass" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.0,59.0A75,75,0,0,0,110.41877950762947,62.48015323649703L133.0,134.0Z" fill="#ffefd2" stroke="white" stroke-width="3"/>
+<path aria-label="5th: 46; Greenholt bluetooth: Fiat" role="graphics-symbol" aria-roledescription="arc mark"  d="M204.62620264678628,111.75843768074046A75,75,0,0,0,202.13483139250604,104.92466529290225L133.0,134.0Z" fill="#04beb2" stroke="white" stroke-width="3"/>
+<path aria-label="5th: 268; Greenholt bluetooth: Regional" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.0722178086353,201.79655481538467A75,75,0,0,0,196.39738448851878,174.07208055510617L133.0,134.0Z" fill="#f86b38" stroke="white" stroke-width="3"/>
+<path aria-label="5th: 676; Greenholt bluetooth: SCSI" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.54929633023593,175.53203114646956A75,75,0,0,0,165.0722178086353,201.79655481538467L133.0,134.0Z" fill="#cf52ca" stroke="white" stroke-width="3"/>
+<path aria-label="5th: 556; Greenholt bluetooth: CFP" role="graphics-symbol" aria-roledescription="arc mark"  d="M202.13483139250604,104.92466529290225A75,75,0,0,0,133.0,59.0L133.0,134.0Z" fill="#47d982" stroke="white" stroke-width="3"/>
+<text aria-label="76,88,54,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="82.33480857012188" y="61.61560393890528" font-family="avenir" font-size="7px" fill="#6fd6c8" opacity="1">277</text>
+<text aria-label="216,228,140,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="222.22538484992572" y="147.78264394703706" font-family="avenir" font-size="7px" fill="#b381b9" opacity="1">410</text>
+<text aria-label="37,49,124,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="43.099085833944216" y="131.7779587747786" font-family="avenir" font-size="7px" fill="#c67fca" opacity="1">601</text>
+<text aria-label="113,125,40,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.29130659870022" y="47.05017298932415" font-family="avenir" font-size="7px" fill="#ffefd2" opacity="1">145</text>
+<text aria-label="213,221,98,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="217.55609317837155" y="105.17359725153534" font-family="avenir" font-size="7px" fill="#04beb2" opacity="1">46</text>
+<text aria-label="186,198,196,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.64824320030573" y="203.39500785011586" font-family="avenir" font-size="7px" fill="#f86b38" opacity="1">268</text>
+<text aria-label="102,114,215,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.90510555248002" y="222.7146819262048" font-family="avenir" font-size="7px" fill="#cf52ca" opacity="1">676</text>
+<text aria-label="176,188,54,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.798914906017" y="61.032886715685265" font-family="avenir" font-size="7px" fill="#47d982" opacity="1">556</text>
+<path  d="M262.0,56.0A5,5,0,1,1,252.0,56.0A5,5,0,1,1,262.0,56.0" fill="#47d982" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M262.0,72.0A5,5,0,1,1,252.0,72.0A5,5,0,1,1,262.0,72.0" fill="#04beb2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M262.0,88.0A5,5,0,1,1,252.0,88.0A5,5,0,1,1,262.0,88.0" fill="#b381b9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M262.0,104.0A5,5,0,1,1,252.0,104.0A5,5,0,1,1,262.0,104.0" fill="#f86b38" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M262.0,120.0A5,5,0,1,1,252.0,120.0A5,5,0,1,1,262.0,120.0" fill="#cf52ca" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M262.0,136.0A5,5,0,1,1,252.0,136.0A5,5,0,1,1,262.0,136.0" fill="#c67fca" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M262.0,152.0A5,5,0,1,1,252.0,152.0A5,5,0,1,1,262.0,152.0" fill="#6fd6c8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M262.0,168.0A5,5,0,1,1,252.0,168.0A5,5,0,1,1,262.0,168.0" fill="#ffefd2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="267,283,49,60" text-anchor="start" x="267.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">CFP</text>
+<text aria-label="267,289,65,76" text-anchor="start" x="267.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Fiat</text>
+<text aria-label="267,300,81,92" text-anchor="start" x="267.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Modern</text>
+<text aria-label="267,311,97,108" text-anchor="start" x="267.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Regional</text>
+<text aria-label="267,289,113,124" text-anchor="start" x="267.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">SCSI</text>
+<text aria-label="267,300,129,140" text-anchor="start" x="267.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">oeuvre</text>
+<text aria-label="267,289,145,156" text-anchor="start" x="267.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">pish</text>
+<text aria-label="267,316,161,172" text-anchor="start" x="267.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">underpass</text>
+<text aria-label="251,365,32,44" text-anchor="start" x="251.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Greenholt bluetooth</text>
+</svg>

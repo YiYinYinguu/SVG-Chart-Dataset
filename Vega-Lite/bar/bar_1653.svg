@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1094" height="421" viewBox="0 0 1094 421" style="background-color: rgb(255, 255, 255);">
+<line x1="95.5" y1="55.5" x2="95.5" y2="255.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="185.5" y1="55.5" x2="185.5" y2="255.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="275.5" y1="55.5" x2="275.5" y2="255.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="365.5" y1="55.5" x2="365.5" y2="255.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="455.5" y1="55.5" x2="455.5" y2="255.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="545.5" y1="55.5" x2="545.5" y2="255.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="635.5" y1="55.5" x2="635.5" y2="255.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="725.5" y1="55.5" x2="725.5" y2="255.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="815.5" y1="55.5" x2="815.5" y2="255.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="905.5" y1="55.5" x2="905.5" y2="255.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="81,100,262,310" text-anchor="end" x="95.05882352941174" y="262.5" transform="rotate(270.0, 100.05882352941174, 262.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">clamp</text>
+<text aria-label="171,190,262,338" text-anchor="end" x="185.156862745098" y="262.5" transform="rotate(270.0, 190.156862745098, 262.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">contract</text>
+<text aria-label="261,280,262,329" text-anchor="end" x="275.2549019607843" y="262.5" transform="rotate(270.0, 280.2549019607843, 262.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">faculty</text>
+<text aria-label="351,370,262,424" text-anchor="end" x="365.35294117647055" y="262.5" transform="rotate(270.0, 370.35294117647055, 262.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">great-grandfather</text>
+<text aria-label="441,460,262,310" text-anchor="end" x="455.45098039215685" y="262.5" transform="rotate(270.0, 460.45098039215685, 262.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">habit</text>
+<text aria-label="531,550,262,300" text-anchor="end" x="545.5490196078431" y="262.5" transform="rotate(270.0, 550.5490196078431, 262.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">loss</text>
+<text aria-label="621,640,262,329" text-anchor="end" x="635.6470588235293" y="262.5" transform="rotate(270.0, 640.6470588235293, 262.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">prelude</text>
+<text aria-label="711,730,262,300" text-anchor="end" x="725.7450980392156" y="262.5" transform="rotate(270.0, 730.7450980392156, 262.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">safe</text>
+<text aria-label="801,820,262,319" text-anchor="end" x="815.8431372549019" y="262.5" transform="rotate(270.0, 820.8431372549019, 262.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">salary</text>
+<text aria-label="891,910,262,319" text-anchor="end" x="905.9411764705882" y="262.5" transform="rotate(270.0, 910.9411764705882, 262.5)" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">sample</text>
+<line aria-label="95,95,255,260" x1="95.5" y1="255.5" x2="95.5" y2="260.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="185,185,255,260" x1="185.5" y1="255.5" x2="185.5" y2="260.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="275,275,255,260" x1="275.5" y1="255.5" x2="275.5" y2="260.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="365,365,255,260" x1="365.5" y1="255.5" x2="365.5" y2="260.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="455,455,255,260" x1="455.5" y1="255.5" x2="455.5" y2="260.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="545,545,255,260" x1="545.5" y1="255.5" x2="545.5" y2="260.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="635,635,255,260" x1="635.5" y1="255.5" x2="635.5" y2="260.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="725,725,255,260" x1="725.5" y1="255.5" x2="725.5" y2="260.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="815,815,255,260" x1="815.5" y1="255.5" x2="815.5" y2="260.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="905,905,255,260" x1="905.5" y1="255.5" x2="905.5" y2="260.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,960,255,255" x1="41.5" y1="255.5" x2="960.5" y2="255.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,161,0,26" text-anchor="start" x="5.6982421875" y="25.42827272727272" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Jaguar Naira</text>
+<text aria-label="30,39,242,261" text-anchor="end" x="39.5" y="260.5" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="20,39,206,225" text-anchor="end" x="39.5" y="224.13636363636363" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="20,39,169,188" text-anchor="end" x="39.5" y="187.77272727272725" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="20,39,133,152" text-anchor="end" x="39.5" y="151.40909090909093" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="20,39,97,116" text-anchor="end" x="39.5" y="115.04545454545453" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">80</text>
+<text aria-label="11,39,60,79" text-anchor="end" x="39.5" y="78.68181818181819" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">100</text>
+<path aria-label="Run: faculty; Diesel compressing bypassing: 89; City National: wasp Copper Books" role="graphics-symbol" aria-roledescription="bar" d="M275.2549019607843,93.18181818181819h36.03921568627451v161.8181818181818h-36.03921568627451Z" fill="#d54d0e"/>
+<path aria-label="Run: faculty; Diesel compressing bypassing: 65; City National: Jazz" role="graphics-symbol" aria-roledescription="bar" d="M239.21568627450978,136.8181818181818h36.03921568627451v118.18181818181819h-36.03921568627451Z" fill="#bd5b43"/>
+<path aria-label="Run: safe; Diesel compressing bypassing: 96; City National: wasp Copper Books" role="graphics-symbol" aria-roledescription="bar" d="M725.7450980392156,80.45454545454547h36.03921568627451v174.54545454545453h-36.03921568627451Z" fill="#d54d0e"/>
+<path aria-label="Run: safe; Diesel compressing bypassing: 38; City National: Jazz" role="graphics-symbol" aria-roledescription="bar" d="M689.7058823529411,185.9090909090909h36.03921568627451v69.0909090909091h-36.03921568627451Z" fill="#bd5b43"/>
+<path aria-label="Run: prelude; Diesel compressing bypassing: 40; City National: wasp Copper Books" role="graphics-symbol" aria-roledescription="bar" d="M635.6470588235293,182.27272727272725h36.03921568627451v72.72727272727273h-36.03921568627451Z" fill="#d54d0e"/>
+<path aria-label="Run: prelude; Diesel compressing bypassing: 96; City National: Jazz" role="graphics-symbol" aria-roledescription="bar" d="M599.6078431372548,80.45454545454547h36.03921568627451v174.54545454545453h-36.03921568627451Z" fill="#bd5b43"/>
+<path aria-label="Run: loss; Diesel compressing bypassing: 69; City National: wasp Copper Books" role="graphics-symbol" aria-roledescription="bar" d="M545.5490196078431,129.54545454545453h36.03921568627451v125.45454545454547h-36.03921568627451Z" fill="#d54d0e"/>
+<path aria-label="Run: loss; Diesel compressing bypassing: 103; City National: Jazz" role="graphics-symbol" aria-roledescription="bar" d="M509.5098039215686,67.72727272727272h36.03921568627451v187.27272727272728h-36.03921568627451Z" fill="#bd5b43"/>
+<path aria-label="Run: clamp; Diesel compressing bypassing: 68; City National: wasp Copper Books" role="graphics-symbol" aria-roledescription="bar" d="M95.05882352941174,131.36363636363637h36.03921568627451v123.63636363636363h-36.03921568627451Z" fill="#d54d0e"/>
+<path aria-label="Run: clamp; Diesel compressing bypassing: 20; City National: Jazz" role="graphics-symbol" aria-roledescription="bar" d="M59.01960784313724,218.63636363636363h36.03921568627451v36.363636363636374h-36.03921568627451Z" fill="#bd5b43"/>
+<path aria-label="Run: sample; Diesel compressing bypassing: 72; City National: wasp Copper Books" role="graphics-symbol" aria-roledescription="bar" d="M905.9411764705882,124.0909090909091h36.03921568627451v130.9090909090909h-36.03921568627451Z" fill="#d54d0e"/>
+<path aria-label="Run: sample; Diesel compressing bypassing: 90; City National: Jazz" role="graphics-symbol" aria-roledescription="bar" d="M869.9019607843137,91.36363636363635h36.03921568627451v163.63636363636365h-36.03921568627451Z" fill="#bd5b43"/>
+<path aria-label="Run: salary; Diesel compressing bypassing: 96; City National: wasp Copper Books" role="graphics-symbol" aria-roledescription="bar" d="M815.8431372549019,80.45454545454547h36.03921568627451v174.54545454545453h-36.03921568627451Z" fill="#d54d0e"/>
+<path aria-label="Run: salary; Diesel compressing bypassing: 52; City National: Jazz" role="graphics-symbol" aria-roledescription="bar" d="M779.8039215686274,160.45454545454547h36.03921568627451v94.54545454545453h-36.03921568627451Z" fill="#bd5b43"/>
+<path aria-label="Run: great-grandfather; Diesel compressing bypassing: 11; City National: wasp Copper Books" role="graphics-symbol" aria-roledescription="bar" d="M365.35294117647055,235.0h36.03921568627451v20h-36.03921568627451Z" fill="#d54d0e"/>
+<path aria-label="Run: great-grandfather; Diesel compressing bypassing: 53; City National: Jazz" role="graphics-symbol" aria-roledescription="bar" d="M329.313725490196,158.63636363636363h36.03921568627451v96.36363636363636h-36.03921568627451Z" fill="#bd5b43"/>
+<path aria-label="Run: contract; Diesel compressing bypassing: 52; City National: wasp Copper Books" role="graphics-symbol" aria-roledescription="bar" d="M185.156862745098,160.45454545454547h36.03921568627451v94.54545454545453h-36.03921568627451Z" fill="#d54d0e"/>
+<path aria-label="Run: contract; Diesel compressing bypassing: 60; City National: Jazz" role="graphics-symbol" aria-roledescription="bar" d="M149.1176470588235,145.90909090909093h36.03921568627451v109.09090909090908h-36.03921568627451Z" fill="#bd5b43"/>
+<path aria-label="Run: habit; Diesel compressing bypassing: 81; City National: wasp Copper Books" role="graphics-symbol" aria-roledescription="bar" d="M455.45098039215685,107.72727272727273h36.03921568627451v147.27272727272725h-36.03921568627451Z" fill="#d54d0e"/>
+<path aria-label="Run: habit; Diesel compressing bypassing: 87; City National: Jazz" role="graphics-symbol" aria-roledescription="bar" d="M419.4117647058823,96.81818181818181h36.03921568627451v158.1818181818182h-36.03921568627451Z" fill="#bd5b43"/>
+<text aria-label="278,307,54,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="293.27450980392155" y="81.88281818181818" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">89</text>
+<text aria-label="242,271,97,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="257.2352941176471" y="125.5191818181818" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">65</text>
+<text aria-label="729,758,41,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="743.7647058823529" y="69.15554545454546" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">96</text>
+<text aria-label="693,722,147,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="707.7254901960783" y="174.6100909090909" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">38</text>
+<text aria-label="639,667,143,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="653.6666666666665" y="170.97372727272727" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">40</text>
+<text aria-label="603,631,41,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="617.627450980392" y="69.15554545454546" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">96</text>
+<text aria-label="549,577,90,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="563.5686274509803" y="118.24645454545453" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">69</text>
+<text aria-label="506,548,28,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="527.5294117647059" y="56.42827272727272" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">103</text>
+<text aria-label="98,127,92,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="113.078431372549" y="120.06463636363637" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">68</text>
+<text aria-label="62,91,179,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="77.03921568627449" y="207.33736363636362" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">20</text>
+<text aria-label="909,938,85,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="923.9607843137255" y="112.79190909090909" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">72</text>
+<text aria-label="873,902,52,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="887.9215686274509" y="80.06463636363635" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">90</text>
+<text aria-label="819,848,41,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="833.8627450980391" y="69.15554545454546" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">96</text>
+<text aria-label="783,812,121,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="797.8235294117646" y="149.15554545454546" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">52</text>
+<text aria-label="369,397,196,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="383.3725490196078" y="223.701" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">11</text>
+<text aria-label="333,361,119,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="347.33333333333326" y="147.33736363636365" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">53</text>
+<text aria-label="188,217,121,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="203.17647058823528" y="149.15554545454546" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">52</text>
+<text aria-label="152,181,107,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="167.13725490196077" y="134.61009090909093" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">60</text>
+<text aria-label="459,487,68,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="473.4705882352941" y="96.42827272727274" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">81</text>
+<text aria-label="423,451,57,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="437.43137254901956" y="85.51918181818182" font-family="Balto" font-size="27.57px" fill="#000" opacity="1">87</text>
+<path  d="M979.0,72.0h10v10h-10Z" fill="#d54d0e" stroke-width="1.5" opacity="1"/>
+<path  d="M979.0,85.0h10v10h-10Z" fill="#bd5b43" stroke-width="1.5" opacity="1"/>
+<text aria-label="994,1087,70,81" text-anchor="start" x="994.0" y="80.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">wasp Copper Books</text>
+<text aria-label="994,1016,83,94" text-anchor="start" x="994.0" y="93.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Jazz</text>
+<text aria-label="978,1056,53,65" text-anchor="start" x="978.0" y="64.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">City National</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="569" height="318" viewBox="0 0 569 318" style="background-color: rgb(255, 255, 255);">
+<line x1="116.5" y1="34.5" x2="116.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="216.5" y1="34.5" x2="216.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="315.5" y1="34.5" x2="315.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="414.5" y1="34.5" x2="414.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="514.5" y1="34.5" x2="514.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="234.5" x2="564.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="172.5" x2="564.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="109.5" x2="564.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="67.5" y1="47.5" x2="564.5" y2="47.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="104,121,241,301" text-anchor="end" x="116.69999999999997" y="241.5" transform="rotate(270.0, 121.69999999999997, 241.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">coconut</text>
+<text aria-label="204,221,241,267" text-anchor="end" x="216.09999999999997" y="241.5" transform="rotate(270.0, 221.09999999999997, 241.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">net</text>
+<text aria-label="303,320,241,309" text-anchor="end" x="315.5" y="241.5" transform="rotate(270.0, 320.5, 241.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">seaplane</text>
+<text aria-label="402,419,241,309" text-anchor="end" x="414.90000000000003" y="241.5" transform="rotate(270.0, 419.90000000000003, 241.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">stranger</text>
+<text aria-label="502,519,241,309" text-anchor="end" x="514.3" y="241.5" transform="rotate(270.0, 519.3, 241.5)" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">validate</text>
+<line aria-label="116,116,234,239" x1="116.5" y1="234.5" x2="116.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="216,216,234,239" x1="216.5" y1="234.5" x2="216.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="315,315,234,239" x1="315.5" y1="234.5" x2="315.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="414,414,234,239" x1="414.5" y1="234.5" x2="414.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="514,514,234,239" x1="514.5" y1="234.5" x2="514.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="67,564,234,234" x1="67.5" y1="234.5" x2="564.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="343,564,0,26" text-anchor="end" x="564.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Outdoors Oriental</text>
+<text aria-label="52,60,223,240" text-anchor="end" x="60.5" y="239.5" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="35,60,161,178" text-anchor="end" x="60.5" y="177.0" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="18,60,98,115" text-anchor="end" x="60.5" y="114.5" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="18,60,36,53" text-anchor="end" x="60.5" y="52.0" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<line aria-label="62,67,234,234" x1="67.5" y1="234.5" x2="62.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="62,67,172,172" x1="67.5" y1="172.5" x2="62.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="62,67,109,109" x1="67.5" y1="109.5" x2="62.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="62,67,47,47" x1="67.5" y1="47.5" x2="62.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,104,164" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Adolf want</text>
+<path aria-label="North Frami incentivize: net; Adolf want: 343; misapply Electric Panama: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M189.26199999999997,75.625h53.676000000000016v42.875h-53.676000000000016Z" fill="#abdcf9"/>
+<path aria-label="North Frami incentivize: net; Adolf want: 374; misapply Electric Panama: the Chair tan" role="graphics-symbol" aria-roledescription="bar" d="M189.26199999999997,187.25h53.676000000000016v46.75h-53.676000000000016Z" fill="#b30e8a"/>
+<path aria-label="North Frami incentivize: net; Adolf want: 550; misapply Electric Panama: maiores" role="graphics-symbol" aria-roledescription="bar" d="M189.26199999999997,118.5h53.676000000000016v68.75h-53.676000000000016Z" fill="#5a4b40"/>
+<path aria-label="North Frami incentivize: validate; Adolf want: 68; misapply Electric Panama: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M487.462,151.25h53.676000000000016v8.5h-53.676000000000016Z" fill="#abdcf9"/>
+<path aria-label="North Frami incentivize: validate; Adolf want: 399; misapply Electric Panama: the Chair tan" role="graphics-symbol" aria-roledescription="bar" d="M487.462,184.125h53.676000000000016v49.875h-53.676000000000016Z" fill="#b30e8a"/>
+<path aria-label="North Frami incentivize: validate; Adolf want: 195; misapply Electric Panama: maiores" role="graphics-symbol" aria-roledescription="bar" d="M487.462,159.75h53.676000000000016v24.375000000000014h-53.676000000000016Z" fill="#5a4b40"/>
+<path aria-label="North Frami incentivize: coconut; Adolf want: 442; misapply Electric Panama: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M89.86199999999997,41.74999999999999h53.676000000000016v55.24999999999999h-53.676000000000016Z" fill="#abdcf9"/>
+<path aria-label="North Frami incentivize: coconut; Adolf want: 566; misapply Electric Panama: the Chair tan" role="graphics-symbol" aria-roledescription="bar" d="M89.86199999999997,163.25h53.676000000000016v70.75h-53.676000000000016Z" fill="#b30e8a"/>
+<path aria-label="North Frami incentivize: coconut; Adolf want: 530; misapply Electric Panama: maiores" role="graphics-symbol" aria-roledescription="bar" d="M89.86199999999997,96.99999999999999h53.676000000000016v66.25000000000001h-53.676000000000016Z" fill="#5a4b40"/>
+<path aria-label="North Frami incentivize: seaplane; Adolf want: 363; misapply Electric Panama: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M288.662,123.375h53.676000000000016v45.375h-53.676000000000016Z" fill="#abdcf9"/>
+<path aria-label="North Frami incentivize: seaplane; Adolf want: 305; misapply Electric Panama: the Chair tan" role="graphics-symbol" aria-roledescription="bar" d="M288.662,195.875h53.676000000000016v38.125h-53.676000000000016Z" fill="#b30e8a"/>
+<path aria-label="North Frami incentivize: seaplane; Adolf want: 217; misapply Electric Panama: maiores" role="graphics-symbol" aria-roledescription="bar" d="M288.662,168.75h53.676000000000016v27.125h-53.676000000000016Z" fill="#5a4b40"/>
+<path aria-label="North Frami incentivize: stranger; Adolf want: 37; misapply Electric Panama: Southwest" role="graphics-symbol" aria-roledescription="bar" d="M388.062,162.0h53.676000000000016v4.625h-53.676000000000016Z" fill="#abdcf9"/>
+<path aria-label="North Frami incentivize: stranger; Adolf want: 518; misapply Electric Panama: the Chair tan" role="graphics-symbol" aria-roledescription="bar" d="M388.062,169.25h53.676000000000016v64.75h-53.676000000000016Z" fill="#b30e8a"/>
+<path aria-label="North Frami incentivize: stranger; Adolf want: 21; misapply Electric Panama: maiores" role="graphics-symbol" aria-roledescription="bar" d="M388.062,166.625h53.676000000000016v2.625h-53.676000000000016Z" fill="#5a4b40"/>
+</svg>

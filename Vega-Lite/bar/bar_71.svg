@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="780" height="342" viewBox="0 0 780 342" style="background-color: rgb(255, 255, 255);">
+<line x1="57.5" y1="234.5" x2="775.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="203.5" x2="775.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="172.5" x2="775.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="142.5" x2="775.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="111.5" x2="775.5" y2="111.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="80.5" x2="775.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="57.5" y1="49.5" x2="775.5" y2="49.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="105,120,241,294" text-anchor="end" x="116.83333333333329" y="241.5" transform="rotate(270.0, 120.83333333333329, 241.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">actress</text>
+<text aria-label="225,240,241,264" text-anchor="end" x="236.49999999999997" y="241.5" transform="rotate(270.0, 240.49999999999997, 241.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">bar</text>
+<text aria-label="345,360,241,309" text-anchor="end" x="356.16666666666663" y="241.5" transform="rotate(270.0, 360.16666666666663, 241.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">freelance</text>
+<text aria-label="464,479,241,279" text-anchor="end" x="475.8333333333333" y="241.5" transform="rotate(270.0, 479.8333333333333, 241.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">guide</text>
+<text aria-label="584,599,241,271" text-anchor="end" x="595.5" y="241.5" transform="rotate(270.0, 599.5, 241.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">mill</text>
+<text aria-label="704,719,241,331" text-anchor="end" x="715.1666666666666" y="241.5" transform="rotate(270.0, 719.1666666666666, 241.5)" font-family="monospace" font-size="14px" font-weight="bold" fill="#000" opacity="1">thunderstorm</text>
+<line aria-label="116,116,234,239" x1="116.5" y1="234.5" x2="116.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="236,236,234,239" x1="236.5" y1="234.5" x2="236.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="356,356,234,239" x1="356.5" y1="234.5" x2="356.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="475,475,234,239" x1="475.5" y1="234.5" x2="475.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="595,595,234,239" x1="595.5" y1="234.5" x2="595.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="715,715,234,239" x1="715.5" y1="234.5" x2="715.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,775,234,234" x1="57.5" y1="234.5" x2="775.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="331,500,0,26" text-anchor="middle" x="416.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">totam sievert</text>
+<text aria-label="48,55,224,239" text-anchor="end" x="55.5" y="238.5" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="33,55,193,208" text-anchor="end" x="55.5" y="207.73076923076923" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="33,55,162,177" text-anchor="end" x="55.5" y="176.96153846153845" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="33,55,132,147" text-anchor="end" x="55.5" y="146.19230769230768" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="33,55,101,116" text-anchor="end" x="55.5" y="115.42307692307692" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="18,55,70,85" text-anchor="end" x="55.5" y="84.65384615384615" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="18,55,39,54" text-anchor="end" x="55.5" y="53.88461538461537" font-family="monospace" font-size="14px" font-weight="normal" fill="#000" opacity="1">1,200</text>
+<text aria-label="2,14,80,188" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">drive VGA firewall</text>
+<path aria-label="deposit: freelance; drive VGA firewall: 643; Rover Electric: access Web Avon" role="graphics-symbol" aria-roledescription="bar" d="M307.7016666666666,131.3846153846154h96.93v98.92307692307693h-96.93Z" fill="#e374e4"/>
+<path aria-label="deposit: freelance; drive VGA firewall: 24; Rover Electric: olive Electronics Southwest" role="graphics-symbol" aria-roledescription="bar" d="M307.7016666666666,230.30769230769232h96.93v3.692307692307679h-96.93Z" fill="#aa03eb"/>
+<path aria-label="deposit: mill; drive VGA firewall: 353; Rover Electric: access Web Avon" role="graphics-symbol" aria-roledescription="bar" d="M547.035,162.46153846153845h96.93v54.30769230769232h-96.93Z" fill="#e374e4"/>
+<path aria-label="deposit: mill; drive VGA firewall: 112; Rover Electric: olive Electronics Southwest" role="graphics-symbol" aria-roledescription="bar" d="M547.035,216.76923076923077h96.93v17.230769230769226h-96.93Z" fill="#aa03eb"/>
+<path aria-label="deposit: bar; drive VGA firewall: 586; Rover Electric: access Web Avon" role="graphics-symbol" aria-roledescription="bar" d="M188.03499999999997,36.92307692307692h96.93v90.15384615384616h-96.93Z" fill="#e374e4"/>
+<path aria-label="deposit: bar; drive VGA firewall: 695; Rover Electric: olive Electronics Southwest" role="graphics-symbol" aria-roledescription="bar" d="M188.03499999999997,127.07692307692308h96.93v106.92307692307692h-96.93Z" fill="#aa03eb"/>
+<path aria-label="deposit: thunderstorm; drive VGA firewall: 610; Rover Electric: access Web Avon" role="graphics-symbol" aria-roledescription="bar" d="M666.7016666666666,86.0h96.93v93.84615384615384h-96.93Z" fill="#e374e4"/>
+<path aria-label="deposit: thunderstorm; drive VGA firewall: 352; Rover Electric: olive Electronics Southwest" role="graphics-symbol" aria-roledescription="bar" d="M666.7016666666666,179.84615384615384h96.93v54.15384615384616h-96.93Z" fill="#aa03eb"/>
+<path aria-label="deposit: actress; drive VGA firewall: 178; Rover Electric: access Web Avon" role="graphics-symbol" aria-roledescription="bar" d="M68.36833333333328,153.23076923076923h96.93v27.384615384615387h-96.93Z" fill="#e374e4"/>
+<path aria-label="deposit: actress; drive VGA firewall: 347; Rover Electric: olive Electronics Southwest" role="graphics-symbol" aria-roledescription="bar" d="M68.36833333333328,180.6153846153846h96.93v53.38461538461539h-96.93Z" fill="#aa03eb"/>
+<path aria-label="deposit: guide; drive VGA firewall: 169; Rover Electric: access Web Avon" role="graphics-symbol" aria-roledescription="bar" d="M427.3683333333333,196.30769230769232h96.93v26h-96.93Z" fill="#e374e4"/>
+<path aria-label="deposit: guide; drive VGA firewall: 76; Rover Electric: olive Electronics Southwest" role="graphics-symbol" aria-roledescription="bar" d="M427.3683333333333,222.30769230769232h96.93v11.69230769230768h-96.93Z" fill="#aa03eb"/>
+</svg>

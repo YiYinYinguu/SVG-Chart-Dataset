@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="414" height="286" viewBox="0 0 414 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="305,409,0,26" text-anchor="end" x="409.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gasoline</text>
+<path aria-label="Facilitator transition: 41; Diesel: Home" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.7833761270691,249.19473875583043A75,75,0,0,0,132.1733806073912,250.90427301936452L121.30402836443471,222.94256381161873A45,45,0,0,1,86.27002567624146,221.91684325349826Z" fill="#fcdea7" stroke="white" stroke-width="0"/>
+<path aria-label="Facilitator transition: 48; Diesel: salmon" role="graphics-symbol" aria-roledescription="arc mark"  d="M62.34883229886307,119.30820237884541A75,75,0,0,0,30.032124085550038,178.8051011696134L60.01927445133002,179.68306070176806A45,45,0,0,1,79.40929937931784,143.98492142730726Z" fill="#5da1ed" stroke="white" stroke-width="0"/>
+<path aria-label="Facilitator transition: 58; Diesel: Fresh" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.1733806073912,250.90427301936452A75,75,0,0,0,179.82515768929045,186.11818100235033L149.89509461357426,184.0709086014102A45,45,0,0,1,121.30402836443471,222.94256381161873Z" fill="#8abfcc" stroke="white" stroke-width="0"/>
+<path aria-label="Facilitator transition: 84; Diesel: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.82515768929045,186.11818100235033A75,75,0,0,0,105.0,106.0L105.0,136.0A45,45,0,0,1,149.89509461357426,184.0709086014102Z" fill="#c19927" stroke="white" stroke-width="0"/>
+<path aria-label="Facilitator transition: 31; Diesel: web" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,62.34883229886307,119.30820237884541L79.40929937931784,143.98492142730726A45,45,0,0,1,104.99999999999999,136.0Z" fill="#00fad8" stroke="white" stroke-width="0"/>
+<path aria-label="Facilitator transition: 35; Diesel: prise" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.032124085550038,178.8051011696134A75,75,0,0,0,45.4613980221609,226.60871489665604L69.27683881329654,208.3652289379936A45,45,0,0,1,60.01927445133002,179.68306070176806Z" fill="#4ba9f7" stroke="white" stroke-width="0"/>
+<path aria-label="Facilitator transition: 25; Diesel: mindshare" role="graphics-symbol" aria-roledescription="arc mark"  d="M45.4613980221609,226.60871489665604A75,75,0,0,0,73.7833761270691,249.19473875583043L86.27002567624146,221.91684325349826A45,45,0,0,1,69.27683881329654,208.3652289379936Z" fill="#0aa97e" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#c19927" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,56.25A5,5,0,1,1,73.0,56.25A5,5,0,1,1,83.0,56.25" fill="#8abfcc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M136.0,56.25A5,5,0,1,1,126.0,56.25A5,5,0,1,1,136.0,56.25" fill="#fcdea7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M193.0,56.25A5,5,0,1,1,183.0,56.25A5,5,0,1,1,193.0,56.25" fill="#0aa97e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M271.0,56.25A5,5,0,1,1,261.0,56.25A5,5,0,1,1,271.0,56.25" fill="#4ba9f7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M322.0,56.25A5,5,0,1,1,312.0,56.25A5,5,0,1,1,322.0,56.25" fill="#5da1ed" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M384.0,56.25A5,5,0,1,1,374.0,56.25A5,5,0,1,1,384.0,56.25" fill="#00fad8" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="88,115,49,60" text-anchor="start" x="88.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="141,163,49,60" text-anchor="start" x="141.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Home</text>
+<text aria-label="198,247,49,60" text-anchor="start" x="198.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">mindshare</text>
+<text aria-label="276,303,49,60" text-anchor="start" x="276.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">prise</text>
+<text aria-label="327,360,49,60" text-anchor="start" x="327.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">salmon</text>
+<text aria-label="389,405,49,60" text-anchor="start" x="389.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">web</text>
+<text aria-label="5,41,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Diesel</text>
+</svg>

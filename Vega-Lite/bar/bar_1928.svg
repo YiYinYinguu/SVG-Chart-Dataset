@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="440" height="326" viewBox="0 0 440 326" style="background-color: rgb(255, 255, 255);">
+<line x1="47.5" y1="263.5" x2="435.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="47.5" y1="207.5" x2="435.5" y2="207.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="47.5" y1="152.5" x2="435.5" y2="152.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="47.5" y1="96.5" x2="435.5" y2="96.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="54,66,270,312" text-anchor="end" x="63.16666666666664" y="270.5" transform="rotate(270.0, 66.16666666666664, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">driving</text>
+<text aria-label="86,98,270,300" text-anchor="end" x="95.49999999999999" y="270.5" transform="rotate(270.0, 98.49999999999999, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">essay</text>
+<text aria-label="118,130,270,306" text-anchor="end" x="127.83333333333331" y="270.5" transform="rotate(270.0, 130.83333333333331, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">fondue</text>
+<text aria-label="151,163,270,312" text-anchor="end" x="160.16666666666663" y="270.5" transform="rotate(270.0, 163.16666666666663, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">minimum</text>
+<text aria-label="183,195,270,294" text-anchor="end" x="192.5" y="270.5" transform="rotate(270.0, 195.5, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">mole</text>
+<text aria-label="215,227,270,288" text-anchor="end" x="224.83333333333334" y="270.5" transform="rotate(270.0, 227.83333333333334, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">rag</text>
+<text aria-label="248,260,270,312" text-anchor="end" x="257.16666666666663" y="270.5" transform="rotate(270.0, 260.16666666666663, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">reality</text>
+<text aria-label="280,292,270,300" text-anchor="end" x="289.5" y="270.5" transform="rotate(270.0, 292.5, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">skunk</text>
+<text aria-label="312,324,270,300" text-anchor="end" x="321.8333333333333" y="270.5" transform="rotate(270.0, 324.8333333333333, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">spade</text>
+<text aria-label="345,357,270,306" text-anchor="end" x="354.1666666666667" y="270.5" transform="rotate(270.0, 357.1666666666667, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">strand</text>
+<text aria-label="377,389,270,312" text-anchor="end" x="386.50000000000006" y="270.5" transform="rotate(270.0, 389.50000000000006, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">sweater</text>
+<text aria-label="409,421,270,306" text-anchor="end" x="418.8333333333333" y="270.5" transform="rotate(270.0, 421.8333333333333, 270.5)" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">vessel</text>
+<line aria-label="63,63,263,268" x1="63.5" y1="263.5" x2="63.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="95,95,263,268" x1="95.5" y1="263.5" x2="95.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="127,127,263,268" x1="127.5" y1="263.5" x2="127.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="160,160,263,268" x1="160.5" y1="263.5" x2="160.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="192,192,263,268" x1="192.5" y1="263.5" x2="192.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="224,224,263,268" x1="224.5" y1="263.5" x2="224.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="257,257,263,268" x1="257.5" y1="263.5" x2="257.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="289,289,263,268" x1="289.5" y1="263.5" x2="289.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="321,321,263,268" x1="321.5" y1="263.5" x2="321.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="354,354,263,268" x1="354.5" y1="263.5" x2="354.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="386,386,263,268" x1="386.5" y1="263.5" x2="386.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="418,418,263,268" x1="418.5" y1="263.5" x2="418.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,435,263,263" x1="47.5" y1="263.5" x2="435.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="123,435,0,26" text-anchor="end" x="435.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">flex intangible compress</text>
+<text aria-label="34,40,255,267" text-anchor="end" x="40.5" y="266.5" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="28,40,199,211" text-anchor="end" x="40.5" y="210.94444444444443" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="22,40,144,156" text-anchor="end" x="40.5" y="155.38888888888889" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="22,40,88,100" text-anchor="end" x="40.5" y="99.83333333333333" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="42,47,263,263" x1="47.5" y1="263.5" x2="42.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,207,207" x1="47.5" y1="207.5" x2="42.5" y2="207.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,152,152" x1="47.5" y1="152.5" x2="42.5" y2="152.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,47,96,96" x1="47.5" y1="96.5" x2="42.5" y2="96.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,121,205" text-anchor="middle" x="17.14794921875" y="163.5" transform="rotate(-90.0, 15.14794921875, 163.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">deposit Harris</text>
+<path aria-label="Forward: reality; deposit Harris: 74; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M248.43666666666664,105.22222222222223h17.460000000000004v82.22222222222221h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: reality; deposit Harris: 68; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M248.43666666666664,187.44444444444446h17.460000000000004v75.55555555555556h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: sweater; deposit Harris: 94; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M377.77000000000004,91.8888888888889h17.460000000000004v104.44444444444444h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: sweater; deposit Harris: 60; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M377.77000000000004,196.33333333333334h17.460000000000004v66.66666666666666h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: vessel; deposit Harris: 67; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M410.1033333333333,165.22222222222223h17.460000000000004v74.44444444444444h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: vessel; deposit Harris: 21; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M410.1033333333333,239.66666666666666h17.460000000000004v23.333333333333343h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: essay; deposit Harris: 27; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M86.76999999999998,143.0h17.460000000000004v30.000000000000014h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: essay; deposit Harris: 81; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M86.76999999999998,173.0h17.460000000000004v89.99999999999999h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: spade; deposit Harris: 31; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M313.1033333333333,173.0h17.460000000000004v34.444444444444414h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: spade; deposit Harris: 50; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M313.1033333333333,207.44444444444443h17.460000000000004v55.55555555555557h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: rag; deposit Harris: 9; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M216.10333333333332,148.55555555555554h17.460000000000004v9.999999999999986h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: rag; deposit Harris: 94; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M216.10333333333332,158.55555555555554h17.460000000000004v104.44444444444446h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: minimum; deposit Harris: 81; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M151.43666666666664,149.66666666666669h17.460000000000004v89.99999999999999h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: minimum; deposit Harris: 21; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M151.43666666666664,239.66666666666666h17.460000000000004v23.333333333333343h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: fondue; deposit Harris: 103; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M119.10333333333331,81.88888888888889h17.460000000000004v114.44444444444446h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: fondue; deposit Harris: 60; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M119.10333333333331,196.33333333333334h17.460000000000004v66.66666666666666h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: mole; deposit Harris: 76; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M183.76999999999998,89.66666666666666h17.460000000000004v84.44444444444446h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: mole; deposit Harris: 80; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M183.76999999999998,174.11111111111111h17.460000000000004v88.88888888888889h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: strand; deposit Harris: 12; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M345.43666666666667,180.77777777777777h17.460000000000004v13.333333333333329h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: strand; deposit Harris: 62; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M345.43666666666667,194.11111111111111h17.460000000000004v68.88888888888889h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: driving; deposit Harris: 22; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M54.436666666666646,219.66666666666666h17.460000000000004v24.444444444444457h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: driving; deposit Harris: 17; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M54.436666666666646,244.11111111111111h17.460000000000004v18.888888888888886h-17.460000000000004Z" fill="#acffae"/>
+<path aria-label="Forward: skunk; deposit Harris: 49; Loan Incredible: lime" role="graphics-symbol" aria-roledescription="bar" d="M280.77,137.44444444444446h17.460000000000004v54.44444444444444h-17.460000000000004Z" fill="#7fbdbb"/>
+<path aria-label="Forward: skunk; deposit Harris: 64; Loan Incredible: separately helplessly ADP" role="graphics-symbol" aria-roledescription="bar" d="M280.77,191.88888888888889h17.460000000000004v71.11111111111111h-17.460000000000004Z" fill="#acffae"/>
+<path  d="M48.0,35.0h10v10h-10Z" fill="#7fbdbb" stroke-width="1.5" opacity="1"/>
+<path  d="M95.0,35.0h10v10h-10Z" fill="#acffae" stroke-width="1.5" opacity="1"/>
+<text aria-label="63,85,33,44" text-anchor="start" x="63.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">lime</text>
+<text aria-label="110,247,33,44" text-anchor="start" x="110.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">separately helplessly ADP</text>
+</svg>

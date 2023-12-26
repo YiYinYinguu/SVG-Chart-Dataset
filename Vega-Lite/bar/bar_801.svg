@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="692" height="299" viewBox="0 0 692 299" style="background-color: rgb(255, 255, 255);">
+<line x1="112.5" y1="43.5" x2="112.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="237.5" y1="43.5" x2="237.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="362.5" y1="43.5" x2="362.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="487.5" y1="43.5" x2="487.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="612.5" y1="43.5" x2="612.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="38.5" y1="243.5" x2="687.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="38.5" y1="214.5" x2="687.5" y2="214.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="38.5" y1="186.5" x2="687.5" y2="186.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="38.5" y1="157.5" x2="687.5" y2="157.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="38.5" y1="129.5" x2="687.5" y2="129.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="38.5" y1="100.5" x2="687.5" y2="100.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="38.5" y1="72.5" x2="687.5" y2="72.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="38.5" y1="43.5" x2="687.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="103,115,250,286" text-anchor="end" x="112.88461538461539" y="250.5" transform="rotate(270.0, 115.88461538461539, 250.5)" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">breath</text>
+<text aria-label="228,240,250,274" text-anchor="end" x="237.6923076923077" y="250.5" transform="rotate(270.0, 240.6923076923077, 250.5)" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">call</text>
+<text aria-label="353,365,250,274" text-anchor="end" x="362.5" y="250.5" transform="rotate(270.0, 365.5, 250.5)" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">data</text>
+<text aria-label="478,490,250,292" text-anchor="end" x="487.30769230769226" y="250.5" transform="rotate(270.0, 490.30769230769226, 250.5)" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">mileage</text>
+<text aria-label="603,615,250,298" text-anchor="end" x="612.1153846153845" y="250.5" transform="rotate(270.0, 615.1153846153845, 250.5)" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">porthole</text>
+<line aria-label="112,112,243,248" x1="112.5" y1="243.5" x2="112.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="237,237,243,248" x1="237.5" y1="243.5" x2="237.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="362,362,243,248" x1="362.5" y1="243.5" x2="362.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="487,487,243,248" x1="487.5" y1="243.5" x2="487.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="612,612,243,248" x1="612.5" y1="243.5" x2="612.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,687,243,243" x1="38.5" y1="243.5" x2="687.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="635,687,0,26" text-anchor="end" x="687.0" y="25.196160714285718" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">geez</text>
+<text aria-label="25,31,235,247" text-anchor="end" x="31.5" y="246.5" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,31,206,218" text-anchor="end" x="31.5" y="217.92857142857144" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="19,31,178,190" text-anchor="end" x="31.5" y="189.35714285714286" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="19,31,149,161" text-anchor="end" x="31.5" y="160.78571428571428" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="19,31,121,133" text-anchor="end" x="31.5" y="132.21428571428572" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="19,31,92,104" text-anchor="end" x="31.5" y="103.64285714285714" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="19,31,64,76" text-anchor="end" x="31.5" y="75.07142857142858" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">60</text>
+<text aria-label="19,31,35,47" text-anchor="end" x="31.5" y="46.5" font-family="serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">70</text>
+<line aria-label="33,38,243,243" x1="38.5" y1="243.5" x2="33.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,214,214" x1="38.5" y1="214.5" x2="33.5" y2="214.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,186,186" x1="38.5" y1="186.5" x2="33.5" y2="186.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,157,157" x1="38.5" y1="157.5" x2="33.5" y2="157.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,129,129" x1="38.5" y1="129.5" x2="33.5" y2="129.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,100,100" x1="38.5" y1="100.5" x2="33.5" y2="100.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,72,72" x1="38.5" y1="72.5" x2="33.5" y2="72.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,38,43,43" x1="38.5" y1="43.5" x2="33.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,71,215" text-anchor="middle" x="16.5" y="143.5" transform="rotate(-90.0, 14.5, 143.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">incidentally transmitter</text>
+<line aria-label="38,38,43,243" x1="38.5" y1="243.5" x2="38.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Research Executive: data; incidentally transmitter: 14; deposit: officiis" role="graphics-symbol" aria-roledescription="bar" d="M379.14102564102564,203.0h33.282051282051285v40h-33.282051282051285Z" fill="#77b5b7"/>
+<path aria-label="Research Executive: data; incidentally transmitter: 7; deposit: farad Brand" role="graphics-symbol" aria-roledescription="bar" d="M345.85897435897436,223.0h33.282051282051285v20h-33.282051282051285Z" fill="#bde8be"/>
+<path aria-label="Research Executive: data; incidentally transmitter: 18; deposit: Seamless Account" role="graphics-symbol" aria-roledescription="bar" d="M312.5769230769231,191.57142857142858h33.282051282051285v51.428571428571416h-33.282051282051285Z" fill="#4bbdef"/>
+<path aria-label="Research Executive: call; incidentally transmitter: 34; deposit: officiis" role="graphics-symbol" aria-roledescription="bar" d="M254.33333333333334,145.85714285714283h33.282051282051285v97.14285714285715h-33.282051282051285Z" fill="#77b5b7"/>
+<path aria-label="Research Executive: call; incidentally transmitter: 68; deposit: farad Brand" role="graphics-symbol" aria-roledescription="bar" d="M221.05128205128204,48.714285714285715h33.282051282051285v194.28571428571428h-33.282051282051285Z" fill="#bde8be"/>
+<path aria-label="Research Executive: call; incidentally transmitter: 3; deposit: Seamless Account" role="graphics-symbol" aria-roledescription="bar" d="M187.76923076923077,234.42857142857144h33.282051282051285v8.571428571428555h-33.282051282051285Z" fill="#4bbdef"/>
+<path aria-label="Research Executive: breath; incidentally transmitter: 5; deposit: officiis" role="graphics-symbol" aria-roledescription="bar" d="M129.52564102564102,228.71428571428572h33.282051282051285v14.285714285714278h-33.282051282051285Z" fill="#77b5b7"/>
+<path aria-label="Research Executive: breath; incidentally transmitter: 48; deposit: farad Brand" role="graphics-symbol" aria-roledescription="bar" d="M96.24358974358974,105.85714285714286h33.282051282051285v137.14285714285714h-33.282051282051285Z" fill="#bde8be"/>
+<path aria-label="Research Executive: breath; incidentally transmitter: 40; deposit: Seamless Account" role="graphics-symbol" aria-roledescription="bar" d="M62.96153846153845,128.71428571428572h33.282051282051285v114.28571428571428h-33.282051282051285Z" fill="#4bbdef"/>
+<path aria-label="Research Executive: mileage; incidentally transmitter: 33; deposit: officiis" role="graphics-symbol" aria-roledescription="bar" d="M503.9487179487179,148.71428571428572h33.282051282051285v94.28571428571428h-33.282051282051285Z" fill="#77b5b7"/>
+<path aria-label="Research Executive: mileage; incidentally transmitter: 40; deposit: farad Brand" role="graphics-symbol" aria-roledescription="bar" d="M470.66666666666663,128.71428571428572h33.282051282051285v114.28571428571428h-33.282051282051285Z" fill="#bde8be"/>
+<path aria-label="Research Executive: mileage; incidentally transmitter: 36; deposit: Seamless Account" role="graphics-symbol" aria-roledescription="bar" d="M437.38461538461536,140.14285714285717h33.282051282051285v102.85714285714285h-33.282051282051285Z" fill="#4bbdef"/>
+<path aria-label="Research Executive: porthole; incidentally transmitter: 58; deposit: officiis" role="graphics-symbol" aria-roledescription="bar" d="M628.7564102564102,77.28571428571428h33.282051282051285v165.71428571428572h-33.282051282051285Z" fill="#77b5b7"/>
+<path aria-label="Research Executive: porthole; incidentally transmitter: 39; deposit: farad Brand" role="graphics-symbol" aria-roledescription="bar" d="M595.4743589743589,131.57142857142856h33.282051282051285v111.42857142857143h-33.282051282051285Z" fill="#bde8be"/>
+<path aria-label="Research Executive: porthole; incidentally transmitter: 6; deposit: Seamless Account" role="graphics-symbol" aria-roledescription="bar" d="M562.1923076923076,225.85714285714286h33.282051282051285v17.14285714285714h-33.282051282051285Z" fill="#4bbdef"/>
+<text aria-label="389,402,186,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="395.78205128205127" y="198.481875" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">14</text>
+<text aria-label="359,365,206,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="362.5" y="218.481875" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">7</text>
+<text aria-label="322,335,174,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="329.21794871794873" y="187.0533035714286" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">18</text>
+<text aria-label="264,277,129,142" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="270.974358974359" y="141.33901785714284" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">34</text>
+<text aria-label="231,244,32,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="237.6923076923077" y="44.19616071428572" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">68</text>
+<text aria-label="201,207,217,230" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="204.4102564102564" y="229.91044642857145" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">3</text>
+<text aria-label="142,149,212,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="146.16666666666666" y="224.19616071428572" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">5</text>
+<text aria-label="106,119,89,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="112.88461538461539" y="101.33901785714286" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">48</text>
+<text aria-label="73,86,112,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="79.60256410256409" y="124.19616071428572" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">40</text>
+<text aria-label="514,527,132,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="520.5897435897435" y="144.19616071428572" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">33</text>
+<text aria-label="480,493,112,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="487.30769230769226" y="124.19616071428572" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">40</text>
+<text aria-label="447,460,123,136" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="454.025641025641" y="135.62473214285717" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">36</text>
+<text aria-label="638,651,60,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="645.3974358974358" y="72.76758928571428" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">58</text>
+<text aria-label="605,618,114,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="612.1153846153845" y="127.05330357142857" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">39</text>
+<text aria-label="575,582,209,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="578.8333333333333" y="221.33901785714286" font-family="serif" font-size="12.16875px" fill="#000" opacity="1">6</text>
+</svg>

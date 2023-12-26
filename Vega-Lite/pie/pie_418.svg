@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="384" height="286" viewBox="0 0 384 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">neural</text>
+<path aria-label="Program: 4; generating Oxygen: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.33140991103105,107.95210603663848A75,75,0,0,0,134.5766891334989,65.07816412848271L120.77423420453275,97.24168753519078A40,40,0,0,1,142.51008528588324,120.10778988620719Z" fill="#e1aad3" stroke="black" stroke-width="0"/>
+<path aria-label="Program: 2; generating Oxygen: Agent" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.5766891334989,65.07816412848271A75,75,0,0,0,105.0,59.0L105.0,94.0A40,40,0,0,1,120.77423420453275,97.24168753519078Z" fill="#fbe4ff" stroke="black" stroke-width="0"/>
+<path aria-label="Program: 4; generating Oxygen: Market" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.33534046780562,167.02956136682258A75,75,0,0,0,175.33140991103105,107.95210603663848L142.51008528588324,120.10778988620719A40,40,0,0,1,140.91218158282965,151.61576606230537Z" fill="#29896f" stroke="black" stroke-width="0"/>
+<path aria-label="Program: 7; generating Oxygen: Rand" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.54776577699819,205.56044423000367A75,75,0,0,0,172.33534046780562,167.02956136682258L140.91218158282965,151.61576606230537A40,40,0,0,1,93.02547508106571,172.16557025600196Z" fill="#7e5f69" stroke="black" stroke-width="0"/>
+<path aria-label="Program: 7; generating Oxygen: enable" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.864875675391644,122.64291668715674A75,75,0,0,0,82.54776577699819,205.56044423000367L93.02547508106571,172.16557025600196A40,40,0,0,1,65.46126702687555,127.94288889981694Z" fill="#4fc8f4" stroke="black" stroke-width="0"/>
+<path aria-label="Program: 7; generating Oxygen: implementation" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.864875675391644,122.64291668715674L65.46126702687555,127.94288889981694A40,40,0,0,1,104.99999999999999,94.0Z" fill="#adf54f" stroke="black" stroke-width="0"/>
+<text aria-label="168,172,66,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.2313508506208" y="73.99297728318821" font-family="avenir" font-size="7px" fill="#e1aad3" opacity="1">4</text>
+<text aria-label="121,125,40,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="123.1168668079794" y="47.842305287275494" font-family="avenir" font-size="7px" fill="#fbe4ff" opacity="1">2</text>
+<text aria-label="192,196,133,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.88448564539476" y="140.55842519548415" font-family="avenir" font-size="7px" fill="#29896f" opacity="1">4</text>
+<text aria-label="138,142,211,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="140.49202696019867" y="218.70620304582076" font-family="avenir" font-size="7px" fill="#7e5f69" opacity="1">7</text>
+<text aria-label="26,30,176,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="28.62201682547243" y="183.60676092942663" font-family="avenir" font-size="7px" fill="#4fc8f4" opacity="1">7</text>
+<text aria-label="44,48,60,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="46.37647655499997" y="67.71176895764884" font-family="avenir" font-size="7px" fill="#adf54f" opacity="1">7</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#fbe4ff" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M72.0,274.25A5,5,0,1,1,62.0,274.25A5,5,0,1,1,72.0,274.25" fill="#e1aad3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M124.0,274.25A5,5,0,1,1,114.0,274.25A5,5,0,1,1,124.0,274.25" fill="#29896f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M185.0,274.25A5,5,0,1,1,175.0,274.25A5,5,0,1,1,185.0,274.25" fill="#7e5f69" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M237.0,274.25A5,5,0,1,1,227.0,274.25A5,5,0,1,1,237.0,274.25" fill="#4fc8f4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M297.0,274.25A5,5,0,1,1,287.0,274.25A5,5,0,1,1,297.0,274.25" fill="#adf54f" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Agent</text>
+<text aria-label="77,99,267,278" text-anchor="start" x="77.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="129,162,267,278" text-anchor="start" x="129.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Market</text>
+<text aria-label="190,212,267,278" text-anchor="start" x="190.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rand</text>
+<text aria-label="242,275,267,278" text-anchor="start" x="242.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">enable</text>
+<text aria-label="302,379,267,278" text-anchor="start" x="302.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">implementation</text>
+<text aria-label="5,107,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">generating Oxygen</text>
+</svg>

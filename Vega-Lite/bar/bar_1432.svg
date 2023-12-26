@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="753" height="303" viewBox="0 0 753 303" style="background-color: rgb(255, 255, 255);">
+<line x1="35.5" y1="240.5" x2="748.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="211.5" x2="748.5" y2="211.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="183.5" x2="748.5" y2="183.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="154.5" x2="748.5" y2="154.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="126.5" x2="748.5" y2="126.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="97.5" x2="748.5" y2="97.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="69.5" x2="748.5" y2="69.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="35.5" y1="40.5" x2="748.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="67,80,247,293" text-anchor="end" x="76.94117647058825" y="247.5" transform="rotate(270.0, 80.94117647058825, 247.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">ashtray</text>
+<text aria-label="137,150,247,299" text-anchor="end" x="146.84313725490196" y="247.5" transform="rotate(270.0, 150.84313725490196, 247.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">asterisk</text>
+<text aria-label="207,220,247,280" text-anchor="end" x="216.7450980392157" y="247.5" transform="rotate(270.0, 220.7450980392157, 247.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">crate</text>
+<text aria-label="277,290,247,306" text-anchor="end" x="286.6470588235294" y="247.5" transform="rotate(270.0, 290.6470588235294, 247.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">croissant</text>
+<text aria-label="347,360,247,280" text-anchor="end" x="356.5490196078431" y="247.5" transform="rotate(270.0, 360.5490196078431, 247.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">drunk</text>
+<text aria-label="417,430,247,286" text-anchor="end" x="426.4509803921568" y="247.5" transform="rotate(270.0, 430.4509803921568, 247.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">gadget</text>
+<text aria-label="487,500,247,293" text-anchor="end" x="496.35294117647055" y="247.5" transform="rotate(270.0, 500.35294117647055, 247.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">goggles</text>
+<text aria-label="557,570,247,267" text-anchor="end" x="566.2549019607843" y="247.5" transform="rotate(270.0, 570.2549019607843, 247.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">lab</text>
+<text aria-label="627,640,247,286" text-anchor="end" x="636.156862745098" y="247.5" transform="rotate(270.0, 640.156862745098, 247.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">tandem</text>
+<text aria-label="697,710,247,267" text-anchor="end" x="706.0588235294117" y="247.5" transform="rotate(270.0, 710.0588235294117, 247.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">web</text>
+<line aria-label="76,76,240,245" x1="76.5" y1="240.5" x2="76.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="146,146,240,245" x1="146.5" y1="240.5" x2="146.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="216,216,240,245" x1="216.5" y1="240.5" x2="216.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="286,286,240,245" x1="286.5" y1="240.5" x2="286.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="356,356,240,245" x1="356.5" y1="240.5" x2="356.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="426,426,240,245" x1="426.5" y1="240.5" x2="426.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="496,496,240,245" x1="496.5" y1="240.5" x2="496.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="566,566,240,245" x1="566.5" y1="240.5" x2="566.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="636,636,240,245" x1="636.5" y1="240.5" x2="636.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="706,706,240,245" x1="706.5" y1="240.5" x2="706.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="35,748,240,240" x1="35.5" y1="240.5" x2="748.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="670,748,0,26" text-anchor="end" x="748.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bertha</text>
+<text aria-label="22,28,232,245" text-anchor="end" x="28.5" y="244.5" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="15,28,203,216" text-anchor="end" x="28.5" y="215.92857142857144" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="9,28,175,188" text-anchor="end" x="28.5" y="187.35714285714286" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="9,28,146,159" text-anchor="end" x="28.5" y="158.78571428571428" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="9,28,118,131" text-anchor="end" x="28.5" y="130.21428571428572" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="9,28,89,102" text-anchor="end" x="28.5" y="101.64285714285714" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">250</text>
+<text aria-label="9,28,61,74" text-anchor="end" x="28.5" y="73.07142857142858" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="9,28,32,45" text-anchor="end" x="28.5" y="44.5" font-family="avenir" font-size="12px" font-weight="bold" fill="#000" opacity="1">350</text>
+<line aria-label="30,35,240,240" x1="35.5" y1="240.5" x2="30.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,211,211" x1="35.5" y1="211.5" x2="30.5" y2="211.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,183,183" x1="35.5" y1="183.5" x2="30.5" y2="183.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,154,154" x1="35.5" y1="154.5" x2="30.5" y2="154.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,126,126" x1="35.5" y1="126.5" x2="30.5" y2="126.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,97,97" x1="35.5" y1="97.5" x2="30.5" y2="97.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,69,69" x1="35.5" y1="69.5" x2="30.5" y2="69.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="30,35,40,40" x1="35.5" y1="40.5" x2="30.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Creative invoice Electric: web; New: 174; azure Botsford connect: Shoes Peso South" role="graphics-symbol" aria-roledescription="bar" d="M715.3790849673202,140.57142857142858h18.64052287581699v99.42857142857142h-18.64052287581699Z" fill="#e6deee"/>
+<path aria-label="Creative invoice Electric: web; New: 191; azure Botsford connect: Marketing salmon female" role="graphics-symbol" aria-roledescription="bar" d="M696.7385620915031,130.85714285714286h18.64052287581699v109.14285714285714h-18.64052287581699Z" fill="#d72c5f"/>
+<path aria-label="Creative invoice Electric: web; New: 161; azure Botsford connect: Interactions cyan" role="graphics-symbol" aria-roledescription="bar" d="M678.0980392156862,148.0h18.64052287581699v92h-18.64052287581699Z" fill="#cfee72"/>
+<path aria-label="Creative invoice Electric: lab; New: 35; azure Botsford connect: Shoes Peso South" role="graphics-symbol" aria-roledescription="bar" d="M575.5751633986928,220.0h18.64052287581699v20h-18.64052287581699Z" fill="#e6deee"/>
+<path aria-label="Creative invoice Electric: lab; New: 139; azure Botsford connect: Marketing salmon female" role="graphics-symbol" aria-roledescription="bar" d="M556.9346405228757,160.57142857142856h18.64052287581699v79.42857142857143h-18.64052287581699Z" fill="#d72c5f"/>
+<path aria-label="Creative invoice Electric: lab; New: 137; azure Botsford connect: Interactions cyan" role="graphics-symbol" aria-roledescription="bar" d="M538.2941176470588,161.71428571428572h18.64052287581699v78.28571428571429h-18.64052287581699Z" fill="#cfee72"/>
+<path aria-label="Creative invoice Electric: croissant; New: 89; azure Botsford connect: Shoes Peso South" role="graphics-symbol" aria-roledescription="bar" d="M295.9673202614379,189.14285714285717h18.64052287581699v50.85714285714283h-18.64052287581699Z" fill="#e6deee"/>
+<path aria-label="Creative invoice Electric: croissant; New: 262; azure Botsford connect: Marketing salmon female" role="graphics-symbol" aria-roledescription="bar" d="M277.3267973856209,90.28571428571429h18.64052287581699v149.71428571428572h-18.64052287581699Z" fill="#d72c5f"/>
+<path aria-label="Creative invoice Electric: croissant; New: 99; azure Botsford connect: Interactions cyan" role="graphics-symbol" aria-roledescription="bar" d="M258.6862745098039,183.42857142857142h18.64052287581699v56.571428571428584h-18.64052287581699Z" fill="#cfee72"/>
+<path aria-label="Creative invoice Electric: ashtray; New: 30; azure Botsford connect: Shoes Peso South" role="graphics-symbol" aria-roledescription="bar" d="M86.26143790849675,222.85714285714286h18.64052287581699v17.14285714285714h-18.64052287581699Z" fill="#e6deee"/>
+<path aria-label="Creative invoice Electric: ashtray; New: 4; azure Botsford connect: Marketing salmon female" role="graphics-symbol" aria-roledescription="bar" d="M67.62091503267976,237.71428571428572h18.64052287581699v2.2857142857142776h-18.64052287581699Z" fill="#d72c5f"/>
+<path aria-label="Creative invoice Electric: ashtray; New: 91; azure Botsford connect: Interactions cyan" role="graphics-symbol" aria-roledescription="bar" d="M48.98039215686276,188.0h18.64052287581699v52h-18.64052287581699Z" fill="#cfee72"/>
+<path aria-label="Creative invoice Electric: crate; New: 54; azure Botsford connect: Shoes Peso South" role="graphics-symbol" aria-roledescription="bar" d="M226.06535947712416,209.14285714285714h18.64052287581699v30.85714285714286h-18.64052287581699Z" fill="#e6deee"/>
+<path aria-label="Creative invoice Electric: crate; New: 109; azure Botsford connect: Marketing salmon female" role="graphics-symbol" aria-roledescription="bar" d="M207.4248366013072,177.71428571428572h18.64052287581699v62.28571428571428h-18.64052287581699Z" fill="#d72c5f"/>
+<path aria-label="Creative invoice Electric: crate; New: 52; azure Botsford connect: Interactions cyan" role="graphics-symbol" aria-roledescription="bar" d="M188.7843137254902,210.28571428571428h18.64052287581699v29.714285714285722h-18.64052287581699Z" fill="#cfee72"/>
+<path aria-label="Creative invoice Electric: tandem; New: 181; azure Botsford connect: Shoes Peso South" role="graphics-symbol" aria-roledescription="bar" d="M645.4771241830065,136.57142857142856h18.64052287581699v103.42857142857143h-18.64052287581699Z" fill="#e6deee"/>
+<path aria-label="Creative invoice Electric: tandem; New: 106; azure Botsford connect: Marketing salmon female" role="graphics-symbol" aria-roledescription="bar" d="M626.8366013071894,179.42857142857142h18.64052287581699v60.571428571428584h-18.64052287581699Z" fill="#d72c5f"/>
+<path aria-label="Creative invoice Electric: tandem; New: 26; azure Botsford connect: Interactions cyan" role="graphics-symbol" aria-roledescription="bar" d="M608.1960784313725,225.14285714285714h18.64052287581699v14.857142857142861h-18.64052287581699Z" fill="#cfee72"/>
+<path aria-label="Creative invoice Electric: gadget; New: 303; azure Botsford connect: Shoes Peso South" role="graphics-symbol" aria-roledescription="bar" d="M435.7712418300653,66.85714285714285h18.64052287581699v173.14285714285717h-18.64052287581699Z" fill="#e6deee"/>
+<path aria-label="Creative invoice Electric: gadget; New: 61; azure Botsford connect: Marketing salmon female" role="graphics-symbol" aria-roledescription="bar" d="M417.1307189542483,205.14285714285714h18.64052287581699v34.85714285714286h-18.64052287581699Z" fill="#d72c5f"/>
+<path aria-label="Creative invoice Electric: gadget; New: 42; azure Botsford connect: Interactions cyan" role="graphics-symbol" aria-roledescription="bar" d="M398.4901960784313,216.0h18.64052287581699v24h-18.64052287581699Z" fill="#cfee72"/>
+<path aria-label="Creative invoice Electric: goggles; New: 186; azure Botsford connect: Shoes Peso South" role="graphics-symbol" aria-roledescription="bar" d="M505.6732026143791,133.71428571428572h18.64052287581699v106.28571428571429h-18.64052287581699Z" fill="#e6deee"/>
+<path aria-label="Creative invoice Electric: goggles; New: 75; azure Botsford connect: Marketing salmon female" role="graphics-symbol" aria-roledescription="bar" d="M487.0326797385621,197.14285714285714h18.64052287581699v42.85714285714286h-18.64052287581699Z" fill="#d72c5f"/>
+<path aria-label="Creative invoice Electric: goggles; New: 121; azure Botsford connect: Interactions cyan" role="graphics-symbol" aria-roledescription="bar" d="M468.3921568627451,170.85714285714286h18.64052287581699v69.14285714285714h-18.64052287581699Z" fill="#cfee72"/>
+<path aria-label="Creative invoice Electric: drunk; New: 226; azure Botsford connect: Shoes Peso South" role="graphics-symbol" aria-roledescription="bar" d="M365.8692810457516,110.85714285714286h18.64052287581699v129.14285714285714h-18.64052287581699Z" fill="#e6deee"/>
+<path aria-label="Creative invoice Electric: drunk; New: 123; azure Botsford connect: Marketing salmon female" role="graphics-symbol" aria-roledescription="bar" d="M347.2287581699346,169.71428571428572h18.64052287581699v70.28571428571428h-18.64052287581699Z" fill="#d72c5f"/>
+<path aria-label="Creative invoice Electric: drunk; New: 14; azure Botsford connect: Interactions cyan" role="graphics-symbol" aria-roledescription="bar" d="M328.5882352941176,232.0h18.64052287581699v8h-18.64052287581699Z" fill="#cfee72"/>
+<path aria-label="Creative invoice Electric: asterisk; New: 63; azure Botsford connect: Shoes Peso South" role="graphics-symbol" aria-roledescription="bar" d="M156.16339869281046,204.0h18.64052287581699v36h-18.64052287581699Z" fill="#e6deee"/>
+<path aria-label="Creative invoice Electric: asterisk; New: 166; azure Botsford connect: Marketing salmon female" role="graphics-symbol" aria-roledescription="bar" d="M137.52287581699346,145.14285714285714h18.64052287581699v94.85714285714286h-18.64052287581699Z" fill="#d72c5f"/>
+<path aria-label="Creative invoice Electric: asterisk; New: 287; azure Botsford connect: Interactions cyan" role="graphics-symbol" aria-roledescription="bar" d="M118.88235294117648,76.0h18.64052287581699v164h-18.64052287581699Z" fill="#cfee72"/>
+</svg>

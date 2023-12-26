@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="320" height="239" viewBox="0 0 320 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="137,293,0,26" text-anchor="middle" x="215.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Hybrid black</text>
+<path aria-label="Coupe Wagon: 123; if Gasoline East: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.87909212640847,176.02371717210121A75,75,0,0,0,273.7390987295445,180.63387481692706L215.0,134.0Z" fill="#fd4cfb" stroke="white" stroke-width="0"/>
+<path aria-label="Coupe Wagon: 50; if Gasoline East: pink" role="graphics-symbol" aria-roledescription="arc mark"  d="M215.0,59.0A75,75,0,0,0,163.1939268456003,79.76780675354365L215.0,134.0Z" fill="#b5db64" stroke="white" stroke-width="0"/>
+<path aria-label="Coupe Wagon: 58; if Gasoline East: Sedan" role="graphics-symbol" aria-roledescription="arc mark"  d="M273.7390987295445,180.63387481692706A75,75,0,0,0,288.29704864438435,118.1084091412234L215.0,134.0Z" fill="#da1b5a" stroke="white" stroke-width="0"/>
+<path aria-label="Coupe Wagon: 92; if Gasoline East: Towels" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.1939268456003,79.76780675354365A75,75,0,0,0,152.87909212640847,176.02371717210121L215.0,134.0Z" fill="#c3ff5a" stroke="white" stroke-width="0"/>
+<path aria-label="Coupe Wagon: 89; if Gasoline East: Director" role="graphics-symbol" aria-roledescription="arc mark"  d="M288.29704864438435,118.1084091412234A75,75,0,0,0,215.0,59.0L215.0,134.0Z" fill="#aee3f7" stroke="white" stroke-width="0"/>
+<text aria-label="204,218,217,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="211.56948004307128" y="225.93459586179898" font-family="monospace" font-size="8px" fill="#fd4cfb" opacity="1">123</text>
+<text aria-label="177,186,44,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="181.5117697587442" y="52.46235318547308" font-family="monospace" font-size="8px" fill="#b5db64" opacity="1">50</text>
+<text aria-label="298,307,148,157" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="302.65541686440633" y="156.40901502589367" font-family="monospace" font-size="8px" fill="#da1b5a" opacity="1">58</text>
+<text aria-label="121,130,118,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="125.51234371827165" y="126.41045500541115" font-family="monospace" font-size="8px" fill="#c3ff5a" opacity="1">92</text>
+<text aria-label="266,275,57,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.49649629513374" y="65.94183911653164" font-family="monospace" font-size="8px" fill="#aee3f7" opacity="1">89</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#aee3f7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#da1b5a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#fd4cfb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#c3ff5a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#b5db64" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Director</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Sedan</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Towels</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">pink</text>
+<text aria-label="5,101,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">if Gasoline East</text>
+</svg>

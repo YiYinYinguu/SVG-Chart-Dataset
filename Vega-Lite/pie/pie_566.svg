@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="234,299,0,26" text-anchor="end" x="299.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">often</text>
+<path aria-label="weakly: 46; Awesome Bedfordshire Toyota: bright" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.9056837102069,81.02837006737086A75,75,0,0,0,34.77019917814792,107.67937925270408L59.1165301297233,116.80386111176666A49,49,0,0,1,70.31171335733518,99.39186844401563Z" fill="#df8b8c" stroke="white" stroke-width="4"/>
+<path aria-label="weakly: 85; Awesome Bedfordshire Toyota: deliverables" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,51.9056837102069,81.02837006737086L70.31171335733518,99.39186844401563A49,49,0,0,1,104.99999999999999,85.0Z" fill="#fbc9bd" stroke="white" stroke-width="4"/>
+<path aria-label="weakly: 71; Awesome Bedfordshire Toyota: bandwidth" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.77019917814792,107.67937925270408A75,75,0,0,0,33.31501373537937,156.05136604025137L58.16580897378119,148.4068924796309A49,49,0,0,1,59.1165301297233,116.80386111176666Z" fill="#11dbb4" stroke="white" stroke-width="4"/>
+<path aria-label="weakly: 396; Awesome Bedfordshire Toyota: Tasty" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.31501373537937,156.05136604025137A75,75,0,1,0,156.09768661733617,79.09985043411534L138.3838219233263,98.13190228362203A49,49,0,1,1,58.16580897378119,148.4068924796309Z" fill="#c1fb60" stroke="white" stroke-width="4"/>
+<path aria-label="weakly: 81; Awesome Bedfordshire Toyota: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.09768661733617,79.09985043411534A75,75,0,0,0,105.0,59.0L105.0,85.0A49,49,0,0,1,138.3838219233263,98.13190228362203Z" fill="#cbd38c" stroke="white" stroke-width="4"/>
+<text aria-label="24,33,79,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="29.297416855784505" y="87.32640443430196" font-family="monospace" font-size="8px" fill="#df8b8c" opacity="1">46</text>
+<text aria-label="66,75,44,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="70.51040760406076" y="52.87077519691424" font-family="monospace" font-size="8px" fill="#fbc9bd" opacity="1">85</text>
+<text aria-label="10,19,125,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.040697402400497" y="133.29373390932668" font-family="monospace" font-size="8px" fill="#11dbb4" opacity="1">71</text>
+<text aria-label="146,159,204,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.7947084718115" y="212.26051299391153" font-family="monospace" font-size="8px" fill="#c1fb60" opacity="1">396</text>
+<text aria-label="133,142,44,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.94528681681538" y="52.24674288985668" font-family="monospace" font-size="8px" fill="#cbd38c" opacity="1">81</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#cbd38c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#c1fb60" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#11dbb4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#df8b8c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#fbc9bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Tasty</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">bandwidth</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">bright</text>
+<text aria-label="239,305,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">deliverables</text>
+</svg>

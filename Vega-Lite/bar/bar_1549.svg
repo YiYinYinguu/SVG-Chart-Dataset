@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="573" height="314" viewBox="0 0 573 314" style="background-color: rgb(255, 255, 255);">
+<line x1="105.5" y1="34.5" x2="105.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="205.5" y1="34.5" x2="205.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="306.5" y1="34.5" x2="306.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="407.5" y1="34.5" x2="407.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="507.5" y1="34.5" x2="507.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="234.5" x2="568.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="203.5" x2="568.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="172.5" x2="568.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="142.5" x2="568.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="111.5" x2="568.5" y2="111.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="80.5" x2="568.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="45.5" y1="49.5" x2="568.5" y2="49.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="95,109,241,262" text-anchor="end" x="105.34615384615384" y="241.5" transform="rotate(270.0, 109.34615384615384, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">can</text>
+<text aria-label="195,209,241,290" text-anchor="end" x="205.92307692307693" y="241.5" transform="rotate(270.0, 209.92307692307693, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">derrick</text>
+<text aria-label="296,310,241,297" text-anchor="end" x="306.5" y="241.5" transform="rotate(270.0, 310.5, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">mushroom</text>
+<text aria-label="397,411,241,290" text-anchor="end" x="407.07692307692304" y="241.5" transform="rotate(270.0, 411.07692307692304, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">neonate</text>
+<text aria-label="497,511,241,276" text-anchor="end" x="507.65384615384613" y="241.5" transform="rotate(270.0, 511.65384615384613, 241.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">nerve</text>
+<line aria-label="105,105,234,239" x1="105.5" y1="234.5" x2="105.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="205,205,234,239" x1="205.5" y1="234.5" x2="205.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="306,306,234,239" x1="306.5" y1="234.5" x2="306.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="407,407,234,239" x1="407.5" y1="234.5" x2="407.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="507,507,234,239" x1="507.5" y1="234.5" x2="507.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="45,568,234,234" x1="45.5" y1="234.5" x2="568.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="261,352,0,26" text-anchor="middle" x="306.5" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">upgrade</text>
+<text aria-label="36,43,225,239" text-anchor="end" x="43.5" y="238.5" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="22,43,194,208" text-anchor="end" x="43.5" y="207.73076923076923" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="22,43,163,177" text-anchor="end" x="43.5" y="176.96153846153845" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,43,133,147" text-anchor="end" x="43.5" y="146.19230769230768" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="22,43,102,116" text-anchor="end" x="43.5" y="115.42307692307692" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="22,43,71,85" text-anchor="end" x="43.5" y="84.65384615384615" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="22,43,40,54" text-anchor="end" x="43.5" y="53.88461538461537" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="2,14,104,164" text-anchor="middle" x="16.62939453125" y="134.5" transform="rotate(-90.0, 14.62939453125, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Strategist</text>
+<line aria-label="45,45,34,234" x1="45.5" y1="234.5" x2="45.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Jannie Rubber very: mushroom; Strategist: 304; Audi Dynamic Cargo: Awesome Lempira" role="graphics-symbol" aria-roledescription="bar" d="M293.0897435897436,140.46153846153848h26.82051282051282v93.53846153846152h-26.82051282051282Z" fill="#99baa6"/>
+<path aria-label="Jannie Rubber very: mushroom; Strategist: 289; Audi Dynamic Cargo: Avon" role="graphics-symbol" aria-roledescription="bar" d="M266.2692307692308,145.07692307692307h26.82051282051282v88.92307692307693h-26.82051282051282Z" fill="#45a84d"/>
+<path aria-label="Jannie Rubber very: mushroom; Strategist: 406; Audi Dynamic Cargo: channels" role="graphics-symbol" aria-roledescription="bar" d="M319.9102564102564,109.07692307692308h26.82051282051282v124.92307692307692h-26.82051282051282Z" fill="#df60aa"/>
+<path aria-label="Jannie Rubber very: can; Strategist: 224; Audi Dynamic Cargo: Awesome Lempira" role="graphics-symbol" aria-roledescription="bar" d="M91.93589743589743,165.0769230769231h26.82051282051282v68.9230769230769h-26.82051282051282Z" fill="#99baa6"/>
+<path aria-label="Jannie Rubber very: can; Strategist: 448; Audi Dynamic Cargo: Avon" role="graphics-symbol" aria-roledescription="bar" d="M65.11538461538461,96.15384615384616h26.82051282051282v137.84615384615384h-26.82051282051282Z" fill="#45a84d"/>
+<path aria-label="Jannie Rubber very: can; Strategist: 404; Audi Dynamic Cargo: channels" role="graphics-symbol" aria-roledescription="bar" d="M118.75641025641025,109.69230769230771h26.82051282051282v124.30769230769229h-26.82051282051282Z" fill="#df60aa"/>
+<path aria-label="Jannie Rubber very: derrick; Strategist: 464; Audi Dynamic Cargo: Awesome Lempira" role="graphics-symbol" aria-roledescription="bar" d="M192.51282051282053,91.23076923076924h26.82051282051282v142.76923076923077h-26.82051282051282Z" fill="#99baa6"/>
+<path aria-label="Jannie Rubber very: derrick; Strategist: 270; Audi Dynamic Cargo: Avon" role="graphics-symbol" aria-roledescription="bar" d="M165.69230769230768,150.9230769230769h26.82051282051282v83.0769230769231h-26.82051282051282Z" fill="#45a84d"/>
+<path aria-label="Jannie Rubber very: derrick; Strategist: 283; Audi Dynamic Cargo: channels" role="graphics-symbol" aria-roledescription="bar" d="M219.33333333333334,146.9230769230769h26.82051282051282v87.07692307692308h-26.82051282051282Z" fill="#df60aa"/>
+<path aria-label="Jannie Rubber very: nerve; Strategist: 472; Audi Dynamic Cargo: Awesome Lempira" role="graphics-symbol" aria-roledescription="bar" d="M494.2435897435897,88.76923076923077h26.82051282051282v145.23076923076923h-26.82051282051282Z" fill="#99baa6"/>
+<path aria-label="Jannie Rubber very: nerve; Strategist: 109; Audi Dynamic Cargo: Avon" role="graphics-symbol" aria-roledescription="bar" d="M467.4230769230769,200.46153846153845h26.82051282051282v33.53846153846155h-26.82051282051282Z" fill="#45a84d"/>
+<path aria-label="Jannie Rubber very: nerve; Strategist: 13; Audi Dynamic Cargo: channels" role="graphics-symbol" aria-roledescription="bar" d="M521.0641025641025,230.0h26.82051282051282v4h-26.82051282051282Z" fill="#df60aa"/>
+<path aria-label="Jannie Rubber very: neonate; Strategist: 485; Audi Dynamic Cargo: Awesome Lempira" role="graphics-symbol" aria-roledescription="bar" d="M393.66666666666663,84.76923076923077h26.82051282051282v149.23076923076923h-26.82051282051282Z" fill="#99baa6"/>
+<path aria-label="Jannie Rubber very: neonate; Strategist: 602; Audi Dynamic Cargo: Avon" role="graphics-symbol" aria-roledescription="bar" d="M366.8461538461538,48.76923076923078h26.82051282051282v185.23076923076923h-26.82051282051282Z" fill="#45a84d"/>
+<path aria-label="Jannie Rubber very: neonate; Strategist: 574; Audi Dynamic Cargo: channels" role="graphics-symbol" aria-roledescription="bar" d="M420.48717948717945,57.38461538461538h26.82051282051282v176.6153846153846h-26.82051282051282Z" fill="#df60aa"/>
+</svg>

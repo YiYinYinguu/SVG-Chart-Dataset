@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="290" height="239" viewBox="0 0 290 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.74313193139011" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Small</text>
+<path aria-label="archive Barium: 760; Maserati North: corporis" role="graphics-symbol" aria-roledescription="arc mark"  d="M112.417257040617,208.7249544133327A75,75,0,0,0,173.25750100965354,100.81222276294399L141.87066720514855,116.2998521402368A40,40,0,0,1,109.42253708832907,173.8533090204441Z" fill="#b445fe" stroke="black" stroke-width="0"/>
+<path aria-label="archive Barium: 401; Maserati North: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M45.4423146439895,178.24665800173423A75,75,0,0,0,112.417257040617,208.7249544133327L109.42253708832907,173.8533090204441A40,40,0,0,1,73.70256781012773,157.59821760092493Z" fill="#7ca1fc" stroke="black" stroke-width="0"/>
+<path aria-label="archive Barium: 436; Maserati North: override" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.61309447417999,99.10331284053103A75,75,0,0,0,45.4423146439895,178.24665800173423L73.70256781012773,157.59821760092493A40,40,0,0,1,70.59365038622933,115.38843351494988Z" fill="#f4b729" stroke="black" stroke-width="0"/>
+<path aria-label="archive Barium: 435; Maserati North: Hatchback" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.25750100965354,100.81222276294399A75,75,0,0,0,106.0,59.0L106.0,94.0A40,40,0,0,1,141.87066720514855,116.2998521402368Z" fill="#46512a" stroke="black" stroke-width="0"/>
+<path aria-label="archive Barium: 425; Maserati North: scupper" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.99999999999999,59.0A75,75,0,0,0,39.61309447417999,99.10331284053103L70.59365038622933,115.38843351494988A40,40,0,0,1,105.99999999999999,94.0Z" fill="#d28bf6" stroke="black" stroke-width="0"/>
+<text aria-label="173,194,169,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.39850729041524" y="182.20038523174549" font-family="monospace" font-size="13px" fill="#b445fe" opacity="1">760</text>
+<text aria-label="58,79,206,220" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="68.72211767122616" y="219.91678392785016" font-family="monospace" font-size="13px" fill="#7ca1fc" opacity="1">401</text>
+<text aria-label="5,26,131,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.24313193139011" y="144.61094807982613" font-family="monospace" font-size="13px" fill="#f4b729" opacity="1">436</text>
+<text aria-label="143,164,48,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.51694465344943" y="61.56610718535249" font-family="monospace" font-size="13px" fill="#46512a" opacity="1">435</text>
+<text aria-label="48,69,47,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="59.464219213720334" y="60.96480605196528" font-family="monospace" font-size="13px" fill="#d28bf6" opacity="1">425</text>
+<path  d="M235.0,40.0A5,5,0,1,1,225.0,40.0A5,5,0,1,1,235.0,40.0" fill="#46512a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M235.0,56.0A5,5,0,1,1,225.0,56.0A5,5,0,1,1,235.0,56.0" fill="#b445fe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M235.0,72.0A5,5,0,1,1,225.0,72.0A5,5,0,1,1,235.0,72.0" fill="#7ca1fc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M235.0,88.0A5,5,0,1,1,225.0,88.0A5,5,0,1,1,235.0,88.0" fill="#f4b729" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M235.0,104.0A5,5,0,1,1,225.0,104.0A5,5,0,1,1,235.0,104.0" fill="#d28bf6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="240,289,33,44" text-anchor="start" x="240.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hatchback</text>
+<text aria-label="240,284,49,60" text-anchor="start" x="240.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">corporis</text>
+<text aria-label="240,278,65,76" text-anchor="start" x="240.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="240,284,81,92" text-anchor="start" x="240.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">override</text>
+<text aria-label="240,278,97,108" text-anchor="start" x="240.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">scupper</text>
+</svg>

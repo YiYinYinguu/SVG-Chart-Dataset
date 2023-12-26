@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="443" height="313" viewBox="0 0 443 313" style="background-color: rgb(255, 255, 255);">
+<line x1="80.5" y1="42.5" x2="80.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="127.5" y1="42.5" x2="127.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="174.5" y1="42.5" x2="174.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="221.5" y1="42.5" x2="221.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="268.5" y1="42.5" x2="268.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="315.5" y1="42.5" x2="315.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="362.5" y1="42.5" x2="362.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="409.5" y1="42.5" x2="409.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="242.5" x2="438.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="192.5" x2="438.5" y2="192.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="142.5" x2="438.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="92.5" x2="438.5" y2="92.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="52.5" y1="42.5" x2="438.5" y2="42.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="68,85,249,292" text-anchor="end" x="80.24390243902438" y="249.5" transform="rotate(270.0, 85.24390243902438, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">dozen</text>
+<text aria-label="115,132,249,283" text-anchor="end" x="127.3170731707317" y="249.5" transform="rotate(270.0, 132.3170731707317, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">lode</text>
+<text aria-label="162,179,249,283" text-anchor="end" x="174.390243902439" y="249.5" transform="rotate(270.0, 179.390243902439, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">mode</text>
+<text aria-label="209,226,249,283" text-anchor="end" x="221.46341463414637" y="249.5" transform="rotate(270.0, 226.46341463414637, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">nose</text>
+<text aria-label="256,273,249,300" text-anchor="end" x="268.5365853658537" y="249.5" transform="rotate(270.0, 273.5365853658537, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">pickle</text>
+<text aria-label="303,320,249,300" text-anchor="end" x="315.609756097561" y="249.5" transform="rotate(270.0, 320.609756097561, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">regret</text>
+<text aria-label="350,367,249,292" text-anchor="end" x="362.6829268292683" y="249.5" transform="rotate(270.0, 367.6829268292683, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">tweet</text>
+<text aria-label="397,414,249,309" text-anchor="end" x="409.75609756097566" y="249.5" transform="rotate(270.0, 414.75609756097566, 249.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">venture</text>
+<line aria-label="80,80,242,247" x1="80.5" y1="242.5" x2="80.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="127,127,242,247" x1="127.5" y1="242.5" x2="127.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="174,174,242,247" x1="174.5" y1="242.5" x2="174.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="221,221,242,247" x1="221.5" y1="242.5" x2="221.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="268,268,242,247" x1="268.5" y1="242.5" x2="268.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="315,315,242,247" x1="315.5" y1="242.5" x2="315.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="362,362,242,247" x1="362.5" y1="242.5" x2="362.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="409,409,242,247" x1="409.5" y1="242.5" x2="409.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,438,242,242" x1="52.5" y1="242.5" x2="438.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="373,438,0,26" text-anchor="end" x="438.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Dinar</text>
+<text aria-label="42,50,231,248" text-anchor="end" x="50.5" y="247.5" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="25,50,181,198" text-anchor="end" x="50.5" y="197.5" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="25,50,131,148" text-anchor="end" x="50.5" y="147.5" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="25,50,81,98" text-anchor="end" x="50.5" y="97.5" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="25,50,31,48" text-anchor="end" x="50.5" y="47.5" font-family="avenir" font-size="16px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="2,14,127,157" text-anchor="middle" x="16.8984375" y="142.5" transform="rotate(-90.0, 14.8984375, 142.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">weber</text>
+<line aria-label="52,52,42,242" x1="52.5" y1="242.5" x2="52.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="input: venture; weber: 28; Central instrumentation: energetically Optimization" role="graphics-symbol" aria-roledescription="bar" d="M416.03252032520334,235.0h12.552845528455286v7h-12.552845528455286Z" fill="#24f0c3"/>
+<path aria-label="input: venture; weber: 752; Central instrumentation: Niobium" role="graphics-symbol" aria-roledescription="bar" d="M403.47967479674804,54.000000000000014h12.552845528455286v188h-12.552845528455286Z" fill="#3bfce0"/>
+<path aria-label="input: venture; weber: 6; Central instrumentation: Intranet" role="graphics-symbol" aria-roledescription="bar" d="M390.92682926829275,240.5h12.552845528455286v1.5h-12.552845528455286Z" fill="#0eed6b"/>
+<path aria-label="input: regret; weber: 670; Central instrumentation: energetically Optimization" role="graphics-symbol" aria-roledescription="bar" d="M321.8861788617886,74.5h12.552845528455286v167.5h-12.552845528455286Z" fill="#24f0c3"/>
+<path aria-label="input: regret; weber: 653; Central instrumentation: Niobium" role="graphics-symbol" aria-roledescription="bar" d="M309.3333333333333,78.75h12.552845528455286v163.25h-12.552845528455286Z" fill="#3bfce0"/>
+<path aria-label="input: regret; weber: 250; Central instrumentation: Intranet" role="graphics-symbol" aria-roledescription="bar" d="M296.780487804878,179.5h12.552845528455286v62.5h-12.552845528455286Z" fill="#0eed6b"/>
+<path aria-label="input: lode; weber: 89; Central instrumentation: energetically Optimization" role="graphics-symbol" aria-roledescription="bar" d="M133.59349593495935,219.75h12.552845528455286v22.25h-12.552845528455286Z" fill="#24f0c3"/>
+<path aria-label="input: lode; weber: 203; Central instrumentation: Niobium" role="graphics-symbol" aria-roledescription="bar" d="M121.04065040650406,191.25000000000003h12.552845528455286v50.74999999999997h-12.552845528455286Z" fill="#3bfce0"/>
+<path aria-label="input: lode; weber: 551; Central instrumentation: Intranet" role="graphics-symbol" aria-roledescription="bar" d="M108.48780487804878,104.25h12.552845528455286v137.75h-12.552845528455286Z" fill="#0eed6b"/>
+<path aria-label="input: mode; weber: 471; Central instrumentation: energetically Optimization" role="graphics-symbol" aria-roledescription="bar" d="M180.66666666666669,124.25h12.552845528455286v117.75h-12.552845528455286Z" fill="#24f0c3"/>
+<path aria-label="input: mode; weber: 662; Central instrumentation: Niobium" role="graphics-symbol" aria-roledescription="bar" d="M168.1138211382114,76.5h12.552845528455286v165.5h-12.552845528455286Z" fill="#3bfce0"/>
+<path aria-label="input: mode; weber: 222; Central instrumentation: Intranet" role="graphics-symbol" aria-roledescription="bar" d="M155.5609756097561,186.49999999999997h12.552845528455286v55.50000000000003h-12.552845528455286Z" fill="#0eed6b"/>
+<path aria-label="input: dozen; weber: 132; Central instrumentation: energetically Optimization" role="graphics-symbol" aria-roledescription="bar" d="M86.52032520325203,209.0h12.552845528455286v33h-12.552845528455286Z" fill="#24f0c3"/>
+<path aria-label="input: dozen; weber: 120; Central instrumentation: Niobium" role="graphics-symbol" aria-roledescription="bar" d="M73.96747967479675,212.0h12.552845528455286v30h-12.552845528455286Z" fill="#3bfce0"/>
+<path aria-label="input: dozen; weber: 377; Central instrumentation: Intranet" role="graphics-symbol" aria-roledescription="bar" d="M61.414634146341456,147.75h12.552845528455286v94.24999999999999h-12.552845528455286Z" fill="#0eed6b"/>
+<path aria-label="input: tweet; weber: 504; Central instrumentation: energetically Optimization" role="graphics-symbol" aria-roledescription="bar" d="M368.959349593496,116.0h12.552845528455286v126h-12.552845528455286Z" fill="#24f0c3"/>
+<path aria-label="input: tweet; weber: 356; Central instrumentation: Niobium" role="graphics-symbol" aria-roledescription="bar" d="M356.4065040650407,153.0h12.552845528455286v89.00000000000001h-12.552845528455286Z" fill="#3bfce0"/>
+<path aria-label="input: tweet; weber: 141; Central instrumentation: Intranet" role="graphics-symbol" aria-roledescription="bar" d="M343.8536585365854,206.75h12.552845528455286v35.25h-12.552845528455286Z" fill="#0eed6b"/>
+<path aria-label="input: pickle; weber: 68; Central instrumentation: energetically Optimization" role="graphics-symbol" aria-roledescription="bar" d="M274.8130081300813,225.0h12.552845528455286v17h-12.552845528455286Z" fill="#24f0c3"/>
+<path aria-label="input: pickle; weber: 29; Central instrumentation: Niobium" role="graphics-symbol" aria-roledescription="bar" d="M262.260162601626,234.75h12.552845528455286v7.25h-12.552845528455286Z" fill="#3bfce0"/>
+<path aria-label="input: pickle; weber: 225; Central instrumentation: Intranet" role="graphics-symbol" aria-roledescription="bar" d="M249.70731707317074,185.75h12.552845528455286v56.25h-12.552845528455286Z" fill="#0eed6b"/>
+<path aria-label="input: nose; weber: 567; Central instrumentation: energetically Optimization" role="graphics-symbol" aria-roledescription="bar" d="M227.739837398374,100.25h12.552845528455286v141.75h-12.552845528455286Z" fill="#24f0c3"/>
+<path aria-label="input: nose; weber: 26; Central instrumentation: Niobium" role="graphics-symbol" aria-roledescription="bar" d="M215.18699186991873,235.5h12.552845528455286v6.5h-12.552845528455286Z" fill="#3bfce0"/>
+<path aria-label="input: nose; weber: 434; Central instrumentation: Intranet" role="graphics-symbol" aria-roledescription="bar" d="M202.63414634146343,133.5h12.552845528455286v108.5h-12.552845528455286Z" fill="#0eed6b"/>
+</svg>

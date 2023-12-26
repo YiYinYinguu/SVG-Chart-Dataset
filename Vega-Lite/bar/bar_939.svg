@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="658" height="301" viewBox="0 0 658 301" style="background-color: rgb(255, 255, 255);">
+<text aria-label="123,134,241,285" text-anchor="end" x="131.33333333333331" y="241.5" transform="rotate(270.0, 134.33333333333331, 241.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">facility</text>
+<text aria-label="332,343,241,280" text-anchor="end" x="340.0" y="241.5" transform="rotate(270.0, 343.0, 241.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">outback</text>
+<text aria-label="540,551,241,302" text-anchor="end" x="548.6666666666666" y="241.5" transform="rotate(270.0, 551.6666666666666, 241.5)" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">prosecution</text>
+<line aria-label="131,131,234,239" x1="131.5" y1="234.5" x2="131.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="340,340,234,239" x1="340.5" y1="234.5" x2="340.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="548,548,234,239" x1="548.5" y1="234.5" x2="548.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,653,234,234" x1="27.5" y1="234.5" x2="653.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,356,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">eyeballs Gasoline Vacaville</text>
+<text aria-label="15,20,227,238" text-anchor="end" x="20.5" y="237.5" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="9,20,165,176" text-anchor="end" x="20.5" y="175.0" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="4,20,102,113" text-anchor="end" x="20.5" y="112.5" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="4,20,40,51" text-anchor="end" x="20.5" y="50.0" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="22,27,234,234" x1="27.5" y1="234.5" x2="22.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="22,27,172,172" x1="27.5" y1="172.5" x2="22.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="22,27,109,109" x1="27.5" y1="109.5" x2="22.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="22,27,47,47" x1="27.5" y1="47.5" x2="22.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,27,34,234" x1="27.5" y1="234.5" x2="27.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="transmit: facility; Granite Recumbent: 16; Lakes: harness BMW implement" role="graphics-symbol" aria-roledescription="bar" d="M46.82333333333334,125.25000000000001h169.01999999999998v19.999999999999986h-169.01999999999998Z" fill="#9ffc3b"/>
+<path aria-label="transmit: facility; Granite Recumbent: 71; Lakes: unabashedly Frozen" role="graphics-symbol" aria-roledescription="bar" d="M46.82333333333334,145.25h169.01999999999998v88.75h-169.01999999999998Z" fill="#1eb458"/>
+<path aria-label="transmit: outback; Granite Recumbent: 92; Lakes: harness BMW implement" role="graphics-symbol" aria-roledescription="bar" d="M255.48999999999998,45.25h169.01999999999998v115h-169.01999999999998Z" fill="#9ffc3b"/>
+<path aria-label="transmit: outback; Granite Recumbent: 59; Lakes: unabashedly Frozen" role="graphics-symbol" aria-roledescription="bar" d="M255.48999999999998,160.25h169.01999999999998v73.75h-169.01999999999998Z" fill="#1eb458"/>
+<path aria-label="transmit: prosecution; Granite Recumbent: 13; Lakes: harness BMW implement" role="graphics-symbol" aria-roledescription="bar" d="M464.15666666666664,205.25h169.01999999999998v16.25h-169.01999999999998Z" fill="#9ffc3b"/>
+<path aria-label="transmit: prosecution; Granite Recumbent: 10; Lakes: unabashedly Frozen" role="graphics-symbol" aria-roledescription="bar" d="M464.15666666666664,221.5h169.01999999999998v12.5h-169.01999999999998Z" fill="#1eb458"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cheese vertical</text>
+<path aria-label="delectus: 49; payment matrix: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,64.98042921787496,101.56945566673352L79.92106897653497,125.25019221781967A47,47,0,0,1,104.99999999999999,118.0Z" fill="#e365eb" stroke="white" stroke-width="2"/>
+<path aria-label="delectus: 111; payment matrix: Fresh" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.27284913650898,128.87602403710395A75,75,0,0,0,51.286121686572514,217.3432830125347L71.33930292358545,197.8017906878551A47,47,0,0,1,63.81098545887896,142.36230839658515Z" fill="#cae9fd" stroke="white" stroke-width="2"/>
+<path aria-label="delectus: 343; payment matrix: Folk" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.286121686572514,217.3432830125347A75,75,0,1,0,105.0,90.0L105.0,118.0A47,47,0,1,1,71.33930292358545,197.8017906878551Z" fill="#f6d9cb" stroke="white" stroke-width="2"/>
+<path aria-label="delectus: 44; payment matrix: magenta" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.98042921787496,101.56945566673352A75,75,0,0,0,39.27284913650898,128.87602403710395L63.81098545887896,142.36230839658515A47,47,0,0,1,79.92106897653497,125.25019221781967Z" fill="#dde8a3" stroke="white" stroke-width="2"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#f6d9cb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,40.25A5,5,0,1,1,53.0,40.25A5,5,0,1,1,63.0,40.25" fill="#cae9fd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M115.0,40.25A5,5,0,1,1,105.0,40.25A5,5,0,1,1,115.0,40.25" fill="#dde8a3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M177.0,40.25A5,5,0,1,1,167.0,40.25A5,5,0,1,1,177.0,40.25" fill="#e365eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Folk</text>
+<text aria-label="68,95,33,44" text-anchor="start" x="68.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="120,158,33,44" text-anchor="start" x="120.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">magenta</text>
+<text aria-label="182,204,33,44" text-anchor="start" x="182.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">male</text>
+</svg>

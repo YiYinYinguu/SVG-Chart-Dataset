@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="514" height="298" viewBox="0 0 514 298" style="background-color: rgb(255, 255, 255);">
+<text aria-label="85,97,249,285" text-anchor="end" x="94.1428571428572" y="249.5" transform="rotate(270.0, 97.1428571428572, 249.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">equity</text>
+<text aria-label="200,212,249,285" text-anchor="end" x="209.38095238095244" y="249.5" transform="rotate(270.0, 212.38095238095244, 249.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">goodie</text>
+<text aria-label="315,327,249,291" text-anchor="end" x="324.61904761904765" y="249.5" transform="rotate(270.0, 327.61904761904765, 249.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">steward</text>
+<text aria-label="430,442,249,297" text-anchor="end" x="439.85714285714283" y="249.5" transform="rotate(270.0, 442.85714285714283, 249.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">violence</text>
+<line aria-label="94,94,242,247" x1="94.5" y1="242.5" x2="94.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="209,209,242,247" x1="209.5" y1="242.5" x2="209.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="324,324,242,247" x1="324.5" y1="242.5" x2="324.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="439,439,242,247" x1="439.5" y1="242.5" x2="439.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,509,242,242" x1="25.5" y1="242.5" x2="509.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0986328125" y="25.504642857142848" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">adapter</text>
+<text aria-label="12,18,234,246" text-anchor="end" x="18.5" y="245.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="6,18,205,217" text-anchor="end" x="18.5" y="216.92857142857144" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="6,18,177,189" text-anchor="end" x="18.5" y="188.35714285714286" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="6,18,148,160" text-anchor="end" x="18.5" y="159.78571428571428" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="6,18,120,132" text-anchor="end" x="18.5" y="131.21428571428572" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="6,18,91,103" text-anchor="end" x="18.5" y="102.64285714285714" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="6,18,63,75" text-anchor="end" x="18.5" y="74.07142857142858" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">60</text>
+<text aria-label="6,18,34,46" text-anchor="end" x="18.5" y="45.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">70</text>
+<line aria-label="20,25,242,242" x1="25.5" y1="242.5" x2="20.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="20,25,213,213" x1="25.5" y1="213.5" x2="20.5" y2="213.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="20,25,185,185" x1="25.5" y1="185.5" x2="20.5" y2="185.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="20,25,156,156" x1="25.5" y1="156.5" x2="20.5" y2="156.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="20,25,128,128" x1="25.5" y1="128.5" x2="20.5" y2="128.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="20,25,99,99" x1="25.5" y1="99.5" x2="20.5" y2="99.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="20,25,71,71" x1="25.5" y1="71.5" x2="20.5" y2="71.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="20,25,42,42" x1="25.5" y1="42.5" x2="20.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,25,42,242" x1="25.5" y1="242.5" x2="25.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Northeast North: equity; Chicken Metrics cyan: 11; Games male: Lafayette" role="graphics-symbol" aria-roledescription="bar" d="M48.047619047619094,210.57142857142858h92.19047619047619v31.428571428571416h-92.19047619047619Z" fill="#df6eba"/>
+<path aria-label="Northeast North: steward; Chicken Metrics cyan: 5; Games male: Lafayette" role="graphics-symbol" aria-roledescription="bar" d="M278.5238095238095,227.71428571428572h92.19047619047619v14.285714285714278h-92.19047619047619Z" fill="#df6eba"/>
+<path aria-label="Northeast North: violence; Chicken Metrics cyan: 7; Games male: Lafayette" role="graphics-symbol" aria-roledescription="bar" d="M393.76190476190476,222.0h92.19047619047619v20h-92.19047619047619Z" fill="#df6eba"/>
+<path aria-label="Northeast North: goodie; Chicken Metrics cyan: 69; Games male: Lafayette" role="graphics-symbol" aria-roledescription="bar" d="M163.28571428571433,44.85714285714285h92.19047619047619v197.14285714285717h-92.19047619047619Z" fill="#df6eba"/>
+<text aria-label="89,99,198,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.1428571428572" y="207.2189285714286" font-family="avenir" font-size="9.075px" fill="#000" opacity="1">11</text>
+<text aria-label="322,327,215,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="324.61904761904765" y="224.36178571428573" font-family="avenir" font-size="9.075px" fill="#000" opacity="1">5</text>
+<text aria-label="437,442,209,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="439.85714285714283" y="218.6475" font-family="avenir" font-size="9.075px" fill="#000" opacity="1">7</text>
+<text aria-label="204,214,32,42" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="209.38095238095244" y="41.50464285714285" font-family="avenir" font-size="9.075px" fill="#000" opacity="1">69</text>
+</svg>

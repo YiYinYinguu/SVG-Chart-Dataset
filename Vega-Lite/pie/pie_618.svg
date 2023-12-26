@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">sexy Northeast</text>
+<path aria-label="engage: 59; conglomeration: gah" role="graphics-symbol" aria-roledescription="arc mark"  d="M121.3792969313181,115.25877576543269A75,75,0,0,0,127.27969904519676,168.254947679138L194.0,134.0Z" fill="#da62b5" stroke="black" stroke-width="4"/>
+<path aria-label="engage: 107; conglomeration: possimus" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,121.3792969313181,115.25877576543269L194.0,134.0Z" fill="#0eca10" stroke="black" stroke-width="4"/>
+<path aria-label="engage: 235; conglomeration: TCP" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.27969904519676,168.254947679138A75,75,0,0,0,267.06039515783823,117.05365350936893L194.0,134.0Z" fill="#fe885c" stroke="black" stroke-width="4"/>
+<path aria-label="engage: 109; conglomeration: Androgynous" role="graphics-symbol" aria-roledescription="arc mark"  d="M267.06039515783823,117.05365350936893A75,75,0,0,0,194.0,59.0L194.0,134.0Z" fill="#0bafdd" stroke="black" stroke-width="4"/>
+<text aria-label="100,108,138,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="104.55267767942537" y="145.95874137023515" font-family="monospace" font-size="7px" fill="#da62b5" opacity="1">59</text>
+<text aria-label="132,144,57,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.8821817255675" y="64.85208289298531" font-family="monospace" font-size="7px" fill="#0eca10" opacity="1">107</text>
+<text aria-label="218,230,213,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="224.95540267705357" y="220.5089524553551" font-family="monospace" font-size="7px" fill="#fe885c" opacity="1">235</text>
+<text aria-label="243,255,58,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.99015350493266" y="65.53651505571075" font-family="monospace" font-size="7px" fill="#0bafdd" opacity="1">109</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#0bafdd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fe885c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#da62b5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#0eca10" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Androgynous</text>
+<text aria-label="21,37,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">TCP</text>
+<text aria-label="21,37,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">gah</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">possimus</text>
+</svg>

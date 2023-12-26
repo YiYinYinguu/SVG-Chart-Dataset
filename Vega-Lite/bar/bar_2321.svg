@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="530" height="328" viewBox="0 0 530 328" style="background-color: rgb(255, 255, 255);">
+<text aria-label="60,72,270,300" text-anchor="end" x="69.77777777777774" y="270.5" transform="rotate(270.0, 72.77777777777774, 270.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">badge</text>
+<text aria-label="114,126,270,318" text-anchor="end" x="123.33333333333331" y="270.5" transform="rotate(270.0, 126.33333333333331, 270.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">eyebrows</text>
+<text aria-label="167,179,270,324" text-anchor="end" x="176.88888888888886" y="270.5" transform="rotate(270.0, 179.88888888888886, 270.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">gladiolus</text>
+<text aria-label="221,233,270,312" text-anchor="end" x="230.44444444444443" y="270.5" transform="rotate(270.0, 233.44444444444443, 270.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">gumshoe</text>
+<text aria-label="275,287,270,294" text-anchor="end" x="284.0" y="270.5" transform="rotate(270.0, 287.0, 270.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">icon</text>
+<text aria-label="328,340,270,288" text-anchor="end" x="337.55555555555554" y="270.5" transform="rotate(270.0, 340.55555555555554, 270.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">jug</text>
+<text aria-label="382,394,270,288" text-anchor="end" x="391.11111111111114" y="270.5" transform="rotate(270.0, 394.11111111111114, 270.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">rod</text>
+<text aria-label="435,447,270,300" text-anchor="end" x="444.6666666666667" y="270.5" transform="rotate(270.0, 447.6666666666667, 270.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">smolt</text>
+<text aria-label="489,501,270,294" text-anchor="end" x="498.22222222222223" y="270.5" transform="rotate(270.0, 501.22222222222223, 270.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">step</text>
+<line aria-label="69,69,263,268" x1="69.5" y1="263.5" x2="69.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="123,123,263,268" x1="123.5" y1="263.5" x2="123.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="176,176,263,268" x1="176.5" y1="263.5" x2="176.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="230,230,263,268" x1="230.5" y1="263.5" x2="230.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="283,283,263,268" x1="283.5" y1="263.5" x2="283.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="337,337,263,268" x1="337.5" y1="263.5" x2="337.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="391,391,263,268" x1="391.5" y1="263.5" x2="391.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="444,444,263,268" x1="444.5" y1="263.5" x2="444.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="498,498,263,268" x1="498.5" y1="263.5" x2="498.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,525,263,263" x1="43.5" y1="263.5" x2="525.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,330,0,26" text-anchor="start" x="5.72314453125" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Ergonomic Electronic East</text>
+<text aria-label="30,36,255,267" text-anchor="end" x="36.5" y="266.5" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="18,36,224,236" text-anchor="end" x="36.5" y="235.73076923076923" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="18,36,193,205" text-anchor="end" x="36.5" y="204.96153846153845" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="18,36,163,175" text-anchor="end" x="36.5" y="174.19230769230768" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="18,36,132,144" text-anchor="end" x="36.5" y="143.4230769230769" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="6,36,101,113" text-anchor="end" x="36.5" y="112.65384615384615" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="6,36,70,82" text-anchor="end" x="36.5" y="81.88461538461537" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">1,200</text>
+<line aria-label="38,43,263,263" x1="43.5" y1="263.5" x2="38.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,232,232" x1="43.5" y1="232.5" x2="38.5" y2="232.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,201,201" x1="43.5" y1="201.5" x2="38.5" y2="201.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,171,171" x1="43.5" y1="171.5" x2="38.5" y2="171.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,140,140" x1="43.5" y1="140.5" x2="38.5" y2="140.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,109,109" x1="43.5" y1="109.5" x2="38.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="38,43,78,78" x1="43.5" y1="78.5" x2="38.5" y2="78.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,43,63,263" x1="43.5" y1="263.5" x2="43.5" y2="63.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Account: badge; Shoes Regional: 158; quantify pricing Gasoline: Hybrid kelvin nor" role="graphics-symbol" aria-roledescription="bar" d="M57.727777777777746,234.84615384615384h24.1v24.307692307692292h-24.1Z" fill="#1ad1a0"/>
+<path aria-label="Account: badge; Shoes Regional: 94; quantify pricing Gasoline: French" role="graphics-symbol" aria-roledescription="bar" d="M57.727777777777746,220.3846153846154h24.1v14.461538461538453h-24.1Z" fill="#aef476"/>
+<path aria-label="Account: badge; Shoes Regional: 25; quantify pricing Gasoline: Zambia Somoni" role="graphics-symbol" aria-roledescription="bar" d="M57.727777777777746,259.15384615384613h24.1v3.846153846153868h-24.1Z" fill="#bbdc4c"/>
+<path aria-label="Account: jug; Shoes Regional: 363; quantify pricing Gasoline: Hybrid kelvin nor" role="graphics-symbol" aria-roledescription="bar" d="M325.50555555555553,146.69230769230768h24.1v55.846153846153825h-24.1Z" fill="#1ad1a0"/>
+<path aria-label="Account: jug; Shoes Regional: 472; quantify pricing Gasoline: French" role="graphics-symbol" aria-roledescription="bar" d="M325.50555555555553,74.07692307692307h24.1v72.61538461538461h-24.1Z" fill="#aef476"/>
+<path aria-label="Account: jug; Shoes Regional: 393; quantify pricing Gasoline: Zambia Somoni" role="graphics-symbol" aria-roledescription="bar" d="M325.50555555555553,202.53846153846152h24.1v60.46153846153848h-24.1Z" fill="#bbdc4c"/>
+<path aria-label="Account: rod; Shoes Regional: 91; quantify pricing Gasoline: Hybrid kelvin nor" role="graphics-symbol" aria-roledescription="bar" d="M379.06111111111113,200.07692307692307h24.1v14h-24.1Z" fill="#1ad1a0"/>
+<path aria-label="Account: rod; Shoes Regional: 451; quantify pricing Gasoline: French" role="graphics-symbol" aria-roledescription="bar" d="M379.06111111111113,130.69230769230768h24.1v69.38461538461537h-24.1Z" fill="#aef476"/>
+<path aria-label="Account: rod; Shoes Regional: 318; quantify pricing Gasoline: Zambia Somoni" role="graphics-symbol" aria-roledescription="bar" d="M379.06111111111113,214.07692307692307h24.1v48.923076923076934h-24.1Z" fill="#bbdc4c"/>
+<path aria-label="Account: smolt; Shoes Regional: 9; quantify pricing Gasoline: Hybrid kelvin nor" role="graphics-symbol" aria-roledescription="bar" d="M432.6166666666667,206.6923076923077h24.1v1.3846153846153868h-24.1Z" fill="#1ad1a0"/>
+<path aria-label="Account: smolt; Shoes Regional: 312; quantify pricing Gasoline: French" role="graphics-symbol" aria-roledescription="bar" d="M432.6166666666667,158.69230769230768h24.1v48.000000000000014h-24.1Z" fill="#aef476"/>
+<path aria-label="Account: smolt; Shoes Regional: 357; quantify pricing Gasoline: Zambia Somoni" role="graphics-symbol" aria-roledescription="bar" d="M432.6166666666667,208.0769230769231h24.1v54.923076923076906h-24.1Z" fill="#bbdc4c"/>
+<path aria-label="Account: icon; Shoes Regional: 509; quantify pricing Gasoline: Hybrid kelvin nor" role="graphics-symbol" aria-roledescription="bar" d="M271.95,115.30769230769229h24.1v78.30769230769232h-24.1Z" fill="#1ad1a0"/>
+<path aria-label="Account: icon; Shoes Regional: 70; quantify pricing Gasoline: French" role="graphics-symbol" aria-roledescription="bar" d="M271.95,104.53846153846155h24.1v10.769230769230752h-24.1Z" fill="#aef476"/>
+<path aria-label="Account: icon; Shoes Regional: 451; quantify pricing Gasoline: Zambia Somoni" role="graphics-symbol" aria-roledescription="bar" d="M271.95,193.6153846153846h24.1v69.38461538461539h-24.1Z" fill="#bbdc4c"/>
+<path aria-label="Account: gladiolus; Shoes Regional: 509; quantify pricing Gasoline: Hybrid kelvin nor" role="graphics-symbol" aria-roledescription="bar" d="M164.83888888888885,140.53846153846155h24.1v78.3076923076923h-24.1Z" fill="#1ad1a0"/>
+<path aria-label="Account: gladiolus; Shoes Regional: 428; quantify pricing Gasoline: French" role="graphics-symbol" aria-roledescription="bar" d="M164.83888888888885,74.6923076923077h24.1v65.84615384615384h-24.1Z" fill="#aef476"/>
+<path aria-label="Account: gladiolus; Shoes Regional: 287; quantify pricing Gasoline: Zambia Somoni" role="graphics-symbol" aria-roledescription="bar" d="M164.83888888888885,218.84615384615384h24.1v44.15384615384616h-24.1Z" fill="#bbdc4c"/>
+<path aria-label="Account: gumshoe; Shoes Regional: 500; quantify pricing Gasoline: Hybrid kelvin nor" role="graphics-symbol" aria-roledescription="bar" d="M218.39444444444445,143.46153846153845h24.1v76.92307692307693h-24.1Z" fill="#1ad1a0"/>
+<path aria-label="Account: gumshoe; Shoes Regional: 3; quantify pricing Gasoline: French" role="graphics-symbol" aria-roledescription="bar" d="M218.39444444444445,143.0h24.1v0.4615384615384528h-24.1Z" fill="#aef476"/>
+<path aria-label="Account: gumshoe; Shoes Regional: 277; quantify pricing Gasoline: Zambia Somoni" role="graphics-symbol" aria-roledescription="bar" d="M218.39444444444445,220.3846153846154h24.1v42.61538461538461h-24.1Z" fill="#bbdc4c"/>
+<path aria-label="Account: eyebrows; Shoes Regional: 347; quantify pricing Gasoline: Hybrid kelvin nor" role="graphics-symbol" aria-roledescription="bar" d="M111.2833333333333,192.53846153846155h24.1v53.38461538461539h-24.1Z" fill="#1ad1a0"/>
+<path aria-label="Account: eyebrows; Shoes Regional: 335; quantify pricing Gasoline: French" role="graphics-symbol" aria-roledescription="bar" d="M111.2833333333333,141.0h24.1v51.53846153846155h-24.1Z" fill="#aef476"/>
+<path aria-label="Account: eyebrows; Shoes Regional: 111; quantify pricing Gasoline: Zambia Somoni" role="graphics-symbol" aria-roledescription="bar" d="M111.2833333333333,245.92307692307693h24.1v17.076923076923066h-24.1Z" fill="#bbdc4c"/>
+<path aria-label="Account: step; Shoes Regional: 457; quantify pricing Gasoline: Hybrid kelvin nor" role="graphics-symbol" aria-roledescription="bar" d="M486.1722222222222,161.9230769230769h24.1v70.3076923076923h-24.1Z" fill="#1ad1a0"/>
+<path aria-label="Account: step; Shoes Regional: 252; quantify pricing Gasoline: French" role="graphics-symbol" aria-roledescription="bar" d="M486.1722222222222,123.15384615384616h24.1v38.76923076923076h-24.1Z" fill="#aef476"/>
+<path aria-label="Account: step; Shoes Regional: 200; quantify pricing Gasoline: Zambia Somoni" role="graphics-symbol" aria-roledescription="bar" d="M486.1722222222222,232.23076923076923h24.1v30.769230769230774h-24.1Z" fill="#bbdc4c"/>
+<path  d="M44.0,35.0h10v10h-10Z" fill="#1ad1a0" stroke-width="1.5" opacity="1"/>
+<path  d="M153.0,35.0h10v10h-10Z" fill="#aef476" stroke-width="1.5" opacity="1"/>
+<path  d="M211.0,35.0h10v10h-10Z" fill="#bbdc4c" stroke-width="1.5" opacity="1"/>
+<text aria-label="59,152,33,44" text-anchor="start" x="59.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Hybrid kelvin nor</text>
+<text aria-label="168,201,33,44" text-anchor="start" x="168.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">French</text>
+<text aria-label="226,297,33,44" text-anchor="start" x="226.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Zambia Somoni</text>
+</svg>

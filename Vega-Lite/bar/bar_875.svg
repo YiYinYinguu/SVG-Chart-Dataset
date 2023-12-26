@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="717" height="321" viewBox="0 0 717 321" style="background-color: rgb(255, 255, 255);">
+<line x1="101.5" y1="34.5" x2="101.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="181.5" y1="34.5" x2="181.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="261.5" y1="34.5" x2="261.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="342.5" y1="34.5" x2="342.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="422.5" y1="34.5" x2="422.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="503.5" y1="34.5" x2="503.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="583.5" y1="34.5" x2="583.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="663.5" y1="34.5" x2="663.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="90,105,241,309" text-anchor="end" x="101.21951219512195" y="241.5" transform="rotate(270.0, 105.21951219512195, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">dependent</text>
+<text aria-label="170,185,241,309" text-anchor="end" x="181.58536585365854" y="241.5" transform="rotate(270.0, 185.58536585365854, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">fledgling</text>
+<text aria-label="250,265,241,309" text-anchor="end" x="261.95121951219517" y="241.5" transform="rotate(270.0, 265.95121951219517, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">guacamole</text>
+<text aria-label="331,346,241,271" text-anchor="end" x="342.3170731707317" y="241.5" transform="rotate(270.0, 346.3170731707317, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">plot</text>
+<text aria-label="411,426,241,301" text-anchor="end" x="422.6829268292683" y="241.5" transform="rotate(270.0, 426.6829268292683, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">recorder</text>
+<text aria-label="492,507,241,271" text-anchor="end" x="503.0487804878049" y="241.5" transform="rotate(270.0, 507.0487804878049, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">slaw</text>
+<text aria-label="572,587,241,301" text-anchor="end" x="583.4146341463415" y="241.5" transform="rotate(270.0, 587.4146341463415, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">spectrum</text>
+<text aria-label="652,667,241,309" text-anchor="end" x="663.7804878048781" y="241.5" transform="rotate(270.0, 667.7804878048781, 241.5)" font-family="Balto" font-size="14px" font-weight="normal" fill="#000" opacity="1">townhouse</text>
+<line aria-label="101,101,234,239" x1="101.5" y1="234.5" x2="101.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="181,181,234,239" x1="181.5" y1="234.5" x2="181.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="261,261,234,239" x1="261.5" y1="234.5" x2="261.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="342,342,234,239" x1="342.5" y1="234.5" x2="342.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="422,422,234,239" x1="422.5" y1="234.5" x2="422.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="503,503,234,239" x1="503.5" y1="234.5" x2="503.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="583,583,234,239" x1="583.5" y1="234.5" x2="583.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="663,663,234,239" x1="663.5" y1="234.5" x2="663.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="53,712,234,234" x1="53.5" y1="234.5" x2="712.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="207,558,0,26" text-anchor="middle" x="382.5" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Tennessine enormous Brandon</text>
+<text aria-label="39,46,224,239" text-anchor="end" x="46.5" y="238.5" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="31,46,179,194" text-anchor="end" x="46.5" y="193.04545454545453" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="24,46,133,148" text-anchor="end" x="46.5" y="147.59090909090907" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="24,46,88,103" text-anchor="end" x="46.5" y="102.13636363636365" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="24,46,42,57" text-anchor="end" x="46.5" y="56.68181818181819" font-family="Balto" font-size="14px" font-weight="bold" fill="#000" opacity="1">200</text>
+<line aria-label="48,53,234,234" x1="53.5" y1="234.5" x2="48.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,53,189,189" x1="53.5" y1="189.5" x2="48.5" y2="189.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,53,143,143" x1="53.5" y1="143.5" x2="48.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,53,98,98" x1="53.5" y1="98.5" x2="48.5" y2="98.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,53,52,52" x1="53.5" y1="52.5" x2="48.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,125,143" text-anchor="middle" x="16.5986328125" y="134.5" transform="rotate(-90.0, 14.5986328125, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">brr</text>
+<path aria-label="Smart: townhouse; brr: 203; deposit: Central Southwest" role="graphics-symbol" aria-roledescription="bar" d="M631.6341463414635,49.45454545454545h64.29268292682927v184.54545454545456h-64.29268292682927Z" fill="#eb3b1b"/>
+<path aria-label="Smart: recorder; brr: 124; deposit: Central Southwest" role="graphics-symbol" aria-roledescription="bar" d="M390.5365853658537,121.27272727272728h64.29268292682927v112.72727272727272h-64.29268292682927Z" fill="#eb3b1b"/>
+<path aria-label="Smart: dependent; brr: 69; deposit: Central Southwest" role="graphics-symbol" aria-roledescription="bar" d="M69.07317073170731,171.27272727272725h64.29268292682927v62.72727272727275h-64.29268292682927Z" fill="#eb3b1b"/>
+<path aria-label="Smart: spectrum; brr: 124; deposit: Central Southwest" role="graphics-symbol" aria-roledescription="bar" d="M551.2682926829268,121.27272727272728h64.29268292682927v112.72727272727272h-64.29268292682927Z" fill="#eb3b1b"/>
+<path aria-label="Smart: plot; brr: 26; deposit: Central Southwest" role="graphics-symbol" aria-roledescription="bar" d="M310.1707317073171,210.36363636363637h64.29268292682927v23.636363636363626h-64.29268292682927Z" fill="#eb3b1b"/>
+<path aria-label="Smart: fledgling; brr: 120; deposit: Central Southwest" role="graphics-symbol" aria-roledescription="bar" d="M149.4390243902439,124.90909090909092h64.29268292682927v109.09090909090908h-64.29268292682927Z" fill="#eb3b1b"/>
+<path aria-label="Smart: slaw; brr: 16; deposit: Central Southwest" role="graphics-symbol" aria-roledescription="bar" d="M470.9024390243903,219.45454545454544h64.29268292682927v14.545454545454561h-64.29268292682927Z" fill="#eb3b1b"/>
+<path aria-label="Smart: guacamole; brr: 195; deposit: Central Southwest" role="graphics-symbol" aria-roledescription="bar" d="M229.8048780487805,56.727272727272734h64.29268292682927v177.27272727272728h-64.29268292682927Z" fill="#eb3b1b"/>
+</svg>

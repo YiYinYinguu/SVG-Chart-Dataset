@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="324" height="239" viewBox="0 0 324 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,265,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">connecting Southwest</text>
+<path aria-label="global: 483; Buckinghamshire: green" role="graphics-symbol" aria-roledescription="arc mark"  d="M47.69250062174876,182.38233680809282A75,75,0,0,0,105.40764409843975,208.9988921670781L105.0,134.0Z" fill="#a4b5a7" stroke="black" stroke-width="0"/>
+<path aria-label="global: 423; Buckinghamshire: middleware" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.159471787533562,129.11171432105118A75,75,0,0,0,47.69250062174876,182.38233680809282L105.0,134.0Z" fill="#ba5d71" stroke="black" stroke-width="0"/>
+<path aria-label="global: 172; Buckinghamshire: Optimization" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.40764409843975,208.9988921670781A75,75,0,0,0,128.38294730390305,205.26175534873454L105.0,134.0Z" fill="#8ecd5c" stroke="black" stroke-width="0"/>
+<path aria-label="global: 205; Buckinghamshire: vertical" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,77.78021334724637,64.11378380124894L105.0,134.0Z" fill="#ccafb5" stroke="black" stroke-width="0"/>
+<path aria-label="global: 354; Buckinghamshire: Iridium" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.45771243859429,168.76165211017903A75,75,0,0,0,179.048786480991,122.09297599344796L105.0,134.0Z" fill="#0a4acd" stroke="black" stroke-width="0"/>
+<path aria-label="global: 703; Buckinghamshire: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.71358040741916,112.04180369090787A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#b400c2" stroke="black" stroke-width="0"/>
+<path aria-label="global: 426; Buckinghamshire: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.38294730390305,205.26175534873454A75,75,0,0,0,171.45771243859429,168.76165211017903L105.0,134.0Z" fill="#49db88" stroke="black" stroke-width="0"/>
+<path aria-label="global: 76; Buckinghamshire: Hatchback" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.048786480991,122.09297599344796A75,75,0,0,0,176.71358040741916,112.04180369090787L105.0,134.0Z" fill="#0af5c9" stroke="black" stroke-width="0"/>
+<path aria-label="global: 626; Buckinghamshire: quarrelsome" role="graphics-symbol" aria-roledescription="arc mark"  d="M77.78021334724637,64.11378380124894A75,75,0,0,0,30.159471787533562,129.11171432105118L105.0,134.0Z" fill="#67c98e" stroke="black" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#b400c2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#0af5c9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#0a4acd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#49db88" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#8ecd5c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#a4b5a7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#ba5d71" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#67c98e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,184.0A5,5,0,1,1,224.0,184.0A5,5,0,1,1,234.0,184.0" fill="#ccafb5" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Hatchback</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Iridium</text>
+<text aria-label="239,288,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="239,305,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Optimization</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">green</text>
+<text aria-label="239,294,145,156" text-anchor="start" x="239.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">middleware</text>
+<text aria-label="239,299,161,172" text-anchor="start" x="239.0" y="171.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">quarrelsome</text>
+<text aria-label="239,283,177,188" text-anchor="start" x="239.0" y="187.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">vertical</text>
+<text aria-label="223,313,32,44" text-anchor="start" x="223.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Buckinghamshire</text>
+</svg>

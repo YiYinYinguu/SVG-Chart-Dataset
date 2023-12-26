@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="262" height="270" viewBox="0 0 262 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,239,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">JSON Configuration</text>
+<path aria-label="panel: 153; Unbranded compressing: beatae" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.98261144755972,163.35302501279017A75,75,0,0,0,156.34103294465166,188.67264705660585L131.01279002529017,161.70080784201363A38,38,0,0,1,70.03118980009693,148.87219933981368Z" fill="#593db6" stroke="black" stroke-width="0"/>
+<path aria-label="panel: 19; Unbranded compressing: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.34103294465166,188.67264705660585A75,75,0,0,0,167.81460300316064,174.9795760050702L136.82606552160138,154.76298517590223A38,38,0,0,1,131.01279002529017,161.70080784201363Z" fill="#3bbc01" stroke="black" stroke-width="0"/>
+<path aria-label="panel: 157; Unbranded compressing: pad" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,35.98261144755972,163.35302501279017L70.03118980009693,148.87219933981368A38,38,0,0,1,105.0,96.0Z" fill="#495099" stroke="black" stroke-width="0"/>
+<path aria-label="panel: 171; Unbranded compressing: Music" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.81460300316064,174.9795760050702A75,75,0,0,0,105.0,59.0L105.0,96.0A38,38,0,0,1,136.82606552160138,154.76298517590223Z" fill="#9a088e" stroke="black" stroke-width="0"/>
+<text aria-label="78,94,215,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="86.47236521071069" y="225.07228138929247" font-family="Balto" font-size="10px" fill="#593db6" opacity="1">153</text>
+<text aria-label="168,179,184,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.98437061284147" y="194.8027387858926" font-family="Balto" font-size="10px" fill="#3bbc01" opacity="1">19</text>
+<text aria-label="21,38,77,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="29.932940974814585" y="87.35187164344129" font-family="Balto" font-size="10px" fill="#495099" opacity="1">157</text>
+<text aria-label="175,192,84,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.13846791715008" y="94.13856166988548" font-family="Balto" font-size="10px" fill="#9a088e" opacity="1">171</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#9a088e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M72.0,258.25A5,5,0,1,1,62.0,258.25A5,5,0,1,1,72.0,258.25" fill="#3bbc01" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M147.0,258.25A5,5,0,1,1,137.0,258.25A5,5,0,1,1,147.0,258.25" fill="#593db6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,258.25A5,5,0,1,1,197.0,258.25A5,5,0,1,1,207.0,258.25" fill="#495099" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Music</text>
+<text aria-label="77,126,251,262" text-anchor="start" x="77.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="152,185,251,262" text-anchor="start" x="152.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">beatae</text>
+<text aria-label="212,228,251,262" text-anchor="start" x="212.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">pad</text>
+</svg>

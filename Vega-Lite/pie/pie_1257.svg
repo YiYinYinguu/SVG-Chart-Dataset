@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="330" height="286" viewBox="0 0 330 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="2,327,0,26" text-anchor="middle" x="165.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">input Androgyne brilliant</text>
+<path aria-label="bus: 3; Cargo Southwest blue: Chips" role="graphics-symbol" aria-roledescription="arc mark"  d="M231.04466488925533,98.4598503145251A75,75,0,0,0,219.20961478705436,82.17030132598515L195.35738428075044,104.97536874255168A42,42,0,0,1,201.985012337983,114.09751617613406Z" fill="#9aa8e2" stroke="black" stroke-width="3"/>
+<path aria-label="bus: 27; Cargo Southwest blue: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.64688819389931,204.21761529798027A75,75,0,0,0,231.04466488925533,98.4598503145251L201.985012337983,114.09751617613406A42,42,0,0,1,150.2422573885836,173.32186456686895Z" fill="#10a14f" stroke="black" stroke-width="3"/>
+<path aria-label="bus: 31; Cargo Southwest blue: program" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.0,59.0A75,75,0,0,0,138.64688819389931,204.21761529798027L150.2422573885836,173.32186456686895A42,42,0,0,1,165.0,92.0Z" fill="#e8fe2c" stroke="black" stroke-width="3"/>
+<path aria-label="bus: 9; Cargo Southwest blue: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M219.20961478705436,82.17030132598515A75,75,0,0,0,165.0,59.0L165.0,92.0A42,42,0,0,1,195.35738428075044,104.97536874255168Z" fill="#f2ee2d" stroke="black" stroke-width="3"/>
+<path  d="M76.0,274.25A5,5,0,1,1,66.0,274.25A5,5,0,1,1,76.0,274.25" fill="#f2ee2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M136.0,274.25A5,5,0,1,1,126.0,274.25A5,5,0,1,1,136.0,274.25" fill="#9aa8e2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M190.0,274.25A5,5,0,1,1,180.0,274.25A5,5,0,1,1,190.0,274.25" fill="#10a14f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M259.0,274.25A5,5,0,1,1,249.0,274.25A5,5,0,1,1,259.0,274.25" fill="#e8fe2c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="81,119,267,278" text-anchor="start" x="81.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="141,168,267,278" text-anchor="start" x="141.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Chips</text>
+<text aria-label="195,233,267,278" text-anchor="start" x="195.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="264,302,267,278" text-anchor="start" x="264.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">program</text>
+<text aria-label="65,185,250,262" text-anchor="start" x="65.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Cargo Southwest blue</text>
+</svg>

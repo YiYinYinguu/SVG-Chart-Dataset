@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="319" height="239" viewBox="0 0 319 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,317,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Ball instruction payment</text>
+<path aria-label="woot: 105; Mountain: practical" role="graphics-symbol" aria-roledescription="arc mark"  d="M193.0,59.0A75,75,0,1,0,196.41359493497225,208.92227552350457L194.54749637052075,167.96476490398874A34,34,0,1,1,193.0,100.0Z" fill="#cf53f5" stroke="white" stroke-width="0"/>
+<path aria-label="woot: 6; Mountain: orchestrate" role="graphics-symbol" aria-roledescription="arc mark"  d="M196.41359493497225,208.92227552350457A75,75,0,0,0,209.92677844909082,207.06493120051093L200.67347289692117,167.1227688108983A34,34,0,0,1,194.54749637052075,167.96476490398874Z" fill="#baad09" stroke="white" stroke-width="0"/>
+<path aria-label="woot: 53; Mountain: local" role="graphics-symbol" aria-roledescription="arc mark"  d="M209.92677844909082,207.06493120051093A75,75,0,0,0,265.3702649716739,114.31384374923047L225.8078534538255,125.07560916631782A34,34,0,0,1,200.67347289692117,167.1227688108983Z" fill="#fbc802" stroke="white" stroke-width="0"/>
+<path aria-label="woot: 43; Mountain: Oriental" role="graphics-symbol" aria-roledescription="arc mark"  d="M265.3702649716739,114.31384374923047A75,75,0,0,0,193.0,59.0L193.0,100.0A34,34,0,0,1,225.8078534538255,125.07560916631782Z" fill="#958aad" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#958aad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#fbc802" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#baad09" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#cf53f5" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Oriental</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">local</text>
+<text aria-label="21,81,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">orchestrate</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">practical</text>
+<text aria-label="5,53,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Mountain</text>
+</svg>

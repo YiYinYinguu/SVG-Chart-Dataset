@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">degree</text>
+<path aria-label="Jalen shed: 95; Northwest: athlete" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.03984430784504,174.63222895242959A75,75,0,0,0,175.26539780397366,107.77455679212773L105.0,134.0Z" fill="#4537ec" stroke="white" stroke-width="0"/>
+<path aria-label="Jalen shed: 124; Northwest: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.26539780397366,107.77455679212773A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#d4aa19" stroke="white" stroke-width="0"/>
+<path aria-label="Jalen shed: 423; Northwest: turquoise" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,168.03984430784504,174.63222895242959L105.0,134.0Z" fill="#abf34a" stroke="white" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#d4aa19" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,258.25A5,5,0,1,1,58.0,258.25A5,5,0,1,1,68.0,258.25" fill="#4537ec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M129.0,258.25A5,5,0,1,1,119.0,258.25A5,5,0,1,1,129.0,258.25" fill="#abf34a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="73,111,251,262" text-anchor="start" x="73.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">athlete</text>
+<text aria-label="134,183,251,262" text-anchor="start" x="134.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">turquoise</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="452" height="329" viewBox="0 0 452 329" style="background-color: rgb(255, 255, 255);">
+<line x1="117.5" y1="44.5" x2="117.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="244.5" y1="44.5" x2="244.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="370.5" y1="44.5" x2="370.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="244.5" x2="447.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="204.5" x2="447.5" y2="204.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="164.5" x2="447.5" y2="164.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="124.5" x2="447.5" y2="124.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="84.5" x2="447.5" y2="84.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="44.5" x2="447.5" y2="44.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="103,123,251,311" text-anchor="end" x="117.125" y="251.5" transform="rotate(270.0, 123.125, 251.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">hermit</text>
+<text aria-label="230,250,251,321" text-anchor="end" x="244.0" y="251.5" transform="rotate(270.0, 250.0, 251.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">landing</text>
+<text aria-label="356,376,251,311" text-anchor="end" x="370.875" y="251.5" transform="rotate(270.0, 376.875, 251.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">tomato</text>
+<line aria-label="117,117,244,249" x1="117.5" y1="244.5" x2="117.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="244,244,244,249" x1="244.5" y1="244.5" x2="244.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="370,370,244,249" x1="370.5" y1="244.5" x2="370.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,447,244,244" x1="41.5" y1="244.5" x2="447.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="185,302,0,26" text-anchor="middle" x="244.0" y="25.274" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">but Shoes</text>
+<text aria-label="29,39,231,251" text-anchor="end" x="39.5" y="250.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="9,39,191,211" text-anchor="end" x="39.5" y="210.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="9,39,151,171" text-anchor="end" x="39.5" y="170.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="9,39,111,131" text-anchor="end" x="39.5" y="130.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="9,39,71,91" text-anchor="end" x="39.5" y="90.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="9,39,31,51" text-anchor="end" x="39.5" y="50.5" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">500</text>
+<line aria-label="41,41,44,244" x1="41.5" y1="244.5" x2="41.5" y2="44.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Bike Shoes: hermit; bode East: 45; Music teal: Ergonomic" role="graphics-symbol" aria-roledescription="bar" d="M66.375,226.0h101.50000000000001v18h-101.50000000000001Z" fill="#de4bcd"/>
+<path aria-label="Bike Shoes: landing; bode East: 488; Music teal: Ergonomic" role="graphics-symbol" aria-roledescription="bar" d="M193.25,48.800000000000004h101.50000000000001v195.2h-101.50000000000001Z" fill="#de4bcd"/>
+<path aria-label="Bike Shoes: tomato; bode East: 102; Music teal: Ergonomic" role="graphics-symbol" aria-roledescription="bar" d="M320.125,203.20000000000002h101.50000000000001v40.79999999999998h-101.50000000000001Z" fill="#de4bcd"/>
+<text aria-label="110,123,209,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.125" y="221.474" font-family="avenir" font-size="12.18px" fill="#000" opacity="1">45</text>
+<text aria-label="234,253,32,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="244.0" y="44.274" font-family="avenir" font-size="12.18px" fill="#000" opacity="1">488</text>
+<text aria-label="360,380,186,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="370.875" y="198.674" font-family="avenir" font-size="12.18px" fill="#000" opacity="1">102</text>
+</svg>

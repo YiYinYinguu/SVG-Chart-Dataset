@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="251" height="270" viewBox="0 0 251 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">male Intelligent</text>
+<path aria-label="enterprise Legros: 413; River and: Delaware" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.78223790815068,109.29383902577362A75,75,0,1,0,151.13963634420315,105.87188521502915L128.3774157477296,135.04175517561478A38,38,0,1,1,79.55633387346302,136.77554510639197Z" fill="#1a3cbf" stroke="black" stroke-width="0"/>
+<path aria-label="enterprise Legros: 49; River and: red" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,63.91048309194963,102.25725858505191L84.18131143325448,133.21034434975962A38,38,0,0,1,105.0,127.0Z" fill="#73f3bf" stroke="black" stroke-width="0"/>
+<path aria-label="enterprise Legros: 13; River and: Gender" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.91048309194963,102.25725858505191A75,75,0,0,0,54.78223790815068,109.29383902577362L79.55633387346302,136.77554510639197A38,38,0,0,1,84.18131143325448,133.21034434975962Z" fill="#1b5e50" stroke="black" stroke-width="0"/>
+<path aria-label="enterprise Legros: 56; River and: Awesome" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.13963634420315,105.87188521502915A75,75,0,0,0,105.0,90.0L105.0,127.0A38,38,0,0,1,128.3774157477296,135.04175517561478Z" fill="#913f8f" stroke="black" stroke-width="0"/>
+<text aria-label="99,117,246,258" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.1941690466746" y="257.9433003847494" font-family="avenir" font-size="11px" fill="#1a3cbf" opacity="1">413</text>
+<text aria-label="73,85,70,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="79.27273890223047" y="81.75553329976934" font-family="avenir" font-size="11px" fill="#73f3bf" opacity="1">49</text>
+<text aria-label="44,56,85,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="50.05319155256479" y="96.71993096635734" font-family="avenir" font-size="11px" fill="#1b5e50" opacity="1">13</text>
+<text aria-label="128,140,71,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="134.2759594481816" y="82.8946641015475" font-family="avenir" font-size="11px" fill="#913f8f" opacity="1">56</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#913f8f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M90.0,40.25A5,5,0,1,1,80.0,40.25A5,5,0,1,1,90.0,40.25" fill="#1a3cbf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M162.0,40.25A5,5,0,1,1,152.0,40.25A5,5,0,1,1,162.0,40.25" fill="#1b5e50" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M225.0,40.25A5,5,0,1,1,215.0,40.25A5,5,0,1,1,225.0,40.25" fill="#73f3bf" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Awesome</text>
+<text aria-label="95,139,33,44" text-anchor="start" x="95.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Delaware</text>
+<text aria-label="167,200,33,44" text-anchor="start" x="167.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gender</text>
+<text aria-label="230,246,33,44" text-anchor="start" x="230.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">red</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="323" height="239" viewBox="0 0 323 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="79,131,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">grey</text>
+<path aria-label="neural teal: 523; Bahamas Springs: reference" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,39.76008481279948,97.00333168558441L54.54779892189826,105.38924317018527A58,58,0,0,1,104.99999999999999,76.0Z" fill="#b745c8" stroke="white" stroke-width="0"/>
+<path aria-label="neural teal: 501; Bahamas Springs: Coupe" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.53447906086134,94.14564050865988A75,75,0,0,0,105.0,59.0L105.0,76.0A58,58,0,0,1,154.13333047373277,103.17929532669697Z" fill="#b62f3b" stroke="white" stroke-width="0"/>
+<path aria-label="neural teal: 488; Bahamas Springs: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.35602390238716,164.86185341576672A75,75,0,0,0,168.53447906086134,94.14564050865988L154.13333047373277,103.17929532669697A58,58,0,0,1,157.8619918178461,157.8664999748596Z" fill="#8de04b" stroke="white" stroke-width="0"/>
+<path aria-label="neural teal: 696; Bahamas Springs: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M85.92364939968952,206.5333912606741A75,75,0,0,0,173.35602390238716,164.86185341576672L157.8619918178461,157.8664999748596A58,58,0,0,1,90.24762220242657,190.09248924158797Z" fill="#bf98b2" stroke="white" stroke-width="0"/>
+<path aria-label="neural teal: 374; Bahamas Springs: matrix" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.42535866303555,173.79026236249683A75,75,0,0,0,85.92364939968952,206.5333912606741L90.24762220242657,190.09248924158797A58,58,0,0,1,55.83561069941416,164.77113622699756Z" fill="#65c7df" stroke="white" stroke-width="0"/>
+<path aria-label="neural teal: 533; Bahamas Springs: online" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.76008481279948,97.00333168558441A75,75,0,0,0,41.42535866303555,173.79026236249683L55.83561069941416,164.77113622699756A58,58,0,0,1,54.54779892189826,105.38924317018527Z" fill="#5efd8d" stroke="white" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#b62f3b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#8de04b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#bf98b2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#65c7df" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#5efd8d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#b745c8" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Coupe</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">matrix</text>
+<text aria-label="239,272,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">online</text>
+<text aria-label="239,288,129,140" text-anchor="start" x="239.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">reference</text>
+<text aria-label="223,313,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bahamas Springs</text>
+</svg>

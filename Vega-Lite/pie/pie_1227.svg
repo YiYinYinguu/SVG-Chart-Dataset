@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="357" height="239" viewBox="0 0 357 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="85,124,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">via</text>
+<path aria-label="Brunswick huzzah: 300; Blues patiently Internal: next" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,55.65459555452155,77.51964004972919L105.0,134.0Z" fill="#b1e3a3" stroke="black" stroke-width="2"/>
+<path aria-label="Brunswick huzzah: 115; Blues patiently Internal: Cis" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.1215829043348,90.53562259426084A75,75,0,0,0,152.0069437860539,75.55902776394998L105.0,134.0Z" fill="#2abd36" stroke="black" stroke-width="2"/>
+<path aria-label="Brunswick huzzah: 212; Blues patiently Internal: index" role="graphics-symbol" aria-roledescription="arc mark"  d="M55.65459555452155,77.51964004972919A75,75,0,0,0,34.42634422593578,108.61577043351735L105.0,134.0Z" fill="#dd8119" stroke="black" stroke-width="2"/>
+<path aria-label="Brunswick huzzah: 247; Blues patiently Internal: Eastvale" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.97280987582658,131.9806487865753A75,75,0,0,0,166.1215829043348,90.53562259426084L105.0,134.0Z" fill="#cda66e" stroke="black" stroke-width="2"/>
+<path aria-label="Brunswick huzzah: 283; Blues patiently Internal: Adventure" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.0069437860539,75.55902776394998A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#c64e36" stroke="black" stroke-width="2"/>
+<path aria-label="Brunswick huzzah: 350; Blues patiently Internal: Optimization" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.6672721377173,188.3644460088306A75,75,0,0,0,179.97280987582658,131.9806487865753L105.0,134.0Z" fill="#666df9" stroke="black" stroke-width="2"/>
+<path aria-label="Brunswick huzzah: 572; Blues patiently Internal: exploit" role="graphics-symbol" aria-roledescription="arc mark"  d="M62.08599218409737,195.50925079349162A75,75,0,0,0,156.6672721377173,188.3644460088306L105.0,134.0Z" fill="#af2e64" stroke="black" stroke-width="2"/>
+<path aria-label="Brunswick huzzah: 546; Blues patiently Internal: for" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.42634422593578,108.61577043351735A75,75,0,0,0,62.08599218409737,195.50925079349162L105.0,134.0Z" fill="#93b114" stroke="black" stroke-width="2"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#c64e36" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#2abd36" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#cda66e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#666df9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#af2e64" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#93b114" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#dd8119" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#b1e3a3" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,288,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Adventure</text>
+<text aria-label="239,255,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cis</text>
+<text aria-label="239,283,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Eastvale</text>
+<text aria-label="239,305,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Optimization</text>
+<text aria-label="239,277,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">exploit</text>
+<text aria-label="239,255,129,140" text-anchor="start" x="239.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">for</text>
+<text aria-label="239,266,145,156" text-anchor="start" x="239.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">index</text>
+<text aria-label="239,261,161,172" text-anchor="start" x="239.0" y="171.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">next</text>
+<text aria-label="223,367,32,44" text-anchor="start" x="223.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Blues patiently Internal</text>
+</svg>

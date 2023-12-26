@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="784" height="345" viewBox="0 0 784 345" style="background-color: rgb(255, 255, 255);">
+<line x1="36.5" y1="234.5" x2="779.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="190.5" x2="779.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="145.5" x2="779.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="101.5" x2="779.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="36.5" y1="56.5" x2="779.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="128,147,241,308" text-anchor="end" x="142.14285714285717" y="241.5" transform="rotate(270.0, 147.14285714285717, 241.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">analyst</text>
+<text aria-label="305,324,241,308" text-anchor="end" x="319.04761904761904" y="241.5" transform="rotate(270.0, 324.04761904761904, 241.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">citizen</text>
+<text aria-label="481,500,241,346" text-anchor="end" x="495.95238095238096" y="241.5" transform="rotate(270.0, 500.95238095238096, 241.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">consequence</text>
+<text aria-label="658,677,241,298" text-anchor="end" x="672.8571428571429" y="241.5" transform="rotate(270.0, 677.8571428571429, 241.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">hunger</text>
+<line aria-label="142,142,234,239" x1="142.5" y1="234.5" x2="142.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="319,319,234,239" x1="319.5" y1="234.5" x2="319.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="495,495,234,239" x1="495.5" y1="234.5" x2="495.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="672,672,234,239" x1="672.5" y1="234.5" x2="672.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,779,234,234" x1="36.5" y1="234.5" x2="779.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="277,537,0,26" text-anchor="middle" x="407.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Buckinghamshire Soft</text>
+<text aria-label="25,34,221,240" text-anchor="end" x="34.5" y="239.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="6,34,177,196" text-anchor="end" x="34.5" y="195.05555555555557" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="6,34,132,151" text-anchor="end" x="34.5" y="150.61111111111111" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="6,34,88,107" text-anchor="end" x="34.5" y="106.16666666666667" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="6,34,43,62" text-anchor="end" x="34.5" y="61.72222222222223" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<line aria-label="36,36,34,234" x1="36.5" y1="234.5" x2="36.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Hybrid: analyst; mesh elegantly orchid: 421; generating Producer: methodologies" role="graphics-symbol" aria-roledescription="bar" d="M71.38095238095241,46.888888888888886h141.52380952380952v187.11111111111111h-141.52380952380952Z" fill="#8eddde"/>
+<path aria-label="Hybrid: hunger; mesh elegantly orchid: 247; generating Producer: methodologies" role="graphics-symbol" aria-roledescription="bar" d="M602.0952380952381,124.22222222222223h141.52380952380952v109.77777777777777h-141.52380952380952Z" fill="#8eddde"/>
+<path aria-label="Hybrid: citizen; mesh elegantly orchid: 369; generating Producer: methodologies" role="graphics-symbol" aria-roledescription="bar" d="M248.2857142857143,70.0h141.52380952380952v164h-141.52380952380952Z" fill="#8eddde"/>
+<path aria-label="Hybrid: consequence; mesh elegantly orchid: 147; generating Producer: methodologies" role="graphics-symbol" aria-roledescription="bar" d="M425.1904761904762,168.66666666666666h141.52380952380952v65.33333333333334h-141.52380952380952Z" fill="#8eddde"/>
+</svg>

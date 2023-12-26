@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Tactics</text>
+<path aria-label="haptic Sleek process: 327; Bicycle: oh" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,80.08825199183475,204.7418179804398L88.72432463466538,180.21798774722066A49,49,0,0,1,104.99999999999999,85.0Z" fill="#1cd3df" stroke="black" stroke-width="2"/>
+<path aria-label="haptic Sleek process: 61; Bicycle: Quetzal" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.08825199183475,204.7418179804398A75,75,0,0,0,118.74403889272304,207.72992197822617L113.97943874324572,182.1702156924411A49,49,0,0,1,88.72432463466538,180.21798774722066Z" fill="#22cfc0" stroke="black" stroke-width="2"/>
+<path aria-label="haptic Sleek process: 345; Bicycle: Industrial" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.74403889272304,207.72992197822617A75,75,0,0,0,105.0,59.0L105.0,85.0A49,49,0,0,1,113.97943874324572,182.1702156924411Z" fill="#668d4c" stroke="black" stroke-width="2"/>
+<text aria-label="8,23,112,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.286651675501787" y="121.83616707239717" font-family="monospace" font-size="9px" fill="#1cd3df" opacity="1">327</text>
+<text aria-label="93,103,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="98.06366543050737" y="226.7323089123425" font-family="monospace" font-size="9px" fill="#22cfc0" opacity="1">61</text>
+<text aria-label="187,202,119,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.6181666115984" y="128.7184413800428" font-family="monospace" font-size="9px" fill="#668d4c" opacity="1">345</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#668d4c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M93.0,258.25A5,5,0,1,1,83.0,258.25A5,5,0,1,1,93.0,258.25" fill="#22cfc0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,258.25A5,5,0,1,1,145.0,258.25A5,5,0,1,1,155.0,258.25" fill="#1cd3df" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Industrial</text>
+<text aria-label="98,136,251,262" text-anchor="start" x="98.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Quetzal</text>
+<text aria-label="160,171,251,262" text-anchor="start" x="160.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">oh</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="211" height="270" viewBox="0 0 211 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">which</text>
+<path aria-label="Berkshire South: 238; overriding male: vendor" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,31.44110396975772,150.36822584879036L59.883877101451404,156.02584518725808A46,46,0,0,1,104.99999999999999,119.0Z" fill="#b6b7ce" stroke="black" stroke-width="0"/>
+<path aria-label="Berkshire South: 468; overriding male: JBOD" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.87072887625663,232.89150639731116A75,75,0,0,0,105.0,90.0L105.0,119.0A46,46,0,0,1,124.5473803774374,206.64012392368417Z" fill="#8ae27e" stroke="black" stroke-width="0"/>
+<path aria-label="Berkshire South: 382; overriding male: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.44110396975772,150.36822584879036A75,75,0,0,0,136.87072887625663,232.89150639731116L124.5473803774374,206.64012392368417A46,46,0,0,1,59.883877101451404,156.02584518725808Z" fill="#b58bbd" stroke="black" stroke-width="0"/>
+<text aria-label="36,59,85,100" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="47.90460442527186" y="99.4290591973537" font-family="Balto" font-size="14px" fill="#b6b7ce" opacity="1">238</text>
+<text aria-label="181,204,135,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.8415695753144" y="149.40768889219044" font-family="Balto" font-size="14px" fill="#8ae27e" opacity="1">468</text>
+<text aria-label="38,60,225,240" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="49.52677906653098" y="239.87116310084474" font-family="Balto" font-size="14px" fill="#b58bbd" opacity="1">382</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#8ae27e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M70.0,40.25A5,5,0,1,1,60.0,40.25A5,5,0,1,1,70.0,40.25" fill="#b58bbd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M148.0,40.25A5,5,0,1,1,138.0,40.25A5,5,0,1,1,148.0,40.25" fill="#b6b7ce" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">JBOD</text>
+<text aria-label="75,124,33,44" text-anchor="start" x="75.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="153,186,33,44" text-anchor="start" x="153.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">vendor</text>
+</svg>

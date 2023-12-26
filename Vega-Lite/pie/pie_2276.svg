@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="253" height="286" viewBox="0 0 253 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">dwindle National</text>
+<path aria-label="dehumanise: 413; heuristic Regional: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.44747896509625,239.886600324581A75,75,0,0,0,105.0,106.0L105.0,144.0A37,37,0,0,1,127.9140896227808,210.05072282679328Z" fill="#166b89" stroke="black" stroke-width="0"/>
+<path aria-label="dehumanise: 120; heuristic Regional: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M76.32468404767936,250.30170456081572A75,75,0,0,0,129.0503475684835,252.0392904091471L116.86483813378518,216.04604993517924A37,37,0,0,1,90.85351079685515,215.18884091666908Z" fill="#4ead4a" stroke="black" stroke-width="0"/>
+<path aria-label="dehumanise: 57; heuristic Regional: Intelligent" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.0503475684835,252.0392904091471A75,75,0,0,0,151.44747896509625,239.886600324581L127.9140896227808,210.05072282679328A37,37,0,0,1,116.86483813378518,216.04604993517924Z" fill="#6ddea9" stroke="black" stroke-width="0"/>
+<path aria-label="dehumanise: 459; heuristic Regional: generating" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,76.32468404767936,250.30170456081572L90.85351079685515,215.18884091666908A37,37,0,0,1,105.0,144.0Z" fill="#f6542c" stroke="black" stroke-width="0"/>
+<text aria-label="180,199,143,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.0286799705098" y="155.50214274777528" font-family="sans-serif" font-size="12px" fill="#166b89" opacity="1">413</text>
+<text aria-label="92,111,262,275" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.03563946736338" y="274.95116767798265" font-family="sans-serif" font-size="12px" fill="#4ead4a" opacity="1">120</text>
+<text aria-label="141,154,252,265" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.92257345511885" y="264.10532654625683" font-family="sans-serif" font-size="12px" fill="#6ddea9" opacity="1">57</text>
+<text aria-label="6,26,155,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.726039817599386" y="167.45839363923727" font-family="sans-serif" font-size="12px" fill="#f6542c" opacity="1">459</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#166b89" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,56.25A5,5,0,1,1,53.0,56.25A5,5,0,1,1,63.0,56.25" fill="#6ddea9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,56.25A5,5,0,1,1,129.0,56.25A5,5,0,1,1,139.0,56.25" fill="#4ead4a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M190.0,56.25A5,5,0,1,1,180.0,56.25A5,5,0,1,1,190.0,56.25" fill="#f6542c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="68,128,49,60" text-anchor="start" x="68.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Intelligent</text>
+<text aria-label="144,171,49,60" text-anchor="start" x="144.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="195,250,49,60" text-anchor="start" x="195.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">generating</text>
+<text aria-label="5,113,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">heuristic Regional</text>
+</svg>

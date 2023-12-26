@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="563" height="296" viewBox="0 0 563 296" style="background-color: rgb(255, 255, 255);">
+<line x1="113.5" y1="34.5" x2="113.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="291.5" y1="34.5" x2="291.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="469.5" y1="34.5" x2="469.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="104,116,241,289" text-anchor="end" x="113.83333333333339" y="241.5" transform="rotate(270.0, 116.83333333333339, 241.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">birdbath</text>
+<text aria-label="282,294,241,295" text-anchor="end" x="291.50000000000006" y="241.5" transform="rotate(270.0, 294.50000000000006, 241.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">melatonin</text>
+<text aria-label="460,472,241,295" text-anchor="end" x="469.1666666666667" y="241.5" transform="rotate(270.0, 472.1666666666667, 241.5)" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">xylophone</text>
+<line aria-label="113,113,234,239" x1="113.5" y1="234.5" x2="113.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="291,291,234,239" x1="291.5" y1="234.5" x2="291.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="469,469,234,239" x1="469.5" y1="234.5" x2="469.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="25,558,234,234" x1="25.5" y1="234.5" x2="558.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="174,408,0,26" text-anchor="middle" x="291.5" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">green male quicker</text>
+<text aria-label="17,23,226,238" text-anchor="end" x="23.5" y="237.5" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="5,23,190,202" text-anchor="end" x="23.5" y="201.13636363636363" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="5,23,153,165" text-anchor="end" x="23.5" y="164.77272727272725" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="5,23,117,129" text-anchor="end" x="23.5" y="128.40909090909093" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="5,23,81,93" text-anchor="end" x="23.5" y="92.04545454545453" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="5,23,44,56" text-anchor="end" x="23.5" y="55.68181818181819" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="25,25,34,234" x1="25.5" y1="234.5" x2="25.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="driver whiteboard: xylophone; Trial Classical: 537; customized Bronze: minima Fiat collaboration" role="graphics-symbol" aria-roledescription="bar" d="M413.2016666666667,38.727272727272734h111.93000000000002v195.27272727272725h-111.93000000000002Z" fill="#cbb911"/>
+<path aria-label="driver whiteboard: birdbath; Trial Classical: 445; customized Bronze: minima Fiat collaboration" role="graphics-symbol" aria-roledescription="bar" d="M57.86833333333338,72.18181818181819h111.93000000000002v161.8181818181818h-111.93000000000002Z" fill="#cbb911"/>
+<path aria-label="driver whiteboard: melatonin; Trial Classical: 419; customized Bronze: minima Fiat collaboration" role="graphics-symbol" aria-roledescription="bar" d="M235.53500000000003,81.63636363636363h111.93000000000002v152.36363636363637h-111.93000000000002Z" fill="#cbb911"/>
+</svg>

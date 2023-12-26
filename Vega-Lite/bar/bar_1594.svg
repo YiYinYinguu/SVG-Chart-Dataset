@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="520" height="311" viewBox="0 0 520 311" style="background-color: rgb(255, 255, 255);">
+<line x1="33.5" y1="234.5" x2="515.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="33.5" y1="190.5" x2="515.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="33.5" y1="145.5" x2="515.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="33.5" y1="101.5" x2="515.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="33.5" y1="56.5" x2="515.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="43,58,241,286" text-anchor="end" x="54.90909090909088" y="241.5" transform="rotate(270.0, 58.90909090909088, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">endive</text>
+<text aria-label="87,102,241,264" text-anchor="end" x="98.72727272727269" y="241.5" transform="rotate(270.0, 102.72727272727269, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">fav</text>
+<text aria-label="131,146,241,271" text-anchor="end" x="142.5454545454545" y="241.5" transform="rotate(270.0, 146.5454545454545, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">full</text>
+<text aria-label="175,190,241,286" text-anchor="end" x="186.36363636363635" y="241.5" transform="rotate(270.0, 190.36363636363635, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">handle</text>
+<text aria-label="219,234,241,309" text-anchor="end" x="230.18181818181816" y="241.5" transform="rotate(270.0, 234.18181818181816, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">lightning</text>
+<text aria-label="263,278,241,286" text-anchor="end" x="274.0" y="241.5" transform="rotate(270.0, 278.0, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">paddle</text>
+<text aria-label="306,321,241,294" text-anchor="end" x="317.81818181818187" y="241.5" transform="rotate(270.0, 321.81818181818187, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">recruit</text>
+<text aria-label="350,365,241,286" text-anchor="end" x="361.6363636363636" y="241.5" transform="rotate(270.0, 365.6363636363636, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">shadow</text>
+<text aria-label="394,409,241,294" text-anchor="end" x="405.4545454545455" y="241.5" transform="rotate(270.0, 409.4545454545455, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">utensil</text>
+<text aria-label="438,453,241,294" text-anchor="end" x="449.27272727272725" y="241.5" transform="rotate(270.0, 453.27272727272725, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">volcano</text>
+<text aria-label="482,497,241,286" text-anchor="end" x="493.0909090909091" y="241.5" transform="rotate(270.0, 497.0909090909091, 241.5)" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">winner</text>
+<line aria-label="54,54,234,239" x1="54.5" y1="234.5" x2="54.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="98,98,234,239" x1="98.5" y1="234.5" x2="98.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="142,142,234,239" x1="142.5" y1="234.5" x2="142.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="186,186,234,239" x1="186.5" y1="234.5" x2="186.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="230,230,234,239" x1="230.5" y1="234.5" x2="230.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="273,273,234,239" x1="273.5" y1="234.5" x2="273.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="317,317,234,239" x1="317.5" y1="234.5" x2="317.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="361,361,234,239" x1="361.5" y1="234.5" x2="361.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="405,405,234,239" x1="405.5" y1="234.5" x2="405.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="449,449,234,239" x1="449.5" y1="234.5" x2="449.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="493,493,234,239" x1="493.5" y1="234.5" x2="493.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="33,515,234,234" x1="33.5" y1="234.5" x2="515.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0986328125" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Lebanese</text>
+<text aria-label="24,31,224,239" text-anchor="end" x="31.5" y="238.5" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="9,31,180,195" text-anchor="end" x="31.5" y="194.05555555555557" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="9,31,135,150" text-anchor="end" x="31.5" y="149.61111111111111" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="9,31,91,106" text-anchor="end" x="31.5" y="105.16666666666667" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="9,31,46,61" text-anchor="end" x="31.5" y="60.72222222222223" font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000" opacity="1">400</text>
+<path aria-label="Extended female West: paddle; Elegant Arsenic productivity: 37; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M260.19727272727266,217.55555555555557h27.60545454545455v16.44444444444443h-27.60545454545455Z" fill="#09a042"/>
+<path aria-label="Extended female West: recruit; Elegant Arsenic productivity: 258; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M304.0154545454546,119.33333333333333h27.60545454545455v114.66666666666667h-27.60545454545455Z" fill="#09a042"/>
+<path aria-label="Extended female West: shadow; Elegant Arsenic productivity: 73; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M347.83363636363634,201.55555555555554h27.60545454545455v32.44444444444446h-27.60545454545455Z" fill="#09a042"/>
+<path aria-label="Extended female West: handle; Elegant Arsenic productivity: 214; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M172.56090909090906,138.8888888888889h27.60545454545455v95.1111111111111h-27.60545454545455Z" fill="#09a042"/>
+<path aria-label="Extended female West: full; Elegant Arsenic productivity: 219; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M128.74272727272725,136.66666666666666h27.60545454545455v97.33333333333334h-27.60545454545455Z" fill="#09a042"/>
+<path aria-label="Extended female West: winner; Elegant Arsenic productivity: 204; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M479.28818181818184,143.33333333333331h27.60545454545455v90.66666666666667h-27.60545454545455Z" fill="#09a042"/>
+<path aria-label="Extended female West: volcano; Elegant Arsenic productivity: 126; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M435.46999999999997,178.0h27.60545454545455v56h-27.60545454545455Z" fill="#09a042"/>
+<path aria-label="Extended female West: fav; Elegant Arsenic productivity: 264; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M84.92454545454542,116.66666666666667h27.60545454545455v117.33333333333333h-27.60545454545455Z" fill="#09a042"/>
+<path aria-label="Extended female West: utensil; Elegant Arsenic productivity: 180; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M391.6518181818182,154.0h27.60545454545455v80h-27.60545454545455Z" fill="#09a042"/>
+<path aria-label="Extended female West: endive; Elegant Arsenic productivity: 409; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M41.106363636363604,52.22222222222223h27.60545454545455v181.77777777777777h-27.60545454545455Z" fill="#09a042"/>
+<path aria-label="Extended female West: lightning; Elegant Arsenic productivity: 107; citron Boynton: South Van" role="graphics-symbol" aria-roledescription="bar" d="M216.37909090909088,186.44444444444446h27.60545454545455v47.55555555555554h-27.60545454545455Z" fill="#09a042"/>
+<text aria-label="269,278,207,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="274.0" y="214.49455555555556" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">37</text>
+<text aria-label="311,323,109,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="317.81818181818187" y="116.27233333333334" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">258</text>
+<text aria-label="357,365,191,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="361.6363636363636" y="198.49455555555554" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">73</text>
+<text aria-label="180,192,128,136" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.36363636363635" y="135.8278888888889" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">214</text>
+<text aria-label="136,148,126,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.5454545454545" y="133.60566666666665" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">219</text>
+<text aria-label="486,499,133,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="493.0909090909091" y="140.27233333333334" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">204</text>
+<text aria-label="443,455,167,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="449.27272727272725" y="174.939" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">126</text>
+<text aria-label="92,104,106,114" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="98.72727272727269" y="113.60566666666668" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">264</text>
+<text aria-label="399,411,143,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="405.4545454545455" y="150.93900000000002" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">180</text>
+<text aria-label="48,61,41,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.90909090909088" y="49.16122222222223" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">409</text>
+<text aria-label="224,236,176,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="230.18181818181816" y="183.38344444444445" font-family="sans-serif" font-size="7.2299999999999995px" fill="#000" opacity="1">107</text>
+</svg>

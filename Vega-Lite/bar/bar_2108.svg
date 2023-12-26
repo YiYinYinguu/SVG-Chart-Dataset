@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="635" height="327" viewBox="0 0 635 327" style="background-color: rgb(255, 255, 255);">
+<line x1="32.5" y1="234.5" x2="630.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="32.5" y1="178.5" x2="630.5" y2="178.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="32.5" y1="123.5" x2="630.5" y2="123.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="32.5" y1="67.5" x2="630.5" y2="67.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="80,92,241,283" text-anchor="end" x="89.87096774193552" y="241.5" transform="rotate(270.0, 92.87096774193552, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">decimal</text>
+<text aria-label="177,189,241,265" text-anchor="end" x="186.3225806451613" y="241.5" transform="rotate(270.0, 189.3225806451613, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">kilt</text>
+<text aria-label="273,285,241,289" text-anchor="end" x="282.77419354838713" y="241.5" transform="rotate(270.0, 285.77419354838713, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">reminder</text>
+<text aria-label="370,382,241,289" text-anchor="end" x="379.2258064516129" y="241.5" transform="rotate(270.0, 382.2258064516129, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">rudiment</text>
+<text aria-label="466,478,241,283" text-anchor="end" x="475.6774193548387" y="241.5" transform="rotate(270.0, 478.6774193548387, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">steeple</text>
+<text aria-label="563,575,241,265" text-anchor="end" x="572.1290322580645" y="241.5" transform="rotate(270.0, 575.1290322580645, 241.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">stud</text>
+<line aria-label="89,89,234,239" x1="89.5" y1="234.5" x2="89.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="186,186,234,239" x1="186.5" y1="234.5" x2="186.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="282,282,234,239" x1="282.5" y1="234.5" x2="282.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="379,379,234,239" x1="379.5" y1="234.5" x2="379.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="475,475,234,239" x1="475.5" y1="234.5" x2="475.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="572,572,234,239" x1="572.5" y1="234.5" x2="572.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,630,234,234" x1="32.5" y1="234.5" x2="630.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="474,630,0,26" text-anchor="end" x="630.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Minivan Hong</text>
+<text aria-label="19,25,226,238" text-anchor="end" x="25.5" y="237.5" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="13,25,170,182" text-anchor="end" x="25.5" y="181.94444444444443" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="7,25,115,127" text-anchor="end" x="25.5" y="126.38888888888889" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="7,25,59,71" text-anchor="end" x="25.5" y="70.83333333333333" font-family="Balto" font-size="11px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="27,32,234,234" x1="32.5" y1="234.5" x2="27.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,178,178" x1="32.5" y1="178.5" x2="27.5" y2="178.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,123,123" x1="32.5" y1="123.5" x2="27.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,67,67" x1="32.5" y1="67.5" x2="27.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,32,34,234" x1="32.5" y1="234.5" x2="32.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="global deposit: steeple; Latin Synchronised: 85; Recycled: Industrial invoice" role="graphics-symbol" aria-roledescription="bar" d="M437.0967741935484,139.55555555555554h77.16129032258065v94.44444444444444h-77.16129032258065Z" fill="#fba8fc"/>
+<path aria-label="global deposit: stud; Latin Synchronised: 164; Recycled: Industrial invoice" role="graphics-symbol" aria-roledescription="bar" d="M533.5483870967741,51.777777777777786h77.16129032258065v182.22222222222223h-77.16129032258065Z" fill="#fba8fc"/>
+<path aria-label="global deposit: rudiment; Latin Synchronised: 25; Recycled: Industrial invoice" role="graphics-symbol" aria-roledescription="bar" d="M340.6451612903226,206.22222222222223h77.16129032258065v27.77777777777777h-77.16129032258065Z" fill="#fba8fc"/>
+<path aria-label="global deposit: decimal; Latin Synchronised: 23; Recycled: Industrial invoice" role="graphics-symbol" aria-roledescription="bar" d="M51.29032258064518,208.44444444444446h77.16129032258065v25.555555555555543h-77.16129032258065Z" fill="#fba8fc"/>
+<path aria-label="global deposit: reminder; Latin Synchronised: 152; Recycled: Industrial invoice" role="graphics-symbol" aria-roledescription="bar" d="M244.1935483870968,65.11111111111111h77.16129032258065v168.88888888888889h-77.16129032258065Z" fill="#fba8fc"/>
+<path aria-label="global deposit: kilt; Latin Synchronised: 146; Recycled: Industrial invoice" role="graphics-symbol" aria-roledescription="bar" d="M147.74193548387098,71.77777777777777h77.16129032258065v162.22222222222223h-77.16129032258065Z" fill="#fba8fc"/>
+<path  d="M33.0,312.0h10v10h-10Z" fill="#fba8fc" stroke-width="1.5" opacity="1"/>
+<text aria-label="48,147,310,321" text-anchor="start" x="48.0" y="320.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Industrial invoice</text>
+</svg>

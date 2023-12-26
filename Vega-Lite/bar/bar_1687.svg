@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="907" height="346" viewBox="0 0 907 346" style="background-color: rgb(255, 255, 255);">
+<line x1="103.5" y1="34.5" x2="103.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="196.5" y1="34.5" x2="196.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="289.5" y1="34.5" x2="289.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="382.5" y1="34.5" x2="382.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="474.5" y1="34.5" x2="474.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="567.5" y1="34.5" x2="567.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="660.5" y1="34.5" x2="660.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="753.5" y1="34.5" x2="753.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="846.5" y1="34.5" x2="846.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="89,109,241,321" text-anchor="end" x="103.695652173913" y="241.5" transform="rotate(270.0, 109.695652173913, 241.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">backdrop</text>
+<text aria-label="182,202,241,311" text-anchor="end" x="196.52173913043475" y="241.5" transform="rotate(270.0, 202.52173913043475, 241.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">consist</text>
+<text aria-label="275,295,241,341" text-anchor="end" x="289.3478260869565" y="241.5" transform="rotate(270.0, 295.3478260869565, 241.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">evaluation</text>
+<text aria-label="368,388,241,271" text-anchor="end" x="382.1739130434782" y="241.5" transform="rotate(270.0, 388.1739130434782, 241.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">joy</text>
+<text aria-label="460,480,241,301" text-anchor="end" x="474.99999999999994" y="241.5" transform="rotate(270.0, 480.99999999999994, 241.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">pencil</text>
+<text aria-label="553,573,241,291" text-anchor="end" x="567.8260869565217" y="241.5" transform="rotate(270.0, 573.8260869565217, 241.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">prose</text>
+<text aria-label="646,666,241,301" text-anchor="end" x="660.6521739130435" y="241.5" transform="rotate(270.0, 666.6521739130435, 241.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">shadow</text>
+<text aria-label="739,759,241,281" text-anchor="end" x="753.4782608695652" y="241.5" transform="rotate(270.0, 759.4782608695652, 241.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">side</text>
+<text aria-label="832,852,241,271" text-anchor="end" x="846.304347826087" y="241.5" transform="rotate(270.0, 852.304347826087, 241.5)" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">yin</text>
+<line aria-label="103,103,234,239" x1="103.5" y1="234.5" x2="103.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="196,196,234,239" x1="196.5" y1="234.5" x2="196.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="289,289,234,239" x1="289.5" y1="234.5" x2="289.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="382,382,234,239" x1="382.5" y1="234.5" x2="382.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="474,474,234,239" x1="474.5" y1="234.5" x2="474.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="567,567,234,239" x1="567.5" y1="234.5" x2="567.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="660,660,234,239" x1="660.5" y1="234.5" x2="660.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="753,753,234,239" x1="753.5" y1="234.5" x2="753.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="846,846,234,239" x1="846.5" y1="234.5" x2="846.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,902,234,234" x1="48.5" y1="234.5" x2="902.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,44,0,26" text-anchor="start" x="5.84814453125" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Car</text>
+<text aria-label="31,41,221,241" text-anchor="end" x="41.5" y="240.5" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="11,41,190,210" text-anchor="end" x="41.5" y="209.73076923076923" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="11,41,159,179" text-anchor="end" x="41.5" y="178.96153846153845" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="11,41,129,149" text-anchor="end" x="41.5" y="148.19230769230768" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="11,41,98,118" text-anchor="end" x="41.5" y="117.42307692307692" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="11,41,67,87" text-anchor="end" x="41.5" y="86.65384615384615" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="11,41,36,56" text-anchor="end" x="41.5" y="55.88461538461537" font-family="sans-serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="43,48,234,234" x1="48.5" y1="234.5" x2="43.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,203,203" x1="48.5" y1="203.5" x2="43.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,172,172" x1="48.5" y1="172.5" x2="43.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,142,142" x1="48.5" y1="142.5" x2="43.5" y2="142.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,111,111" x1="48.5" y1="111.5" x2="43.5" y2="111.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,80,80" x1="48.5" y1="80.5" x2="43.5" y2="80.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,49,49" x1="48.5" y1="49.5" x2="43.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Producer finesse Northeast: shadow; East quantify Marks: 535; closely Kong program: Central UDP Inglewood" role="graphics-symbol" aria-roledescription="bar" d="M623.5217391304348,69.38461538461539h24.753623188405797v164.6153846153846h-24.753623188405797Z" fill="#c2fbc6"/>
+<path aria-label="Producer finesse Northeast: shadow; East quantify Marks: 374; closely Kong program: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M673.0289855072464,118.92307692307692h24.753623188405797v115.07692307692308h-24.753623188405797Z" fill="#aac34a"/>
+<path aria-label="Producer finesse Northeast: shadow; East quantify Marks: 390; closely Kong program: weber" role="graphics-symbol" aria-roledescription="bar" d="M648.2753623188405,114.0h24.753623188405797v120h-24.753623188405797Z" fill="#4a8bbc"/>
+<path aria-label="Producer finesse Northeast: yin; East quantify Marks: 107; closely Kong program: Central UDP Inglewood" role="graphics-symbol" aria-roledescription="bar" d="M809.1739130434783,201.07692307692307h24.753623188405797v32.923076923076934h-24.753623188405797Z" fill="#c2fbc6"/>
+<path aria-label="Producer finesse Northeast: yin; East quantify Marks: 422; closely Kong program: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M858.6811594202899,104.15384615384615h24.753623188405797v129.84615384615387h-24.753623188405797Z" fill="#aac34a"/>
+<path aria-label="Producer finesse Northeast: yin; East quantify Marks: 380; closely Kong program: weber" role="graphics-symbol" aria-roledescription="bar" d="M833.927536231884,117.07692307692307h24.753623188405797v116.92307692307693h-24.753623188405797Z" fill="#4a8bbc"/>
+<path aria-label="Producer finesse Northeast: backdrop; East quantify Marks: 204; closely Kong program: Central UDP Inglewood" role="graphics-symbol" aria-roledescription="bar" d="M66.56521739130432,171.23076923076923h24.753623188405797v62.769230769230774h-24.753623188405797Z" fill="#c2fbc6"/>
+<path aria-label="Producer finesse Northeast: backdrop; East quantify Marks: 496; closely Kong program: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M116.07246376811591,81.38461538461539h24.753623188405797v152.6153846153846h-24.753623188405797Z" fill="#aac34a"/>
+<path aria-label="Producer finesse Northeast: backdrop; East quantify Marks: 8; closely Kong program: weber" role="graphics-symbol" aria-roledescription="bar" d="M91.31884057971011,231.53846153846152h24.753623188405797v2.461538461538481h-24.753623188405797Z" fill="#4a8bbc"/>
+<path aria-label="Producer finesse Northeast: pencil; East quantify Marks: 358; closely Kong program: Central UDP Inglewood" role="graphics-symbol" aria-roledescription="bar" d="M437.86956521739125,123.84615384615384h24.753623188405797v110.15384615384616h-24.753623188405797Z" fill="#c2fbc6"/>
+<path aria-label="Producer finesse Northeast: pencil; East quantify Marks: 91; closely Kong program: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M487.3768115942029,206.0h24.753623188405797v28h-24.753623188405797Z" fill="#aac34a"/>
+<path aria-label="Producer finesse Northeast: pencil; East quantify Marks: 328; closely Kong program: weber" role="graphics-symbol" aria-roledescription="bar" d="M462.62318840579707,133.0769230769231h24.753623188405797v100.92307692307692h-24.753623188405797Z" fill="#4a8bbc"/>
+<path aria-label="Producer finesse Northeast: evaluation; East quantify Marks: 87; closely Kong program: Central UDP Inglewood" role="graphics-symbol" aria-roledescription="bar" d="M252.21739130434779,207.23076923076923h24.753623188405797v26.769230769230774h-24.753623188405797Z" fill="#c2fbc6"/>
+<path aria-label="Producer finesse Northeast: evaluation; East quantify Marks: 289; closely Kong program: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M301.7246376811594,145.07692307692307h24.753623188405797v88.92307692307693h-24.753623188405797Z" fill="#aac34a"/>
+<path aria-label="Producer finesse Northeast: evaluation; East quantify Marks: 28; closely Kong program: weber" role="graphics-symbol" aria-roledescription="bar" d="M276.97101449275357,225.3846153846154h24.753623188405797v8.615384615384613h-24.753623188405797Z" fill="#4a8bbc"/>
+<path aria-label="Producer finesse Northeast: side; East quantify Marks: 487; closely Kong program: Central UDP Inglewood" role="graphics-symbol" aria-roledescription="bar" d="M716.3478260869565,84.15384615384615h24.753623188405797v149.84615384615387h-24.753623188405797Z" fill="#c2fbc6"/>
+<path aria-label="Producer finesse Northeast: side; East quantify Marks: 29; closely Kong program: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M765.8550724637681,225.07692307692307h24.753623188405797v8.923076923076934h-24.753623188405797Z" fill="#aac34a"/>
+<path aria-label="Producer finesse Northeast: side; East quantify Marks: 536; closely Kong program: weber" role="graphics-symbol" aria-roledescription="bar" d="M741.1014492753623,69.07692307692307h24.753623188405797v164.92307692307693h-24.753623188405797Z" fill="#4a8bbc"/>
+<path aria-label="Producer finesse Northeast: joy; East quantify Marks: 207; closely Kong program: Central UDP Inglewood" role="graphics-symbol" aria-roledescription="bar" d="M345.0434782608695,170.30769230769232h24.753623188405797v63.69230769230768h-24.753623188405797Z" fill="#c2fbc6"/>
+<path aria-label="Producer finesse Northeast: joy; East quantify Marks: 92; closely Kong program: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M394.5507246376811,205.6923076923077h24.753623188405797v28.307692307692292h-24.753623188405797Z" fill="#aac34a"/>
+<path aria-label="Producer finesse Northeast: joy; East quantify Marks: 577; closely Kong program: weber" role="graphics-symbol" aria-roledescription="bar" d="M369.7971014492753,56.46153846153847h24.753623188405797v177.53846153846155h-24.753623188405797Z" fill="#4a8bbc"/>
+<path aria-label="Producer finesse Northeast: prose; East quantify Marks: 555; closely Kong program: Central UDP Inglewood" role="graphics-symbol" aria-roledescription="bar" d="M530.695652173913,63.23076923076924h24.753623188405797v170.76923076923077h-24.753623188405797Z" fill="#c2fbc6"/>
+<path aria-label="Producer finesse Northeast: prose; East quantify Marks: 482; closely Kong program: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M580.2028985507246,85.69230769230768h24.753623188405797v148.30769230769232h-24.753623188405797Z" fill="#aac34a"/>
+<path aria-label="Producer finesse Northeast: prose; East quantify Marks: 345; closely Kong program: weber" role="graphics-symbol" aria-roledescription="bar" d="M555.4492753623188,127.84615384615384h24.753623188405797v106.15384615384616h-24.753623188405797Z" fill="#4a8bbc"/>
+<path aria-label="Producer finesse Northeast: consist; East quantify Marks: 168; closely Kong program: Central UDP Inglewood" role="graphics-symbol" aria-roledescription="bar" d="M159.39130434782606,182.3076923076923h24.753623188405797v51.69230769230771h-24.753623188405797Z" fill="#c2fbc6"/>
+<path aria-label="Producer finesse Northeast: consist; East quantify Marks: 120; closely Kong program: withdrawal" role="graphics-symbol" aria-roledescription="bar" d="M208.89855072463763,197.07692307692307h24.753623188405797v36.923076923076934h-24.753623188405797Z" fill="#aac34a"/>
+<path aria-label="Producer finesse Northeast: consist; East quantify Marks: 610; closely Kong program: weber" role="graphics-symbol" aria-roledescription="bar" d="M184.14492753623185,46.30769230769231h24.753623188405797v187.69230769230768h-24.753623188405797Z" fill="#4a8bbc"/>
+</svg>

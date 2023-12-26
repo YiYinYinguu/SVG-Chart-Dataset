@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="362" height="270" viewBox="0 0 362 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="240,357,0,26" text-anchor="end" x="357.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Berkshire</text>
+<path aria-label="duh International Bentley: 77; Greenholt transmitting: transparent" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,84.84292658020391,92.75948234440072L93.98079986384481,125.50851701493906A41,41,0,0,1,104.99999999999999,124.0Z" fill="#a16c8e" stroke="white" stroke-width="4"/>
+<path aria-label="duh International Bentley: 26; Greenholt transmitting: Californium" role="graphics-symbol" aria-roledescription="arc mark"  d="M111.88131600618978,90.31635058446223A75,75,0,0,0,105.0,90.0L105.0,124.0A41,41,0,0,1,108.76178608338374,124.17293831950602Z" fill="#2f8f0c" stroke="white" stroke-width="4"/>
+<path aria-label="duh International Bentley: 541; Greenholt transmitting: Thorium" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.0815814595678,196.46264874361717A75,75,0,0,0,111.88131600618978,90.31635058446223L108.76178608338374,124.17293831950602A41,41,0,0,1,142.21793119789706,182.1995813131774Z" fill="#abc2aa" stroke="white" stroke-width="4"/>
+<path aria-label="duh International Bentley: 479; Greenholt transmitting: interface" role="graphics-symbol" aria-roledescription="arc mark"  d="M84.84292658020391,92.75948234440072A75,75,0,0,0,35.74713061978045,193.79305615259085L67.14176473881332,180.740204030083A41,41,0,0,1,93.98079986384481,125.50851701493906Z" fill="#56b4ca" stroke="white" stroke-width="4"/>
+<path aria-label="duh International Bentley: 655; Greenholt transmitting: endure" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.74713061978045,193.79305615259085A75,75,0,0,0,173.0815814595678,196.46264874361717L142.21793119789706,182.1995813131774A41,41,0,0,1,67.14176473881332,180.740204030083Z" fill="#214ed1" stroke="white" stroke-width="4"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#2f8f0c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M99.0,40.25A5,5,0,1,1,89.0,40.25A5,5,0,1,1,99.0,40.25" fill="#abc2aa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M167.0,40.25A5,5,0,1,1,157.0,40.25A5,5,0,1,1,167.0,40.25" fill="#214ed1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M228.0,40.25A5,5,0,1,1,218.0,40.25A5,5,0,1,1,228.0,40.25" fill="#56b4ca" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M297.0,40.25A5,5,0,1,1,287.0,40.25A5,5,0,1,1,297.0,40.25" fill="#a16c8e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Californium</text>
+<text aria-label="104,142,33,44" text-anchor="start" x="104.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Thorium</text>
+<text aria-label="172,205,33,44" text-anchor="start" x="172.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">endure</text>
+<text aria-label="233,282,33,44" text-anchor="start" x="233.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">interface</text>
+<text aria-label="302,362,33,44" text-anchor="start" x="302.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">transparent</text>
+</svg>

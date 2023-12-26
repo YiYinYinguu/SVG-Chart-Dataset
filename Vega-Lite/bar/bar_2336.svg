@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="985" height="364" viewBox="0 0 985 364" style="background-color: rgb(255, 255, 255);">
+<text aria-label="105,124,269,336" text-anchor="end" x="119.25000000000003" y="269.5" transform="rotate(270.0, 124.25000000000003, 269.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">boolean</text>
+<text aria-label="235,254,269,336" text-anchor="end" x="249.66666666666669" y="269.5" transform="rotate(270.0, 254.66666666666669, 269.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">cooking</text>
+<text aria-label="366,385,269,317" text-anchor="end" x="380.08333333333337" y="269.5" transform="rotate(270.0, 385.08333333333337, 269.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">opera</text>
+<text aria-label="496,515,269,336" text-anchor="end" x="510.50000000000006" y="269.5" transform="rotate(270.0, 515.5, 269.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">patient</text>
+<text aria-label="626,645,269,345" text-anchor="end" x="640.9166666666666" y="269.5" transform="rotate(270.0, 645.9166666666666, 269.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">printing</text>
+<text aria-label="757,776,269,364" text-anchor="end" x="771.3333333333333" y="269.5" transform="rotate(270.0, 776.3333333333333, 269.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">punishment</text>
+<text aria-label="887,906,269,317" text-anchor="end" x="901.75" y="269.5" transform="rotate(270.0, 906.75, 269.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">spork</text>
+<line aria-label="119,119,262,267" x1="119.5" y1="262.5" x2="119.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="249,249,262,267" x1="249.5" y1="262.5" x2="249.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="380,380,262,267" x1="380.5" y1="262.5" x2="380.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="510,510,262,267" x1="510.5" y1="262.5" x2="510.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="640,640,262,267" x1="640.5" y1="262.5" x2="640.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="771,771,262,267" x1="771.5" y1="262.5" x2="771.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="901,901,262,267" x1="901.5" y1="262.5" x2="901.5" y2="267.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,980,262,262" x1="41.5" y1="262.5" x2="980.5" y2="262.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="811,980,0,26" text-anchor="end" x="980.0" y="25.798269230769243" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Trial Bicycle</text>
+<text aria-label="25,34,249,268" text-anchor="end" x="34.5" y="267.5" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="6,34,218,237" text-anchor="end" x="34.5" y="236.73076923076923" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="6,34,187,206" text-anchor="end" x="34.5" y="205.96153846153845" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="6,34,157,176" text-anchor="end" x="34.5" y="175.19230769230768" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="6,34,126,145" text-anchor="end" x="34.5" y="144.4230769230769" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="6,34,95,114" text-anchor="end" x="34.5" y="113.65384615384615" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="6,34,64,83" text-anchor="end" x="34.5" y="82.88461538461537" font-family="serif" font-size="18px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="36,41,262,262" x1="41.5" y1="262.5" x2="36.5" y2="262.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,231,231" x1="41.5" y1="231.5" x2="36.5" y2="231.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,200,200" x1="41.5" y1="200.5" x2="36.5" y2="200.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,170,170" x1="41.5" y1="170.5" x2="36.5" y2="170.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,139,139" x1="41.5" y1="139.5" x2="36.5" y2="139.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,108,108" x1="41.5" y1="108.5" x2="36.5" y2="108.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,77,77" x1="41.5" y1="77.5" x2="36.5" y2="77.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="ampere orange quo: boolean; Intranet: 313; tan capacitor: bitterly 1080p" role="graphics-symbol" aria-roledescription="bar" d="M67.08333333333337,165.6923076923077h104.33333333333333v96.30769230769229h-104.33333333333333Z" fill="#d75e19"/>
+<path aria-label="ampere orange quo: cooking; Intranet: 559; tan capacitor: bitterly 1080p" role="graphics-symbol" aria-roledescription="bar" d="M197.50000000000003,90.0h104.33333333333333v172h-104.33333333333333Z" fill="#d75e19"/>
+<path aria-label="ampere orange quo: patient; Intranet: 646; tan capacitor: bitterly 1080p" role="graphics-symbol" aria-roledescription="bar" d="M458.33333333333337,63.23076923076923h104.33333333333333v198.76923076923077h-104.33333333333333Z" fill="#d75e19"/>
+<path aria-label="ampere orange quo: spork; Intranet: 321; tan capacitor: bitterly 1080p" role="graphics-symbol" aria-roledescription="bar" d="M849.5833333333334,163.23076923076923h104.33333333333333v98.76923076923076h-104.33333333333333Z" fill="#d75e19"/>
+<path aria-label="ampere orange quo: punishment; Intranet: 210; tan capacitor: bitterly 1080p" role="graphics-symbol" aria-roledescription="bar" d="M719.1666666666666,197.3846153846154h104.33333333333333v64.61538461538461h-104.33333333333333Z" fill="#d75e19"/>
+<path aria-label="ampere orange quo: opera; Intranet: 146; tan capacitor: bitterly 1080p" role="graphics-symbol" aria-roledescription="bar" d="M327.9166666666667,217.07692307692307h104.33333333333333v44.923076923076934h-104.33333333333333Z" fill="#d75e19"/>
+<path aria-label="ampere orange quo: printing; Intranet: 339; tan capacitor: bitterly 1080p" role="graphics-symbol" aria-roledescription="bar" d="M588.75,157.69230769230768h104.33333333333333v104.3076923076923h-104.33333333333333Z" fill="#d75e19"/>
+<text aria-label="100,137,132,157" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="119.25000000000003" y="156.25980769230773" font-family="serif" font-size="23.474999999999994px" fill="#000" opacity="1">313</text>
+<text aria-label="231,268,57,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.66666666666669" y="80.56750000000001" font-family="serif" font-size="23.474999999999994px" fill="#000" opacity="1">559</text>
+<text aria-label="492,528,30,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="510.50000000000006" y="53.79826923076924" font-family="serif" font-size="23.474999999999994px" fill="#000" opacity="1">646</text>
+<text aria-label="883,920,130,154" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="901.75" y="153.79826923076925" font-family="serif" font-size="23.474999999999994px" fill="#000" opacity="1">321</text>
+<text aria-label="752,789,164,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="771.3333333333333" y="187.9521153846154" font-family="serif" font-size="23.474999999999994px" fill="#000" opacity="1">210</text>
+<text aria-label="361,398,184,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="380.08333333333337" y="207.64442307692306" font-family="serif" font-size="23.474999999999994px" fill="#000" opacity="1">146</text>
+<text aria-label="622,659,124,149" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="640.9166666666666" y="148.2598076923077" font-family="serif" font-size="23.474999999999994px" fill="#000" opacity="1">339</text>
+</svg>

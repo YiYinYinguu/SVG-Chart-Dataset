@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="227" height="286" viewBox="0 0 227 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">midnight</text>
+<path aria-label="Metrics blue Sedan: 24; modular Cotton: Porsche" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.93810222899978,87.61789024156002A75,75,0,0,0,131.5343968825606,63.850689368470924L105.0,134.0Z" fill="#40dc2d" stroke="black" stroke-width="0"/>
+<path aria-label="Metrics blue Sedan: 178; modular Cotton: green" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.72218381709301,118.01996071769237A75,75,0,1,0,163.93810222899978,87.61789024156002L105.0,134.0Z" fill="#d068fc" stroke="black" stroke-width="0"/>
+<path aria-label="Metrics blue Sedan: 60; modular Cotton: tenetur" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.72218381709301,118.01996071769237L105.0,134.0Z" fill="#1cd028" stroke="black" stroke-width="0"/>
+<path aria-label="Metrics blue Sedan: 16; modular Cotton: Music" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.5343968825606,63.850689368470924A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#bc0a2e" stroke="black" stroke-width="0"/>
+<text aria-label="154,162,56,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="158.22925942579218" y="63.42833927088539" font-family="serif" font-size="7px" fill="#40dc2d" opacity="1">24</text>
+<text aria-label="119,131,216,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="125.1685096818187" y="223.71106667470409" font-family="serif" font-size="7px" fill="#d068fc" opacity="1">178</text>
+<text aria-label="44,52,58,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="48.545789539172674" y="65.90775990707235" font-family="serif" font-size="7px" fill="#1cd028" opacity="1">60</text>
+<text aria-label="117,125,40,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.18447484157053" y="47.4671655593103" font-family="serif" font-size="7px" fill="#bc0a2e" opacity="1">16</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#bc0a2e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,274.25A5,5,0,1,1,58.0,274.25A5,5,0,1,1,68.0,274.25" fill="#40dc2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,274.25A5,5,0,1,1,120.0,274.25A5,5,0,1,1,130.0,274.25" fill="#d068fc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M182.0,274.25A5,5,0,1,1,172.0,274.25A5,5,0,1,1,182.0,274.25" fill="#1cd028" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Music</text>
+<text aria-label="73,111,267,278" text-anchor="start" x="73.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Porsche</text>
+<text aria-label="135,162,267,278" text-anchor="start" x="135.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">green</text>
+<text aria-label="187,225,267,278" text-anchor="start" x="187.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">tenetur</text>
+<text aria-label="5,89,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">modular Cotton</text>
+</svg>

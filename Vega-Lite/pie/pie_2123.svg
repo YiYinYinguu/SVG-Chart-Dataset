@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="398" height="286" viewBox="0 0 398 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Borders</text>
+<path aria-label="Cambridgeshire Bugatti Ford: 87; Faso: define" role="graphics-symbol" aria-roledescription="arc mark"  d="M61.11084260539323,120.18271739717866A75,75,0,0,0,37.42733490731857,213.54128043381687L73.46608962341534,196.18593086911454A35,35,0,0,1,84.51839321585018,152.61860145201672Z" fill="#36fe01" stroke="white" stroke-width="3"/>
+<path aria-label="Cambridgeshire Bugatti Ford: 37; Faso: USB" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.18442416933078,253.23288046971777A75,75,0,0,0,162.10844687768508,229.61712964808413L131.6506085429197,203.6879938357726A35,35,0,0,1,114.4193979456877,214.70867755253497Z" fill="#db2c56" stroke="white" stroke-width="3"/>
+<path aria-label="Cambridgeshire Bugatti Ford: 87; Faso: animi" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.42733490731857,213.54128043381687A75,75,0,0,0,125.18442416933078,253.23288046971777L114.4193979456877,214.70867755253497A35,35,0,0,1,73.46608962341534,196.18593086911454Z" fill="#3edf7c" stroke="white" stroke-width="3"/>
+<path aria-label="Cambridgeshire Bugatti Ford: 56; Faso: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.75062250674563,218.84649105252592A75,75,0,0,0,174.96093100276985,153.972826022211L137.64843446795928,168.38731881036512A35,35,0,0,1,135.21695716981463,198.6616958245121Z" fill="#aae6e8" stroke="white" stroke-width="3"/>
+<path aria-label="Cambridgeshire Bugatti Ford: 11; Faso: Sports" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.10844687768508,229.61712964808413A75,75,0,0,0,169.75062250674563,218.84649105252592L135.21695716981463,198.6616958245121A35,35,0,0,1,131.6506085429197,203.6879938357726Z" fill="#b55bfe" stroke="white" stroke-width="3"/>
+<path aria-label="Cambridgeshire Bugatti Ford: 75; Faso: Accountability" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.96093100276985,153.972826022211A75,75,0,0,0,105.0,106.0L105.0,146.0A35,35,0,0,1,137.64843446795928,168.38731881036512Z" fill="#24e09e" stroke="white" stroke-width="3"/>
+<path aria-label="Cambridgeshire Bugatti Ford: 39; Faso: how" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,61.11084260539323,120.18271739717866L84.51839321585018,152.61860145201672A35,35,0,0,1,105.0,146.0Z" fill="#029abc" stroke="white" stroke-width="3"/>
+<text aria-label="10,24,149,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.76330302445345" y="162.86950744342394" font-family="monospace" font-size="13px" fill="#36fe01" opacity="1">87</text>
+<text aria-label="146,160,247,261" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.49207127522644" y="260.81898854138296" font-family="monospace" font-size="13px" fill="#db2c56" opacity="1">37</text>
+<text aria-label="60,74,254,268" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="67.91112489116173" y="267.00253254114165" font-family="monospace" font-size="13px" fill="#3edf7c" opacity="1">87</text>
+<text aria-label="187,201,179,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.71112652747442" y="192.2051215931084" font-family="monospace" font-size="13px" fill="#aae6e8" opacity="1">56</text>
+<text aria-label="171,185,224,238" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.40047820633342" y="237.0804166561825" font-family="monospace" font-size="13px" fill="#b55bfe" opacity="1">11</text>
+<text aria-label="148,162,97,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.8972750272487" y="110.77421341069798" font-family="monospace" font-size="13px" fill="#24e09e" opacity="1">75</text>
+<text aria-label="70,84,86,100" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="77.32570254825517" y="99.3604457008775" font-family="monospace" font-size="13px" fill="#029abc" opacity="1">39</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#24e09e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M113.0,56.25A5,5,0,1,1,103.0,56.25A5,5,0,1,1,113.0,56.25" fill="#aae6e8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M165.0,56.25A5,5,0,1,1,155.0,56.25A5,5,0,1,1,165.0,56.25" fill="#b55bfe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M222.0,56.25A5,5,0,1,1,212.0,56.25A5,5,0,1,1,222.0,56.25" fill="#db2c56" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M264.0,56.25A5,5,0,1,1,254.0,56.25A5,5,0,1,1,264.0,56.25" fill="#3edf7c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M316.0,56.25A5,5,0,1,1,306.0,56.25A5,5,0,1,1,316.0,56.25" fill="#36fe01" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M373.0,56.25A5,5,0,1,1,363.0,56.25A5,5,0,1,1,373.0,56.25" fill="#029abc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Accountability</text>
+<text aria-label="118,145,49,60" text-anchor="start" x="118.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="170,203,49,60" text-anchor="start" x="170.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Sports</text>
+<text aria-label="227,243,49,60" text-anchor="start" x="227.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">USB</text>
+<text aria-label="269,296,49,60" text-anchor="start" x="269.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">animi</text>
+<text aria-label="321,354,49,60" text-anchor="start" x="321.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">define</text>
+<text aria-label="378,394,49,60" text-anchor="start" x="378.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">how</text>
+<text aria-label="5,29,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Faso</text>
+</svg>

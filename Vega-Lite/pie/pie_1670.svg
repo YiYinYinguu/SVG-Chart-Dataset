@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="440" height="270" viewBox="0 0 440 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="8,411,0,26" text-anchor="middle" x="210.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Generic quantifying Coordinator</text>
+<path aria-label="systems: 142; Non male Recycled: Pound" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.35892581801977,173.68392214693114A75,75,0,0,0,194.40662318866808,207.36107005503544L210.0,134.0Z" fill="#59beaf" stroke="white" stroke-width="0"/>
+<path aria-label="systems: 79; Non male Recycled: Jamahiriya" role="graphics-symbol" aria-roledescription="arc mark"  d="M277.3473982182606,167.00496861430156A75,75,0,0,0,284.9972965088276,134.63680167006243L210.0,134.0Z" fill="#ccb6fb" stroke="white" stroke-width="0"/>
+<path aria-label="systems: 234; Non male Recycled: Luxurious" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.40662318866808,207.36107005503544A75,75,0,0,0,277.3473982182606,167.00496861430156L210.0,134.0Z" fill="#0a9b56" stroke="white" stroke-width="0"/>
+<path aria-label="systems: 279; Non male Recycled: ASCII" role="graphics-symbol" aria-roledescription="arc mark"  d="M284.9972965088276,134.63680167006243A75,75,0,0,0,210.0,59.0L210.0,134.0Z" fill="#f81645" stroke="white" stroke-width="0"/>
+<path aria-label="systems: 376; Non male Recycled: Response" role="graphics-symbol" aria-roledescription="arc mark"  d="M210.0,59.0A75,75,0,0,0,146.35892581801977,173.68392214693114L210.0,134.0Z" fill="#8102dd" stroke="white" stroke-width="0"/>
+<path  d="M121.0,258.25A5,5,0,1,1,111.0,258.25A5,5,0,1,1,121.0,258.25" fill="#f81645" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M174.0,258.25A5,5,0,1,1,164.0,258.25A5,5,0,1,1,174.0,258.25" fill="#ccb6fb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M252.0,258.25A5,5,0,1,1,242.0,258.25A5,5,0,1,1,252.0,258.25" fill="#0a9b56" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M326.0,258.25A5,5,0,1,1,316.0,258.25A5,5,0,1,1,326.0,258.25" fill="#59beaf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M384.0,258.25A5,5,0,1,1,374.0,258.25A5,5,0,1,1,384.0,258.25" fill="#8102dd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="126,153,251,262" text-anchor="start" x="126.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">ASCII</text>
+<text aria-label="179,234,251,262" text-anchor="start" x="179.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Jamahiriya</text>
+<text aria-label="257,306,251,262" text-anchor="start" x="257.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Luxurious</text>
+<text aria-label="331,358,251,262" text-anchor="start" x="331.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Pound</text>
+<text aria-label="389,433,251,262" text-anchor="start" x="389.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Response</text>
+</svg>

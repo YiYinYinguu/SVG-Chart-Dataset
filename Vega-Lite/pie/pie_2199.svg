@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="475" height="270" viewBox="0 0 475 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">black Bentley</text>
+<path aria-label="Jast: 19; Electric navigate Consultant: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,73.98311212751094,65.71418400058882L105.0,134.0Z" fill="#3aab5d" stroke="white" stroke-width="0"/>
+<path aria-label="Jast: 31; Electric navigate Consultant: Pickup" role="graphics-symbol" aria-roledescription="arc mark"  d="M88.31092995327643,207.11959341363678A75,75,0,0,0,139.049287480466,200.8254893141276L105.0,134.0Z" fill="#dbdedf" stroke="white" stroke-width="0"/>
+<path aria-label="Jast: 31; Electric navigate Consultant: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.049287480466,200.8254893141276A75,75,0,0,0,173.9645829413588,163.47687737404428L105.0,134.0Z" fill="#1acc21" stroke="white" stroke-width="0"/>
+<path aria-label="Jast: 77; Electric navigate Consultant: XML" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.39137586107208,106.07797561985413A75,75,0,0,0,88.31092995327643,207.11959341363678L105.0,134.0Z" fill="#6fffcf" stroke="white" stroke-width="0"/>
+<path aria-label="Jast: 19; Electric navigate Consultant: auction" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.17030132598514,79.79038521294564A75,75,0,0,0,35.39137586107208,106.07797561985413L105.0,134.0Z" fill="#bdf2b6" stroke="white" stroke-width="0"/>
+<path aria-label="Jast: 37; Electric navigate Consultant: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.9645829413588,163.47687737404428A75,75,0,0,0,173.2858159994112,102.98311212751095L105.0,134.0Z" fill="#5150d4" stroke="white" stroke-width="0"/>
+<path aria-label="Jast: 51; Electric navigate Consultant: Extended" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.2858159994112,102.98311212751095A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#5e3baf" stroke="white" stroke-width="0"/>
+<path aria-label="Jast: 15; Electric navigate Consultant: vastly" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.98311212751094,65.71418400058882A75,75,0,0,0,53.17030132598514,79.79038521294564L105.0,134.0Z" fill="#1acf41" stroke="white" stroke-width="0"/>
+<text aria-label="81,89,41,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="85.95883574904636" y="48.03731436587327" font-family="serif" font-size="7px" fill="#3aab5d" opacity="1">19</text>
+<text aria-label="112,120,218,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="116.07959577215786" y="225.31541052654677" font-family="serif" font-size="7px" fill="#dbdedf" opacity="1">31</text>
+<text aria-label="166,174,190,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="170.745261979315" y="197.46186238043262" font-family="serif" font-size="7px" fill="#1acc21" opacity="1">31</text>
+<text aria-label="21,29,170,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.272889194877806" y="177.75629057600503" font-family="serif" font-size="7px" fill="#6fffcf" opacity="1">77</text>
+<text aria-label="26,34,78,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="30.449417731798476" y="85.5796600222478" font-family="serif" font-size="7px" fill="#bdf2b6" opacity="1">19</text>
+<text aria-label="190,198,127,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.99433510792306" y="134.99022354808187" font-family="serif" font-size="7px" fill="#5150d4" opacity="1">37</text>
+<text aria-label="149,157,53,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.73487513973532" y="60.336852133192295" font-family="serif" font-size="7px" fill="#5e3baf" opacity="1">51</text>
+<text aria-label="50,58,54,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.57966002224777" y="61.449417731798505" font-family="serif" font-size="7px" fill="#1acf41" opacity="1">15</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#5e3baf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,258.25A5,5,0,1,1,73.0,258.25A5,5,0,1,1,83.0,258.25" fill="#5150d4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,258.25A5,5,0,1,1,135.0,258.25A5,5,0,1,1,145.0,258.25" fill="#1acc21" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M197.0,258.25A5,5,0,1,1,187.0,258.25A5,5,0,1,1,197.0,258.25" fill="#dbdedf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,258.25A5,5,0,1,1,244.0,258.25A5,5,0,1,1,254.0,258.25" fill="#6fffcf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,258.25A5,5,0,1,1,286.0,258.25A5,5,0,1,1,296.0,258.25" fill="#bdf2b6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M358.0,258.25A5,5,0,1,1,348.0,258.25A5,5,0,1,1,358.0,258.25" fill="#1acf41" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M415.0,258.25A5,5,0,1,1,405.0,258.25A5,5,0,1,1,415.0,258.25" fill="#3aab5d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Extended</text>
+<text aria-label="88,126,251,262" text-anchor="start" x="88.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="150,177,251,262" text-anchor="start" x="150.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="202,235,251,262" text-anchor="start" x="202.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Pickup</text>
+<text aria-label="259,275,251,262" text-anchor="start" x="259.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">XML</text>
+<text aria-label="301,339,251,262" text-anchor="start" x="301.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">auction</text>
+<text aria-label="363,396,251,262" text-anchor="start" x="363.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">vastly</text>
+<text aria-label="420,475,251,262" text-anchor="start" x="420.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+</svg>

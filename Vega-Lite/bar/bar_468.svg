@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="625" height="315" viewBox="0 0 625 315" style="background-color: rgb(255, 255, 255);">
+<line x1="37.5" y1="234.5" x2="620.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="172.5" x2="620.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="109.5" x2="620.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="47.5" x2="620.5" y2="47.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="92,109,241,292" text-anchor="end" x="104.2692307692308" y="241.5" transform="rotate(270.0, 109.2692307692308, 241.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">collar</text>
+<text aria-label="204,221,241,309" text-anchor="end" x="216.38461538461542" y="241.5" transform="rotate(270.0, 221.38461538461542, 241.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">heirloom</text>
+<text aria-label="316,333,241,292" text-anchor="end" x="328.50000000000006" y="241.5" transform="rotate(270.0, 333.50000000000006, 241.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">potato</text>
+<text aria-label="428,445,241,301" text-anchor="end" x="440.61538461538464" y="241.5" transform="rotate(270.0, 445.61538461538464, 241.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">transit</text>
+<text aria-label="540,557,241,284" text-anchor="end" x="552.7307692307693" y="241.5" transform="rotate(270.0, 557.7307692307693, 241.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">wafer</text>
+<line aria-label="104,104,234,239" x1="104.5" y1="234.5" x2="104.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="216,216,234,239" x1="216.5" y1="234.5" x2="216.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="328,328,234,239" x1="328.5" y1="234.5" x2="328.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="440,440,234,239" x1="440.5" y1="234.5" x2="440.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="552,552,234,239" x1="552.5" y1="234.5" x2="552.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,620,234,234" x1="37.5" y1="234.5" x2="620.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="296,361,0,26" text-anchor="middle" x="328.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Small</text>
+<text aria-label="27,35,223,240" text-anchor="end" x="35.5" y="239.5" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="18,35,161,178" text-anchor="end" x="35.5" y="177.0" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="10,35,98,115" text-anchor="end" x="35.5" y="114.5" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="10,35,36,53" text-anchor="end" x="35.5" y="52.0" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">150</text>
+<path aria-label="West: wafer; vastly: 95; Recumbent sticky Salad: program" role="graphics-symbol" aria-roledescription="bar" d="M552.7307692307693,115.25h44.84615384615385v118.75h-44.84615384615385Z" fill="#3fe7c1"/>
+<path aria-label="West: wafer; vastly: 2; Recumbent sticky Salad: Diesel compressing Alabama" role="graphics-symbol" aria-roledescription="bar" d="M507.8846153846154,231.5h44.84615384615385v2.5h-44.84615384615385Z" fill="#55da31"/>
+<path aria-label="West: potato; vastly: 75; Recumbent sticky Salad: program" role="graphics-symbol" aria-roledescription="bar" d="M328.50000000000006,140.25h44.84615384615385v93.75h-44.84615384615385Z" fill="#3fe7c1"/>
+<path aria-label="West: potato; vastly: 151; Recumbent sticky Salad: Diesel compressing Alabama" role="graphics-symbol" aria-roledescription="bar" d="M283.6538461538462,45.25h44.84615384615385v188.75h-44.84615384615385Z" fill="#55da31"/>
+<path aria-label="West: collar; vastly: 3; Recumbent sticky Salad: program" role="graphics-symbol" aria-roledescription="bar" d="M104.2692307692308,230.25h44.84615384615385v3.75h-44.84615384615385Z" fill="#3fe7c1"/>
+<path aria-label="West: collar; vastly: 123; Recumbent sticky Salad: Diesel compressing Alabama" role="graphics-symbol" aria-roledescription="bar" d="M59.42307692307696,80.25h44.84615384615385v153.75h-44.84615384615385Z" fill="#55da31"/>
+<path aria-label="West: transit; vastly: 32; Recumbent sticky Salad: program" role="graphics-symbol" aria-roledescription="bar" d="M440.61538461538464,194.0h44.84615384615385v40h-44.84615384615385Z" fill="#3fe7c1"/>
+<path aria-label="West: transit; vastly: 116; Recumbent sticky Salad: Diesel compressing Alabama" role="graphics-symbol" aria-roledescription="bar" d="M395.7692307692308,89.0h44.84615384615385v145h-44.84615384615385Z" fill="#55da31"/>
+<path aria-label="West: heirloom; vastly: 42; Recumbent sticky Salad: program" role="graphics-symbol" aria-roledescription="bar" d="M216.38461538461542,181.5h44.84615384615385v52.5h-44.84615384615385Z" fill="#3fe7c1"/>
+<path aria-label="West: heirloom; vastly: 66; Recumbent sticky Salad: Diesel compressing Alabama" role="graphics-symbol" aria-roledescription="bar" d="M171.53846153846158,151.5h44.84615384615385v82.5h-44.84615384615385Z" fill="#55da31"/>
+</svg>

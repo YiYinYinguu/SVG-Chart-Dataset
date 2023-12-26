@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="244" height="270" viewBox="0 0 244 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,239,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">reserved perfectly</text>
+<path aria-label="Forint Games deliverables: 157; optimal withdrawal invoice: Bhutanese" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.26090748471944,117.94262055890255A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#66f0db" stroke="white" stroke-width="0"/>
+<path aria-label="Forint Games deliverables: 26; optimal withdrawal invoice: fuchsia" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,88.3109299532764,60.88040658636322L105.0,134.0Z" fill="#0bacae" stroke="white" stroke-width="0"/>
+<path aria-label="Forint Games deliverables: 545; optimal withdrawal invoice: Cis" role="graphics-symbol" aria-roledescription="arc mark"  d="M88.3109299532764,60.88040658636322A75,75,0,1,0,178.26090748471944,117.94262055890255L105.0,134.0Z" fill="#9bddec" stroke="white" stroke-width="0"/>
+<text aria-label="152,170,55,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="161.41720934414195" y="66.87797428896351" font-family="monospace" font-size="11px" fill="#66f0db" opacity="1">157</text>
+<text aria-label="88,100,36,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.92319715070228" y="47.56590110960816" font-family="monospace" font-size="11px" fill="#0bacae" opacity="1">26</text>
+<text aria-label="47,65,201,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="56.78870609866189" y="212.99783641893237" font-family="monospace" font-size="11px" fill="#9bddec" opacity="1">545</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#66f0db" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,258.25A5,5,0,1,1,78.0,258.25A5,5,0,1,1,88.0,258.25" fill="#9bddec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,258.25A5,5,0,1,1,120.0,258.25A5,5,0,1,1,130.0,258.25" fill="#0bacae" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Bhutanese</text>
+<text aria-label="93,109,251,262" text-anchor="start" x="93.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cis</text>
+<text aria-label="135,173,251,262" text-anchor="start" x="135.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">fuchsia</text>
+</svg>

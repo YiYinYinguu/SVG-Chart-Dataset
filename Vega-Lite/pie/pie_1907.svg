@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="343" height="270" viewBox="0 0 343 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="59,150,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">failing</text>
+<path aria-label="Games Mills: 77; Loan: Sri" role="graphics-symbol" aria-roledescription="arc mark"  d="M112.8058202752985,239.5926884475264A75,75,0,0,0,158.9268611531561,217.12382992613095L138.07514150726905,196.96928235469366A46,46,0,0,1,109.78756976884975,210.75018224781618Z" fill="#26ec74" stroke="black" stroke-width="1"/>
+<path aria-label="Games Mills: 22; Loan: Sausages" role="graphics-symbol" aria-roledescription="arc mark"  d="M158.9268611531561,217.12382992613095A75,75,0,0,0,168.18576152699617,205.4049445025429L143.75393373655766,189.78169929489297A46,46,0,0,1,138.07514150726905,196.96928235469366Z" fill="#d853d0" stroke="black" stroke-width="1"/>
+<path aria-label="Games Mills: 187; Loan: beyond" role="graphics-symbol" aria-roledescription="arc mark"  d="M93.48574435477526,90.88912416563673A75,75,0,0,0,32.89600856485299,185.6401167419239L60.776218586443164,177.65927160171333A46,46,0,0,1,97.93792320426216,119.5453294882572Z" fill="#be1d69" stroke="black" stroke-width="1"/>
+<path aria-label="Games Mills: 96; Loan: Royce" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.34391209890015,116.66082597733376A75,75,0,0,0,105.0,90.0L105.0,119.0A46,46,0,0,1,140.1709327539921,135.35197326609804Z" fill="#375e95" stroke="black" stroke-width="1"/>
+<path aria-label="Games Mills: 154; Loan: Won" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.89600856485299,185.6401167419239A75,75,0,0,0,112.8058202752985,239.5926884475264L109.78756976884975,210.75018224781618A46,46,0,0,1,60.776218586443164,177.65927160171333Z" fill="#cfd6a5" stroke="black" stroke-width="1"/>
+<path aria-label="Games Mills: 17; Loan: ick" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,93.48574435477526,90.88912416563673L97.93792320426216,119.5453294882572A46,46,0,0,1,104.99999999999999,119.0Z" fill="#1e07b7" stroke="black" stroke-width="1"/>
+<path aria-label="Games Mills: 140; Loan: SUV" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.18576152699617,205.4049445025429A75,75,0,0,0,162.34391209890015,116.66082597733376L140.1709327539921,135.35197326609804A46,46,0,0,1,143.75393373655766,189.78169929489297Z" fill="#f23fba" stroke="black" stroke-width="1"/>
+<text aria-label="139,149,239,249" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="144.41672844689873" y="248.90934135526902" font-family="monospace" font-size="9px" fill="#26ec74" opacity="1">77</text>
+<text aria-label="170,180,214,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="175.61849276198242" y="223.79452016126527" font-family="monospace" font-size="9px" fill="#d853d0" opacity="1">22</text>
+<text aria-label="21,36,110,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="29.1770861676046" y="119.51406659694854" font-family="monospace" font-size="9px" fill="#be1d69" opacity="1">187</text>
+<text aria-label="137,147,77,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.94317597112848" y="86.3892445983743" font-family="monospace" font-size="9px" fill="#375e95" opacity="1">96</text>
+<text aria-label="47,62,233,243" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.638819206319525" y="242.59055884672154" font-family="monospace" font-size="9px" fill="#cfd6a5" opacity="1">154</text>
+<text aria-label="93,103,69,79" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="98.0708799300067" y="78.26713369642304" font-family="monospace" font-size="9px" fill="#1e07b7" opacity="1">17</text>
+<text aria-label="187,202,153,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.80563171085277" y="162.08827326285495" font-family="monospace" font-size="9px" fill="#f23fba" opacity="1">140</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#375e95" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M68.0,40.25A5,5,0,1,1,58.0,40.25A5,5,0,1,1,68.0,40.25" fill="#f23fba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M110.0,40.25A5,5,0,1,1,100.0,40.25A5,5,0,1,1,110.0,40.25" fill="#d853d0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M177.0,40.25A5,5,0,1,1,167.0,40.25A5,5,0,1,1,177.0,40.25" fill="#26ec74" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M219.0,40.25A5,5,0,1,1,209.0,40.25A5,5,0,1,1,219.0,40.25" fill="#cfd6a5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M261.0,40.25A5,5,0,1,1,251.0,40.25A5,5,0,1,1,261.0,40.25" fill="#be1d69" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M318.0,40.25A5,5,0,1,1,308.0,40.25A5,5,0,1,1,318.0,40.25" fill="#1e07b7" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Royce</text>
+<text aria-label="73,89,33,44" text-anchor="start" x="73.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">SUV</text>
+<text aria-label="115,159,33,44" text-anchor="start" x="115.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Sausages</text>
+<text aria-label="182,198,33,44" text-anchor="start" x="182.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Sri</text>
+<text aria-label="224,240,33,44" text-anchor="start" x="224.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Won</text>
+<text aria-label="266,299,33,44" text-anchor="start" x="266.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">beyond</text>
+<text aria-label="323,339,33,44" text-anchor="start" x="323.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">ick</text>
+</svg>

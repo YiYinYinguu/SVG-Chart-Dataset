@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="282" height="239" viewBox="0 0 282 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="99,255,0,26" text-anchor="middle" x="177.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">invoice once</text>
+<path aria-label="Cheese virtual: 284; connecting programming: solid" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.55869129159265,114.57690054051035A75,75,0,0,0,105.06967337643697,155.2374224384114L125.21016483103462,149.2909441556562A54,54,0,0,1,124.84225772994671,120.01536838916745Z" fill="#f4841f" stroke="white" stroke-width="1"/>
+<path aria-label="Cheese virtual: 677; connecting programming: stable" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.0,59.0A75,75,0,0,0,104.55869129159265,114.57690054051035L124.84225772994671,120.01536838916745A54,54,0,0,1,177.0,80.0Z" fill="#0cba6a" stroke="white" stroke-width="1"/>
+<path aria-label="Cheese virtual: 966; connecting programming: Diverse" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.72167901329317,155.9317295148864A75,75,0,0,0,177.0,59.0L177.0,80.0A54,54,0,0,1,228.6396088895711,149.7908452507182Z" fill="#355fc3" stroke="white" stroke-width="1"/>
+<path aria-label="Cheese virtual: 268; connecting programming: silver" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.06967337643697,155.2374224384114A75,75,0,0,0,125.02824753554867,188.0734402990396L139.58033822559503,172.9328770153085A54,54,0,0,1,125.21016483103462,149.2909441556562Z" fill="#d97e5b" stroke="white" stroke-width="1"/>
+<path aria-label="Cheese virtual: 83; connecting programming: Health" role="graphics-symbol" aria-roledescription="arc mark"  d="M244.2961558741057,167.1093250394518A75,75,0,0,0,248.72167901329317,155.9317295148864L228.6396088895711,149.7908452507182A54,54,0,0,1,225.4532322293561,157.8387140284053Z" fill="#fdb20d" stroke="white" stroke-width="1"/>
+<path aria-label="Cheese virtual: 429; connecting programming: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M198.02874039873882,205.99161115881802A75,75,0,0,0,244.2961558741057,167.1093250394518L225.4532322293561,157.8387140284053A54,54,0,0,1,192.14069308709193,185.83396003434896Z" fill="#ce6deb" stroke="white" stroke-width="1"/>
+<path aria-label="Cheese virtual: 522; connecting programming: hence" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.26580063194035,190.13830611283257A75,75,0,0,0,198.02874039873882,205.99161115881802L192.14069308709193,185.83396003434896A54,54,0,0,1,141.19137645499706,174.41958040123944Z" fill="#aedacc" stroke="white" stroke-width="1"/>
+<path aria-label="Cheese virtual: 21; connecting programming: primary" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.02824753554867,188.0734402990396A75,75,0,0,0,127.26580063194035,190.13830611283257L141.19137645499706,174.41958040123944A54,54,0,0,1,139.58033822559503,172.9328770153085Z" fill="#e9bc45" stroke="white" stroke-width="1"/>
+<text aria-label="78,95,128,139" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="87.00710602165655" y="138.13094358950175" font-family="Balto" font-size="10px" fill="#f4841f" opacity="1">284</text>
+<text aria-label="113,130,55,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.21722324318013" y="65.5937861890687" font-family="Balto" font-size="10px" fill="#0cba6a" opacity="1">677</text>
+<text aria-label="241,257,73,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="249.3485548840049" y="83.46789181999148" font-family="Balto" font-size="10px" fill="#355fc3" opacity="1">966</text>
+<text aria-label="91,108,173,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.09242860641494" y="183.74639518016997" font-family="Balto" font-size="10px" fill="#d97e5b" opacity="1">268</text>
+<text aria-label="255,266,160,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="260.6798837299426" y="170.13120974162103" font-family="Balto" font-size="10px" fill="#fdb20d" opacity="1">83</text>
+<text aria-label="226,243,195,206" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="234.90270296947904" y="205.90048612911437" font-family="Balto" font-size="10px" fill="#ce6deb" opacity="1">429</text>
+<text aria-label="149,165,214,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.32465919005836" y="224.823009308567" font-family="Balto" font-size="10px" fill="#aedacc" opacity="1">522</text>
+<text aria-label="110,121,193,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.96385373211245" y="203.1406746923936" font-family="Balto" font-size="10px" fill="#e9bc45" opacity="1">21</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#355fc3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fdb20d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#ce6deb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#aedacc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#e9bc45" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#d97e5b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#f4841f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#0cba6a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Diverse</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Health</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">hence</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">primary</text>
+<text aria-label="21,54,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">silver</text>
+<text aria-label="21,48,129,140" text-anchor="start" x="21.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">solid</text>
+<text aria-label="21,54,145,156" text-anchor="start" x="21.0" y="155.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">stable</text>
+</svg>

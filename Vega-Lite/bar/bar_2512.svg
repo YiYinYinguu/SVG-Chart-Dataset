@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="427" height="288" viewBox="0 0 427 288" style="background-color: rgb(255, 255, 255);">
+<line x1="63.5" y1="34.5" x2="63.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="111.5" y1="34.5" x2="111.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="159.5" y1="34.5" x2="159.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="207.5" y1="34.5" x2="207.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="254.5" y1="34.5" x2="254.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="302.5" y1="34.5" x2="302.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="350.5" y1="34.5" x2="350.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="398.5" y1="34.5" x2="398.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="54,67,241,274" text-anchor="end" x="63.874999999999986" y="241.5" transform="rotate(270.0, 67.87499999999999, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">basin</text>
+<text aria-label="102,115,241,280" text-anchor="end" x="111.62499999999999" y="241.5" transform="rotate(270.0, 115.62499999999999, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">bucket</text>
+<text aria-label="150,163,241,267" text-anchor="end" x="159.375" y="241.5" transform="rotate(270.0, 163.375, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">duel</text>
+<text aria-label="198,211,241,280" text-anchor="end" x="207.125" y="241.5" transform="rotate(270.0, 211.125, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">fondue</text>
+<text aria-label="245,258,241,274" text-anchor="end" x="254.875" y="241.5" transform="rotate(270.0, 258.875, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">ideal</text>
+<text aria-label="293,306,241,280" text-anchor="end" x="302.625" y="241.5" transform="rotate(270.0, 306.625, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">pigpen</text>
+<text aria-label="341,354,241,280" text-anchor="end" x="350.375" y="241.5" transform="rotate(270.0, 354.375, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">return</text>
+<text aria-label="389,402,241,287" text-anchor="end" x="398.125" y="241.5" transform="rotate(270.0, 402.125, 241.5)" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">wasting</text>
+<line aria-label="63,63,234,239" x1="63.5" y1="234.5" x2="63.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="111,111,234,239" x1="111.5" y1="234.5" x2="111.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="159,159,234,239" x1="159.5" y1="234.5" x2="159.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="207,207,234,239" x1="207.5" y1="234.5" x2="207.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="254,254,234,239" x1="254.5" y1="234.5" x2="254.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="302,302,234,239" x1="302.5" y1="234.5" x2="302.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="350,350,234,239" x1="350.5" y1="234.5" x2="350.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="398,398,234,239" x1="398.5" y1="234.5" x2="398.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,422,234,234" x1="40.5" y1="234.5" x2="422.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="107,354,0,26" text-anchor="middle" x="231.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Harbor program blue</text>
+<text aria-label="32,38,226,239" text-anchor="end" x="38.5" y="238.5" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,38,182,195" text-anchor="end" x="38.5" y="194.05555555555557" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,38,137,150" text-anchor="end" x="38.5" y="149.61111111111111" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,38,93,106" text-anchor="end" x="38.5" y="105.16666666666667" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="19,38,48,61" text-anchor="end" x="38.5" y="60.72222222222223" font-family="monospace" font-size="12px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="2,14,65,203" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">overriding up fervently</text>
+<path aria-label="Recycled: duel; overriding up fervently: 225; impedit Soft: Concrete Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M144.33374999999998,52.22222222222223h30.082500000000003v100h-30.082500000000003Z" fill="#da2c7f"/>
+<path aria-label="Recycled: duel; overriding up fervently: 184; impedit Soft: scalable Hybrid busily" role="graphics-symbol" aria-roledescription="bar" d="M144.33374999999998,152.22222222222223h30.082500000000003v81.77777777777777h-30.082500000000003Z" fill="#9b70b8"/>
+<path aria-label="Recycled: basin; overriding up fervently: 194; impedit Soft: Concrete Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M48.83374999999999,124.22222222222223h30.082500000000003v86.22222222222223h-30.082500000000003Z" fill="#da2c7f"/>
+<path aria-label="Recycled: basin; overriding up fervently: 53; impedit Soft: scalable Hybrid busily" role="graphics-symbol" aria-roledescription="bar" d="M48.83374999999999,210.44444444444446h30.082500000000003v23.555555555555543h-30.082500000000003Z" fill="#9b70b8"/>
+<path aria-label="Recycled: fondue; overriding up fervently: 3; impedit Soft: Concrete Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M192.08374999999998,170.0h30.082500000000003v1.3333333333333428h-30.082500000000003Z" fill="#da2c7f"/>
+<path aria-label="Recycled: fondue; overriding up fervently: 141; impedit Soft: scalable Hybrid busily" role="graphics-symbol" aria-roledescription="bar" d="M192.08374999999998,171.33333333333334h30.082500000000003v62.66666666666666h-30.082500000000003Z" fill="#9b70b8"/>
+<path aria-label="Recycled: ideal; overriding up fervently: 73; impedit Soft: Concrete Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M239.83374999999998,189.11111111111111h30.082500000000003v32.44444444444446h-30.082500000000003Z" fill="#da2c7f"/>
+<path aria-label="Recycled: ideal; overriding up fervently: 28; impedit Soft: scalable Hybrid busily" role="graphics-symbol" aria-roledescription="bar" d="M239.83374999999998,221.55555555555557h30.082500000000003v12.444444444444429h-30.082500000000003Z" fill="#9b70b8"/>
+<path aria-label="Recycled: return; overriding up fervently: 9; impedit Soft: Concrete Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M335.33375,154.88888888888889h30.082500000000003v4.000000000000014h-30.082500000000003Z" fill="#da2c7f"/>
+<path aria-label="Recycled: return; overriding up fervently: 169; impedit Soft: scalable Hybrid busily" role="graphics-symbol" aria-roledescription="bar" d="M335.33375,158.8888888888889h30.082500000000003v75.1111111111111h-30.082500000000003Z" fill="#9b70b8"/>
+<path aria-label="Recycled: pigpen; overriding up fervently: 74; impedit Soft: Concrete Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M287.58375,89.11111111111111h30.082500000000003v32.88888888888887h-30.082500000000003Z" fill="#da2c7f"/>
+<path aria-label="Recycled: pigpen; overriding up fervently: 252; impedit Soft: scalable Hybrid busily" role="graphics-symbol" aria-roledescription="bar" d="M287.58375,121.99999999999999h30.082500000000003v112.00000000000001h-30.082500000000003Z" fill="#9b70b8"/>
+<path aria-label="Recycled: bucket; overriding up fervently: 202; impedit Soft: Concrete Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M96.58374999999998,65.11111111111111h30.082500000000003v89.77777777777777h-30.082500000000003Z" fill="#da2c7f"/>
+<path aria-label="Recycled: bucket; overriding up fervently: 178; impedit Soft: scalable Hybrid busily" role="graphics-symbol" aria-roledescription="bar" d="M96.58374999999998,154.88888888888889h30.082500000000003v79.11111111111111h-30.082500000000003Z" fill="#9b70b8"/>
+<path aria-label="Recycled: wasting; overriding up fervently: 45; impedit Soft: Concrete Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M383.08375,208.66666666666666h30.082500000000003v20.00000000000003h-30.082500000000003Z" fill="#da2c7f"/>
+<path aria-label="Recycled: wasting; overriding up fervently: 12; impedit Soft: scalable Hybrid busily" role="graphics-symbol" aria-roledescription="bar" d="M383.08375,228.66666666666669h30.082500000000003v5.333333333333314h-30.082500000000003Z" fill="#9b70b8"/>
+</svg>

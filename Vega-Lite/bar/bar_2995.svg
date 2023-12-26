@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="510" height="290" viewBox="0 0 510 290" style="background-color: rgb(255, 255, 255);">
+<line x1="202.5" y1="234.5" x2="505.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="202.5" y1="189.5" x2="505.5" y2="189.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="202.5" y1="143.5" x2="505.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="202.5" y1="98.5" x2="505.5" y2="98.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="202.5" y1="52.5" x2="505.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="204,218,241,283" text-anchor="end" x="214.625" y="241.5" transform="rotate(270.0, 218.625, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">arcade</text>
+<text aria-label="229,243,241,283" text-anchor="end" x="239.875" y="241.5" transform="rotate(270.0, 243.875, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">arthur</text>
+<text aria-label="255,269,241,283" text-anchor="end" x="265.125" y="241.5" transform="rotate(270.0, 269.125, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">casket</text>
+<text aria-label="280,294,241,276" text-anchor="end" x="290.375" y="241.5" transform="rotate(270.0, 294.375, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">cheek</text>
+<text aria-label="305,319,241,283" text-anchor="end" x="315.625" y="241.5" transform="rotate(270.0, 319.625, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">cookie</text>
+<text aria-label="330,344,241,283" text-anchor="end" x="340.875" y="241.5" transform="rotate(270.0, 344.875, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">cranky</text>
+<text aria-label="356,370,241,276" text-anchor="end" x="366.125" y="241.5" transform="rotate(270.0, 370.125, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">going</text>
+<text aria-label="381,395,241,269" text-anchor="end" x="391.375" y="241.5" transform="rotate(270.0, 395.375, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">lamb</text>
+<text aria-label="406,420,241,269" text-anchor="end" x="416.625" y="241.5" transform="rotate(270.0, 420.625, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">mate</text>
+<text aria-label="431,445,241,269" text-anchor="end" x="441.875" y="241.5" transform="rotate(270.0, 445.875, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">mile</text>
+<text aria-label="457,471,241,283" text-anchor="end" x="467.125" y="241.5" transform="rotate(270.0, 471.125, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">tinkle</text>
+<text aria-label="482,496,241,262" text-anchor="end" x="492.375" y="241.5" transform="rotate(270.0, 496.375, 241.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">wad</text>
+<line aria-label="214,214,234,239" x1="214.5" y1="234.5" x2="214.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="239,239,234,239" x1="239.5" y1="234.5" x2="239.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="265,265,234,239" x1="265.5" y1="234.5" x2="265.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="290,290,234,239" x1="290.5" y1="234.5" x2="290.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="315,315,234,239" x1="315.5" y1="234.5" x2="315.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="340,340,234,239" x1="340.5" y1="234.5" x2="340.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="366,366,234,239" x1="366.5" y1="234.5" x2="366.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="391,391,234,239" x1="391.5" y1="234.5" x2="391.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="416,416,234,239" x1="416.5" y1="234.5" x2="416.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="441,441,234,239" x1="441.5" y1="234.5" x2="441.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="467,467,234,239" x1="467.5" y1="234.5" x2="467.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="492,492,234,239" x1="492.5" y1="234.5" x2="492.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="202,505,234,234" x1="202.5" y1="234.5" x2="505.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="401,505,0,26" text-anchor="end" x="505.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Kentucky</text>
+<text aria-label="188,195,225,239" text-anchor="end" x="195.5" y="238.5" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="174,195,180,194" text-anchor="end" x="195.5" y="193.04545454545453" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="160,195,134,148" text-anchor="end" x="195.5" y="147.59090909090907" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="160,195,89,103" text-anchor="end" x="195.5" y="102.13636363636365" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<text aria-label="160,195,43,57" text-anchor="end" x="195.5" y="56.68181818181819" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">2,000</text>
+<line aria-label="197,202,234,234" x1="202.5" y1="234.5" x2="197.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,202,189,189" x1="202.5" y1="189.5" x2="197.5" y2="189.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,202,143,143" x1="202.5" y1="143.5" x2="197.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,202,98,98" x1="202.5" y1="98.5" x2="197.5" y2="98.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,202,52,52" x1="202.5" y1="52.5" x2="197.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="143,155,107,161" text-anchor="middle" x="157.87646484375" y="134.5" transform="rotate(-90.0, 155.87646484375, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Dollar of</text>
+<path aria-label="compressing explicit: casket; Dollar of: 571; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M259.44374999999997,126.0h11.3625v51.90909090909091h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: casket; Dollar of: 81; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M259.44374999999997,177.9090909090909h11.3625v7.363636363636374h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: casket; Dollar of: 536; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M259.44374999999997,185.27272727272728h11.3625v48.72727272727272h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: cranky; Dollar of: 313; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M335.19375,89.18181818181817h11.3625v28.454545454545467h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: cranky; Dollar of: 568; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M335.19375,117.63636363636364h11.3625v51.63636363636364h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: cranky; Dollar of: 712; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M335.19375,169.27272727272728h11.3625v64.72727272727272h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: wad; Dollar of: 617; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M486.69374999999997,132.0909090909091h11.3625v56.09090909090909h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: wad; Dollar of: 477; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M486.69374999999997,188.1818181818182h11.3625v43.363636363636346h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: wad; Dollar of: 27; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M486.69374999999997,231.54545454545453h11.3625v2.4545454545454675h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: going; Dollar of: 257; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M360.44375,149.1818181818182h11.3625v23.363636363636374h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: going; Dollar of: 572; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M360.44375,172.54545454545456h11.3625v52h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: going; Dollar of: 104; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M360.44375,224.54545454545456h11.3625v9.454545454545439h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: mile; Dollar of: 289; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M436.19375,134.36363636363637h11.3625v26.27272727272728h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: mile; Dollar of: 322; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M436.19375,160.63636363636363h11.3625v29.272727272727266h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: mile; Dollar of: 485; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M436.19375,189.9090909090909h11.3625v44.09090909090909h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: lamb; Dollar of: 228; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M385.69375,158.8181818181818h11.3625v20.727272727272748h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: lamb; Dollar of: 84; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M385.69375,179.54545454545456h11.3625v7.636363636363626h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: lamb; Dollar of: 515; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M385.69375,187.1818181818182h11.3625v46.81818181818181h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: cheek; Dollar of: 776; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M284.69375,49.54545454545455h11.3625v70.54545454545453h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: cheek; Dollar of: 607; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M284.69375,120.09090909090908h11.3625v55.18181818181817h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: cheek; Dollar of: 646; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M284.69375,175.27272727272725h11.3625v58.72727272727275h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: arthur; Dollar of: 522; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M234.19375,148.54545454545456h11.3625v47.45454545454545h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: arthur; Dollar of: 7; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M234.19375,196.0h11.3625v0.6363636363636545h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: arthur; Dollar of: 411; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M234.19375,196.63636363636365h11.3625v37.363636363636346h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: arcade; Dollar of: 12; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M208.94375,212.63636363636363h11.3625v1.090909090909122h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: arcade; Dollar of: 16; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M208.94375,213.72727272727275h11.3625v1.454545454545439h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: arcade; Dollar of: 207; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M208.94375,215.1818181818182h11.3625v18.818181818181813h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: cookie; Dollar of: 601; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M309.94375,133.8181818181818h11.3625v54.63636363636361h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: cookie; Dollar of: 3; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M309.94375,188.45454545454544h11.3625v0.2727272727273089h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: cookie; Dollar of: 498; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M309.94375,188.72727272727275h11.3625v45.27272727272725h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: mate; Dollar of: 579; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M410.94375,140.9090909090909h11.3625v52.636363636363626h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: mate; Dollar of: 324; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M410.94375,193.54545454545453h11.3625v29.454545454545467h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: mate; Dollar of: 121; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M410.94375,223.0h11.3625v11h-11.3625Z" fill="#5cd925"/>
+<path aria-label="compressing explicit: tinkle; Dollar of: 508; Ernser: exploit olive Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M461.44374999999997,132.63636363636363h11.3625v46.18181818181819h-11.3625Z" fill="#92edfa"/>
+<path aria-label="compressing explicit: tinkle; Dollar of: 250; Ernser: invoice" role="graphics-symbol" aria-roledescription="bar" d="M461.44374999999997,178.8181818181818h11.3625v22.727272727272748h-11.3625Z" fill="#e62e8b"/>
+<path aria-label="compressing explicit: tinkle; Dollar of: 357; Ernser: meh" role="graphics-symbol" aria-roledescription="bar" d="M461.44374999999997,201.54545454545456h11.3625v32.45454545454544h-11.3625Z" fill="#5cd925"/>
+<path  d="M6.0,35.0h10v10h-10Z" fill="#92edfa" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,48.0h10v10h-10Z" fill="#e62e8b" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,61.0h10v10h-10Z" fill="#5cd925" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,142,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">exploit olive Paradigm</text>
+<text aria-label="21,59,46,57" text-anchor="start" x="21.0" y="56.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="21,37,59,70" text-anchor="start" x="21.0" y="69.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">meh</text>
+</svg>

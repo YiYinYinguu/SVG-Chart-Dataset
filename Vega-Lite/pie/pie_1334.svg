@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="245,284,0,26" text-anchor="end" x="284.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Van</text>
+<path aria-label="Minivan foul: 121; power: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.83808670410214,206.59563684773852A75,75,0,0,0,139.13680806875183,200.78082310721544L129.12334436858464,181.19178166243225A53,53,0,0,1,118.31224793756552,185.30091670573523Z" fill="#da93fa" stroke="white" stroke-width="1"/>
+<path aria-label="Minivan foul: 741; power: BMW" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.99482802752868,116.77341934011532A75,75,0,0,0,105.0,59.0L105.0,81.0A53,53,0,0,1,156.58301180612028,121.82654966701483Z" fill="#2f257b" stroke="white" stroke-width="1"/>
+<path aria-label="Minivan foul: 644; power: indigo" role="graphics-symbol" aria-roledescription="arc mark"  d="M50.421148604824154,82.55926730320309A75,75,0,0,0,36.15468485965599,163.75437082558997L56.34931063415689,155.02642205008357A53,53,0,0,1,66.43094501407573,97.64854889426351Z" fill="#28f90c" stroke="white" stroke-width="1"/>
+<path aria-label="Minivan foul: 736; power: New" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.13680806875183,200.78082310721544A75,75,0,0,0,177.99482802752868,116.77341934011532L156.58301180612028,121.82654966701483A53,53,0,0,1,129.12334436858464,181.19178166243225Z" fill="#6d666b" stroke="white" stroke-width="1"/>
+<path aria-label="Minivan foul: 451; power: lined" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,50.421148604824154,82.55926730320309L66.43094501407573,97.64854889426351A53,53,0,0,1,104.99999999999999,81.0Z" fill="#22d2f4" stroke="white" stroke-width="1"/>
+<path aria-label="Minivan foul: 784; power: dither" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.15468485965599,163.75437082558997A75,75,0,0,0,123.83808670410214,206.59563684773852L118.31224793756552,185.30091670573523A53,53,0,0,1,56.34931063415689,155.02642205008357Z" fill="#278e4e" stroke="white" stroke-width="1"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#2f257b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#6d666b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#da93fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#278e4e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#28f90c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#22d2f4" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,255,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">BMW</text>
+<text aria-label="239,255,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">New</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">dither</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">indigo</text>
+<text aria-label="239,266,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">lined</text>
+</svg>

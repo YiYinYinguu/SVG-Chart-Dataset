@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="287" height="239" viewBox="0 0 287 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Gasoline copying</text>
+<path aria-label="yellow hertz visionary: 230; red Valley: Borders" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.9104367329158,106.84248104459877A75,75,0,0,0,105.0,59.0L105.0,99.0A35,35,0,0,1,137.6248704753607,121.3264911541461Z" fill="#dccc9d" stroke="white" stroke-width="2"/>
+<path aria-label="yellow hertz visionary: 195; red Valley: Palm" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.247574237790047,120.37723617654224A75,75,0,0,0,54.66027230196041,189.59596941584186L81.5081270742482,159.94478572739288A35,35,0,0,1,70.58220131096868,127.64271021571972Z" fill="#39eb1b" stroke="white" stroke-width="2"/>
+<path aria-label="yellow hertz visionary: 513; red Valley: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.66027230196041,189.59596941584186A75,75,0,0,0,174.9104367329158,106.84248104459877L137.6248704753607,121.3264911541461A35,35,0,0,1,81.5081270742482,159.94478572739288Z" fill="#ba1742" stroke="white" stroke-width="2"/>
+<path aria-label="yellow hertz visionary: 266; red Valley: Polestar" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.247574237790047,120.37723617654224L70.58220131096868,127.64271021571972A35,35,0,0,1,105.0,99.0Z" fill="#665289" stroke="white" stroke-width="2"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#dccc9d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ba1742" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#39eb1b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#665289" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Borders</text>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Palm</text>
+<text aria-label="239,283,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Polestar</text>
+</svg>

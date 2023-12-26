@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="364" height="239" viewBox="0 0 364 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="294,359,0,26" text-anchor="end" x="359.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Table</text>
+<path aria-label="South SUV Automated: 693; Electronics Savings male: DNS" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.18284282162585,180.06941627100056A75,75,0,0,0,152.82478467626055,76.2263903614348L105.0,134.0Z" fill="#c5bbfd" stroke="black" stroke-width="0"/>
+<path aria-label="South SUV Automated: 192; Electronics Savings male: Harrisonburg" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.79743637539897,200.43898269615556A75,75,0,0,0,164.18284282162585,180.06941627100056L105.0,134.0Z" fill="#963f7f" stroke="black" stroke-width="0"/>
+<path aria-label="South SUV Automated: 311; Electronics Savings male: Buckinghamshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.82478467626055,76.2263903614348A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#f06a28" stroke="black" stroke-width="0"/>
+<path aria-label="South SUV Automated: 529; Electronics Savings male: Spain" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.258162057430937,120.32003885780807A75,75,0,0,0,64.01930673095033,196.81387409790983L105.0,134.0Z" fill="#2b0cab" stroke="black" stroke-width="0"/>
+<path aria-label="South SUV Automated: 624; Electronics Savings male: now" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.258162057430937,120.32003885780807L105.0,134.0Z" fill="#48edb4" stroke="black" stroke-width="0"/>
+<path aria-label="South SUV Automated: 477; Electronics Savings male: Neither" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.01930673095033,196.81387409790983A75,75,0,0,0,139.79743637539897,200.43898269615556L105.0,134.0Z" fill="#2ae015" stroke="black" stroke-width="0"/>
+<text aria-label="184,204,116,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.4664311024041" y="128.21441336460694" font-family="Balto" font-size="12px" fill="#c5bbfd" opacity="1">693</text>
+<text aria-label="152,172,195,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.69745541311013" y="207.07245209815682" font-family="Balto" font-size="12px" fill="#963f7f" opacity="1">192</text>
+<text aria-label="125,145,41,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="135.49959146476357" y="53.32547655591725" font-family="Balto" font-size="12px" fill="#f06a28" opacity="1">311</text>
+<text aria-label="12,32,161,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.268363010015065" y="173.43270016464112" font-family="Balto" font-size="12px" fill="#2b0cab" opacity="1">529</text>
+<text aria-label="37,57,56,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="47.45625926026675" y="68.79943712889062" font-family="Balto" font-size="12px" fill="#48edb4" opacity="1">624</text>
+<text aria-label="90,110,215,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.69945722747657" y="227.89719312560152" font-family="Balto" font-size="12px" fill="#2ae015" opacity="1">477</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#f06a28" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#c5bbfd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#963f7f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#2ae015" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#2b0cab" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#48edb4" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,321,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Buckinghamshire</text>
+<text aria-label="239,255,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">DNS</text>
+<text aria-label="239,305,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Harrisonburg</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Neither</text>
+<text aria-label="239,266,113,124" text-anchor="start" x="239.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Spain</text>
+<text aria-label="239,255,129,140" text-anchor="start" x="239.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">now</text>
+<text aria-label="223,367,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Electronics Savings male</text>
+</svg>

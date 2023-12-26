@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="822" height="314" viewBox="0 0 822 314" style="background-color: rgb(255, 255, 255);">
+<line x1="131.5" y1="38.5" x2="131.5" y2="238.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="283.5" y1="38.5" x2="283.5" y2="238.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="435.5" y1="38.5" x2="435.5" y2="238.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="588.5" y1="38.5" x2="588.5" y2="238.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="740.5" y1="38.5" x2="740.5" y2="238.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="55.5" y1="238.5" x2="817.5" y2="238.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="55.5" y1="193.5" x2="817.5" y2="193.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="55.5" y1="147.5" x2="817.5" y2="147.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="55.5" y1="102.5" x2="817.5" y2="102.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="55.5" y1="56.5" x2="817.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="123,134,245,306" text-anchor="end" x="131.19999999999993" y="245.5" transform="rotate(270.0, 134.19999999999993, 245.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">development</text>
+<text aria-label="275,286,245,284" text-anchor="end" x="283.59999999999997" y="245.5" transform="rotate(270.0, 286.59999999999997, 245.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">essence</text>
+<text aria-label="427,438,245,278" text-anchor="end" x="435.99999999999994" y="245.5" transform="rotate(270.0, 438.99999999999994, 245.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">oyster</text>
+<text aria-label="580,591,245,267" text-anchor="end" x="588.4" y="245.5" transform="rotate(270.0, 591.4, 245.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">pain</text>
+<text aria-label="732,743,245,284" text-anchor="end" x="740.8000000000001" y="245.5" transform="rotate(270.0, 743.8000000000001, 245.5)" font-family="sans-serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">placode</text>
+<line aria-label="131,131,238,243" x1="131.5" y1="238.5" x2="131.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="283,283,238,243" x1="283.5" y1="238.5" x2="283.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="435,435,238,243" x1="435.5" y1="238.5" x2="435.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="588,588,238,243" x1="588.5" y1="238.5" x2="588.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="740,740,238,243" x1="740.5" y1="238.5" x2="740.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="55,817,238,238" x1="55.5" y1="238.5" x2="817.5" y2="238.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="713,817,0,26" text-anchor="end" x="817.0" y="25.45354545454545" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">while at</text>
+<text aria-label="43,48,231,242" text-anchor="end" x="48.5" y="241.5" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="32,48,186,197" text-anchor="end" x="48.5" y="196.04545454545453" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="21,48,140,151" text-anchor="end" x="48.5" y="150.59090909090907" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="21,48,95,106" text-anchor="end" x="48.5" y="105.13636363636365" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<text aria-label="21,48,49,60" text-anchor="end" x="48.5" y="59.68181818181819" font-family="sans-serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">2,000</text>
+<line aria-label="50,55,238,238" x1="55.5" y1="238.5" x2="50.5" y2="238.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,193,193" x1="55.5" y1="193.5" x2="50.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,147,147" x1="55.5" y1="147.5" x2="50.5" y2="147.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,102,102" x1="55.5" y1="102.5" x2="50.5" y2="102.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,56,56" x1="55.5" y1="56.5" x2="50.5" y2="56.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,114,162" text-anchor="middle" x="16.9755859375" y="138.5" transform="rotate(-90.0, 14.9755859375, 138.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">quantify</text>
+<path aria-label="Principal Toyota Tuna: oyster; quantify: 707; Tobago free quae: scale synergies Northeast" role="graphics-symbol" aria-roledescription="bar" d="M381.13599999999997,157.54545454545453h109.72800000000001v64.27272727272728h-109.72800000000001Z" fill="#342642"/>
+<path aria-label="Principal Toyota Tuna: oyster; quantify: 273; Tobago free quae: Sausages" role="graphics-symbol" aria-roledescription="bar" d="M381.13599999999997,132.72727272727272h109.72800000000001v24.818181818181813h-109.72800000000001Z" fill="#e7eedc"/>
+<path aria-label="Principal Toyota Tuna: oyster; quantify: 178; Tobago free quae: within yellow" role="graphics-symbol" aria-roledescription="bar" d="M381.13599999999997,221.8181818181818h109.72800000000001v16.181818181818187h-109.72800000000001Z" fill="#e6e5dc"/>
+<path aria-label="Principal Toyota Tuna: development; quantify: 869; Tobago free quae: scale synergies Northeast" role="graphics-symbol" aria-roledescription="bar" d="M76.33599999999994,106.36363636363636h109.72800000000001v79.00000000000001h-109.72800000000001Z" fill="#342642"/>
+<path aria-label="Principal Toyota Tuna: development; quantify: 630; Tobago free quae: Sausages" role="graphics-symbol" aria-roledescription="bar" d="M76.33599999999994,49.090909090909086h109.72800000000001v57.27272727272727h-109.72800000000001Z" fill="#e7eedc"/>
+<path aria-label="Principal Toyota Tuna: development; quantify: 579; Tobago free quae: within yellow" role="graphics-symbol" aria-roledescription="bar" d="M76.33599999999994,185.36363636363637h109.72800000000001v52.636363636363626h-109.72800000000001Z" fill="#e6e5dc"/>
+<path aria-label="Principal Toyota Tuna: pain; quantify: 831; Tobago free quae: scale synergies Northeast" role="graphics-symbol" aria-roledescription="bar" d="M533.5360000000001,78.81818181818181h109.72800000000001v75.54545454545453h-109.72800000000001Z" fill="#342642"/>
+<path aria-label="Principal Toyota Tuna: pain; quantify: 334; Tobago free quae: Sausages" role="graphics-symbol" aria-roledescription="bar" d="M533.5360000000001,48.45454545454545h109.72800000000001v30.36363636363637h-109.72800000000001Z" fill="#e7eedc"/>
+<path aria-label="Principal Toyota Tuna: pain; quantify: 920; Tobago free quae: within yellow" role="graphics-symbol" aria-roledescription="bar" d="M533.5360000000001,154.36363636363637h109.72800000000001v83.63636363636364h-109.72800000000001Z" fill="#e6e5dc"/>
+<path aria-label="Principal Toyota Tuna: placode; quantify: 474; Tobago free quae: scale synergies Northeast" role="graphics-symbol" aria-roledescription="bar" d="M685.936,156.8181818181818h109.72800000000001v43.09090909090908h-109.72800000000001Z" fill="#342642"/>
+<path aria-label="Principal Toyota Tuna: placode; quantify: 408; Tobago free quae: Sausages" role="graphics-symbol" aria-roledescription="bar" d="M685.936,119.72727272727273h109.72800000000001v37.09090909090909h-109.72800000000001Z" fill="#e7eedc"/>
+<path aria-label="Principal Toyota Tuna: placode; quantify: 419; Tobago free quae: within yellow" role="graphics-symbol" aria-roledescription="bar" d="M685.936,199.9090909090909h109.72800000000001v38.09090909090909h-109.72800000000001Z" fill="#e6e5dc"/>
+<path aria-label="Principal Toyota Tuna: essence; quantify: 712; Tobago free quae: scale synergies Northeast" role="graphics-symbol" aria-roledescription="bar" d="M228.73599999999996,130.8181818181818h109.72800000000001v64.7272727272727h-109.72800000000001Z" fill="#342642"/>
+<path aria-label="Principal Toyota Tuna: essence; quantify: 718; Tobago free quae: Sausages" role="graphics-symbol" aria-roledescription="bar" d="M228.73599999999996,65.54545454545453h109.72800000000001v65.27272727272728h-109.72800000000001Z" fill="#e7eedc"/>
+<path aria-label="Principal Toyota Tuna: essence; quantify: 467; Tobago free quae: within yellow" role="graphics-symbol" aria-roledescription="bar" d="M228.73599999999996,195.54545454545453h109.72800000000001v42.45454545454547h-109.72800000000001Z" fill="#e6e5dc"/>
+<text aria-label="426,445,141,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="435.99999999999994" y="152.54445454545453" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">707</text>
+<text aria-label="426,445,116,128" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="435.99999999999994" y="127.72627272727271" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">273</text>
+<text aria-label="426,445,205,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="435.99999999999994" y="216.8171818181818" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">178</text>
+<text aria-label="121,140,89,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.19999999999993" y="101.36263636363637" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">869</text>
+<text aria-label="121,140,32,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.19999999999993" y="44.08990909090909" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">630</text>
+<text aria-label="121,140,168,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.19999999999993" y="180.36263636363637" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">579</text>
+<text aria-label="579,597,62,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="588.4" y="73.81718181818182" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">831</text>
+<text aria-label="579,597,32,44" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="588.4" y="43.45354545454545" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">334</text>
+<text aria-label="579,597,137,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="588.4" y="149.36263636363634" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">920</text>
+<text aria-label="731,750,140,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="740.8000000000001" y="151.81718181818184" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">474</text>
+<text aria-label="731,750,103,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="740.8000000000001" y="114.72627272727273" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">408</text>
+<text aria-label="731,750,183,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="740.8000000000001" y="194.9080909090909" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">419</text>
+<text aria-label="274,292,114,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="283.59999999999997" y="125.81718181818182" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">712</text>
+<text aria-label="274,292,49,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="283.59999999999997" y="60.54445454545454" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">718</text>
+<text aria-label="274,292,179,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="283.59999999999997" y="190.54445454545453" font-family="sans-serif" font-size="11.43px" fill="#000" opacity="1">467</text>
+</svg>

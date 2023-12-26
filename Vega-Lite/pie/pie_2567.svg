@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="379" height="239" viewBox="0 0 379 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,365,0,26" text-anchor="middle" x="190.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Thulium Mountain Incredible</text>
+<path aria-label="Home vaporise: 123; Kade SAS: 24/365" role="graphics-symbol" aria-roledescription="arc mark"  d="M264.655193573712,126.81654174706962A75,75,0,0,0,190.0,59.0L190.0,76.0A58,58,0,0,1,247.73334969700392,128.4447922844005Z" fill="#1caeaa" stroke="black" stroke-width="0"/>
+<path aria-label="Home vaporise: 40; Kade SAS: Supervisor" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,155.39101421929612,67.46265632570656L163.23571766292233,82.54445422521307A58,58,0,0,1,190.0,76.0Z" fill="#c294d3" stroke="black" stroke-width="0"/>
+<path aria-label="Home vaporise: 361; Kade SAS: Elegant" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.39101421929612,67.46265632570656A75,75,0,1,0,264.655193573712,126.81654174706962L247.73334969700392,128.4447922844005A58,58,0,1,1,163.23571766292233,82.54445422521307Z" fill="#f0c978" stroke="black" stroke-width="0"/>
+<text aria-label="243,257,61,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="250.5152315895904" y="69.38238411907673" font-family="Balto" font-size="8px" fill="#1caeaa" opacity="1">123</text>
+<text aria-label="164,173,40,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.62282896199423" y="48.57565237068195" font-family="Balto" font-size="8px" fill="#c294d3" opacity="1">40</text>
+<text aria-label="140,153,207,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.03990583859584" y="215.0849562789491" font-family="Balto" font-size="8px" fill="#f0c978" opacity="1">361</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#1caeaa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#f0c978" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#c294d3" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">24/365</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Elegant</text>
+<text aria-label="21,76,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Supervisor</text>
+</svg>

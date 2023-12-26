@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="101,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">indexing</text>
+<path aria-label="Buckinghamshire Soul Legacy: 138; ampere Frozen: Direct" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.48206411155687,175.48483655938995A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#8c3c7e" stroke="black" stroke-width="0"/>
+<path aria-label="Buckinghamshire Soul Legacy: 163; ampere Frozen: Rustic" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.002290217330057,134.58611206642883A75,75,0,0,0,167.48206411155687,175.48483655938995L105.0,134.0Z" fill="#2ceb0b" stroke="black" stroke-width="0"/>
+<path aria-label="Buckinghamshire Soul Legacy: 33; ampere Frozen: hm" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,68.00873304765693,68.75702206934074L105.0,134.0Z" fill="#7c6cde" stroke="black" stroke-width="0"/>
+<path aria-label="Buckinghamshire Soul Legacy: 68; ampere Frozen: drat" role="graphics-symbol" aria-roledescription="arc mark"  d="M68.00873304765693,68.75702206934074A75,75,0,0,0,30.002290217330057,134.58611206642883L105.0,134.0Z" fill="#cbbaca" stroke="black" stroke-width="0"/>
+<text aria-label="173,194,82,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.31066242446258" y="95.45803453302914" font-family="avenir" font-size="13px" fill="#8c3c7e" opacity="1">138</text>
+<text aria-label="68,89,211,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="79.33747988568236" y="224.2637528825534" font-family="avenir" font-size="13px" fill="#2ceb0b" opacity="1">163</text>
+<text aria-label="75,89,37,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="82.0461508294491" y="50.97632041647745" font-family="avenir" font-size="13px" fill="#7c6cde" opacity="1">33</text>
+<text aria-label="20,34,80,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="27.05771365940052" y="93.0" font-family="avenir" font-size="13px" fill="#cbbaca" opacity="1">68</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#8c3c7e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M72.0,274.25A5,5,0,1,1,62.0,274.25A5,5,0,1,1,72.0,274.25" fill="#2ceb0b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M128.0,274.25A5,5,0,1,1,118.0,274.25A5,5,0,1,1,128.0,274.25" fill="#cbbaca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M175.0,274.25A5,5,0,1,1,165.0,274.25A5,5,0,1,1,175.0,274.25" fill="#7c6cde" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Direct</text>
+<text aria-label="77,110,267,278" text-anchor="start" x="77.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rustic</text>
+<text aria-label="133,155,267,278" text-anchor="start" x="133.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">drat</text>
+<text aria-label="180,191,267,278" text-anchor="start" x="180.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">hm</text>
+<text aria-label="5,83,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">ampere Frozen</text>
+</svg>

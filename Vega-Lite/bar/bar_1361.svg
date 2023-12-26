@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="710" height="320" viewBox="0 0 710 320" style="background-color: rgb(255, 255, 255);">
+<text aria-label="152,167,248,316" text-anchor="end" x="163.875" y="248.5" transform="rotate(270.0, 167.875, 248.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">detection</text>
+<text aria-label="361,376,248,278" text-anchor="end" x="372.00000000000006" y="248.5" transform="rotate(270.0, 376.00000000000006, 248.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">grub</text>
+<text aria-label="569,584,248,308" text-anchor="end" x="580.1250000000001" y="248.5" transform="rotate(270.0, 584.1250000000001, 248.5)" font-family="avenir" font-size="14px" font-weight="bold" fill="#000" opacity="1">hospital</text>
+<line aria-label="163,163,241,246" x1="163.5" y1="241.5" x2="163.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="372,372,241,246" x1="372.5" y1="241.5" x2="372.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="580,580,241,246" x1="580.5" y1="241.5" x2="580.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,705,241,241" x1="39.5" y1="241.5" x2="705.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="497,705,0,26" text-anchor="end" x="705.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">goad Minivan eek</text>
+<text aria-label="30,37,231,246" text-anchor="end" x="37.5" y="245.5" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="30,37,202,217" text-anchor="end" x="37.5" y="216.92857142857144" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">5</text>
+<text aria-label="22,37,174,189" text-anchor="end" x="37.5" y="188.35714285714286" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="22,37,145,160" text-anchor="end" x="37.5" y="159.78571428571428" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">15</text>
+<text aria-label="22,37,117,132" text-anchor="end" x="37.5" y="131.21428571428572" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="22,37,88,103" text-anchor="end" x="37.5" y="102.64285714285714" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">25</text>
+<text aria-label="22,37,60,75" text-anchor="end" x="37.5" y="74.07142857142858" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="22,37,31,46" text-anchor="end" x="37.5" y="45.5" font-family="avenir" font-size="14px" font-weight="normal" fill="#000" opacity="1">35</text>
+<text aria-label="3,15,129,153" text-anchor="middle" x="17.080078125" y="141.5" transform="rotate(-90.0, 15.080078125, 141.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">male</text>
+<line aria-label="39,39,41,241" x1="39.5" y1="241.5" x2="39.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="bangle East smoggy: hospital; male: 32; delay: Rustic Pop Human" role="graphics-symbol" aria-roledescription="bar" d="M496.87500000000006,58.14285714285715h166.50000000000003v182.85714285714286h-166.50000000000003Z" fill="#bfffad"/>
+<path aria-label="bangle East smoggy: detection; male: 7; delay: Rustic Pop Human" role="graphics-symbol" aria-roledescription="bar" d="M80.625,201.0h166.50000000000003v40h-166.50000000000003Z" fill="#bfffad"/>
+<path aria-label="bangle East smoggy: grub; male: 5; delay: Rustic Pop Human" role="graphics-symbol" aria-roledescription="bar" d="M288.75,212.42857142857144h166.50000000000003v28.571428571428555h-166.50000000000003Z" fill="#bfffad"/>
+<text aria-label="569,590,30,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="580.1250000000001" y="50.15685714285715" font-family="avenir" font-size="19.98px" fill="#000" opacity="1">32</text>
+<text aria-label="158,169,173,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.875" y="193.014" font-family="avenir" font-size="19.98px" fill="#000" opacity="1">7</text>
+<text aria-label="366,377,184,205" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="372.00000000000006" y="204.44257142857145" font-family="avenir" font-size="19.98px" fill="#000" opacity="1">5</text>
+</svg>

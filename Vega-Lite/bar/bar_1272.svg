@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="859" height="296" viewBox="0 0 859 296" style="background-color: rgb(255, 255, 255);">
+<line x1="184.5" y1="34.5" x2="184.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="452.5" y1="34.5" x2="452.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="720.5" y1="34.5" x2="720.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="173,189,241,281" text-anchor="end" x="184.83333333333334" y="241.5" transform="rotate(270.0, 189.83333333333334, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">rider</text>
+<text aria-label="441,457,241,297" text-anchor="end" x="452.5" y="241.5" transform="rotate(270.0, 457.5, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">stinger</text>
+<text aria-label="709,725,241,265" text-anchor="end" x="720.1666666666667" y="241.5" transform="rotate(270.0, 725.1666666666667, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">win</text>
+<line aria-label="184,184,234,239" x1="184.5" y1="234.5" x2="184.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="452,452,234,239" x1="452.5" y1="234.5" x2="452.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="720,720,234,239" x1="720.5" y1="234.5" x2="720.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,854,234,234" x1="51.5" y1="234.5" x2="854.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,304,0,26" text-anchor="start" x="5.20361328125" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Accounts Ford Southeast</text>
+<text aria-label="36,44,224,240" text-anchor="end" x="44.5" y="239.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="20,44,168,184" text-anchor="end" x="44.5" y="183.94444444444443" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="4,44,113,129" text-anchor="end" x="44.5" y="128.38888888888889" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="4,44,57,73" text-anchor="end" x="44.5" y="72.83333333333333" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<line aria-label="46,51,234,234" x1="51.5" y1="234.5" x2="46.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,178,178" x1="51.5" y1="178.5" x2="46.5" y2="178.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,123,123" x1="51.5" y1="123.5" x2="46.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,67,67" x1="51.5" y1="67.5" x2="46.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,51,34,234" x1="51.5" y1="234.5" x2="51.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Bugatti Alafaya: stinger; Northeast voluptate Architect: 568; Wyoming: algorithm" role="graphics-symbol" aria-roledescription="bar" d="M392.27500000000003,104.55555555555554h120.45000000000002v63.111111111111114h-120.45000000000002Z" fill="#05ae7f"/>
+<path aria-label="Bugatti Alafaya: stinger; Northeast voluptate Architect: 172; Wyoming: Director" role="graphics-symbol" aria-roledescription="bar" d="M392.27500000000003,85.44444444444446h120.45000000000002v19.111111111111093h-120.45000000000002Z" fill="#eadbce"/>
+<path aria-label="Bugatti Alafaya: stinger; Northeast voluptate Architect: 597; Wyoming: female" role="graphics-symbol" aria-roledescription="bar" d="M392.27500000000003,167.66666666666666h120.45000000000002v66.33333333333334h-120.45000000000002Z" fill="#c8f8dc"/>
+<path aria-label="Bugatti Alafaya: rider; Northeast voluptate Architect: 207; Wyoming: algorithm" role="graphics-symbol" aria-roledescription="bar" d="M124.60833333333333,187.88888888888889h120.45000000000002v23h-120.45000000000002Z" fill="#05ae7f"/>
+<path aria-label="Bugatti Alafaya: rider; Northeast voluptate Architect: 540; Wyoming: Director" role="graphics-symbol" aria-roledescription="bar" d="M124.60833333333333,127.88888888888889h120.45000000000002v60h-120.45000000000002Z" fill="#eadbce"/>
+<path aria-label="Bugatti Alafaya: rider; Northeast voluptate Architect: 208; Wyoming: female" role="graphics-symbol" aria-roledescription="bar" d="M124.60833333333333,210.88888888888889h120.45000000000002v23.111111111111114h-120.45000000000002Z" fill="#c8f8dc"/>
+<path aria-label="Bugatti Alafaya: win; Northeast voluptate Architect: 628; Wyoming: algorithm" role="graphics-symbol" aria-roledescription="bar" d="M659.9416666666667,79.22222222222223h120.45000000000002v69.77777777777776h-120.45000000000002Z" fill="#05ae7f"/>
+<path aria-label="Bugatti Alafaya: win; Northeast voluptate Architect: 389; Wyoming: Director" role="graphics-symbol" aria-roledescription="bar" d="M659.9416666666667,36.0h120.45000000000002v43.22222222222223h-120.45000000000002Z" fill="#eadbce"/>
+<path aria-label="Bugatti Alafaya: win; Northeast voluptate Architect: 765; Wyoming: female" role="graphics-symbol" aria-roledescription="bar" d="M659.9416666666667,149.0h120.45000000000002v85.00000000000001h-120.45000000000002Z" fill="#c8f8dc"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="293" height="239" viewBox="0 0 293 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">olive Factors</text>
+<path aria-label="monitor fuchsia: 225; Hip: Cotton" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.40522957424378,95.56867939441902A75,75,0,0,0,116.15043254226923,59.83351259416216L113.62300116602154,76.64458307281873A58,58,0,0,1,154.80671087074853,104.27977873168405Z" fill="#f1e9c9" stroke="white" stroke-width="3"/>
+<path aria-label="monitor fuchsia: 271; Hip: rewarding" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.130079236146315,138.41531027383922A75,75,0,0,0,72.53455638596895,201.60913378341843L79.89339027181599,186.28439679251025A58,58,0,0,1,47.10059460928648,137.41450661176899Z" fill="#13377a" stroke="white" stroke-width="3"/>
+<path aria-label="monitor fuchsia: 203; Hip: soluta" role="graphics-symbol" aria-roledescription="arc mark"  d="M49.52766787660428,83.524061486767A75,75,0,0,0,30.130079236146315,138.41531027383922L47.10059460928648,137.41450661176899A58,58,0,0,1,62.10139649124064,94.96527421643314Z" fill="#bd9bbe" stroke="white" stroke-width="3"/>
+<path aria-label="monitor fuchsia: 317; Hip: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M93.5584030680674,208.1221280026902A75,75,0,0,0,171.55600852944625,168.57307809015967L156.46997992943844,160.73651372305682A58,58,0,0,1,96.15183170597213,191.3211123220804Z" fill="#37cec5" stroke="white" stroke-width="3"/>
+<path aria-label="monitor fuchsia: 38; Hip: Agent" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.15043254226923,59.83351259416216A75,75,0,0,0,105.0,59.0L105.0,76.0A58,58,0,0,1,113.62300116602154,76.64458307281873Z" fill="#2d7f8d" stroke="white" stroke-width="3"/>
+<path aria-label="monitor fuchsia: 259; Hip: VGA" role="graphics-symbol" aria-roledescription="arc mark"  d="M171.55600852944625,168.57307809015967A75,75,0,0,0,169.40522957424378,95.56867939441902L154.80671087074853,104.27977873168405A58,58,0,0,1,156.46997992943844,160.73651372305682Z" fill="#40deed" stroke="white" stroke-width="3"/>
+<path aria-label="monitor fuchsia: 212; Hip: where" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,49.52766787660428,83.524061486767L62.10139649124064,94.96527421643314A58,58,0,0,1,104.99999999999999,76.0Z" fill="#da9fad" stroke="white" stroke-width="3"/>
+<path aria-label="monitor fuchsia: 75; Hip: purple" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.53455638596895,201.60913378341843A75,75,0,0,0,93.5584030680674,208.1221280026902L96.15183170597213,191.3211123220804A58,58,0,0,1,79.89339027181599,186.28439679251025Z" fill="#ae9d3d" stroke="white" stroke-width="3"/>
+<text aria-label="148,161,53,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.14815730092653" y="61.26605644473504" font-family="sans-serif" font-size="8px" fill="#f1e9c9" opacity="1">225</text>
+<text aria-label="23,37,178,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="30.266056444735042" y="186.14815730092653" font-family="sans-serif" font-size="8px" fill="#13377a" opacity="1">271</text>
+<text aria-label="13,26,98,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.14262112693997" y="106.01291526683619" font-family="sans-serif" font-size="8px" fill="#bd9bbe" opacity="1">203</text>
+<text aria-label="138,152,208,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.70161246560917" y="216.27065928905387" font-family="sans-serif" font-size="8px" fill="#37cec5" opacity="1">317</text>
+<text aria-label="107,116,38,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.70892540462006" y="46.25040211836466" font-family="sans-serif" font-size="8px" fill="#2d7f8d" opacity="1">38</text>
+<text aria-label="188,201,125,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.96096776518192" y="133.3496644076833" font-family="sans-serif" font-size="8px" fill="#40deed" opacity="1">259</text>
+<text aria-label="61,75,45,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="68.60907640241294" y="53.68535561812479" font-family="sans-serif" font-size="8px" fill="#da9fad" opacity="1">212</text>
+<text aria-label="73,82,213,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="78.36751928276567" y="221.96924433101725" font-family="sans-serif" font-size="8px" fill="#ae9d3d" opacity="1">75</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#2d7f8d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#f1e9c9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#40deed" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#37cec5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#ae9d3d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#13377a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#bd9bbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#da9fad" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Agent</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cotton</text>
+<text aria-label="239,255,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">VGA</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="239,272,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">purple</text>
+<text aria-label="239,288,129,140" text-anchor="start" x="239.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">rewarding</text>
+<text aria-label="239,272,145,156" text-anchor="start" x="239.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">soluta</text>
+<text aria-label="239,266,161,172" text-anchor="start" x="239.0" y="171.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">where</text>
+<text aria-label="223,241,32,44" text-anchor="start" x="223.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Hip</text>
+</svg>

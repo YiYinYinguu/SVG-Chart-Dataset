@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="552" height="304" viewBox="0 0 552 304" style="background-color: rgb(255, 255, 255);">
+<line x1="73.5" y1="34.5" x2="73.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="123.5" y1="34.5" x2="123.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="173.5" y1="34.5" x2="173.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="222.5" y1="34.5" x2="222.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="272.5" y1="34.5" x2="272.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="321.5" y1="34.5" x2="321.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="371.5" y1="34.5" x2="371.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="421.5" y1="34.5" x2="421.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="44.5" y1="234.5" x2="451.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="44.5" y1="190.5" x2="451.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="44.5" y1="145.5" x2="451.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="44.5" y1="101.5" x2="451.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="44.5" y1="56.5" x2="451.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="64,77,241,267" text-anchor="end" x="73.78048780487804" y="241.5" transform="rotate(270.0, 77.78048780487804, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">bump</text>
+<text aria-label="114,127,241,274" text-anchor="end" x="123.41463414634146" y="241.5" transform="rotate(270.0, 127.41463414634146, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">canon</text>
+<text aria-label="164,177,241,287" text-anchor="end" x="173.0487804878049" y="241.5" transform="rotate(270.0, 177.0487804878049, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">cheetah</text>
+<text aria-label="213,226,241,287" text-anchor="end" x="222.6829268292683" y="241.5" transform="rotate(270.0, 226.6829268292683, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">hamster</text>
+<text aria-label="263,276,241,293" text-anchor="end" x="272.3170731707317" y="241.5" transform="rotate(270.0, 276.3170731707317, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">kangaroo</text>
+<text aria-label="312,325,241,293" text-anchor="end" x="321.95121951219517" y="241.5" transform="rotate(270.0, 325.95121951219517, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">kohlrabi</text>
+<text aria-label="362,375,241,261" text-anchor="end" x="371.5853658536586" y="241.5" transform="rotate(270.0, 375.5853658536586, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">lag</text>
+<text aria-label="412,425,241,267" text-anchor="end" x="421.219512195122" y="241.5" transform="rotate(270.0, 425.219512195122, 241.5)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">pipe</text>
+<line aria-label="73,73,234,239" x1="73.5" y1="234.5" x2="73.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="123,123,234,239" x1="123.5" y1="234.5" x2="123.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="173,173,234,239" x1="173.5" y1="234.5" x2="173.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="222,222,234,239" x1="222.5" y1="234.5" x2="222.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="272,272,234,239" x1="272.5" y1="234.5" x2="272.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="321,321,234,239" x1="321.5" y1="234.5" x2="321.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="371,371,234,239" x1="371.5" y1="234.5" x2="371.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="421,421,234,239" x1="421.5" y1="234.5" x2="421.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="44,451,234,234" x1="44.5" y1="234.5" x2="451.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="91,403,0,26" text-anchor="middle" x="247.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Infrastructure bypassing</text>
+<text aria-label="36,42,226,239" text-anchor="end" x="42.5" y="238.5" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="23,42,182,195" text-anchor="end" x="42.5" y="194.05555555555557" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="23,42,137,150" text-anchor="end" x="42.5" y="149.61111111111111" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="23,42,93,106" text-anchor="end" x="42.5" y="105.16666666666667" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="23,42,48,61" text-anchor="end" x="42.5" y="60.72222222222223" font-family="sans-serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="3,15,62,206" text-anchor="middle" x="17.388671875" y="134.5" transform="rotate(-90.0, 15.388671875, 134.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">female Jazz Bedfordshire</text>
+<line aria-label="44,44,34,234" x1="44.5" y1="234.5" x2="44.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="metabolite ouch: hamster; female Jazz Bedfordshire: 568; ew mint: panel Frozen" role="graphics-symbol" aria-roledescription="bar" d="M202.82926829268294,107.77777777777779h39.70731707317074v126.22222222222221h-39.70731707317074Z" fill="#c6dfff"/>
+<path aria-label="metabolite ouch: bump; female Jazz Bedfordshire: 661; ew mint: panel Frozen" role="graphics-symbol" aria-roledescription="bar" d="M53.926829268292664,87.11111111111111h39.70731707317074v146.88888888888889h-39.70731707317074Z" fill="#c6dfff"/>
+<path aria-label="metabolite ouch: kohlrabi; female Jazz Bedfordshire: 316; ew mint: panel Frozen" role="graphics-symbol" aria-roledescription="bar" d="M302.0975609756098,163.77777777777777h39.70731707317074v70.22222222222223h-39.70731707317074Z" fill="#c6dfff"/>
+<path aria-label="metabolite ouch: lag; female Jazz Bedfordshire: 245; ew mint: panel Frozen" role="graphics-symbol" aria-roledescription="bar" d="M351.7317073170732,179.55555555555557h39.70731707317074v54.44444444444443h-39.70731707317074Z" fill="#c6dfff"/>
+<path aria-label="metabolite ouch: kangaroo; female Jazz Bedfordshire: 358; ew mint: panel Frozen" role="graphics-symbol" aria-roledescription="bar" d="M252.46341463414635,154.44444444444446h39.70731707317074v79.55555555555556h-39.70731707317074Z" fill="#c6dfff"/>
+<path aria-label="metabolite ouch: cheetah; female Jazz Bedfordshire: 336; ew mint: panel Frozen" role="graphics-symbol" aria-roledescription="bar" d="M153.1951219512195,159.33333333333334h39.70731707317074v74.66666666666666h-39.70731707317074Z" fill="#c6dfff"/>
+<path aria-label="metabolite ouch: pipe; female Jazz Bedfordshire: 862; ew mint: panel Frozen" role="graphics-symbol" aria-roledescription="bar" d="M401.3658536585366,42.44444444444446h39.70731707317074v191.55555555555554h-39.70731707317074Z" fill="#c6dfff"/>
+<path aria-label="metabolite ouch: canon; female Jazz Bedfordshire: 311; ew mint: panel Frozen" role="graphics-symbol" aria-roledescription="bar" d="M103.56097560975608,164.88888888888889h39.70731707317074v69.11111111111111h-39.70731707317074Z" fill="#c6dfff"/>
+<path  d="M470.0,51.0h10v10h-10Z" fill="#c6dfff" stroke-width="1.5" opacity="1"/>
+<text aria-label="485,551,49,60" text-anchor="start" x="485.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">panel Frozen</text>
+<text aria-label="469,511,32,44" text-anchor="start" x="469.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">ew mint</text>
+</svg>

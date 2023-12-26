@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="334" height="239" viewBox="0 0 334 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="4,329,0,26" text-anchor="end" x="329.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Alto synthesize Northwest</text>
+<path aria-label="gray: 99; Shirt: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.8697573479921,208.68471352277993A75,75,0,0,0,202.72810938364452,80.66383515074955L186.55815583932687,97.02025903785302A52,52,0,0,1,154.76303176127453,185.78140137579408Z" fill="#fd52f9" stroke="white" stroke-width="4"/>
+<path aria-label="gray: 9; Shirt: Texas" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.0,59.0A75,75,0,0,0,134.63099801137716,60.59159599968335L139.34415862122148,83.10350655978046A52,52,0,0,1,150.0,82.0Z" fill="#79f7a7" stroke="white" stroke-width="4"/>
+<path aria-label="gray: 34; Shirt: B2C" role="graphics-symbol" aria-roledescription="arc mark"  d="M202.72810938364452,80.66383515074955A75,75,0,0,0,150.0,59.0L150.0,82.0A52,52,0,0,1,186.55815583932687,97.02025903785302Z" fill="#ad76dc" stroke="white" stroke-width="4"/>
+<path aria-label="gray: 11; Shirt: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.01268366378739,208.03583083247983A75,75,0,0,0,156.8697573479921,208.68471352277993L154.76303176127453,185.78140137579408A52,52,0,0,1,141.68879400689258,185.33150937718602Z" fill="#9d7b6f" stroke="white" stroke-width="4"/>
+<path aria-label="gray: 62; Shirt: Reduced" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.63099801137716,60.59159599968335A75,75,0,0,0,75.12321141611778,138.29727022243247L98.08542658184166,136.9794406875532A52,52,0,0,1,139.34415862122148,83.10350655978046Z" fill="#cc3c6d" stroke="white" stroke-width="4"/>
+<path aria-label="gray: 59; Shirt: Junctions" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.12321141611778,138.29727022243247A75,75,0,0,0,138.01268366378739,208.03583083247983L141.68879400689258,185.33150937718602A52,52,0,0,1,98.08542658184166,136.9794406875532Z" fill="#5db8be" stroke="white" stroke-width="4"/>
+<path  d="M279.0,56.0A5,5,0,1,1,269.0,56.0A5,5,0,1,1,279.0,56.0" fill="#ad76dc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,72.0A5,5,0,1,1,269.0,72.0A5,5,0,1,1,279.0,72.0" fill="#fd52f9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,88.0A5,5,0,1,1,269.0,88.0A5,5,0,1,1,279.0,88.0" fill="#9d7b6f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,104.0A5,5,0,1,1,269.0,104.0A5,5,0,1,1,279.0,104.0" fill="#5db8be" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,120.0A5,5,0,1,1,269.0,120.0A5,5,0,1,1,279.0,120.0" fill="#cc3c6d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M279.0,136.0A5,5,0,1,1,269.0,136.0A5,5,0,1,1,279.0,136.0" fill="#79f7a7" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="284,300,49,60" text-anchor="start" x="284.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">B2C</text>
+<text aria-label="284,306,65,76" text-anchor="start" x="284.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="284,328,81,92" text-anchor="start" x="284.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="284,333,97,108" text-anchor="start" x="284.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Junctions</text>
+<text aria-label="284,322,113,124" text-anchor="start" x="284.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Reduced</text>
+<text aria-label="284,311,129,140" text-anchor="start" x="284.0" y="139.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Texas</text>
+<text aria-label="268,298,32,44" text-anchor="start" x="268.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Shirt</text>
+</svg>

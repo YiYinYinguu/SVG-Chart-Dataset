@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="438" height="286" viewBox="0 0 438 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="329,433,0,26" text-anchor="end" x="433.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Polonium</text>
+<path aria-label="female: 29; Guam: Ergonomic" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.31596901424064,238.36346518660585A75,75,0,0,0,157.46599992917868,234.59401880276775L105.0,181.0Z" fill="#f768ab" stroke="black" stroke-width="2"/>
+<path aria-label="female: 456; Guam: Shoes" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.70476221601908,150.0038632079818A75,75,0,0,0,50.10416766752049,232.102324727201L105.0,181.0Z" fill="#f66ccf" stroke="black" stroke-width="2"/>
+<path aria-label="female: 590; Guam: Pine" role="graphics-symbol" aria-roledescription="arc mark"  d="M50.10416766752049,232.102324727201A75,75,0,0,0,153.31596901424064,238.36346518660585L105.0,181.0Z" fill="#d12fbd" stroke="black" stroke-width="2"/>
+<path aria-label="female: 322; Guam: Cotton" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.35473126451853,130.39512151350493A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#054c57" stroke="black" stroke-width="2"/>
+<path aria-label="female: 596; Guam: Country" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.46599992917868,234.59401880276775A75,75,0,0,0,160.35473126451853,130.39512151350493L105.0,181.0Z" fill="#54ffd9" stroke="black" stroke-width="2"/>
+<path aria-label="female: 23; Guam: Supervisor" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.66178860309144,146.01083441036252A75,75,0,0,0,36.70476221601908,150.0038632079818L105.0,181.0Z" fill="#17bf7a" stroke="black" stroke-width="2"/>
+<path aria-label="female: 421; Guam: calculate" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,38.66178860309144,146.01083441036252L105.0,181.0Z" fill="#ef82bc" stroke="black" stroke-width="2"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#054c57" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,56.25A5,5,0,1,1,63.0,56.25A5,5,0,1,1,73.0,56.25" fill="#54ffd9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,56.25A5,5,0,1,1,125.0,56.25A5,5,0,1,1,135.0,56.25" fill="#f768ab" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,56.25A5,5,0,1,1,197.0,56.25A5,5,0,1,1,207.0,56.25" fill="#d12fbd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M254.0,56.25A5,5,0,1,1,244.0,56.25A5,5,0,1,1,254.0,56.25" fill="#f66ccf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M306.0,56.25A5,5,0,1,1,296.0,56.25A5,5,0,1,1,306.0,56.25" fill="#17bf7a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M383.0,56.25A5,5,0,1,1,373.0,56.25A5,5,0,1,1,383.0,56.25" fill="#ef82bc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Cotton</text>
+<text aria-label="78,116,49,60" text-anchor="start" x="78.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Country</text>
+<text aria-label="140,189,49,60" text-anchor="start" x="140.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Ergonomic</text>
+<text aria-label="212,234,49,60" text-anchor="start" x="212.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Pine</text>
+<text aria-label="259,286,49,60" text-anchor="start" x="259.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Shoes</text>
+<text aria-label="311,366,49,60" text-anchor="start" x="311.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Supervisor</text>
+<text aria-label="388,437,49,60" text-anchor="start" x="388.0" y="59.25" font-family="serif" font-size="10px" fill="#000" opacity="1">calculate</text>
+<text aria-label="5,29,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Guam</text>
+</svg>

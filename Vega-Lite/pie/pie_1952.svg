@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">lavender</text>
+<path aria-label="Electronics Orchestrator: 75; haptic Cisgender: redundant" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.76673851494058,208.65038464930208A75,75,0,0,0,202.4378119805176,206.6983293437413L196.2918746536784,182.46555289582756A50,50,0,0,1,179.17782567662707,183.76692309953472Z" fill="#6f6beb" stroke="white" stroke-width="0"/>
+<path aria-label="Electronics Orchestrator: 662; haptic Cisgender: yellow" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.0,59.0A75,75,0,0,0,176.76673851494058,208.65038464930208L179.17782567662707,183.76692309953472A50,50,0,0,1,184.0,84.0Z" fill="#1cfaaa" stroke="white" stroke-width="0"/>
+<path aria-label="Electronics Orchestrator: 22; haptic Cisgender: Small" role="graphics-symbol" aria-roledescription="arc mark"  d="M241.29286583372595,182.39966450874093A75,75,0,0,0,245.8891422907008,176.36430179433376L225.25942819380055,162.24286786288917A50,50,0,0,1,222.19524388915065,166.26644300582728Z" fill="#d9e5db" stroke="white" stroke-width="0"/>
+<path aria-label="Electronics Orchestrator: 135; haptic Cisgender: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M202.4378119805176,206.6983293437413A75,75,0,0,0,241.29286583372595,182.39966450874093L222.19524388915065,166.26644300582728A50,50,0,0,1,196.2918746536784,182.46555289582756Z" fill="#121576" stroke="white" stroke-width="0"/>
+<path aria-label="Electronics Orchestrator: 472; haptic Cisgender: Pants" role="graphics-symbol" aria-roledescription="arc mark"  d="M245.8891422907008,176.36430179433376A75,75,0,0,0,184.0,59.0L184.0,84.0A50,50,0,0,1,225.25942819380055,162.24286786288917Z" fill="#dea641" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#dea641" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#d9e5db" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#121576" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#6f6beb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#1cfaaa" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Pants</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Small</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">redundant</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">yellow</text>
+</svg>

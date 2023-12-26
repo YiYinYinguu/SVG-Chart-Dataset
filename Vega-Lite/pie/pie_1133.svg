@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="296" height="239" viewBox="0 0 296 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="165,217,0,26" text-anchor="middle" x="191.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">East</text>
+<path aria-label="Buckinghamshire Functionality: 178; promptly hack: hard" role="graphics-symbol" aria-roledescription="arc mark"  d="M191.0,59.0A75,75,0,0,0,117.5195337933731,149.02068860128466L191.0,134.0Z" fill="#0b0608" stroke="black" stroke-width="0"/>
+<path aria-label="Buckinghamshire Functionality: 350; promptly hack: Liaison" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.5539094780355,198.98300012019175A75,75,0,1,0,204.37077196123738,60.20147388219337L191.0,134.0Z" fill="#eda4ef" stroke="black" stroke-width="0"/>
+<path aria-label="Buckinghamshire Functionality: 18; promptly hack: Berkshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M204.37077196123738,60.20147388219337A75,75,0,0,0,191.0,59.0L191.0,134.0Z" fill="#b8b18b" stroke="black" stroke-width="0"/>
+<path aria-label="Buckinghamshire Functionality: 85; promptly hack: aspernatur" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.5195337933731,149.02068860128466A75,75,0,0,0,153.5539094780355,198.98300012019175L191.0,134.0Z" fill="#b64c41" stroke="black" stroke-width="0"/>
+<text aria-label="113,129,70,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.27828756786467" y="80.08881642830976" font-family="Balto" font-size="10px" fill="#0b0608" opacity="1">178</text>
+<text aria-label="267,283,157,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="275.5125782114683" y="167.9455024850213" font-family="Balto" font-size="10px" fill="#eda4ef" opacity="1">350</text>
+<text aria-label="193,204,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="199.05478675313267" y="47.36116683958029" font-family="Balto" font-size="10px" fill="#b8b18b" opacity="1">18</text>
+<text aria-label="112,123,179,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.00454752801008" y="189.64659455662314" font-family="Balto" font-size="10px" fill="#b64c41" opacity="1">85</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#b8b18b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#eda4ef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#b64c41" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#0b0608" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Berkshire</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Liaison</text>
+<text aria-label="21,76,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">aspernatur</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">hard</text>
+</svg>

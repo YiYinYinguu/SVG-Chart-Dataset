@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="702" height="323" viewBox="0 0 702 323" style="background-color: rgb(255, 255, 255);">
+<line x1="80.5" y1="40.5" x2="80.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="151.5" y1="40.5" x2="151.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="223.5" y1="40.5" x2="223.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="295.5" y1="40.5" x2="295.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="367.5" y1="40.5" x2="367.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="438.5" y1="40.5" x2="438.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="510.5" y1="40.5" x2="510.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="582.5" y1="40.5" x2="582.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="653.5" y1="40.5" x2="653.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="240.5" x2="697.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="190.5" x2="697.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="140.5" x2="697.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="90.5" x2="697.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="37.5" y1="40.5" x2="697.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="72,83,247,275" text-anchor="end" x="80.04347826086959" y="247.5" transform="rotate(270.0, 83.04347826086959, 247.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">ankle</text>
+<text aria-label="143,154,247,280" text-anchor="end" x="151.7826086956522" y="247.5" transform="rotate(270.0, 154.7826086956522, 247.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">cicada</text>
+<text aria-label="215,226,247,280" text-anchor="end" x="223.52173913043478" y="247.5" transform="rotate(270.0, 226.52173913043478, 247.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">copper</text>
+<text aria-label="287,298,247,264" text-anchor="end" x="295.2608695652174" y="247.5" transform="rotate(270.0, 298.2608695652174, 247.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">dog</text>
+<text aria-label="359,370,247,275" text-anchor="end" x="367.0" y="247.5" transform="rotate(270.0, 370.0, 247.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">gaffe</text>
+<text aria-label="430,441,247,280" text-anchor="end" x="438.7391304347826" y="247.5" transform="rotate(270.0, 441.7391304347826, 247.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">router</text>
+<text aria-label="502,513,247,286" text-anchor="end" x="510.4782608695652" y="247.5" transform="rotate(270.0, 513.4782608695652, 247.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">running</text>
+<text aria-label="574,585,247,264" text-anchor="end" x="582.2173913043478" y="247.5" transform="rotate(270.0, 585.2173913043478, 247.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">sir</text>
+<text aria-label="645,656,247,291" text-anchor="end" x="653.9565217391303" y="247.5" transform="rotate(270.0, 656.9565217391303, 247.5)" font-family="monospace" font-size="10px" font-weight="bold" fill="#000" opacity="1">sunlight</text>
+<line aria-label="80,80,240,245" x1="80.5" y1="240.5" x2="80.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="151,151,240,245" x1="151.5" y1="240.5" x2="151.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="223,223,240,245" x1="223.5" y1="240.5" x2="223.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="295,295,240,245" x1="295.5" y1="240.5" x2="295.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="367,367,240,245" x1="367.5" y1="240.5" x2="367.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="438,438,240,245" x1="438.5" y1="240.5" x2="438.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="510,510,240,245" x1="510.5" y1="240.5" x2="510.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="582,582,240,245" x1="582.5" y1="240.5" x2="582.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="653,653,240,245" x1="653.5" y1="240.5" x2="653.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,697,240,240" x1="37.5" y1="240.5" x2="697.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,278,0,26" text-anchor="start" x="5.0" y="25.139999999999993" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">implement athwart B2C</text>
+<text aria-label="30,35,233,244" text-anchor="end" x="35.5" y="243.5" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,35,183,194" text-anchor="end" x="35.5" y="193.5" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,35,133,144" text-anchor="end" x="35.5" y="143.5" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="19,35,83,94" text-anchor="end" x="35.5" y="93.5" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="19,35,33,44" text-anchor="end" x="35.5" y="43.5" font-family="monospace" font-size="10px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="2,14,65,215" text-anchor="middle" x="16.5" y="140.5" transform="rotate(-90.0, 14.5, 140.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Panama withdrawal usually</text>
+<path aria-label="decent Tricycle: sir; Panama withdrawal usually: 468; Funk: recklessly unequaled" role="graphics-symbol" aria-roledescription="bar" d="M553.5217391304348,123.0h57.39130434782608v117h-57.39130434782608Z" fill="#0cccec"/>
+<path aria-label="decent Tricycle: dog; Panama withdrawal usually: 224; Funk: recklessly unequaled" role="graphics-symbol" aria-roledescription="bar" d="M266.5652173913044,184.0h57.39130434782608v56h-57.39130434782608Z" fill="#0cccec"/>
+<path aria-label="decent Tricycle: router; Panama withdrawal usually: 582; Funk: recklessly unequaled" role="graphics-symbol" aria-roledescription="bar" d="M410.04347826086956,94.5h57.39130434782608v145.5h-57.39130434782608Z" fill="#0cccec"/>
+<path aria-label="decent Tricycle: cicada; Panama withdrawal usually: 244; Funk: recklessly unequaled" role="graphics-symbol" aria-roledescription="bar" d="M123.08695652173915,179.0h57.39130434782608v61h-57.39130434782608Z" fill="#0cccec"/>
+<path aria-label="decent Tricycle: running; Panama withdrawal usually: 234; Funk: recklessly unequaled" role="graphics-symbol" aria-roledescription="bar" d="M481.78260869565213,181.5h57.39130434782608v58.5h-57.39130434782608Z" fill="#0cccec"/>
+<path aria-label="decent Tricycle: ankle; Panama withdrawal usually: 202; Funk: recklessly unequaled" role="graphics-symbol" aria-roledescription="bar" d="M51.34782608695656,189.5h57.39130434782608v50.5h-57.39130434782608Z" fill="#0cccec"/>
+<path aria-label="decent Tricycle: copper; Panama withdrawal usually: 617; Funk: recklessly unequaled" role="graphics-symbol" aria-roledescription="bar" d="M194.82608695652175,85.75h57.39130434782608v154.25h-57.39130434782608Z" fill="#0cccec"/>
+<path aria-label="decent Tricycle: gaffe; Panama withdrawal usually: 597; Funk: recklessly unequaled" role="graphics-symbol" aria-roledescription="bar" d="M338.30434782608694,90.75h57.39130434782608v149.25h-57.39130434782608Z" fill="#0cccec"/>
+<path aria-label="decent Tricycle: sunlight; Panama withdrawal usually: 728; Funk: recklessly unequaled" role="graphics-symbol" aria-roledescription="bar" d="M625.2608695652173,57.99999999999999h57.39130434782608v182h-57.39130434782608Z" fill="#0cccec"/>
+<text aria-label="566,597,95,116" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="582.2173913043478" y="115.14" font-family="monospace" font-size="19.8px" fill="#000" opacity="1">468</text>
+<text aria-label="279,310,156,177" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="295.2608695652174" y="176.14" font-family="monospace" font-size="19.8px" fill="#000" opacity="1">224</text>
+<text aria-label="423,454,66,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="438.7391304347826" y="86.63999999999999" font-family="monospace" font-size="19.8px" fill="#000" opacity="1">582</text>
+<text aria-label="136,167,151,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.7826086956522" y="171.14" font-family="monospace" font-size="19.8px" fill="#000" opacity="1">244</text>
+<text aria-label="494,526,153,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="510.4782608695652" y="173.64" font-family="monospace" font-size="19.8px" fill="#000" opacity="1">234</text>
+<text aria-label="64,95,161,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="80.04347826086959" y="181.64" font-family="monospace" font-size="19.8px" fill="#000" opacity="1">202</text>
+<text aria-label="207,239,58,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="223.52173913043478" y="77.89" font-family="monospace" font-size="19.8px" fill="#000" opacity="1">617</text>
+<text aria-label="351,382,63,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="367.0" y="82.89000000000001" font-family="monospace" font-size="19.8px" fill="#000" opacity="1">597</text>
+<text aria-label="638,669,30,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="653.9565217391303" y="50.13999999999999" font-family="monospace" font-size="19.8px" fill="#000" opacity="1">728</text>
+<path  d="M38.0,308.0h10v10h-10Z" fill="#0cccec" stroke-width="1.5" opacity="1"/>
+<text aria-label="53,163,306,317" text-anchor="start" x="53.0" y="316.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">recklessly unequaled</text>
+</svg>

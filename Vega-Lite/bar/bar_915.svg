@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="647" height="301" viewBox="0 0 647 301" style="background-color: rgb(255, 255, 255);">
+<line x1="102.5" y1="44.5" x2="102.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="222.5" y1="44.5" x2="222.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="342.5" y1="44.5" x2="342.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="462.5" y1="44.5" x2="462.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="582.5" y1="44.5" x2="582.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="244.5" x2="642.5" y2="244.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="211.5" x2="642.5" y2="211.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="177.5" x2="642.5" y2="177.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="144.5" x2="642.5" y2="144.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="111.5" x2="642.5" y2="111.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="77.5" x2="642.5" y2="77.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="44.5" x2="642.5" y2="44.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="93,105,251,293" text-anchor="end" x="102.0" y="251.5" transform="rotate(270.0, 105.0, 251.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">arrival</text>
+<text aria-label="213,225,251,299" text-anchor="end" x="222.0" y="251.5" transform="rotate(270.0, 225.0, 251.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">detector</text>
+<text aria-label="333,345,251,287" text-anchor="end" x="342.0" y="251.5" transform="rotate(270.0, 345.0, 251.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">durian</text>
+<text aria-label="453,465,251,299" text-anchor="end" x="462.0" y="251.5" transform="rotate(270.0, 465.0, 251.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">faithful</text>
+<text aria-label="573,585,251,293" text-anchor="end" x="582.0" y="251.5" transform="rotate(270.0, 585.0, 251.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">soprano</text>
+<line aria-label="102,102,244,249" x1="102.5" y1="244.5" x2="102.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="222,222,244,249" x1="222.5" y1="244.5" x2="222.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="342,342,244,249" x1="342.5" y1="244.5" x2="342.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="462,462,244,249" x1="462.5" y1="244.5" x2="462.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="582,582,244,249" x1="582.5" y1="244.5" x2="582.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,642,244,244" x1="42.5" y1="244.5" x2="642.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,356,0,26" text-anchor="start" x="5.64794921875" y="25.700000000000003" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Central SMTP infrastructure</text>
+<text aria-label="34,40,236,248" text-anchor="end" x="40.5" y="247.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="22,40,203,215" text-anchor="end" x="40.5" y="214.16666666666669" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="22,40,169,181" text-anchor="end" x="40.5" y="180.83333333333334" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,40,136,148" text-anchor="end" x="40.5" y="147.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="22,40,103,115" text-anchor="end" x="40.5" y="114.16666666666667" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="22,40,69,81" text-anchor="end" x="40.5" y="80.83333333333333" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="22,40,36,48" text-anchor="end" x="40.5" y="47.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="3,15,84,204" text-anchor="middle" x="17.14794921875" y="144.5" transform="rotate(-90.0, 15.14794921875, 144.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Music Granite toward</text>
+<path aria-label="Fitness Franc: soprano; Music Granite toward: 597; Liaison: Functionality" role="graphics-symbol" aria-roledescription="bar" d="M533.4,45.0h97.2v199h-97.2Z" fill="#1f6fcb"/>
+<path aria-label="Fitness Franc: faithful; Music Granite toward: 452; Liaison: Functionality" role="graphics-symbol" aria-roledescription="bar" d="M413.4,93.33333333333334h97.2v150.66666666666666h-97.2Z" fill="#1f6fcb"/>
+<path aria-label="Fitness Franc: detector; Music Granite toward: 219; Liaison: Functionality" role="graphics-symbol" aria-roledescription="bar" d="M173.4,171.0h97.2v73h-97.2Z" fill="#1f6fcb"/>
+<path aria-label="Fitness Franc: durian; Music Granite toward: 467; Liaison: Functionality" role="graphics-symbol" aria-roledescription="bar" d="M293.4,88.33333333333334h97.2v155.66666666666666h-97.2Z" fill="#1f6fcb"/>
+<path aria-label="Fitness Franc: arrival; Music Granite toward: 18; Liaison: Functionality" role="graphics-symbol" aria-roledescription="bar" d="M53.4,238.0h97.2v6h-97.2Z" fill="#1f6fcb"/>
+<text aria-label="574,589,32,42" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="582.0" y="41.7" font-family="avenir" font-size="9px" fill="#000" opacity="1">597</text>
+<text aria-label="454,469,81,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="462.0" y="90.03333333333335" font-family="avenir" font-size="9px" fill="#000" opacity="1">452</text>
+<text aria-label="214,229,158,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="222.0" y="167.7" font-family="avenir" font-size="9px" fill="#000" opacity="1">219</text>
+<text aria-label="334,349,76,86" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="342.0" y="85.03333333333333" font-family="avenir" font-size="9px" fill="#000" opacity="1">467</text>
+<text aria-label="97,107,225,235" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="102.0" y="234.7" font-family="avenir" font-size="9px" fill="#000" opacity="1">18</text>
+</svg>

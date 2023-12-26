@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="303" height="286" viewBox="0 0 303 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">handmade Meitnerium</text>
+<path aria-label="gray West gray: 22; Infrastructure Southwest hierarchy: Coupe" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.39055378435114,106.47082043124378A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#b16ffa" stroke="black" stroke-width="0"/>
+<path aria-label="gray West gray: 317; Infrastructure Southwest hierarchy: extranet" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.07454336652738,184.34304475973826L105.0,181.0Z" fill="#1c1b39" stroke="black" stroke-width="0"/>
+<path aria-label="gray West gray: 492; Infrastructure Southwest hierarchy: Division" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.41722327012036,245.9996261739555A75,75,0,0,0,113.39055378435114,106.47082043124378L105.0,181.0Z" fill="#6aeb8e" stroke="black" stroke-width="0"/>
+<path aria-label="gray West gray: 13; Infrastructure Southwest hierarchy: Ford" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.03232852375336,248.33398304198874A75,75,0,0,0,142.41722327012036,245.9996261739555L105.0,181.0Z" fill="#bb9daf" stroke="black" stroke-width="0"/>
+<path aria-label="gray West gray: 389; Infrastructure Southwest hierarchy: Nevada" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.07454336652738,184.34304475973826A75,75,0,0,0,138.03232852375336,248.33398304198874L105.0,181.0Z" fill="#8e6d0f" stroke="black" stroke-width="0"/>
+<text aria-label="105,114,85,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.04225180719524" y="93.14135713960044" font-family="Balto" font-size="8px" fill="#b16ffa" opacity="1">22</text>
+<text aria-label="33,46,112,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="39.95751836664081" y="120.79489102192542" font-family="Balto" font-size="8px" fill="#1c1b39" opacity="1">317</text>
+<text aria-label="186,199,156,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.11350875681572" y="164.6694360544319" font-family="Balto" font-size="8px" fill="#6aeb8e" opacity="1">492</text>
+<text aria-label="142,151,254,263" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.29292949394983" y="262.44374182287606" font-family="Balto" font-size="8px" fill="#bb9daf" opacity="1">13</text>
+<text aria-label="52,65,252,261" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="59.10931716108756" y="260.42121949813463" font-family="Balto" font-size="8px" fill="#8e6d0f" opacity="1">389</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#b16ffa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M75.0,56.25A5,5,0,1,1,65.0,56.25A5,5,0,1,1,75.0,56.25" fill="#6aeb8e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,56.25A5,5,0,1,1,130.0,56.25A5,5,0,1,1,140.0,56.25" fill="#bb9daf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M189.0,56.25A5,5,0,1,1,179.0,56.25A5,5,0,1,1,189.0,56.25" fill="#8e6d0f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M253.0,56.25A5,5,0,1,1,243.0,56.25A5,5,0,1,1,253.0,56.25" fill="#1c1b39" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Coupe</text>
+<text aria-label="80,124,49,60" text-anchor="start" x="80.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Division</text>
+<text aria-label="145,167,49,60" text-anchor="start" x="145.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Ford</text>
+<text aria-label="194,227,49,60" text-anchor="start" x="194.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Nevada</text>
+<text aria-label="258,302,49,60" text-anchor="start" x="258.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">extranet</text>
+<text aria-label="5,191,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Infrastructure Southwest hiera…</text>
+</svg>

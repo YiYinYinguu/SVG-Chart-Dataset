@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="900" height="327" viewBox="0 0 900 327" style="background-color: rgb(255, 255, 255);">
+<line x1="139.5" y1="34.5" x2="139.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="303.5" y1="34.5" x2="303.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="468.5" y1="34.5" x2="468.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="632.5" y1="34.5" x2="632.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="796.5" y1="34.5" x2="796.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="234.5" x2="895.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="203.5" x2="895.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="172.5" x2="895.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="142.5" x2="895.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="111.5" x2="895.5" y2="111.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="80.5" x2="895.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="41.5" y1="49.5" x2="895.5" y2="49.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="127,144,241,335" text-anchor="end" x="139.53846153846155" y="241.5" transform="rotate(270.0, 144.53846153846155, 241.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">alternative</text>
+<text aria-label="291,308,241,267" text-anchor="end" x="303.7692307692308" y="241.5" transform="rotate(270.0, 308.7692307692308, 241.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">art</text>
+<text aria-label="456,473,241,284" text-anchor="end" x="468.0" y="241.5" transform="rotate(270.0, 473.0, 241.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">chord</text>
+<text aria-label="620,637,241,284" text-anchor="end" x="632.2307692307693" y="241.5" transform="rotate(270.0, 637.2307692307693, 241.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">salad</text>
+<text aria-label="784,801,241,301" text-anchor="end" x="796.4615384615385" y="241.5" transform="rotate(270.0, 801.4615384615385, 241.5)" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">seagull</text>
+<line aria-label="139,139,234,239" x1="139.5" y1="234.5" x2="139.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="303,303,234,239" x1="303.5" y1="234.5" x2="303.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="468,468,234,239" x1="468.5" y1="234.5" x2="468.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="632,632,234,239" x1="632.5" y1="234.5" x2="632.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="796,796,234,239" x1="796.5" y1="234.5" x2="796.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,895,234,234" x1="41.5" y1="234.5" x2="895.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,200,0,26" text-anchor="start" x="5.8515625" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electronic mint</text>
+<text aria-label="26,34,223,240" text-anchor="end" x="34.5" y="239.5" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="9,34,192,209" text-anchor="end" x="34.5" y="208.73076923076923" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="9,34,161,178" text-anchor="end" x="34.5" y="177.96153846153845" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="9,34,131,148" text-anchor="end" x="34.5" y="147.19230769230768" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="9,34,100,117" text-anchor="end" x="34.5" y="116.42307692307692" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="9,34,69,86" text-anchor="end" x="34.5" y="85.65384615384615" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="9,34,38,55" text-anchor="end" x="34.5" y="54.88461538461537" font-family="avenir" font-size="16px" font-weight="normal" fill="#000" opacity="1">600</text>
+<line aria-label="36,41,234,234" x1="41.5" y1="234.5" x2="36.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,203,203" x1="41.5" y1="203.5" x2="36.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,172,172" x1="41.5" y1="172.5" x2="36.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,142,142" x1="41.5" y1="142.5" x2="36.5" y2="142.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,111,111" x1="41.5" y1="111.5" x2="36.5" y2="111.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,80,80" x1="41.5" y1="80.5" x2="36.5" y2="80.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,49,49" x1="41.5" y1="49.5" x2="36.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,41,34,234" x1="41.5" y1="234.5" x2="41.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="overriding: chord; indeed Borders at: 338; Integration male: Bentley" role="graphics-symbol" aria-roledescription="bar" d="M402.3076923076923,130.0h43.794871794871796v104h-43.794871794871796Z" fill="#a82b30"/>
+<path aria-label="overriding: chord; indeed Borders at: 436; Integration male: generating Rand" role="graphics-symbol" aria-roledescription="bar" d="M446.1025641025641,99.84615384615384h43.794871794871796v134.15384615384616h-43.794871794871796Z" fill="#14a1b2"/>
+<path aria-label="overriding: chord; indeed Borders at: 480; Integration male: into Monitored North" role="graphics-symbol" aria-roledescription="bar" d="M489.8974358974359,86.30769230769229h43.794871794871796v147.6923076923077h-43.794871794871796Z" fill="#3effa4"/>
+<path aria-label="overriding: art; indeed Borders at: 566; Integration male: Bentley" role="graphics-symbol" aria-roledescription="bar" d="M238.0769230769231,59.846153846153854h43.794871794871796v174.15384615384613h-43.794871794871796Z" fill="#a82b30"/>
+<path aria-label="overriding: art; indeed Borders at: 358; Integration male: generating Rand" role="graphics-symbol" aria-roledescription="bar" d="M281.8717948717949,123.84615384615384h43.794871794871796v110.15384615384616h-43.794871794871796Z" fill="#14a1b2"/>
+<path aria-label="overriding: art; indeed Borders at: 601; Integration male: into Monitored North" role="graphics-symbol" aria-roledescription="bar" d="M325.6666666666667,49.07692307692308h43.794871794871796v184.92307692307693h-43.794871794871796Z" fill="#3effa4"/>
+<path aria-label="overriding: alternative; indeed Borders at: 562; Integration male: Bentley" role="graphics-symbol" aria-roledescription="bar" d="M73.84615384615387,61.07692307692309h43.794871794871796v172.9230769230769h-43.794871794871796Z" fill="#a82b30"/>
+<path aria-label="overriding: alternative; indeed Borders at: 472; Integration male: generating Rand" role="graphics-symbol" aria-roledescription="bar" d="M117.64102564102566,88.76923076923077h43.794871794871796v145.23076923076923h-43.794871794871796Z" fill="#14a1b2"/>
+<path aria-label="overriding: alternative; indeed Borders at: 416; Integration male: into Monitored North" role="graphics-symbol" aria-roledescription="bar" d="M161.43589743589746,106.0h43.794871794871796v128h-43.794871794871796Z" fill="#3effa4"/>
+<path aria-label="overriding: seagull; indeed Borders at: 19; Integration male: Bentley" role="graphics-symbol" aria-roledescription="bar" d="M730.7692307692307,228.15384615384613h43.794871794871796v5.846153846153868h-43.794871794871796Z" fill="#a82b30"/>
+<path aria-label="overriding: seagull; indeed Borders at: 140; Integration male: generating Rand" role="graphics-symbol" aria-roledescription="bar" d="M774.5641025641025,190.92307692307693h43.794871794871796v43.076923076923066h-43.794871794871796Z" fill="#14a1b2"/>
+<path aria-label="overriding: seagull; indeed Borders at: 228; Integration male: into Monitored North" role="graphics-symbol" aria-roledescription="bar" d="M818.3589743589744,163.84615384615387h43.794871794871796v70.15384615384613h-43.794871794871796Z" fill="#3effa4"/>
+<path aria-label="overriding: salad; indeed Borders at: 500; Integration male: Bentley" role="graphics-symbol" aria-roledescription="bar" d="M566.5384615384615,80.15384615384615h43.794871794871796v153.84615384615387h-43.794871794871796Z" fill="#a82b30"/>
+<path aria-label="overriding: salad; indeed Borders at: 575; Integration male: generating Rand" role="graphics-symbol" aria-roledescription="bar" d="M610.3333333333334,57.07692307692308h43.794871794871796v176.9230769230769h-43.794871794871796Z" fill="#14a1b2"/>
+<path aria-label="overriding: salad; indeed Borders at: 473; Integration male: into Monitored North" role="graphics-symbol" aria-roledescription="bar" d="M654.1282051282051,88.46153846153848h43.794871794871796v145.53846153846152h-43.794871794871796Z" fill="#3effa4"/>
+</svg>

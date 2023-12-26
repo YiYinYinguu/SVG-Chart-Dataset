@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="598" height="270" viewBox="0 0 598 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Lead</text>
+<path aria-label="interface IP: 422; Checking: woman" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,38.63398138717366,99.06360674766228L105.0,134.0Z" fill="#96a89e" stroke="black" stroke-width="0"/>
+<path aria-label="interface IP: 347; Checking: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.27788467417753,204.80831175657795A75,75,0,0,0,144.66569442730957,197.6524366037884L105.0,134.0Z" fill="#fdb2cf" stroke="black" stroke-width="0"/>
+<path aria-label="interface IP: 361; Checking: upward" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.756795049843504,100.78326644549092A75,75,0,0,0,38.146049908307816,167.99337225309563L105.0,134.0Z" fill="#b5001b" stroke="black" stroke-width="0"/>
+<path aria-label="interface IP: 10; Checking: waterspout" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.63398138717366,99.06360674766228A75,75,0,0,0,37.756795049843504,100.78326644549092L105.0,134.0Z" fill="#f73a2c" stroke="black" stroke-width="0"/>
+<path aria-label="interface IP: 348; Checking: Fresh" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.66569442730957,197.6524366037884A75,75,0,0,0,179.4805596369983,142.81171017223917L105.0,134.0Z" fill="#f6ae6e" stroke="black" stroke-width="0"/>
+<path aria-label="interface IP: 297; Checking: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.146049908307816,167.99337225309563A75,75,0,0,0,80.27788467417753,204.80831175657795L105.0,134.0Z" fill="#efbf9c" stroke="black" stroke-width="0"/>
+<path aria-label="interface IP: 58; Checking: Division" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.4805596369983,142.81171017223917A75,75,0,0,0,179.9627186492034,131.6355100506931L105.0,134.0Z" fill="#86a527" stroke="black" stroke-width="0"/>
+<path aria-label="interface IP: 53; Checking: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.20002548510018,59.69684071250195A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#baee51" stroke="black" stroke-width="0"/>
+<path aria-label="interface IP: 545; Checking: Clothing" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.9627186492034,131.6355100506931A75,75,0,0,0,115.20002548510018,59.69684071250195L105.0,134.0Z" fill="#ac57f3" stroke="black" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#baee51" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,258.25A5,5,0,1,1,66.0,258.25A5,5,0,1,1,76.0,258.25" fill="#ac57f3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M144.0,258.25A5,5,0,1,1,134.0,258.25A5,5,0,1,1,144.0,258.25" fill="#86a527" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M209.0,258.25A5,5,0,1,1,199.0,258.25A5,5,0,1,1,209.0,258.25" fill="#f6ae6e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M262.0,258.25A5,5,0,1,1,252.0,258.25A5,5,0,1,1,262.0,258.25" fill="#fdb2cf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M338.0,258.25A5,5,0,1,1,328.0,258.25A5,5,0,1,1,338.0,258.25" fill="#efbf9c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M407.0,258.25A5,5,0,1,1,397.0,258.25A5,5,0,1,1,407.0,258.25" fill="#b5001b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M471.0,258.25A5,5,0,1,1,461.0,258.25A5,5,0,1,1,471.0,258.25" fill="#f73a2c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M552.0,258.25A5,5,0,1,1,542.0,258.25A5,5,0,1,1,552.0,258.25" fill="#96a89e" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="81,125,251,262" text-anchor="start" x="81.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Clothing</text>
+<text aria-label="149,193,251,262" text-anchor="start" x="149.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Division</text>
+<text aria-label="214,241,251,262" text-anchor="start" x="214.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="267,316,251,262" text-anchor="start" x="267.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="343,381,251,262" text-anchor="start" x="343.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="412,445,251,262" text-anchor="start" x="412.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">upward</text>
+<text aria-label="476,531,251,262" text-anchor="start" x="476.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">waterspout</text>
+<text aria-label="557,584,251,262" text-anchor="start" x="557.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">woman</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="310" height="239" viewBox="0 0 310 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="71,305,0,26" text-anchor="end" x="305.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Tactics waterfront</text>
+<path aria-label="1080p gee: 459; bandwidth: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.14053562500325,117.40295060898981A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#9dc319" stroke="white" stroke-width="0"/>
+<path aria-label="1080p gee: 481; bandwidth: grey" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.77482996869584,144.7528663073613A75,75,0,0,0,103.89901408430123,208.99191843134454L105.0,134.0Z" fill="#3db3a0" stroke="white" stroke-width="0"/>
+<path aria-label="1080p gee: 372; bandwidth: online" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,38.42623619847588,99.46112374006827L105.0,134.0Z" fill="#912afd" stroke="white" stroke-width="0"/>
+<path aria-label="1080p gee: 305; bandwidth: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.0878570705282,204.31659628755995A75,75,0,0,0,176.19191548946458,157.59472756657587L105.0,134.0Z" fill="#e2daae" stroke="white" stroke-width="0"/>
+<path aria-label="1080p gee: 212; bandwidth: infomediaries" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.42623619847588,99.46112374006827A75,75,0,0,0,30.77482996869584,144.7528663073613L105.0,134.0Z" fill="#bfadbe" stroke="white" stroke-width="0"/>
+<path aria-label="1080p gee: 185; bandwidth: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.19191548946458,157.59472756657587A75,75,0,0,0,178.14053562500325,117.40295060898981L105.0,134.0Z" fill="#15f3ad" stroke="white" stroke-width="0"/>
+<path aria-label="1080p gee: 126; bandwidth: Vermont" role="graphics-symbol" aria-roledescription="arc mark"  d="M103.89901408430123,208.99191843134454A75,75,0,0,0,131.0878570705282,204.31659628755995L105.0,134.0Z" fill="#b7022d" stroke="white" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#9dc319" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#15f3ad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#e2daae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#b7022d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#3db3a0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#bfadbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#912afd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Vermont</text>
+<text aria-label="239,261,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">grey</text>
+<text aria-label="239,310,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">infomediaries</text>
+<text aria-label="239,272,145,156" text-anchor="start" x="239.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">online</text>
+<text aria-label="223,277,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">bandwidth</text>
+</svg>

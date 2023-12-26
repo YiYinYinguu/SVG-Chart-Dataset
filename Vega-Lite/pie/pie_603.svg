@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="341" height="270" viewBox="0 0 341 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">homogeneous Hip</text>
+<path aria-label="Cordoba: 2; cyan Coordinator katal: Abilene" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.09412290426768,90.02924137197343A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#a4f0d8" stroke="white" stroke-width="0"/>
+<path aria-label="Cordoba: 37; cyan Coordinator katal: at" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.345691040952744,190.15886773126914A75,75,0,0,0,55.99345470074211,221.77462917388175L105.0,165.0Z" fill="#f9b59b" stroke="white" stroke-width="0"/>
+<path aria-label="Cordoba: 115; cyan Coordinator katal: however" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,30.045687973567823,167.61746225268755L105.0,165.0Z" fill="#f35f9c" stroke="white" stroke-width="0"/>
+<path aria-label="Cordoba: 162; cyan Coordinator katal: Rustic" role="graphics-symbol" aria-roledescription="arc mark"  d="M55.99345470074211,221.77462917388175A75,75,0,0,0,179.9835512606134,166.57068149125178L105.0,165.0Z" fill="#2d2801" stroke="white" stroke-width="0"/>
+<path aria-label="Cordoba: 112; cyan Coordinator katal: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.9835512606134,166.57068149125178A75,75,0,0,0,107.09412290426768,90.02924137197343L105.0,165.0Z" fill="#be89a6" stroke="white" stroke-width="0"/>
+<path aria-label="Cordoba: 22; cyan Coordinator katal: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.045687973567823,167.61746225268755A75,75,0,0,0,34.345691040952744,190.15886773126914L105.0,165.0Z" fill="#17be56" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#a4f0d8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,40.25A5,5,0,1,1,68.0,40.25A5,5,0,1,1,78.0,40.25" fill="#be89a6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,40.25A5,5,0,1,1,135.0,40.25A5,5,0,1,1,145.0,40.25" fill="#2d2801" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M202.0,40.25A5,5,0,1,1,192.0,40.25A5,5,0,1,1,202.0,40.25" fill="#f9b59b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,40.25A5,5,0,1,1,229.0,40.25A5,5,0,1,1,239.0,40.25" fill="#17be56" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,40.25A5,5,0,1,1,286.0,40.25A5,5,0,1,1,296.0,40.25" fill="#f35f9c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Abilene</text>
+<text aria-label="83,127,33,44" text-anchor="start" x="83.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="150,183,33,44" text-anchor="start" x="150.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Rustic</text>
+<text aria-label="207,218,33,44" text-anchor="start" x="207.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">at</text>
+<text aria-label="244,277,33,44" text-anchor="start" x="244.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="301,339,33,44" text-anchor="start" x="301.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">however</text>
+</svg>

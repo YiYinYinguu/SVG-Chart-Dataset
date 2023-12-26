@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="320" height="239" viewBox="0 0 320 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">protocol</text>
+<path aria-label="regularly: 7; Dirham qualified: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M113.33802760366567,208.5350742649426A75,75,0,0,0,119.11925143815853,207.65898953166584L111.21247063278975,166.40995539393296A33,33,0,0,1,108.66873214561289,166.79543267657476Z" fill="#294e8c" stroke="white" stroke-width="0"/>
+<path aria-label="regularly: 116; Dirham qualified: faithfully" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.629368033915014,162.50816410479612A75,75,0,0,0,113.33802760366567,208.5350742649426L108.66873214561289,166.79543267657476A33,33,0,0,1,74.4769219349226,146.5435922061103Z" fill="#6bcfac" stroke="white" stroke-width="0"/>
+<path aria-label="regularly: 176; Dirham qualified: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,35.629368033915014,162.50816410479612L74.4769219349226,146.5435922061103A33,33,0,0,1,105.0,101.0Z" fill="#3cb08b" stroke="white" stroke-width="0"/>
+<path aria-label="regularly: 265; Dirham qualified: Oxnard" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.11925143815853,207.65898953166584A75,75,0,0,0,105.0,59.0L105.0,101.0A33,33,0,0,1,111.21247063278975,166.40995539393296Z" fill="#15fce4" stroke="white" stroke-width="0"/>
+<text aria-label="115,121,214,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.48461665424733" y="225.98407224716115" font-family="serif" font-size="11px" fill="#294e8c" opacity="1">7</text>
+<text aria-label="50,68,203,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="59.13450216672742" y="214.43614213341255" font-family="serif" font-size="11px" fill="#6bcfac" opacity="1">116</text>
+<text aria-label="21,39,75,87" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="30.237436763718478" y="86.89451987715307" font-family="serif" font-size="11px" fill="#3cb08b" opacity="1">176</text>
+<text aria-label="185,203,117,129" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.59679366311025" y="128.4903251948124" font-family="serif" font-size="11px" fill="#15fce4" opacity="1">265</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#15fce4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#294e8c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#6bcfac" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#3cb08b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Oxnard</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="239,294,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">faithfully</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="223,319,32,44" text-anchor="start" x="223.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Dirham qualified</text>
+</svg>

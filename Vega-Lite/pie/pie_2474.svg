@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="226" height="286" viewBox="0 0 226 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,135,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">generation</text>
+<path aria-label="West South: 250; Mauritius Southeast Hybrid: Hollow" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.17677952915359,198.93818720647369A75,75,0,0,0,143.74948439384275,245.21430883542496L105.0,181.0Z" fill="#bbb7c3" stroke="black" stroke-width="3"/>
+<path aria-label="West South: 242; Mauritius Southeast Hybrid: hm" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,32.17677952915359,198.93818720647369L105.0,181.0Z" fill="#8dd1b2" stroke="black" stroke-width="3"/>
+<path aria-label="West South: 221; Mauritius Southeast Hybrid: 1080p" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.73397942709857,187.31128505060644A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#9cbbd7" stroke="black" stroke-width="3"/>
+<path aria-label="West South: 126; Mauritius Southeast Hybrid: Bismuth" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.74948439384275,245.21430883542496A75,75,0,0,0,179.73397942709857,187.31128505060644L105.0,181.0Z" fill="#bbd0e9" stroke="black" stroke-width="3"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#9cbbd7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,56.25A5,5,0,1,1,63.0,56.25A5,5,0,1,1,73.0,56.25" fill="#bbd0e9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,56.25A5,5,0,1,1,129.0,56.25A5,5,0,1,1,139.0,56.25" fill="#bbb7c3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M200.0,56.25A5,5,0,1,1,190.0,56.25A5,5,0,1,1,200.0,56.25" fill="#8dd1b2" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">1080p</text>
+<text aria-label="78,116,49,60" text-anchor="start" x="78.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bismuth</text>
+<text aria-label="144,177,49,60" text-anchor="start" x="144.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hollow</text>
+<text aria-label="205,216,49,60" text-anchor="start" x="205.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">hm</text>
+<text aria-label="5,161,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Mauritius Southeast Hybrid</text>
+</svg>

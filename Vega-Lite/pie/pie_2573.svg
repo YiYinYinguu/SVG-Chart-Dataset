@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">invoice</text>
+<path aria-label="zowie Designer: 405; IB: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.27051494575122,123.56493365172294A75,75,0,0,0,179.0,59.0L179.0,134.0Z" fill="#35adda" stroke="white" stroke-width="0"/>
+<path aria-label="zowie Designer: 667; IB: navigate" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.0,59.0A75,75,0,0,0,126.01386477560733,187.07984056101125L179.0,134.0Z" fill="#25f6b8" stroke="white" stroke-width="0"/>
+<path aria-label="zowie Designer: 706; IB: Mountain" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.01386477560733,187.07984056101125A75,75,0,0,0,253.27051494575122,123.56493365172294L179.0,134.0Z" fill="#bcc1a8" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#35adda" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#bcc1a8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#25f6b8" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Mountain</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">navigate</text>
+<text aria-label="5,17,32,44" text-anchor="start" x="5.0" y="43.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">IB</text>
+</svg>

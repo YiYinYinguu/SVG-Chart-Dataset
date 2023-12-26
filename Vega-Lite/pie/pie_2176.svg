@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="384" height="286" viewBox="0 0 384 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="8,281,0,26" text-anchor="middle" x="145.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Nissan Northeast Emil</text>
+<path aria-label="ohm: 659; Cheese index Northwest: Hatchback" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.44008981097795,254.57315417519908A75,75,0,0,0,196.7752041213098,126.73833546419068L173.30377825298268,151.33695672042424A41,41,0,0,1,137.04058243000128,221.21999094910882Z" fill="#421875" stroke="white" stroke-width="3"/>
+<path aria-label="ohm: 325; Cheese index Northwest: International" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.41700722530533,188.8979230668475A75,75,0,0,0,130.44008981097795,254.57315417519908L137.04058243000128,221.21999094910882A41,41,0,0,1,104.22796394983358,185.31753127654332Z" fill="#428af1" stroke="white" stroke-width="3"/>
+<path aria-label="ohm: 111; Cheese index Northwest: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.51919450829334,112.94457863220322A75,75,0,0,0,145.0,106.0L145.0,140.0A41,41,0,0,1,162.23049299786703,143.7963696522711Z" fill="#b9a07b" stroke="white" stroke-width="3"/>
+<path aria-label="ohm: 84; Cheese index Northwest: Glendale" role="graphics-symbol" aria-roledescription="arc mark"  d="M196.7752041213098,126.73833546419068A75,75,0,0,0,176.51919450829334,112.94457863220322L162.23049299786703,143.7963696522711A41,41,0,0,1,173.30377825298268,151.33695672042424Z" fill="#d8bf8c" stroke="white" stroke-width="3"/>
+<path aria-label="ohm: 429; Cheese index Northwest: holistic" role="graphics-symbol" aria-roledescription="arc mark"  d="M145.0,106.0A75,75,0,0,0,70.41700722530533,188.8979230668475L104.22796394983358,185.31753127654332A41,41,0,0,1,145.0,140.0Z" fill="#ba66e9" stroke="white" stroke-width="3"/>
+<text aria-label="214,235,213,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="224.88503509321043" y="226.4533613613726" font-family="Balto" font-size="13px" fill="#421875" opacity="1">659</text>
+<text aria-label="68,89,232,246" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="78.56590087329968" y="245.71664082624923" font-family="Balto" font-size="13px" fill="#428af1" opacity="1">325</text>
+<text aria-label="153,174,84,98" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.3651038246371" y="97.10806206561932" font-family="Balto" font-size="13px" fill="#b9a07b" opacity="1">111</text>
+<text aria-label="188,202,97,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="195.65728817671356" y="110.61022143747572" font-family="Balto" font-size="13px" fill="#d8bf8c" opacity="1">84</text>
+<text aria-label="67,88,111,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="78.0934394426842" y="124.80438425939782" font-family="Balto" font-size="13px" fill="#ba66e9" opacity="1">429</text>
+<path  d="M56.0,56.25A5,5,0,1,1,46.0,56.25A5,5,0,1,1,56.0,56.25" fill="#b9a07b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M103.0,56.25A5,5,0,1,1,93.0,56.25A5,5,0,1,1,103.0,56.25" fill="#d8bf8c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M173.0,56.25A5,5,0,1,1,163.0,56.25A5,5,0,1,1,173.0,56.25" fill="#421875" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M251.0,56.25A5,5,0,1,1,241.0,56.25A5,5,0,1,1,251.0,56.25" fill="#428af1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M340.0,56.25A5,5,0,1,1,330.0,56.25A5,5,0,1,1,340.0,56.25" fill="#ba66e9" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="61,83,49,60" text-anchor="start" x="61.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="108,152,49,60" text-anchor="start" x="108.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Glendale</text>
+<text aria-label="178,227,49,60" text-anchor="start" x="178.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Hatchback</text>
+<text aria-label="256,327,49,60" text-anchor="start" x="256.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">International</text>
+<text aria-label="345,389,49,60" text-anchor="start" x="345.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">holistic</text>
+<text aria-label="45,177,32,44" text-anchor="start" x="45.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Cheese index Northwest</text>
+</svg>

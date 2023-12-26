@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="324" height="239" viewBox="0 0 324 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="124,319,0,26" text-anchor="end" x="319.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">blue South psst</text>
+<path aria-label="quantify Frozen: 288; Cotton Electronic: Mouse" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.89148622272134,117.2624609551626A75,75,0,0,0,162.664064673567,181.95681020796403L135.7541678259024,159.57696544424746A40,40,0,0,1,66.00879265211805,125.07331250942005Z" fill="#ad597c" stroke="black" stroke-width="1"/>
+<path aria-label="quantify Frozen: 145; Cotton Electronic: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.89148622272134,117.2624609551626L66.00879265211805,125.07331250942005A40,40,0,0,1,104.99999999999999,94.0Z" fill="#7b62a0" stroke="black" stroke-width="1"/>
+<path aria-label="quantify Frozen: 244; Cotton Electronic: Handmade" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.664064673567,181.95681020796403A75,75,0,0,0,105.0,59.0L105.0,94.0A40,40,0,0,1,135.7541678259024,159.57696544424746Z" fill="#66ffa7" stroke="black" stroke-width="1"/>
+<text aria-label="56,73,207,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="65.0926029411863" y="217.66845517294965" font-family="avenir" font-size="10px" fill="#ad597c" opacity="1">288</text>
+<text aria-label="40,57,56,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="48.90924415218864" y="66.61657078245466" font-family="avenir" font-size="10px" fill="#7b62a0" opacity="1">145</text>
+<text aria-label="178,194,88,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.48415644301693" y="98.78570622437276" font-family="avenir" font-size="10px" fill="#66ffa7" opacity="1">244</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#66ffa7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ad597c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#7b62a0" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Handmade</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Mouse</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="223,325,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Cotton Electronic</text>
+</svg>

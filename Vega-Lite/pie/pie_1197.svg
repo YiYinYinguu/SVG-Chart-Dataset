@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="255" height="270" viewBox="0 0 255 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bike</text>
+<path aria-label="bypassing: 17; sadly maximized: Pennsylvania" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.07225597017424,116.49159771080713L64.16046334329758,124.195294718052A42,42,0,0,1,104.99999999999999,92.0Z" fill="#cb4abb" stroke="white" stroke-width="0"/>
+<path aria-label="bypassing: 40; sadly maximized: Buckinghamshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.0,209.0A75,75,0,1,0,105.0,59.0L105.0,92.0A42,42,0,1,1,105.0,176.0Z" fill="#76edfa" stroke="white" stroke-width="0"/>
+<path aria-label="bypassing: 23; sadly maximized: Gorgeous" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.07225597017424,116.49159771080713A75,75,0,0,0,105.0,209.0L105.0,176.0A42,42,0,0,1,64.16046334329758,124.195294718052Z" fill="#4b049a" stroke="white" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#76edfa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M118.0,258.25A5,5,0,1,1,108.0,258.25A5,5,0,1,1,118.0,258.25" fill="#4b049a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M185.0,258.25A5,5,0,1,1,175.0,258.25A5,5,0,1,1,185.0,258.25" fill="#cb4abb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,103,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Buckinghamshire</text>
+<text aria-label="123,167,251,262" text-anchor="start" x="123.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Gorgeous</text>
+<text aria-label="190,256,251,262" text-anchor="start" x="190.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Pennsylvania</text>
+</svg>

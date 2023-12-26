@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="440" height="318" viewBox="0 0 440 318" style="background-color: rgb(255, 255, 255);">
+<text aria-label="70,89,250,317" text-anchor="end" x="84.12500000000003" y="250.5" transform="rotate(270.0, 89.12500000000003, 250.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">airport</text>
+<text aria-label="170,189,250,298" text-anchor="end" x="184.37500000000003" y="250.5" transform="rotate(270.0, 189.37500000000003, 250.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">barge</text>
+<text aria-label="270,289,250,288" text-anchor="end" x="284.625" y="250.5" transform="rotate(270.0, 289.625, 250.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">doll</text>
+<text aria-label="370,389,250,307" text-anchor="end" x="384.87500000000006" y="250.5" transform="rotate(270.0, 389.87500000000006, 250.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">kidney</text>
+<line aria-label="84,84,243,248" x1="84.5" y1="243.5" x2="84.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="184,184,243,248" x1="184.5" y1="243.5" x2="184.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="284,284,243,248" x1="284.5" y1="243.5" x2="284.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="384,384,243,248" x1="384.5" y1="243.5" x2="384.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,435,243,243" x1="34.5" y1="243.5" x2="435.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="266,435,0,26" text-anchor="end" x="435.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">joggle yippee</text>
+<text aria-label="18,27,230,249" text-anchor="end" x="27.5" y="248.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="8,27,180,199" text-anchor="end" x="27.5" y="198.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="8,27,130,149" text-anchor="end" x="27.5" y="148.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="8,27,80,99" text-anchor="end" x="27.5" y="98.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="8,27,30,49" text-anchor="end" x="27.5" y="48.5" font-family="Balto" font-size="18px" font-weight="normal" fill="#000" opacity="1">40</text>
+<line aria-label="29,34,243,243" x1="34.5" y1="243.5" x2="29.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="29,34,193,193" x1="34.5" y1="193.5" x2="29.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="29,34,143,143" x1="34.5" y1="143.5" x2="29.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="29,34,93,93" x1="34.5" y1="93.5" x2="29.5" y2="93.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="29,34,43,43" x1="34.5" y1="43.5" x2="29.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,34,43,243" x1="34.5" y1="243.5" x2="34.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Infrastructure index bashfully: kidney; Generic Tasty feed: 30; Tools Lakes synthesize: mmm dolorem" role="graphics-symbol" aria-roledescription="bar" d="M357.80750000000006,93.0h54.13500000000001v150h-54.13500000000001Z" fill="#dfa8cf"/>
+<path aria-label="Infrastructure index bashfully: airport; Generic Tasty feed: 9; Tools Lakes synthesize: mmm dolorem" role="graphics-symbol" aria-roledescription="bar" d="M57.05750000000002,198.0h54.13500000000001v45h-54.13500000000001Z" fill="#dfa8cf"/>
+<path aria-label="Infrastructure index bashfully: barge; Generic Tasty feed: 10; Tools Lakes synthesize: mmm dolorem" role="graphics-symbol" aria-roledescription="bar" d="M157.3075,193.0h54.13500000000001v50h-54.13500000000001Z" fill="#dfa8cf"/>
+<path aria-label="Infrastructure index bashfully: doll; Generic Tasty feed: 36; Tools Lakes synthesize: mmm dolorem" role="graphics-symbol" aria-roledescription="bar" d="M257.5575,63.0h54.13500000000001v180h-54.13500000000001Z" fill="#dfa8cf"/>
+</svg>

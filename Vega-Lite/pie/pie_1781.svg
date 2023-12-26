@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="289" height="239" viewBox="0 0 289 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="219,284,0,26" text-anchor="end" x="284.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">South</text>
+<path aria-label="Funk Bolivia: 315; Liaison: Refined" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.6633097022303,191.3460057114486A75,75,0,0,0,256.6660781650772,115.43548858421279L241.1639814898607,119.3959176862474A59,59,0,0,1,145.9751369657545,179.1121911596729Z" fill="#cbec7c" stroke="black" stroke-width="0"/>
+<path aria-label="Funk Bolivia: 165; Liaison: Digitized" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.6660781650772,115.43548858421279A75,75,0,0,0,184.0,59.0L184.0,75.0A59,59,0,0,1,241.1639814898607,119.3959176862474Z" fill="#e55a9f" stroke="black" stroke-width="0"/>
+<path aria-label="Funk Bolivia: 305; Liaison: bypassing" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.0,59.0A75,75,0,0,0,135.6633097022303,191.3460057114486L145.9751369657545,179.1121911596729A59,59,0,0,1,184.0,75.0Z" fill="#0fc6dd" stroke="black" stroke-width="0"/>
+<text aria-label="222,241,202,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="231.82841478481186" y="214.23937787765578" font-family="monospace" font-size="12px" fill="#cbec7c" opacity="1">315</text>
+<text aria-label="229,248,54,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="239.2043148997204" y="66.91917546586485" font-family="monospace" font-size="12px" fill="#e55a9f" opacity="1">165</text>
+<text aria-label="89,109,95,108" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="99.46193574242295" y="107.12418921579913" font-family="monospace" font-size="12px" fill="#0fc6dd" opacity="1">305</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#e55a9f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#cbec7c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#0fc6dd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Digitized</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Refined</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">bypassing</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="56,290,0,26" text-anchor="end" x="290.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Principal Rubidium</text>
+<path aria-label="Investment mobile: 554; Paradigm: up" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.7625913707264,67.27069721365177A75,75,0,0,0,153.0692898550969,199.27727512843313L190.0,134.0Z" fill="#a6422d" stroke="black" stroke-width="1"/>
+<path aria-label="Investment mobile: 166; Paradigm: Response" role="graphics-symbol" aria-roledescription="arc mark"  d="M246.39398988768164,84.55591132857171A75,75,0,0,0,205.33672843904992,60.58484651799169L190.0,134.0Z" fill="#9cf2ba" stroke="black" stroke-width="1"/>
+<path aria-label="Investment mobile: 376; Paradigm: lavender" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.0692898550969,199.27727512843313A75,75,0,0,0,250.83859296894465,177.85961246476165L190.0,134.0Z" fill="#bc1a47" stroke="black" stroke-width="1"/>
+<path aria-label="Investment mobile: 12; Paradigm: Assistant" role="graphics-symbol" aria-roledescription="arc mark"  d="M203.90757548463216,60.30075072201035A75,75,0,0,0,200.45722167048424,59.73260126452284L190.0,134.0Z" fill="#2cae4c" stroke="black" stroke-width="1"/>
+<path aria-label="Investment mobile: 346; Paradigm: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M250.83859296894465,177.85961246476165A75,75,0,0,0,246.39398988768164,84.55591132857171L190.0,134.0Z" fill="#e18bc0" stroke="black" stroke-width="1"/>
+<path aria-label="Investment mobile: 36; Paradigm: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M200.45722167048424,59.73260126452284A75,75,0,0,0,190.0,59.0L190.0,134.0Z" fill="#d0befa" stroke="black" stroke-width="1"/>
+<path aria-label="Investment mobile: 122; Paradigm: weber" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,155.7625913707264,67.27069721365177L190.0,134.0Z" fill="#893169" stroke="black" stroke-width="1"/>
+<path aria-label="Investment mobile: 5; Paradigm: Metal" role="graphics-symbol" aria-roledescription="arc mark"  d="M205.33672843904992,60.58484651799169A75,75,0,0,0,203.90757548463216,60.30075072201035L190.0,134.0Z" fill="#8560ea" stroke="black" stroke-width="1"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#d0befa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#2cae4c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#8560ea" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#9cf2ba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#e18bc0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#bc1a47" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#a6422d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#893169" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Assistant</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Metal</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Response</text>
+<text aria-label="21,70,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="21,65,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">lavender</text>
+<text aria-label="21,32,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">up</text>
+<text aria-label="21,48,145,156" text-anchor="start" x="21.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">weber</text>
+</svg>

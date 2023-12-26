@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="296" height="239" viewBox="0 0 296 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="132,249,0,26" text-anchor="middle" x="191.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Northeast</text>
+<path aria-label="connect: 89; Baby: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M191.0,59.0A75,75,0,0,0,116.29392366379702,140.63341227796155L191.0,134.0Z" fill="#016625" stroke="white" stroke-width="3"/>
+<path aria-label="connect: 71; Baby: Enhanced" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.7230518299419,115.65994186106302A75,75,0,0,0,191.0,59.0L191.0,134.0Z" fill="#53f8dd" stroke="white" stroke-width="3"/>
+<path aria-label="connect: 38; Baby: Group" role="graphics-symbol" aria-roledescription="arc mark"  d="M258.1555688607699,167.39355583022552A75,75,0,0,0,263.7230518299419,115.65994186106302L191.0,134.0Z" fill="#5cdc67" stroke="white" stroke-width="3"/>
+<path aria-label="connect: 79; Baby: calculating" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.29392366379702,140.63341227796155A75,75,0,0,0,190.30084262219415,208.99674112227183L191.0,134.0Z" fill="#ab9c03" stroke="white" stroke-width="3"/>
+<path aria-label="connect: 5; Baby: Hyundai" role="graphics-symbol" aria-roledescription="arc mark"  d="M254.75545736353445,173.4998943842454A75,75,0,0,0,258.1555688607699,167.39355583022552L191.0,134.0Z" fill="#cdbd13" stroke="white" stroke-width="3"/>
+<path aria-label="connect: 55; Baby: Namibia" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.30084262219415,208.99674112227183A75,75,0,0,0,254.75545736353445,173.4998943842454L191.0,134.0Z" fill="#10fbff" stroke="white" stroke-width="3"/>
+<text aria-label="120,128,68,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="124.60569103447256" y="75.23985074911286" font-family="avenir" font-size="7px" fill="#016625" opacity="1">89</text>
+<text aria-label="242,250,58,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="246.31398431226413" y="65.00448507474154" font-family="avenir" font-size="7px" fill="#53f8dd" opacity="1">71</text>
+<text aria-label="276,284,138,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="280.48330750834305" y="145.63004036166586" font-family="avenir" font-size="7px" fill="#5cdc67" opacity="1">38</text>
+<text aria-label="125,133,195,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="129.93104028419793" y="202.11037860449557" font-family="avenir" font-size="7px" fill="#ab9c03" opacity="1">79</text>
+<text aria-label="267,271,172,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="269.6320182670473" y="179.7836236879812" font-family="avenir" font-size="7px" fill="#cdbd13" opacity="1">5</text>
+<text aria-label="230,238,207,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="234.41663638104555" y="214.83524392907066" font-family="avenir" font-size="7px" fill="#10fbff" opacity="1">55</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#53f8dd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#5cdc67" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#cdbd13" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#10fbff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#ab9c03" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#016625" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Enhanced</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Group</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hyundai</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Namibia</text>
+<text aria-label="21,81,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">calculating</text>
+<text aria-label="21,59,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">payment</text>
+</svg>

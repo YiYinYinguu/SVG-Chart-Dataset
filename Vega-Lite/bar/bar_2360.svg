@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="450" height="354" viewBox="0 0 450 354" style="background-color: rgb(255, 255, 255);">
+<line x1="76.5" y1="34.5" x2="76.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="142.5" y1="34.5" x2="142.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="208.5" y1="34.5" x2="208.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="273.5" y1="34.5" x2="273.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="339.5" y1="34.5" x2="339.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="405.5" y1="34.5" x2="405.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="234.5" x2="445.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="198.5" x2="445.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="161.5" x2="445.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="125.5" x2="445.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="89.5" x2="445.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="37.5" y1="52.5" x2="445.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="62,82,241,321" text-anchor="end" x="76.48387096774195" y="241.5" transform="rotate(270.0, 82.48387096774195, 241.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">attacker</text>
+<text aria-label="128,148,241,291" text-anchor="end" x="142.29032258064518" y="241.5" transform="rotate(270.0, 148.29032258064518, 241.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">going</text>
+<text aria-label="194,214,241,311" text-anchor="end" x="208.09677419354838" y="241.5" transform="rotate(270.0, 214.09677419354838, 241.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">in-laws</text>
+<text aria-label="259,279,241,311" text-anchor="end" x="273.9032258064516" y="241.5" transform="rotate(270.0, 279.9032258064516, 241.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">methane</text>
+<text aria-label="325,345,241,311" text-anchor="end" x="339.7096774193548" y="241.5" transform="rotate(270.0, 345.7096774193548, 241.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">pilgrim</text>
+<text aria-label="391,411,241,281" text-anchor="end" x="405.51612903225805" y="241.5" transform="rotate(270.0, 411.51612903225805, 241.5)" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">type</text>
+<line aria-label="76,76,234,239" x1="76.5" y1="234.5" x2="76.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="142,142,234,239" x1="142.5" y1="234.5" x2="142.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="208,208,234,239" x1="208.5" y1="234.5" x2="208.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="273,273,234,239" x1="273.5" y1="234.5" x2="273.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="339,339,234,239" x1="339.5" y1="234.5" x2="339.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="405,405,234,239" x1="405.5" y1="234.5" x2="405.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="37,445,234,234" x1="37.5" y1="234.5" x2="445.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,57,0,26" text-anchor="start" x="5.38671875" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">East</text>
+<text aria-label="25,35,221,241" text-anchor="end" x="35.5" y="240.5" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="15,35,185,205" text-anchor="end" x="35.5" y="204.13636363636363" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="15,35,148,168" text-anchor="end" x="35.5" y="167.77272727272725" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="15,35,112,132" text-anchor="end" x="35.5" y="131.40909090909093" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="15,35,76,96" text-anchor="end" x="35.5" y="95.04545454545453" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">80</text>
+<text aria-label="5,35,39,59" text-anchor="end" x="35.5" y="58.68181818181819" font-family="serif" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<path aria-label="infrastructure DNS: in-laws; Maserati: 84; orchid: Maine neural" role="graphics-symbol" aria-roledescription="bar" d="M208.09677419354838,81.27272727272727h26.32258064516129v152.72727272727275h-26.32258064516129Z" fill="#7d75bf"/>
+<path aria-label="infrastructure DNS: in-laws; Maserati: 87; orchid: Avon North Horizontal" role="graphics-symbol" aria-roledescription="bar" d="M181.7741935483871,75.81818181818181h26.32258064516129v158.1818181818182h-26.32258064516129Z" fill="#4875ac"/>
+<path aria-label="infrastructure DNS: methane; Maserati: 14; orchid: Maine neural" role="graphics-symbol" aria-roledescription="bar" d="M273.9032258064516,208.54545454545456h26.32258064516129v25.45454545454544h-26.32258064516129Z" fill="#7d75bf"/>
+<path aria-label="infrastructure DNS: methane; Maserati: 82; orchid: Avon North Horizontal" role="graphics-symbol" aria-roledescription="bar" d="M247.5806451612903,84.9090909090909h26.32258064516129v149.0909090909091h-26.32258064516129Z" fill="#4875ac"/>
+<path aria-label="infrastructure DNS: type; Maserati: 42; orchid: Maine neural" role="graphics-symbol" aria-roledescription="bar" d="M405.51612903225805,157.63636363636363h26.32258064516129v76.36363636363637h-26.32258064516129Z" fill="#7d75bf"/>
+<path aria-label="infrastructure DNS: type; Maserati: 41; orchid: Avon North Horizontal" role="graphics-symbol" aria-roledescription="bar" d="M379.19354838709677,159.45454545454544h26.32258064516129v74.54545454545456h-26.32258064516129Z" fill="#4875ac"/>
+<path aria-label="infrastructure DNS: attacker; Maserati: 1; orchid: Maine neural" role="graphics-symbol" aria-roledescription="bar" d="M76.48387096774195,232.1818181818182h26.32258064516129v1.818181818181813h-26.32258064516129Z" fill="#7d75bf"/>
+<path aria-label="infrastructure DNS: attacker; Maserati: 85; orchid: Avon North Horizontal" role="graphics-symbol" aria-roledescription="bar" d="M50.16129032258067,79.45454545454547h26.32258064516129v154.54545454545453h-26.32258064516129Z" fill="#4875ac"/>
+<path aria-label="infrastructure DNS: pilgrim; Maserati: 95; orchid: Maine neural" role="graphics-symbol" aria-roledescription="bar" d="M339.7096774193548,61.272727272727266h26.32258064516129v172.72727272727272h-26.32258064516129Z" fill="#7d75bf"/>
+<path aria-label="infrastructure DNS: pilgrim; Maserati: 93; orchid: Avon North Horizontal" role="graphics-symbol" aria-roledescription="bar" d="M313.38709677419354,64.9090909090909h26.32258064516129v169.0909090909091h-26.32258064516129Z" fill="#4875ac"/>
+<path aria-label="infrastructure DNS: going; Maserati: 103; orchid: Maine neural" role="graphics-symbol" aria-roledescription="bar" d="M142.29032258064518,46.72727272727272h26.32258064516129v187.27272727272728h-26.32258064516129Z" fill="#7d75bf"/>
+<path aria-label="infrastructure DNS: going; Maserati: 63; orchid: Avon North Horizontal" role="graphics-symbol" aria-roledescription="bar" d="M115.96774193548389,119.45454545454545h26.32258064516129v114.54545454545455h-26.32258064516129Z" fill="#4875ac"/>
+<path  d="M38.0,339.0h10v10h-10Z" fill="#7d75bf" stroke-width="1.5" opacity="1"/>
+<path  d="M124.0,339.0h10v10h-10Z" fill="#4875ac" stroke-width="1.5" opacity="1"/>
+<text aria-label="53,119,337,348" text-anchor="start" x="53.0" y="347.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Maine neural</text>
+<text aria-label="139,254,337,348" text-anchor="start" x="139.0" y="347.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Avon North Horizontal</text>
+</svg>

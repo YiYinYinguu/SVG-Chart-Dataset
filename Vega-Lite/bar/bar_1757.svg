@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="439" height="327" viewBox="0 0 439 327" style="background-color: rgb(255, 255, 255);">
+<line x1="83.5" y1="43.5" x2="83.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="136.5" y1="43.5" x2="136.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="189.5" y1="43.5" x2="189.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="243.5" y1="43.5" x2="243.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="296.5" y1="43.5" x2="296.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="349.5" y1="43.5" x2="349.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="402.5" y1="43.5" x2="402.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="243.5" x2="434.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="203.5" x2="434.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="163.5" x2="434.5" y2="163.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="123.5" x2="434.5" y2="123.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="83.5" x2="434.5" y2="83.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="52.5" y1="43.5" x2="434.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="70,88,250,304" text-anchor="end" x="83.83333333333334" y="250.5" transform="rotate(270.0, 88.83333333333334, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">elixir</text>
+<text aria-label="123,141,250,286" text-anchor="end" x="136.8888888888889" y="250.5" transform="rotate(270.0, 141.8888888888889, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">flat</text>
+<text aria-label="176,194,250,313" text-anchor="end" x="189.94444444444446" y="250.5" transform="rotate(270.0, 194.94444444444446, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">lecture</text>
+<text aria-label="230,248,250,295" text-anchor="end" x="243.00000000000003" y="250.5" transform="rotate(270.0, 248.00000000000003, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">maybe</text>
+<text aria-label="283,301,250,313" text-anchor="end" x="296.05555555555554" y="250.5" transform="rotate(270.0, 301.05555555555554, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">molding</text>
+<text aria-label="336,354,250,304" text-anchor="end" x="349.11111111111114" y="250.5" transform="rotate(270.0, 354.11111111111114, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">visual</text>
+<text aria-label="389,407,250,295" text-anchor="end" x="402.1666666666667" y="250.5" transform="rotate(270.0, 407.1666666666667, 250.5)" font-family="sans-serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">vodka</text>
+<line aria-label="83,83,243,248" x1="83.5" y1="243.5" x2="83.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="136,136,243,248" x1="136.5" y1="243.5" x2="136.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="189,189,243,248" x1="189.5" y1="243.5" x2="189.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="243,243,243,248" x1="243.5" y1="243.5" x2="243.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="296,296,243,248" x1="296.5" y1="243.5" x2="296.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="349,349,243,248" x1="349.5" y1="243.5" x2="349.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="402,402,243,248" x1="402.5" y1="243.5" x2="402.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,434,243,243" x1="52.5" y1="243.5" x2="434.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="184,301,0,26" text-anchor="middle" x="243.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southeast</text>
+<text aria-label="41,50,231,249" text-anchor="end" x="50.5" y="248.5" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="23,50,191,209" text-anchor="end" x="50.5" y="208.5" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="23,50,151,169" text-anchor="end" x="50.5" y="168.5" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="23,50,111,129" text-anchor="end" x="50.5" y="128.5" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="23,50,71,89" text-anchor="end" x="50.5" y="88.5" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="23,50,31,49" text-anchor="end" x="50.5" y="48.5" font-family="sans-serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="2,14,80,206" text-anchor="middle" x="16.59228515625" y="143.5" transform="rotate(-90.0, 14.59228515625, 143.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">implement interactive</text>
+<line aria-label="52,52,43,243" x1="52.5" y1="243.5" x2="52.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Buckinghamshire East productize: flat; implement interactive: 208; Lake: hypothesize" role="graphics-symbol" aria-roledescription="bar" d="M136.8888888888889,159.8h21.222222222222225v83.19999999999999h-21.222222222222225Z" fill="#b22adc"/>
+<path aria-label="Buckinghamshire East productize: flat; implement interactive: 321; Lake: Cab" role="graphics-symbol" aria-roledescription="bar" d="M115.66666666666667,114.6h21.222222222222225v128.4h-21.222222222222225Z" fill="#71b526"/>
+<path aria-label="Buckinghamshire East productize: maybe; implement interactive: 448; Lake: hypothesize" role="graphics-symbol" aria-roledescription="bar" d="M243.00000000000003,63.8h21.222222222222225v179.2h-21.222222222222225Z" fill="#b22adc"/>
+<path aria-label="Buckinghamshire East productize: maybe; implement interactive: 336; Lake: Cab" role="graphics-symbol" aria-roledescription="bar" d="M221.7777777777778,108.6h21.222222222222225v134.4h-21.222222222222225Z" fill="#71b526"/>
+<path aria-label="Buckinghamshire East productize: molding; implement interactive: 124; Lake: hypothesize" role="graphics-symbol" aria-roledescription="bar" d="M296.05555555555554,193.4h21.222222222222225v49.599999999999994h-21.222222222222225Z" fill="#b22adc"/>
+<path aria-label="Buckinghamshire East productize: molding; implement interactive: 381; Lake: Cab" role="graphics-symbol" aria-roledescription="bar" d="M274.83333333333337,90.6h21.222222222222225v152.4h-21.222222222222225Z" fill="#71b526"/>
+<path aria-label="Buckinghamshire East productize: visual; implement interactive: 103; Lake: hypothesize" role="graphics-symbol" aria-roledescription="bar" d="M349.11111111111114,201.8h21.222222222222225v41.19999999999999h-21.222222222222225Z" fill="#b22adc"/>
+<path aria-label="Buckinghamshire East productize: visual; implement interactive: 170; Lake: Cab" role="graphics-symbol" aria-roledescription="bar" d="M327.8888888888889,174.99999999999997h21.222222222222225v68.00000000000003h-21.222222222222225Z" fill="#71b526"/>
+<path aria-label="Buckinghamshire East productize: lecture; implement interactive: 307; Lake: hypothesize" role="graphics-symbol" aria-roledescription="bar" d="M189.94444444444446,120.2h21.222222222222225v122.8h-21.222222222222225Z" fill="#b22adc"/>
+<path aria-label="Buckinghamshire East productize: lecture; implement interactive: 485; Lake: Cab" role="graphics-symbol" aria-roledescription="bar" d="M168.72222222222223,49.00000000000001h21.222222222222225v194h-21.222222222222225Z" fill="#71b526"/>
+<path aria-label="Buckinghamshire East productize: elixir; implement interactive: 182; Lake: hypothesize" role="graphics-symbol" aria-roledescription="bar" d="M83.83333333333334,170.2h21.222222222222225v72.8h-21.222222222222225Z" fill="#b22adc"/>
+<path aria-label="Buckinghamshire East productize: elixir; implement interactive: 4; Lake: Cab" role="graphics-symbol" aria-roledescription="bar" d="M62.611111111111114,241.4h21.222222222222225v1.5999999999999943h-21.222222222222225Z" fill="#71b526"/>
+<path aria-label="Buckinghamshire East productize: vodka; implement interactive: 477; Lake: hypothesize" role="graphics-symbol" aria-roledescription="bar" d="M402.1666666666667,52.20000000000001h21.222222222222225v190.79999999999998h-21.222222222222225Z" fill="#b22adc"/>
+<path aria-label="Buckinghamshire East productize: vodka; implement interactive: 474; Lake: Cab" role="graphics-symbol" aria-roledescription="bar" d="M380.94444444444446,53.400000000000006h21.222222222222225v189.6h-21.222222222222225Z" fill="#71b526"/>
+</svg>

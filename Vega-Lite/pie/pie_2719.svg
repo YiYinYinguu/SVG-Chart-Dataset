@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="305" height="239" viewBox="0 0 305 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,239,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Seamless Passenger</text>
+<path aria-label="matrices: 161; Generic Hybrid: solutions" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.9189002704822,189.8290556062172A75,75,0,0,0,182.72893325825603,206.98431512045738L187.56483194594435,186.54870688672932A54,54,0,0,1,163.94160819474718,174.19692003647637Z" fill="#a250d2" stroke="white" stroke-width="0"/>
+<path aria-label="matrices: 778; Generic Hybrid: uniform" role="graphics-symbol" aria-roledescription="arc mark"  d="M200.0,59.0A75,75,0,0,0,149.9189002704822,189.8290556062172L163.94160819474718,174.19692003647637A54,54,0,0,1,200.0,80.0Z" fill="#6ca53a" stroke="white" stroke-width="0"/>
+<path aria-label="matrices: 811; Generic Hybrid: Global" role="graphics-symbol" aria-roledescription="arc mark"  d="M244.12148311679198,194.6489466320285A75,75,0,0,0,200.0,59.0L200.0,80.0A54,54,0,0,1,231.76746784409022,177.66724157506053Z" fill="#95bc06" stroke="white" stroke-width="0"/>
+<path aria-label="matrices: 278; Generic Hybrid: convergence" role="graphics-symbol" aria-roledescription="arc mark"  d="M182.72893325825603,206.98431512045738A75,75,0,0,0,244.12148311679198,194.6489466320285L231.76746784409022,177.66724157506053A54,54,0,0,1,187.56483194594435,186.54870688672932Z" fill="#aa8f1c" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#95bc06" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#aa8f1c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#a250d2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#6ca53a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Global</text>
+<text aria-label="21,81,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">convergence</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">solutions</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">uniform</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="395" height="239" viewBox="0 0 395 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="51,389,0,26" text-anchor="end" x="389.25038808190527" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">orange homogeneous Zealand</text>
+<path aria-label="Hunter: 432; Account person only: Gold" role="graphics-symbol" aria-roledescription="arc mark"  d="M306.5585764203686,206.66759416169867A75,75,0,0,0,297.11368507665753,59.55578770432513L288.0,134.0Z" fill="#976fb0" stroke="black" stroke-width="0"/>
+<path aria-label="Hunter: 383; Account person only: deliverables" role="graphics-symbol" aria-roledescription="arc mark"  d="M288.0,59.0A75,75,0,0,0,240.49023306211728,192.03293931473803L288.0,134.0Z" fill="#86e516" stroke="black" stroke-width="0"/>
+<path aria-label="Hunter: 19; Account person only: Classical" role="graphics-symbol" aria-roledescription="arc mark"  d="M297.11368507665753,59.55578770432513A75,75,0,0,0,288.0,59.0L288.0,134.0Z" fill="#ccacbe" stroke="black" stroke-width="0"/>
+<path aria-label="Hunter: 146; Account person only: Rutherfordium" role="graphics-symbol" aria-roledescription="arc mark"  d="M240.49023306211728,192.03293931473803A75,75,0,0,0,306.5585764203686,206.66759416169867L288.0,134.0Z" fill="#8eabba" stroke="black" stroke-width="0"/>
+<text aria-label="367,388,119,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="377.81508534753027" y="132.23368020173584" font-family="sans-serif" font-size="13px" fill="#976fb0" opacity="1">432</text>
+<text aria-label="192,213,94,108" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="203.24282494681734" y="107.730852720895" font-family="sans-serif" font-size="13px" fill="#86e516" opacity="1">383</text>
+<text aria-label="286,300,35,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="293.47836983358707" y="48.16689104808604" font-family="sans-serif" font-size="13px" fill="#ccacbe" opacity="1">19</text>
+<text aria-label="258,279,212,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="268.5360836481045" y="225.87010845700837" font-family="sans-serif" font-size="13px" fill="#8eabba" opacity="1">146</text>
+<path  d="M66.0,56.0A5,5,0,1,1,56.0,56.0A5,5,0,1,1,66.0,56.0" fill="#ccacbe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M66.0,72.0A5,5,0,1,1,56.0,72.0A5,5,0,1,1,66.0,72.0" fill="#976fb0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M66.0,88.0A5,5,0,1,1,56.0,88.0A5,5,0,1,1,66.0,88.0" fill="#8eabba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M66.0,104.0A5,5,0,1,1,56.0,104.0A5,5,0,1,1,66.0,104.0" fill="#86e516" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="71,120,49,60" text-anchor="start" x="71.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Classical</text>
+<text aria-label="71,93,65,76" text-anchor="start" x="71.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Gold</text>
+<text aria-label="71,142,81,92" text-anchor="start" x="71.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Rutherfordium</text>
+<text aria-label="71,137,97,108" text-anchor="start" x="71.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">deliverables</text>
+<text aria-label="55,169,32,44" text-anchor="start" x="55.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Account person only</text>
+</svg>

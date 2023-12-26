@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="402" height="270" viewBox="0 0 402 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="6,396,0,26" text-anchor="middle" x="201.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Berkshire bandwidth transition</text>
+<path aria-label="Northwest firewall: 88; markets: API" role="graphics-symbol" aria-roledescription="arc mark"  d="M239.8652623441243,69.85569874944154A75,75,0,0,0,201.0,59.0L201.0,134.0Z" fill="#17d3b9" stroke="white" stroke-width="0"/>
+<path aria-label="Northwest firewall: 208; markets: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M273.44944135992444,153.39274211231793A75,75,0,0,0,239.8652623441243,69.85569874944154L201.0,134.0Z" fill="#7de85e" stroke="white" stroke-width="0"/>
+<path aria-label="Northwest firewall: 452; markets: Ford" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.25214315532276,140.1447454892483A75,75,0,0,0,273.44944135992444,153.39274211231793L201.0,134.0Z" fill="#adcdb6" stroke="white" stroke-width="0"/>
+<path aria-label="Northwest firewall: 267; markets: Personal" role="graphics-symbol" aria-roledescription="arc mark"  d="M201.0,59.0A75,75,0,0,0,126.25214315532276,140.1447454892483L201.0,134.0Z" fill="#4ccc09" stroke="white" stroke-width="0"/>
+<text aria-label="219,231,39,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="225.2117271682514" y="50.31786650335516" font-family="avenir" font-size="11px" fill="#17d3b9" opacity="1">88</text>
+<text aria-label="275,293,92,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="284.5043969790289" y="103.42894572449728" font-family="avenir" font-size="11px" fill="#7de85e" opacity="1">208</text>
+<text aria-label="183,201,215,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.93246219869104" y="226.6376864595715" font-family="avenir" font-size="11px" fill="#adcdb6" opacity="1">452</text>
+<text aria-label="125,143,65,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="134.80471122187467" y="76.02308843848687" font-family="avenir" font-size="11px" fill="#4ccc09" opacity="1">267</text>
+<path  d="M112.0,258.25A5,5,0,1,1,102.0,258.25A5,5,0,1,1,112.0,258.25" fill="#17d3b9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M156.0,258.25A5,5,0,1,1,146.0,258.25A5,5,0,1,1,156.0,258.25" fill="#7de85e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M216.0,258.25A5,5,0,1,1,206.0,258.25A5,5,0,1,1,216.0,258.25" fill="#adcdb6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M265.0,258.25A5,5,0,1,1,255.0,258.25A5,5,0,1,1,265.0,258.25" fill="#4ccc09" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="117,133,251,262" text-anchor="start" x="117.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">API</text>
+<text aria-label="161,199,251,262" text-anchor="start" x="161.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="221,243,251,262" text-anchor="start" x="221.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Ford</text>
+<text aria-label="270,314,251,262" text-anchor="start" x="270.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Personal</text>
+</svg>

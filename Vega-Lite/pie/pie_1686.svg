@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="338" height="239" viewBox="0 0 338 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,109,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Director</text>
+<path aria-label="1080p: 2; curtail East Minivan: Hyundai" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.6707612778635,157.17627457812105A75,75,0,0,0,233.0,209.0L233.0,134.0Z" fill="#531a5e" stroke="black" stroke-width="2"/>
+<path aria-label="1080p: 1; curtail East Minivan: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M188.9161060780645,73.32372542187895A75,75,0,0,0,161.67076127786348,110.82372542187895L233.0,134.0Z" fill="#7ead0e" stroke="black" stroke-width="2"/>
+<path aria-label="1080p: 1; curtail East Minivan: Hyundai" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.67076127786348,110.82372542187895A75,75,0,0,0,161.6707612778635,157.17627457812105L233.0,134.0Z" fill="#531a5e" stroke="black" stroke-width="2"/>
+<path aria-label="1080p: 1; curtail East Minivan: refuel" role="graphics-symbol" aria-roledescription="arc mark"  d="M233.0,59.0A75,75,0,0,0,188.9161060780645,73.32372542187895L233.0,134.0Z" fill="#6b279c" stroke="black" stroke-width="2"/>
+<path aria-label="1080p: 2; curtail East Minivan: Astatine" role="graphics-symbol" aria-roledescription="arc mark"  d="M304.3292387221365,110.82372542187895A75,75,0,0,0,233.0,59.0L233.0,134.0Z" fill="#eeb65b" stroke="black" stroke-width="2"/>
+<path aria-label="1080p: 1; curtail East Minivan: Bedfordshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M304.3292387221365,157.17627457812105A75,75,0,0,0,304.3292387221365,110.82372542187895L233.0,134.0Z" fill="#31fa7a" stroke="black" stroke-width="2"/>
+<path aria-label="1080p: 1; curtail East Minivan: Elegant" role="graphics-symbol" aria-roledescription="arc mark"  d="M233.0,209.0A75,75,0,0,0,277.0838939219355,194.67627457812105L233.0,134.0Z" fill="#aad9e1" stroke="black" stroke-width="2"/>
+<path aria-label="1080p: 1; curtail East Minivan: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M277.0838939219355,194.67627457812105A75,75,0,0,0,304.3292387221365,157.17627457812105L233.0,134.0Z" fill="#730060" stroke="black" stroke-width="2"/>
+<text aria-label="145,149,156,164" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="147.40491353343617" y="163.81152949374527" font-family="sans-serif" font-size="7px" fill="#531a5e" opacity="1">2</text>
+<text aria-label="158,162,76,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.18847050625473" y="83.09932729367742" font-family="sans-serif" font-size="7px" fill="#7ead0e" opacity="1">1</text>
+<text aria-label="203,207,214,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="205.1884705062547" y="221.59508646656383" font-family="sans-serif" font-size="7px" fill="#531a5e" opacity="1">1</text>
+<text aria-label="203,207,43,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="205.1884705062547" y="50.404913533436186" font-family="sans-serif" font-size="7px" fill="#6b279c" opacity="1">1</text>
+<text aria-label="283,287,56,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="285.90067270632255" y="63.18847050625473" font-family="sans-serif" font-size="7px" fill="#eeb65b" opacity="1">2</text>
+<text aria-label="321,325,129,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="323.0" y="136.0" font-family="sans-serif" font-size="7px" fill="#31fa7a" opacity="1">1</text>
+<text aria-label="258,262,214,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="260.8115294937453" y="221.59508646656383" font-family="sans-serif" font-size="7px" fill="#aad9e1" opacity="1">1</text>
+<text aria-label="303,307,181,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="305.8115294937453" y="188.90067270632258" font-family="sans-serif" font-size="7px" fill="#730060" opacity="1">1</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#eeb65b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#31fa7a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#730060" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#aad9e1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#531a5e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#7ead0e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#6b279c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Astatine</text>
+<text aria-label="21,87,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bedfordshire</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Elegant</text>
+<text aria-label="21,59,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Hyundai</text>
+<text aria-label="21,70,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="21,54,145,156" text-anchor="start" x="21.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">refuel</text>
+<text aria-label="5,125,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">curtail East Minivan</text>
+</svg>

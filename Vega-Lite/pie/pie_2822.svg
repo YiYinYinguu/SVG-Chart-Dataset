@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Sedan</text>
+<path aria-label="Maserati under Massachusetts: 27; Exclusive South: township" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,96.95757673830818,59.43245056943471L100.60347528360847,93.23640631129098A41,41,0,0,1,104.99999999999999,93.0Z" fill="#2a61b9" stroke="black" stroke-width="1"/>
+<path aria-label="Maserati under Massachusetts: 106; Exclusive South: Soul" role="graphics-symbol" aria-roledescription="arc mark"  d="M96.95757673830818,59.43245056943471A75,75,0,0,0,67.13444923933315,69.26052158387927L84.3001655841688,98.60908513252066A41,41,0,0,1,100.60347528360847,93.23640631129098Z" fill="#97ce19" stroke="black" stroke-width="1"/>
+<path aria-label="Maserati under Massachusetts: 649; Exclusive South: Genderflux" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.44765937293877,208.99866399533943A75,75,0,0,0,144.40028718192667,70.18293825330326L126.53882365945324,99.11333957847245A41,41,0,0,1,105.24472045720653,174.99926965078555Z" fill="#dbc1b6" stroke="black" stroke-width="1"/>
+<path aria-label="Maserati under Massachusetts: 658; Exclusive South: Mouse" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.13444923933315,69.26052158387927A75,75,0,0,0,105.44765937293877,208.99866399533943L105.24472045720653,174.99926965078555A41,41,0,0,1,84.3001655841688,98.60908513252066Z" fill="#fb695d" stroke="black" stroke-width="1"/>
+<path aria-label="Maserati under Massachusetts: 139; Exclusive South: Effertz" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.40028718192667,70.18293825330326A75,75,0,0,0,105.0,59.0L105.0,93.0A41,41,0,0,1,126.53882365945324,99.11333957847245Z" fill="#4a8191" stroke="black" stroke-width="1"/>
+<text aria-label="93,106,36,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.16757506530372" y="48.129828812611436" font-family="monospace" font-size="12px" fill="#2a61b9" opacity="1">27</text>
+<text aria-label="67,86,40,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="76.83108271280364" y="52.52186186593036" font-family="monospace" font-size="12px" fill="#97ce19" opacity="1">106</text>
+<text aria-label="181,201,150,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.65309712211064" y="162.31544281204972" font-family="monospace" font-size="12px" fill="#dbc1b6" opacity="1">649</text>
+<text aria-label="8,27,149,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.20331265201787" y="161.79779538983894" font-family="monospace" font-size="12px" fill="#fb695d" opacity="1">658</text>
+<text aria-label="119,139,39,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="129.57394281914029" y="51.41985600426837" font-family="monospace" font-size="12px" fill="#4a8191" opacity="1">139</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#4a8191" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#dbc1b6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#fb695d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#97ce19" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#2a61b9" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Effertz</text>
+<text aria-label="239,294,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Genderflux</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Mouse</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Soul</text>
+<text aria-label="239,283,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">township</text>
+</svg>

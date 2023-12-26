@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="354" height="270" viewBox="0 0 354 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">ohm</text>
+<path aria-label="Dynamic Northwest Frozen: 70; Industrial: Hat" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.64199311759228,156.19064717710734A75,75,0,0,0,140.4564952029447,67.91038698915268L125.32839058302163,96.10862187378086A43,43,0,0,1,146.0747427207529,146.72263771487488Z" fill="#e6bc5d" stroke="black" stroke-width="2"/>
+<path aria-label="Dynamic Northwest Frozen: 77; Industrial: Oriental" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.474080255534204,164.48275452079474A75,75,0,0,0,131.72813043045767,204.0757236401626L120.3241281134624,174.17674822035988A43,43,0,0,1,65.71180601317295,151.47677925858898Z" fill="#b8fcaf" stroke="black" stroke-width="2"/>
+<path aria-label="Dynamic Northwest Frozen: 46; Industrial: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.72813043045767,204.0757236401626A75,75,0,0,0,176.64199311759228,156.19064717710734L146.0747427207529,146.72263771487488A43,43,0,0,1,120.3241281134624,174.17674822035988Z" fill="#8bb90c" stroke="black" stroke-width="2"/>
+<path aria-label="Dynamic Northwest Frozen: 48; Industrial: Pop" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.17154763075948,96.28698151288982A75,75,0,0,0,36.474080255534204,164.48275452079474L65.71180601317295,151.47677925858898A43,43,0,0,1,67.8316873083021,112.3778694007235Z" fill="#2ffa2d" stroke="black" stroke-width="2"/>
+<path aria-label="Dynamic Northwest Frozen: 25; Industrial: Coordinator" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.4564952029447,67.91038698915268A75,75,0,0,0,105.0,59.0L105.0,91.0A43,43,0,0,1,125.32839058302163,96.10862187378086Z" fill="#ee4f44" stroke="black" stroke-width="2"/>
+<path aria-label="Dynamic Northwest Frozen: 53; Industrial: freely" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,40.17154763075948,96.28698151288982L67.8316873083021,112.3778694007235A43,43,0,0,1,104.99999999999999,91.0Z" fill="#a7f05c" stroke="black" stroke-width="2"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#ee4f44" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M101.0,258.25A5,5,0,1,1,91.0,258.25A5,5,0,1,1,101.0,258.25" fill="#e6bc5d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,258.25A5,5,0,1,1,135.0,258.25A5,5,0,1,1,145.0,258.25" fill="#8bb90c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M205.0,258.25A5,5,0,1,1,195.0,258.25A5,5,0,1,1,205.0,258.25" fill="#b8fcaf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M271.0,258.25A5,5,0,1,1,261.0,258.25A5,5,0,1,1,271.0,258.25" fill="#2ffa2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M317.0,258.25A5,5,0,1,1,307.0,258.25A5,5,0,1,1,317.0,258.25" fill="#a7f05c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Coordinator</text>
+<text aria-label="106,122,251,262" text-anchor="start" x="106.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Hat</text>
+<text aria-label="150,183,251,262" text-anchor="start" x="150.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="210,254,251,262" text-anchor="start" x="210.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Oriental</text>
+<text aria-label="276,292,251,262" text-anchor="start" x="276.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Pop</text>
+<text aria-label="322,355,251,262" text-anchor="start" x="322.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">freely</text>
+</svg>

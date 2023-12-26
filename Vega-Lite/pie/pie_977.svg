@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="388" height="239" viewBox="0 0 388 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="331,383,0,26" text-anchor="end" x="383.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Card</text>
+<path aria-label="Touring: 71; Erbium invoice Administrator: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.729682350853004,187.78488535692227A75,75,0,0,0,176.3292387221365,157.17627457812105L148.74859974957707,148.21478174124758A46,46,0,0,1,72.9408718418565,166.98806301891233Z" fill="#bc114b" stroke="white" stroke-width="4"/>
+<path aria-label="Touring: 13; Erbium invoice Administrator: DRAM" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.3292387221365,157.17627457812105A75,75,0,0,0,179.87768279446016,129.7183391852924L150.92497878060223,131.37391470031267A46,46,0,0,1,148.74859974957707,148.21478174124758Z" fill="#e9a1db" stroke="white" stroke-width="4"/>
+<path aria-label="Touring: 53; Erbium invoice Administrator: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.87768279446016,129.7183391852924A75,75,0,0,0,105.0,59.0L105.0,88.0A46,46,0,0,1,150.92497878060223,131.37391470031267Z" fill="#fd90e6" stroke="white" stroke-width="4"/>
+<path aria-label="Touring: 83; Erbium invoice Administrator: talkative" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,52.729682350853004,187.78488535692227L72.9408718418565,166.98806301891233A46,46,0,0,1,104.99999999999999,88.0Z" fill="#4c5d4d" stroke="white" stroke-width="4"/>
+<text aria-label="122,131,215,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="126.63438534968932" y="223.36105179392672" font-family="monospace" font-size="8px" fill="#bc114b" opacity="1">71</text>
+<text aria-label="189,198,139,148" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.25774342623123" y="147.53495723689835" font-family="monospace" font-size="8px" fill="#e9a1db" opacity="1">13</text>
+<text aria-label="162,171,62,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="166.79636167288322" y="70.56904643829337" font-family="monospace" font-size="8px" fill="#fd90e6" opacity="1">53</text>
+<text aria-label="17,26,94,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.607051801283575" y="102.15304754152599" font-family="monospace" font-size="8px" fill="#4c5d4d" opacity="1">83</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#fd90e6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#e9a1db" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#bc114b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#4c5d4d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">DRAM</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="239,288,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">talkative</text>
+<text aria-label="223,391,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Erbium invoice Administrator</text>
+</svg>

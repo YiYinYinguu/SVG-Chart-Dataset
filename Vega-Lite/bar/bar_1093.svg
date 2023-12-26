@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="672" height="336" viewBox="0 0 672 336" style="background-color: rgb(255, 255, 255);">
+<line x1="168.5" y1="43.5" x2="168.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="368.5" y1="43.5" x2="368.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="567.5" y1="43.5" x2="567.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="154,173,250,336" text-anchor="end" x="168.66666666666663" y="250.5" transform="rotate(270.0, 173.66666666666663, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">attribute</text>
+<text aria-label="354,373,250,288" text-anchor="end" x="368.0" y="250.5" transform="rotate(270.0, 373.0, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">calm</text>
+<text aria-label="553,572,250,317" text-anchor="end" x="567.3333333333333" y="250.5" transform="rotate(270.0, 572.3333333333333, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">counter</text>
+<line aria-label="168,168,243,248" x1="168.5" y1="243.5" x2="168.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="368,368,243,248" x1="368.5" y1="243.5" x2="368.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="567,567,243,248" x1="567.5" y1="243.5" x2="567.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="69,667,243,243" x1="69.5" y1="243.5" x2="667.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="277,667,0,26" text-anchor="end" x="667.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Volkswagen auxiliary Developer</text>
+<text aria-label="58,67,230,249" text-anchor="end" x="67.5" y="248.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="39,67,190,209" text-anchor="end" x="67.5" y="208.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="39,67,150,169" text-anchor="end" x="67.5" y="168.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="39,67,110,129" text-anchor="end" x="67.5" y="128.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="39,67,70,89" text-anchor="end" x="67.5" y="88.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="20,67,30,49" text-anchor="end" x="67.5" y="48.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="2,14,107,179" text-anchor="middle" x="16.7421875" y="143.5" transform="rotate(-90.0, 14.7421875, 143.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">acquaintance</text>
+<line aria-label="69,69,43,243" x1="69.5" y1="243.5" x2="69.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="alarm: counter; acquaintance: 467; questionably Directives: esse" role="graphics-symbol" aria-roledescription="bar" d="M486.60333333333335,61.199999999999996h161.46v93.4h-161.46Z" fill="#3eb9f7"/>
+<path aria-label="alarm: counter; acquaintance: 442; questionably Directives: utilisation lumen" role="graphics-symbol" aria-roledescription="bar" d="M486.60333333333335,154.60000000000002h161.46v88.39999999999999h-161.46Z" fill="#b6a099"/>
+<path aria-label="alarm: calm; acquaintance: 467; questionably Directives: esse" role="graphics-symbol" aria-roledescription="bar" d="M287.27,63.599999999999994h161.46v93.40000000000002h-161.46Z" fill="#3eb9f7"/>
+<path aria-label="alarm: calm; acquaintance: 430; questionably Directives: utilisation lumen" role="graphics-symbol" aria-roledescription="bar" d="M287.27,157.0h161.46v85.99999999999999h-161.46Z" fill="#b6a099"/>
+<path aria-label="alarm: attribute; acquaintance: 43; questionably Directives: esse" role="graphics-symbol" aria-roledescription="bar" d="M87.93666666666664,99.80000000000001h161.46v8.599999999999987h-161.46Z" fill="#3eb9f7"/>
+<path aria-label="alarm: attribute; acquaintance: 673; questionably Directives: utilisation lumen" role="graphics-symbol" aria-roledescription="bar" d="M87.93666666666664,108.39999999999999h161.46v134.60000000000002h-161.46Z" fill="#b6a099"/>
+<text aria-label="559,574,48,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="567.3333333333333" y="57.92099999999999" font-family="monospace" font-size="8.969999999999999px" fill="#000" opacity="1">467</text>
+<text aria-label="559,574,142,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="567.3333333333333" y="151.32100000000003" font-family="monospace" font-size="8.969999999999999px" fill="#000" opacity="1">442</text>
+<text aria-label="360,375,51,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="368.0" y="60.321" font-family="monospace" font-size="8.969999999999999px" fill="#000" opacity="1">467</text>
+<text aria-label="360,375,144,154" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="368.0" y="153.721" font-family="monospace" font-size="8.969999999999999px" fill="#000" opacity="1">430</text>
+<text aria-label="163,173,87,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.66666666666663" y="96.52100000000002" font-family="monospace" font-size="8.969999999999999px" fill="#000" opacity="1">43</text>
+<text aria-label="161,176,96,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.66666666666663" y="105.121" font-family="monospace" font-size="8.969999999999999px" fill="#000" opacity="1">673</text>
+</svg>

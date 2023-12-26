@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1017" height="290" viewBox="0 0 1017 290" style="background-color: rgb(255, 255, 255);">
+<line x1="40.5" y1="237.5" x2="1012.5" y2="237.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="193.5" x2="1012.5" y2="193.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="148.5" x2="1012.5" y2="148.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="104.5" x2="1012.5" y2="104.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="59.5" x2="1012.5" y2="59.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="214,225,244,272" text-anchor="end" x="222.25" y="244.5" transform="rotate(270.0, 225.25, 244.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">alias</text>
+<text aria-label="518,529,244,277" text-anchor="end" x="526.0" y="244.5" transform="rotate(270.0, 529.0, 244.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">chalet</text>
+<text aria-label="821,832,244,288" text-anchor="end" x="829.75" y="244.5" transform="rotate(270.0, 832.75, 244.5)" font-family="Balto" font-size="10px" font-weight="bold" fill="#000" opacity="1">upstairs</text>
+<line aria-label="222,222,237,242" x1="222.5" y1="237.5" x2="222.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="526,526,237,242" x1="526.5" y1="237.5" x2="526.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="829,829,237,242" x1="829.5" y1="237.5" x2="829.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,1012,237,237" x1="40.5" y1="237.5" x2="1012.5" y2="237.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="856,1012,0,26" text-anchor="end" x="1012.0" y="25.686944444444443" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">technologies</text>
+<text aria-label="33,38,230,241" text-anchor="end" x="38.5" y="240.5" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="22,38,186,197" text-anchor="end" x="38.5" y="196.05555555555557" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,38,141,152" text-anchor="end" x="38.5" y="151.61111111111111" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="22,38,97,108" text-anchor="end" x="38.5" y="107.16666666666667" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="22,38,52,63" text-anchor="end" x="38.5" y="62.72222222222223" font-family="Balto" font-size="10px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="2,14,65,209" text-anchor="middle" x="16.9072265625" y="137.5" transform="rotate(-90.0, 14.9072265625, 137.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">metrics overriding parse</text>
+<line aria-label="40,40,37,237" x1="40.5" y1="237.5" x2="40.5" y2="37.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="SUV Nakfa parsing: alias; metrics overriding parse: 745; redundant Borders indexing: Methuen Southeast card" role="graphics-symbol" aria-roledescription="bar" d="M100.75,71.44444444444446h243v165.55555555555554h-243Z" fill="#855346"/>
+<path aria-label="SUV Nakfa parsing: upstairs; metrics overriding parse: 770; redundant Borders indexing: Methuen Southeast card" role="graphics-symbol" aria-roledescription="bar" d="M708.25,65.8888888888889h243v171.11111111111111h-243Z" fill="#855346"/>
+<path aria-label="SUV Nakfa parsing: chalet; metrics overriding parse: 808; redundant Borders indexing: Methuen Southeast card" role="graphics-symbol" aria-roledescription="bar" d="M404.5,57.44444444444444h243v179.55555555555554h-243Z" fill="#855346"/>
+<text aria-label="207,236,45,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="222.25" y="63.68694444444446" font-family="Balto" font-size="18.224999999999998px" fill="#000" opacity="1">745</text>
+<text aria-label="815,844,39,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="829.75" y="58.1313888888889" font-family="Balto" font-size="18.224999999999998px" fill="#000" opacity="1">770</text>
+<text aria-label="511,540,31,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="526.0" y="49.68694444444444" font-family="Balto" font-size="18.224999999999998px" fill="#000" opacity="1">808</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="285" height="239" viewBox="0 0 285 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Extended Blues</text>
+<path aria-label="FTP: 318; Wisconsin: Loan" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.97721830133214,206.81359503654693A75,75,0,0,0,176.83091867780615,112.42874315431764L105.0,134.0Z" fill="#3b5aaa" stroke="black" stroke-width="2"/>
+<path aria-label="FTP: 85; Wisconsin: parallel" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,73.52027873944309,65.92631088770315L105.0,134.0Z" fill="#cd7268" stroke="black" stroke-width="2"/>
+<path aria-label="FTP: 329; Wisconsin: Pound" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.69572856091338,144.19192061912457A75,75,0,0,0,122.97721830133214,206.81359503654693L105.0,134.0Z" fill="#70becc" stroke="black" stroke-width="2"/>
+<path aria-label="FTP: 250; Wisconsin: optio" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.52027873944309,65.92631088770315A75,75,0,0,0,30.69572856091338,144.19192061912457L105.0,134.0Z" fill="#5a7d90" stroke="black" stroke-width="2"/>
+<path aria-label="FTP: 251; Wisconsin: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.83091867780615,112.42874315431764A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#3b1c21" stroke="black" stroke-width="2"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#3b1c21" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#3b5aaa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#70becc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#5a7d90" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#cd7268" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Loan</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Pound</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">optio</text>
+<text aria-label="239,283,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">parallel</text>
+<text aria-label="223,277,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Wisconsin</text>
+</svg>

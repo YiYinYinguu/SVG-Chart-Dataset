@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="338" height="270" viewBox="0 0 338 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,317,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">compressing regional Pop</text>
+<path aria-label="near transmit: 105; Strategist: encoding" role="graphics-symbol" aria-roledescription="arc mark"  d="M103.57208961724899,239.98640591426442A75,75,0,0,0,157.77997221527252,218.28484336990266L105.0,165.0Z" fill="#dc0c2c" stroke="white" stroke-width="0"/>
+<path aria-label="near transmit: 189; Strategist: Interactions" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.3536964051752,155.17514219507305A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#7fddae" stroke="white" stroke-width="0"/>
+<path aria-label="near transmit: 410; Strategist: indeed" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,103.57208961724899,239.98640591426442L105.0,165.0Z" fill="#ed78fa" stroke="white" stroke-width="0"/>
+<path aria-label="near transmit: 121; Strategist: benchmark" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.77997221527252,218.28484336990266A75,75,0,0,0,179.3536964051752,155.17514219507305L105.0,165.0Z" fill="#7ce608" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#7fddae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M100.0,40.25A5,5,0,1,1,90.0,40.25A5,5,0,1,1,100.0,40.25" fill="#7ce608" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M181.0,40.25A5,5,0,1,1,171.0,40.25A5,5,0,1,1,181.0,40.25" fill="#dc0c2c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M253.0,40.25A5,5,0,1,1,243.0,40.25A5,5,0,1,1,253.0,40.25" fill="#ed78fa" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,87,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Interactions</text>
+<text aria-label="105,154,33,44" text-anchor="start" x="105.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">benchmark</text>
+<text aria-label="186,230,33,44" text-anchor="start" x="186.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">encoding</text>
+<text aria-label="258,291,33,44" text-anchor="start" x="258.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">indeed</text>
+</svg>

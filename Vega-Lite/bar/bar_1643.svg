@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="672" height="331" viewBox="0 0 672 331" style="background-color: rgb(255, 255, 255);">
+<line x1="156.5" y1="43.5" x2="156.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="360.5" y1="43.5" x2="360.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="564.5" y1="43.5" x2="564.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="143,161,250,331" text-anchor="end" x="156.16666666666663" y="250.5" transform="rotate(270.0, 161.16666666666663, 250.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">adrenalin</text>
+<text aria-label="347,365,250,286" text-anchor="end" x="360.5" y="250.5" transform="rotate(270.0, 365.5, 250.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">plan</text>
+<text aria-label="551,569,250,313" text-anchor="end" x="564.8333333333333" y="250.5" transform="rotate(270.0, 569.8333333333333, 250.5)" font-family="Balto" font-size="17px" font-weight="normal" fill="#000" opacity="1">reverse</text>
+<line aria-label="156,156,243,248" x1="156.5" y1="243.5" x2="156.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="360,360,243,248" x1="360.5" y1="243.5" x2="360.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="564,564,243,248" x1="564.5" y1="243.5" x2="564.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,667,243,243" x1="54.5" y1="243.5" x2="667.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="407,667,0,26" text-anchor="end" x="667.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Van facilitate Small</text>
+<text aria-label="43,52,231,249" text-anchor="end" x="52.5" y="248.5" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="25,52,191,209" text-anchor="end" x="52.5" y="208.5" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="25,52,151,169" text-anchor="end" x="52.5" y="168.5" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="25,52,111,129" text-anchor="end" x="52.5" y="128.5" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="25,52,71,89" text-anchor="end" x="52.5" y="88.5" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="7,52,31,49" text-anchor="end" x="52.5" y="48.5" font-family="Balto" font-size="17px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<line aria-label="54,54,43,243" x1="54.5" y1="243.5" x2="54.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Gasoline Operations mint: reverse; Elegant: 665; radian sievert: Configuration Peso synthesize" role="graphics-symbol" aria-roledescription="bar" d="M491.2733333333333,46.2h147.12v133h-147.12Z" fill="#9e2fbc"/>
+<path aria-label="Gasoline Operations mint: reverse; Elegant: 319; radian sievert: Incredible" role="graphics-symbol" aria-roledescription="bar" d="M491.2733333333333,179.20000000000002h147.12v63.79999999999998h-147.12Z" fill="#e85f86"/>
+<path aria-label="Gasoline Operations mint: adrenalin; Elegant: 293; radian sievert: Configuration Peso synthesize" role="graphics-symbol" aria-roledescription="bar" d="M82.60666666666664,114.6h147.12v58.60000000000002h-147.12Z" fill="#9e2fbc"/>
+<path aria-label="Gasoline Operations mint: adrenalin; Elegant: 349; radian sievert: Incredible" role="graphics-symbol" aria-roledescription="bar" d="M82.60666666666664,173.20000000000002h147.12v69.79999999999998h-147.12Z" fill="#e85f86"/>
+<path aria-label="Gasoline Operations mint: plan; Elegant: 379; radian sievert: Configuration Peso synthesize" role="graphics-symbol" aria-roledescription="bar" d="M286.93999999999994,128.2h147.12v75.8h-147.12Z" fill="#9e2fbc"/>
+<path aria-label="Gasoline Operations mint: plan; Elegant: 195; radian sievert: Incredible" role="graphics-symbol" aria-roledescription="bar" d="M286.93999999999994,204.0h147.12v39h-147.12Z" fill="#e85f86"/>
+</svg>

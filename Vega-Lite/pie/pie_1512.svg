@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="383" height="270" viewBox="0 0 383 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="33,176,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">furthermore</text>
+<path aria-label="Hoboken Northeast: 49; Group: HTTP" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.54776577699819,205.56044423000367A75,75,0,0,0,134.5766891334989,202.9218358715173L105.0,134.0Z" fill="#26cbe8" stroke="black" stroke-width="2"/>
+<path aria-label="Hoboken Northeast: 1; Group: Fresh" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.5766891334989,202.9218358715173A75,75,0,0,0,135.57136276092467,202.48643499949424L105.0,134.0Z" fill="#f71e7e" stroke="black" stroke-width="2"/>
+<path aria-label="Hoboken Northeast: 134; Group: DRAM" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.2808634028334,198.49477108365926A75,75,0,0,0,151.33605588385296,75.02568419109505L105.0,134.0Z" fill="#254632" stroke="black" stroke-width="2"/>
+<path aria-label="Hoboken Northeast: 46; Group: Cyclocross" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.33605588385296,75.02568419109505A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#c0bec8" stroke="black" stroke-width="2"/>
+<path aria-label="Hoboken Northeast: 130; Group: to" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,33.60395400371084,156.96964553700738L105.0,134.0Z" fill="#daef20" stroke="black" stroke-width="2"/>
+<path aria-label="Hoboken Northeast: 66; Group: sky" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.60395400371084,156.96964553700738A75,75,0,0,0,82.54776577699819,205.56044423000367L105.0,134.0Z" fill="#038378" stroke="black" stroke-width="2"/>
+<path aria-label="Hoboken Northeast: 8; Group: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.57136276092467,202.48643499949424A75,75,0,0,0,143.2808634028334,198.49477108365926L105.0,134.0Z" fill="#562aff" stroke="black" stroke-width="2"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#c0bec8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M94.0,258.25A5,5,0,1,1,84.0,258.25A5,5,0,1,1,94.0,258.25" fill="#254632" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M152.0,258.25A5,5,0,1,1,142.0,258.25A5,5,0,1,1,152.0,258.25" fill="#562aff" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M214.0,258.25A5,5,0,1,1,204.0,258.25A5,5,0,1,1,214.0,258.25" fill="#f71e7e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M267.0,258.25A5,5,0,1,1,257.0,258.25A5,5,0,1,1,267.0,258.25" fill="#26cbe8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M320.0,258.25A5,5,0,1,1,310.0,258.25A5,5,0,1,1,320.0,258.25" fill="#038378" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M363.0,258.25A5,5,0,1,1,353.0,258.25A5,5,0,1,1,363.0,258.25" fill="#daef20" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Cyclocross</text>
+<text aria-label="99,121,251,262" text-anchor="start" x="99.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">DRAM</text>
+<text aria-label="157,201,251,262" text-anchor="start" x="157.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="219,246,251,262" text-anchor="start" x="219.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="272,294,251,262" text-anchor="start" x="272.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">HTTP</text>
+<text aria-label="325,341,251,262" text-anchor="start" x="325.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">sky</text>
+<text aria-label="368,379,251,262" text-anchor="start" x="368.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">to</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="871" height="296" viewBox="0 0 871 296" style="background-color: rgb(255, 255, 255);">
+<line x1="109.5" y1="34.5" x2="109.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="247.5" y1="34.5" x2="247.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="384.5" y1="34.5" x2="384.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="522.5" y1="34.5" x2="522.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="659.5" y1="34.5" x2="659.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="797.5" y1="34.5" x2="797.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="100,112,241,283" text-anchor="end" x="109.75" y="241.5" transform="rotate(270.0, 112.75, 241.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">bagpipe</text>
+<text aria-label="238,250,241,271" text-anchor="end" x="247.25" y="241.5" transform="rotate(270.0, 250.25, 241.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">belly</text>
+<text aria-label="375,387,241,265" text-anchor="end" x="384.75" y="241.5" transform="rotate(270.0, 387.75, 241.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">cria</text>
+<text aria-label="513,525,241,295" text-anchor="end" x="522.25" y="241.5" transform="rotate(270.0, 525.25, 241.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">criterion</text>
+<text aria-label="650,662,241,271" text-anchor="end" x="659.75" y="241.5" transform="rotate(270.0, 662.75, 241.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">fraud</text>
+<text aria-label="788,800,241,289" text-anchor="end" x="797.25" y="241.5" transform="rotate(270.0, 800.25, 241.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">hacienda</text>
+<line aria-label="109,109,234,239" x1="109.5" y1="234.5" x2="109.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="247,247,234,239" x1="247.5" y1="234.5" x2="247.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="384,384,234,239" x1="384.5" y1="234.5" x2="384.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="522,522,234,239" x1="522.5" y1="234.5" x2="522.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="659,659,234,239" x1="659.5" y1="234.5" x2="659.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="797,797,234,239" x1="797.5" y1="234.5" x2="797.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,866,234,234" x1="41.5" y1="234.5" x2="866.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="421,486,0,26" text-anchor="middle" x="453.5" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">green</text>
+<text aria-label="28,34,226,238" text-anchor="end" x="34.5" y="237.5" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="16,34,184,196" text-anchor="end" x="34.5" y="195.83333333333331" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="4,34,143,155" text-anchor="end" x="34.5" y="154.16666666666666" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="4,34,101,113" text-anchor="end" x="34.5" y="112.5" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">1,500</text>
+<text aria-label="4,34,59,71" text-anchor="end" x="34.5" y="70.83333333333333" font-family="sans-serif" font-size="11px" font-weight="normal" fill="#000" opacity="1">2,000</text>
+<line aria-label="36,41,234,234" x1="41.5" y1="234.5" x2="36.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,192,192" x1="41.5" y1="192.5" x2="36.5" y2="192.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,151,151" x1="41.5" y1="151.5" x2="36.5" y2="151.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,109,109" x1="41.5" y1="109.5" x2="36.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="36,41,67,67" x1="41.5" y1="67.5" x2="36.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Practical along tempore: belly; ugly Northwest: 658; program: Passenger" role="graphics-symbol" aria-roledescription="bar" d="M197.75,122.33333333333333h99v54.83333333333333h-99Z" fill="#53a370"/>
+<path aria-label="Practical along tempore: belly; ugly Northwest: 229; program: Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M197.75,103.24999999999999h99v19.083333333333343h-99Z" fill="#c2ba4a"/>
+<path aria-label="Practical along tempore: belly; ugly Northwest: 682; program: management" role="graphics-symbol" aria-roledescription="bar" d="M197.75,177.16666666666666h99v56.83333333333334h-99Z" fill="#a1dbfb"/>
+<path aria-label="Practical along tempore: hacienda; ugly Northwest: 460; program: Passenger" role="graphics-symbol" aria-roledescription="bar" d="M747.75,193.5h99v38.333333333333314h-99Z" fill="#53a370"/>
+<path aria-label="Practical along tempore: hacienda; ugly Northwest: 729; program: Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M747.75,132.75h99v60.75h-99Z" fill="#c2ba4a"/>
+<path aria-label="Practical along tempore: hacienda; ugly Northwest: 26; program: management" role="graphics-symbol" aria-roledescription="bar" d="M747.75,231.83333333333331h99v2.1666666666666856h-99Z" fill="#a1dbfb"/>
+<path aria-label="Practical along tempore: criterion; ugly Northwest: 517; program: Passenger" role="graphics-symbol" aria-roledescription="bar" d="M472.75,129.5h99v43.083333333333314h-99Z" fill="#53a370"/>
+<path aria-label="Practical along tempore: criterion; ugly Northwest: 692; program: Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M472.75,71.83333333333334h99v57.66666666666666h-99Z" fill="#c2ba4a"/>
+<path aria-label="Practical along tempore: criterion; ugly Northwest: 737; program: management" role="graphics-symbol" aria-roledescription="bar" d="M472.75,172.58333333333331h99v61.416666666666686h-99Z" fill="#a1dbfb"/>
+<path aria-label="Practical along tempore: bagpipe; ugly Northwest: 806; program: Passenger" role="graphics-symbol" aria-roledescription="bar" d="M60.25,130.0h99v67.16666666666666h-99Z" fill="#53a370"/>
+<path aria-label="Practical along tempore: bagpipe; ugly Northwest: 597; program: Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M60.25,80.25h99v49.75000000000001h-99Z" fill="#c2ba4a"/>
+<path aria-label="Practical along tempore: bagpipe; ugly Northwest: 442; program: management" role="graphics-symbol" aria-roledescription="bar" d="M60.25,197.16666666666666h99v36.83333333333334h-99Z" fill="#a1dbfb"/>
+<path aria-label="Practical along tempore: cria; ugly Northwest: 635; program: Passenger" role="graphics-symbol" aria-roledescription="bar" d="M335.25,127.16666666666666h99v52.916666666666686h-99Z" fill="#53a370"/>
+<path aria-label="Practical along tempore: cria; ugly Northwest: 153; program: Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M335.25,114.41666666666667h99v12.749999999999986h-99Z" fill="#c2ba4a"/>
+<path aria-label="Practical along tempore: cria; ugly Northwest: 647; program: management" role="graphics-symbol" aria-roledescription="bar" d="M335.25,180.08333333333334h99v53.91666666666666h-99Z" fill="#a1dbfb"/>
+<path aria-label="Practical along tempore: fraud; ugly Northwest: 817; program: Passenger" role="graphics-symbol" aria-roledescription="bar" d="M610.25,111.49999999999999h99v68.08333333333336h-99Z" fill="#53a370"/>
+<path aria-label="Practical along tempore: fraud; ugly Northwest: 780; program: Paradigm" role="graphics-symbol" aria-roledescription="bar" d="M610.25,46.5h99v64.99999999999999h-99Z" fill="#c2ba4a"/>
+<path aria-label="Practical along tempore: fraud; ugly Northwest: 653; program: management" role="graphics-symbol" aria-roledescription="bar" d="M610.25,179.58333333333334h99v54.41666666666666h-99Z" fill="#a1dbfb"/>
+</svg>

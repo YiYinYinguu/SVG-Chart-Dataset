@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="288" height="239" viewBox="0 0 288 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="92,274,0,26" text-anchor="middle" x="183.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Infrastructure</text>
+<path aria-label="panel Web: 707; Plastic: Home" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.28260384902336,60.26511651302911A75,75,0,1,0,241.63736118510224,87.238264860595L220.52791115846543,104.0724895107808A48,48,0,1,1,174.22086646337496,86.80967456833864Z" fill="#fefff2" stroke="black" stroke-width="0"/>
+<path aria-label="panel Web: 122; Plastic: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M241.63736118510224,87.238264860595A75,75,0,0,0,183.0,59.0L183.0,86.0A48,48,0,0,1,220.52791115846543,104.0724895107808Z" fill="#5ef86d" stroke="black" stroke-width="0"/>
+<path aria-label="panel Web: 25; Plastic: Reynolds" role="graphics-symbol" aria-roledescription="arc mark"  d="M183.0,59.0A75,75,0,0,0,169.28260384902336,60.26511651302911L174.22086646337496,86.80967456833864A48,48,0,0,1,183.0,86.0Z" fill="#aea1ee" stroke="black" stroke-width="0"/>
+<text aria-label="141,161,210,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.5623245681098" y="222.33073320823866" font-family="sans-serif" font-size="12px" fill="#fefff2" opacity="1">707</text>
+<text aria-label="212,231,44,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="222.04953652058023" y="56.91280188878228" font-family="sans-serif" font-size="12px" fill="#5ef86d" opacity="1">122</text>
+<text aria-label="168,181,36,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.73463299643794" y="48.380338606439565" font-family="sans-serif" font-size="12px" fill="#aea1ee" opacity="1">25</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#5ef86d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fefff2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#aea1ee" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Home</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Reynolds</text>
+</svg>

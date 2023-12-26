@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="413" height="286" viewBox="0 0 413 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="7,202,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">management West</text>
+<path aria-label="index Usability: 156; Northeast: uniform" role="graphics-symbol" aria-roledescription="arc mark"  d="M56.03834113571089,237.8133431621215A75,75,0,0,0,120.88315442931464,254.29887724497928L105.0,181.0Z" fill="#98ecd4" stroke="white" stroke-width="1"/>
+<path aria-label="index Usability: 175; Northeast: Analyst" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.57827088255166,142.86016610130847A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#ccb7aa" stroke="white" stroke-width="1"/>
+<path aria-label="index Usability: 219; Northeast: Arsenic" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.12175929650374,232.92143267140568A75,75,0,0,0,169.57827088255166,142.86016610130847L105.0,181.0Z" fill="#4af949" stroke="white" stroke-width="1"/>
+<path aria-label="index Usability: 14; Northeast: archive" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.63172849659094,237.22892072982268A75,75,0,0,0,159.12175929650374,232.92143267140568L105.0,181.0Z" fill="#a87bd5" stroke="white" stroke-width="1"/>
+<path aria-label="index Usability: 85; Northeast: past" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.88315442931464,254.29887724497928A75,75,0,0,0,154.29755972883424,237.52212491389562L105.0,181.0Z" fill="#df536e" stroke="white" stroke-width="1"/>
+<path aria-label="index Usability: 1; Northeast: online" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.29755972883424,237.52212491389562A75,75,0,0,0,154.63172849659094,237.22892072982268L105.0,181.0Z" fill="#d6abd1" stroke="white" stroke-width="1"/>
+<path aria-label="index Usability: 410; Northeast: whoever" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,56.03834113571089,237.8133431621215L105.0,181.0Z" fill="#c1deaa" stroke="white" stroke-width="1"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#ccb7aa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,56.25A5,5,0,1,1,68.0,56.25A5,5,0,1,1,78.0,56.25" fill="#4af949" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,56.25A5,5,0,1,1,130.0,56.25A5,5,0,1,1,140.0,56.25" fill="#a87bd5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M202.0,56.25A5,5,0,1,1,192.0,56.25A5,5,0,1,1,202.0,56.25" fill="#d6abd1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M259.0,56.25A5,5,0,1,1,249.0,56.25A5,5,0,1,1,259.0,56.25" fill="#df536e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M306.0,56.25A5,5,0,1,1,296.0,56.25A5,5,0,1,1,306.0,56.25" fill="#98ecd4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M368.0,56.25A5,5,0,1,1,358.0,56.25A5,5,0,1,1,368.0,56.25" fill="#c1deaa" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Analyst</text>
+<text aria-label="83,121,49,60" text-anchor="start" x="83.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Arsenic</text>
+<text aria-label="145,183,49,60" text-anchor="start" x="145.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">archive</text>
+<text aria-label="207,240,49,60" text-anchor="start" x="207.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">online</text>
+<text aria-label="264,286,49,60" text-anchor="start" x="264.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">past</text>
+<text aria-label="311,349,49,60" text-anchor="start" x="311.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">uniform</text>
+<text aria-label="373,411,49,60" text-anchor="start" x="373.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">whoever</text>
+<text aria-label="5,59,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northeast</text>
+</svg>

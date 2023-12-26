@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="239" viewBox="0 0 294 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="16,289,0,26" text-anchor="end" x="289.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Audi Investor Analyst</text>
+<path aria-label="plan Southwest: 147; Engineer Accountability Human: Maserati" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.47356713432382,182.12181960141208A75,75,0,1,0,189.0,59.0L189.0,101.0A33,33,0,1,1,163.68836953910247,155.17360062462132Z" fill="#71faf8" stroke="white" stroke-width="2"/>
+<path aria-label="plan Southwest: 7; Engineer Accountability Human: easy" role="graphics-symbol" aria-roledescription="arc mark"  d="M123.3759489271363,170.31093390132202A75,75,0,0,0,131.47356713432382,182.12181960141208L163.68836953910247,155.17360062462132A33,33,0,0,1,160.12541752794,149.97681091658168Z" fill="#17cadc" stroke="white" stroke-width="2"/>
+<path aria-label="plan Southwest: 55; Engineer Accountability Human: kilogram" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.29537164653038,71.00687949779027A75,75,0,0,0,123.3759489271363,170.31093390132202L160.12541752794,149.97681091658168A33,33,0,0,1,171.08996352447338,106.28302697902771Z" fill="#e58bd3" stroke="white" stroke-width="2"/>
+<path aria-label="plan Southwest: 21; Engineer Accountability Human: navigating" role="graphics-symbol" aria-roledescription="arc mark"  d="M189.0,59.0A75,75,0,0,0,148.29537164653038,71.00687949779027L171.08996352447338,106.28302697902771A33,33,0,0,1,189.0,101.0Z" fill="#a8b6bb" stroke="white" stroke-width="2"/>
+<text aria-label="259,281,162,177" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="270.53881442893476" y="176.0975293362148" font-family="monospace" font-size="14px" fill="#71faf8" opacity="1">147</text>
+<text aria-label="111,118,174,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="114.77066659659283" y="188.89210216218055" font-family="monospace" font-size="14px" fill="#17cadc" opacity="1">7</text>
+<text aria-label="94,109,102,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="101.7065295441296" y="116.09452087330482" font-family="monospace" font-size="14px" fill="#e58bd3" opacity="1">55</text>
+<text aria-label="156,171,37,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.53686011347628" y="51.677184318864306" font-family="monospace" font-size="14px" fill="#a8b6bb" opacity="1">21</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#71faf8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#17cadc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#e58bd3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#a8b6bb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Maserati</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">easy</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">kilogram</text>
+<text aria-label="21,76,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">navigating</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="371" height="286" viewBox="0 0 371 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="33,176,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">compressing</text>
+<path aria-label="critical Gorgeous: 377; grey Recumbent phew: Georgia" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.68385410007278,130.75750411691507A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#b95f70" stroke="black" stroke-width="2"/>
+<path aria-label="critical Gorgeous: 145; grey Recumbent phew: Licensed" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.71638964811962,150.9490799853349A75,75,0,0,0,160.68385410007278,130.75750411691507L105.0,181.0Z" fill="#ad519d" stroke="black" stroke-width="2"/>
+<path aria-label="critical Gorgeous: 379; grey Recumbent phew: Tracy" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.698030275343,245.48223875774985A75,75,0,0,0,127.53419256606792,252.5346780617301L105.0,181.0Z" fill="#71d4df" stroke="black" stroke-width="2"/>
+<path aria-label="critical Gorgeous: 783; grey Recumbent phew: array" role="graphics-symbol" aria-roledescription="arc mark"  d="M47.78214469151222,132.51168146968843A75,75,0,0,0,66.698030275343,245.48223875774985L105.0,181.0Z" fill="#b98fe4" stroke="black" stroke-width="2"/>
+<path aria-label="critical Gorgeous: 756; grey Recumbent phew: Programmable" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.53419256606792,252.5346780617301A75,75,0,0,0,173.71638964811962,150.9490799853349L105.0,181.0Z" fill="#af8af8" stroke="black" stroke-width="2"/>
+<path aria-label="critical Gorgeous: 391; grey Recumbent phew: local" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,47.78214469151222,132.51168146968843L105.0,181.0Z" fill="#bbcfed" stroke="black" stroke-width="2"/>
+<text aria-label="130,152,88,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.56371455847193" y="102.76196270771909" font-family="monospace" font-size="14px" fill="#b95f70" opacity="1">377</text>
+<text aria-label="169,191,122,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.61695138682558" y="136.19347724983413" font-family="monospace" font-size="14px" fill="#ad519d" opacity="1">145</text>
+<text aria-label="83,105,260,275" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="94.63614498377511" y="274.4012891920618" font-family="monospace" font-size="14px" fill="#71d4df" opacity="1">379</text>
+<text aria-label="4,27,185,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.23571571965674" y="199.86276677467578" font-family="monospace" font-size="14px" fill="#b98fe4" opacity="1">783</text>
+<text aria-label="175,198,208,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.93087877441667" y="222.24689387387681" font-family="monospace" font-size="14px" fill="#af8af8" opacity="1">756</text>
+<text aria-label="55,78,89,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="67.16310267261366" y="103.33991672403937" font-family="monospace" font-size="14px" fill="#bbcfed" opacity="1">391</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#b95f70" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,56.25A5,5,0,1,1,68.0,56.25A5,5,0,1,1,78.0,56.25" fill="#ad519d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,56.25A5,5,0,1,1,135.0,56.25A5,5,0,1,1,145.0,56.25" fill="#af8af8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M232.0,56.25A5,5,0,1,1,222.0,56.25A5,5,0,1,1,232.0,56.25" fill="#71d4df" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M284.0,56.25A5,5,0,1,1,274.0,56.25A5,5,0,1,1,284.0,56.25" fill="#b98fe4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M336.0,56.25A5,5,0,1,1,326.0,56.25A5,5,0,1,1,336.0,56.25" fill="#bbcfed" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Georgia</text>
+<text aria-label="83,127,49,60" text-anchor="start" x="83.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Licensed</text>
+<text aria-label="150,216,49,60" text-anchor="start" x="150.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Programmable</text>
+<text aria-label="237,264,49,60" text-anchor="start" x="237.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Tracy</text>
+<text aria-label="289,316,49,60" text-anchor="start" x="289.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">array</text>
+<text aria-label="341,368,49,60" text-anchor="start" x="341.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">local</text>
+<text aria-label="5,119,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">grey Recumbent phew</text>
+</svg>

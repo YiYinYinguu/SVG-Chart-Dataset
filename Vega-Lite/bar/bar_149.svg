@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="633" height="339" viewBox="0 0 633 339" style="background-color: rgb(255, 255, 255);">
+<line x1="120.5" y1="42.5" x2="120.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="233.5" y1="42.5" x2="233.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="346.5" y1="42.5" x2="346.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="458.5" y1="42.5" x2="458.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="571.5" y1="42.5" x2="571.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="109,125,249,329" text-anchor="end" x="120.39999999999998" y="249.5" transform="rotate(270.0, 125.39999999999998, 249.5)" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">blackboard</text>
+<text aria-label="222,238,249,297" text-anchor="end" x="233.2" y="249.5" transform="rotate(270.0, 238.2, 249.5)" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">coffin</text>
+<text aria-label="335,351,249,289" text-anchor="end" x="346.0" y="249.5" transform="rotate(270.0, 351.0, 249.5)" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">radar</text>
+<text aria-label="447,463,249,281" text-anchor="end" x="458.79999999999995" y="249.5" transform="rotate(270.0, 463.79999999999995, 249.5)" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">rail</text>
+<text aria-label="560,576,249,281" text-anchor="end" x="571.5999999999999" y="249.5" transform="rotate(270.0, 576.5999999999999, 249.5)" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">tank</text>
+<line aria-label="120,120,242,247" x1="120.5" y1="242.5" x2="120.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="233,233,242,247" x1="233.5" y1="242.5" x2="233.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="346,346,242,247" x1="346.5" y1="242.5" x2="346.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="458,458,242,247" x1="458.5" y1="242.5" x2="458.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="571,571,242,247" x1="571.5" y1="242.5" x2="571.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="64,628,242,242" x1="64.5" y1="242.5" x2="628.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="229,463,0,26" text-anchor="middle" x="346.0" y="25.259818181818176" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">criminal feed Folk</text>
+<text aria-label="54,62,232,248" text-anchor="end" x="62.5" y="247.5" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="38,62,196,212" text-anchor="end" x="62.5" y="211.13636363636363" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="38,62,159,175" text-anchor="end" x="62.5" y="174.77272727272725" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="38,62,123,139" text-anchor="end" x="62.5" y="138.40909090909093" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="38,62,87,103" text-anchor="end" x="62.5" y="102.04545454545453" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="22,62,50,66" text-anchor="end" x="62.5" y="65.68181818181819" font-family="sans-serif" font-size="15px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="3,15,124,160" text-anchor="middle" x="17.21337890625" y="142.5" transform="rotate(-90.0, 15.21337890625, 142.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Dollar</text>
+<path aria-label="Electric screenwriting: blackboard; Dollar: 722; East 24/7: cyan Electric" role="graphics-symbol" aria-roledescription="bar" d="M74.71599999999998,110.72727272727272h91.368v131.27272727272728h-91.368Z" fill="#acd5aa"/>
+<path aria-label="Electric screenwriting: blackboard; Dollar: 96; East 24/7: Republic" role="graphics-symbol" aria-roledescription="bar" d="M74.71599999999998,93.27272727272727h91.368v17.454545454545453h-91.368Z" fill="#fae442"/>
+<path aria-label="Electric screenwriting: tank; Dollar: 385; East 24/7: cyan Electric" role="graphics-symbol" aria-roledescription="bar" d="M525.9159999999999,172.0h91.368v70h-91.368Z" fill="#acd5aa"/>
+<path aria-label="Electric screenwriting: tank; Dollar: 376; East 24/7: Republic" role="graphics-symbol" aria-roledescription="bar" d="M525.9159999999999,103.63636363636365h91.368v68.36363636363635h-91.368Z" fill="#fae442"/>
+<path aria-label="Electric screenwriting: coffin; Dollar: 786; East 24/7: cyan Electric" role="graphics-symbol" aria-roledescription="bar" d="M187.51599999999996,99.09090909090908h91.368v142.90909090909093h-91.368Z" fill="#acd5aa"/>
+<path aria-label="Electric screenwriting: coffin; Dollar: 302; East 24/7: Republic" role="graphics-symbol" aria-roledescription="bar" d="M187.51599999999996,44.18181818181817h91.368v54.90909090909091h-91.368Z" fill="#fae442"/>
+<path aria-label="Electric screenwriting: rail; Dollar: 673; East 24/7: cyan Electric" role="graphics-symbol" aria-roledescription="bar" d="M413.116,119.63636363636364h91.368v122.36363636363636h-91.368Z" fill="#acd5aa"/>
+<path aria-label="Electric screenwriting: rail; Dollar: 346; East 24/7: Republic" role="graphics-symbol" aria-roledescription="bar" d="M413.116,56.72727272727272h91.368v62.90909090909092h-91.368Z" fill="#fae442"/>
+<path aria-label="Electric screenwriting: radar; Dollar: 219; East 24/7: cyan Electric" role="graphics-symbol" aria-roledescription="bar" d="M300.316,202.1818181818182h91.368v39.81818181818181h-91.368Z" fill="#acd5aa"/>
+<path aria-label="Electric screenwriting: radar; Dollar: 170; East 24/7: Republic" role="graphics-symbol" aria-roledescription="bar" d="M300.316,171.27272727272728h91.368v30.909090909090907h-91.368Z" fill="#fae442"/>
+<text aria-label="113,127,99,108" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.39999999999998" y="107.80527272727272" font-family="sans-serif" font-size="8.459999999999999px" fill="#000" opacity="1">722</text>
+<text aria-label="115,125,81,91" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.39999999999998" y="90.35072727272727" font-family="sans-serif" font-size="8.459999999999999px" fill="#000" opacity="1">96</text>
+<text aria-label="564,578,160,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="571.5999999999999" y="169.078" font-family="sans-serif" font-size="8.459999999999999px" fill="#000" opacity="1">385</text>
+<text aria-label="564,578,92,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="571.5999999999999" y="100.71436363636366" font-family="sans-serif" font-size="8.459999999999999px" fill="#000" opacity="1">376</text>
+<text aria-label="226,240,87,97" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="233.2" y="96.16890909090908" font-family="sans-serif" font-size="8.459999999999999px" fill="#000" opacity="1">786</text>
+<text aria-label="226,240,32,42" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="233.2" y="41.259818181818176" font-family="sans-serif" font-size="8.459999999999999px" fill="#000" opacity="1">302</text>
+<text aria-label="451,465,108,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="458.79999999999995" y="116.71436363636364" font-family="sans-serif" font-size="8.459999999999999px" fill="#000" opacity="1">673</text>
+<text aria-label="451,465,45,54" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="458.79999999999995" y="53.80527272727272" font-family="sans-serif" font-size="8.459999999999999px" fill="#000" opacity="1">346</text>
+<text aria-label="338,353,190,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="346.0" y="199.2598181818182" font-family="sans-serif" font-size="8.459999999999999px" fill="#000" opacity="1">219</text>
+<text aria-label="338,353,159,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="346.0" y="168.35072727272728" font-family="sans-serif" font-size="8.459999999999999px" fill="#000" opacity="1">170</text>
+</svg>

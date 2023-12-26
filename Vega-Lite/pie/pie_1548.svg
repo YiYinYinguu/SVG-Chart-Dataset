@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="239" viewBox="0 0 308 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="238,303,0,26" text-anchor="end" x="303.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Sleek</text>
+<path aria-label="olive: 127; West Southwest: newton" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.53771507378285,75.92822105719009A75,75,0,0,0,30.1566416474151,129.15523885970018L105.0,134.0Z" fill="#0e6ee8" stroke="black" stroke-width="0"/>
+<path aria-label="olive: 299; West Southwest: exploit" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.1566416474151,129.15523885970018A75,75,0,0,0,126.97423623252307,205.70866713304096L105.0,134.0Z" fill="#d6a193" stroke="black" stroke-width="0"/>
+<path aria-label="olive: 106; West Southwest: stealthily" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,57.53771507378285,75.92822105719009L105.0,134.0Z" fill="#8eefee" stroke="black" stroke-width="0"/>
+<path aria-label="olive: 179; West Southwest: Chips" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.67274565917546,103.84947755626446A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#fb0d66" stroke="black" stroke-width="0"/>
+<path aria-label="olive: 261; West Southwest: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.97423623252307,205.70866713304096A75,75,0,0,0,173.67274565917546,103.84947755626446L105.0,134.0Z" fill="#4ec562" stroke="black" stroke-width="0"/>
+<text aria-label="15,33,84,96" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="24.96848815175045" y="95.83014317144774" font-family="monospace" font-size="11px" fill="#0e6ee8" opacity="1">127</text>
+<text aria-label="40,58,196,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="49.1788057858566" y="207.5974098427618" font-family="monospace" font-size="11px" fill="#d6a193" opacity="1">299</text>
+<text aria-label="65,83,41,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="74.76551741656121" y="52.230453210414424" font-family="monospace" font-size="11px" fill="#8eefee" opacity="1">106</text>
+<text aria-label="145,163,50,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="154.2125165789993" y="61.64664432182387" font-family="monospace" font-size="11px" fill="#fb0d66" opacity="1">179</text>
+<text aria-label="177,195,163,175" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.81186428527457" y="174.50758406199765" font-family="monospace" font-size="11px" fill="#4ec562" opacity="1">261</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#fb0d66" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#4ec562" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#d6a193" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#0e6ee8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#8eefee" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Chips</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">exploit</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">newton</text>
+<text aria-label="239,294,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">stealthily</text>
+<text aria-label="223,307,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">West Southwest</text>
+</svg>

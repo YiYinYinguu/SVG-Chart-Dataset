@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="661" height="336" viewBox="0 0 661 336" style="background-color: rgb(255, 255, 255);">
+<line x1="105.5" y1="34.5" x2="105.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="203.5" y1="34.5" x2="203.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="301.5" y1="34.5" x2="301.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="400.5" y1="34.5" x2="400.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="498.5" y1="34.5" x2="498.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="596.5" y1="34.5" x2="596.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="234.5" x2="656.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="203.5" x2="656.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="172.5" x2="656.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="142.5" x2="656.5" y2="142.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="111.5" x2="656.5" y2="111.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="80.5" x2="656.5" y2="80.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="49.5" x2="656.5" y2="49.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="91,111,241,281" text-anchor="end" x="105.03225806451614" y="241.5" transform="rotate(270.0, 111.03225806451614, 241.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">comb</text>
+<text aria-label="189,209,241,341" text-anchor="end" x="203.4193548387097" y="241.5" transform="rotate(270.0, 209.4193548387097, 241.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">overflight</text>
+<text aria-label="287,307,241,301" text-anchor="end" x="301.80645161290323" y="241.5" transform="rotate(270.0, 307.80645161290323, 241.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">pickax</text>
+<text aria-label="386,406,241,341" text-anchor="end" x="400.1935483870968" y="241.5" transform="rotate(270.0, 406.1935483870968, 241.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">semicircle</text>
+<text aria-label="484,504,241,301" text-anchor="end" x="498.58064516129036" y="241.5" transform="rotate(270.0, 504.58064516129036, 241.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">shower</text>
+<text aria-label="582,602,241,311" text-anchor="end" x="596.9677419354839" y="241.5" transform="rotate(270.0, 602.9677419354839, 241.5)" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">vintage</text>
+<line aria-label="105,105,234,239" x1="105.5" y1="234.5" x2="105.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="203,203,234,239" x1="203.5" y1="234.5" x2="203.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="301,301,234,239" x1="301.5" y1="234.5" x2="301.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="400,400,234,239" x1="400.5" y1="234.5" x2="400.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="498,498,234,239" x1="498.5" y1="234.5" x2="498.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="596,596,234,239" x1="596.5" y1="234.5" x2="596.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,656,234,234" x1="46.5" y1="234.5" x2="656.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,187,0,26" text-anchor="start" x="5.57373046875" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Romania female</text>
+<text aria-label="29,39,221,241" text-anchor="end" x="39.5" y="240.5" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="9,39,190,210" text-anchor="end" x="39.5" y="209.73076923076923" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="9,39,159,179" text-anchor="end" x="39.5" y="178.96153846153845" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="9,39,129,149" text-anchor="end" x="39.5" y="148.19230769230768" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="9,39,98,118" text-anchor="end" x="39.5" y="117.42307692307692" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="9,39,67,87" text-anchor="end" x="39.5" y="86.65384615384615" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="9,39,36,56" text-anchor="end" x="39.5" y="55.88461538461537" font-family="Balto" font-size="19px" font-weight="normal" fill="#000" opacity="1">600</text>
+<line aria-label="41,46,234,234" x1="46.5" y1="234.5" x2="41.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,203,203" x1="46.5" y1="203.5" x2="41.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,172,172" x1="46.5" y1="172.5" x2="41.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,142,142" x1="46.5" y1="142.5" x2="41.5" y2="142.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,111,111" x1="46.5" y1="111.5" x2="41.5" y2="111.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,80,80" x1="46.5" y1="80.5" x2="41.5" y2="80.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,49,49" x1="46.5" y1="49.5" x2="41.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Hempstead express niches: semicircle; Lewisville indexing: 226; weber: veniam" role="graphics-symbol" aria-roledescription="bar" d="M360.8387096774194,164.46153846153845h78.70967741935485v69.53846153846155h-78.70967741935485Z" fill="#5a3ffd"/>
+<path aria-label="Hempstead express niches: overflight; Lewisville indexing: 498; weber: veniam" role="graphics-symbol" aria-roledescription="bar" d="M164.06451612903226,80.76923076923076h78.70967741935485v153.23076923076923h-78.70967741935485Z" fill="#5a3ffd"/>
+<path aria-label="Hempstead express niches: comb; Lewisville indexing: 154; weber: veniam" role="graphics-symbol" aria-roledescription="bar" d="M65.67741935483872,186.6153846153846h78.70967741935485v47.38461538461539h-78.70967741935485Z" fill="#5a3ffd"/>
+<path aria-label="Hempstead express niches: shower; Lewisville indexing: 159; weber: veniam" role="graphics-symbol" aria-roledescription="bar" d="M459.2258064516129,185.07692307692307h78.70967741935485v48.923076923076934h-78.70967741935485Z" fill="#5a3ffd"/>
+<path aria-label="Hempstead express niches: pickax; Lewisville indexing: 216; weber: veniam" role="graphics-symbol" aria-roledescription="bar" d="M262.45161290322585,167.53846153846155h78.70967741935485v66.46153846153845h-78.70967741935485Z" fill="#5a3ffd"/>
+<path aria-label="Hempstead express niches: vintage; Lewisville indexing: 645; weber: veniam" role="graphics-symbol" aria-roledescription="bar" d="M557.6129032258065,35.53846153846153h78.70967741935485v198.46153846153845h-78.70967741935485Z" fill="#5a3ffd"/>
+</svg>

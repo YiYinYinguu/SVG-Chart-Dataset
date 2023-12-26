@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="542" height="351" viewBox="0 0 542 351" style="background-color: rgb(255, 255, 255);">
+<line x1="78.5" y1="79.5" x2="78.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="79.5" x2="160.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="242.5" y1="79.5" x2="242.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="323.5" y1="79.5" x2="323.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="405.5" y1="79.5" x2="405.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="487.5" y1="79.5" x2="487.5" y2="279.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="69,82,286,312" text-anchor="end" x="78.16129032258064" y="286.5" transform="rotate(270.0, 82.16129032258064, 286.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">boat</text>
+<text aria-label="151,164,286,325" text-anchor="end" x="160.09677419354838" y="286.5" transform="rotate(270.0, 164.09677419354838, 286.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">buffer</text>
+<text aria-label="233,246,286,332" text-anchor="end" x="242.03225806451613" y="286.5" transform="rotate(270.0, 246.03225806451613, 286.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">closure</text>
+<text aria-label="314,327,286,338" text-anchor="end" x="323.96774193548384" y="286.5" transform="rotate(270.0, 327.96774193548384, 286.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">honeydew</text>
+<text aria-label="396,409,286,338" text-anchor="end" x="405.9032258064516" y="286.5" transform="rotate(270.0, 409.9032258064516, 286.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">scenario</text>
+<text aria-label="478,491,286,332" text-anchor="end" x="487.83870967741933" y="286.5" transform="rotate(270.0, 491.83870967741933, 286.5)" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">wingman</text>
+<line aria-label="78,78,279,284" x1="78.5" y1="279.5" x2="78.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="160,160,279,284" x1="160.5" y1="279.5" x2="160.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="242,242,279,284" x1="242.5" y1="279.5" x2="242.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="323,323,279,284" x1="323.5" y1="279.5" x2="323.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="405,405,279,284" x1="405.5" y1="279.5" x2="405.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="487,487,279,284" x1="487.5" y1="279.5" x2="487.5" y2="284.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="29,537,279,279" x1="29.5" y1="279.5" x2="537.5" y2="279.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,304,0,26" text-anchor="start" x="5.888671875" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Avon Southeast redefine</text>
+<text aria-label="21,27,271,284" text-anchor="end" x="27.5" y="283.5" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="14,27,242,255" text-anchor="end" x="27.5" y="254.92857142857144" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="8,27,214,227" text-anchor="end" x="27.5" y="226.35714285714286" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="8,27,185,198" text-anchor="end" x="27.5" y="197.78571428571428" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="8,27,157,170" text-anchor="end" x="27.5" y="169.21428571428572" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="8,27,128,141" text-anchor="end" x="27.5" y="140.64285714285714" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">250</text>
+<text aria-label="8,27,100,113" text-anchor="end" x="27.5" y="112.07142857142858" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="8,27,71,84" text-anchor="end" x="27.5" y="83.5" font-family="avenir" font-size="12px" font-weight="normal" fill="#000" opacity="1">350</text>
+<line aria-label="29,29,79,279" x1="29.5" y1="279.5" x2="29.5" y2="79.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Table pace Southeast: boat; lined Barium Wooden: 164; Luxurious East District: Hatchback DRAM" role="graphics-symbol" aria-roledescription="bar" d="M45.38709677419354,185.28571428571428h65.54838709677419v93.71428571428572h-65.54838709677419Z" fill="#3affae"/>
+<path aria-label="Table pace Southeast: buffer; lined Barium Wooden: 58; Luxurious East District: Hatchback DRAM" role="graphics-symbol" aria-roledescription="bar" d="M127.32258064516128,245.85714285714286h65.54838709677419v33.14285714285714h-65.54838709677419Z" fill="#3affae"/>
+<path aria-label="Table pace Southeast: scenario; lined Barium Wooden: 202; Luxurious East District: Hatchback DRAM" role="graphics-symbol" aria-roledescription="bar" d="M373.1290322580645,163.57142857142856h65.54838709677419v115.42857142857143h-65.54838709677419Z" fill="#3affae"/>
+<path aria-label="Table pace Southeast: honeydew; lined Barium Wooden: 339; Luxurious East District: Hatchback DRAM" role="graphics-symbol" aria-roledescription="bar" d="M291.19354838709677,85.28571428571429h65.54838709677419v193.7142857142857h-65.54838709677419Z" fill="#3affae"/>
+<path aria-label="Table pace Southeast: wingman; lined Barium Wooden: 340; Luxurious East District: Hatchback DRAM" role="graphics-symbol" aria-roledescription="bar" d="M455.06451612903226,84.71428571428572h65.54838709677419v194.28571428571428h-65.54838709677419Z" fill="#3affae"/>
+<path aria-label="Table pace Southeast: closure; lined Barium Wooden: 93; Luxurious East District: Hatchback DRAM" role="graphics-symbol" aria-roledescription="bar" d="M209.25806451612902,225.85714285714283h65.54838709677419v53.14285714285717h-65.54838709677419Z" fill="#3affae"/>
+<text aria-label="65,90,164,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="78.16129032258064" y="179.61771428571427" font-family="avenir" font-size="15.24px" fill="#000" opacity="1">164</text>
+<text aria-label="151,168,224,241" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.09677419354838" y="240.18914285714285" font-family="avenir" font-size="15.24px" fill="#000" opacity="1">58</text>
+<text aria-label="393,418,142,158" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="405.9032258064516" y="157.90342857142858" font-family="avenir" font-size="15.24px" fill="#000" opacity="1">202</text>
+<text aria-label="311,336,64,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="323.96774193548384" y="79.6177142857143" font-family="avenir" font-size="15.24px" fill="#000" opacity="1">339</text>
+<text aria-label="475,500,63,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="487.83870967741933" y="79.04628571428572" font-family="avenir" font-size="15.24px" fill="#000" opacity="1">340</text>
+<text aria-label="233,250,204,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="242.03225806451613" y="220.18914285714283" font-family="avenir" font-size="15.24px" fill="#000" opacity="1">93</text>
+<path  d="M30.0,51.0h10v10h-10Z" fill="#3affae" stroke-width="1.5" opacity="1"/>
+<text aria-label="45,122,49,60" text-anchor="start" x="45.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hatchback DRAM</text>
+<text aria-label="29,167,32,44" text-anchor="start" x="29.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Luxurious East District</text>
+</svg>

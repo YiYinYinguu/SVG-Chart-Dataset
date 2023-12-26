@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="259" height="270" viewBox="0 0 259 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="176,254,0,26" text-anchor="end" x="254.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">rudely</text>
+<path aria-label="ah mutate: 204; content: duh" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.69351765930769,196.60011594748107A75,75,0,0,0,170.35041341033877,170.80113404635532L149.43828111903036,159.0247711515216A51,51,0,0,1,76.91159200832922,176.56807884428713Z" fill="#aea2aa" stroke="black" stroke-width="3"/>
+<path aria-label="ah mutate: 135; content: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.35041341033877,170.80113404635532A75,75,0,0,0,168.01233459261255,93.32512213677042L147.84838752297654,106.34108305300389A51,51,0,0,1,149.43828111903036,159.0247711515216Z" fill="#ea9f85" stroke="black" stroke-width="3"/>
+<path aria-label="ah mutate: 318; content: synergistic" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,63.69351765930769,196.60011594748107L76.91159200832922,176.56807884428713A51,51,0,0,1,104.99999999999999,83.0Z" fill="#a18dfd" stroke="black" stroke-width="3"/>
+<path aria-label="ah mutate: 124; content: Corporate" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.01233459261255,93.32512213677042A75,75,0,0,0,105.0,59.0L105.0,83.0A51,51,0,0,1,147.84838752297654,106.34108305300389Z" fill="#f0a7ef" stroke="black" stroke-width="3"/>
+<text aria-label="119,132,215,224" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="126.1596623751408" y="223.4772466883249" font-family="Balto" font-size="8px" fill="#aea2aa" opacity="1">204</text>
+<text aria-label="188,201,125,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.95904567447343" y="133.28520694379813" font-family="Balto" font-size="8px" fill="#ea9f85" opacity="1">135</text>
+<text aria-label="12,25,102,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.800195701127137" y="110.12349059791836" font-family="Balto" font-size="8px" fill="#a18dfd" opacity="1">318</text>
+<text aria-label="141,154,48,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.05295106477143" y="56.965555581035446" font-family="Balto" font-size="8px" fill="#f0a7ef" opacity="1">124</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#f0a7ef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M92.0,258.25A5,5,0,1,1,82.0,258.25A5,5,0,1,1,92.0,258.25" fill="#ea9f85" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M152.0,258.25A5,5,0,1,1,142.0,258.25A5,5,0,1,1,152.0,258.25" fill="#aea2aa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M198.0,258.25A5,5,0,1,1,188.0,258.25A5,5,0,1,1,198.0,258.25" fill="#a18dfd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Corporate</text>
+<text aria-label="97,130,251,262" text-anchor="start" x="97.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="157,173,251,262" text-anchor="start" x="157.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">duh</text>
+<text aria-label="203,263,251,262" text-anchor="start" x="203.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">synergistic</text>
+</svg>

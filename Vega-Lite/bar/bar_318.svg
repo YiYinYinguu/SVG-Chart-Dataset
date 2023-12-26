@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1014" height="324" viewBox="0 0 1014 324" style="background-color: rgb(255, 255, 255);">
+<line x1="106.5" y1="41.5" x2="106.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="197.5" y1="41.5" x2="197.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="288.5" y1="41.5" x2="288.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="379.5" y1="41.5" x2="379.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="470.5" y1="41.5" x2="470.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="561.5" y1="41.5" x2="561.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="652.5" y1="41.5" x2="652.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="743.5" y1="41.5" x2="743.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="834.5" y1="41.5" x2="834.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="61.5" y1="241.5" x2="880.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="61.5" y1="201.5" x2="880.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="61.5" y1="161.5" x2="880.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="61.5" y1="121.5" x2="880.5" y2="121.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="61.5" y1="81.5" x2="880.5" y2="81.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="61.5" y1="41.5" x2="880.5" y2="41.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="95,111,248,296" text-anchor="end" x="106.50000000000001" y="248.5" transform="rotate(270.0, 111.50000000000001, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">answer</text>
+<text aria-label="186,202,248,272" text-anchor="end" x="197.5" y="248.5" transform="rotate(270.0, 202.5, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">ant</text>
+<text aria-label="277,293,248,272" text-anchor="end" x="288.5" y="248.5" transform="rotate(270.0, 293.5, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">app</text>
+<text aria-label="368,384,248,320" text-anchor="end" x="379.5" y="248.5" transform="rotate(270.0, 384.5, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">detention</text>
+<text aria-label="459,475,248,296" text-anchor="end" x="470.5" y="248.5" transform="rotate(270.0, 475.5, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">mimosa</text>
+<text aria-label="550,566,248,288" text-anchor="end" x="561.5" y="248.5" transform="rotate(270.0, 566.5, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">mocha</text>
+<text aria-label="641,657,248,320" text-anchor="end" x="652.5" y="248.5" transform="rotate(270.0, 657.5, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">operation</text>
+<text aria-label="732,748,248,304" text-anchor="end" x="743.5" y="248.5" transform="rotate(270.0, 748.5, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">percent</text>
+<text aria-label="823,839,248,288" text-anchor="end" x="834.5" y="248.5" transform="rotate(270.0, 839.5, 248.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">tempo</text>
+<line aria-label="106,106,241,246" x1="106.5" y1="241.5" x2="106.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="197,197,241,246" x1="197.5" y1="241.5" x2="197.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="288,288,241,246" x1="288.5" y1="241.5" x2="288.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="379,379,241,246" x1="379.5" y1="241.5" x2="379.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="470,470,241,246" x1="470.5" y1="241.5" x2="470.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="561,561,241,246" x1="561.5" y1="241.5" x2="561.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="652,652,241,246" x1="652.5" y1="241.5" x2="652.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="743,743,241,246" x1="743.5" y1="241.5" x2="743.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="834,834,241,246" x1="834.5" y1="241.5" x2="834.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="61,880,241,241" x1="61.5" y1="241.5" x2="880.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,330,0,26" text-anchor="start" x="5.20361328125" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Regional Quality Outdoors</text>
+<text aria-label="51,59,231,247" text-anchor="end" x="59.5" y="246.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="35,59,191,207" text-anchor="end" x="59.5" y="206.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="35,59,151,167" text-anchor="end" x="59.5" y="166.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="35,59,111,127" text-anchor="end" x="59.5" y="126.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="35,59,71,87" text-anchor="end" x="59.5" y="86.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="19,59,31,47" text-anchor="end" x="59.5" y="46.5" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<text aria-label="2,14,93,189" text-anchor="middle" x="16.70361328125" y="141.5" transform="rotate(-90.0, 14.70361328125, 141.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">nihil synthesize</text>
+<path aria-label="Minivan: detention; nihil synthesize: 207; libero Internal: ecstatic" role="graphics-symbol" aria-roledescription="bar" d="M346.74,101.60000000000001h65.52000000000001v41.39999999999999h-65.52000000000001Z" fill="#def48b"/>
+<path aria-label="Minivan: detention; nihil synthesize: 490; libero Internal: joule back although" role="graphics-symbol" aria-roledescription="bar" d="M346.74,143.0h65.52000000000001v98h-65.52000000000001Z" fill="#ae0cb8"/>
+<path aria-label="Minivan: answer; nihil synthesize: 347; libero Internal: ecstatic" role="graphics-symbol" aria-roledescription="bar" d="M73.74000000000001,82.39999999999999h65.52000000000001v69.40000000000002h-65.52000000000001Z" fill="#def48b"/>
+<path aria-label="Minivan: answer; nihil synthesize: 446; libero Internal: joule back although" role="graphics-symbol" aria-roledescription="bar" d="M73.74000000000001,151.8h65.52000000000001v89.19999999999999h-65.52000000000001Z" fill="#ae0cb8"/>
+<path aria-label="Minivan: mocha; nihil synthesize: 475; libero Internal: ecstatic" role="graphics-symbol" aria-roledescription="bar" d="M528.74,140.4h65.52000000000001v95h-65.52000000000001Z" fill="#def48b"/>
+<path aria-label="Minivan: mocha; nihil synthesize: 28; libero Internal: joule back although" role="graphics-symbol" aria-roledescription="bar" d="M528.74,235.4h65.52000000000001v5.599999999999994h-65.52000000000001Z" fill="#ae0cb8"/>
+<path aria-label="Minivan: mimosa; nihil synthesize: 476; libero Internal: ecstatic" role="graphics-symbol" aria-roledescription="bar" d="M437.74,57.599999999999994h65.52000000000001v95.19999999999999h-65.52000000000001Z" fill="#def48b"/>
+<path aria-label="Minivan: mimosa; nihil synthesize: 441; libero Internal: joule back although" role="graphics-symbol" aria-roledescription="bar" d="M437.74,152.79999999999998h65.52000000000001v88.20000000000002h-65.52000000000001Z" fill="#ae0cb8"/>
+<path aria-label="Minivan: operation; nihil synthesize: 491; libero Internal: ecstatic" role="graphics-symbol" aria-roledescription="bar" d="M619.74,50.20000000000001h65.52000000000001v98.19999999999997h-65.52000000000001Z" fill="#def48b"/>
+<path aria-label="Minivan: operation; nihil synthesize: 463; libero Internal: joule back although" role="graphics-symbol" aria-roledescription="bar" d="M619.74,148.39999999999998h65.52000000000001v92.60000000000002h-65.52000000000001Z" fill="#ae0cb8"/>
+<path aria-label="Minivan: percent; nihil synthesize: 347; libero Internal: ecstatic" role="graphics-symbol" aria-roledescription="bar" d="M710.74,110.0h65.52000000000001v69.39999999999998h-65.52000000000001Z" fill="#def48b"/>
+<path aria-label="Minivan: percent; nihil synthesize: 308; libero Internal: joule back although" role="graphics-symbol" aria-roledescription="bar" d="M710.74,179.39999999999998h65.52000000000001v61.60000000000002h-65.52000000000001Z" fill="#ae0cb8"/>
+<path aria-label="Minivan: tempo; nihil synthesize: 118; libero Internal: ecstatic" role="graphics-symbol" aria-roledescription="bar" d="M801.74,196.20000000000002h65.52000000000001v23.599999999999994h-65.52000000000001Z" fill="#def48b"/>
+<path aria-label="Minivan: tempo; nihil synthesize: 106; libero Internal: joule back although" role="graphics-symbol" aria-roledescription="bar" d="M801.74,219.8h65.52000000000001v21.19999999999999h-65.52000000000001Z" fill="#ae0cb8"/>
+<path aria-label="Minivan: app; nihil synthesize: 13; libero Internal: ecstatic" role="graphics-symbol" aria-roledescription="bar" d="M255.74,152.0h65.52000000000001v2.6000000000000227h-65.52000000000001Z" fill="#def48b"/>
+<path aria-label="Minivan: app; nihil synthesize: 432; libero Internal: joule back although" role="graphics-symbol" aria-roledescription="bar" d="M255.74,154.60000000000002h65.52000000000001v86.39999999999999h-65.52000000000001Z" fill="#ae0cb8"/>
+<path aria-label="Minivan: ant; nihil synthesize: 475; libero Internal: ecstatic" role="graphics-symbol" aria-roledescription="bar" d="M164.74,62.199999999999996h65.52000000000001v95h-65.52000000000001Z" fill="#def48b"/>
+<path aria-label="Minivan: ant; nihil synthesize: 419; libero Internal: joule back although" role="graphics-symbol" aria-roledescription="bar" d="M164.74,157.2h65.52000000000001v83.80000000000001h-65.52000000000001Z" fill="#ae0cb8"/>
+<path  d="M899.0,58.0h10v10h-10Z" fill="#def48b" stroke-width="1.5" opacity="1"/>
+<path  d="M899.0,71.0h10v10h-10Z" fill="#ae0cb8" stroke-width="1.5" opacity="1"/>
+<text aria-label="914,958,56,67" text-anchor="start" x="914.0" y="66.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">ecstatic</text>
+<text aria-label="914,1018,69,80" text-anchor="start" x="914.0" y="79.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">joule back although</text>
+<text aria-label="898,988,39,51" text-anchor="start" x="898.0" y="50.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">libero Internal</text>
+</svg>

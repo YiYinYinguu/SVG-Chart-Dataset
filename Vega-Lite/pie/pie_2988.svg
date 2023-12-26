@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="281" height="239" viewBox="0 0 281 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="27,183,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">applications</text>
+<path aria-label="Towels up: 263; Albania: Chips" role="graphics-symbol" aria-roledescription="arc mark"  d="M164.79061150011665,88.72216020565781A75,75,0,0,0,105.0,59.0L105.0,94.0A40,40,0,0,1,136.88832613339557,109.85181877635084Z" fill="#2e21ee" stroke="white" stroke-width="1"/>
+<path aria-label="Towels up: 71; Albania: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.10706524044065,104.85873143026406A75,75,0,0,0,164.79061150011665,88.72216020565781L136.88832613339557,109.85181877635084A40,40,0,0,1,141.85710146156833,118.45799009614083Z" fill="#ae5637" stroke="white" stroke-width="1"/>
+<path aria-label="Towels up: 439; Albania: neural" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.180602337458026,101.97611359172663A75,75,0,0,0,70.90969243802064,200.80457267530159L86.81850263361102,169.62910542682752A40,40,0,0,1,68.82965457997761,116.92059391558755Z" fill="#cb7eb0" stroke="white" stroke-width="1"/>
+<path aria-label="Towels up: 322; Albania: smooth" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,37.180602337458026,101.97611359172663L68.82965457997761,116.92059391558755A40,40,0,0,1,104.99999999999999,94.0Z" fill="#7cf2d6" stroke="white" stroke-width="1"/>
+<path aria-label="Towels up: 290; Albania: animi" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.90969243802064,200.80457267530159A75,75,0,0,0,143.91502350648508,198.11412438370905L125.75467920345872,168.19419967131148A40,40,0,0,1,86.81850263361102,169.62910542682752Z" fill="#22c3fc" stroke="white" stroke-width="1"/>
+<path aria-label="Towels up: 406; Albania: Korean" role="graphics-symbol" aria-roledescription="arc mark"  d="M143.91502350648508,198.11412438370905A75,75,0,0,0,174.10706524044065,104.85873143026406L141.85710146156833,118.45799009614083A40,40,0,0,1,125.75467920345872,168.19419967131148Z" fill="#bbbcbf" stroke="white" stroke-width="1"/>
+<text aria-label="137,152,47,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.06240945207267" y="56.40841638921296" font-family="avenir" font-size="9px" fill="#2e21ee" opacity="1">263</text>
+<text aria-label="177,187,83,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.94228634059948" y="92.0" font-family="avenir" font-size="9px" fill="#ae5637" opacity="1">71</text>
+<text aria-label="12,27,157,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.82397729547496" y="166.0696604080308" font-family="avenir" font-size="9px" fill="#cb7eb0" opacity="1">439</text>
+<text aria-label="49,64,51,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="56.82625057198431" y="60.97835922550239" font-family="avenir" font-size="9px" fill="#7cf2d6" opacity="1">322</text>
+<text aria-label="100,115,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.31449883749632" y="226.93894649959068" font-family="avenir" font-size="9px" fill="#22c3fc" opacity="1">290</text>
+<text aria-label="183,198,155,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.6243095737072" y="164.7214287154532" font-family="avenir" font-size="9px" fill="#bbbcbf" opacity="1">406</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#2e21ee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ae5637" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#bbbcbf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#22c3fc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#cb7eb0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#7cf2d6" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Chips</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="239,272,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Korean</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">animi</text>
+<text aria-label="239,272,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">neural</text>
+<text aria-label="239,272,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">smooth</text>
+<text aria-label="223,265,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Albania</text>
+</svg>

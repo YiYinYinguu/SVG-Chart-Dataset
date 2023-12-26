@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="519" height="381" viewBox="0 0 519 381" style="background-color: rgb(255, 255, 255);">
+<text aria-label="68,87,250,336" text-anchor="end" x="82.94117647058823" y="250.5" transform="rotate(270.0, 87.94117647058823, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">alpenglow</text>
+<text aria-label="113,132,250,288" text-anchor="end" x="127.84313725490195" y="250.5" transform="rotate(270.0, 132.84313725490193, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">beak</text>
+<text aria-label="158,177,250,336" text-anchor="end" x="172.74509803921566" y="250.5" transform="rotate(270.0, 177.74509803921566, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">dandelion</text>
+<text aria-label="203,222,250,279" text-anchor="end" x="217.6470588235294" y="250.5" transform="rotate(270.0, 222.6470588235294, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">fun</text>
+<text aria-label="248,267,250,326" text-anchor="end" x="262.5490196078431" y="250.5" transform="rotate(270.0, 267.5490196078431, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">overview</text>
+<text aria-label="293,312,250,298" text-anchor="end" x="307.45098039215685" y="250.5" transform="rotate(270.0, 312.45098039215685, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">pilot</text>
+<text aria-label="338,357,250,288" text-anchor="end" x="352.35294117647055" y="250.5" transform="rotate(270.0, 357.35294117647055, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">sofa</text>
+<text aria-label="383,402,250,298" text-anchor="end" x="397.25490196078425" y="250.5" transform="rotate(270.0, 402.25490196078425, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">spike</text>
+<text aria-label="428,447,250,336" text-anchor="end" x="442.15686274509795" y="250.5" transform="rotate(270.0, 447.15686274509795, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">telephone</text>
+<text aria-label="473,492,250,307" text-anchor="end" x="487.05882352941165" y="250.5" transform="rotate(270.0, 492.05882352941165, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">washer</text>
+<line aria-label="82,82,243,248" x1="82.5" y1="243.5" x2="82.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="127,127,243,248" x1="127.5" y1="243.5" x2="127.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="172,172,243,248" x1="172.5" y1="243.5" x2="172.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="217,217,243,248" x1="217.5" y1="243.5" x2="217.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="262,262,243,248" x1="262.5" y1="243.5" x2="262.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="307,307,243,248" x1="307.5" y1="243.5" x2="307.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="352,352,243,248" x1="352.5" y1="243.5" x2="352.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="397,397,243,248" x1="397.5" y1="243.5" x2="397.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="442,442,243,248" x1="442.5" y1="243.5" x2="442.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="487,487,243,248" x1="487.5" y1="243.5" x2="487.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,514,243,243" x1="56.5" y1="243.5" x2="514.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="397,514,0,26" text-anchor="end" x="514.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Unbranded</text>
+<text aria-label="40,49,230,249" text-anchor="end" x="49.5" y="248.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="21,49,180,199" text-anchor="end" x="49.5" y="198.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="21,49,130,149" text-anchor="end" x="49.5" y="148.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="21,49,80,99" text-anchor="end" x="49.5" y="98.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="21,49,30,49" text-anchor="end" x="49.5" y="48.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="51,56,243,243" x1="56.5" y1="243.5" x2="51.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,193,193" x1="56.5" y1="193.5" x2="51.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,143,143" x1="56.5" y1="143.5" x2="51.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,93,93" x1="56.5" y1="93.5" x2="51.5" y2="93.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,43,43" x1="56.5" y1="43.5" x2="51.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,122,164" text-anchor="middle" x="17.4453125" y="143.5" transform="rotate(-90.0, 15.4453125, 143.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Account</text>
+<path aria-label="Liaison Southeast: dandelion; Account: 416; Mayotte: distributed maroon" role="graphics-symbol" aria-roledescription="bar" d="M154.78431372549016,139.0h11.973856209150327v104h-11.973856209150327Z" fill="#be505a"/>
+<path aria-label="Liaison Southeast: dandelion; Account: 643; Mayotte: up RAM" role="graphics-symbol" aria-roledescription="bar" d="M178.73202614379085,82.25h11.973856209150327v160.75h-11.973856209150327Z" fill="#befa1a"/>
+<path aria-label="Liaison Southeast: dandelion; Account: 287; Mayotte: tan" role="graphics-symbol" aria-roledescription="bar" d="M166.7581699346405,171.25h11.973856209150327v71.75h-11.973856209150327Z" fill="#2507d3"/>
+<path aria-label="Liaison Southeast: sofa; Account: 612; Mayotte: distributed maroon" role="graphics-symbol" aria-roledescription="bar" d="M334.3921568627451,90.0h11.973856209150327v153h-11.973856209150327Z" fill="#be505a"/>
+<path aria-label="Liaison Southeast: sofa; Account: 296; Mayotte: up RAM" role="graphics-symbol" aria-roledescription="bar" d="M358.3398692810457,169.0h11.973856209150327v74h-11.973856209150327Z" fill="#befa1a"/>
+<path aria-label="Liaison Southeast: sofa; Account: 683; Mayotte: tan" role="graphics-symbol" aria-roledescription="bar" d="M346.3660130718954,72.25h11.973856209150327v170.75h-11.973856209150327Z" fill="#2507d3"/>
+<path aria-label="Liaison Southeast: alpenglow; Account: 294; Mayotte: distributed maroon" role="graphics-symbol" aria-roledescription="bar" d="M64.98039215686273,169.5h11.973856209150327v73.49999999999999h-11.973856209150327Z" fill="#be505a"/>
+<path aria-label="Liaison Southeast: alpenglow; Account: 585; Mayotte: up RAM" role="graphics-symbol" aria-roledescription="bar" d="M88.92810457516339,96.75h11.973856209150327v146.25h-11.973856209150327Z" fill="#befa1a"/>
+<path aria-label="Liaison Southeast: alpenglow; Account: 457; Mayotte: tan" role="graphics-symbol" aria-roledescription="bar" d="M76.95424836601306,128.75h11.973856209150327v114.25h-11.973856209150327Z" fill="#2507d3"/>
+<path aria-label="Liaison Southeast: spike; Account: 588; Mayotte: distributed maroon" role="graphics-symbol" aria-roledescription="bar" d="M379.2941176470588,96.0h11.973856209150327v147h-11.973856209150327Z" fill="#be505a"/>
+<path aria-label="Liaison Southeast: spike; Account: 432; Mayotte: up RAM" role="graphics-symbol" aria-roledescription="bar" d="M403.2418300653594,135.0h11.973856209150327v108h-11.973856209150327Z" fill="#befa1a"/>
+<path aria-label="Liaison Southeast: spike; Account: 206; Mayotte: tan" role="graphics-symbol" aria-roledescription="bar" d="M391.2679738562091,191.5h11.973856209150327v51.5h-11.973856209150327Z" fill="#2507d3"/>
+<path aria-label="Liaison Southeast: beak; Account: 234; Mayotte: distributed maroon" role="graphics-symbol" aria-roledescription="bar" d="M109.88235294117646,184.5h11.973856209150327v58.5h-11.973856209150327Z" fill="#be505a"/>
+<path aria-label="Liaison Southeast: beak; Account: 486; Mayotte: up RAM" role="graphics-symbol" aria-roledescription="bar" d="M133.83006535947712,121.49999999999999h11.973856209150327v121.50000000000001h-11.973856209150327Z" fill="#befa1a"/>
+<path aria-label="Liaison Southeast: beak; Account: 227; Mayotte: tan" role="graphics-symbol" aria-roledescription="bar" d="M121.85620915032678,186.25h11.973856209150327v56.75h-11.973856209150327Z" fill="#2507d3"/>
+<path aria-label="Liaison Southeast: washer; Account: 197; Mayotte: distributed maroon" role="graphics-symbol" aria-roledescription="bar" d="M469.0980392156862,193.75h11.973856209150327v49.25h-11.973856209150327Z" fill="#be505a"/>
+<path aria-label="Liaison Southeast: washer; Account: 545; Mayotte: up RAM" role="graphics-symbol" aria-roledescription="bar" d="M493.0457516339868,106.75h11.973856209150327v136.25h-11.973856209150327Z" fill="#befa1a"/>
+<path aria-label="Liaison Southeast: washer; Account: 707; Mayotte: tan" role="graphics-symbol" aria-roledescription="bar" d="M481.0718954248365,66.25h11.973856209150327v176.75h-11.973856209150327Z" fill="#2507d3"/>
+<path aria-label="Liaison Southeast: pilot; Account: 35; Mayotte: distributed maroon" role="graphics-symbol" aria-roledescription="bar" d="M289.4901960784314,234.25h11.973856209150327v8.75h-11.973856209150327Z" fill="#be505a"/>
+<path aria-label="Liaison Southeast: pilot; Account: 312; Mayotte: up RAM" role="graphics-symbol" aria-roledescription="bar" d="M313.437908496732,165.0h11.973856209150327v78h-11.973856209150327Z" fill="#befa1a"/>
+<path aria-label="Liaison Southeast: pilot; Account: 319; Mayotte: tan" role="graphics-symbol" aria-roledescription="bar" d="M301.4640522875817,163.25h11.973856209150327v79.74999999999999h-11.973856209150327Z" fill="#2507d3"/>
+<path aria-label="Liaison Southeast: overview; Account: 478; Mayotte: distributed maroon" role="graphics-symbol" aria-roledescription="bar" d="M244.58823529411762,123.5h11.973856209150327v119.5h-11.973856209150327Z" fill="#be505a"/>
+<path aria-label="Liaison Southeast: overview; Account: 264; Mayotte: up RAM" role="graphics-symbol" aria-roledescription="bar" d="M268.5359477124183,177.0h11.973856209150327v66h-11.973856209150327Z" fill="#befa1a"/>
+<path aria-label="Liaison Southeast: overview; Account: 204; Mayotte: tan" role="graphics-symbol" aria-roledescription="bar" d="M256.56209150326794,192.0h11.973856209150327v51h-11.973856209150327Z" fill="#2507d3"/>
+<path aria-label="Liaison Southeast: fun; Account: 122; Mayotte: distributed maroon" role="graphics-symbol" aria-roledescription="bar" d="M199.6862745098039,212.5h11.973856209150327v30.5h-11.973856209150327Z" fill="#be505a"/>
+<path aria-label="Liaison Southeast: fun; Account: 511; Mayotte: up RAM" role="graphics-symbol" aria-roledescription="bar" d="M223.63398692810455,115.24999999999999h11.973856209150327v127.75000000000001h-11.973856209150327Z" fill="#befa1a"/>
+<path aria-label="Liaison Southeast: fun; Account: 580; Mayotte: tan" role="graphics-symbol" aria-roledescription="bar" d="M211.66013071895424,98.0h11.973856209150327v145h-11.973856209150327Z" fill="#2507d3"/>
+<path aria-label="Liaison Southeast: telephone; Account: 49; Mayotte: distributed maroon" role="graphics-symbol" aria-roledescription="bar" d="M424.1960784313725,230.75h11.973856209150327v12.25h-11.973856209150327Z" fill="#be505a"/>
+<path aria-label="Liaison Southeast: telephone; Account: 655; Mayotte: up RAM" role="graphics-symbol" aria-roledescription="bar" d="M448.1437908496731,79.25h11.973856209150327v163.75h-11.973856209150327Z" fill="#befa1a"/>
+<path aria-label="Liaison Southeast: telephone; Account: 276; Mayotte: tan" role="graphics-symbol" aria-roledescription="bar" d="M436.1699346405228,174.0h11.973856209150327v69h-11.973856209150327Z" fill="#2507d3"/>
+<path  d="M57.0,366.0h10v10h-10Z" fill="#be505a" stroke-width="1.5" opacity="1"/>
+<path  d="M173.0,366.0h10v10h-10Z" fill="#befa1a" stroke-width="1.5" opacity="1"/>
+<path  d="M229.0,366.0h10v10h-10Z" fill="#2507d3" stroke-width="1.5" opacity="1"/>
+<text aria-label="72,171,364,375" text-anchor="start" x="72.0" y="374.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">distributed maroon</text>
+<text aria-label="188,221,364,375" text-anchor="start" x="188.0" y="374.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">up RAM</text>
+<text aria-label="244,260,364,375" text-anchor="start" x="244.0" y="374.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">tan</text>
+<text aria-label="56,98,347,359" text-anchor="start" x="56.0" y="358.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Mayotte</text>
+</svg>

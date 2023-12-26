@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="681" height="302" viewBox="0 0 681 302" style="background-color: rgb(255, 255, 255);">
+<line x1="132.5" y1="34.5" x2="132.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="350.5" y1="34.5" x2="350.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="567.5" y1="34.5" x2="567.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="123,136,241,267" text-anchor="end" x="132.66666666666669" y="241.5" transform="rotate(270.0, 136.66666666666669, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">bond</text>
+<text aria-label="341,354,241,293" text-anchor="end" x="350.0" y="241.5" transform="rotate(270.0, 354.0, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">bondsman</text>
+<text aria-label="558,571,241,287" text-anchor="end" x="567.3333333333334" y="241.5" transform="rotate(270.0, 571.3333333333334, 241.5)" font-family="serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">mention</text>
+<line aria-label="132,132,234,239" x1="132.5" y1="234.5" x2="132.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="350,350,234,239" x1="350.5" y1="234.5" x2="350.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="567,567,234,239" x1="567.5" y1="234.5" x2="567.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="24,676,234,234" x1="24.5" y1="234.5" x2="676.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="390,676,0,26" text-anchor="end" x="676.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Extended North Account</text>
+<text aria-label="11,17,226,239" text-anchor="end" x="17.5" y="238.5" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="4,17,195,208" text-anchor="end" x="17.5" y="207.73076923076923" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="4,17,164,177" text-anchor="end" x="17.5" y="176.96153846153845" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="4,17,134,147" text-anchor="end" x="17.5" y="146.19230769230768" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="4,17,103,116" text-anchor="end" x="17.5" y="115.42307692307692" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">40</text>
+<text aria-label="4,17,72,85" text-anchor="end" x="17.5" y="84.65384615384615" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="4,17,41,54" text-anchor="end" x="17.5" y="53.88461538461537" font-family="serif" font-size="12px" font-weight="normal" fill="#000" opacity="1">60</text>
+<line aria-label="19,24,234,234" x1="24.5" y1="234.5" x2="19.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,203,203" x1="24.5" y1="203.5" x2="19.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,172,172" x1="24.5" y1="172.5" x2="19.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,142,142" x1="24.5" y1="142.5" x2="19.5" y2="142.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,111,111" x1="24.5" y1="111.5" x2="19.5" y2="111.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,80,80" x1="24.5" y1="80.5" x2="19.5" y2="80.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="19,24,49,49" x1="24.5" y1="49.5" x2="19.5" y2="49.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Developer knowledge plum: bondsman; pish payment: 61; Robust: male programming" role="graphics-symbol" aria-roledescription="bar" d="M271.76,46.30769230769231h156.48000000000002v187.69230769230768h-156.48000000000002Z" fill="#3cac89"/>
+<path aria-label="Developer knowledge plum: bond; pish payment: 2; Robust: male programming" role="graphics-symbol" aria-roledescription="bar" d="M54.42666666666668,227.84615384615384h156.48000000000002v6.15384615384616h-156.48000000000002Z" fill="#3cac89"/>
+<path aria-label="Developer knowledge plum: mention; pish payment: 12; Robust: male programming" role="graphics-symbol" aria-roledescription="bar" d="M489.09333333333336,197.07692307692307h156.48000000000002v36.923076923076934h-156.48000000000002Z" fill="#3cac89"/>
+</svg>

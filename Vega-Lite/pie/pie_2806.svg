@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="280" height="239" viewBox="0 0 280 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="80,275,0,26" text-anchor="end" x="275.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">through invoice</text>
+<path aria-label="Dynamic: 119; Developer Classical Regional: drive" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.0,59.0A75,75,0,0,0,126.03193301744183,77.19217997500964L175.0,134.0Z" fill="#81bb9f" stroke="white" stroke-width="4"/>
+<path aria-label="Dynamic: 382; Developer Classical Regional: Carson" role="graphics-symbol" aria-roledescription="arc mark"  d="M231.7345702494401,183.0529156993888A75,75,0,0,0,175.0,59.0L175.0,134.0Z" fill="#aa5fb9" stroke="white" stroke-width="4"/>
+<path aria-label="Dynamic: 154; Developer Classical Regional: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.03193301744183,77.19217997500964A75,75,0,0,0,100.14076588121311,138.59293665846292L175.0,134.0Z" fill="#68b4bf" stroke="white" stroke-width="4"/>
+<path aria-label="Dynamic: 144; Developer Classical Regional: Metrics" role="graphics-symbol" aria-roledescription="arc mark"  d="M100.14076588121311,138.59293665846292A75,75,0,0,0,129.69197967314483,193.76774459573724L175.0,134.0Z" fill="#bf7a0a" stroke="white" stroke-width="4"/>
+<path aria-label="Dynamic: 252; Developer Classical Regional: Folk" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.69197967314483,193.76774459573724A75,75,0,0,0,231.7345702494401,183.0529156993888L175.0,134.0Z" fill="#ada3cd" stroke="white" stroke-width="4"/>
+<text aria-label="136,151,43,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.65709460419282" y="52.63399807179742" font-family="avenir" font-size="9px" fill="#81bb9f" opacity="1">119</text>
+<text aria-label="249,264,90,100" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="256.8465481725833" y="99.5681612496393" font-family="avenir" font-size="9px" fill="#aa5fb9" opacity="1">382</text>
+<text aria-label="84,99,93,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.07128825935031" y="102.03103134154182" font-family="avenir" font-size="9px" fill="#68b4bf" opacity="1">154</text>
+<text aria-label="88,103,170,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="95.66278143336024" y="179.4924199135473" font-family="avenir" font-size="9px" fill="#bf7a0a" opacity="1">144</text>
+<text aria-label="176,191,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.39864333337982" y="226.50790749141618" font-family="avenir" font-size="9px" fill="#ada3cd" opacity="1">252</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#aa5fb9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ada3cd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#bf7a0a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#68b4bf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#81bb9f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Carson</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Folk</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Metrics</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">drive</text>
+</svg>

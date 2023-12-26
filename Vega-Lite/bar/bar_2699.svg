@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="565" height="316" viewBox="0 0 565 316" style="background-color: rgb(255, 255, 255);">
+<line x1="133.5" y1="34.5" x2="133.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="304.5" y1="34.5" x2="304.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="474.5" y1="34.5" x2="474.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="48.5" y1="234.5" x2="560.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="48.5" y1="198.5" x2="560.5" y2="198.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="48.5" y1="161.5" x2="560.5" y2="161.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="48.5" y1="125.5" x2="560.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="48.5" y1="89.5" x2="560.5" y2="89.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="48.5" y1="52.5" x2="560.5" y2="52.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="124,137,241,280" text-anchor="end" x="133.33333333333337" y="241.5" transform="rotate(270.0, 137.33333333333337, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">leaker</text>
+<text aria-label="295,308,241,280" text-anchor="end" x="304.0" y="241.5" transform="rotate(270.0, 308.0, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">puffin</text>
+<text aria-label="465,478,241,306" text-anchor="end" x="474.6666666666667" y="241.5" transform="rotate(270.0, 478.6666666666667, 241.5)" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">underneath</text>
+<line aria-label="133,133,234,239" x1="133.5" y1="234.5" x2="133.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="304,304,234,239" x1="304.5" y1="234.5" x2="304.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="474,474,234,239" x1="474.5" y1="234.5" x2="474.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="48,560,234,234" x1="48.5" y1="234.5" x2="560.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="521,560,0,26" text-anchor="end" x="560.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">who</text>
+<text aria-label="35,41,226,239" text-anchor="end" x="41.5" y="238.5" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="22,41,190,203" text-anchor="end" x="41.5" y="202.13636363636363" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="22,41,153,166" text-anchor="end" x="41.5" y="165.77272727272725" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="22,41,117,130" text-anchor="end" x="41.5" y="129.40909090909093" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="22,41,81,94" text-anchor="end" x="41.5" y="93.04545454545453" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="22,41,44,57" text-anchor="end" x="41.5" y="56.68181818181819" font-family="monospace" font-size="12px" font-weight="bold" fill="#000" opacity="1">500</text>
+<line aria-label="43,48,234,234" x1="48.5" y1="234.5" x2="43.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,198,198" x1="48.5" y1="198.5" x2="43.5" y2="198.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,161,161" x1="48.5" y1="161.5" x2="43.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,125,125" x1="48.5" y1="125.5" x2="43.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,89,89" x1="48.5" y1="89.5" x2="43.5" y2="89.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="43,48,52,52" x1="48.5" y1="52.5" x2="43.5" y2="52.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,83,185" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">FTP Fresh Manager</text>
+<line aria-label="48,48,34,234" x1="48.5" y1="234.5" x2="48.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="BMW Southwest marten: underneath; FTP Fresh Manager: 12; Soft forecast: channels Nickel" role="graphics-symbol" aria-roledescription="bar" d="M428.58666666666664,122.72727272727272h92.16000000000001v4.363636363636374h-92.16000000000001Z" fill="#ece7d6"/>
+<path aria-label="BMW Southwest marten: underneath; FTP Fresh Manager: 137; Soft forecast: copy the" role="graphics-symbol" aria-roledescription="bar" d="M428.58666666666664,127.0909090909091h92.16000000000001v49.81818181818181h-92.16000000000001Z" fill="#e00c2d"/>
+<path aria-label="BMW Southwest marten: underneath; FTP Fresh Manager: 157; Soft forecast: non male Venezuela" role="graphics-symbol" aria-roledescription="bar" d="M428.58666666666664,176.9090909090909h92.16000000000001v57.09090909090909h-92.16000000000001Z" fill="#2ee77f"/>
+<path aria-label="BMW Southwest marten: leaker; FTP Fresh Manager: 147; Soft forecast: channels Nickel" role="graphics-symbol" aria-roledescription="bar" d="M87.25333333333336,43.81818181818181h92.16000000000001v53.45454545454547h-92.16000000000001Z" fill="#ece7d6"/>
+<path aria-label="BMW Southwest marten: leaker; FTP Fresh Manager: 194; Soft forecast: copy the" role="graphics-symbol" aria-roledescription="bar" d="M87.25333333333336,97.27272727272728h92.16000000000001v70.54545454545453h-92.16000000000001Z" fill="#e00c2d"/>
+<path aria-label="BMW Southwest marten: leaker; FTP Fresh Manager: 182; Soft forecast: non male Venezuela" role="graphics-symbol" aria-roledescription="bar" d="M87.25333333333336,167.8181818181818h92.16000000000001v66.18181818181819h-92.16000000000001Z" fill="#2ee77f"/>
+<path aria-label="BMW Southwest marten: puffin; FTP Fresh Manager: 175; Soft forecast: channels Nickel" role="graphics-symbol" aria-roledescription="bar" d="M257.92,123.0909090909091h92.16000000000001v63.636363636363654h-92.16000000000001Z" fill="#ece7d6"/>
+<path aria-label="BMW Southwest marten: puffin; FTP Fresh Manager: 14; Soft forecast: copy the" role="graphics-symbol" aria-roledescription="bar" d="M257.92,186.72727272727275h92.16000000000001v5.090909090909065h-92.16000000000001Z" fill="#e00c2d"/>
+<path aria-label="BMW Southwest marten: puffin; FTP Fresh Manager: 116; Soft forecast: non male Venezuela" role="graphics-symbol" aria-roledescription="bar" d="M257.92,191.8181818181818h92.16000000000001v42.18181818181819h-92.16000000000001Z" fill="#2ee77f"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="374" height="239" viewBox="0 0 374 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="-8,369,0,26" text-anchor="end" x="369.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Security Malaysia parallelism</text>
+<path aria-label="South West Rap: 240; teal Trans: SQL" role="graphics-symbol" aria-roledescription="arc mark"  d="M223.62299122627837,193.71538390356034A75,75,0,0,0,268.5972336470161,208.99891852063539L268.7905614964484,172.9994376307304A39,39,0,0,1,245.40395543766476,165.05199962985137Z" fill="#ab6bec" stroke="black" stroke-width="0"/>
+<path aria-label="South West Rap: 327; teal Trans: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M268.5972336470161,208.99891852063539A75,75,0,0,0,326.45333323392333,182.20907072649044L298.8757332816401,159.06871677777502A39,39,0,0,1,268.7905614964484,172.9994376307304Z" fill="#94eaeb" stroke="black" stroke-width="0"/>
+<path aria-label="South West Rap: 293; teal Trans: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.67491155655688,144.03898540064463A75,75,0,0,0,223.62299122627837,193.71538390356034L245.40395543766476,165.05199962985137A39,39,0,0,1,230.35095400940958,139.2202724083352Z" fill="#c9e0df" stroke="black" stroke-width="0"/>
+<path aria-label="South West Rap: 635; teal Trans: commonly" role="graphics-symbol" aria-roledescription="arc mark"  d="M269.0,59.0A75,75,0,0,0,194.67491155655688,144.03898540064463L230.35095400940958,139.2202724083352A39,39,0,0,1,269.0,95.0Z" fill="#e01889" stroke="black" stroke-width="0"/>
+<path aria-label="South West Rap: 209; teal Trans: Implemented" role="graphics-symbol" aria-roledescription="arc mark"  d="M326.45333323392333,182.20907072649044A75,75,0,0,0,343.2978646387047,144.23852089555487L307.63488961212647,139.3240308656885A39,39,0,0,1,298.8757332816401,159.06871677777502Z" fill="#ec8e63" stroke="black" stroke-width="0"/>
+<path aria-label="South West Rap: 168; teal Trans: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M301.6967148340708,66.50240864253409A75,75,0,0,0,269.0,59.0L269.0,95.0A39,39,0,0,1,286.0022917137168,98.90125249411773Z" fill="#a55fe2" stroke="black" stroke-width="0"/>
+<path aria-label="South West Rap: 468; teal Trans: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M343.2978646387047,144.23852089555487A75,75,0,0,0,301.6967148340708,66.50240864253409L286.0022917137168,98.90125249411773A39,39,0,0,1,307.63488961212647,139.3240308656885Z" fill="#fcc6df" stroke="black" stroke-width="0"/>
+<path  d="M82.0,40.0A5,5,0,1,1,72.0,40.0A5,5,0,1,1,82.0,40.0" fill="#a55fe2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,56.0A5,5,0,1,1,72.0,56.0A5,5,0,1,1,82.0,56.0" fill="#fcc6df" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,72.0A5,5,0,1,1,72.0,72.0A5,5,0,1,1,82.0,72.0" fill="#ec8e63" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,88.0A5,5,0,1,1,72.0,88.0A5,5,0,1,1,82.0,88.0" fill="#94eaeb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,104.0A5,5,0,1,1,72.0,104.0A5,5,0,1,1,82.0,104.0" fill="#ab6bec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,120.0A5,5,0,1,1,72.0,120.0A5,5,0,1,1,82.0,120.0" fill="#c9e0df" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M82.0,136.0A5,5,0,1,1,72.0,136.0A5,5,0,1,1,82.0,136.0" fill="#e01889" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="87,109,33,44" text-anchor="start" x="87.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="87,131,49,60" text-anchor="start" x="87.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="87,147,65,76" text-anchor="start" x="87.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Implemented</text>
+<text aria-label="87,136,81,92" text-anchor="start" x="87.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="87,103,97,108" text-anchor="start" x="87.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">SQL</text>
+<text aria-label="87,114,113,124" text-anchor="start" x="87.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="87,131,129,140" text-anchor="start" x="87.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">commonly</text>
+</svg>

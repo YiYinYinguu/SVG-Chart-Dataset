@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="376" height="239" viewBox="0 0 376 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="18,369,0,26" text-anchor="middle" x="194.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">protocol Hybrid perferendis</text>
+<path aria-label="dedicated: 261; Solutions leading Czech: incidentally" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.6145922180387,124.41818863098781A75,75,0,0,0,220.32938614276253,204.2265151160536L214.361391950403,188.30850502308147A58,58,0,0,1,136.4752846486166,126.59006587463058Z" fill="#9dbe4a" stroke="black" stroke-width="0"/>
+<path aria-label="dedicated: 232; Solutions leading Czech: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M266.5141030545432,153.14953937292188A75,75,0,0,0,194.0,59.0L194.0,76.0A58,58,0,0,1,250.07757302884676,148.80897711505958Z" fill="#8e8969" stroke="black" stroke-width="0"/>
+<path aria-label="dedicated: 121; Solutions leading Czech: enterprise" role="graphics-symbol" aria-roledescription="arc mark"  d="M220.32938614276253,204.2265151160536A75,75,0,0,0,266.5141030545432,153.14953937292188L250.07757302884676,148.80897711505958A58,58,0,0,1,214.361391950403,188.30850502308147Z" fill="#de0ccc" stroke="black" stroke-width="0"/>
+<path aria-label="dedicated: 183; Solutions leading Czech: steradian" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,119.6145922180387,124.41818863098781L136.4752846486166,126.59006587463058A58,58,0,0,1,194.0,76.0Z" fill="#86afbd" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#8e8969" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#de0ccc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#9dbe4a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#86afbd" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="21,76,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">enterprise</text>
+<text aria-label="21,87,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">incidentally</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">steradian</text>
+</svg>

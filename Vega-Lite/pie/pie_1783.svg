@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="298" height="239" viewBox="0 0 298 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,280,0,26" text-anchor="middle" x="176.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">VGA primary West</text>
+<path aria-label="Money: 528; Oklahoma Computer Shoes: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.58250216460527,207.60119398601077A75,75,0,0,0,248.21817541919842,154.23697455455934L227.03417729623357,148.3007953518886A53,53,0,0,1,165.81163486298775,186.01151041678094Z" fill="#cd0cc7" stroke="white" stroke-width="1"/>
+<path aria-label="Money: 551; Oklahoma Computer Shoes: Serena" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.21817541919842,154.23697455455934A75,75,0,0,0,197.30538146345012,62.089773184220334L191.05580290083807,83.18343971684904A53,53,0,0,1,227.03417729623357,148.3007953518886Z" fill="#17d27e" stroke="white" stroke-width="1"/>
+<path aria-label="Money: 361; Oklahoma Computer Shoes: tosser" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.6693971141661,63.40707855995629A75,75,0,0,0,102.59881110099653,118.59657608799881L124.12982651137088,123.1149137688525A53,53,0,0,1,158.0997072940107,84.11433551570244Z" fill="#f71cd0" stroke="white" stroke-width="1"/>
+<path aria-label="Money: 122; Oklahoma Computer Shoes: worse" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.0,59.0A75,75,0,0,0,150.6693971141661,63.40707855995629L158.0997072940107,84.11433551570244A53,53,0,0,1,176.0,81.0Z" fill="#b1bffc" stroke="white" stroke-width="1"/>
+<path aria-label="Money: 561; Oklahoma Computer Shoes: bah" role="graphics-symbol" aria-roledescription="arc mark"  d="M102.59881110099653,118.59657608799881A75,75,0,0,0,161.58250216460527,207.60119398601077L165.81163486298775,186.01151041678094A53,53,0,0,1,124.12982651137088,123.1149137688525Z" fill="#10b35f" stroke="white" stroke-width="1"/>
+<path aria-label="Money: 102; Oklahoma Computer Shoes: Identity" role="graphics-symbol" aria-roledescription="arc mark"  d="M197.30538146345012,62.089773184220334A75,75,0,0,0,176.0,59.0L176.0,81.0A53,53,0,0,1,191.05580290083807,83.18343971684904Z" fill="#d6e0b3" stroke="white" stroke-width="1"/>
+<text aria-label="214,232,202,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="223.20081533281999" y="213.62951801960537" font-family="avenir" font-size="11px" fill="#cd0cc7" opacity="1">528</text>
+<text aria-label="245,263,82,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="254.77559564009914" y="93.47523082717623" font-family="avenir" font-size="11px" fill="#17d27e" opacity="1">551</text>
+<text aria-label="99,117,66,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.13406565353111" y="77.88811494055722" font-family="avenir" font-size="11px" fill="#f71cd0" opacity="1">361</text>
+<text aria-label="151,169,37,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.5733269225786" y="48.331980073070525" font-family="avenir" font-size="11px" fill="#b1bffc" opacity="1">122</text>
+<text aria-label="91,109,175,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.97853807813944" y="186.7170016302957" font-family="avenir" font-size="11px" fill="#10b35f" opacity="1">561</text>
+<text aria-label="179,197,36,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="188.9169559861408" y="47.93175510850064" font-family="avenir" font-size="11px" fill="#d6e0b3" opacity="1">102</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#d6e0b3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#17d27e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#cd0cc7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#10b35f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#f71cd0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#b1bffc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Identity</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Serena</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">bah</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">tosser</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">worse</text>
+</svg>

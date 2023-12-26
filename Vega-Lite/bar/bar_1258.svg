@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="401" height="318" viewBox="0 0 401 318" style="background-color: rgb(255, 255, 255);">
+<line x1="63.5" y1="243.5" x2="396.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="63.5" y1="210.5" x2="396.5" y2="210.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="63.5" y1="176.5" x2="396.5" y2="176.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="63.5" y1="143.5" x2="396.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="63.5" y1="110.5" x2="396.5" y2="110.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="63.5" y1="76.5" x2="396.5" y2="76.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="63.5" y1="43.5" x2="396.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="90,110,250,310" text-anchor="end" x="104.625" y="250.5" transform="rotate(270.0, 110.625, 250.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">hatbox</text>
+<text aria-label="173,193,250,290" text-anchor="end" x="187.875" y="250.5" transform="rotate(270.0, 193.875, 250.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">park</text>
+<text aria-label="257,277,250,280" text-anchor="end" x="271.125" y="250.5" transform="rotate(270.0, 277.125, 250.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">rib</text>
+<text aria-label="340,360,250,300" text-anchor="end" x="354.375" y="250.5" transform="rotate(270.0, 360.375, 250.5)" font-family="avenir" font-size="19px" font-weight="normal" fill="#000" opacity="1">venom</text>
+<line aria-label="104,104,243,248" x1="104.5" y1="243.5" x2="104.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="187,187,243,248" x1="187.5" y1="243.5" x2="187.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="271,271,243,248" x1="271.5" y1="243.5" x2="271.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="354,354,243,248" x1="354.5" y1="243.5" x2="354.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="63,396,243,243" x1="63.5" y1="243.5" x2="396.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,122,0,26" text-anchor="start" x="5.84814453125" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">ROI error</text>
+<text aria-label="46,56,230,250" text-anchor="end" x="56.5" y="249.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="26,56,197,217" text-anchor="end" x="56.5" y="216.16666666666669" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="26,56,163,183" text-anchor="end" x="56.5" y="182.83333333333334" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="26,56,130,150" text-anchor="end" x="56.5" y="149.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="26,56,97,117" text-anchor="end" x="56.5" y="116.16666666666667" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="26,56,63,83" text-anchor="end" x="56.5" y="82.83333333333333" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="26,56,30,50" text-anchor="end" x="56.5" y="49.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="58,63,243,243" x1="63.5" y1="243.5" x2="58.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,210,210" x1="63.5" y1="210.5" x2="58.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,176,176" x1="63.5" y1="176.5" x2="58.5" y2="176.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,143,143" x1="63.5" y1="143.5" x2="58.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,110,110" x1="63.5" y1="110.5" x2="58.5" y2="110.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,76,76" x1="63.5" y1="76.5" x2="58.5" y2="76.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="58,63,43,43" x1="63.5" y1="43.5" x2="58.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,86,200" text-anchor="middle" x="17.34814453125" y="143.5" transform="rotate(-90.0, 15.34814453125, 143.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Corporate Developer</text>
+<line aria-label="63,63,43,243" x1="63.5" y1="243.5" x2="63.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Crew helpfully Hydrogen: venom; Corporate Developer: 300; Katelin Gasoline: ivory Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M328.15125,143.0h52.447500000000005v100h-52.447500000000005Z" fill="#f6f5fc"/>
+<path aria-label="Crew helpfully Hydrogen: venom; Corporate Developer: 264; Katelin Gasoline: Legacy" role="graphics-symbol" aria-roledescription="bar" d="M328.15125,55.000000000000014h52.447500000000005v87.99999999999999h-52.447500000000005Z" fill="#6ee7d7"/>
+<path aria-label="Crew helpfully Hydrogen: rib; Corporate Developer: 70; Katelin Gasoline: ivory Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M244.90125,219.66666666666666h52.447500000000005v23.333333333333343h-52.447500000000005Z" fill="#f6f5fc"/>
+<path aria-label="Crew helpfully Hydrogen: rib; Corporate Developer: 201; Katelin Gasoline: Legacy" role="graphics-symbol" aria-roledescription="bar" d="M244.90125,152.66666666666669h52.447500000000005v66.99999999999999h-52.447500000000005Z" fill="#6ee7d7"/>
+<path aria-label="Crew helpfully Hydrogen: hatbox; Corporate Developer: 55; Katelin Gasoline: ivory Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M78.40124999999999,224.66666666666666h52.447500000000005v18.333333333333343h-52.447500000000005Z" fill="#f6f5fc"/>
+<path aria-label="Crew helpfully Hydrogen: hatbox; Corporate Developer: 61; Katelin Gasoline: Legacy" role="graphics-symbol" aria-roledescription="bar" d="M78.40124999999999,204.33333333333331h52.447500000000005v20.333333333333343h-52.447500000000005Z" fill="#6ee7d7"/>
+<path aria-label="Crew helpfully Hydrogen: park; Corporate Developer: 131; Katelin Gasoline: ivory Hybrid" role="graphics-symbol" aria-roledescription="bar" d="M161.65125,199.33333333333334h52.447500000000005v43.66666666666666h-52.447500000000005Z" fill="#f6f5fc"/>
+<path aria-label="Crew helpfully Hydrogen: park; Corporate Developer: 195; Katelin Gasoline: Legacy" role="graphics-symbol" aria-roledescription="bar" d="M161.65125,134.33333333333331h52.447500000000005v65.00000000000001h-52.447500000000005Z" fill="#6ee7d7"/>
+</svg>

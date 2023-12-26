@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1000" height="357" viewBox="0 0 1000 357" style="background-color: rgb(255, 255, 255);">
+<line x1="125.5" y1="43.5" x2="125.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="256.5" y1="43.5" x2="256.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="388.5" y1="43.5" x2="388.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="520.5" y1="43.5" x2="520.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="652.5" y1="43.5" x2="652.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="784.5" y1="43.5" x2="784.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="915.5" y1="43.5" x2="915.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="243.5" x2="995.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="210.5" x2="995.5" y2="210.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="176.5" x2="995.5" y2="176.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="143.5" x2="995.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="110.5" x2="995.5" y2="110.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="76.5" x2="995.5" y2="76.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="46.5" y1="43.5" x2="995.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="111,130,250,298" text-anchor="end" x="125.08333333333337" y="250.5" transform="rotate(270.0, 130.08333333333337, 250.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">dwarf</text>
+<text aria-label="242,261,250,307" text-anchor="end" x="256.8888888888889" y="250.5" transform="rotate(270.0, 261.8888888888889, 250.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">gutter</text>
+<text aria-label="374,393,250,336" text-anchor="end" x="388.69444444444446" y="250.5" transform="rotate(270.0, 393.69444444444446, 250.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">marmalade</text>
+<text aria-label="506,525,250,345" text-anchor="end" x="520.5" y="250.5" transform="rotate(270.0, 525.5, 250.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">storyboard</text>
+<text aria-label="638,657,250,307" text-anchor="end" x="652.3055555555554" y="250.5" transform="rotate(270.0, 657.3055555555554, 250.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">thirst</text>
+<text aria-label="770,789,250,298" text-anchor="end" x="784.1111111111111" y="250.5" transform="rotate(270.0, 789.1111111111111, 250.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">trial</text>
+<text aria-label="901,920,250,307" text-anchor="end" x="915.9166666666665" y="250.5" transform="rotate(270.0, 920.9166666666665, 250.5)" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">vision</text>
+<line aria-label="125,125,243,248" x1="125.5" y1="243.5" x2="125.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="256,256,243,248" x1="256.5" y1="243.5" x2="256.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="388,388,243,248" x1="388.5" y1="243.5" x2="388.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="520,520,243,248" x1="520.5" y1="243.5" x2="520.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="652,652,243,248" x1="652.5" y1="243.5" x2="652.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="784,784,243,248" x1="784.5" y1="243.5" x2="784.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="915,915,243,248" x1="915.5" y1="243.5" x2="915.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,995,243,243" x1="46.5" y1="243.5" x2="995.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="670,995,0,26" text-anchor="end" x="995.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">blue interfaces rewarding</text>
+<text aria-label="30,39,230,249" text-anchor="end" x="39.5" y="248.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="11,39,197,216" text-anchor="end" x="39.5" y="215.16666666666669" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="11,39,163,182" text-anchor="end" x="39.5" y="181.83333333333334" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="11,39,130,149" text-anchor="end" x="39.5" y="148.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="11,39,97,116" text-anchor="end" x="39.5" y="115.16666666666667" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="11,39,63,82" text-anchor="end" x="39.5" y="81.83333333333333" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="11,39,30,49" text-anchor="end" x="39.5" y="48.5" font-family="avenir" font-size="18px" font-weight="bold" fill="#000" opacity="1">600</text>
+<line aria-label="41,46,243,243" x1="46.5" y1="243.5" x2="41.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,210,210" x1="46.5" y1="210.5" x2="41.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,176,176" x1="46.5" y1="176.5" x2="41.5" y2="176.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,143,143" x1="46.5" y1="143.5" x2="41.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,110,110" x1="46.5" y1="110.5" x2="41.5" y2="110.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,76,76" x1="46.5" y1="76.5" x2="41.5" y2="76.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="41,46,43,43" x1="46.5" y1="43.5" x2="41.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,46,43,243" x1="46.5" y1="243.5" x2="46.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="withdrawal Program: vision; Bigender Club: 596; Generic Convertible: Handmade optical technologies" role="graphics-symbol" aria-roledescription="bar" d="M863.1944444444443,44.33333333333334h52.72222222222222v198.66666666666666h-52.72222222222222Z" fill="#ef805e"/>
+<path aria-label="withdrawal Program: vision; Bigender Club: 200; Generic Convertible: psst leverage" role="graphics-symbol" aria-roledescription="bar" d="M915.9166666666665,176.33333333333334h52.72222222222222v66.66666666666666h-52.72222222222222Z" fill="#c26e9c"/>
+<path aria-label="withdrawal Program: dwarf; Bigender Club: 10; Generic Convertible: Handmade optical technologies" role="graphics-symbol" aria-roledescription="bar" d="M72.36111111111114,239.66666666666666h52.72222222222222v3.333333333333343h-52.72222222222222Z" fill="#ef805e"/>
+<path aria-label="withdrawal Program: dwarf; Bigender Club: 205; Generic Convertible: psst leverage" role="graphics-symbol" aria-roledescription="bar" d="M125.08333333333337,174.66666666666666h52.72222222222222v68.33333333333334h-52.72222222222222Z" fill="#c26e9c"/>
+<path aria-label="withdrawal Program: thirst; Bigender Club: 513; Generic Convertible: Handmade optical technologies" role="graphics-symbol" aria-roledescription="bar" d="M599.5833333333333,72.0h52.72222222222222v171h-52.72222222222222Z" fill="#ef805e"/>
+<path aria-label="withdrawal Program: thirst; Bigender Club: 143; Generic Convertible: psst leverage" role="graphics-symbol" aria-roledescription="bar" d="M652.3055555555554,195.33333333333334h52.72222222222222v47.66666666666666h-52.72222222222222Z" fill="#c26e9c"/>
+<path aria-label="withdrawal Program: marmalade; Bigender Club: 579; Generic Convertible: Handmade optical technologies" role="graphics-symbol" aria-roledescription="bar" d="M335.97222222222223,50.00000000000001h52.72222222222222v193h-52.72222222222222Z" fill="#ef805e"/>
+<path aria-label="withdrawal Program: marmalade; Bigender Club: 441; Generic Convertible: psst leverage" role="graphics-symbol" aria-roledescription="bar" d="M388.69444444444446,96.0h52.72222222222222v147h-52.72222222222222Z" fill="#c26e9c"/>
+<path aria-label="withdrawal Program: trial; Bigender Club: 231; Generic Convertible: Handmade optical technologies" role="graphics-symbol" aria-roledescription="bar" d="M731.3888888888889,166.0h52.72222222222222v77h-52.72222222222222Z" fill="#ef805e"/>
+<path aria-label="withdrawal Program: trial; Bigender Club: 525; Generic Convertible: psst leverage" role="graphics-symbol" aria-roledescription="bar" d="M784.1111111111111,68.0h52.72222222222222v175h-52.72222222222222Z" fill="#c26e9c"/>
+<path aria-label="withdrawal Program: gutter; Bigender Club: 425; Generic Convertible: Handmade optical technologies" role="graphics-symbol" aria-roledescription="bar" d="M204.16666666666669,101.33333333333333h52.72222222222222v141.66666666666669h-52.72222222222222Z" fill="#ef805e"/>
+<path aria-label="withdrawal Program: gutter; Bigender Club: 390; Generic Convertible: psst leverage" role="graphics-symbol" aria-roledescription="bar" d="M256.8888888888889,113.0h52.72222222222222v130h-52.72222222222222Z" fill="#c26e9c"/>
+<path aria-label="withdrawal Program: storyboard; Bigender Club: 442; Generic Convertible: Handmade optical technologies" role="graphics-symbol" aria-roledescription="bar" d="M467.77777777777777,95.66666666666666h52.72222222222222v147.33333333333334h-52.72222222222222Z" fill="#ef805e"/>
+<path aria-label="withdrawal Program: storyboard; Bigender Club: 173; Generic Convertible: psst leverage" role="graphics-symbol" aria-roledescription="bar" d="M520.5,185.33333333333334h52.72222222222222v57.66666666666666h-52.72222222222222Z" fill="#c26e9c"/>
+</svg>

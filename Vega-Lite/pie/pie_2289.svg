@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="211" height="270" viewBox="0 0 211 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">slim Savings brr</text>
+<path aria-label="West age Shoal: 1; Gulfport Electric Orchestrator: circuit" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,40.048094716167114,202.50000000000003L105.0,165.0Z" fill="#bcf4b1" stroke="white" stroke-width="2"/>
+<path aria-label="West age Shoal: 1; Gulfport Electric Orchestrator: Rap" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.9519052838329,202.5A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#8fbeff" stroke="white" stroke-width="2"/>
+<path aria-label="West age Shoal: 1; Gulfport Electric Orchestrator: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.048094716167114,202.50000000000003A75,75,0,0,0,169.9519052838329,202.5L105.0,165.0Z" fill="#f0f3c8" stroke="white" stroke-width="2"/>
+<text aria-label="24,29,113,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="27.05771365940052" y="123.0" font-family="sans-serif" font-size="10px" fill="#bcf4b1" opacity="1">1</text>
+<text aria-label="180,185,113,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="182.94228634059948" y="123.0" font-family="sans-serif" font-size="10px" fill="#8fbeff" opacity="1">1</text>
+<text aria-label="102,107,248,259" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="105.0" y="258.0" font-family="sans-serif" font-size="10px" fill="#f0f3c8" opacity="1">1</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#8fbeff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M62.0,40.25A5,5,0,1,1,52.0,40.25A5,5,0,1,1,62.0,40.25" fill="#f0f3c8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M113.0,40.25A5,5,0,1,1,103.0,40.25A5,5,0,1,1,113.0,40.25" fill="#bcf4b1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Rap</text>
+<text aria-label="67,94,33,44" text-anchor="start" x="67.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="118,156,33,44" text-anchor="start" x="118.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">circuit</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="386" height="286" viewBox="0 0 386 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="173,381,0,26" text-anchor="end" x="381.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">auxiliary Dollar</text>
+<path aria-label="deposit: 44; meatloaf oof: mindshare" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,80.16119491915775,63.232537404850206L87.11606034179358,83.04742693149214A54,54,0,0,1,104.99999999999999,80.0Z" fill="#5982e3" stroke="white" stroke-width="1"/>
+<path aria-label="deposit: 10; meatloaf oof: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.58967248124375,189.36862864691963A75,75,0,0,0,159.68446191704766,185.32844849440676L144.3728125802743,170.95648291597286A54,54,0,0,1,141.4245641864955,173.86541262578214Z" fill="#4c9842" stroke="white" stroke-width="1"/>
+<path aria-label="deposit: 126; meatloaf oof: Planner" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.16119491915775,63.232537404850206A75,75,0,0,0,32.64947053660569,114.24143511369024L52.9076187863561,119.77383328185697A54,54,0,0,1,87.11606034179358,83.04742693149214Z" fill="#b5d926" stroke="white" stroke-width="1"/>
+<path aria-label="deposit: 336; meatloaf oof: Ohio" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.64947053660569,114.24143511369024A75,75,0,0,0,155.58967248124375,189.36862864691963L141.4245641864955,173.86541262578214A54,54,0,0,1,52.9076187863561,119.77383328185697Z" fill="#eb7af2" stroke="white" stroke-width="1"/>
+<path aria-label="deposit: 73; meatloaf oof: Cargo" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.68446191704766,185.32844849440676A75,75,0,0,0,178.59722672067858,148.4377359383331L157.99000323888856,144.39516987559983A54,54,0,0,1,144.3728125802743,170.95648291597286Z" fill="#e555c5" stroke="white" stroke-width="1"/>
+<path aria-label="deposit: 230; meatloaf oof: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.59722672067858,148.4377359383331A75,75,0,0,0,105.0,59.0L105.0,80.0A54,54,0,0,1,157.99000323888856,144.39516987559983Z" fill="#c1b1c9" stroke="white" stroke-width="1"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#c1b1c9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M113.0,274.25A5,5,0,1,1,103.0,274.25A5,5,0,1,1,113.0,274.25" fill="#e555c5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M165.0,274.25A5,5,0,1,1,155.0,274.25A5,5,0,1,1,165.0,274.25" fill="#4c9842" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M222.0,274.25A5,5,0,1,1,212.0,274.25A5,5,0,1,1,222.0,274.25" fill="#eb7af2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M269.0,274.25A5,5,0,1,1,259.0,274.25A5,5,0,1,1,269.0,274.25" fill="#b5d926" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M331.0,274.25A5,5,0,1,1,321.0,274.25A5,5,0,1,1,331.0,274.25" fill="#5982e3" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="118,145,267,278" text-anchor="start" x="118.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cargo</text>
+<text aria-label="170,203,267,278" text-anchor="start" x="170.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="227,249,267,278" text-anchor="start" x="227.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Ohio</text>
+<text aria-label="274,312,267,278" text-anchor="start" x="274.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Planner</text>
+<text aria-label="336,385,267,278" text-anchor="start" x="336.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">mindshare</text>
+<text aria-label="5,77,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">meatloaf oof</text>
+</svg>

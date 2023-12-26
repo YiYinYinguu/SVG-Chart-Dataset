@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">before SCSI</text>
+<path aria-label="secondary: 75; mint EXE: gold" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.93208615412847,135.76605950304906A75,75,0,1,0,140.48201676270077,98.92408542856616L105.0,165.0Z" fill="#a272a8" stroke="black" stroke-width="4"/>
+<path aria-label="secondary: 19; mint EXE: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,35.93208615412847,135.76605950304906L105.0,165.0Z" fill="#7d7754" stroke="black" stroke-width="4"/>
+<path aria-label="secondary: 8; mint EXE: anyone" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.48201676270077,98.92408542856616A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#d176f7" stroke="black" stroke-width="4"/>
+<text aria-label="128,141,241,254" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="134.91193195316936" y="253.88389910241497" font-family="serif" font-size="12px" fill="#a272a8" opacity="1">75</text>
+<text aria-label="48,61,81,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="55.28715243355446" y="93.97578533009927" font-family="serif" font-size="12px" fill="#7d7754" opacity="1">19</text>
+<text aria-label="123,130,69,82" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="126.95223480975395" y="81.71827575684915" font-family="serif" font-size="12px" fill="#d176f7" opacity="1">8</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#d176f7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,40.25A5,5,0,1,1,63.0,40.25A5,5,0,1,1,73.0,40.25" fill="#a272a8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M120.0,40.25A5,5,0,1,1,110.0,40.25A5,5,0,1,1,120.0,40.25" fill="#7d7754" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">anyone</text>
+<text aria-label="78,100,33,44" text-anchor="start" x="78.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">gold</text>
+<text aria-label="125,147,33,44" text-anchor="start" x="125.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">male</text>
+</svg>

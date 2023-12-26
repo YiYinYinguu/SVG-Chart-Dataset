@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="356" height="239" viewBox="0 0 356 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">procedure</text>
+<path aria-label="circuit Hawaii hit: 186; Automotive Southwest: black" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.01721691393138,132.39306482159947A75,75,0,0,0,188.75160683847284,175.83464531710456L208.67109265016154,162.44755881563108A51,51,0,0,1,200.01170750147332,132.90728407868764Z" fill="#b033b3" stroke="white" stroke-width="1"/>
+<path aria-label="circuit Hawaii hit: 470; Automotive Southwest: compressing" role="graphics-symbol" aria-roledescription="arc mark"  d="M251.0,59.0A75,75,0,0,0,176.01721691393138,132.39306482159947L200.01170750147332,132.90728407868764A51,51,0,0,1,251.0,83.0Z" fill="#99cb53" stroke="white" stroke-width="1"/>
+<path aria-label="circuit Hawaii hit: 115; Automotive Southwest: Refined" role="graphics-symbol" aria-roledescription="arc mark"  d="M312.83162842804865,176.4482005029156A75,75,0,0,0,324.1509013861174,150.55130286105955L300.74261294255984,145.2548859455205A51,51,0,0,1,293.0455073310731,162.8647763419826Z" fill="#26648c" stroke="white" stroke-width="1"/>
+<path aria-label="circuit Hawaii hit: 591; Automotive Southwest: Regional" role="graphics-symbol" aria-roledescription="arc mark"  d="M188.75160683847284,175.83464531710456A75,75,0,0,0,312.83162842804865,176.4482005029156L293.0455073310731,162.8647763419826A51,51,0,0,1,208.67109265016154,162.44755881563108Z" fill="#d5beae" stroke="white" stroke-width="1"/>
+<path aria-label="circuit Hawaii hit: 544; Automotive Southwest: Fort" role="graphics-symbol" aria-roledescription="arc mark"  d="M324.1509013861174,150.55130286105955A75,75,0,0,0,251.0,59.0L251.0,83.0A51,51,0,0,1,300.74261294255984,145.2548859455205Z" fill="#cfc1bc" stroke="white" stroke-width="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#cfc1bc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#26648c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#d5beae" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#b033b3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#99cb53" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Fort</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Refined</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Regional</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">black</text>
+<text aria-label="21,81,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">compressing</text>
+<text aria-label="5,125,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Automotive Southwest</text>
+</svg>

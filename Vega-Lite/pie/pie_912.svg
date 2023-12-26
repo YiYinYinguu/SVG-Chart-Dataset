@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="148,239,0,26" text-anchor="middle" x="194.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">IB cyan</text>
+<path aria-label="respray East Oriental: 306; for rusty: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M155.53255419455706,198.38365952013996A75,75,0,0,0,242.88288807074304,190.88113267036098L227.24036388810526,172.67917021584546A51,51,0,0,1,167.84213685229878,177.78088847369517Z" fill="#ad9b5e" stroke="black" stroke-width="0"/>
+<path aria-label="respray East Oriental: 596; for rusty: DRAM" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.88288807074304,190.88113267036098A75,75,0,0,0,194.0,59.0L194.0,83.0A51,51,0,0,1,227.24036388810526,172.67917021584546Z" fill="#c75cab" stroke="black" stroke-width="0"/>
+<path aria-label="respray East Oriental: 474; for rusty: flexibility" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.47789327595356,75.17233995851583A75,75,0,0,0,155.53255419455706,198.38365952013996L167.84213685229878,177.78088847369517A51,51,0,0,1,162.36496742764842,93.99719117179076Z" fill="#c0e1ec" stroke="black" stroke-width="0"/>
+<path aria-label="respray East Oriental: 164; for rusty: withdrawal" role="graphics-symbol" aria-roledescription="arc mark"  d="M194.0,59.0A75,75,0,0,0,147.47789327595356,75.17233995851583L162.36496742764842,93.99719117179076A51,51,0,0,1,194.0,83.0Z" fill="#2182fa" stroke="black" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#c75cab" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ad9b5e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#c0e1ec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#2182fa" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">DRAM</text>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="21,81,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">flexibility</text>
+<text aria-label="21,76,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">withdrawal</text>
+</svg>

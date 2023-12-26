@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="250" height="286" viewBox="0 0 250 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,135,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Equatorial</text>
+<path aria-label="Accountability boost: 440; Shoes Mount: Computers" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.45457392354976,146.40655743780772A75,75,0,0,0,119.44415203693953,254.59596776953055L114.05166860981544,227.12013980223912A47,47,0,0,1,63.298199658757845,159.32144266102617Z" fill="#eca4df" stroke="white" stroke-width="2"/>
+<path aria-label="Accountability boost: 578; Shoes Mount: Albania" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.44415203693953,254.59596776953055A75,75,0,0,0,105.0,106.0L105.0,134.0A47,47,0,0,1,114.05166860981544,227.12013980223912Z" fill="#0177b2" stroke="white" stroke-width="2"/>
+<path aria-label="Accountability boost: 59; Shoes Mount: azure" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.69721456170294,128.23814763942732A75,75,0,0,0,38.45457392354976,146.40655743780772L63.298199658757845,159.32144266102617A47,47,0,0,1,71.59692112533384,147.93590585404112Z" fill="#dbbe31" stroke="white" stroke-width="2"/>
+<path aria-label="Accountability boost: 155; Shoes Mount: kelvin" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,51.69721456170294,128.23814763942732L71.59692112533384,147.93590585404112A47,47,0,0,1,104.99999999999999,134.0Z" fill="#06d88e" stroke="white" stroke-width="2"/>
+<text aria-label="23,42,226,239" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="32.95128831680758" y="238.93498998602124" font-family="sans-serif" font-size="12px" fill="#eca4df" opacity="1">440</text>
+<text aria-label="184,204,164,177" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.57780003747942" y="176.29266168996796" font-family="sans-serif" font-size="12px" fill="#0177b2" opacity="1">578</text>
+<text aria-label="25,38,119,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="32.269493536489236" y="131.98798787481067" font-family="sans-serif" font-size="12px" fill="#dbbe31" opacity="1">59</text>
+<text aria-label="60,80,89,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="70.3465734374063" y="101.93893795844573" font-family="sans-serif" font-size="12px" fill="#06d88e" opacity="1">155</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#0177b2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M79.0,56.25A5,5,0,1,1,69.0,56.25A5,5,0,1,1,79.0,56.25" fill="#eca4df" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M159.0,56.25A5,5,0,1,1,149.0,56.25A5,5,0,1,1,159.0,56.25" fill="#dbbe31" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M212.0,56.25A5,5,0,1,1,202.0,56.25A5,5,0,1,1,212.0,56.25" fill="#06d88e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Albania</text>
+<text aria-label="84,133,49,60" text-anchor="start" x="84.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Computers</text>
+<text aria-label="164,191,49,60" text-anchor="start" x="164.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">azure</text>
+<text aria-label="217,250,49,60" text-anchor="start" x="217.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">kelvin</text>
+<text aria-label="5,71,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Shoes Mount</text>
+</svg>

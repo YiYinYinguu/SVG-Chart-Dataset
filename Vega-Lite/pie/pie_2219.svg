@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="334" height="286" viewBox="0 0 334 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,330,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Roentgenium unwritten ADP</text>
+<path aria-label="Agent HDD: 245; payment Rancho: Soft" role="graphics-symbol" aria-roledescription="arc mark"  d="M50.03748909848278,232.03060253809082A75,75,0,0,0,178.63593942524062,195.23897555873646L105.0,181.0Z" fill="#fcad89" stroke="black" stroke-width="3"/>
+<path aria-label="Agent HDD: 196; payment Rancho: Jazz" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.63593942524062,195.23897555873646A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#cb9ca3" stroke="black" stroke-width="3"/>
+<path aria-label="Agent HDD: 44; payment Rancho: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.61962120050404,206.9152904679739A75,75,0,0,0,50.03748909848278,232.03060253809082L105.0,181.0Z" fill="#ae953a" stroke="black" stroke-width="3"/>
+<path aria-label="Agent HDD: 214; payment Rancho: smooth" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,34.61962120050404,206.9152904679739L105.0,181.0Z" fill="#d5f253" stroke="black" stroke-width="3"/>
+<text aria-label="122,137,261,271" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="129.75551392119905" y="270.5284030275453" font-family="monospace" font-size="9px" fill="#fcad89" opacity="1">245</text>
+<text aria-label="166,181,117,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="174.41833100969632" y="126.719153988194" font-family="monospace" font-size="9px" fill="#cb9ca3" opacity="1">196</text>
+<text aria-label="23,33,222,232" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="28.299395024337016" y="231.0852120773317" font-family="monospace" font-size="9px" fill="#ae953a" opacity="1">44</text>
+<text aria-label="23,38,123,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="31.179774551478175" y="132.51627135949252" font-family="monospace" font-size="9px" fill="#d5f253" opacity="1">214</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#cb9ca3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,56.25A5,5,0,1,1,53.0,56.25A5,5,0,1,1,63.0,56.25" fill="#fcad89" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M110.0,56.25A5,5,0,1,1,100.0,56.25A5,5,0,1,1,110.0,56.25" fill="#ae953a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M172.0,56.25A5,5,0,1,1,162.0,56.25A5,5,0,1,1,172.0,56.25" fill="#d5f253" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Jazz</text>
+<text aria-label="68,90,49,60" text-anchor="start" x="68.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Soft</text>
+<text aria-label="115,153,49,60" text-anchor="start" x="115.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="177,210,49,60" text-anchor="start" x="177.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">smooth</text>
+<text aria-label="5,89,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">payment Rancho</text>
+</svg>

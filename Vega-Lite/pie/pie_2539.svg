@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="279" height="239" viewBox="0 0 279 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="157,274,0,26" text-anchor="end" x="274.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Berkshire</text>
+<path aria-label="infrastructure Idaho lime: 247; latency: users" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,40.99933011109617,94.89866685429308L57.21283314961847,104.80433791787218A56,56,0,0,1,104.99999999999999,78.0Z" fill="#a48d3c" stroke="black" stroke-width="0"/>
+<path aria-label="infrastructure Idaho lime: 887; latency: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M67.09745968935302,198.71782936718273A75,75,0,1,0,105.0,59.0L105.0,78.0A56,56,0,1,1,76.69943656805026,182.32264592749644Z" fill="#3a6062" stroke="black" stroke-width="0"/>
+<path aria-label="infrastructure Idaho lime: 384; latency: hacking" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.99933011109617,94.89866685429308A75,75,0,0,0,67.09745968935302,198.71782936718273L76.69943656805026,182.32264592749644A56,56,0,0,1,57.21283314961847,104.80433791787218Z" fill="#e2b292" stroke="black" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#3a6062" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#e2b292" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#a48d3c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">hacking</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">users</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="767" height="345" viewBox="0 0 767 345" style="background-color: rgb(255, 255, 255);">
+<line x1="79.5" y1="43.5" x2="79.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="159.5" y1="43.5" x2="159.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="239.5" y1="43.5" x2="239.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="320.5" y1="43.5" x2="320.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="400.5" y1="43.5" x2="400.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="480.5" y1="43.5" x2="480.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="561.5" y1="43.5" x2="561.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="641.5" y1="43.5" x2="641.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="721.5" y1="43.5" x2="721.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="243.5" x2="762.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="193.5" x2="762.5" y2="193.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="143.5" x2="762.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="93.5" x2="762.5" y2="93.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="43.5" x2="762.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="66,84,250,331" text-anchor="end" x="79.16666666666666" y="250.5" transform="rotate(270.0, 84.16666666666666, 250.5)" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">consonant</text>
+<text aria-label="146,164,250,322" text-anchor="end" x="159.49999999999997" y="250.5" transform="rotate(270.0, 164.49999999999997, 250.5)" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">delivery</text>
+<text aria-label="226,244,250,331" text-anchor="end" x="239.83333333333331" y="250.5" transform="rotate(270.0, 244.83333333333331, 250.5)" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">editorial</text>
+<text aria-label="307,325,250,340" text-anchor="end" x="320.16666666666663" y="250.5" transform="rotate(270.0, 325.16666666666663, 250.5)" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">fingerling</text>
+<text aria-label="387,405,250,313" text-anchor="end" x="400.49999999999994" y="250.5" transform="rotate(270.0, 405.49999999999994, 250.5)" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">grandma</text>
+<text aria-label="467,485,250,304" text-anchor="end" x="480.83333333333326" y="250.5" transform="rotate(270.0, 485.83333333333326, 250.5)" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">noodle</text>
+<text aria-label="548,566,250,322" text-anchor="end" x="561.1666666666666" y="250.5" transform="rotate(270.0, 566.1666666666666, 250.5)" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">scallion</text>
+<text aria-label="628,646,250,304" text-anchor="end" x="641.4999999999999" y="250.5" transform="rotate(270.0, 646.4999999999999, 250.5)" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">stucco</text>
+<text aria-label="708,726,250,331" text-anchor="end" x="721.8333333333333" y="250.5" transform="rotate(270.0, 726.8333333333333, 250.5)" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">thickness</text>
+<line aria-label="79,79,243,248" x1="79.5" y1="243.5" x2="79.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="159,159,243,248" x1="159.5" y1="243.5" x2="159.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="239,239,243,248" x1="239.5" y1="243.5" x2="239.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="320,320,243,248" x1="320.5" y1="243.5" x2="320.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="400,400,243,248" x1="400.5" y1="243.5" x2="400.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="480,480,243,248" x1="480.5" y1="243.5" x2="480.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="561,561,243,248" x1="561.5" y1="243.5" x2="561.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="641,641,243,248" x1="641.5" y1="243.5" x2="641.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="721,721,243,248" x1="721.5" y1="243.5" x2="721.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,762,243,243" x1="39.5" y1="243.5" x2="762.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="658,762,0,26" text-anchor="end" x="762.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">maximize</text>
+<text aria-label="28,37,231,249" text-anchor="end" x="37.5" y="248.5" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="10,37,181,199" text-anchor="end" x="37.5" y="198.5" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="10,37,131,149" text-anchor="end" x="37.5" y="148.5" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="10,37,81,99" text-anchor="end" x="37.5" y="98.5" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="10,37,31,49" text-anchor="end" x="37.5" y="48.5" font-family="avenir" font-size="17px" font-weight="bold" fill="#000" opacity="1">800</text>
+<path aria-label="facilis RSS: delivery; Account utilize system: 510; Mazda transmitter: whereas Aufderhar asymmetric" role="graphics-symbol" aria-roledescription="bar" d="M126.96499999999997,115.50000000000001h65.07v127.49999999999999h-65.07Z" fill="#da40cf"/>
+<path aria-label="facilis RSS: grandma; Account utilize system: 218; Mazda transmitter: whereas Aufderhar asymmetric" role="graphics-symbol" aria-roledescription="bar" d="M367.965,188.5h65.07v54.5h-65.07Z" fill="#da40cf"/>
+<path aria-label="facilis RSS: noodle; Account utilize system: 607; Mazda transmitter: whereas Aufderhar asymmetric" role="graphics-symbol" aria-roledescription="bar" d="M448.2983333333333,91.25h65.07v151.75h-65.07Z" fill="#da40cf"/>
+<path aria-label="facilis RSS: stucco; Account utilize system: 733; Mazda transmitter: whereas Aufderhar asymmetric" role="graphics-symbol" aria-roledescription="bar" d="M608.9649999999999,59.75h65.07v183.25h-65.07Z" fill="#da40cf"/>
+<path aria-label="facilis RSS: consonant; Account utilize system: 412; Mazda transmitter: whereas Aufderhar asymmetric" role="graphics-symbol" aria-roledescription="bar" d="M46.631666666666646,140.0h65.07v103h-65.07Z" fill="#da40cf"/>
+<path aria-label="facilis RSS: editorial; Account utilize system: 523; Mazda transmitter: whereas Aufderhar asymmetric" role="graphics-symbol" aria-roledescription="bar" d="M207.29833333333332,112.24999999999999h65.07v130.75h-65.07Z" fill="#da40cf"/>
+<path aria-label="facilis RSS: fingerling; Account utilize system: 699; Mazda transmitter: whereas Aufderhar asymmetric" role="graphics-symbol" aria-roledescription="bar" d="M287.63166666666666,68.25h65.07v174.75h-65.07Z" fill="#da40cf"/>
+<path aria-label="facilis RSS: thickness; Account utilize system: 283; Mazda transmitter: whereas Aufderhar asymmetric" role="graphics-symbol" aria-roledescription="bar" d="M689.2983333333333,172.25h65.07v70.75h-65.07Z" fill="#da40cf"/>
+<path aria-label="facilis RSS: scallion; Account utilize system: 383; Mazda transmitter: whereas Aufderhar asymmetric" role="graphics-symbol" aria-roledescription="bar" d="M528.6316666666667,147.25h65.07v95.75h-65.07Z" fill="#da40cf"/>
+</svg>

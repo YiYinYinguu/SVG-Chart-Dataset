@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="298" height="239" viewBox="0 0 298 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="98,293,0,26" text-anchor="end" x="293.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">District versus</text>
+<path aria-label="Automotive deliverables: 438; Customer projection: monitoring" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.72040385130852,118.0281250854923A75,75,0,0,0,138.35007556402508,185.36521935261476L193.0,134.0Z" fill="#114baf" stroke="black" stroke-width="0"/>
+<path aria-label="Automotive deliverables: 617; Customer projection: Road" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.8536553491619,158.59185888992897A75,75,0,0,0,231.54881030759827,69.66502332425382L193.0,134.0Z" fill="#6a1f31" stroke="black" stroke-width="0"/>
+<path aria-label="Automotive deliverables: 182; Customer projection: synthesize" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.8397940531496,90.58998723175901A75,75,0,0,0,119.72040385130852,118.0281250854923L193.0,134.0Z" fill="#bd6c1a" stroke="black" stroke-width="0"/>
+<path aria-label="Automotive deliverables: 490; Customer projection: markets" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.35007556402508,185.36521935261476A75,75,0,0,0,212.83848885401457,206.3286551789064L193.0,134.0Z" fill="#f6aacb" stroke="black" stroke-width="0"/>
+<path aria-label="Automotive deliverables: 76; Customer projection: Books" role="graphics-symbol" aria-roledescription="arc mark"  d="M231.54881030759827,69.66502332425382A75,75,0,0,0,220.23868905238797,64.12114898835758L193.0,134.0Z" fill="#e68ff5" stroke="black" stroke-width="0"/>
+<path aria-label="Automotive deliverables: 285; Customer projection: hertz" role="graphics-symbol" aria-roledescription="arc mark"  d="M212.83848885401457,206.3286551789064A75,75,0,0,0,251.66690808484339,180.72466046708672L193.0,134.0Z" fill="#a80164" stroke="black" stroke-width="0"/>
+<path aria-label="Automotive deliverables: 431; Customer projection: tidy" role="graphics-symbol" aria-roledescription="arc mark"  d="M193.0,59.0A75,75,0,0,0,131.8397940531496,90.58998723175901L193.0,134.0Z" fill="#c957d9" stroke="black" stroke-width="0"/>
+<path aria-label="Automotive deliverables: 153; Customer projection: compress" role="graphics-symbol" aria-roledescription="arc mark"  d="M251.66690808484339,180.72466046708672A75,75,0,0,0,263.8536553491619,158.59185888992897L193.0,134.0Z" fill="#8dfbfb" stroke="black" stroke-width="0"/>
+<path aria-label="Automotive deliverables: 168; Customer projection: AI" role="graphics-symbol" aria-roledescription="arc mark"  d="M220.23868905238797,64.12114898835758A75,75,0,0,0,193.0,59.0L193.0,134.0Z" fill="#5ac021" stroke="black" stroke-width="0"/>
+<text aria-label="95,116,148,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="106.2584947070303" y="161.99815116857354" font-family="avenir" font-size="13px" fill="#114baf" opacity="1">438</text>
+<text aria-label="267,288,94,108" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="277.591236940839" y="107.27016705514265" font-family="avenir" font-size="13px" fill="#6a1f31" opacity="1">617</text>
+<text aria-label="100,121,88,102" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.67328351808982" y="101.6363952102218" font-family="avenir" font-size="13px" fill="#bd6c1a" opacity="1">182</text>
+<text aria-label="158,179,211,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.61827307159706" y="224.63446999889126" font-family="avenir" font-size="13px" fill="#f6aacb" opacity="1">490</text>
+<text aria-label="225,239,44,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="232.61240539640661" y="57.186280009451764" font-family="avenir" font-size="13px" fill="#e68ff5" opacity="1">76</text>
+<text aria-label="232,253,200,214" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="242.54511360107063" y="213.1350897933649" font-family="avenir" font-size="13px" fill="#a80164" opacity="1">285</text>
+<text aria-label="141,162,45,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.6979502867595" y="58.03662907627637" font-family="avenir" font-size="13px" fill="#c957d9" opacity="1">431</text>
+<text aria-label="261,282,168,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="271.83880651588896" y="181.41016686388372" font-family="avenir" font-size="13px" fill="#8dfbfb" opacity="1">153</text>
+<text aria-label="199,220,36,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="209.62955337257463" y="49.54968652046115" font-family="avenir" font-size="13px" fill="#5ac021" opacity="1">168</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#5ac021" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#e68ff5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#6a1f31" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#8dfbfb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#a80164" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#f6aacb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#114baf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#bd6c1a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#c957d9" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,32,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">AI</text>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Books</text>
+<text aria-label="21,43,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Road</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">compress</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">hertz</text>
+<text aria-label="21,59,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">markets</text>
+<text aria-label="21,76,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">monitoring</text>
+<text aria-label="21,76,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">synthesize</text>
+<text aria-label="21,43,161,172" text-anchor="start" x="21.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">tidy</text>
+</svg>

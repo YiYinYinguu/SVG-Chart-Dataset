@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="290" height="239" viewBox="0 0 290 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="181,285,0,26" text-anchor="end" x="285.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">kilogram</text>
+<path aria-label="Toys orchid: 184; Oxygen: Minivan" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.42544238227202,208.98645286993394A75,75,0,0,0,168.83869945833464,173.36521880376665L133.08902776166724,151.32069627365735A33,33,0,0,1,105.62719464819969,166.9940392627709Z" fill="#ae1eba" stroke="black" stroke-width="0"/>
+<path aria-label="Toys orchid: 391; Oxygen: Drive" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.83869945833464,173.36521880376665A75,75,0,0,0,105.0,59.0L105.0,101.0A33,33,0,0,1,133.08902776166724,151.32069627365735Z" fill="#ff647e" stroke="black" stroke-width="0"/>
+<path aria-label="Toys orchid: 394; Oxygen: Solutions" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,41.81107239815565,174.3999929273369L77.19687185518849,151.77599688802823A33,33,0,0,1,105.0,101.0Z" fill="#ea4d9d" stroke="black" stroke-width="0"/>
+<path aria-label="Toys orchid: 188; Oxygen: Outdoors" role="graphics-symbol" aria-roledescription="arc mark"  d="M41.81107239815565,174.3999929273369A75,75,0,0,0,106.42544238227202,208.98645286993394L105.62719464819969,166.9940392627709A33,33,0,0,1,77.19687185518849,151.77599688802823Z" fill="#8e2bcc" stroke="black" stroke-width="0"/>
+<text aria-label="139,160,203,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="149.61144460305565" y="216.16533125643682" font-family="avenir" font-size="13px" fill="#ae1eba" opacity="1">184</text>
+<text aria-label="173,194,81,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="183.58576089472825" y="94.13340468424066" font-family="avenir" font-size="13px" fill="#ff647e" opacity="1">391</text>
+<text aria-label="15,36,81,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.059518508713197" y="94.7750028117548" font-family="avenir" font-size="13px" fill="#ea4d9d" opacity="1">394</text>
+<text aria-label="52,73,204,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="62.52715603566781" y="217.3477001908782" font-family="avenir" font-size="13px" fill="#8e2bcc" opacity="1">188</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#ff647e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ae1eba" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#8e2bcc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#ea4d9d" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Drive</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Minivan</text>
+<text aria-label="239,283,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Outdoors</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Solutions</text>
+</svg>

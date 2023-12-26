@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">lumpy</text>
+<path aria-label="Armenia: 638; invoice: Bhutan" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.38706317325483,118.52941633923572A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#2faacb" stroke="black" stroke-width="4"/>
+<path aria-label="Armenia: 292; invoice: phooey" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,61.18877072325532,73.12655596025053L105.0,134.0Z" fill="#09a4e9" stroke="black" stroke-width="4"/>
+<path aria-label="Armenia: 236; invoice: Tools" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.53378738310136,200.61141184396814A75,75,0,0,0,107.00264743381183,208.97325792078033L105.0,134.0Z" fill="#053b00" stroke="black" stroke-width="4"/>
+<path aria-label="Armenia: 820; invoice: River" role="graphics-symbol" aria-roledescription="arc mark"  d="M107.00264743381183,208.97325792078033A75,75,0,0,0,178.38706317325483,118.52941633923572L105.0,134.0Z" fill="#5262e0" stroke="black" stroke-width="4"/>
+<path aria-label="Armenia: 602; invoice: initiatives" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.38979105047052,119.62859998446187A75,75,0,0,0,70.53378738310136,200.61141184396814L105.0,134.0Z" fill="#cd5b2d" stroke="black" stroke-width="4"/>
+<path aria-label="Armenia: 353; invoice: minus" role="graphics-symbol" aria-roledescription="arc mark"  d="M61.18877072325532,73.12655596025053A75,75,0,0,0,31.38979105047052,119.62859998446187L105.0,134.0Z" fill="#bafe22" stroke="black" stroke-width="4"/>
+<text aria-label="150,172,54,69" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="161.69734105157605" y="68.10428112050589" font-family="serif" font-size="14px" fill="#2faacb" opacity="1">638</text>
+<text aria-label="66,88,38,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="77.38054993571507" y="52.34274124076542" font-family="serif" font-size="14px" fill="#09a4e9" opacity="1">292</text>
+<text aria-label="73,96,211,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="84.88609256471588" y="225.72360416492714" font-family="serif" font-size="14px" fill="#053b00" opacity="1">236</text>
+<text aria-label="164,186,179,194" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="175.64652079444625" y="193.75902706862698" font-family="serif" font-size="14px" fill="#5262e0" opacity="1">820</text>
+<text aria-label="12,35,163,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="23.969497487060266" y="177.1670481719068" font-family="serif" font-size="14px" fill="#cd5b2d" opacity="1">602</text>
+<text aria-label="17,40,75,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="29.223457908926036" y="89.44162617303071" font-family="serif" font-size="14px" fill="#bafe22" opacity="1">353</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#2faacb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#5262e0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#053b00" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#cd5b2d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#bafe22" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#09a4e9" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Bhutan</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">River</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Tools</text>
+<text aria-label="239,299,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">initiatives</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">minus</text>
+<text aria-label="239,272,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">phooey</text>
+</svg>

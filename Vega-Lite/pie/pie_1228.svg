@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="23,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">compress zowie</text>
+<path aria-label="mesh: 65; PCI Internal: Direct" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.59716291471273,155.68122063776556A75,75,0,0,0,105.0,106.0L105.0,124.0A57,57,0,0,1,158.6538438151817,161.75772768470182Z" fill="#faff98" stroke="black" stroke-width="0"/>
+<path aria-label="mesh: 10; PCI Internal: Elegant" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.09315452051334,169.37225502518515A75,75,0,0,0,175.59716291471273,155.68122063776556L158.6538438151817,161.75772768470182A57,57,0,0,1,161.31079743559013,172.16291381914073Z" fill="#cdcdcb" stroke="black" stroke-width="0"/>
+<path aria-label="mesh: 258; PCI Internal: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,1,0,179.09315452051334,169.37225502518515L161.31079743559013,172.16291381914073A57,57,0,1,1,104.99999999999999,124.0Z" fill="#7a634c" stroke="black" stroke-width="0"/>
+<text aria-label="150,162,99,111" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="156.7956167492901" y="110.398273895508" font-family="monospace" font-size="11px" fill="#faff98" opacity="1">65</text>
+<text aria-label="186,198,150,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.20197049125346" y="161.73306616431978" font-family="monospace" font-size="11px" fill="#cdcdcb" opacity="1">10</text>
+<text aria-label="37,55,241,253" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="46.50126692517182" y="252.39516231898278" font-family="monospace" font-size="11px" fill="#7a634c" opacity="1">258</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#faff98" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,56.25A5,5,0,1,1,63.0,56.25A5,5,0,1,1,73.0,56.25" fill="#cdcdcb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,56.25A5,5,0,1,1,125.0,56.25A5,5,0,1,1,135.0,56.25" fill="#7a634c" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Direct</text>
+<text aria-label="78,116,49,60" text-anchor="start" x="78.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Elegant</text>
+<text aria-label="140,162,49,60" text-anchor="start" x="140.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="5,77,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">PCI Internal</text>
+</svg>

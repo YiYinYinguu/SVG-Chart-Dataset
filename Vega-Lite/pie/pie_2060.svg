@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="293" height="239" viewBox="0 0 293 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">primary Blue</text>
+<path aria-label="Rhodium: 205; Berkshire repudiandae Virtual: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.22655153115144,155.76171167186857A75,75,0,0,0,140.00782376582208,200.32836704744918L105.0,134.0Z" fill="#d03e1a" stroke="white" stroke-width="1"/>
+<path aria-label="Rhodium: 98; Berkshire repudiandae Virtual: PCI" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.98051832219903,94.92947446340521A75,75,0,0,0,33.22655153115144,155.76171167186857L105.0,134.0Z" fill="#cfafe4" stroke="white" stroke-width="1"/>
+<path aria-label="Rhodium: 151; Berkshire repudiandae Virtual: Bahraini" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.22446516199975,113.78548461963321A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#dbbcaa" stroke="white" stroke-width="1"/>
+<path aria-label="Rhodium: 158; Berkshire repudiandae Virtual: Mount" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.00782376582208,200.32836704744918A75,75,0,0,0,177.22446516199975,113.78548461963321L105.0,134.0Z" fill="#4adcb5" stroke="white" stroke-width="1"/>
+<path aria-label="Rhodium: 119; Berkshire repudiandae Virtual: integrate" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,40.98051832219903,94.92947446340521L105.0,134.0Z" fill="#501ca2" stroke="white" stroke-width="1"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#dbbcaa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#4adcb5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#d03e1a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#cfafe4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#501ca2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,283,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Bahraini</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Mount</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="239,255,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">PCI</text>
+<text aria-label="239,288,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">integrate</text>
+</svg>

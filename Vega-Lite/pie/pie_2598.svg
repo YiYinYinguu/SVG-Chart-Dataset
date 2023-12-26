@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,148,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">programming</text>
+<path aria-label="Trace Borders: 753; Coupe Dinar: Officer" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.23978876666735,117.84656874178287A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#f8b8c9" stroke="black" stroke-width="0"/>
+<path aria-label="Trace Borders: 160; Coupe Dinar: Plastic" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.81336385223904,139.28777733196966A75,75,0,0,0,178.23978876666735,117.84656874178287L105.0,134.0Z" fill="#c2f399" stroke="black" stroke-width="0"/>
+<path aria-label="Trace Borders: 752; Coupe Dinar: waste" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.789369629308553,117.71492705800829L105.0,134.0Z" fill="#cab5af" stroke="black" stroke-width="0"/>
+<path aria-label="Trace Borders: 359; Coupe Dinar: Roanoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.58478580760553,183.225623562403A75,75,0,0,0,179.81336385223904,139.28777733196966L105.0,134.0Z" fill="#8c88ff" stroke="black" stroke-width="0"/>
+<path aria-label="Trace Borders: 383; Coupe Dinar: potentially" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.789369629308553,117.71492705800829A75,75,0,0,0,38.12103237520863,167.9441259931981L105.0,134.0Z" fill="#3fcb32" stroke="black" stroke-width="0"/>
+<path aria-label="Trace Borders: 387; Coupe Dinar: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M60.37248625408805,194.27756644771287A75,75,0,0,0,109.37955705823798,208.8720206751069L105.0,134.0Z" fill="#dcf1ef" stroke="black" stroke-width="0"/>
+<path aria-label="Trace Borders: 443; Coupe Dinar: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M109.37955705823798,208.8720206751069A75,75,0,0,0,161.58478580760553,183.225623562403L105.0,134.0Z" fill="#ea3754" stroke="black" stroke-width="0"/>
+<path aria-label="Trace Borders: 258; Coupe Dinar: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.12103237520863,167.9441259931981A75,75,0,0,0,60.37248625408805,194.27756644771287L105.0,134.0Z" fill="#1cbc47" stroke="black" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#f8b8c9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#c2f399" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#8c88ff" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#ea3754" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#dcf1ef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#1cbc47" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#3fcb32" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#cab5af" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Officer</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Plastic</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Roanoke</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="239,277,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="239,299,129,140" text-anchor="start" x="239.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">potentially</text>
+<text aria-label="239,266,145,156" text-anchor="start" x="239.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">waste</text>
+</svg>

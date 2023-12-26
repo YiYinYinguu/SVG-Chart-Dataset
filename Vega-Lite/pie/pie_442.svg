@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="282" height="286" viewBox="0 0 282 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="225,277,0,26" text-anchor="end" x="277.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">pink</text>
+<path aria-label="Northeast: 22; Bedfordshire Northeast: gadzooks" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,31.880406586363222,150.6890700467236L62.10317186399976,143.79092109407785A44,44,0,0,1,104.99999999999999,90.0Z" fill="#6c4cb6" stroke="black" stroke-width="0"/>
+<path aria-label="Northeast: 16; Bedfordshire Northeast: Strategist" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.23660814106995,144.67361287049638A75,75,0,0,0,134.75800609336818,65.15625610596804L122.45803024144267,93.61167024883459A44,44,0,0,1,148.55214344276104,140.26185288402453Z" fill="#6fbd4d" stroke="black" stroke-width="0"/>
+<path aria-label="Northeast: 34; Bedfordshire Northeast: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.880406586363222,150.6890700467236A75,75,0,0,0,179.23660814106995,144.67361287049638L148.55214344276104,140.26185288402453A44,44,0,0,1,62.10317186399976,143.79092109407785Z" fill="#af8a32" stroke="black" stroke-width="0"/>
+<path aria-label="Northeast: 5; Bedfordshire Northeast: Handcrafted" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.75800609336818,65.15625610596804A75,75,0,0,0,105.0,59.0L105.0,90.0A44,44,0,0,1,122.45803024144267,93.61167024883459Z" fill="#c7caa3" stroke="black" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#c7caa3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M98.0,274.25A5,5,0,1,1,88.0,274.25A5,5,0,1,1,98.0,274.25" fill="#6fbd4d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M175.0,274.25A5,5,0,1,1,165.0,274.25A5,5,0,1,1,175.0,274.25" fill="#af8a32" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M232.0,274.25A5,5,0,1,1,222.0,274.25A5,5,0,1,1,232.0,274.25" fill="#6c4cb6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Handcrafted</text>
+<text aria-label="103,158,267,278" text-anchor="start" x="103.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Strategist</text>
+<text aria-label="180,213,267,278" text-anchor="start" x="180.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="237,281,267,278" text-anchor="start" x="237.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">gadzooks</text>
+<text aria-label="5,137,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bedfordshire Northeast</text>
+</svg>

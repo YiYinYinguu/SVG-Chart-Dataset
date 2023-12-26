@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="317" height="239" viewBox="0 0 317 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="0,312,0,26" text-anchor="end" x="312.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Persistent East wherever</text>
+<path aria-label="until: 73; Rolls Manors: vastly" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.99999999999999,59.0A75,75,0,0,0,66.05696260283014,188.1010246294487L118.0,134.0Z" fill="#dd3f15" stroke="white" stroke-width="4"/>
+<path aria-label="until: 41; Rolls Manors: Handcrafted" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.05696260283014,188.1010246294487A75,75,0,0,0,158.454651100326,197.15394844624439L118.0,134.0Z" fill="#a20dd7" stroke="white" stroke-width="4"/>
+<path aria-label="until: 79; Rolls Manors: Compatible" role="graphics-symbol" aria-roledescription="arc mark"  d="M158.454651100326,197.15394844624439A75,75,0,0,0,118.0,59.0L118.0,134.0Z" fill="#4e0fd5" stroke="white" stroke-width="4"/>
+<path  d="M247.0,56.0A5,5,0,1,1,237.0,56.0A5,5,0,1,1,247.0,56.0" fill="#4e0fd5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M247.0,72.0A5,5,0,1,1,237.0,72.0A5,5,0,1,1,247.0,72.0" fill="#a20dd7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M247.0,88.0A5,5,0,1,1,237.0,88.0A5,5,0,1,1,247.0,88.0" fill="#dd3f15" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="252,307,49,60" text-anchor="start" x="252.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Compatible</text>
+<text aria-label="252,312,65,76" text-anchor="start" x="252.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Handcrafted</text>
+<text aria-label="252,285,81,92" text-anchor="start" x="252.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">vastly</text>
+<text aria-label="236,308,32,44" text-anchor="start" x="236.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Rolls Manors</text>
+</svg>

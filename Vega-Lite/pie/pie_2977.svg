@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="387" height="239" viewBox="0 0 387 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="18,382,0,26" text-anchor="end" x="382.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Consultant Michigan Gasoline</text>
+<path aria-label="black West: 570; Southwest Van Metrics: round" role="graphics-symbol" aria-roledescription="arc mark"  d="M207.69307291991566,144.17254087802195A75,75,0,1,0,347.10595876825516,96.76810328674803L313.25086020876245,116.12868957763905A36,36,0,1,1,246.3326750015595,138.88281962145052Z" fill="#ce83bd" stroke="white" stroke-width="1"/>
+<path aria-label="black West: 170; Southwest Van Metrics: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M347.10595876825516,96.76810328674803A75,75,0,0,0,282.0,59.0L282.0,98.0A36,36,0,0,1,313.25086020876245,116.12868957763905Z" fill="#e2f2ba" stroke="white" stroke-width="1"/>
+<path aria-label="black West: 276; Southwest Van Metrics: tesla" role="graphics-symbol" aria-roledescription="arc mark"  d="M282.0,59.0A75,75,0,0,0,207.69307291991566,144.17254087802195L246.3326750015595,138.88281962145052A36,36,0,0,1,282.0,98.0Z" fill="#d5dbcf" stroke="white" stroke-width="1"/>
+<path  d="M48.0,56.0A5,5,0,1,1,38.0,56.0A5,5,0,1,1,48.0,56.0" fill="#e2f2ba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M48.0,72.0A5,5,0,1,1,38.0,72.0A5,5,0,1,1,48.0,72.0" fill="#ce83bd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M48.0,88.0A5,5,0,1,1,38.0,88.0A5,5,0,1,1,48.0,88.0" fill="#d5dbcf" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="53,97,49,60" text-anchor="start" x="53.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="53,80,65,76" text-anchor="start" x="53.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">round</text>
+<text aria-label="53,80,81,92" text-anchor="start" x="53.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">tesla</text>
+<text aria-label="37,163,32,44" text-anchor="start" x="37.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Southwest Van Metrics</text>
+</svg>

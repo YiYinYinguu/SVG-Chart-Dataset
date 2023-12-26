@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="680" height="286" viewBox="0 0 680 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">SDD farad</text>
+<path aria-label="bouncy: 3; Northwest: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.45079980279,106.00135481531814A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#50e5da" stroke="white" stroke-width="0"/>
+<path aria-label="bouncy: 262; Northwest: gold" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.2926205239447,232.7427420672981A75,75,0,0,0,177.91368891011768,198.5668429012894L105.0,181.0Z" fill="#4ed3dd" stroke="white" stroke-width="0"/>
+<path aria-label="bouncy: 634; Northwest: synthesize" role="graphics-symbol" aria-roledescription="arc mark"  d="M53.69403050029904,235.70555267699757A75,75,0,0,0,142.06538199504206,246.20090074194997L105.0,181.0Z" fill="#e4c783" stroke="white" stroke-width="0"/>
+<path aria-label="bouncy: 402; Northwest: voluptatibus" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,50.91515488655278,129.0401161562651L105.0,181.0Z" fill="#7cda1b" stroke="white" stroke-width="0"/>
+<path aria-label="bouncy: 353; Northwest: JSON" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.07324579474883,124.28301359232697A75,75,0,0,0,105.45079980279,106.00135481531814L105.0,181.0Z" fill="#f3bff1" stroke="white" stroke-width="0"/>
+<path aria-label="bouncy: 170; Northwest: collaboration" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.91368891011768,198.5668429012894A75,75,0,0,0,179.5933201013721,173.20021819188267L105.0,181.0Z" fill="#cfe74b" stroke="white" stroke-width="0"/>
+<path aria-label="bouncy: 45; Northwest: local" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.41326607611296,237.4209990667594A75,75,0,0,0,159.2926205239447,232.7427420672981L105.0,181.0Z" fill="#b28cfe" stroke="white" stroke-width="0"/>
+<path aria-label="bouncy: 376; Northwest: Shoes" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.5933201013721,173.20021819188267A75,75,0,0,0,154.07324579474883,124.28301359232697L105.0,181.0Z" fill="#f2eaf0" stroke="white" stroke-width="0"/>
+<path aria-label="bouncy: 101; Northwest: program" role="graphics-symbol" aria-roledescription="arc mark"  d="M142.06538199504206,246.20090074194997A75,75,0,0,0,154.41326607611296,237.4209990667594L105.0,181.0Z" fill="#fc48c6" stroke="white" stroke-width="0"/>
+<path aria-label="bouncy: 790; Northwest: synthesizing" role="graphics-symbol" aria-roledescription="arc mark"  d="M50.91515488655278,129.0401161562651A75,75,0,0,0,53.69403050029904,235.70555267699757L105.0,181.0Z" fill="#37ba3a" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#50e5da" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M77.0,56.25A5,5,0,1,1,67.0,56.25A5,5,0,1,1,77.0,56.25" fill="#f3bff1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M131.0,56.25A5,5,0,1,1,121.0,56.25A5,5,0,1,1,131.0,56.25" fill="#f2eaf0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,56.25A5,5,0,1,1,177.0,56.25A5,5,0,1,1,187.0,56.25" fill="#cfe74b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M278.0,56.25A5,5,0,1,1,268.0,56.25A5,5,0,1,1,278.0,56.25" fill="#4ed3dd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M327.0,56.25A5,5,0,1,1,317.0,56.25A5,5,0,1,1,327.0,56.25" fill="#b28cfe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M377.0,56.25A5,5,0,1,1,367.0,56.25A5,5,0,1,1,377.0,56.25" fill="#fc48c6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M446.0,56.25A5,5,0,1,1,436.0,56.25A5,5,0,1,1,446.0,56.25" fill="#e4c783" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M523.0,56.25A5,5,0,1,1,513.0,56.25A5,5,0,1,1,523.0,56.25" fill="#37ba3a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M610.0,56.25A5,5,0,1,1,600.0,56.25A5,5,0,1,1,610.0,56.25" fill="#7cda1b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="82,104,49,60" text-anchor="start" x="82.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">JSON</text>
+<text aria-label="136,163,49,60" text-anchor="start" x="136.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Shoes</text>
+<text aria-label="192,263,49,60" text-anchor="start" x="192.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">collaboration</text>
+<text aria-label="283,305,49,60" text-anchor="start" x="283.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">gold</text>
+<text aria-label="332,359,49,60" text-anchor="start" x="332.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">local</text>
+<text aria-label="382,420,49,60" text-anchor="start" x="382.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">program</text>
+<text aria-label="451,506,49,60" text-anchor="start" x="451.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">synthesize</text>
+<text aria-label="528,594,49,60" text-anchor="start" x="528.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">synthesizing</text>
+<text aria-label="615,681,49,60" text-anchor="start" x="615.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">voluptatibus</text>
+<text aria-label="5,59,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Northwest</text>
+</svg>

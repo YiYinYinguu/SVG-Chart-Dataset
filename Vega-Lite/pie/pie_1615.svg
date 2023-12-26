@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="480" height="270" viewBox="0 0 480 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,170,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">withdrawal</text>
+<path aria-label="and ohm: 210; Elegant azure: USB" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.75948234440072,113.84292658020394L76.10379293776029,125.93717063208157A30,30,0,0,1,105.0,104.0Z" fill="#ba8a64" stroke="white" stroke-width="0"/>
+<path aria-label="and ohm: 180; Elegant azure: Kuwaiti" role="graphics-symbol" aria-roledescription="arc mark"  d="M92.535029513134,207.95690982431296A75,75,0,0,0,165.83943166610945,177.85844906679668L129.33577266644377,151.54337962671866A30,30,0,0,1,100.0140118052536,163.5827639297252Z" fill="#fde2fc" stroke="white" stroke-width="0"/>
+<path aria-label="and ohm: 50; Elegant azure: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.75948234440072,113.84292658020394A75,75,0,0,0,30.051624547765854,136.7822683319454L75.02064981910634,135.11290733277815A30,30,0,0,1,76.10379293776029,125.93717063208157Z" fill="#ad16bf" stroke="white" stroke-width="0"/>
+<path aria-label="and ohm: 5; Elegant azure: Bartoletti" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.83943166610945,177.85844906679668A75,75,0,0,0,167.1662883207288,175.9565560600965L129.8665153282915,150.7826224240386A30,30,0,0,1,129.33577266644377,151.54337962671866Z" fill="#ba8d0c" stroke="white" stroke-width="0"/>
+<path aria-label="and ohm: 240; Elegant azure: Automotive" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.1662883207288,175.9565560600965A75,75,0,0,0,152.17499504203067,75.69459851107807L123.86999801681227,110.67783940443123A30,30,0,0,1,129.8665153282915,150.7826224240386Z" fill="#42c13b" stroke="white" stroke-width="0"/>
+<path aria-label="and ohm: 146; Elegant azure: Lead" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.214532697653866,170.01766638487214A75,75,0,0,0,92.535029513134,207.95690982431296L100.0140118052536,163.5827639297252A30,30,0,0,1,78.68581307906155,148.40706655394885Z" fill="#db55c1" stroke="white" stroke-width="0"/>
+<path aria-label="and ohm: 75; Elegant azure: PCI" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.051624547765854,136.7822683319454A75,75,0,0,0,39.214532697653866,170.01766638487214L78.68581307906155,148.40706655394885A30,30,0,0,1,75.02064981910634,135.11290733277815Z" fill="#c2af79" stroke="white" stroke-width="0"/>
+<path aria-label="and ohm: 110; Elegant azure: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.17499504203067,75.69459851107807A75,75,0,0,0,105.0,59.0L105.0,104.0A30,30,0,0,1,123.86999801681227,110.67783940443123Z" fill="#ed650a" stroke="white" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#ed650a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,258.25A5,5,0,1,1,68.0,258.25A5,5,0,1,1,78.0,258.25" fill="#42c13b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,258.25A5,5,0,1,1,145.0,258.25A5,5,0,1,1,155.0,258.25" fill="#ba8d0c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M232.0,258.25A5,5,0,1,1,222.0,258.25A5,5,0,1,1,232.0,258.25" fill="#fde2fc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M294.0,258.25A5,5,0,1,1,284.0,258.25A5,5,0,1,1,294.0,258.25" fill="#db55c1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M341.0,258.25A5,5,0,1,1,331.0,258.25A5,5,0,1,1,341.0,258.25" fill="#c2af79" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M383.0,258.25A5,5,0,1,1,373.0,258.25A5,5,0,1,1,383.0,258.25" fill="#ad16bf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M455.0,258.25A5,5,0,1,1,445.0,258.25A5,5,0,1,1,455.0,258.25" fill="#ba8a64" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,251,262" text-anchor="start" x="21.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="83,138,251,262" text-anchor="start" x="83.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Automotive</text>
+<text aria-label="160,215,251,262" text-anchor="start" x="160.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Bartoletti</text>
+<text aria-label="237,275,251,262" text-anchor="start" x="237.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Kuwaiti</text>
+<text aria-label="299,321,251,262" text-anchor="start" x="299.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Lead</text>
+<text aria-label="346,362,251,262" text-anchor="start" x="346.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">PCI</text>
+<text aria-label="388,437,251,262" text-anchor="start" x="388.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="460,476,251,262" text-anchor="start" x="460.0" y="261.25" font-family="serif" font-size="10px" fill="#000" opacity="1">USB</text>
+</svg>

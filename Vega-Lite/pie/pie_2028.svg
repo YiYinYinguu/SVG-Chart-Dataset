@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="270" height="286" viewBox="0 0 270 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Diesel</text>
+<path aria-label="DRAM innovative: 258; Security: gray" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.909532763627055,171.25897307965775A75,75,0,0,0,133.07401208944896,203.54746469283748L105.0,134.0Z" fill="#43cd1c" stroke="black" stroke-width="0"/>
+<path aria-label="DRAM innovative: 301; Security: Ergonomic" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.60354437502156,141.70137433736275A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#989e7f" stroke="black" stroke-width="0"/>
+<path aria-label="DRAM innovative: 195; Security: Infrastructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.07401208944896,203.54746469283748A75,75,0,0,0,179.60354437502156,141.70137433736275L105.0,134.0Z" fill="#bac3bb" stroke="black" stroke-width="0"/>
+<path aria-label="DRAM innovative: 376; Security: what" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,39.909532763627055,171.25897307965775L105.0,134.0Z" fill="#9ec4ca" stroke="black" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#989e7f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M95.0,274.25A5,5,0,1,1,85.0,274.25A5,5,0,1,1,95.0,274.25" fill="#bac3bb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,274.25A5,5,0,1,1,177.0,274.25A5,5,0,1,1,187.0,274.25" fill="#43cd1c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M236.0,274.25A5,5,0,1,1,226.0,274.25A5,5,0,1,1,236.0,274.25" fill="#9ec4ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Ergonomic</text>
+<text aria-label="100,177,267,278" text-anchor="start" x="100.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Infrastructure</text>
+<text aria-label="192,214,267,278" text-anchor="start" x="192.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">gray</text>
+<text aria-label="241,263,267,278" text-anchor="start" x="241.0" y="277.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">what</text>
+<text aria-label="5,53,250,262" text-anchor="start" x="5.0" y="261.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Security</text>
+</svg>

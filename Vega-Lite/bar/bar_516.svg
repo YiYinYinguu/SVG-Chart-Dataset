@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1027" height="336" viewBox="0 0 1027 336" style="background-color: rgb(255, 255, 255);">
+<line x1="168.5" y1="34.5" x2="168.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="353.5" y1="34.5" x2="353.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="539.5" y1="34.5" x2="539.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="725.5" y1="34.5" x2="725.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="910.5" y1="34.5" x2="910.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="234.5" x2="1022.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="190.5" x2="1022.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="145.5" x2="1022.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="101.5" x2="1022.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="57.5" y1="56.5" x2="1022.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="155,173,241,304" text-anchor="end" x="168.34615384615387" y="241.5" transform="rotate(270.0, 173.34615384615387, 241.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">anagram</text>
+<text aria-label="340,358,241,286" text-anchor="end" x="353.9230769230769" y="241.5" transform="rotate(270.0, 358.9230769230769, 241.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">entry</text>
+<text aria-label="526,544,241,322" text-anchor="end" x="539.5" y="241.5" transform="rotate(270.0, 544.5, 241.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">ignorance</text>
+<text aria-label="712,730,241,331" text-anchor="end" x="725.0769230769231" y="241.5" transform="rotate(270.0, 730.0769230769231, 241.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">repository</text>
+<text aria-label="897,915,241,313" text-anchor="end" x="910.6538461538462" y="241.5" transform="rotate(270.0, 915.6538461538462, 241.5)" font-family="serif" font-size="17px" font-weight="normal" fill="#000" opacity="1">terrapin</text>
+<line aria-label="168,168,234,239" x1="168.5" y1="234.5" x2="168.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="353,353,234,239" x1="353.5" y1="234.5" x2="353.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="539,539,234,239" x1="539.5" y1="234.5" x2="539.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="725,725,234,239" x1="725.5" y1="234.5" x2="725.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="910,910,234,239" x1="910.5" y1="234.5" x2="910.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="57,1022,234,234" x1="57.5" y1="234.5" x2="1022.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="487,591,0,26" text-anchor="middle" x="539.5" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electric</text>
+<text aria-label="41,50,222,240" text-anchor="end" x="50.5" y="239.5" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="23,50,178,196" text-anchor="end" x="50.5" y="195.05555555555557" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="23,50,133,151" text-anchor="end" x="50.5" y="150.61111111111111" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="23,50,89,107" text-anchor="end" x="50.5" y="106.16666666666667" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="23,50,44,62" text-anchor="end" x="50.5" y="61.72222222222223" font-family="serif" font-size="17px" font-weight="bold" fill="#000" opacity="1">400</text>
+<line aria-label="52,57,234,234" x1="57.5" y1="234.5" x2="52.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,190,190" x1="57.5" y1="190.5" x2="52.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,145,145" x1="57.5" y1="145.5" x2="52.5" y2="145.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,101,101" x1="57.5" y1="101.5" x2="52.5" y2="101.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="52,57,56,56" x1="57.5" y1="56.5" x2="52.5" y2="56.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,41,227" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">footstool Market Communications</text>
+<path aria-label="methodical protocol: repository; footstool Market Communications: 136; Electric Coupe California: Pop Bacon Utah" role="graphics-symbol" aria-roledescription="bar" d="M650.8461538461538,173.55555555555557h148.46153846153845v60.44444444444443h-148.46153846153845Z" fill="#cea5d6"/>
+<path aria-label="methodical protocol: anagram; footstool Market Communications: 371; Electric Coupe California: Pop Bacon Utah" role="graphics-symbol" aria-roledescription="bar" d="M94.11538461538464,69.11111111111111h148.46153846153845v164.88888888888889h-148.46153846153845Z" fill="#cea5d6"/>
+<path aria-label="methodical protocol: entry; footstool Market Communications: 20; Electric Coupe California: Pop Bacon Utah" role="graphics-symbol" aria-roledescription="bar" d="M279.69230769230774,225.11111111111111h148.46153846153845v8.888888888888886h-148.46153846153845Z" fill="#cea5d6"/>
+<path aria-label="methodical protocol: ignorance; footstool Market Communications: 424; Electric Coupe California: Pop Bacon Utah" role="graphics-symbol" aria-roledescription="bar" d="M465.2692307692308,45.555555555555564h148.46153846153845v188.44444444444443h-148.46153846153845Z" fill="#cea5d6"/>
+<path aria-label="methodical protocol: terrapin; footstool Market Communications: 208; Electric Coupe California: Pop Bacon Utah" role="graphics-symbol" aria-roledescription="bar" d="M836.4230769230769,141.55555555555554h148.46153846153845v92.44444444444444h-148.46153846153845Z" fill="#cea5d6"/>
+</svg>

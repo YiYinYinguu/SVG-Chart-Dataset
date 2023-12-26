@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="565" height="327" viewBox="0 0 565 327" style="background-color: rgb(255, 255, 255);">
+<line x1="138.5" y1="43.5" x2="138.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="307.5" y1="43.5" x2="307.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="475.5" y1="43.5" x2="475.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="124,143,250,288" text-anchor="end" x="138.33333333333337" y="250.5" transform="rotate(270.0, 143.33333333333337, 250.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">aide</text>
+<text aria-label="293,312,250,298" text-anchor="end" x="307.0" y="250.5" transform="rotate(270.0, 312.0, 250.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">filth</text>
+<text aria-label="461,480,250,326" text-anchor="end" x="475.66666666666663" y="250.5" transform="rotate(270.0, 480.66666666666663, 250.5)" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">shipyard</text>
+<line aria-label="138,138,243,248" x1="138.5" y1="243.5" x2="138.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="307,307,243,248" x1="307.5" y1="243.5" x2="307.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="475,475,243,248" x1="475.5" y1="243.5" x2="475.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,560,243,243" x1="54.5" y1="243.5" x2="560.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">define matrix pixel</text>
+<text aria-label="38,47,230,249" text-anchor="end" x="47.5" y="248.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,47,180,199" text-anchor="end" x="47.5" y="198.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,47,130,149" text-anchor="end" x="47.5" y="148.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="19,47,80,99" text-anchor="end" x="47.5" y="98.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="19,47,30,49" text-anchor="end" x="47.5" y="48.5" font-family="serif" font-size="18px" font-weight="normal" fill="#000" opacity="1">800</text>
+<line aria-label="49,54,243,243" x1="54.5" y1="243.5" x2="49.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,193,193" x1="54.5" y1="193.5" x2="49.5" y2="193.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,143,143" x1="54.5" y1="143.5" x2="49.5" y2="143.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,93,93" x1="54.5" y1="93.5" x2="49.5" y2="93.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,43,43" x1="54.5" y1="43.5" x2="49.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,101,185" text-anchor="middle" x="16.5" y="143.5" transform="rotate(-90.0, 14.5, 143.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">tangible South</text>
+<path aria-label="plum: shipyard; tangible South: 56; Electric Metal Kessler: adsorb Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M414.94666666666666,225.25h121.44v14h-121.44Z" fill="#dda19e"/>
+<path aria-label="plum: shipyard; tangible South: 15; Electric Metal Kessler: drive female" role="graphics-symbol" aria-roledescription="bar" d="M414.94666666666666,239.25h121.44v3.75h-121.44Z" fill="#2e3d02"/>
+<path aria-label="plum: aide; tangible South: 94; Electric Metal Kessler: adsorb Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M77.61333333333336,105.99999999999999h121.44v23.500000000000014h-121.44Z" fill="#dda19e"/>
+<path aria-label="plum: aide; tangible South: 454; Electric Metal Kessler: drive female" role="graphics-symbol" aria-roledescription="bar" d="M77.61333333333336,129.5h121.44v113.5h-121.44Z" fill="#2e3d02"/>
+<path aria-label="plum: filth; tangible South: 374; Electric Metal Kessler: adsorb Buckinghamshire" role="graphics-symbol" aria-roledescription="bar" d="M246.28000000000003,54.5h121.44v93.5h-121.44Z" fill="#dda19e"/>
+<path aria-label="plum: filth; tangible South: 380; Electric Metal Kessler: drive female" role="graphics-symbol" aria-roledescription="bar" d="M246.28000000000003,148.0h121.44v95h-121.44Z" fill="#2e3d02"/>
+<text aria-label="471,479,214,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="475.66666666666663" y="221.937" font-family="serif" font-size="7.59px" fill="#000" opacity="1">56</text>
+<text aria-label="471,479,228,236" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="475.66666666666663" y="235.937" font-family="serif" font-size="7.59px" fill="#000" opacity="1">15</text>
+<text aria-label="134,142,95,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.33333333333337" y="102.68699999999998" font-family="serif" font-size="7.59px" fill="#000" opacity="1">94</text>
+<text aria-label="131,144,118,127" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.33333333333337" y="126.187" font-family="serif" font-size="7.59px" fill="#000" opacity="1">454</text>
+<text aria-label="300,313,43,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="307.0" y="51.187" font-family="serif" font-size="7.59px" fill="#000" opacity="1">374</text>
+<text aria-label="300,313,137,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="307.0" y="144.687" font-family="serif" font-size="7.59px" fill="#000" opacity="1">380</text>
+</svg>

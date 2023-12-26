@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="346" height="287" viewBox="0 0 346 287" style="background-color: rgb(255, 255, 255);">
+<line x1="81.5" y1="40.5" x2="81.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="185.5" y1="40.5" x2="185.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="289.5" y1="40.5" x2="289.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="29.5" y1="240.5" x2="341.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="29.5" y1="211.5" x2="341.5" y2="211.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="29.5" y1="183.5" x2="341.5" y2="183.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="29.5" y1="154.5" x2="341.5" y2="154.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="29.5" y1="126.5" x2="341.5" y2="126.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="29.5" y1="97.5" x2="341.5" y2="97.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="29.5" y1="69.5" x2="341.5" y2="69.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="29.5" y1="40.5" x2="341.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="72,84,247,271" text-anchor="end" x="81.00000000000003" y="247.5" transform="rotate(270.0, 84.00000000000003, 247.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">corn</text>
+<text aria-label="176,188,247,283" text-anchor="end" x="185.00000000000003" y="247.5" transform="rotate(270.0, 188.00000000000003, 247.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">normal</text>
+<text aria-label="280,292,247,277" text-anchor="end" x="289.0" y="247.5" transform="rotate(270.0, 292.0, 247.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">patio</text>
+<line aria-label="81,81,240,245" x1="81.5" y1="240.5" x2="81.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="185,185,240,245" x1="185.5" y1="240.5" x2="185.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="289,289,240,245" x1="289.5" y1="240.5" x2="289.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="29,341,240,240" x1="29.5" y1="240.5" x2="341.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="81,289,0,26" text-anchor="middle" x="185.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Electric whoever</text>
+<text aria-label="16,22,232,244" text-anchor="end" x="22.5" y="243.5" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="10,22,203,215" text-anchor="end" x="22.5" y="214.92857142857144" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="4,22,175,187" text-anchor="end" x="22.5" y="186.35714285714286" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="4,22,146,158" text-anchor="end" x="22.5" y="157.78571428571428" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">150</text>
+<text aria-label="4,22,118,130" text-anchor="end" x="22.5" y="129.21428571428572" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="4,22,89,101" text-anchor="end" x="22.5" y="100.64285714285714" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">250</text>
+<text aria-label="4,22,61,73" text-anchor="end" x="22.5" y="72.07142857142858" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="4,22,32,44" text-anchor="end" x="22.5" y="43.5" font-family="monospace" font-size="11px" font-weight="normal" fill="#000" opacity="1">350</text>
+<line aria-label="24,29,240,240" x1="29.5" y1="240.5" x2="24.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="24,29,211,211" x1="29.5" y1="211.5" x2="24.5" y2="211.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="24,29,183,183" x1="29.5" y1="183.5" x2="24.5" y2="183.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="24,29,154,154" x1="29.5" y1="154.5" x2="24.5" y2="154.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="24,29,126,126" x1="29.5" y1="126.5" x2="24.5" y2="126.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="24,29,97,97" x1="29.5" y1="97.5" x2="24.5" y2="97.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="24,29,69,69" x1="29.5" y1="69.5" x2="24.5" y2="69.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="24,29,40,40" x1="29.5" y1="40.5" x2="24.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="harm Roentgenium: patio; before deaden never: 334; grumpy: Berkshire expedita Northeast" role="graphics-symbol" aria-roledescription="bar" d="M265.6,49.14285714285714h46.800000000000004v190.85714285714286h-46.800000000000004Z" fill="#cd3bd5"/>
+<path aria-label="harm Roentgenium: normal; before deaden never: 114; grumpy: Berkshire expedita Northeast" role="graphics-symbol" aria-roledescription="bar" d="M161.60000000000002,174.85714285714286h46.800000000000004v65.14285714285714h-46.800000000000004Z" fill="#cd3bd5"/>
+<path aria-label="harm Roentgenium: corn; before deaden never: 327; grumpy: Berkshire expedita Northeast" role="graphics-symbol" aria-roledescription="bar" d="M57.60000000000002,53.142857142857146h46.800000000000004v186.85714285714286h-46.800000000000004Z" fill="#cd3bd5"/>
+<text aria-label="284,293,42,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="289.0" y="46.86685714285714" font-family="monospace" font-size="4.68px" fill="#000" opacity="1">334</text>
+<text aria-label="180,189,167,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.00000000000003" y="172.58114285714285" font-family="monospace" font-size="4.68px" fill="#000" opacity="1">114</text>
+<text aria-label="76,85,46,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="81.00000000000003" y="50.86685714285714" font-family="monospace" font-size="4.68px" fill="#000" opacity="1">327</text>
+</svg>

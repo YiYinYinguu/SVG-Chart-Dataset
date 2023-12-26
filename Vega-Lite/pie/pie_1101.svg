@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="283" height="270" viewBox="0 0 283 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,278,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Ari cohesive Concrete</text>
+<path aria-label="Colombian mid East: 804; right Coordinator: EXE" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.66770171069905,118.27187145242675A75,75,0,1,0,105.0,59.0L105.0,80.0A54,54,0,1,1,52.20074523170331,122.67574744574726Z" fill="#03c0ac" stroke="black" stroke-width="4"/>
+<path aria-label="Colombian mid East: 206; right Coordinator: transitional" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,33.55807324255551,111.17345621466232L53.56181273463997,117.56488847455688A54,54,0,0,1,104.99999999999999,80.0Z" fill="#ef7ae6" stroke="black" stroke-width="4"/>
+<path aria-label="Colombian mid East: 16; right Coordinator: rerum" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.55807324255551,111.17345621466232A75,75,0,0,0,31.66770171069905,118.27187145242675L52.20074523170331,122.67574744574726A54,54,0,0,1,53.56181273463997,117.56488847455688Z" fill="#d3003d" stroke="black" stroke-width="4"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#03c0ac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M61.0,258.25A5,5,0,1,1,51.0,258.25A5,5,0,1,1,61.0,258.25" fill="#d3003d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M117.0,258.25A5,5,0,1,1,107.0,258.25A5,5,0,1,1,117.0,258.25" fill="#ef7ae6" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,37,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">EXE</text>
+<text aria-label="66,93,251,262" text-anchor="start" x="66.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">rerum</text>
+<text aria-label="122,188,251,262" text-anchor="start" x="122.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">transitional</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="286" height="239" viewBox="0 0 286 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="164,281,0,26" text-anchor="end" x="281.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">partially</text>
+<path aria-label="proactive Human Regional: 401; Frozen: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M138.00004943252412,195.4492005740891A75,75,0,0,0,224.3752719829245,195.18484927175456L200.08511967248677,160.921333679572A33,33,0,0,1,162.0800217503106,161.0376482525992Z" fill="#a29b45" stroke="white" stroke-width="1"/>
+<path aria-label="proactive Human Regional: 192; Frozen: process" role="graphics-symbol" aria-roledescription="arc mark"  d="M181.0,59.0A75,75,0,0,0,139.42173762665874,71.58006650104797L162.70556455572984,106.53522926046111A33,33,0,0,1,181.0,101.0Z" fill="#256ef4" stroke="white" stroke-width="1"/>
+<path aria-label="proactive Human Regional: 421; Frozen: Dynamic" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.030665503396,113.10542589240261A75,75,0,0,0,181.0,59.0L181.0,101.0A33,33,0,0,1,212.69349282149423,124.80638739265714Z" fill="#f14080" stroke="white" stroke-width="1"/>
+<path aria-label="proactive Human Regional: 240; Frozen: interface" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.6118972293389,92.373990911001A75,75,0,0,0,106.79944171317885,144.92140787280002L148.3517543537987,138.805419464032A33,33,0,0,1,153.5492347809091,115.68455600084044Z" fill="#ea78c0" stroke="white" stroke-width="1"/>
+<path aria-label="proactive Human Regional: 129; Frozen: plum" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.42173762665874,71.58006650104797A75,75,0,0,0,118.6118972293389,92.373990911001L153.5492347809091,115.68455600084044A33,33,0,0,1,162.70556455572984,106.53522926046111Z" fill="#c731ec" stroke="white" stroke-width="1"/>
+<path aria-label="proactive Human Regional: 404; Frozen: Manat" role="graphics-symbol" aria-roledescription="arc mark"  d="M224.3752719829245,195.18484927175456A75,75,0,0,0,253.030665503396,113.10542589240261L212.69349282149423,124.80638739265714A33,33,0,0,1,200.08511967248677,160.921333679572Z" fill="#0b427c" stroke="white" stroke-width="1"/>
+<path aria-label="proactive Human Regional: 266; Frozen: ferret" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.79944171317885,144.92140787280002A75,75,0,0,0,138.00004943252412,195.4492005740891L162.0800217503106,161.0376482525992A33,33,0,0,1,148.3517543537987,138.805419464032Z" fill="#fbd01a" stroke="white" stroke-width="1"/>
+<text aria-label="170,191,214,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="181.27544364094769" y="227.99957850346112" font-family="sans-serif" font-size="13px" fill="#a29b45" opacity="1">401</text>
+<text aria-label="144,165,38,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="154.93616315550247" y="51.85665197507463" font-family="sans-serif" font-size="13px" fill="#256ef4" opacity="1">192</text>
+<text aria-label="224,245,53,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="235.05268724300154" y="66.03954556973491" font-family="sans-serif" font-size="13px" fill="#f14080" opacity="1">421</text>
+<text aria-label="82,103,105,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="93.19128967363287" y="118.26094250425959" font-family="sans-serif" font-size="13px" fill="#ea78c0" opacity="1">240</text>
+<text aria-label="106,127,61,75" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.38474039584341" y="74.33604830443085" font-family="sans-serif" font-size="13px" fill="#c731ec" opacity="1">129</text>
+<text aria-label="255,276,154,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="265.97059711322515" y="167.6647539383351" font-family="sans-serif" font-size="13px" fill="#0b427c" opacity="1">404</text>
+<text aria-label="93,114,172,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="104.42293972768728" y="185.28587357816903" font-family="sans-serif" font-size="13px" fill="#fbd01a" opacity="1">266</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#f14080" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#0b427c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#a29b45" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#fbd01a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#ea78c0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#c731ec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#256ef4" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Dynamic</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Manat</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">ferret</text>
+<text aria-label="21,70,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">interface</text>
+<text aria-label="21,43,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">plum</text>
+<text aria-label="21,59,145,156" text-anchor="start" x="21.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">process</text>
+<text aria-label="5,41,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Frozen</text>
+</svg>

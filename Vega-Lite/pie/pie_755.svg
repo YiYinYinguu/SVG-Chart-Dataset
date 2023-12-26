@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="270" viewBox="0 0 308 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,304,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">approach gray auxiliary</text>
+<path aria-label="monitor: 92; Salad: ruling" role="graphics-symbol" aria-roledescription="arc mark"  d="M49.76399125038658,184.7344393623565A75,75,0,0,0,116.10320037402985,208.1735730665184L105.0,134.0Z" fill="#f4bd7f" stroke="black" stroke-width="1"/>
+<path aria-label="monitor: 228; Salad: Chicken" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.5506042542561,190.30042289395433A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#421a53" stroke="black" stroke-width="1"/>
+<path aria-label="monitor: 54; Salad: Stage" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.10320037402985,208.1735730665184A75,75,0,0,0,154.5506042542561,190.30042289395433L105.0,134.0Z" fill="#fdc637" stroke="black" stroke-width="1"/>
+<path aria-label="monitor: 218; Salad: so" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,49.76399125038658,184.7344393623565L105.0,134.0Z" fill="#ac59b3" stroke="black" stroke-width="1"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#421a53" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,258.25A5,5,0,1,1,68.0,258.25A5,5,0,1,1,78.0,258.25" fill="#fdc637" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,258.25A5,5,0,1,1,120.0,258.25A5,5,0,1,1,130.0,258.25" fill="#f4bd7f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,258.25A5,5,0,1,1,177.0,258.25A5,5,0,1,1,187.0,258.25" fill="#ac59b3" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Chicken</text>
+<text aria-label="83,110,251,262" text-anchor="start" x="83.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Stage</text>
+<text aria-label="135,168,251,262" text-anchor="start" x="135.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">ruling</text>
+<text aria-label="192,203,251,262" text-anchor="start" x="192.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">so</text>
+</svg>

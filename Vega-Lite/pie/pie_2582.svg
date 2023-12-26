@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="370" height="239" viewBox="0 0 370 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,356,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">parse laboriosam Supervisor</text>
+<path aria-label="Oklahoma: 699; Gilroy: Agent" role="graphics-symbol" aria-roledescription="arc mark"  d="M250.31736012682836,97.14023241985629A75,75,0,0,0,185.0,59.0L185.0,75.0A59,59,0,0,1,236.38298996643832,105.00364950362028Z" fill="#d654f0" stroke="white" stroke-width="0"/>
+<path aria-label="Oklahoma: 848; Gilroy: black" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.65335064408202,195.20513041906776A75,75,0,0,0,231.3457130996667,192.96672686594857L221.4586276384045,180.38715846787954A59,59,0,0,1,150.9006358400112,182.14803592966666Z" fill="#0a4fd0" stroke="white" stroke-width="0"/>
+<path aria-label="Oklahoma: 10; Gilroy: optimize" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.80126482281163,123.0662130025563A75,75,0,0,0,110.64441406363882,124.1894526115814L126.50693906339586,126.28236938777736A59,59,0,0,1,126.63032832727848,125.39875422867762Z" fill="#3f7cea" stroke="white" stroke-width="0"/>
+<path aria-label="Oklahoma: 938; Gilroy: Sahara" role="graphics-symbol" aria-roledescription="arc mark"  d="M231.3457130996667,192.96672686594857A75,75,0,0,0,250.31736012682836,97.14023241985629L236.38298996643832,105.00364950362028A59,59,0,0,1,221.4586276384045,180.38715846787954Z" fill="#7d648e" stroke="white" stroke-width="0"/>
+<path aria-label="Oklahoma: 942; Gilroy: transition" role="graphics-symbol" aria-roledescription="arc mark"  d="M185.0,59.0A75,75,0,0,0,110.80126482281163,123.0662130025563L126.63032832727848,125.39875422867762A59,59,0,0,1,185.0,75.0Z" fill="#fc1a3d" stroke="white" stroke-width="0"/>
+<path aria-label="Oklahoma: 718; Gilroy: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.64441406363882,124.1894526115814A75,75,0,0,0,141.65335064408202,195.20513041906776L150.9006358400112,182.14803592966666A59,59,0,0,1,126.50693906339586,126.28236938777736Z" fill="#d92e1b" stroke="white" stroke-width="0"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#d654f0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#7d648e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#0a4fd0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#d92e1b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#3f7cea" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#fc1a3d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Agent</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Sahara</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">black</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="21,65,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">optimize</text>
+<text aria-label="21,76,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">transition</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="391" height="286" viewBox="0 0 391 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">white</text>
+<path aria-label="Northeast: 69; Bicycle: Designer" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.19211992440654,123.02141442978751A75,75,0,0,0,163.93810222899978,87.61789024156002L105.0,134.0Z" fill="#290bbf" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast: 110; Bicycle: Bicycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M160.27989204179067,83.31337912379672A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#abc69f" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast: 10; Bicycle: Clothing" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.93810222899978,87.61789024156002A75,75,0,0,0,160.27989204179067,83.31337912379672L105.0,134.0Z" fill="#ceacaf" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast: 287; Bicycle: Lamborghini" role="graphics-symbol" aria-roledescription="arc mark"  d="M72.74992228860884,201.71212954566732A75,75,0,0,0,179.19211992440654,123.02141442978751L105.0,134.0Z" fill="#c3aca5" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast: 246; Bicycle: person" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.97324622453564,154.90805444245424L105.0,134.0Z" fill="#5bd4ce" stroke="black" stroke-width="4"/>
+<path aria-label="Northeast: 112; Bicycle: bah" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.97324622453564,154.90805444245424A75,75,0,0,0,72.74992228860884,201.71212954566732L105.0,134.0Z" fill="#a6cd94" stroke="black" stroke-width="4"/>
+<text aria-label="181,194,90,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.6543622998945" y="102.38741243888927" font-family="Balto" font-size="12px" fill="#290bbf" opacity="1">69</text>
+<text aria-label="131,150,43,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.2342720733427" y="55.61627874807439" font-family="Balto" font-size="12px" fill="#abc69f" opacity="1">110</text>
+<text aria-label="167,180,67,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.5794462738939" y="79.71741641994495" font-family="Balto" font-size="12px" fill="#ceacaf" opacity="1">10</text>
+<text aria-label="148,168,198,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="158.50225115040385" y="210.37063715236388" font-family="Balto" font-size="12px" fill="#c3aca5" opacity="1">287</text>
+<text aria-label="23,42,71,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="33.03448784388087" y="83.95404677399546" font-family="Balto" font-size="12px" fill="#5bd4ce" opacity="1">246</text>
+<text aria-label="26,46,184,197" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="36.420553726106135" y="196.28258358005507" font-family="Balto" font-size="12px" fill="#a6cd94" opacity="1">112</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#abc69f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,274.25A5,5,0,1,1,66.0,274.25A5,5,0,1,1,76.0,274.25" fill="#ceacaf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M144.0,274.25A5,5,0,1,1,134.0,274.25A5,5,0,1,1,144.0,274.25" fill="#290bbf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M214.0,274.25A5,5,0,1,1,204.0,274.25A5,5,0,1,1,214.0,274.25" fill="#c3aca5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M302.0,274.25A5,5,0,1,1,292.0,274.25A5,5,0,1,1,302.0,274.25" fill="#a6cd94" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M347.0,274.25A5,5,0,1,1,337.0,274.25A5,5,0,1,1,347.0,274.25" fill="#5bd4ce" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Bicycle</text>
+<text aria-label="81,125,267,278" text-anchor="start" x="81.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Clothing</text>
+<text aria-label="149,193,267,278" text-anchor="start" x="149.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Designer</text>
+<text aria-label="219,279,267,278" text-anchor="start" x="219.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Lamborghini</text>
+<text aria-label="307,323,267,278" text-anchor="start" x="307.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">bah</text>
+<text aria-label="352,385,267,278" text-anchor="start" x="352.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">person</text>
+<text aria-label="5,47,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bicycle</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="923" height="321" viewBox="0 0 923 321" style="background-color: rgb(255, 255, 255);">
+<text aria-label="89,100,258,291" text-anchor="end" x="97.19354838709683" y="258.5" transform="rotate(270.0, 100.19354838709683, 258.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">basics</text>
+<text aria-label="214,225,258,280" text-anchor="end" x="222.5161290322581" y="258.5" transform="rotate(270.0, 225.5161290322581, 258.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">boom</text>
+<text aria-label="339,350,258,297" text-anchor="end" x="347.8387096774194" y="258.5" transform="rotate(270.0, 350.8387096774194, 258.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">ceiling</text>
+<text aria-label="465,476,258,286" text-anchor="end" x="473.16129032258067" y="258.5" transform="rotate(270.0, 476.16129032258067, 258.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">draft</text>
+<text aria-label="590,601,258,302" text-anchor="end" x="598.483870967742" y="258.5" transform="rotate(270.0, 601.483870967742, 258.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">humidity</text>
+<text aria-label="715,726,258,319" text-anchor="end" x="723.8064516129032" y="258.5" transform="rotate(270.0, 726.8064516129032, 258.5)" font-family="serif" font-size="10px" font-weight="bold" fill="#000" opacity="1">variability</text>
+<line aria-label="97,97,251,256" x1="97.5" y1="251.5" x2="97.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="222,222,251,256" x1="222.5" y1="251.5" x2="222.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="347,347,251,256" x1="347.5" y1="251.5" x2="347.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="473,473,251,256" x1="473.5" y1="251.5" x2="473.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="598,598,251,256" x1="598.5" y1="251.5" x2="598.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="723,723,251,256" x1="723.5" y1="251.5" x2="723.5" y2="256.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="22,799,251,251" x1="22.5" y1="251.5" x2="799.5" y2="251.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,369,0,26" text-anchor="start" x="5.0" y="25.40250000000001" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Omnigender intuitive Prairie</text>
+<text aria-label="15,20,244,255" text-anchor="end" x="20.5" y="254.5" font-family="serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="4,20,194,205" text-anchor="end" x="20.5" y="204.5" font-family="serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="4,20,144,155" text-anchor="end" x="20.5" y="154.5" font-family="serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="4,20,94,105" text-anchor="end" x="20.5" y="104.5" font-family="serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="4,20,44,55" text-anchor="end" x="20.5" y="54.5" font-family="serif" font-size="10px" font-weight="normal" fill="#000" opacity="1">800</text>
+<line aria-label="22,22,51,251" x1="22.5" y1="251.5" x2="22.5" y2="51.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Bermuda tan: draft; Stiedemann: 772; Hyundai: monitor Southeast" role="graphics-symbol" aria-roledescription="bar" d="M423.03225806451616,58.00000000000001h100.25806451612902v193h-100.25806451612902Z" fill="#9bd857"/>
+<path aria-label="Bermuda tan: boom; Stiedemann: 692; Hyundai: monitor Southeast" role="graphics-symbol" aria-roledescription="bar" d="M172.3870967741936,78.0h100.25806451612902v173h-100.25806451612902Z" fill="#9bd857"/>
+<path aria-label="Bermuda tan: basics; Stiedemann: 475; Hyundai: monitor Southeast" role="graphics-symbol" aria-roledescription="bar" d="M47.06451612903231,132.25h100.25806451612902v118.75h-100.25806451612902Z" fill="#9bd857"/>
+<path aria-label="Bermuda tan: variability; Stiedemann: 764; Hyundai: monitor Southeast" role="graphics-symbol" aria-roledescription="bar" d="M673.6774193548387,60.00000000000001h100.25806451612902v191h-100.25806451612902Z" fill="#9bd857"/>
+<path aria-label="Bermuda tan: humidity; Stiedemann: 291; Hyundai: monitor Southeast" role="graphics-symbol" aria-roledescription="bar" d="M548.3548387096774,178.25h100.25806451612902v72.75h-100.25806451612902Z" fill="#9bd857"/>
+<path aria-label="Bermuda tan: ceiling; Stiedemann: 706; Hyundai: monitor Southeast" role="graphics-symbol" aria-roledescription="bar" d="M297.7096774193549,74.50000000000001h100.25806451612902v176.5h-100.25806451612902Z" fill="#9bd857"/>
+<text aria-label="457,488,30,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="473.16129032258067" y="50.40250000000001" font-family="serif" font-size="19.424999999999997px" fill="#000" opacity="1">772</text>
+<text aria-label="207,237,50,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="222.5161290322581" y="70.4025" font-family="serif" font-size="19.424999999999997px" fill="#000" opacity="1">692</text>
+<text aria-label="81,112,105,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="97.19354838709683" y="124.6525" font-family="serif" font-size="19.424999999999997px" fill="#000" opacity="1">475</text>
+<text aria-label="708,739,32,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="723.8064516129032" y="52.40250000000001" font-family="serif" font-size="19.424999999999997px" fill="#000" opacity="1">764</text>
+<text aria-label="583,613,151,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="598.483870967742" y="170.6525" font-family="serif" font-size="19.424999999999997px" fill="#000" opacity="1">291</text>
+<text aria-label="332,363,47,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="347.8387096774194" y="66.90250000000002" font-family="serif" font-size="19.424999999999997px" fill="#000" opacity="1">706</text>
+<path  d="M818.0,68.0h10v10h-10Z" fill="#9bd857" stroke-width="1.5" opacity="1"/>
+<text aria-label="833,926,66,77" text-anchor="start" x="833.0" y="76.0" font-family="serif" font-size="10px" fill="#000" opacity="1">monitor Southeast</text>
+<text aria-label="817,859,49,61" text-anchor="start" x="817.0" y="60.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Hyundai</text>
+</svg>

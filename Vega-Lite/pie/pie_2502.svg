@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="330" height="270" viewBox="0 0 330 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,44,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">SDD</text>
+<path aria-label="Indium: 369; Comoros: tesla" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,47.29576156208321,86.0915365900758L105.0,134.0Z" fill="#e2bdba" stroke="white" stroke-width="0"/>
+<path aria-label="Indium: 596; Comoros: UTF8" role="graphics-symbol" aria-roledescription="arc mark"  d="M114.34334179706683,208.41573734139294A75,75,0,0,0,179.9706977038313,136.09630288859802L105.0,134.0Z" fill="#c7e1b6" stroke="white" stroke-width="0"/>
+<path aria-label="Indium: 469; Comoros: bypass" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.261355067037876,175.09577146101174A75,75,0,0,0,114.34334179706683,208.41573734139294L105.0,134.0Z" fill="#25597f" stroke="white" stroke-width="0"/>
+<path aria-label="Indium: 75; Comoros: Card" role="graphics-symbol" aria-roledescription="arc mark"  d="M118.31150113964924,60.19075981010835A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#a7b81f" stroke="white" stroke-width="0"/>
+<path aria-label="Indium: 597; Comoros: Mercedes" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.9706977038313,136.09630288859802A75,75,0,0,0,118.31150113964924,60.19075981010835L105.0,134.0Z" fill="#9c0cee" stroke="white" stroke-width="0"/>
+<path aria-label="Indium: 535; Comoros: teal" role="graphics-symbol" aria-roledescription="arc mark"  d="M47.29576156208321,86.0915365900758A75,75,0,0,0,42.261355067037876,175.09577146101174L105.0,134.0Z" fill="#3cfef0" stroke="white" stroke-width="0"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#a7b81f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M66.0,258.25A5,5,0,1,1,56.0,258.25A5,5,0,1,1,66.0,258.25" fill="#9c0cee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,258.25A5,5,0,1,1,130.0,258.25A5,5,0,1,1,140.0,258.25" fill="#c7e1b6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M192.0,258.25A5,5,0,1,1,182.0,258.25A5,5,0,1,1,192.0,258.25" fill="#25597f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M252.0,258.25A5,5,0,1,1,242.0,258.25A5,5,0,1,1,252.0,258.25" fill="#3cfef0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M297.0,258.25A5,5,0,1,1,287.0,258.25A5,5,0,1,1,297.0,258.25" fill="#e2bdba" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Card</text>
+<text aria-label="71,115,251,262" text-anchor="start" x="71.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Mercedes</text>
+<text aria-label="145,167,251,262" text-anchor="start" x="145.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">UTF8</text>
+<text aria-label="197,230,251,262" text-anchor="start" x="197.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">bypass</text>
+<text aria-label="257,279,251,262" text-anchor="start" x="257.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">teal</text>
+<text aria-label="302,329,251,262" text-anchor="start" x="302.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">tesla</text>
+</svg>

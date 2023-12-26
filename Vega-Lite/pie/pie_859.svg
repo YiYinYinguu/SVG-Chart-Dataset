@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="285" height="239" viewBox="0 0 285 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="88,270,0,26" text-anchor="middle" x="179.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">withdrawal Non</text>
+<path aria-label="array scalable: 314; User: before" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.87287013033142,66.22944941689312A75,75,0,0,0,105.99791958433455,116.8041791418753L179.0,134.0Z" fill="#4707b7" stroke="black" stroke-width="1"/>
+<path aria-label="array scalable: 664; User: Classical" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.05760328352676,207.28601494783697A75,75,0,0,0,253.53524313866785,125.66348212623132L179.0,134.0Z" fill="#fff8c5" stroke="black" stroke-width="1"/>
+<path aria-label="array scalable: 556; User: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.99791958433455,116.8041791418753A75,75,0,0,0,163.05760328352676,207.28601494783697L179.0,134.0Z" fill="#dd8ce3" stroke="black" stroke-width="1"/>
+<path aria-label="array scalable: 155; User: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.0,59.0A75,75,0,0,0,146.87287013033142,66.22944941689312L179.0,134.0Z" fill="#a8de62" stroke="black" stroke-width="1"/>
+<path aria-label="array scalable: 511; User: Agent" role="graphics-symbol" aria-roledescription="arc mark"  d="M253.53524313866785,125.66348212623132A75,75,0,0,0,179.0,59.0L179.0,134.0Z" fill="#1efeae" stroke="black" stroke-width="1"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#1efeae" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#fff8c5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#dd8ce3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#4707b7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#a8de62" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Agent</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Classical</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">before</text>
+<text aria-label="21,43,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">male</text>
+</svg>

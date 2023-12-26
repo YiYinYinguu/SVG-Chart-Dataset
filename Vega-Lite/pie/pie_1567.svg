@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="348" height="239" viewBox="0 0 348 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="6,305,0,26" text-anchor="middle" x="156.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Principal Wisconsin SAS</text>
+<path aria-label="PCI bandwidth male: 494; orange Southwest Cronin: generating" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.9198460027201,205.72531178891478A75,75,0,0,0,156.0,59.0L156.0,95.0A39,39,0,0,1,167.39831992141444,171.29716213023568Z" fill="#1e58f4" stroke="black" stroke-width="0"/>
+<path aria-label="PCI bandwidth male: 299; orange Southwest Cronin: virtual" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.0,59.0A75,75,0,0,0,81.85540706860405,145.2951024359051L117.4448116756741,139.87345326667065A39,39,0,0,1,156.0,95.0Z" fill="#5e2097" stroke="black" stroke-width="0"/>
+<path aria-label="PCI bandwidth male: 298; orange Southwest Cronin: salmon" role="graphics-symbol" aria-roledescription="arc mark"  d="M81.85540706860405,145.2951024359051A75,75,0,0,0,177.9198460027201,205.72531178891478L167.39831992141444,171.29716213023568A39,39,0,0,1,117.4448116756741,139.87345326667065Z" fill="#bfebeb" stroke="black" stroke-width="0"/>
+<text aria-label="233,256,110,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="245.01217240693205" y="124.70213688600299" font-family="avenir" font-size="14px" fill="#1e58f4" opacity="1">494</text>
+<text aria-label="76,98,65,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="87.73627953635342" y="79.34793721904472" font-family="avenir" font-size="14px" fill="#5e2097" opacity="1">299</text>
+<text aria-label="96,119,200,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="108.07793428996813" y="214.18054619181584" font-family="avenir" font-size="14px" fill="#bfebeb" opacity="1">298</text>
+<path  d="M285.0,40.0A5,5,0,1,1,275.0,40.0A5,5,0,1,1,285.0,40.0" fill="#1e58f4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M285.0,56.0A5,5,0,1,1,275.0,56.0A5,5,0,1,1,285.0,56.0" fill="#bfebeb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M285.0,72.0A5,5,0,1,1,275.0,72.0A5,5,0,1,1,285.0,72.0" fill="#5e2097" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="290,345,33,44" text-anchor="start" x="290.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">generating</text>
+<text aria-label="290,323,49,60" text-anchor="start" x="290.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">salmon</text>
+<text aria-label="290,328,65,76" text-anchor="start" x="290.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">virtual</text>
+</svg>

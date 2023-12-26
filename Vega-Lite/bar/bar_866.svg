@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="511" height="338" viewBox="0 0 511 338" style="background-color: rgb(255, 255, 255);">
+<line x1="120.5" y1="42.5" x2="120.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="269.5" y1="42.5" x2="269.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="417.5" y1="42.5" x2="417.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="242.5" x2="506.5" y2="242.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="213.5" x2="506.5" y2="213.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="185.5" x2="506.5" y2="185.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="156.5" x2="506.5" y2="156.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="128.5" x2="506.5" y2="128.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="99.5" x2="506.5" y2="99.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="71.5" x2="506.5" y2="71.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="32.5" y1="42.5" x2="506.5" y2="42.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="108,125,249,292" text-anchor="end" x="120.875" y="249.5" transform="rotate(270.0, 125.875, 249.5)" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">brief</text>
+<text aria-label="257,274,249,309" text-anchor="end" x="269.0" y="249.5" transform="rotate(270.0, 274.0, 249.5)" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">caution</text>
+<text aria-label="405,422,249,326" text-anchor="end" x="417.125" y="249.5" transform="rotate(270.0, 422.125, 249.5)" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">nightmare</text>
+<line aria-label="120,120,242,247" x1="120.5" y1="242.5" x2="120.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="269,269,242,247" x1="269.5" y1="242.5" x2="269.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="417,417,242,247" x1="417.5" y1="242.5" x2="417.5" y2="247.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,506,242,242" x1="32.5" y1="242.5" x2="506.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="454,506,0,26" text-anchor="end" x="506.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">male</text>
+<text aria-label="17,25,231,248" text-anchor="end" x="25.5" y="247.5" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="8,25,202,219" text-anchor="end" x="25.5" y="218.92857142857144" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">10</text>
+<text aria-label="8,25,174,191" text-anchor="end" x="25.5" y="190.35714285714286" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="8,25,145,162" text-anchor="end" x="25.5" y="161.78571428571428" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">30</text>
+<text aria-label="8,25,117,134" text-anchor="end" x="25.5" y="133.21428571428572" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="8,25,88,105" text-anchor="end" x="25.5" y="104.64285714285714" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="8,25,60,77" text-anchor="end" x="25.5" y="76.07142857142858" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="8,25,31,48" text-anchor="end" x="25.5" y="47.5" font-family="sans-serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">70</text>
+<line aria-label="27,32,242,242" x1="32.5" y1="242.5" x2="27.5" y2="242.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,213,213" x1="32.5" y1="213.5" x2="27.5" y2="213.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,185,185" x1="32.5" y1="185.5" x2="27.5" y2="185.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,156,156" x1="32.5" y1="156.5" x2="27.5" y2="156.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,128,128" x1="32.5" y1="128.5" x2="27.5" y2="128.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,99,99" x1="32.5" y1="99.5" x2="27.5" y2="99.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,71,71" x1="32.5" y1="71.5" x2="27.5" y2="71.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="27,32,42,42" x1="32.5" y1="42.5" x2="27.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,32,42,242" x1="32.5" y1="242.5" x2="32.5" y2="42.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Peso invoice: caution; Data black equally: 15; Northeast: as Director" role="graphics-symbol" aria-roledescription="bar" d="M209.75,199.14285714285714h39.5v42.85714285714286h-39.5Z" fill="#b9fd8e"/>
+<path aria-label="Peso invoice: caution; Data black equally: 36; Northeast: improvement Checking" role="graphics-symbol" aria-roledescription="bar" d="M249.25,139.14285714285717h39.5v102.85714285714285h-39.5Z" fill="#82dcd1"/>
+<path aria-label="Peso invoice: caution; Data black equally: 35; Northeast: which" role="graphics-symbol" aria-roledescription="bar" d="M288.75,142.0h39.5v100h-39.5Z" fill="#eaadd5"/>
+<path aria-label="Peso invoice: nightmare; Data black equally: 40; Northeast: as Director" role="graphics-symbol" aria-roledescription="bar" d="M357.875,127.71428571428572h39.5v114.28571428571428h-39.5Z" fill="#b9fd8e"/>
+<path aria-label="Peso invoice: nightmare; Data black equally: 13; Northeast: improvement Checking" role="graphics-symbol" aria-roledescription="bar" d="M397.375,204.85714285714286h39.5v37.14285714285714h-39.5Z" fill="#82dcd1"/>
+<path aria-label="Peso invoice: nightmare; Data black equally: 6; Northeast: which" role="graphics-symbol" aria-roledescription="bar" d="M436.875,224.85714285714286h39.5v17.14285714285714h-39.5Z" fill="#eaadd5"/>
+<path aria-label="Peso invoice: brief; Data black equally: 14; Northeast: as Director" role="graphics-symbol" aria-roledescription="bar" d="M61.625,202.0h39.5v40h-39.5Z" fill="#b9fd8e"/>
+<path aria-label="Peso invoice: brief; Data black equally: 70; Northeast: improvement Checking" role="graphics-symbol" aria-roledescription="bar" d="M101.125,42.0h39.5v200h-39.5Z" fill="#82dcd1"/>
+<path aria-label="Peso invoice: brief; Data black equally: 45; Northeast: which" role="graphics-symbol" aria-roledescription="bar" d="M140.625,113.42857142857142h39.5v128.57142857142858h-39.5Z" fill="#eaadd5"/>
+</svg>

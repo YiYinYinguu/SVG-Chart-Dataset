@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="353" height="239" viewBox="0 0 353 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="9,295,0,26" text-anchor="middle" x="152.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">turquoise parse aboard</text>
+<path aria-label="payment feed: 2; whenever: International" role="graphics-symbol" aria-roledescription="arc mark"  d="M186.85423790328264,67.59079807600925A75,75,0,0,0,152.0,59.0L152.0,134.0Z" fill="#3f72a0" stroke="black" stroke-width="1"/>
+<path aria-label="payment feed: 7; whenever: Senior" role="graphics-symbol" aria-roledescription="arc mark"  d="M213.72378994202424,176.60485600483668A75,75,0,0,0,186.85423790328264,67.59079807600925L152.0,134.0Z" fill="#8ffafc" stroke="black" stroke-width="1"/>
+<path aria-label="payment feed: 13; whenever: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M90.27621005797576,91.39514399516332A75,75,0,1,0,213.72378994202424,176.60485600483668L152.0,134.0Z" fill="#d80cb8" stroke="black" stroke-width="1"/>
+<path aria-label="payment feed: 4; whenever: doloremque" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.0,59.0A75,75,0,0,0,90.27621005797576,91.39514399516332L152.0,134.0Z" fill="#bd7b71" stroke="black" stroke-width="1"/>
+<text aria-label="171,175,41,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="173.53840978588022" y="48.61523643165532" font-family="avenir" font-size="7px" fill="#3f72a0" opacity="1">2</text>
+<text aria-label="237,241,107,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="239.38476356834468" y="114.46159021411981" font-family="avenir" font-size="7px" fill="#8ffafc" opacity="1">7</text>
+<text aria-label="96,104,203,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="100.87417279419599" y="210.06854793042908" font-family="avenir" font-size="7px" fill="#d80cb8" opacity="1">13</text>
+<text aria-label="108,112,49,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.17491451606085" y="56.30895769121109" font-family="avenir" font-size="7px" fill="#bd7b71" opacity="1">4</text>
+<path  d="M281.0,40.0A5,5,0,1,1,271.0,40.0A5,5,0,1,1,281.0,40.0" fill="#3f72a0" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M281.0,56.0A5,5,0,1,1,271.0,56.0A5,5,0,1,1,281.0,56.0" fill="#8ffafc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M281.0,72.0A5,5,0,1,1,271.0,72.0A5,5,0,1,1,281.0,72.0" fill="#d80cb8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M281.0,88.0A5,5,0,1,1,271.0,88.0A5,5,0,1,1,281.0,88.0" fill="#bd7b71" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="286,357,33,44" text-anchor="start" x="286.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">International</text>
+<text aria-label="286,319,49,60" text-anchor="start" x="286.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Senior</text>
+<text aria-label="286,313,65,76" text-anchor="start" x="286.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="286,341,81,92" text-anchor="start" x="286.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">doloremque</text>
+</svg>

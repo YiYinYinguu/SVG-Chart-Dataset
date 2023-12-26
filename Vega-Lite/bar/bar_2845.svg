@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="426" height="302" viewBox="0 0 426 302" style="background-color: rgb(255, 255, 255);">
+<line x1="124.5" y1="34.5" x2="124.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="238.5" y1="34.5" x2="238.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="352.5" y1="34.5" x2="352.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="234.5" x2="421.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="172.5" x2="421.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="109.5" x2="421.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="47.5" x2="421.5" y2="47.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="112,129,241,301" text-anchor="end" x="124.4375" y="241.5" transform="rotate(270.0, 129.4375, 241.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">eclipse</text>
+<text aria-label="226,243,241,292" text-anchor="end" x="238.5" y="241.5" transform="rotate(270.0, 243.5, 241.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">heaven</text>
+<text aria-label="340,357,241,284" text-anchor="end" x="352.56250000000006" y="241.5" transform="rotate(270.0, 357.56250000000006, 241.5)" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">icing</text>
+<line aria-label="124,124,234,239" x1="124.5" y1="234.5" x2="124.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="238,238,234,239" x1="238.5" y1="234.5" x2="238.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="352,352,234,239" x1="352.5" y1="234.5" x2="352.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,421,234,234" x1="56.5" y1="234.5" x2="421.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="330,421,0,26" text-anchor="end" x="421.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">parsing</text>
+<text aria-label="41,49,223,240" text-anchor="end" x="49.5" y="239.5" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="32,49,161,178" text-anchor="end" x="49.5" y="177.0" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="24,49,98,115" text-anchor="end" x="49.5" y="114.5" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="24,49,36,53" text-anchor="end" x="49.5" y="52.0" font-family="sans-serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="51,56,234,234" x1="56.5" y1="234.5" x2="51.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,172,172" x1="56.5" y1="172.5" x2="51.5" y2="172.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,109,109" x1="56.5" y1="109.5" x2="51.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,47,47" x1="56.5" y1="47.5" x2="51.5" y2="47.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="3,15,95,173" text-anchor="middle" x="17.3515625" y="134.5" transform="rotate(-90.0, 15.3515625, 134.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Plastic Metal</text>
+<path aria-label="kilogram Southwest communities: icing; Plastic Metal: 101; boo quam Northeast: Sleek RAM Towels" role="graphics-symbol" aria-roledescription="bar" d="M337.3541666666667,107.75h30.41666666666667v126.25h-30.41666666666667Z" fill="#2bf8ff"/>
+<path aria-label="kilogram Southwest communities: icing; Plastic Metal: 32; boo quam Northeast: responsive deposit" role="graphics-symbol" aria-roledescription="bar" d="M367.77083333333337,194.0h30.41666666666667v40h-30.41666666666667Z" fill="#d87dc7"/>
+<path aria-label="kilogram Southwest communities: icing; Plastic Metal: 148; boo quam Northeast: Health Zloty" role="graphics-symbol" aria-roledescription="bar" d="M306.9375,48.99999999999999h30.41666666666667v185h-30.41666666666667Z" fill="#9b2ed8"/>
+<path aria-label="kilogram Southwest communities: eclipse; Plastic Metal: 120; boo quam Northeast: Sleek RAM Towels" role="graphics-symbol" aria-roledescription="bar" d="M109.22916666666667,84.0h30.41666666666667v150h-30.41666666666667Z" fill="#2bf8ff"/>
+<path aria-label="kilogram Southwest communities: eclipse; Plastic Metal: 102; boo quam Northeast: responsive deposit" role="graphics-symbol" aria-roledescription="bar" d="M139.64583333333334,106.50000000000001h30.41666666666667v127.49999999999999h-30.41666666666667Z" fill="#d87dc7"/>
+<path aria-label="kilogram Southwest communities: eclipse; Plastic Metal: 103; boo quam Northeast: Health Zloty" role="graphics-symbol" aria-roledescription="bar" d="M78.8125,105.24999999999999h30.41666666666667v128.75h-30.41666666666667Z" fill="#9b2ed8"/>
+<path aria-label="kilogram Southwest communities: heaven; Plastic Metal: 80; boo quam Northeast: Sleek RAM Towels" role="graphics-symbol" aria-roledescription="bar" d="M223.29166666666669,134.0h30.41666666666667v100h-30.41666666666667Z" fill="#2bf8ff"/>
+<path aria-label="kilogram Southwest communities: heaven; Plastic Metal: 103; boo quam Northeast: responsive deposit" role="graphics-symbol" aria-roledescription="bar" d="M253.70833333333334,105.24999999999999h30.41666666666667v128.75h-30.41666666666667Z" fill="#d87dc7"/>
+<path aria-label="kilogram Southwest communities: heaven; Plastic Metal: 37; boo quam Northeast: Health Zloty" role="graphics-symbol" aria-roledescription="bar" d="M192.875,187.75h30.41666666666667v46.25h-30.41666666666667Z" fill="#9b2ed8"/>
+</svg>

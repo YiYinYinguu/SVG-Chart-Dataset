@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="258" height="270" viewBox="0 0 258 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">1080p</text>
+<path aria-label="Gordon Chief mattress: 136; male: old" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.13142830251101,138.43812707996875A75,75,0,0,0,133.03628038805766,203.56268383265711L124.81230480756075,183.15762990841102A53,53,0,0,1,52.092876000441116,137.1362764698446Z" fill="#ce0cdc" stroke="white" stroke-width="3"/>
+<path aria-label="Gordon Chief mattress: 55; male: Bespoke" role="graphics-symbol" aria-roledescription="arc mark"  d="M157.00743755941812,79.96088047994097A75,75,0,0,0,105.0,59.0L105.0,81.0A53,53,0,0,1,141.75192254198882,95.81235553915829Z" fill="#c1cffc" stroke="white" stroke-width="3"/>
+<path aria-label="Gordon Chief mattress: 117; male: streamline" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.13142830251101,138.43812707996875L52.092876000441116,137.1362764698446A53,53,0,0,1,104.99999999999999,81.0Z" fill="#9711f6" stroke="white" stroke-width="3"/>
+<path aria-label="Gordon Chief mattress: 143; male: Producer" role="graphics-symbol" aria-roledescription="arc mark"  d="M133.03628038805766,203.56268383265711A75,75,0,0,0,157.00743755941812,79.96088047994097L141.75192254198882,95.81235553915829A53,53,0,0,1,124.81230480756075,183.15762990841102Z" fill="#464e2c" stroke="white" stroke-width="3"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#c1cffc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M84.0,258.25A5,5,0,1,1,74.0,258.25A5,5,0,1,1,84.0,258.25" fill="#464e2c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M155.0,258.25A5,5,0,1,1,145.0,258.25A5,5,0,1,1,155.0,258.25" fill="#ce0cdc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M198.0,258.25A5,5,0,1,1,188.0,258.25A5,5,0,1,1,198.0,258.25" fill="#9711f6" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,251,262" text-anchor="start" x="21.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Bespoke</text>
+<text aria-label="89,133,251,262" text-anchor="start" x="89.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Producer</text>
+<text aria-label="160,176,251,262" text-anchor="start" x="160.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">old</text>
+<text aria-label="203,258,251,262" text-anchor="start" x="203.0" y="261.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">streamline</text>
+</svg>

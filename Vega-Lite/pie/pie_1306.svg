@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="314" height="286" viewBox="0 0 314 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">sensor</text>
+<path aria-label="Account: 204; Modern Minivan overriding: Adventure" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.45679376291884,84.62763487525388A75,75,0,0,0,105.0,59.0L105.0,83.0A51,51,0,0,1,143.39061975878482,100.42679171517264Z" fill="#1d3e95" stroke="white" stroke-width="4"/>
+<path aria-label="Account: 597; Modern Minivan overriding: program" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,59.758290251453815,193.81795465433686L74.2356373709886,174.67620916494906A51,51,0,0,1,104.99999999999999,83.0Z" fill="#a75fd5" stroke="white" stroke-width="4"/>
+<path aria-label="Account: 271; Modern Minivan overriding: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.6763735909782,164.14225788477688A75,75,0,0,0,161.45679376291884,84.62763487525388L143.39061975878482,100.42679171517264A51,51,0,0,1,151.69993404186516,154.4967353616483Z" fill="#73a159" stroke="white" stroke-width="4"/>
+<path aria-label="Account: 55; Modern Minivan overriding: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M59.758290251453815,193.81795465433686A75,75,0,0,0,74.5711001433927,202.54985086429122L84.30834809750704,180.613898587718A51,51,0,0,1,74.2356373709886,174.67620916494906Z" fill="#db9f72" stroke="white" stroke-width="4"/>
+<path aria-label="Account: 377; Modern Minivan overriding: between" role="graphics-symbol" aria-roledescription="arc mark"  d="M74.5711001433927,202.54985086429122A75,75,0,0,0,173.6763735909782,164.14225788477688L151.69993404186516,154.4967353616483A51,51,0,0,1,84.30834809750704,180.613898587718Z" fill="#8c48cc" stroke="white" stroke-width="4"/>
+<text aria-label="131,152,43,57" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.2007027254017" y="56.04813780800164" font-family="monospace" font-size="13px" fill="#1d3e95" opacity="1">204</text>
+<text aria-label="9,30,96,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.67609038883539" y="109.36731852121059" font-family="monospace" font-size="13px" fill="#a75fd5" opacity="1">597</text>
+<text aria-label="183,204,111,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.95571113746092" y="124.32954075282724" font-family="monospace" font-size="13px" fill="#73a159" opacity="1">271</text>
+<text aria-label="52,66,202,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="59.29635265104868" y="215.5317781235713" font-family="monospace" font-size="13px" fill="#db9f72" opacity="1">55</text>
+<text aria-label="127,148,208,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.52206144134956" y="221.91850522742337" font-family="monospace" font-size="13px" fill="#8c48cc" opacity="1">377</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#1d3e95" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,274.25A5,5,0,1,1,78.0,274.25A5,5,0,1,1,88.0,274.25" fill="#73a159" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M160.0,274.25A5,5,0,1,1,150.0,274.25A5,5,0,1,1,160.0,274.25" fill="#8c48cc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M222.0,274.25A5,5,0,1,1,212.0,274.25A5,5,0,1,1,222.0,274.25" fill="#db9f72" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M269.0,274.25A5,5,0,1,1,259.0,274.25A5,5,0,1,1,269.0,274.25" fill="#a75fd5" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Adventure</text>
+<text aria-label="93,142,267,278" text-anchor="start" x="93.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="165,203,267,278" text-anchor="start" x="165.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">between</text>
+<text aria-label="227,249,267,278" text-anchor="start" x="227.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="274,312,267,278" text-anchor="start" x="274.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">program</text>
+<text aria-label="5,155,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Modern Minivan overriding</text>
+</svg>

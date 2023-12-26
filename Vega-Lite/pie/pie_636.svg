@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="252" height="270" viewBox="0 0 252 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="53,157,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Regional</text>
+<path aria-label="Danville: 2; Dodge Streamlined: regional" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,66.03120374734243,100.91854465901339L105.0,165.0Z" fill="#afecde" stroke="black" stroke-width="2"/>
+<path aria-label="Danville: 3; Dodge Streamlined: bluetooth" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.03120374734243,100.91854465901339A75,75,0,0,0,31.568693423825792,149.74079902105242L105.0,165.0Z" fill="#fc4e66" stroke="black" stroke-width="2"/>
+<path aria-label="Danville: 8; Dodge Streamlined: Iowa" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.27274197578316,208.25102415861502A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#1eaf6d" stroke="black" stroke-width="2"/>
+<path aria-label="Danville: 10; Dodge Streamlined: Kentucky" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.568693423825792,149.74079902105242A75,75,0,0,0,166.27274197578316,208.25102415861502L105.0,165.0Z" fill="#5dc706" stroke="black" stroke-width="2"/>
+<text aria-label="78,82,73,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="80.71829059586781" y="80.33744413869807" font-family="monospace" font-size="7px" fill="#afecde" opacity="1">2</text>
+<text aria-label="29,33,108,116" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="31.472709629060205" y="115.09877100966197" font-family="monospace" font-size="7px" fill="#fc4e66" opacity="1">3</text>
+<text aria-label="182,186,118,126" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.90966965621377" y="125.59414660419631" font-family="monospace" font-size="7px" fill="#1eaf6d" opacity="1">8</text>
+<text aria-label="65,73,242,250" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="69.14390191383829" y="249.54901713549077" font-family="monospace" font-size="7px" fill="#5dc706" opacity="1">10</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#1eaf6d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,40.25A5,5,0,1,1,53.0,40.25A5,5,0,1,1,63.0,40.25" fill="#5dc706" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,40.25A5,5,0,1,1,120.0,40.25A5,5,0,1,1,130.0,40.25" fill="#fc4e66" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M202.0,40.25A5,5,0,1,1,192.0,40.25A5,5,0,1,1,202.0,40.25" fill="#afecde" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Iowa</text>
+<text aria-label="68,112,33,44" text-anchor="start" x="68.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Kentucky</text>
+<text aria-label="135,184,33,44" text-anchor="start" x="135.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">bluetooth</text>
+<text aria-label="207,251,33,44" text-anchor="start" x="207.0" y="43.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">regional</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="246" height="270" viewBox="0 0 246 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="12,233,0,26" text-anchor="middle" x="123.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Avon azure Hybrid</text>
+<path aria-label="transmit Designer: 185; eos: cyan" role="graphics-symbol" aria-roledescription="arc mark"  d="M54.58579658722138,195.73266619405075A75,75,0,0,0,176.37954611962965,217.68419170930053L158.58636407975308,200.12279447286704A50,50,0,0,1,77.39053105814759,185.48844412936717Z" fill="#ab1d1c" stroke="black" stroke-width="0"/>
+<path aria-label="transmit Designer: 224; eos: Steel" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.37954611962965,217.68419170930053A75,75,0,0,0,123.0,90.0L123.0,115.0A50,50,0,0,1,158.58636407975308,200.12279447286704Z" fill="#9aeacc" stroke="black" stroke-width="0"/>
+<path aria-label="transmit Designer: 190; eos: orchid" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.99999999999999,90.0A75,75,0,0,0,54.58579658722138,195.73266619405075L77.39053105814759,185.48844412936717A50,50,0,0,1,122.99999999999999,115.0Z" fill="#0995c8" stroke="black" stroke-width="0"/>
+<text aria-label="99,114,247,257" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="107.03604869548658" y="256.57286412184675" font-family="Balto" font-size="9px" fill="#ab1d1c" opacity="1">185</text>
+<text aria-label="198,213,124,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="206.03581367278957" y="133.28611736354213" font-family="Balto" font-size="9px" fill="#9aeacc" opacity="1">224</text>
+<text aria-label="39,54,110,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="47.43834322568925" y="119.10791448995799" font-family="Balto" font-size="9px" fill="#0995c8" opacity="1">190</text>
+<path  d="M34.0,40.25A5,5,0,1,1,24.0,40.25A5,5,0,1,1,34.0,40.25" fill="#9aeacc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M85.0,40.25A5,5,0,1,1,75.0,40.25A5,5,0,1,1,85.0,40.25" fill="#ab1d1c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M134.0,40.25A5,5,0,1,1,124.0,40.25A5,5,0,1,1,134.0,40.25" fill="#0995c8" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="39,66,33,44" text-anchor="start" x="39.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Steel</text>
+<text aria-label="90,112,33,44" text-anchor="start" x="90.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">cyan</text>
+<text aria-label="139,172,33,44" text-anchor="start" x="139.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">orchid</text>
+</svg>

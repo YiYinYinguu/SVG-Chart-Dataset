@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="391" height="270" viewBox="0 0 391 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,200,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">candela deposit</text>
+<path aria-label="benchmark Clovis Nevada: 659; Chief: Automotive" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.75602292777842,112.18089888221472A75,75,0,0,0,105.0,59.0L105.0,95.0A39,39,0,0,1,142.31313192244477,122.65406741875165Z" fill="#30dd96" stroke="black" stroke-width="2"/>
+<path aria-label="benchmark Clovis Nevada: 698; Chief: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.31187234615547,76.11353801733406A75,75,0,0,0,38.112010926523396,167.92634548115188L70.21824568179217,151.64169965019897A39,39,0,0,1,80.20217362000085,103.89903976901371Z" fill="#4eeaf8" stroke="black" stroke-width="2"/>
+<path aria-label="benchmark Clovis Nevada: 730; Chief: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.112010926523396,167.92634548115188A75,75,0,0,0,127.9967105483743,205.38733293767382L116.95828948515464,171.1214131275904A39,39,0,0,1,70.21824568179217,151.64169965019897Z" fill="#bfe786" stroke="black" stroke-width="2"/>
+<path aria-label="benchmark Clovis Nevada: 246; Chief: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M89.15111325486843,60.69370566629361A75,75,0,0,0,57.31187234615547,76.11353801733406L80.20217362000085,103.89903976901371A39,39,0,0,1,96.75857889253159,95.88072694647268Z" fill="#4eeaf8" stroke="black" stroke-width="2"/>
+<path aria-label="benchmark Clovis Nevada: 110; Chief: offensive" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,89.15111325486843,60.69370566629361L96.75857889253159,95.88072694647268A39,39,0,0,1,104.99999999999999,95.0Z" fill="#1d70cc" stroke="black" stroke-width="2"/>
+<path aria-label="benchmark Clovis Nevada: 492; Chief: Optimization" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.9967105483743,205.38733293767382A75,75,0,0,0,176.49778175970587,156.65098680944098L142.17884651504704,145.7785131409093A39,39,0,0,1,116.95828948515464,171.1214131275904Z" fill="#fb37a5" stroke="black" stroke-width="2"/>
+<path aria-label="benchmark Clovis Nevada: 311; Chief: Frozen" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.49778175970587,156.65098680944098A75,75,0,0,0,176.75602292777842,112.18089888221472L142.31313192244477,122.65406741875165A39,39,0,0,1,142.17884651504704,145.7785131409093Z" fill="#3ed6ee" stroke="black" stroke-width="2"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#30dd96" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M93.0,258.25A5,5,0,1,1,83.0,258.25A5,5,0,1,1,93.0,258.25" fill="#3ed6ee" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M150.0,258.25A5,5,0,1,1,140.0,258.25A5,5,0,1,1,150.0,258.25" fill="#fb37a5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M237.0,258.25A5,5,0,1,1,227.0,258.25A5,5,0,1,1,237.0,258.25" fill="#bfe786" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M289.0,258.25A5,5,0,1,1,279.0,258.25A5,5,0,1,1,289.0,258.25" fill="#4eeaf8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M336.0,258.25A5,5,0,1,1,326.0,258.25A5,5,0,1,1,336.0,258.25" fill="#1d70cc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,76,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Automotive</text>
+<text aria-label="98,131,251,262" text-anchor="start" x="98.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Frozen</text>
+<text aria-label="155,221,251,262" text-anchor="start" x="155.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Optimization</text>
+<text aria-label="242,269,251,262" text-anchor="start" x="242.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="294,316,251,262" text-anchor="start" x="294.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="341,390,251,262" text-anchor="start" x="341.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">offensive</text>
+</svg>

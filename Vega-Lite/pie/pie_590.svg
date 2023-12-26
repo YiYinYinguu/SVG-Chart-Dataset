@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="310" height="239" viewBox="0 0 310 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="214,305,0,26" text-anchor="end" x="305.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">invoice</text>
+<path aria-label="straggle: 43; support: Administrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M241.2857994996637,68.3620479092301A75,75,0,0,0,205.0,59.0L205.0,86.0A48,48,0,0,1,228.22291167978477,91.99171066190726Z" fill="#3cefbe" stroke="white" stroke-width="4"/>
+<path aria-label="straggle: 67; support: driver" role="graphics-symbol" aria-roledescription="arc mark"  d="M205.0,59.0A75,75,0,0,0,151.88919432821532,81.04490278647461L171.0090843700578,100.10873778334374A48,48,0,0,1,205.0,86.0Z" fill="#81c03c" stroke="white" stroke-width="4"/>
+<path aria-label="straggle: 29; support: Plastic" role="graphics-symbol" aria-roledescription="arc mark"  d="M151.88919432821532,81.04490278647461A75,75,0,0,0,137.2509025568679,101.82765480041911L161.64057763639548,113.40969907226824A48,48,0,0,1,171.0090843700578,100.10873778334374Z" fill="#a88daa" stroke="white" stroke-width="4"/>
+<path aria-label="straggle: 123; support: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M274.68449052178994,161.7321434569808A75,75,0,0,0,241.2857994996637,68.3620479092301L228.22291167978477,91.99171066190726A48,48,0,0,1,249.59807393394559,151.7485718124677Z" fill="#2dc8d6" stroke="white" stroke-width="4"/>
+<path aria-label="straggle: 154; support: Marketing" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.6317285102785,195.1898114721218A75,75,0,0,0,274.68449052178994,161.7321434569808L249.59807393394559,151.7485718124677A48,48,0,0,1,177.24430624657822,173.16147934215795Z" fill="#f2a5cb" stroke="white" stroke-width="4"/>
+<path aria-label="straggle: 18; support: Mazda" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.757952732552,184.72786427301116A75,75,0,0,0,161.6317285102785,195.1898114721218L177.24430624657822,173.16147934215795A48,48,0,0,1,169.6450897488333,166.46583313472715Z" fill="#a3d54b" stroke="white" stroke-width="4"/>
+<path aria-label="straggle: 101; support: Pennsylvania" role="graphics-symbol" aria-roledescription="arc mark"  d="M137.2509025568679,101.82765480041911A75,75,0,0,0,149.757952732552,184.72786427301116L169.6450897488333,166.46583313472715A48,48,0,0,1,161.64057763639548,113.40969907226824Z" fill="#cffe4e" stroke="white" stroke-width="4"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#3cefbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#2dc8d6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f2a5cb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#a3d54b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#cffe4e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#a88daa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#81c03c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,92,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Administrator</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Marketing</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Mazda</text>
+<text aria-label="21,87,113,124" text-anchor="start" x="21.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Pennsylvania</text>
+<text aria-label="21,59,129,140" text-anchor="start" x="21.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Plastic</text>
+<text aria-label="21,54,145,156" text-anchor="start" x="21.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">driver</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">support</text>
+</svg>

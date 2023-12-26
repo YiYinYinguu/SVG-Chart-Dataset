@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="91,299,0,26" text-anchor="end" x="299.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Herzog Home hack</text>
+<path aria-label="bypass: 81; Research: Shirt" role="graphics-symbol" aria-roledescription="arc mark"  d="M202.0060787843491,208.93973238771463A75,75,0,0,0,221.15588937247935,205.65274988522393L209.04400318219064,166.4825799479682A34,34,0,0,1,200.3627557155716,167.97267868243063Z" fill="#0bbfac" stroke="white" stroke-width="0"/>
+<path aria-label="bypass: 385; Research: Customer" role="graphics-symbol" aria-roledescription="arc mark"  d="M269.80684175147894,109.27367473357566A75,75,0,0,0,199.0,59.0L199.0,100.0A34,34,0,0,1,231.0991015940038,122.79073254588764Z" fill="#c5839b" stroke="white" stroke-width="0"/>
+<path aria-label="bypass: 637; Research: Utah" role="graphics-symbol" aria-roledescription="arc mark"  d="M130.89618735643228,102.58550170049145A75,75,0,0,0,202.0060787843491,208.93973238771463L200.3627557155716,167.97267868243063A34,34,0,0,1,168.12627160158263,119.75876077088945Z" fill="#c4cbf4" stroke="white" stroke-width="0"/>
+<path aria-label="bypass: 168; Research: defect" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.66585600824124,72.09022490361448A75,75,0,0,0,130.89618735643228,102.58550170049145L168.12627160158263,119.75876077088945A34,34,0,0,1,179.8085213904027,105.93423528963856Z" fill="#2cf60c" stroke="white" stroke-width="0"/>
+<path aria-label="bypass: 187; Research: technologies" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.0,59.0A75,75,0,0,0,156.66585600824124,72.09022490361448L179.8085213904027,105.93423528963856A34,34,0,0,1,199.0,100.0Z" fill="#1811fc" stroke="white" stroke-width="0"/>
+<path aria-label="bypass: 501; Research: Liaison" role="graphics-symbol" aria-roledescription="arc mark"  d="M221.15588937247935,205.65274988522393A75,75,0,0,0,269.80684175147894,109.27367473357566L231.0991015940038,122.79073254588764A34,34,0,0,1,209.04400318219064,166.4825799479682Z" fill="#7de674" stroke="white" stroke-width="0"/>
+<text aria-label="207,220,214,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="214.22545245235403" y="226.7027936291812" font-family="monospace" font-size="12px" fill="#0bbfac" opacity="1">81</text>
+<text aria-label="241,260,52,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="251.10353573043855" y="64.61593112679759" font-family="monospace" font-size="12px" fill="#c5839b" opacity="1">385</text>
+<text aria-label="114,133,176,189" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="124.18277309386808" y="188.02381990688406" font-family="monospace" font-size="12px" fill="#c4cbf4" opacity="1">637</text>
+<text aria-label="120,140,67,80" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="130.2574258397783" y="79.90991050250983" font-family="monospace" font-size="12px" fill="#2cf60c" opacity="1">168</text>
+<text aria-label="162,182,40,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="172.41293275302473" y="52.016700137731306" font-family="monospace" font-size="12px" fill="#1811fc" opacity="1">187</text>
+<text aria-label="269,289,166,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="279.34400028527625" y="178.5566470280708" font-family="monospace" font-size="12px" fill="#7de674" opacity="1">501</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#c5839b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#7de674" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#0bbfac" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c4cbf4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#2cf60c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#1811fc" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Customer</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Liaison</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Shirt</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Utah</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">defect</text>
+<text aria-label="21,87,113,124" text-anchor="start" x="21.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">technologies</text>
+</svg>

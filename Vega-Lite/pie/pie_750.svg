@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="341" height="270" viewBox="0 0 341 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="24,336,0,26" text-anchor="end" x="336.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Oganesson intranet North</text>
+<path aria-label="Ohio: 49; Buckinghamshire Magnesium: Meadows" role="graphics-symbol" aria-roledescription="arc mark"  d="M202.1080327671614,105.84723747497188A75,75,0,0,0,156.0,90.0L156.0,130.0A35,35,0,0,1,177.51708195800865,137.3953774883202Z" fill="#6b34d6" stroke="black" stroke-width="2"/>
+<path aria-label="Ohio: 230; Buckinghamshire Magnesium: Uranium" role="graphics-symbol" aria-roledescription="arc mark"  d="M83.39421608503469,183.79893991940403A75,75,0,0,0,229.19927972078364,148.66398309383615L190.15966386969905,157.3765254437902A35,35,0,0,1,122.11730083968285,173.77283862905523Z" fill="#56585b" stroke="black" stroke-width="2"/>
+<path aria-label="Ohio: 51; Buckinghamshire Magnesium: Music" role="graphics-symbol" aria-roledescription="arc mark"  d="M229.19927972078364,148.66398309383615A75,75,0,0,0,202.1080327671614,105.84723747497188L177.51708195800865,137.3953774883202A35,35,0,0,1,190.15966386969905,157.3765254437902Z" fill="#ddb32c" stroke="black" stroke-width="2"/>
+<path aria-label="Ohio: 135; Buckinghamshire Magnesium: methodology" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.0,90.0A75,75,0,0,0,83.39421608503469,183.79893991940403L122.11730083968285,173.77283862905523A35,35,0,0,1,156.0,130.0Z" fill="#656eae" stroke="black" stroke-width="2"/>
+<path  d="M67.0,40.25A5,5,0,1,1,57.0,40.25A5,5,0,1,1,67.0,40.25" fill="#6b34d6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M141.0,40.25A5,5,0,1,1,131.0,40.25A5,5,0,1,1,141.0,40.25" fill="#ddb32c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M197.0,40.25A5,5,0,1,1,187.0,40.25A5,5,0,1,1,197.0,40.25" fill="#56585b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M266.0,40.25A5,5,0,1,1,256.0,40.25A5,5,0,1,1,266.0,40.25" fill="#656eae" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="72,110,33,44" text-anchor="start" x="72.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Meadows</text>
+<text aria-label="146,173,33,44" text-anchor="start" x="146.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Music</text>
+<text aria-label="202,240,33,44" text-anchor="start" x="202.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Uranium</text>
+<text aria-label="271,331,33,44" text-anchor="start" x="271.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">methodology</text>
+</svg>

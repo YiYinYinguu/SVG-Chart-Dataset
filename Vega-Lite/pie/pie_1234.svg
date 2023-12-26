@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="211" height="286" viewBox="0 0 211 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.009063920022925" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Road</text>
+<path aria-label="woman And: 183; Automotive female: playfully" role="graphics-symbol" aria-roledescription="arc mark"  d="M80.74250479927089,251.61911169212726A75,75,0,0,0,175.61697527327226,208.9011962790236L106.0,181.0Z" fill="#a6fbbe" stroke="black" stroke-width="0"/>
+<path aria-label="woman And: 334; Automotive female: sustain" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.99999999999999,106.0A75,75,0,0,0,80.74250479927089,251.61911169212726L106.0,181.0Z" fill="#fcec36" stroke="black" stroke-width="0"/>
+<path aria-label="woman And: 233; Automotive female: Oklahoma" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.61697527327226,208.9011962790236A75,75,0,0,0,106.0,106.0L106.0,181.0Z" fill="#d58ac5" stroke="black" stroke-width="0"/>
+<text aria-label="131,154,253,268" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.95037424759155" y="267.0650342287318" font-family="sans-serif" font-size="14px" fill="#a6fbbe" opacity="1">183</text>
+<text aria-label="6,28,155,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.324005326272925" y="169.6192338089051" font-family="sans-serif" font-size="14px" fill="#fcec36" opacity="1">334</text>
+<text aria-label="169,191,120,135" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.54303856878437" y="134.56850784546697" font-family="sans-serif" font-size="14px" fill="#d58ac5" opacity="1">233</text>
+<path  d="M17.0,56.25A5,5,0,1,1,7.0,56.25A5,5,0,1,1,17.0,56.25" fill="#d58ac5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M94.0,56.25A5,5,0,1,1,84.0,56.25A5,5,0,1,1,94.0,56.25" fill="#a6fbbe" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M162.0,56.25A5,5,0,1,1,152.0,56.25A5,5,0,1,1,162.0,56.25" fill="#fcec36" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="22,66,49,60" text-anchor="start" x="22.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Oklahoma</text>
+<text aria-label="99,148,49,60" text-anchor="start" x="99.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">playfully</text>
+<text aria-label="167,205,49,60" text-anchor="start" x="167.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">sustain</text>
+<text aria-label="6,108,32,44" text-anchor="start" x="6.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Automotive female</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="292" height="239" viewBox="0 0 292 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="144,287,0,26" text-anchor="end" x="287.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Bicycle red</text>
+<path aria-label="Hawaii aside: 263; teal: grey" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,39.02603298274421,98.3287836483525L105.0,134.0Z" fill="#6b41cd" stroke="white" stroke-width="2"/>
+<path aria-label="Hawaii aside: 365; teal: Silver" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.76789707813742,128.1041059615145A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#19b99c" stroke="white" stroke-width="2"/>
+<path aria-label="Hawaii aside: 464; teal: Usability" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.02603298274421,98.3287836483525A75,75,0,0,0,92.33718945141791,207.92329287180542L105.0,134.0Z" fill="#cebac4" stroke="white" stroke-width="2"/>
+<path aria-label="Hawaii aside: 445; teal: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M92.33718945141791,207.92329287180542A75,75,0,0,0,179.76789707813742,128.1041059615145L105.0,134.0Z" fill="#a7cec7" stroke="white" stroke-width="2"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#19b99c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#a7cec7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#cebac4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#6b41cd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Silver</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Usability</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">grey</text>
+<text aria-label="223,247,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">teal</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="235" height="270" viewBox="0 0 235 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">orange</text>
+<path aria-label="rob drive Licensed: 115; degree District: Towels" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,69.86452333945641,67.73916481181061L105.0,134.0Z" fill="#70d354" stroke="black" stroke-width="1"/>
+<path aria-label="rob drive Licensed: 595; degree District: Frozen" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.3039455222195,199.96053134048668A75,75,0,0,0,172.34437242071004,100.98885789220995L105.0,134.0Z" fill="#d93bbf" stroke="black" stroke-width="1"/>
+<path aria-label="rob drive Licensed: 509; degree District: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.86452333945641,67.73916481181061A75,75,0,0,0,69.3039455222195,199.96053134048668L105.0,134.0Z" fill="#edaeaa" stroke="black" stroke-width="1"/>
+<path aria-label="rob drive Licensed: 263; degree District: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.34437242071004,100.98885789220995A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#4f4fdc" stroke="black" stroke-width="1"/>
+<text aria-label="75,90,40,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="83.27639763211977" y="49.66109057148567" font-family="avenir" font-size="9px" fill="#70d354" opacity="1">115</text>
+<text aria-label="159,174,192,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="167.34519181586396" y="201.9082202609433" font-family="avenir" font-size="9px" fill="#d93bbf" opacity="1">595</text>
+<text aria-label="7,22,127,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.000808863415031" y="136.6184311851785" font-family="avenir" font-size="9px" fill="#edaeaa" opacity="1">509</text>
+<text aria-label="145,160,51,61" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="152.61720619880316" y="60.62852840346298" font-family="avenir" font-size="9px" fill="#4f4fdc" opacity="1">263</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#4f4fdc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M77.0,258.25A5,5,0,1,1,67.0,258.25A5,5,0,1,1,77.0,258.25" fill="#d93bbf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M137.0,258.25A5,5,0,1,1,127.0,258.25A5,5,0,1,1,137.0,258.25" fill="#edaeaa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M193.0,258.25A5,5,0,1,1,183.0,258.25A5,5,0,1,1,193.0,258.25" fill="#70d354" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="82,115,251,262" text-anchor="start" x="82.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Frozen</text>
+<text aria-label="142,169,251,262" text-anchor="start" x="142.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="198,231,251,262" text-anchor="start" x="198.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Towels</text>
+</svg>

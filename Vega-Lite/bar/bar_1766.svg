@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="508" height="336" viewBox="0 0 508 336" style="background-color: rgb(255, 255, 255);">
+<line x1="88.5" y1="43.5" x2="88.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="151.5" y1="43.5" x2="151.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="214.5" y1="43.5" x2="214.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="277.5" y1="43.5" x2="277.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="339.5" y1="43.5" x2="339.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="402.5" y1="43.5" x2="402.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="465.5" y1="43.5" x2="465.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="74,93,250,288" text-anchor="end" x="88.66666666666669" y="250.5" transform="rotate(270.0, 93.66666666666669, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">bead</text>
+<text aria-label="137,156,250,326" text-anchor="end" x="151.44444444444446" y="250.5" transform="rotate(270.0, 156.44444444444446, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">burn-out</text>
+<text aria-label="200,219,250,288" text-anchor="end" x="214.22222222222226" y="250.5" transform="rotate(270.0, 219.22222222222226, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">clay</text>
+<text aria-label="263,282,250,307" text-anchor="end" x="277.0" y="250.5" transform="rotate(270.0, 282.0, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">monger</text>
+<text aria-label="325,344,250,279" text-anchor="end" x="339.7777777777778" y="250.5" transform="rotate(270.0, 344.7777777777778, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">put</text>
+<text aria-label="388,407,250,336" text-anchor="end" x="402.55555555555554" y="250.5" transform="rotate(270.0, 407.55555555555554, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">sculpting</text>
+<text aria-label="451,470,250,298" text-anchor="end" x="465.33333333333337" y="250.5" transform="rotate(270.0, 470.33333333333337, 250.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">unity</text>
+<line aria-label="88,88,243,248" x1="88.5" y1="243.5" x2="88.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="151,151,243,248" x1="151.5" y1="243.5" x2="151.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="214,214,243,248" x1="214.5" y1="243.5" x2="214.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="277,277,243,248" x1="277.5" y1="243.5" x2="277.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="339,339,243,248" x1="339.5" y1="243.5" x2="339.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="402,402,243,248" x1="402.5" y1="243.5" x2="402.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="465,465,243,248" x1="465.5" y1="243.5" x2="465.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,503,243,243" x1="51.5" y1="243.5" x2="503.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="282,503,0,26" text-anchor="end" x="503.0" y="25.034358974358966" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">voluptatibus hemp</text>
+<text aria-label="40,49,230,249" text-anchor="end" x="49.5" y="248.5" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="21,49,199,218" text-anchor="end" x="49.5" y="217.73076923076923" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="21,49,168,187" text-anchor="end" x="49.5" y="186.96153846153845" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="21,49,138,157" text-anchor="end" x="49.5" y="156.19230769230768" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="21,49,107,126" text-anchor="end" x="49.5" y="125.42307692307692" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="21,49,76,95" text-anchor="end" x="49.5" y="94.65384615384615" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="21,49,45,64" text-anchor="end" x="49.5" y="63.88461538461537" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="3,15,92,194" text-anchor="middle" x="17.4453125" y="143.5" transform="rotate(-90.0, 15.4453125, 143.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Account capacitor</text>
+<line aria-label="51,51,43,243" x1="51.5" y1="243.5" x2="51.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Specialist: clay; Account capacitor: 28; primary: North Minivan" role="graphics-symbol" aria-roledescription="bar" d="M214.22222222222226,234.3846153846154h25.111111111111114v8.615384615384613h-25.111111111111114Z" fill="#a0bf42"/>
+<path aria-label="Specialist: clay; Account capacitor: 335; primary: Illinois" role="graphics-symbol" aria-roledescription="bar" d="M189.11111111111114,139.92307692307693h25.111111111111114v103.07692307692307h-25.111111111111114Z" fill="#eea82a"/>
+<path aria-label="Specialist: burn-out; Account capacitor: 379; primary: North Minivan" role="graphics-symbol" aria-roledescription="bar" d="M151.44444444444446,126.38461538461539h25.111111111111114v116.61538461538461h-25.111111111111114Z" fill="#a0bf42"/>
+<path aria-label="Specialist: burn-out; Account capacitor: 276; primary: Illinois" role="graphics-symbol" aria-roledescription="bar" d="M126.33333333333334,158.0769230769231h25.111111111111114v84.92307692307692h-25.111111111111114Z" fill="#eea82a"/>
+<path aria-label="Specialist: sculpting; Account capacitor: 147; primary: North Minivan" role="graphics-symbol" aria-roledescription="bar" d="M402.55555555555554,197.76923076923077h25.111111111111114v45.230769230769226h-25.111111111111114Z" fill="#a0bf42"/>
+<path aria-label="Specialist: sculpting; Account capacitor: 649; primary: Illinois" role="graphics-symbol" aria-roledescription="bar" d="M377.44444444444446,43.3076923076923h25.111111111111114v199.6923076923077h-25.111111111111114Z" fill="#eea82a"/>
+<path aria-label="Specialist: unity; Account capacitor: 180; primary: North Minivan" role="graphics-symbol" aria-roledescription="bar" d="M465.33333333333337,187.6153846153846h25.111111111111114v55.38461538461539h-25.111111111111114Z" fill="#a0bf42"/>
+<path aria-label="Specialist: unity; Account capacitor: 530; primary: Illinois" role="graphics-symbol" aria-roledescription="bar" d="M440.2222222222223,79.92307692307693h25.111111111111114v163.07692307692307h-25.111111111111114Z" fill="#eea82a"/>
+<path aria-label="Specialist: put; Account capacitor: 459; primary: North Minivan" role="graphics-symbol" aria-roledescription="bar" d="M339.7777777777778,101.76923076923077h25.111111111111114v141.23076923076923h-25.111111111111114Z" fill="#a0bf42"/>
+<path aria-label="Specialist: put; Account capacitor: 436; primary: Illinois" role="graphics-symbol" aria-roledescription="bar" d="M314.6666666666667,108.84615384615384h25.111111111111114v134.15384615384616h-25.111111111111114Z" fill="#eea82a"/>
+<path aria-label="Specialist: monger; Account capacitor: 309; primary: North Minivan" role="graphics-symbol" aria-roledescription="bar" d="M277.0,147.9230769230769h25.111111111111114v95.07692307692308h-25.111111111111114Z" fill="#a0bf42"/>
+<path aria-label="Specialist: monger; Account capacitor: 269; primary: Illinois" role="graphics-symbol" aria-roledescription="bar" d="M251.8888888888889,160.23076923076923h25.111111111111114v82.76923076923077h-25.111111111111114Z" fill="#eea82a"/>
+<path aria-label="Specialist: bead; Account capacitor: 478; primary: North Minivan" role="graphics-symbol" aria-roledescription="bar" d="M88.66666666666669,95.92307692307692h25.111111111111114v147.0769230769231h-25.111111111111114Z" fill="#a0bf42"/>
+<path aria-label="Specialist: bead; Account capacitor: 192; primary: Illinois" role="graphics-symbol" aria-roledescription="bar" d="M63.55555555555557,183.92307692307693h25.111111111111114v59.076923076923066h-25.111111111111114Z" fill="#eea82a"/>
+<text aria-label="222,231,223,232" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="226.77777777777783" y="231.11128205128205" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">28</text>
+<text aria-label="195,208,129,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="201.66666666666669" y="136.6497435897436" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">335</text>
+<text aria-label="157,170,115,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.0" y="123.11128205128206" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">379</text>
+<text aria-label="132,145,147,155" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.8888888888889" y="154.80358974358975" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">276</text>
+<text aria-label="408,421,186,195" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="415.11111111111114" y="194.49589743589743" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">147</text>
+<text aria-label="383,396,32,41" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="390.0" y="40.034358974358966" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">649</text>
+<text aria-label="471,484,176,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="477.88888888888897" y="184.34205128205127" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">180</text>
+<text aria-label="446,459,69,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="452.7777777777778" y="76.6497435897436" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">530</text>
+<text aria-label="345,358,90,99" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="352.33333333333337" y="98.49589743589743" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">459</text>
+<text aria-label="320,333,98,106" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="327.22222222222223" y="105.5728205128205" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">436</text>
+<text aria-label="283,295,137,145" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="289.5555555555556" y="144.6497435897436" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">309</text>
+<text aria-label="258,270,149,157" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="264.44444444444446" y="156.95743589743591" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">269</text>
+<text aria-label="94,107,85,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="101.22222222222224" y="92.6497435897436" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">478</text>
+<text aria-label="69,82,173,181" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="76.11111111111113" y="180.6497435897436" font-family="monospace" font-size="7.533333333333333px" fill="#000" opacity="1">192</text>
+</svg>

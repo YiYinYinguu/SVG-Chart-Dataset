@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="285" height="239" viewBox="0 0 285 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Strategist pixel</text>
+<path aria-label="capability: 51; Sleek: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.4746485995681,208.79992127476638A75,75,0,0,0,168.29521676705303,174.23326402880792L105.0,134.0Z" fill="#cec5cf" stroke="black" stroke-width="0"/>
+<path aria-label="capability: 77; Sleek: neural" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.10435682613064,151.64157607097266A75,75,0,0,0,110.4746485995681,208.79992127476638L105.0,134.0Z" fill="#eef81b" stroke="black" stroke-width="0"/>
+<path aria-label="capability: 117; Sleek: azure" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.29521676705303,174.23326402880792A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#cabb53" stroke="black" stroke-width="0"/>
+<path aria-label="capability: 68; Sleek: pink" role="graphics-symbol" aria-roledescription="arc mark"  d="M64.76673597119202,70.70478323294701A75,75,0,0,0,32.10435682613064,151.64157607097266L105.0,134.0Z" fill="#7bce8f" stroke="black" stroke-width="0"/>
+<path aria-label="capability: 31; Sleek: software" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,64.76673597119202,70.70478323294701L105.0,134.0Z" fill="#a5ce37" stroke="black" stroke-width="0"/>
+<text aria-label="143,158,201,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="151.18109291964618" y="215.24834403886604" font-family="Balto" font-size="14px" fill="#cec5cf" opacity="1">51</text>
+<text aria-label="44,59,196,211" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="51.966424815060414" y="210.71478462529723" font-family="Balto" font-size="14px" fill="#eef81b" opacity="1">77</text>
+<text aria-label="172,195,80,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="183.88343462068337" y="94.67098267391272" font-family="Balto" font-size="14px" fill="#cabb53" opacity="1">117</text>
+<text aria-label="14,29,90,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="21.539775529178684" y="104.3192795314572" font-family="Balto" font-size="14px" fill="#7bce8f" opacity="1">68</text>
+<text aria-label="72,87,37,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="79.85923042985488" y="51.582746483003376" font-family="Balto" font-size="14px" fill="#a5ce37" opacity="1">31</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#cabb53" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#cec5cf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#eef81b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#7bce8f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#a5ce37" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">azure</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">neural</text>
+<text aria-label="239,261,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">pink</text>
+<text aria-label="239,283,97,108" text-anchor="start" x="239.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">software</text>
+</svg>

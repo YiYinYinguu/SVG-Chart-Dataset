@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="242" height="270" viewBox="0 0 242 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,239,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">desert Dollar male</text>
+<path aria-label="District: 186; Future content Delaware: deposit" role="graphics-symbol" aria-roledescription="arc mark"  d="M180.0,165.0A75,75,0,0,0,105.0,90.0L105.0,115.0A50,50,0,0,1,155.0,165.0Z" fill="#9e16e7" stroke="black" stroke-width="3"/>
+<path aria-label="District: 170; Future content Delaware: zowie" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,30.68363488813209,154.89664033306042L55.45575659208806,158.26442688870694A50,50,0,0,1,104.99999999999999,115.0Z" fill="#20870a" stroke="black" stroke-width="3"/>
+<path aria-label="District: 185; Future content Delaware: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M105.63337808678239,239.99732550030825A75,75,0,0,0,180.0,165.0L155.0,165.0A50,50,0,0,1,105.42225205785492,214.9982170002055Z" fill="#ddc1eb" stroke="black" stroke-width="3"/>
+<path aria-label="District: 203; Future content Delaware: markets" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.68363488813209,154.89664033306042A75,75,0,0,0,105.63337808678239,239.99732550030825L105.42225205785492,214.9982170002055A50,50,0,0,1,55.45575659208806,158.26442688870694Z" fill="#ae1657" stroke="black" stroke-width="3"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#9e16e7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M79.0,40.25A5,5,0,1,1,69.0,40.25A5,5,0,1,1,79.0,40.25" fill="#ddc1eb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,40.25A5,5,0,1,1,129.0,40.25A5,5,0,1,1,139.0,40.25" fill="#ae1657" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M204.0,40.25A5,5,0,1,1,194.0,40.25A5,5,0,1,1,204.0,40.25" fill="#20870a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">deposit</text>
+<text aria-label="84,117,33,44" text-anchor="start" x="84.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="144,182,33,44" text-anchor="start" x="144.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">markets</text>
+<text aria-label="209,236,33,44" text-anchor="start" x="209.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">zowie</text>
+</svg>

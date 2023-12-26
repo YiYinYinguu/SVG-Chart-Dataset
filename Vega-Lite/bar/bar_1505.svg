@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="531" height="356" viewBox="0 0 531 356" style="background-color: rgb(255, 255, 255);">
+<line x1="39.5" y1="263.5" x2="526.5" y2="263.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="232.5" x2="526.5" y2="232.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="201.5" x2="526.5" y2="201.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="171.5" x2="526.5" y2="171.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="140.5" x2="526.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="109.5" x2="526.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="39.5" y1="78.5" x2="526.5" y2="78.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="65,84,270,318" text-anchor="end" x="79.58333333333331" y="270.5" transform="rotate(270.0, 84.58333333333331, 270.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">chime</text>
+<text aria-label="146,165,270,308" text-anchor="end" x="160.75" y="270.5" transform="rotate(270.0, 165.75, 270.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">cyst</text>
+<text aria-label="227,246,270,356" text-anchor="end" x="241.91666666666666" y="270.5" transform="rotate(270.0, 246.91666666666666, 270.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">immigrant</text>
+<text aria-label="309,328,270,318" text-anchor="end" x="323.0833333333333" y="270.5" transform="rotate(270.0, 328.0833333333333, 270.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">phase</text>
+<text aria-label="390,409,270,356" text-anchor="end" x="404.25" y="270.5" transform="rotate(270.0, 409.25, 270.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">potential</text>
+<text aria-label="471,490,270,346" text-anchor="end" x="485.41666666666663" y="270.5" transform="rotate(270.0, 490.41666666666663, 270.5)" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">tendency</text>
+<line aria-label="79,79,263,268" x1="79.5" y1="263.5" x2="79.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="160,160,263,268" x1="160.5" y1="263.5" x2="160.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="241,241,263,268" x1="241.5" y1="263.5" x2="241.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="323,323,263,268" x1="323.5" y1="263.5" x2="323.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="404,404,263,268" x1="404.5" y1="263.5" x2="404.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="485,485,263,268" x1="485.5" y1="263.5" x2="485.5" y2="268.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,526,263,263" x1="39.5" y1="263.5" x2="526.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">indigo</text>
+<text aria-label="23,32,250,269" text-anchor="end" x="32.5" y="268.5" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="4,32,219,238" text-anchor="end" x="32.5" y="237.73076923076923" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="4,32,188,207" text-anchor="end" x="32.5" y="206.96153846153845" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="4,32,158,177" text-anchor="end" x="32.5" y="176.19230769230768" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="4,32,127,146" text-anchor="end" x="32.5" y="145.4230769230769" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="4,32,96,115" text-anchor="end" x="32.5" y="114.65384615384615" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">500</text>
+<text aria-label="4,32,65,84" text-anchor="end" x="32.5" y="83.88461538461537" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">600</text>
+<line aria-label="34,39,263,263" x1="39.5" y1="263.5" x2="34.5" y2="263.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,232,232" x1="39.5" y1="232.5" x2="34.5" y2="232.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,201,201" x1="39.5" y1="201.5" x2="34.5" y2="201.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,171,171" x1="39.5" y1="171.5" x2="34.5" y2="171.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,140,140" x1="39.5" y1="140.5" x2="34.5" y2="140.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,109,109" x1="39.5" y1="109.5" x2="34.5" y2="109.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="34,39,78,78" x1="39.5" y1="78.5" x2="34.5" y2="78.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Electric optimise: immigrant; B2B: 253; Northwest Small Coupe: Handcrafted Southwest but" role="graphics-symbol" aria-roledescription="bar" d="M220.00166666666667,185.15384615384613h43.83000000000001v77.84615384615385h-43.83000000000001Z" fill="#ea82dd"/>
+<path aria-label="Electric optimise: immigrant; B2B: 106; Northwest Small Coupe: Crew for Intelligent" role="graphics-symbol" aria-roledescription="bar" d="M220.00166666666667,152.53846153846155h43.83000000000001v32.6153846153846h-43.83000000000001Z" fill="#eaa1bf"/>
+<path aria-label="Electric optimise: tendency; B2B: 305; Northwest Small Coupe: Handcrafted Southwest but" role="graphics-symbol" aria-roledescription="bar" d="M463.50166666666667,169.15384615384616h43.83000000000001v93.84615384615384h-43.83000000000001Z" fill="#ea82dd"/>
+<path aria-label="Electric optimise: tendency; B2B: 344; Northwest Small Coupe: Crew for Intelligent" role="graphics-symbol" aria-roledescription="bar" d="M463.50166666666667,63.3076923076923h43.83000000000001v105.84615384615387h-43.83000000000001Z" fill="#eaa1bf"/>
+<path aria-label="Electric optimise: potential; B2B: 53; Northwest Small Coupe: Handcrafted Southwest but" role="graphics-symbol" aria-roledescription="bar" d="M382.33500000000004,246.69230769230768h43.83000000000001v16.30769230769232h-43.83000000000001Z" fill="#ea82dd"/>
+<path aria-label="Electric optimise: potential; B2B: 65; Northwest Small Coupe: Crew for Intelligent" role="graphics-symbol" aria-roledescription="bar" d="M382.33500000000004,226.69230769230768h43.83000000000001v20h-43.83000000000001Z" fill="#eaa1bf"/>
+<path aria-label="Electric optimise: cyst; B2B: 320; Northwest Small Coupe: Handcrafted Southwest but" role="graphics-symbol" aria-roledescription="bar" d="M138.83499999999998,164.53846153846155h43.83000000000001v98.46153846153847h-43.83000000000001Z" fill="#ea82dd"/>
+<path aria-label="Electric optimise: cyst; B2B: 165; Northwest Small Coupe: Crew for Intelligent" role="graphics-symbol" aria-roledescription="bar" d="M138.83499999999998,113.76923076923077h43.83000000000001v50.76923076923077h-43.83000000000001Z" fill="#eaa1bf"/>
+<path aria-label="Electric optimise: phase; B2B: 61; Northwest Small Coupe: Handcrafted Southwest but" role="graphics-symbol" aria-roledescription="bar" d="M301.1683333333333,244.23076923076923h43.83000000000001v18.769230769230774h-43.83000000000001Z" fill="#ea82dd"/>
+<path aria-label="Electric optimise: phase; B2B: 291; Northwest Small Coupe: Crew for Intelligent" role="graphics-symbol" aria-roledescription="bar" d="M301.1683333333333,154.69230769230768h43.83000000000001v89.53846153846153h-43.83000000000001Z" fill="#eaa1bf"/>
+<path aria-label="Electric optimise: chime; B2B: 275; Northwest Small Coupe: Handcrafted Southwest but" role="graphics-symbol" aria-roledescription="bar" d="M57.66833333333331,178.38461538461536h43.83000000000001v84.61538461538463h-43.83000000000001Z" fill="#ea82dd"/>
+<path aria-label="Electric optimise: chime; B2B: 206; Northwest Small Coupe: Crew for Intelligent" role="graphics-symbol" aria-roledescription="bar" d="M57.66833333333331,115.0h43.83000000000001v63.38461538461537h-43.83000000000001Z" fill="#eaa1bf"/>
+<path  d="M40.0,35.0h10v10h-10Z" fill="#ea82dd" stroke-width="1.5" opacity="1"/>
+<path  d="M191.0,35.0h10v10h-10Z" fill="#eaa1bf" stroke-width="1.5" opacity="1"/>
+<text aria-label="55,192,33,44" text-anchor="start" x="55.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Handcrafted Southwest but</text>
+<text aria-label="206,316,33,44" text-anchor="start" x="206.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Crew for Intelligent</text>
+</svg>

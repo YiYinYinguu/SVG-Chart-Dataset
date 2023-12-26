@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">feed Southwest</text>
+<path aria-label="Account marinate: 107; beck: green" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,63.925204591264944,71.2476201078353L105.0,134.0Z" fill="#6f2f1c" stroke="white" stroke-width="0"/>
+<path aria-label="Account marinate: 71; beck: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.4107491004508,200.64008062979684A75,75,0,0,0,161.89832240310523,182.86287862695255L105.0,134.0Z" fill="#d94be9" stroke="white" stroke-width="0"/>
+<path aria-label="Account marinate: 421; beck: 1080p" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.89832240310523,182.86287862695255A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#e422eb" stroke="white" stroke-width="0"/>
+<path aria-label="Account marinate: 561; beck: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.925204591264944,71.2476201078353A75,75,0,0,0,139.4107491004508,200.64008062979684L105.0,134.0Z" fill="#d94be9" stroke="white" stroke-width="0"/>
+<text aria-label="68,90,37,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="79.28285618846621" y="51.75251589653824" font-family="Balto" font-size="14px" fill="#6f2f1c" opacity="1">107</text>
+<text aria-label="153,168,194,209" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="160.81411256985922" y="208.6030087038724" font-family="Balto" font-size="14px" fill="#d94be9" opacity="1">71</text>
+<text aria-label="175,198,86,101" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="186.78383364611517" y="100.43133547563126" font-family="Balto" font-size="14px" fill="#e422eb" opacity="1">421</text>
+<text aria-label="16,38,169,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="27.261627190135513" y="183.35135491773673" font-family="Balto" font-size="14px" fill="#d94be9" opacity="1">561</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#e422eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,274.25A5,5,0,1,1,63.0,274.25A5,5,0,1,1,73.0,274.25" fill="#d94be9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M140.0,274.25A5,5,0,1,1,130.0,274.25A5,5,0,1,1,140.0,274.25" fill="#6f2f1c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">1080p</text>
+<text aria-label="78,116,267,278" text-anchor="start" x="78.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="145,172,267,278" text-anchor="start" x="145.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">green</text>
+<text aria-label="5,29,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">beck</text>
+</svg>

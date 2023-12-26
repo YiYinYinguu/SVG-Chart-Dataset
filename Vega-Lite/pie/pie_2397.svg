@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="231" height="286" viewBox="0 0 231 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="18,226,0,26" text-anchor="end" x="226.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Plastic compress</text>
+<path aria-label="and: 221; Wooden Northeast: Guilder" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.265009444557535,127.70069950884013L56.17313950377759,129.88445701244223A49,49,0,0,1,104.99999999999999,85.0Z" fill="#0e6a2b" stroke="white" stroke-width="0"/>
+<path aria-label="and: 398; Wooden Northeast: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.265009444557535,127.70069950884013A75,75,0,0,0,169.00725368727166,173.09055481076274L146.8180724090175,159.539162476365A49,49,0,0,1,56.17313950377759,129.88445701244223Z" fill="#9b0ce9" stroke="white" stroke-width="0"/>
+<path aria-label="and: 182; Wooden Northeast: Auto" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.54381287063302,108.5329533382233A75,75,0,0,0,105.0,59.0L105.0,85.0A49,49,0,0,1,151.0886244088136,117.36152951430589Z" fill="#1bb0dd" stroke="white" stroke-width="0"/>
+<path aria-label="and: 133; Wooden Northeast: Checking" role="graphics-symbol" aria-roledescription="arc mark"  d="M169.00725368727166,173.09055481076274A75,75,0,0,0,175.54381287063302,108.5329533382233L151.0886244088136,117.36152951430589A49,49,0,0,1,146.8180724090175,159.539162476365Z" fill="#ab0a07" stroke="white" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#1bb0dd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M67.0,274.25A5,5,0,1,1,57.0,274.25A5,5,0,1,1,67.0,274.25" fill="#ab0a07" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,274.25A5,5,0,1,1,129.0,274.25A5,5,0,1,1,139.0,274.25" fill="#9b0ce9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M186.0,274.25A5,5,0,1,1,176.0,274.25A5,5,0,1,1,186.0,274.25" fill="#0e6a2b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Auto</text>
+<text aria-label="72,116,267,278" text-anchor="start" x="72.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Checking</text>
+<text aria-label="144,166,267,278" text-anchor="start" x="144.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="191,229,267,278" text-anchor="start" x="191.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Guilder</text>
+<text aria-label="5,101,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Wooden Northeast</text>
+</svg>

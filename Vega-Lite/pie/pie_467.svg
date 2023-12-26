@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="296" height="270" viewBox="0 0 296 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="239,291,0,26" text-anchor="end" x="291.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">East</text>
+<path aria-label="auxiliary Darmstadtium: 293; kelvin female: white" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,36.23876107740908,135.0518444335821L56.40872449470241,143.83663673306467A53,53,0,0,1,104.99999999999999,112.0Z" fill="#9c47f0" stroke="white" stroke-width="4"/>
+<path aria-label="auxiliary Darmstadtium: 488; kelvin female: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M55.40272378881175,221.25931205081608A75,75,0,0,0,175.15856470813526,191.50991886246348L154.57871906041558,183.73367599614085A53,53,0,0,1,69.95125814409363,204.75658051591003Z" fill="#47dcc4" stroke="white" stroke-width="4"/>
+<path aria-label="auxiliary Darmstadtium: 84; kelvin female: Kids" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.15856470813526,191.50991886246348A75,75,0,0,0,179.96910534531236,167.15249709023138L157.9781677773541,166.52109794376352A53,53,0,0,1,154.57871906041558,183.73367599614085Z" fill="#c44e9c" stroke="white" stroke-width="4"/>
+<path aria-label="auxiliary Darmstadtium: 404; kelvin female: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.96910534531236,167.15249709023138A75,75,0,0,0,105.0,90.0L105.0,112.0A53,53,0,0,1,157.9781677773541,166.52109794376352Z" fill="#c7c7a4" stroke="white" stroke-width="4"/>
+<path aria-label="auxiliary Darmstadtium: 318; kelvin female: harum" role="graphics-symbol" aria-roledescription="arc mark"  d="M36.23876107740908,135.0518444335821A75,75,0,0,0,55.40272378881175,221.25931205081608L69.95125814409363,204.75658051591003A53,53,0,0,1,56.40872449470241,143.83663673306467Z" fill="#ee8b86" stroke="white" stroke-width="4"/>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#c7c7a4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M76.0,40.25A5,5,0,1,1,66.0,40.25A5,5,0,1,1,76.0,40.25" fill="#c44e9c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M124.0,40.25A5,5,0,1,1,114.0,40.25A5,5,0,1,1,124.0,40.25" fill="#47dcc4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M200.0,40.25A5,5,0,1,1,190.0,40.25A5,5,0,1,1,200.0,40.25" fill="#ee8b86" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M259.0,40.25A5,5,0,1,1,249.0,40.25A5,5,0,1,1,259.0,40.25" fill="#9c47f0" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="81,103,33,44" text-anchor="start" x="81.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Kids</text>
+<text aria-label="129,178,33,44" text-anchor="start" x="129.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="205,232,33,44" text-anchor="start" x="205.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">harum</text>
+<text aria-label="264,291,33,44" text-anchor="start" x="264.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">white</text>
+</svg>

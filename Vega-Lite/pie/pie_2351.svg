@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="380" height="286" viewBox="0 0 380 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="72,137,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Coupe</text>
+<path aria-label="magenta Lev: 53; incentivize TCP unto: Royce" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.91539700494201,255.97553770606424A75,75,0,0,0,178.6281239997641,195.27933318735015L140.34149951988678,187.85407992992808A36,36,0,0,1,105.91939056237216,216.98825809891082Z" fill="#dc22da" stroke="white" stroke-width="0"/>
+<path aria-label="magenta Lev: 20; incentivize TCP unto: blag" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.01535374134167,247.34059485832597A75,75,0,0,0,106.91539700494201,255.97553770606424L105.91939056237216,216.98825809891082A36,36,0,0,1,88.207369795844,212.84348553199646Z" fill="#2092f5" stroke="white" stroke-width="0"/>
+<path aria-label="magenta Lev: 25; incentivize TCP unto: green" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.368079538396145,213.41794772460605A75,75,0,0,0,70.01535374134167,247.34059485832597L88.207369795844,212.84348553199646A36,36,0,0,1,72.53667817843015,196.5606149078109Z" fill="#bbbf69" stroke="white" stroke-width="0"/>
+<path aria-label="magenta Lev: 14; incentivize TCP unto: Morgan" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.6281239997641,195.27933318735015A75,75,0,0,0,178.96878372254275,168.60568539177365L140.5050161868205,175.05072898805133A36,36,0,0,1,140.34149951988678,187.85407992992808Z" fill="#6fab9d" stroke="white" stroke-width="0"/>
+<path aria-label="magenta Lev: 55; incentivize TCP unto: Assistant" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.96878372254275,168.60568539177365A75,75,0,0,0,105.0,106.0L105.0,145.0A36,36,0,0,1,140.5050161868205,175.05072898805133Z" fill="#bcecb9" stroke="white" stroke-width="0"/>
+<path aria-label="magenta Lev: 33; incentivize TCP unto: sit" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,49.00850837910279,131.1005724875826L78.12408402196934,157.04827479403966A36,36,0,0,1,105.0,145.0Z" fill="#6bed25" stroke="white" stroke-width="0"/>
+<path aria-label="magenta Lev: 46; incentivize TCP unto: now" role="graphics-symbol" aria-roledescription="arc mark"  d="M49.00850837910279,131.1005724875826A75,75,0,0,0,37.368079538396145,213.41794772460605L72.53667817843015,196.5606149078109A36,36,0,0,1,78.12408402196934,157.04827479403966Z" fill="#cd3e6f" stroke="white" stroke-width="0"/>
+<text aria-label="156,169,241,254" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.14384757784592" y="253.69711048395138" font-family="avenir" font-size="12px" fill="#dc22da" opacity="1">53</text>
+<text aria-label="77,90,260,273" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="84.49318419871761" y="272.6325881490001" font-family="avenir" font-size="12px" fill="#2092f5" opacity="1">20</text>
+<text aria-label="33,46,235,248" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="40.15305657592917" y="247.40892507130175" font-family="avenir" font-size="12px" fill="#bbbf69" opacity="1">25</text>
+<text aria-label="188,201,174,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.99266101259298" y="186.1493319244376" font-family="avenir" font-size="12px" fill="#6fab9d" opacity="1">14</text>
+<text aria-label="156,169,104,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="163.1438475778459" y="116.30288951604861" font-family="avenir" font-size="12px" fill="#bcecb9" opacity="1">55</text>
+<text aria-label="61,74,90,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="68.18382265457939" y="102.8746745171105" font-family="avenir" font-size="12px" fill="#6bed25" opacity="1">33</text>
+<text aria-label="9,22,160,173" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.886570141758071" y="172.39854695282338" font-family="avenir" font-size="12px" fill="#cd3e6f" opacity="1">46</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#bcecb9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M86.0,56.25A5,5,0,1,1,76.0,56.25A5,5,0,1,1,86.0,56.25" fill="#6fab9d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M151.0,56.25A5,5,0,1,1,141.0,56.25A5,5,0,1,1,151.0,56.25" fill="#dc22da" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,56.25A5,5,0,1,1,197.0,56.25A5,5,0,1,1,207.0,56.25" fill="#2092f5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M255.0,56.25A5,5,0,1,1,245.0,56.25A5,5,0,1,1,255.0,56.25" fill="#bbbf69" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M310.0,56.25A5,5,0,1,1,300.0,56.25A5,5,0,1,1,310.0,56.25" fill="#cd3e6f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M358.0,56.25A5,5,0,1,1,348.0,56.25A5,5,0,1,1,358.0,56.25" fill="#6bed25" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Assistant</text>
+<text aria-label="91,124,49,60" text-anchor="start" x="91.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Morgan</text>
+<text aria-label="156,183,49,60" text-anchor="start" x="156.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Royce</text>
+<text aria-label="212,234,49,60" text-anchor="start" x="212.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">blag</text>
+<text aria-label="260,287,49,60" text-anchor="start" x="260.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">green</text>
+<text aria-label="315,331,49,60" text-anchor="start" x="315.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">now</text>
+<text aria-label="363,379,49,60" text-anchor="start" x="363.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">sit</text>
+<text aria-label="5,125,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">incentivize TCP unto</text>
+</svg>

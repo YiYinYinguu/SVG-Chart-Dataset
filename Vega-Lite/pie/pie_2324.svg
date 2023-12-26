@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="284" height="239" viewBox="0 0 284 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="45,279,0,26" text-anchor="end" x="279.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Croatian male male</text>
+<path aria-label="Shoal system analyzing: 20; Cloned: Cruiser" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.35043873994243,208.80890859576903A75,75,0,0,0,127.83648692024303,205.43874904518952L105.0,134.0Z" fill="#ca82f1" stroke="white" stroke-width="4"/>
+<path aria-label="Shoal system analyzing: 143; Cloned: Chips" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.83648692024303,205.43874904518952A75,75,0,0,0,172.84682096244404,102.03425450126238L105.0,134.0Z" fill="#f2f1c1" stroke="white" stroke-width="4"/>
+<path aria-label="Shoal system analyzing: 218; Cloned: brand" role="graphics-symbol" aria-roledescription="arc mark"  d="M61.49573178216013,72.90680359622482A75,75,0,0,0,110.35043873994243,208.80890859576903L105.0,134.0Z" fill="#c79a42" stroke="white" stroke-width="4"/>
+<path aria-label="Shoal system analyzing: 10; Cloned: newton" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.0563259959957,68.17407578245584A75,75,0,0,0,61.49573178216013,72.90680359622482L105.0,134.0Z" fill="#c4dcca" stroke="white" stroke-width="4"/>
+<path aria-label="Shoal system analyzing: 42; Cloned: stratify" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,69.0563259959957,68.17407578245584L105.0,134.0Z" fill="#23ca6a" stroke="white" stroke-width="4"/>
+<path aria-label="Shoal system analyzing: 95; Cloned: 1080p" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.84682096244404,102.03425450126238A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#5db1d0" stroke="white" stroke-width="4"/>
+<text aria-label="117,126,216,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.0326119924369" y="224.3735827536436" font-family="serif" font-size="8px" fill="#ca82f1" opacity="1">20</text>
+<text aria-label="180,194,163,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.52116489334878" y="171.92015234718167" font-family="serif" font-size="8px" fill="#f2f1c1" opacity="1">143</text>
+<text aria-label="13,27,158,167" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.306228889198593" y="166.44610213198368" font-family="serif" font-size="8px" fill="#c79a42" opacity="1">218</text>
+<text aria-label="52,61,51,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="57.24673074119331" y="59.71353150724626" font-family="serif" font-size="8px" fill="#c4dcca" opacity="1">10</text>
+<text aria-label="78,87,40,49" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="82.74241495012055" y="48.79564283966435" font-family="serif" font-size="8px" fill="#23ca6a" opacity="1">42</text>
+<text aria-label="148,157,51,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.20632472060248" y="59.99901147398259" font-family="serif" font-size="8px" fill="#5db1d0" opacity="1">95</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#5db1d0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#f2f1c1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#ca82f1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#c79a42" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#c4dcca" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#23ca6a" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,266,33,44" text-anchor="start" x="239.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">1080p</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Chips</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Cruiser</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">brand</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="serif" font-size="10px" fill="#000" opacity="1">newton</text>
+<text aria-label="239,283,113,124" text-anchor="start" x="239.0" y="123.0" font-family="serif" font-size="10px" fill="#000" opacity="1">stratify</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Central</text>
+<path aria-label="Electronic: 62; orchid Regional Vegas: generously" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.675897239563255,114.14492105536256L59.67689560345964,121.55748386136054A47,47,0,0,1,104.99999999999999,87.0Z" fill="#3233e2" stroke="white" stroke-width="3"/>
+<path aria-label="Electronic: 130; orchid Regional Vegas: Van" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.675897239563255,114.14492105536256A75,75,0,0,0,163.4261993325876,181.02530416221398L141.6137515817549,163.46919060832076A47,47,0,0,1,59.67689560345964,121.55748386136054Z" fill="#3e7bf3" stroke="white" stroke-width="3"/>
+<path aria-label="Electronic: 107; orchid Regional Vegas: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.4261993325876,181.02530416221398A75,75,0,0,0,105.0,59.0L105.0,87.0A47,47,0,0,1,141.6137515817549,163.46919060832076Z" fill="#20e7c0" stroke="white" stroke-width="3"/>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#20e7c0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M85.0,258.25A5,5,0,1,1,75.0,258.25A5,5,0,1,1,85.0,258.25" fill="#3e7bf3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,258.25A5,5,0,1,1,120.0,258.25A5,5,0,1,1,130.0,258.25" fill="#3233e2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="90,106,251,262" text-anchor="start" x="90.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Van</text>
+<text aria-label="135,190,251,262" text-anchor="start" x="135.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">generously</text>
+</svg>

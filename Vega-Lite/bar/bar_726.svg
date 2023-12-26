@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="616" height="308" viewBox="0 0 616 308" style="background-color: rgb(255, 255, 255);">
+<line x1="83.5" y1="40.5" x2="83.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="153.5" y1="40.5" x2="153.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="222.5" y1="40.5" x2="222.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="291.5" y1="40.5" x2="291.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="361.5" y1="40.5" x2="361.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="430.5" y1="40.5" x2="430.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="499.5" y1="40.5" x2="499.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="569.5" y1="40.5" x2="569.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="240.5" x2="611.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="190.5" x2="611.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="140.5" x2="611.5" y2="140.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="90.5" x2="611.5" y2="90.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="42.5" y1="40.5" x2="611.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="74,86,247,289" text-anchor="end" x="83.6341463414634" y="247.5" transform="rotate(270.0, 86.6341463414634, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">antigen</text>
+<text aria-label="144,156,247,277" text-anchor="end" x="153.02439024390245" y="247.5" transform="rotate(270.0, 156.02439024390245, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">cadet</text>
+<text aria-label="213,225,247,265" text-anchor="end" x="222.41463414634146" y="247.5" transform="rotate(270.0, 225.41463414634146, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">gun</text>
+<text aria-label="282,294,247,283" text-anchor="end" x="291.8048780487805" y="247.5" transform="rotate(270.0, 294.8048780487805, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">people</text>
+<text aria-label="352,364,247,277" text-anchor="end" x="361.1951219512195" y="247.5" transform="rotate(270.0, 364.1951219512195, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">pinot</text>
+<text aria-label="421,433,247,301" text-anchor="end" x="430.5853658536585" y="247.5" transform="rotate(270.0, 433.5853658536585, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">pregnancy</text>
+<text aria-label="490,502,247,271" text-anchor="end" x="499.9756097560976" y="247.5" transform="rotate(270.0, 502.9756097560976, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">slip</text>
+<text aria-label="560,572,247,271" text-anchor="end" x="569.3658536585366" y="247.5" transform="rotate(270.0, 572.3658536585366, 247.5)" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">vine</text>
+<line aria-label="83,83,240,245" x1="83.5" y1="240.5" x2="83.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="153,153,240,245" x1="153.5" y1="240.5" x2="153.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="222,222,240,245" x1="222.5" y1="240.5" x2="222.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="291,291,240,245" x1="291.5" y1="240.5" x2="291.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="361,361,240,245" x1="361.5" y1="240.5" x2="361.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="430,430,240,245" x1="430.5" y1="240.5" x2="430.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="499,499,240,245" x1="499.5" y1="240.5" x2="499.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="569,569,240,245" x1="569.5" y1="240.5" x2="569.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="42,611,240,240" x1="42.5" y1="240.5" x2="611.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="261,391,0,26" text-anchor="middle" x="326.5" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">bifurcated</text>
+<text aria-label="34,40,232,244" text-anchor="end" x="40.5" y="243.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="22,40,182,194" text-anchor="end" x="40.5" y="193.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,40,132,144" text-anchor="end" x="40.5" y="143.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="22,40,82,94" text-anchor="end" x="40.5" y="93.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="22,40,32,44" text-anchor="end" x="40.5" y="43.5" font-family="avenir" font-size="11px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="3,15,74,206" text-anchor="middle" x="17.14794921875" y="140.5" transform="rotate(-90.0, 15.14794921875, 140.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Gasoline District Blue</text>
+<path aria-label="salmon Gender panel: antigen; Gasoline District Blue: 626; katal Northeast Euro: Small Concrete" role="graphics-symbol" aria-roledescription="bar" d="M92.88617886178861,83.5h18.504065040650406v156.5h-18.504065040650406Z" fill="#cee76c"/>
+<path aria-label="salmon Gender panel: antigen; Gasoline District Blue: 254; katal Northeast Euro: Pizza Books under" role="graphics-symbol" aria-roledescription="bar" d="M74.3821138211382,176.5h18.504065040650406v63.5h-18.504065040650406Z" fill="#4dd9e2"/>
+<path aria-label="salmon Gender panel: antigen; Gasoline District Blue: 210; katal Northeast Euro: Diverse bypass" role="graphics-symbol" aria-roledescription="bar" d="M55.8780487804878,187.5h18.504065040650406v52.5h-18.504065040650406Z" fill="#cbc2b3"/>
+<path aria-label="salmon Gender panel: pinot; Gasoline District Blue: 791; katal Northeast Euro: Small Concrete" role="graphics-symbol" aria-roledescription="bar" d="M370.4471544715447,42.25h18.504065040650406v197.75h-18.504065040650406Z" fill="#cee76c"/>
+<path aria-label="salmon Gender panel: pinot; Gasoline District Blue: 376; katal Northeast Euro: Pizza Books under" role="graphics-symbol" aria-roledescription="bar" d="M351.9430894308943,146.0h18.504065040650406v94h-18.504065040650406Z" fill="#4dd9e2"/>
+<path aria-label="salmon Gender panel: pinot; Gasoline District Blue: 596; katal Northeast Euro: Diverse bypass" role="graphics-symbol" aria-roledescription="bar" d="M333.4390243902439,91.0h18.504065040650406v149h-18.504065040650406Z" fill="#cbc2b3"/>
+<path aria-label="salmon Gender panel: pregnancy; Gasoline District Blue: 293; katal Northeast Euro: Small Concrete" role="graphics-symbol" aria-roledescription="bar" d="M439.8373983739837,166.75h18.504065040650406v73.25h-18.504065040650406Z" fill="#cee76c"/>
+<path aria-label="salmon Gender panel: pregnancy; Gasoline District Blue: 679; katal Northeast Euro: Pizza Books under" role="graphics-symbol" aria-roledescription="bar" d="M421.3333333333333,70.25h18.504065040650406v169.75h-18.504065040650406Z" fill="#4dd9e2"/>
+<path aria-label="salmon Gender panel: pregnancy; Gasoline District Blue: 526; katal Northeast Euro: Diverse bypass" role="graphics-symbol" aria-roledescription="bar" d="M402.8292682926829,108.5h18.504065040650406v131.5h-18.504065040650406Z" fill="#cbc2b3"/>
+<path aria-label="salmon Gender panel: vine; Gasoline District Blue: 659; katal Northeast Euro: Small Concrete" role="graphics-symbol" aria-roledescription="bar" d="M578.6178861788618,75.25h18.504065040650406v164.75h-18.504065040650406Z" fill="#cee76c"/>
+<path aria-label="salmon Gender panel: vine; Gasoline District Blue: 5; katal Northeast Euro: Pizza Books under" role="graphics-symbol" aria-roledescription="bar" d="M560.1138211382114,238.75h18.504065040650406v1.25h-18.504065040650406Z" fill="#4dd9e2"/>
+<path aria-label="salmon Gender panel: vine; Gasoline District Blue: 201; katal Northeast Euro: Diverse bypass" role="graphics-symbol" aria-roledescription="bar" d="M541.609756097561,189.75h18.504065040650406v50.25h-18.504065040650406Z" fill="#cbc2b3"/>
+<path aria-label="salmon Gender panel: cadet; Gasoline District Blue: 674; katal Northeast Euro: Small Concrete" role="graphics-symbol" aria-roledescription="bar" d="M162.27642276422765,71.5h18.504065040650406v168.5h-18.504065040650406Z" fill="#cee76c"/>
+<path aria-label="salmon Gender panel: cadet; Gasoline District Blue: 46; katal Northeast Euro: Pizza Books under" role="graphics-symbol" aria-roledescription="bar" d="M143.77235772357722,228.5h18.504065040650406v11.5h-18.504065040650406Z" fill="#4dd9e2"/>
+<path aria-label="salmon Gender panel: cadet; Gasoline District Blue: 493; katal Northeast Euro: Diverse bypass" role="graphics-symbol" aria-roledescription="bar" d="M125.26829268292683,116.75h18.504065040650406v123.25h-18.504065040650406Z" fill="#cbc2b3"/>
+<path aria-label="salmon Gender panel: slip; Gasoline District Blue: 647; katal Northeast Euro: Small Concrete" role="graphics-symbol" aria-roledescription="bar" d="M509.2276422764228,78.25h18.504065040650406v161.75h-18.504065040650406Z" fill="#cee76c"/>
+<path aria-label="salmon Gender panel: slip; Gasoline District Blue: 382; katal Northeast Euro: Pizza Books under" role="graphics-symbol" aria-roledescription="bar" d="M490.7235772357724,144.5h18.504065040650406v95.5h-18.504065040650406Z" fill="#4dd9e2"/>
+<path aria-label="salmon Gender panel: slip; Gasoline District Blue: 214; katal Northeast Euro: Diverse bypass" role="graphics-symbol" aria-roledescription="bar" d="M472.219512195122,186.5h18.504065040650406v53.5h-18.504065040650406Z" fill="#cbc2b3"/>
+<path aria-label="salmon Gender panel: gun; Gasoline District Blue: 217; katal Northeast Euro: Small Concrete" role="graphics-symbol" aria-roledescription="bar" d="M231.66666666666666,185.75h18.504065040650406v54.25h-18.504065040650406Z" fill="#cee76c"/>
+<path aria-label="salmon Gender panel: gun; Gasoline District Blue: 392; katal Northeast Euro: Pizza Books under" role="graphics-symbol" aria-roledescription="bar" d="M213.16260162601625,142.0h18.504065040650406v98h-18.504065040650406Z" fill="#4dd9e2"/>
+<path aria-label="salmon Gender panel: gun; Gasoline District Blue: 617; katal Northeast Euro: Diverse bypass" role="graphics-symbol" aria-roledescription="bar" d="M194.65853658536585,85.75h18.504065040650406v154.25h-18.504065040650406Z" fill="#cbc2b3"/>
+<path aria-label="salmon Gender panel: people; Gasoline District Blue: 381; katal Northeast Euro: Small Concrete" role="graphics-symbol" aria-roledescription="bar" d="M301.0569105691057,144.75h18.504065040650406v95.25000000000001h-18.504065040650406Z" fill="#cee76c"/>
+<path aria-label="salmon Gender panel: people; Gasoline District Blue: 71; katal Northeast Euro: Pizza Books under" role="graphics-symbol" aria-roledescription="bar" d="M282.5528455284553,222.25h18.504065040650406v17.75h-18.504065040650406Z" fill="#4dd9e2"/>
+<path aria-label="salmon Gender panel: people; Gasoline District Blue: 95; katal Northeast Euro: Diverse bypass" role="graphics-symbol" aria-roledescription="bar" d="M264.0487804878049,216.25h18.504065040650406v23.75h-18.504065040650406Z" fill="#cbc2b3"/>
+</svg>

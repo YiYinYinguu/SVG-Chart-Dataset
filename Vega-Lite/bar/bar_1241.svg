@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1000" height="354" viewBox="0 0 1000 354" style="background-color: rgb(255, 255, 255);">
+<line x1="160.5" y1="245.5" x2="995.5" y2="245.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="205.5" x2="995.5" y2="205.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="165.5" x2="995.5" y2="165.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="125.5" x2="995.5" y2="125.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="85.5" x2="995.5" y2="85.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="160.5" y1="45.5" x2="995.5" y2="45.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="187,207,252,332" text-anchor="end" x="201.75" y="252.5" transform="rotate(270.0, 207.75, 252.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">airfield</text>
+<text aria-label="271,291,252,322" text-anchor="end" x="285.25" y="252.5" transform="rotate(270.0, 291.25, 252.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">amenity</text>
+<text aria-label="354,374,252,322" text-anchor="end" x="368.75" y="252.5" transform="rotate(270.0, 374.75, 252.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">carabao</text>
+<text aria-label="438,458,252,322" text-anchor="end" x="452.25" y="252.5" transform="rotate(270.0, 458.25, 252.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">control</text>
+<text aria-label="521,541,252,352" text-anchor="end" x="535.75" y="252.5" transform="rotate(270.0, 541.75, 252.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">lieutenant</text>
+<text aria-label="605,625,252,342" text-anchor="end" x="619.25" y="252.5" transform="rotate(270.0, 625.25, 252.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">liquidity</text>
+<text aria-label="688,708,252,312" text-anchor="end" x="702.75" y="252.5" transform="rotate(270.0, 708.75, 252.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">sermon</text>
+<text aria-label="772,792,252,302" text-anchor="end" x="786.25" y="252.5" transform="rotate(270.0, 792.25, 252.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">stain</text>
+<text aria-label="855,875,252,302" text-anchor="end" x="869.75" y="252.5" transform="rotate(270.0, 875.75, 252.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">sushi</text>
+<text aria-label="939,959,252,302" text-anchor="end" x="953.25" y="252.5" transform="rotate(270.0, 959.25, 252.5)" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">toque</text>
+<line aria-label="201,201,245,250" x1="201.5" y1="245.5" x2="201.5" y2="250.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="285,285,245,250" x1="285.5" y1="245.5" x2="285.5" y2="250.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="368,368,245,250" x1="368.5" y1="245.5" x2="368.5" y2="250.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="452,452,245,250" x1="452.5" y1="245.5" x2="452.5" y2="250.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="535,535,245,250" x1="535.5" y1="245.5" x2="535.5" y2="250.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="619,619,245,250" x1="619.5" y1="245.5" x2="619.5" y2="250.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="702,702,245,250" x1="702.5" y1="245.5" x2="702.5" y2="250.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="786,786,245,250" x1="786.5" y1="245.5" x2="786.5" y2="250.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="869,869,245,250" x1="869.5" y1="245.5" x2="869.5" y2="250.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="953,953,245,250" x1="953.5" y1="245.5" x2="953.5" y2="250.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="160,995,245,245" x1="160.5" y1="245.5" x2="995.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,96,0,26" text-anchor="start" x="5.0" y="25.0325" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">monitor</text>
+<text aria-label="143,153,232,252" text-anchor="end" x="153.5" y="251.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="123,153,192,212" text-anchor="end" x="153.5" y="211.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="123,153,152,172" text-anchor="end" x="153.5" y="171.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="123,153,112,132" text-anchor="end" x="153.5" y="131.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="123,153,72,92" text-anchor="end" x="153.5" y="91.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">800</text>
+<text aria-label="103,153,32,52" text-anchor="end" x="153.5" y="51.5" font-family="avenir" font-size="19px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<line aria-label="155,160,245,245" x1="160.5" y1="245.5" x2="155.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="155,160,205,205" x1="160.5" y1="205.5" x2="155.5" y2="205.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="155,160,165,165" x1="160.5" y1="165.5" x2="155.5" y2="165.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="155,160,125,125" x1="160.5" y1="125.5" x2="155.5" y2="125.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="155,160,85,85" x1="160.5" y1="85.5" x2="155.5" y2="85.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="155,160,45,45" x1="160.5" y1="45.5" x2="155.5" y2="45.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="83,95,112,178" text-anchor="middle" x="97.20361328125" y="145.5" transform="rotate(-90.0, 95.20361328125, 145.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Fundamental</text>
+<line aria-label="160,160,45,245" x1="160.5" y1="245.5" x2="160.5" y2="45.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="mobile reorganisation Funk: toque; Fundamental: 520; withdrawal: Colorado" role="graphics-symbol" aria-roledescription="bar" d="M923.1899999999999,61.8h60.120000000000005v104h-60.120000000000005Z" fill="#d1215a"/>
+<path aria-label="mobile reorganisation Funk: toque; Fundamental: 396; withdrawal: Uranium" role="graphics-symbol" aria-roledescription="bar" d="M923.1899999999999,165.8h60.120000000000005v79.2h-60.120000000000005Z" fill="#5dcfdd"/>
+<path aria-label="mobile reorganisation Funk: sushi; Fundamental: 244; withdrawal: Colorado" role="graphics-symbol" aria-roledescription="bar" d="M839.6899999999999,117.0h60.120000000000005v48.8h-60.120000000000005Z" fill="#d1215a"/>
+<path aria-label="mobile reorganisation Funk: sushi; Fundamental: 396; withdrawal: Uranium" role="graphics-symbol" aria-roledescription="bar" d="M839.6899999999999,165.8h60.120000000000005v79.2h-60.120000000000005Z" fill="#5dcfdd"/>
+<path aria-label="mobile reorganisation Funk: carabao; Fundamental: 205; withdrawal: Colorado" role="graphics-symbol" aria-roledescription="bar" d="M338.69,202.8h60.120000000000005v41h-60.120000000000005Z" fill="#d1215a"/>
+<path aria-label="mobile reorganisation Funk: carabao; Fundamental: 6; withdrawal: Uranium" role="graphics-symbol" aria-roledescription="bar" d="M338.69,243.8h60.120000000000005v1.1999999999999886h-60.120000000000005Z" fill="#5dcfdd"/>
+<path aria-label="mobile reorganisation Funk: liquidity; Fundamental: 551; withdrawal: Colorado" role="graphics-symbol" aria-roledescription="bar" d="M589.19,91.8h60.120000000000005v110.2h-60.120000000000005Z" fill="#d1215a"/>
+<path aria-label="mobile reorganisation Funk: liquidity; Fundamental: 215; withdrawal: Uranium" role="graphics-symbol" aria-roledescription="bar" d="M589.19,202.0h60.120000000000005v43h-60.120000000000005Z" fill="#5dcfdd"/>
+<path aria-label="mobile reorganisation Funk: lieutenant; Fundamental: 300; withdrawal: Colorado" role="graphics-symbol" aria-roledescription="bar" d="M505.69,156.0h60.120000000000005v60.000000000000014h-60.120000000000005Z" fill="#d1215a"/>
+<path aria-label="mobile reorganisation Funk: lieutenant; Fundamental: 145; withdrawal: Uranium" role="graphics-symbol" aria-roledescription="bar" d="M505.69,216.0h60.120000000000005v29h-60.120000000000005Z" fill="#5dcfdd"/>
+<path aria-label="mobile reorganisation Funk: airfield; Fundamental: 330; withdrawal: Colorado" role="graphics-symbol" aria-roledescription="bar" d="M171.69,70.0h60.120000000000005v65.99999999999999h-60.120000000000005Z" fill="#d1215a"/>
+<path aria-label="mobile reorganisation Funk: airfield; Fundamental: 545; withdrawal: Uranium" role="graphics-symbol" aria-roledescription="bar" d="M171.69,136.0h60.120000000000005v109.00000000000001h-60.120000000000005Z" fill="#5dcfdd"/>
+<path aria-label="mobile reorganisation Funk: sermon; Fundamental: 218; withdrawal: Colorado" role="graphics-symbol" aria-roledescription="bar" d="M672.69,93.8h60.120000000000005v43.599999999999994h-60.120000000000005Z" fill="#d1215a"/>
+<path aria-label="mobile reorganisation Funk: sermon; Fundamental: 538; withdrawal: Uranium" role="graphics-symbol" aria-roledescription="bar" d="M672.69,137.39999999999998h60.120000000000005v107.60000000000001h-60.120000000000005Z" fill="#5dcfdd"/>
+<path aria-label="mobile reorganisation Funk: control; Fundamental: 585; withdrawal: Colorado" role="graphics-symbol" aria-roledescription="bar" d="M422.19,48.800000000000004h60.120000000000005v117h-60.120000000000005Z" fill="#d1215a"/>
+<path aria-label="mobile reorganisation Funk: control; Fundamental: 396; withdrawal: Uranium" role="graphics-symbol" aria-roledescription="bar" d="M422.19,165.8h60.120000000000005v79.2h-60.120000000000005Z" fill="#5dcfdd"/>
+<path aria-label="mobile reorganisation Funk: amenity; Fundamental: 144; withdrawal: Colorado" role="graphics-symbol" aria-roledescription="bar" d="M255.19,114.0h60.120000000000005v28.799999999999997h-60.120000000000005Z" fill="#d1215a"/>
+<path aria-label="mobile reorganisation Funk: amenity; Fundamental: 511; withdrawal: Uranium" role="graphics-symbol" aria-roledescription="bar" d="M255.19,142.8h60.120000000000005v102.2h-60.120000000000005Z" fill="#5dcfdd"/>
+<path aria-label="mobile reorganisation Funk: stain; Fundamental: 466; withdrawal: Colorado" role="graphics-symbol" aria-roledescription="bar" d="M756.1899999999999,57.20000000000001h60.120000000000005v93.19999999999999h-60.120000000000005Z" fill="#d1215a"/>
+<path aria-label="mobile reorganisation Funk: stain; Fundamental: 473; withdrawal: Uranium" role="graphics-symbol" aria-roledescription="bar" d="M756.1899999999999,150.4h60.120000000000005v94.6h-60.120000000000005Z" fill="#5dcfdd"/>
+<text aria-label="943,963,44,58" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="953.25" y="57.03249999999999" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">520</text>
+<text aria-label="943,963,148,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="953.25" y="161.0325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">396</text>
+<text aria-label="859,879,99,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="869.75" y="112.2325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">244</text>
+<text aria-label="859,879,148,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="869.75" y="161.0325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">396</text>
+<text aria-label="358,378,185,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="368.75" y="198.0325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">205</text>
+<text aria-label="365,372,226,240" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="368.75" y="239.0325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">6</text>
+<text aria-label="609,629,74,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="619.25" y="87.0325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">551</text>
+<text aria-label="609,629,184,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="619.25" y="197.2325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">215</text>
+<text aria-label="525,545,138,152" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="535.75" y="151.2325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">300</text>
+<text aria-label="525,545,198,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="535.75" y="211.2325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">145</text>
+<text aria-label="191,211,52,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="201.75" y="65.2325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">330</text>
+<text aria-label="191,211,118,132" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="201.75" y="131.2325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">545</text>
+<text aria-label="692,712,76,90" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="702.75" y="89.0325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">218</text>
+<text aria-label="692,712,120,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="702.75" y="132.6325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">538</text>
+<text aria-label="442,462,31,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="452.25" y="44.032500000000006" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">585</text>
+<text aria-label="442,462,148,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="452.25" y="161.0325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">396</text>
+<text aria-label="275,295,96,110" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="285.25" y="109.2325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">144</text>
+<text aria-label="275,295,125,139" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="285.25" y="138.0325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">511</text>
+<text aria-label="776,796,39,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="786.25" y="52.43250000000001" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">466</text>
+<text aria-label="776,796,133,146" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="786.25" y="145.6325" font-family="avenir" font-size="12.525px" fill="#000" opacity="1">473</text>
+<path  d="M6.0,62.0h10v10h-10Z" fill="#d1215a" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,75.0h10v10h-10Z" fill="#5dcfdd" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,60,71" text-anchor="start" x="21.0" y="70.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Colorado</text>
+<text aria-label="21,59,73,84" text-anchor="start" x="21.0" y="83.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Uranium</text>
+<text aria-label="5,65,43,55" text-anchor="start" x="5.0" y="54.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">withdrawal</text>
+</svg>

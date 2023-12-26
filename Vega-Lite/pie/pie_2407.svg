@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="278" height="239" viewBox="0 0 278 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="14,196,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Strategist sky</text>
+<path aria-label="quisquam Bulgaria: 216; Carter: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,65.07050600175803,197.48728620002873L105.0,134.0Z" fill="#38fefd" stroke="white" stroke-width="0"/>
+<path aria-label="quisquam Bulgaria: 158; Carter: Table" role="graphics-symbol" aria-roledescription="arc mark"  d="M65.07050600175803,197.48728620002873A75,75,0,0,0,177.76253651535797,152.18277426167958L105.0,134.0Z" fill="#d1df8b" stroke="white" stroke-width="0"/>
+<path aria-label="quisquam Bulgaria: 152; Carter: Cab" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.76253651535797,152.18277426167958A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#b45f3a" stroke="white" stroke-width="0"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#b45f3a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#d1df8b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#38fefd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,255,49,60" text-anchor="start" x="239.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Cab</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Table</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">invoice</text>
+<text aria-label="223,259,32,44" text-anchor="start" x="223.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Carter</text>
+</svg>

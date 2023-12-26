@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="252" height="286" viewBox="0 0 252 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="46,163,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">bypassing</text>
+<path aria-label="Minnesota Steel Regional: 77; Architect Bronze: Hayley" role="graphics-symbol" aria-roledescription="arc mark"  d="M129.8763615431907,63.24573061381764A75,75,0,0,0,105.0,59.0L105.0,99.0A35,35,0,0,1,116.60896872015566,100.9813409531149Z" fill="#cf9ac3" stroke="white" stroke-width="1"/>
+<path aria-label="Minnesota Steel Regional: 93; Architect Bronze: cohesive" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,75.21844161791766,65.16644146686428L91.10193942169491,101.87767268453666A35,35,0,0,1,105.0,99.0Z" fill="#b2e4f6" stroke="white" stroke-width="1"/>
+<path aria-label="Minnesota Steel Regional: 627; Architect Bronze: Somali" role="graphics-symbol" aria-roledescription="arc mark"  d="M108.78542612189054,208.90440941009888A75,75,0,0,0,129.8763615431907,63.24573061381764L116.60896872015566,100.9813409531149A35,35,0,0,1,106.76653219021559,168.95539105804613Z" fill="#7caece" stroke="white" stroke-width="1"/>
+<path aria-label="Minnesota Steel Regional: 634; Architect Bronze: auxiliary" role="graphics-symbol" aria-roledescription="arc mark"  d="M75.21844161791766,65.16644146686428A75,75,0,0,0,108.78542612189054,208.90440941009888L106.76653219021559,168.95539105804613A35,35,0,0,1,91.10193942169491,101.87767268453666Z" fill="#e203be" stroke="white" stroke-width="1"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#cf9ac3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M73.0,274.25A5,5,0,1,1,63.0,274.25A5,5,0,1,1,73.0,274.25" fill="#7caece" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,274.25A5,5,0,1,1,120.0,274.25A5,5,0,1,1,130.0,274.25" fill="#e203be" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M202.0,274.25A5,5,0,1,1,192.0,274.25A5,5,0,1,1,202.0,274.25" fill="#b2e4f6" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Hayley</text>
+<text aria-label="78,111,267,278" text-anchor="start" x="78.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Somali</text>
+<text aria-label="135,184,267,278" text-anchor="start" x="135.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">auxiliary</text>
+<text aria-label="207,251,267,278" text-anchor="start" x="207.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">cohesive</text>
+<text aria-label="5,101,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Architect Bronze</text>
+</svg>

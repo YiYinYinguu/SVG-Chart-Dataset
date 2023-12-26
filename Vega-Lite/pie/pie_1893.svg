@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="278" height="239" viewBox="0 0 278 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">indigo</text>
+<path aria-label="standardization Specialist Camden: 230; Roseville: deny" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.50526619503967,148.89885370075027A75,75,0,0,0,119.7731934758302,60.46937539687502L111.89415695538742,99.68570851854167A35,35,0,0,1,139.30245755768516,140.95279839368345Z" fill="#4ff84d" stroke="white" stroke-width="3"/>
+<path aria-label="standardization Specialist Camden: 29; Roseville: Park" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.7731934758302,60.46937539687502A75,75,0,0,0,105.0,59.0L105.0,99.0A35,35,0,0,1,111.89415695538742,99.68570851854167Z" fill="#0321c2" stroke="white" stroke-width="3"/>
+<path aria-label="standardization Specialist Camden: 356; Roseville: input" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.45814912521624,170.45909740939302A75,75,0,0,0,178.50526619503967,148.89885370075027L139.30245755768516,140.95279839368345A35,35,0,0,1,74.41380292510091,151.01424545771675Z" fill="#b97b1c" stroke="white" stroke-width="3"/>
+<path aria-label="standardization Specialist Camden: 304; Roseville: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,39.45814912521624,170.45909740939302L74.41380292510091,151.01424545771675A35,35,0,0,1,105.0,99.0Z" fill="#c6492b" stroke="white" stroke-width="3"/>
+<text aria-label="171,188,77,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.9708561174574" y="87.20672000143492" font-family="avenir" font-size="10px" fill="#4ff84d" opacity="1">230</text>
+<text aria-label="108,119,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="113.90765240853342" y="47.441897471145865" font-family="avenir" font-size="10px" fill="#0321c2" opacity="1">29</text>
+<text aria-label="110,127,215,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="118.79034565346436" y="225.93720462639905" font-family="avenir" font-size="10px" fill="#b97b1c" opacity="1">356</text>
+<text aria-label="19,35,81,92" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="27.4191308368666" y="91.37973323299417" font-family="avenir" font-size="10px" fill="#c6492b" opacity="1">304</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#0321c2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#4ff84d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#b97b1c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#c6492b" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Park</text>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">deny</text>
+<text aria-label="239,266,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">input</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">invoice</text>
+</svg>

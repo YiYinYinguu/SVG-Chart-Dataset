@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="290" height="239" viewBox="0 0 290 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="94,276,0,26" text-anchor="middle" x="185.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">invoice salmon</text>
+<path aria-label="Bicycle Wooden transitional: 725; Southeast ew Southeast: protocol" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.01834209508229,93.27763799154184A75,75,0,0,0,135.42700576592193,190.28070932982334L151.29036392082693,172.27088234427987A51,51,0,0,1,142.17247262465597,106.30879383424845Z" fill="#ed097e" stroke="black" stroke-width="0"/>
+<path aria-label="Bicycle Wooden transitional: 652; Southeast ew Southeast: global" role="graphics-symbol" aria-roledescription="arc mark"  d="M256.8382610829739,112.45320802127425A75,75,0,0,0,185.0,59.0L185.0,83.0A51,51,0,0,1,233.85001753642223,119.3481814544665Z" fill="#f4cb9a" stroke="black" stroke-width="0"/>
+<path aria-label="Bicycle Wooden transitional: 508; Southeast ew Southeast: quietly" role="graphics-symbol" aria-roledescription="arc mark"  d="M185.0,59.0A75,75,0,0,0,122.01834209508229,93.27763799154184L142.17247262465597,106.30879383424845A51,51,0,0,1,185.0,83.0Z" fill="#bfca91" stroke="black" stroke-width="0"/>
+<path aria-label="Bicycle Wooden transitional: 648; Southeast ew Southeast: paranoia" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.42700576592193,190.28070932982334A75,75,0,0,0,224.16543048333148,197.96146539171323L211.6324927286654,177.493796466365A51,51,0,0,1,151.29036392082693,172.27088234427987Z" fill="#e916de" stroke="black" stroke-width="0"/>
+<path aria-label="Bicycle Wooden transitional: 669; Southeast ew Southeast: maximize" role="graphics-symbol" aria-roledescription="arc mark"  d="M224.16543048333148,197.96146539171323A75,75,0,0,0,256.8382610829739,112.45320802127425L233.85001753642223,119.3481814544665A51,51,0,0,1,211.6324927286654,177.493796466365Z" fill="#edfbc8" stroke="black" stroke-width="0"/>
+<text aria-label="86,105,138,151" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="95.8477010717703" y="150.32345713716623" font-family="sans-serif" font-size="12px" fill="#ed097e" opacity="1">725</text>
+<text aria-label="228,248,53,66" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="238.72590839761398" y="65.7952441535103" font-family="sans-serif" font-size="12px" fill="#f4cb9a" opacity="1">652</text>
+<text aria-label="132,151,46,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.97683819681242" y="58.94933555967579" font-family="sans-serif" font-size="12px" fill="#bfca91" opacity="1">508</text>
+<text aria-label="167,186,215,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="177.23906559189422" y="227.66475281353917" font-family="sans-serif" font-size="12px" fill="#e916de" opacity="1">648</text>
+<text aria-label="259,278,158,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="269.0717157143567" y="170.12392592514797" font-family="sans-serif" font-size="12px" fill="#edfbc8" opacity="1">669</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#f4cb9a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#edfbc8" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#e916de" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ed097e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#bfca91" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,33,44" text-anchor="start" x="21.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">global</text>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">maximize</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">paranoia</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">protocol</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">quietly</text>
+</svg>

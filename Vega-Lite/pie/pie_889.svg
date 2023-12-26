@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="468" height="286" viewBox="0 0 468 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">mint Southeast</text>
+<path aria-label="Auto: 28; insert: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.51404351203178,192.02943795296272A75,75,0,0,0,179.40179447059532,124.5462716584783L146.66500490353337,128.70591212874785A42,42,0,0,1,131.6078643667378,166.49648525365913Z" fill="#f3d8ad" stroke="white" stroke-width="0"/>
+<path aria-label="Auto: 8; insert: tangible" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,83.63393927912244,62.10777893769192L93.03500599630857,93.74035620510747A42,42,0,0,1,104.99999999999999,92.0Z" fill="#ca9cfd" stroke="white" stroke-width="0"/>
+<path aria-label="Auto: 20; insert: Home" role="graphics-symbol" aria-roledescription="arc mark"  d="M102.29231900775476,208.95110715422578A75,75,0,0,0,152.51404351203178,192.02943795296272L131.6078643667378,166.49648525365913A42,42,0,0,1,103.48369864434267,175.97262000636644Z" fill="#befcda" stroke="white" stroke-width="0"/>
+<path aria-label="Auto: 33; insert: holistic" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.05647986511575,116.55744083192675A75,75,0,0,0,61.79708861210701,195.30667539191688L80.80636962277993,168.33173821947344A42,42,0,0,1,64.15162872446481,124.23216686587898Z" fill="#dfbdf6" stroke="white" stroke-width="0"/>
+<path aria-label="Auto: 40; insert: Administrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.40179447059532,124.5462716584783A75,75,0,0,0,105.0,59.0L105.0,92.0A42,42,0,0,1,146.66500490353337,128.70591212874785Z" fill="#5af1f3" stroke="white" stroke-width="0"/>
+<path aria-label="Auto: 16; insert: Ytterbium" role="graphics-symbol" aria-roledescription="arc mark"  d="M61.79708861210701,195.30667539191688A75,75,0,0,0,102.29231900775476,208.95110715422578L103.48369864434267,175.97262000636644A42,42,0,0,1,80.80636962277993,168.33173821947344Z" fill="#f45cef" stroke="white" stroke-width="0"/>
+<path aria-label="Auto: 29; insert: mobile" role="graphics-symbol" aria-roledescription="arc mark"  d="M83.63393927912244,62.10777893769192A75,75,0,0,0,32.05647986511575,116.55744083192675L64.15162872446481,124.23216686587898A42,42,0,0,1,93.03500599630857,93.74035620510747Z" fill="#d5a28d" stroke="white" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#5af1f3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M108.0,274.25A5,5,0,1,1,98.0,274.25A5,5,0,1,1,108.0,274.25" fill="#f3d8ad" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M175.0,274.25A5,5,0,1,1,165.0,274.25A5,5,0,1,1,175.0,274.25" fill="#befcda" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M222.0,274.25A5,5,0,1,1,212.0,274.25A5,5,0,1,1,222.0,274.25" fill="#f45cef" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M294.0,274.25A5,5,0,1,1,284.0,274.25A5,5,0,1,1,294.0,274.25" fill="#dfbdf6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M361.0,274.25A5,5,0,1,1,351.0,274.25A5,5,0,1,1,361.0,274.25" fill="#d5a28d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M418.0,274.25A5,5,0,1,1,408.0,274.25A5,5,0,1,1,418.0,274.25" fill="#ca9cfd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,92,267,278" text-anchor="start" x="21.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Administrator</text>
+<text aria-label="113,157,267,278" text-anchor="start" x="113.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="180,202,267,278" text-anchor="start" x="180.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Home</text>
+<text aria-label="227,276,267,278" text-anchor="start" x="227.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Ytterbium</text>
+<text aria-label="299,343,267,278" text-anchor="start" x="299.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">holistic</text>
+<text aria-label="366,399,267,278" text-anchor="start" x="366.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">mobile</text>
+<text aria-label="423,467,267,278" text-anchor="start" x="423.0" y="277.25" font-family="serif" font-size="10px" fill="#000" opacity="1">tangible</text>
+<text aria-label="5,41,250,262" text-anchor="start" x="5.0" y="261.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">insert</text>
+</svg>

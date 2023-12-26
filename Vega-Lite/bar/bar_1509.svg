@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="761" height="375" viewBox="0 0 761 375" style="background-color: rgb(255, 255, 255);">
+<line x1="56.5" y1="243.5" x2="756.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="203.5" x2="756.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="163.5" x2="756.5" y2="163.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="123.5" x2="756.5" y2="123.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="83.5" x2="756.5" y2="83.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="56.5" y1="43.5" x2="756.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="94,112,250,295" text-anchor="end" x="107.21951219512195" y="250.5" transform="rotate(270.0, 112.21951219512195, 250.5)" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">apron</text>
+<text aria-label="179,197,250,295" text-anchor="end" x="192.58536585365854" y="250.5" transform="rotate(270.0, 197.58536585365854, 250.5)" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">hutch</text>
+<text aria-label="264,282,250,286" text-anchor="end" x="277.95121951219517" y="250.5" transform="rotate(270.0, 282.95121951219517, 250.5)" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">jute</text>
+<text aria-label="350,368,250,367" text-anchor="end" x="363.3170731707317" y="250.5" transform="rotate(270.0, 368.3170731707317, 250.5)" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">manufacturing</text>
+<text aria-label="435,453,250,304" text-anchor="end" x="448.6829268292683" y="250.5" transform="rotate(270.0, 453.6829268292683, 250.5)" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">outlet</text>
+<text aria-label="521,539,250,313" text-anchor="end" x="534.0487804878048" y="250.5" transform="rotate(270.0, 539.0487804878048, 250.5)" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">passing</text>
+<text aria-label="606,624,250,313" text-anchor="end" x="619.4146341463414" y="250.5" transform="rotate(270.0, 624.4146341463414, 250.5)" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">produce</text>
+<text aria-label="691,709,250,322" text-anchor="end" x="704.7804878048781" y="250.5" transform="rotate(270.0, 709.7804878048781, 250.5)" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">shipyard</text>
+<line aria-label="107,107,243,248" x1="107.5" y1="243.5" x2="107.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="192,192,243,248" x1="192.5" y1="243.5" x2="192.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="277,277,243,248" x1="277.5" y1="243.5" x2="277.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="363,363,243,248" x1="363.5" y1="243.5" x2="363.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="448,448,243,248" x1="448.5" y1="243.5" x2="448.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="534,534,243,248" x1="534.5" y1="243.5" x2="534.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="619,619,243,248" x1="619.5" y1="243.5" x2="619.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="704,704,243,248" x1="704.5" y1="243.5" x2="704.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,756,243,243" x1="56.5" y1="243.5" x2="756.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="321,490,0,26" text-anchor="middle" x="406.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">second bypass</text>
+<text aria-label="40,49,231,249" text-anchor="end" x="49.5" y="248.5" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="22,49,191,209" text-anchor="end" x="49.5" y="208.5" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,49,151,169" text-anchor="end" x="49.5" y="168.5" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="22,49,111,129" text-anchor="end" x="49.5" y="128.5" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">600</text>
+<text aria-label="22,49,71,89" text-anchor="end" x="49.5" y="88.5" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">800</text>
+<text aria-label="4,49,31,49" text-anchor="end" x="49.5" y="48.5" font-family="avenir" font-size="17px" font-weight="normal" fill="#000" opacity="1">1,000</text>
+<line aria-label="51,56,243,243" x1="56.5" y1="243.5" x2="51.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,203,203" x1="56.5" y1="203.5" x2="51.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,163,163" x1="56.5" y1="163.5" x2="51.5" y2="163.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,123,123" x1="56.5" y1="123.5" x2="51.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,83,83" x1="56.5" y1="83.5" x2="51.5" y2="83.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,56,43,43" x1="56.5" y1="43.5" x2="51.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="56,56,43,243" x1="56.5" y1="243.5" x2="56.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="South ampere: hutch; calculate HTTP AGP: 444; Maserati Avon: blue" role="graphics-symbol" aria-roledescription="bar" d="M181.2032520325203,154.20000000000002h22.764227642276424v88.79999999999998h-22.764227642276424Z" fill="#bee0e3"/>
+<path aria-label="South ampere: hutch; calculate HTTP AGP: 17; Maserati Avon: Bespoke illum" role="graphics-symbol" aria-roledescription="bar" d="M158.4390243902439,239.6h22.764227642276424v3.4000000000000057h-22.764227642276424Z" fill="#47b2ca"/>
+<path aria-label="South ampere: hutch; calculate HTTP AGP: 605; Maserati Avon: pixel times" role="graphics-symbol" aria-roledescription="bar" d="M203.96747967479675,122.0h22.764227642276424v121h-22.764227642276424Z" fill="#a00cfc"/>
+<path aria-label="South ampere: jute; calculate HTTP AGP: 668; Maserati Avon: blue" role="graphics-symbol" aria-roledescription="bar" d="M266.5691056910569,109.39999999999999h22.764227642276424v133.60000000000002h-22.764227642276424Z" fill="#bee0e3"/>
+<path aria-label="South ampere: jute; calculate HTTP AGP: 845; Maserati Avon: Bespoke illum" role="graphics-symbol" aria-roledescription="bar" d="M243.8048780487805,74.0h22.764227642276424v169h-22.764227642276424Z" fill="#47b2ca"/>
+<path aria-label="South ampere: jute; calculate HTTP AGP: 598; Maserati Avon: pixel times" role="graphics-symbol" aria-roledescription="bar" d="M289.33333333333337,123.4h22.764227642276424v119.6h-22.764227642276424Z" fill="#a00cfc"/>
+<path aria-label="South ampere: produce; calculate HTTP AGP: 333; Maserati Avon: blue" role="graphics-symbol" aria-roledescription="bar" d="M608.0325203252032,176.4h22.764227642276424v66.6h-22.764227642276424Z" fill="#bee0e3"/>
+<path aria-label="South ampere: produce; calculate HTTP AGP: 466; Maserati Avon: Bespoke illum" role="graphics-symbol" aria-roledescription="bar" d="M585.2682926829268,149.8h22.764227642276424v93.19999999999999h-22.764227642276424Z" fill="#47b2ca"/>
+<path aria-label="South ampere: produce; calculate HTTP AGP: 357; Maserati Avon: pixel times" role="graphics-symbol" aria-roledescription="bar" d="M630.7967479674796,171.6h22.764227642276424v71.4h-22.764227642276424Z" fill="#a00cfc"/>
+<path aria-label="South ampere: passing; calculate HTTP AGP: 138; Maserati Avon: blue" role="graphics-symbol" aria-roledescription="bar" d="M522.6666666666667,215.4h22.764227642276424v27.599999999999994h-22.764227642276424Z" fill="#bee0e3"/>
+<path aria-label="South ampere: passing; calculate HTTP AGP: 413; Maserati Avon: Bespoke illum" role="graphics-symbol" aria-roledescription="bar" d="M499.9024390243903,160.39999999999998h22.764227642276424v82.60000000000001h-22.764227642276424Z" fill="#47b2ca"/>
+<path aria-label="South ampere: passing; calculate HTTP AGP: 288; Maserati Avon: pixel times" role="graphics-symbol" aria-roledescription="bar" d="M545.4308943089432,185.4h22.764227642276424v57.599999999999994h-22.764227642276424Z" fill="#a00cfc"/>
+<path aria-label="South ampere: shipyard; calculate HTTP AGP: 259; Maserati Avon: blue" role="graphics-symbol" aria-roledescription="bar" d="M693.3983739837399,191.2h22.764227642276424v51.80000000000001h-22.764227642276424Z" fill="#bee0e3"/>
+<path aria-label="South ampere: shipyard; calculate HTTP AGP: 707; Maserati Avon: Bespoke illum" role="graphics-symbol" aria-roledescription="bar" d="M670.6341463414635,101.60000000000001h22.764227642276424v141.39999999999998h-22.764227642276424Z" fill="#47b2ca"/>
+<path aria-label="South ampere: shipyard; calculate HTTP AGP: 144; Maserati Avon: pixel times" role="graphics-symbol" aria-roledescription="bar" d="M716.1626016260163,214.2h22.764227642276424v28.80000000000001h-22.764227642276424Z" fill="#a00cfc"/>
+<path aria-label="South ampere: outlet; calculate HTTP AGP: 82; Maserati Avon: blue" role="graphics-symbol" aria-roledescription="bar" d="M437.3008130081301,226.6h22.764227642276424v16.400000000000006h-22.764227642276424Z" fill="#bee0e3"/>
+<path aria-label="South ampere: outlet; calculate HTTP AGP: 648; Maserati Avon: Bespoke illum" role="graphics-symbol" aria-roledescription="bar" d="M414.5365853658537,113.39999999999999h22.764227642276424v129.60000000000002h-22.764227642276424Z" fill="#47b2ca"/>
+<path aria-label="South ampere: outlet; calculate HTTP AGP: 902; Maserati Avon: pixel times" role="graphics-symbol" aria-roledescription="bar" d="M460.06504065040656,62.599999999999994h22.764227642276424v180.4h-22.764227642276424Z" fill="#a00cfc"/>
+<path aria-label="South ampere: apron; calculate HTTP AGP: 931; Maserati Avon: blue" role="graphics-symbol" aria-roledescription="bar" d="M95.83739837398373,56.79999999999999h22.764227642276424v186.20000000000002h-22.764227642276424Z" fill="#bee0e3"/>
+<path aria-label="South ampere: apron; calculate HTTP AGP: 383; Maserati Avon: Bespoke illum" role="graphics-symbol" aria-roledescription="bar" d="M73.07317073170731,166.4h22.764227642276424v76.6h-22.764227642276424Z" fill="#47b2ca"/>
+<path aria-label="South ampere: apron; calculate HTTP AGP: 98; Maserati Avon: pixel times" role="graphics-symbol" aria-roledescription="bar" d="M118.60162601626016,223.4h22.764227642276424v19.599999999999994h-22.764227642276424Z" fill="#a00cfc"/>
+<path aria-label="South ampere: manufacturing; calculate HTTP AGP: 392; Maserati Avon: blue" role="graphics-symbol" aria-roledescription="bar" d="M351.9349593495935,164.6h22.764227642276424v78.4h-22.764227642276424Z" fill="#bee0e3"/>
+<path aria-label="South ampere: manufacturing; calculate HTTP AGP: 755; Maserati Avon: Bespoke illum" role="graphics-symbol" aria-roledescription="bar" d="M329.1707317073171,92.0h22.764227642276424v151h-22.764227642276424Z" fill="#47b2ca"/>
+<path aria-label="South ampere: manufacturing; calculate HTTP AGP: 654; Maserati Avon: pixel times" role="graphics-symbol" aria-roledescription="bar" d="M374.69918699186996,112.19999999999999h22.764227642276424v130.8h-22.764227642276424Z" fill="#a00cfc"/>
+</svg>

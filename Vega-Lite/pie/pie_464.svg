@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="502" height="270" viewBox="0 0 502 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="6,292,0,26" text-anchor="middle" x="149.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Biloxi Sedan Southeast</text>
+<path aria-label="International Data connect: 336; eos transmit: B2B" role="graphics-symbol" aria-roledescription="arc mark"  d="M197.15606477265172,107.50223112491952A75,75,0,0,0,149.0,90.0L149.0,165.0Z" fill="#e5b20c" stroke="black" stroke-width="0"/>
+<path aria-label="International Data connect: 532; eos transmit: patience" role="graphics-symbol" aria-roledescription="arc mark"  d="M136.3000653735897,91.08307595357539A75,75,0,0,0,77.27764888810545,143.0704685188644L149.0,165.0Z" fill="#8c3967" stroke="black" stroke-width="0"/>
+<path aria-label="International Data connect: 523; eos transmit: Cheese" role="graphics-symbol" aria-roledescription="arc mark"  d="M222.32637657690267,180.75571318926123A75,75,0,0,0,197.15606477265172,107.50223112491952L149.0,165.0Z" fill="#1e7cc6" stroke="black" stroke-width="0"/>
+<path aria-label="International Data connect: 512; eos transmit: copying" role="graphics-symbol" aria-roledescription="arc mark"  d="M93.2363773261959,215.15394686655878A75,75,0,0,0,165.66739428288545,238.12453738533213L149.0,165.0Z" fill="#4b0bbf" stroke="black" stroke-width="0"/>
+<path aria-label="International Data connect: 488; eos transmit: magenta" role="graphics-symbol" aria-roledescription="arc mark"  d="M77.27764888810545,143.0704685188644A75,75,0,0,0,92.41153188605884,214.22139043665328L149.0,165.0Z" fill="#5dd73e" stroke="black" stroke-width="0"/>
+<path aria-label="International Data connect: 82; eos transmit: plum" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.0,90.0A75,75,0,0,0,136.3000653735897,91.08307595357539L149.0,165.0Z" fill="#bacecf" stroke="black" stroke-width="0"/>
+<path aria-label="International Data connect: 547; eos transmit: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.66739428288545,238.12453738533213A75,75,0,0,0,222.32637657690267,180.75571318926123L149.0,165.0Z" fill="#2ba748" stroke="black" stroke-width="0"/>
+<path aria-label="International Data connect: 8; eos transmit: eos" role="graphics-symbol" aria-roledescription="arc mark"  d="M92.41153188605884,214.22139043665328A75,75,0,0,0,93.2363773261959,215.15394686655878L149.0,165.0Z" fill="#b04ab4" stroke="black" stroke-width="0"/>
+<text aria-label="173,185,75,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="179.74281185489798" y="82.41347909238526" font-family="sans-serif" font-size="7px" fill="#e5b20c" opacity="1">336</text>
+<text aria-label="83,95,92,100" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="89.51275705324475" y="99.46284040179275" font-family="sans-serif" font-size="7px" fill="#8c3967" opacity="1">532</text>
+<text aria-label="228,240,130,138" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="234.11556983706066" y="137.7538075758151" font-family="sans-serif" font-size="7px" fill="#1e7cc6" opacity="1">523</text>
+<text aria-label="115,127,245,253" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="121.79303917848645" y="252.78916763121453" font-family="sans-serif" font-size="7px" fill="#4b0bbf" opacity="1">512</text>
+<text aria-label="54,66,178,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="60.969305311974836" y="185.7242300974886" font-family="sans-serif" font-size="7px" fill="#5dd73e" opacity="1">488</text>
+<text aria-label="137,145,70,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="141.35237935740332" y="77.32551143994782" font-family="sans-serif" font-size="7px" fill="#bacecf" opacity="1">82</text>
+<text aria-label="207,219,223,231" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="213.03453663417383" y="230.24221784572907" font-family="sans-serif" font-size="7px" fill="#2ba748" opacity="1">547</text>
+<text aria-label="79,83,219,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="81.58642341698386" y="226.62725628675042" font-family="sans-serif" font-size="7px" fill="#b04ab4" opacity="1">8</text>
+<path  d="M60.0,40.25A5,5,0,1,1,50.0,40.25A5,5,0,1,1,60.0,40.25" fill="#e5b20c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M106.0,40.25A5,5,0,1,1,96.0,40.25A5,5,0,1,1,106.0,40.25" fill="#1e7cc6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M168.0,40.25A5,5,0,1,1,158.0,40.25A5,5,0,1,1,168.0,40.25" fill="#2ba748" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M219.0,40.25A5,5,0,1,1,209.0,40.25A5,5,0,1,1,219.0,40.25" fill="#4b0bbf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M285.0,40.25A5,5,0,1,1,275.0,40.25A5,5,0,1,1,285.0,40.25" fill="#b04ab4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M329.0,40.25A5,5,0,1,1,319.0,40.25A5,5,0,1,1,329.0,40.25" fill="#5dd73e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M399.0,40.25A5,5,0,1,1,389.0,40.25A5,5,0,1,1,399.0,40.25" fill="#8c3967" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M467.0,40.25A5,5,0,1,1,457.0,40.25A5,5,0,1,1,467.0,40.25" fill="#bacecf" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="65,81,33,44" text-anchor="start" x="65.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">B2B</text>
+<text aria-label="111,144,33,44" text-anchor="start" x="111.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cheese</text>
+<text aria-label="173,195,33,44" text-anchor="start" x="173.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="224,262,33,44" text-anchor="start" x="224.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">copying</text>
+<text aria-label="290,306,33,44" text-anchor="start" x="290.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">eos</text>
+<text aria-label="334,372,33,44" text-anchor="start" x="334.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">magenta</text>
+<text aria-label="404,448,33,44" text-anchor="start" x="404.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">patience</text>
+<text aria-label="472,494,33,44" text-anchor="start" x="472.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">plum</text>
+</svg>

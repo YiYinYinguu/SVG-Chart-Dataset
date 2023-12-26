@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="265" height="270" viewBox="0 0 265 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Wooden</text>
+<path aria-label="input Terrace South: 369; Southwest: blockchains" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,1,0,128.8785496510141,236.09722122955336L105.0,165.0Z" fill="#46f3ae" stroke="black" stroke-width="2"/>
+<path aria-label="input Terrace South: 125; Southwest: Officer" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.8785496510141,236.09722122955336A75,75,0,0,0,179.80141317841813,170.45422648150722L105.0,165.0Z" fill="#04dacd" stroke="black" stroke-width="2"/>
+<path aria-label="input Terrace South: 8; Southwest: Berkshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.80141317841813,170.45422648150722A75,75,0,0,0,179.99979326282062,164.8239019188905L105.0,165.0Z" fill="#75f3d2" stroke="black" stroke-width="2"/>
+<path aria-label="input Terrace South: 167; Southwest: Auto" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.99979326282062,164.8239019188905A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#d568d3" stroke="black" stroke-width="2"/>
+<text aria-label="10,22,174,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.17855018974369" y="181.51723298718179" font-family="avenir" font-size="7px" fill="#46f3ae" opacity="1">369</text>
+<text aria-label="170,182,215,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.1113606708777" y="222.16497424576892" font-family="avenir" font-size="7px" fill="#04dacd" opacity="1">125</text>
+<text aria-label="192,196,163,171" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.94418670561856" y="170.1691131038242" font-family="avenir" font-size="7px" fill="#75f3d2" opacity="1">8</text>
+<text aria-label="162,174,96,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.5648543113259" y="103.28572140893445" font-family="avenir" font-size="7px" fill="#d568d3" opacity="1">167</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#d568d3" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M67.0,40.25A5,5,0,1,1,57.0,40.25A5,5,0,1,1,67.0,40.25" fill="#75f3d2" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M139.0,40.25A5,5,0,1,1,129.0,40.25A5,5,0,1,1,139.0,40.25" fill="#04dacd" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M199.0,40.25A5,5,0,1,1,189.0,40.25A5,5,0,1,1,199.0,40.25" fill="#46f3ae" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Auto</text>
+<text aria-label="72,121,33,44" text-anchor="start" x="72.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Berkshire</text>
+<text aria-label="144,182,33,44" text-anchor="start" x="144.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Officer</text>
+<text aria-label="204,264,33,44" text-anchor="start" x="204.0" y="43.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">blockchains</text>
+</svg>

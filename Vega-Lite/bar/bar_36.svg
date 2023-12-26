@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1043" height="325" viewBox="0 0 1043 325" style="background-color: rgb(255, 255, 255);">
+<line x1="241.5" y1="59.5" x2="241.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="324.5" y1="59.5" x2="324.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="407.5" y1="59.5" x2="407.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="490.5" y1="59.5" x2="490.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="573.5" y1="59.5" x2="573.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="656.5" y1="59.5" x2="656.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="739.5" y1="59.5" x2="739.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="822.5" y1="59.5" x2="822.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="905.5" y1="59.5" x2="905.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="988.5" y1="59.5" x2="988.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="192.5" y1="259.5" x2="1038.5" y2="259.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="192.5" y1="215.5" x2="1038.5" y2="215.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="192.5" y1="170.5" x2="1038.5" y2="170.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="192.5" y1="126.5" x2="1038.5" y2="126.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="192.5" y1="81.5" x2="1038.5" y2="81.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="231,245,266,315" text-anchor="end" x="241.76470588235293" y="266.5" transform="rotate(270.0, 245.76470588235293, 266.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">drizzle</text>
+<text aria-label="314,328,266,308" text-anchor="end" x="324.70588235294116" y="266.5" transform="rotate(270.0, 328.70588235294116, 266.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">dynamo</text>
+<text aria-label="397,411,266,315" text-anchor="end" x="407.6470588235294" y="266.5" transform="rotate(270.0, 411.6470588235294, 266.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">emerald</text>
+<text aria-label="480,494,266,287" text-anchor="end" x="490.5882352941176" y="266.5" transform="rotate(270.0, 494.5882352941176, 266.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">fat</text>
+<text aria-label="563,577,266,322" text-anchor="end" x="573.5294117647059" y="266.5" transform="rotate(270.0, 577.5294117647059, 266.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">goldfish</text>
+<text aria-label="646,660,266,294" text-anchor="end" x="656.4705882352941" y="266.5" transform="rotate(270.0, 660.4705882352941, 266.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">hops</text>
+<text aria-label="729,743,266,294" text-anchor="end" x="739.4117647058823" y="266.5" transform="rotate(270.0, 743.4117647058823, 266.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">jazz</text>
+<text aria-label="812,826,266,308" text-anchor="end" x="822.3529411764704" y="266.5" transform="rotate(270.0, 826.3529411764704, 266.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">online</text>
+<text aria-label="895,909,266,294" text-anchor="end" x="905.2941176470587" y="266.5" transform="rotate(270.0, 909.2941176470587, 266.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">quit</text>
+<text aria-label="978,992,266,315" text-anchor="end" x="988.235294117647" y="266.5" transform="rotate(270.0, 992.235294117647, 266.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">storage</text>
+<line aria-label="241,241,259,264" x1="241.5" y1="259.5" x2="241.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="324,324,259,264" x1="324.5" y1="259.5" x2="324.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="407,407,259,264" x1="407.5" y1="259.5" x2="407.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="490,490,259,264" x1="490.5" y1="259.5" x2="490.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="573,573,259,264" x1="573.5" y1="259.5" x2="573.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="656,656,259,264" x1="656.5" y1="259.5" x2="656.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="739,739,259,264" x1="739.5" y1="259.5" x2="739.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="822,822,259,264" x1="822.5" y1="259.5" x2="822.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="905,905,259,264" x1="905.5" y1="259.5" x2="905.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="988,988,259,264" x1="988.5" y1="259.5" x2="988.5" y2="264.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="192,1038,259,259" x1="192.5" y1="259.5" x2="1038.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,369,0,26" text-anchor="start" x="5.0" y="25.750555555555557" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Handmade Mariana Connecticut</text>
+<text aria-label="178,185,250,264" text-anchor="end" x="185.5" y="263.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="164,185,206,220" text-anchor="end" x="185.5" y="219.05555555555557" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="164,185,161,175" text-anchor="end" x="185.5" y="174.61111111111111" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="164,185,117,131" text-anchor="end" x="185.5" y="130.16666666666669" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="164,185,72,86" text-anchor="end" x="185.5" y="85.72222222222223" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="187,192,259,259" x1="192.5" y1="259.5" x2="187.5" y2="259.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="187,192,215,215" x1="192.5" y1="215.5" x2="187.5" y2="215.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="187,192,170,170" x1="192.5" y1="170.5" x2="187.5" y2="170.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="187,192,126,126" x1="192.5" y1="126.5" x2="187.5" y2="126.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="187,192,81,81" x1="192.5" y1="81.5" x2="187.5" y2="81.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="143,155,132,186" text-anchor="middle" x="157.44873046875" y="159.5" transform="rotate(-90.0, 155.44873046875, 159.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Vacaville</text>
+<line aria-label="192,192,59,259" x1="192.5" y1="259.5" x2="192.5" y2="59.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="South: hops; Vacaville: 796; invoice: Northeast North" role="graphics-symbol" aria-roledescription="bar" d="M667.5294117647059,82.1111111111111h22.117647058823533v176.88888888888889h-22.117647058823533Z" fill="#3a61dc"/>
+<path aria-label="South: hops; Vacaville: 762; invoice: Cargo" role="graphics-symbol" aria-roledescription="bar" d="M645.4117647058823,89.66666666666666h22.117647058823533v169.33333333333334h-22.117647058823533Z" fill="#e6d833"/>
+<path aria-label="South: hops; Vacaville: 893; invoice: Borders Towels iterate" role="graphics-symbol" aria-roledescription="bar" d="M623.2941176470588,60.55555555555556h22.117647058823533v198.44444444444446h-22.117647058823533Z" fill="#456fda"/>
+<path aria-label="South: goldfish; Vacaville: 343; invoice: Northeast North" role="graphics-symbol" aria-roledescription="bar" d="M584.5882352941176,182.77777777777777h22.117647058823533v76.22222222222223h-22.117647058823533Z" fill="#3a61dc"/>
+<path aria-label="South: goldfish; Vacaville: 407; invoice: Cargo" role="graphics-symbol" aria-roledescription="bar" d="M562.4705882352941,168.55555555555554h22.117647058823533v90.44444444444446h-22.117647058823533Z" fill="#e6d833"/>
+<path aria-label="South: goldfish; Vacaville: 602; invoice: Borders Towels iterate" role="graphics-symbol" aria-roledescription="bar" d="M540.3529411764705,125.22222222222223h22.117647058823533v133.77777777777777h-22.117647058823533Z" fill="#456fda"/>
+<path aria-label="South: quit; Vacaville: 526; invoice: Northeast North" role="graphics-symbol" aria-roledescription="bar" d="M916.3529411764705,142.11111111111111h22.117647058823533v116.88888888888889h-22.117647058823533Z" fill="#3a61dc"/>
+<path aria-label="South: quit; Vacaville: 861; invoice: Cargo" role="graphics-symbol" aria-roledescription="bar" d="M894.235294117647,67.66666666666667h22.117647058823533v191.33333333333334h-22.117647058823533Z" fill="#e6d833"/>
+<path aria-label="South: quit; Vacaville: 20; invoice: Borders Towels iterate" role="graphics-symbol" aria-roledescription="bar" d="M872.1176470588234,254.55555555555554h22.117647058823533v4.444444444444457h-22.117647058823533Z" fill="#456fda"/>
+<path aria-label="South: jazz; Vacaville: 221; invoice: Northeast North" role="graphics-symbol" aria-roledescription="bar" d="M750.4705882352941,209.88888888888889h22.117647058823533v49.111111111111114h-22.117647058823533Z" fill="#3a61dc"/>
+<path aria-label="South: jazz; Vacaville: 441; invoice: Cargo" role="graphics-symbol" aria-roledescription="bar" d="M728.3529411764706,161.0h22.117647058823533v98h-22.117647058823533Z" fill="#e6d833"/>
+<path aria-label="South: jazz; Vacaville: 781; invoice: Borders Towels iterate" role="graphics-symbol" aria-roledescription="bar" d="M706.2352941176471,85.44444444444446h22.117647058823533v173.55555555555554h-22.117647058823533Z" fill="#456fda"/>
+<path aria-label="South: online; Vacaville: 836; invoice: Northeast North" role="graphics-symbol" aria-roledescription="bar" d="M833.4117647058822,73.22222222222223h22.117647058823533v185.77777777777777h-22.117647058823533Z" fill="#3a61dc"/>
+<path aria-label="South: online; Vacaville: 316; invoice: Cargo" role="graphics-symbol" aria-roledescription="bar" d="M811.2941176470587,188.77777777777777h22.117647058823533v70.22222222222223h-22.117647058823533Z" fill="#e6d833"/>
+<path aria-label="South: online; Vacaville: 58; invoice: Borders Towels iterate" role="graphics-symbol" aria-roledescription="bar" d="M789.1764705882351,246.11111111111111h22.117647058823533v12.888888888888886h-22.117647058823533Z" fill="#456fda"/>
+<path aria-label="South: emerald; Vacaville: 762; invoice: Northeast North" role="graphics-symbol" aria-roledescription="bar" d="M418.70588235294116,89.66666666666666h22.117647058823533v169.33333333333334h-22.117647058823533Z" fill="#3a61dc"/>
+<path aria-label="South: emerald; Vacaville: 812; invoice: Cargo" role="graphics-symbol" aria-roledescription="bar" d="M396.5882352941176,78.55555555555554h22.117647058823533v180.44444444444446h-22.117647058823533Z" fill="#e6d833"/>
+<path aria-label="South: emerald; Vacaville: 228; invoice: Borders Towels iterate" role="graphics-symbol" aria-roledescription="bar" d="M374.4705882352941,208.33333333333331h22.117647058823533v50.666666666666686h-22.117647058823533Z" fill="#456fda"/>
+<path aria-label="South: storage; Vacaville: 371; invoice: Northeast North" role="graphics-symbol" aria-roledescription="bar" d="M999.2941176470588,176.55555555555554h22.117647058823533v82.44444444444446h-22.117647058823533Z" fill="#3a61dc"/>
+<path aria-label="South: storage; Vacaville: 82; invoice: Cargo" role="graphics-symbol" aria-roledescription="bar" d="M977.1764705882352,240.77777777777777h22.117647058823533v18.22222222222223h-22.117647058823533Z" fill="#e6d833"/>
+<path aria-label="South: storage; Vacaville: 262; invoice: Borders Towels iterate" role="graphics-symbol" aria-roledescription="bar" d="M955.0588235294117,200.77777777777777h22.117647058823533v58.22222222222223h-22.117647058823533Z" fill="#456fda"/>
+<path aria-label="South: drizzle; Vacaville: 709; invoice: Northeast North" role="graphics-symbol" aria-roledescription="bar" d="M252.8235294117647,101.44444444444444h22.117647058823533v157.55555555555554h-22.117647058823533Z" fill="#3a61dc"/>
+<path aria-label="South: drizzle; Vacaville: 711; invoice: Cargo" role="graphics-symbol" aria-roledescription="bar" d="M230.70588235294116,101.0h22.117647058823533v158h-22.117647058823533Z" fill="#e6d833"/>
+<path aria-label="South: drizzle; Vacaville: 38; invoice: Borders Towels iterate" role="graphics-symbol" aria-roledescription="bar" d="M208.58823529411762,250.55555555555554h22.117647058823533v8.444444444444457h-22.117647058823533Z" fill="#456fda"/>
+<path aria-label="South: dynamo; Vacaville: 289; invoice: Northeast North" role="graphics-symbol" aria-roledescription="bar" d="M335.7647058823529,194.77777777777777h22.117647058823533v64.22222222222223h-22.117647058823533Z" fill="#3a61dc"/>
+<path aria-label="South: dynamo; Vacaville: 11; invoice: Cargo" role="graphics-symbol" aria-roledescription="bar" d="M313.6470588235294,256.55555555555554h22.117647058823533v2.444444444444457h-22.117647058823533Z" fill="#e6d833"/>
+<path aria-label="South: dynamo; Vacaville: 96; invoice: Borders Towels iterate" role="graphics-symbol" aria-roledescription="bar" d="M291.52941176470586,237.66666666666666h22.117647058823533v21.333333333333343h-22.117647058823533Z" fill="#456fda"/>
+<path aria-label="South: fat; Vacaville: 387; invoice: Northeast North" role="graphics-symbol" aria-roledescription="bar" d="M501.6470588235294,173.0h22.117647058823533v85.99999999999999h-22.117647058823533Z" fill="#3a61dc"/>
+<path aria-label="South: fat; Vacaville: 334; invoice: Cargo" role="graphics-symbol" aria-roledescription="bar" d="M479.52941176470586,184.77777777777777h22.117647058823533v74.22222222222223h-22.117647058823533Z" fill="#e6d833"/>
+<path aria-label="South: fat; Vacaville: 162; invoice: Borders Towels iterate" role="graphics-symbol" aria-roledescription="bar" d="M457.4117647058823,223.0h22.117647058823533v36h-22.117647058823533Z" fill="#456fda"/>
+<text aria-label="661,695,52,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="678.5882352941176" y="73.30611111111111" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">796</text>
+<text aria-label="639,673,59,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="656.4705882352941" y="80.86166666666666" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">762</text>
+<text aria-label="617,650,30,52" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="634.3529411764705" y="51.75055555555556" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">893</text>
+<text aria-label="579,612,152,174" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="595.6470588235294" y="173.97277777777776" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">343</text>
+<text aria-label="556,590,138,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="573.5294117647059" y="159.75055555555554" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">407</text>
+<text aria-label="534,568,95,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="551.4117647058823" y="116.41722222222224" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">602</text>
+<text aria-label="910,944,112,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="927.4117647058822" y="133.30611111111114" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">526</text>
+<text aria-label="888,921,37,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="905.2941176470587" y="58.86166666666667" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">861</text>
+<text aria-label="872,894,224,246" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="883.1764705882351" y="245.75055555555554" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">20</text>
+<text aria-label="744,778,179,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="761.5294117647059" y="201.08388888888888" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">221</text>
+<text aria-label="722,756,131,153" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="739.4117647058823" y="152.195" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">441</text>
+<text aria-label="700,733,55,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="717.2941176470588" y="76.63944444444445" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">781</text>
+<text aria-label="827,861,43,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="844.4705882352939" y="64.41722222222222" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">836</text>
+<text aria-label="805,838,158,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="822.3529411764704" y="179.97277777777776" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">316</text>
+<text aria-label="789,811,216,238" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="800.2352941176468" y="237.3061111111111" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">58</text>
+<text aria-label="413,446,59,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="429.7647058823529" y="80.86166666666666" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">762</text>
+<text aria-label="391,424,48,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="407.6470588235294" y="69.75055555555555" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">812</text>
+<text aria-label="368,402,178,200" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="385.52941176470586" y="199.5283333333333" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">228</text>
+<text aria-label="993,1026,146,168" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="1010.3529411764705" y="167.75055555555554" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">371</text>
+<text aria-label="977,999,210,232" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="988.235294117647" y="231.97277777777776" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">82</text>
+<text aria-label="949,982,170,192" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="966.1176470588234" y="191.97277777777776" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">262</text>
+<text aria-label="247,280,71,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="263.88235294117646" y="92.63944444444445" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">709</text>
+<text aria-label="225,258,71,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="241.76470588235293" y="92.195" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">711</text>
+<text aria-label="208,230,220,242" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="219.6470588235294" y="241.75055555555554" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">38</text>
+<text aria-label="330,363,164,186" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="346.8235294117647" y="185.97277777777776" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">289</text>
+<text aria-label="313,335,226,248" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="324.70588235294116" y="247.75055555555554" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">11</text>
+<text aria-label="291,313,207,229" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="302.5882352941176" y="228.86166666666665" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">96</text>
+<text aria-label="496,529,143,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="512.7058823529412" y="164.19500000000002" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">387</text>
+<text aria-label="473,507,154,176" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="490.5882352941176" y="175.97277777777776" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">334</text>
+<text aria-label="451,485,193,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="468.4705882352941" y="214.195" font-family="Balto" font-size="21.149999999999995px" fill="#000" opacity="1">162</text>
+<path  d="M6.0,60.0h10v10h-10Z" fill="#3a61dc" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,73.0h10v10h-10Z" fill="#e6d833" stroke-width="1.5" opacity="1"/>
+<path  d="M6.0,86.0h10v10h-10Z" fill="#456fda" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,103,58,69" text-anchor="start" x="21.0" y="68.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Northeast North</text>
+<text aria-label="21,48,71,82" text-anchor="start" x="21.0" y="81.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Cargo</text>
+<text aria-label="21,142,84,95" text-anchor="start" x="21.0" y="94.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Borders Towels iterate</text>
+</svg>

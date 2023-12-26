@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1004" height="362" viewBox="0 0 1004 362" style="background-color: rgb(255, 255, 255);">
+<text aria-label="178,197,241,317" text-anchor="end" x="192.25000000000006" y="241.5" transform="rotate(270.0, 197.25000000000006, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">envelope</text>
+<text aria-label="408,427,241,298" text-anchor="end" x="422.75000000000006" y="241.5" transform="rotate(270.0, 427.75000000000006, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">napkin</text>
+<text aria-label="639,658,241,355" text-anchor="end" x="653.25" y="241.5" transform="rotate(270.0, 658.25, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">transmission</text>
+<text aria-label="869,888,241,317" text-anchor="end" x="883.7500000000001" y="241.5" transform="rotate(270.0, 888.7500000000001, 241.5)" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">turnover</text>
+<line aria-label="192,192,234,239" x1="192.5" y1="234.5" x2="192.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="422,422,234,239" x1="422.5" y1="234.5" x2="422.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="653,653,234,239" x1="653.5" y1="234.5" x2="653.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="883,883,234,239" x1="883.5" y1="234.5" x2="883.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="77,999,234,234" x1="77.5" y1="234.5" x2="999.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="440,635,0,26" text-anchor="middle" x="538.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Optimized Xenon</text>
+<text aria-label="61,70,221,240" text-anchor="end" x="70.5" y="239.5" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="42,70,165,184" text-anchor="end" x="70.5" y="183.94444444444443" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="23,70,110,129" text-anchor="end" x="70.5" y="128.38888888888889" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="23,70,54,73" text-anchor="end" x="70.5" y="72.83333333333333" font-family="Balto" font-size="18px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<line aria-label="72,77,234,234" x1="77.5" y1="234.5" x2="72.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,178,178" x1="77.5" y1="178.5" x2="72.5" y2="178.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,123,123" x1="77.5" y1="123.5" x2="72.5" y2="123.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="72,77,67,67" x1="77.5" y1="67.5" x2="72.5" y2="67.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,86,182" text-anchor="middle" x="16.9560546875" y="134.5" transform="rotate(-90.0, 14.9560546875, 134.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">circuit Identity</text>
+<line aria-label="77,77,34,234" x1="77.5" y1="234.5" x2="77.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Metal Garden: envelope; circuit Identity: 254; Bicycle: Cerium scrimp HEX" role="graphics-symbol" aria-roledescription="bar" d="M140.38750000000005,119.44444444444443h103.72500000000001v28.222222222222243h-103.72500000000001Z" fill="#3c49a1"/>
+<path aria-label="Metal Garden: envelope; circuit Identity: 295; Bicycle: Pizza tool application" role="graphics-symbol" aria-roledescription="bar" d="M140.38750000000005,147.66666666666669h103.72500000000001v32.777777777777786h-103.72500000000001Z" fill="#1fdb7b"/>
+<path aria-label="Metal Garden: envelope; circuit Identity: 482; Bicycle: program researches" role="graphics-symbol" aria-roledescription="bar" d="M140.38750000000005,180.44444444444446h103.72500000000001v53.55555555555554h-103.72500000000001Z" fill="#75ea1b"/>
+<path aria-label="Metal Garden: napkin; circuit Identity: 471; Bicycle: Cerium scrimp HEX" role="graphics-symbol" aria-roledescription="bar" d="M370.88750000000005,34.777777777777786h103.72500000000001v52.33333333333332h-103.72500000000001Z" fill="#3c49a1"/>
+<path aria-label="Metal Garden: napkin; circuit Identity: 542; Bicycle: Pizza tool application" role="graphics-symbol" aria-roledescription="bar" d="M370.88750000000005,87.11111111111111h103.72500000000001v60.22222222222222h-103.72500000000001Z" fill="#1fdb7b"/>
+<path aria-label="Metal Garden: napkin; circuit Identity: 780; Bicycle: program researches" role="graphics-symbol" aria-roledescription="bar" d="M370.88750000000005,147.33333333333331h103.72500000000001v86.66666666666667h-103.72500000000001Z" fill="#75ea1b"/>
+<path aria-label="Metal Garden: transmission; circuit Identity: 117; Bicycle: Cerium scrimp HEX" role="graphics-symbol" aria-roledescription="bar" d="M601.3875,176.44444444444443h103.72500000000001v13.000000000000028h-103.72500000000001Z" fill="#3c49a1"/>
+<path aria-label="Metal Garden: transmission; circuit Identity: 208; Bicycle: Pizza tool application" role="graphics-symbol" aria-roledescription="bar" d="M601.3875,189.44444444444446h103.72500000000001v23.111111111111086h-103.72500000000001Z" fill="#1fdb7b"/>
+<path aria-label="Metal Garden: transmission; circuit Identity: 193; Bicycle: program researches" role="graphics-symbol" aria-roledescription="bar" d="M601.3875,212.55555555555554h103.72500000000001v21.444444444444457h-103.72500000000001Z" fill="#75ea1b"/>
+<path aria-label="Metal Garden: turnover; circuit Identity: 532; Bicycle: Cerium scrimp HEX" role="graphics-symbol" aria-roledescription="bar" d="M831.8875,102.88888888888889h103.72500000000001v59.111111111111114h-103.72500000000001Z" fill="#3c49a1"/>
+<path aria-label="Metal Garden: turnover; circuit Identity: 105; Bicycle: Pizza tool application" role="graphics-symbol" aria-roledescription="bar" d="M831.8875,162.0h103.72500000000001v11.666666666666657h-103.72500000000001Z" fill="#1fdb7b"/>
+<path aria-label="Metal Garden: turnover; circuit Identity: 543; Bicycle: program researches" role="graphics-symbol" aria-roledescription="bar" d="M831.8875,173.66666666666666h103.72500000000001v60.33333333333334h-103.72500000000001Z" fill="#75ea1b"/>
+</svg>

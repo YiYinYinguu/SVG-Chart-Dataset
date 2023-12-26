@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="270" viewBox="0 0 294 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="66,144,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">system</text>
+<path aria-label="interfaces Rap Account: 590; driver Coupe: Kuna" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.8520866249033,216.14927754029478A75,75,0,0,0,105.0,90.0L105.0,165.0Z" fill="#a918c9" stroke="black" stroke-width="4"/>
+<path aria-label="interfaces Rap Account: 123; driver Coupe: reimburse" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,70.10557183433406,98.61190706918009L105.0,165.0Z" fill="#1ccfe2" stroke="black" stroke-width="4"/>
+<path aria-label="interfaces Rap Account: 390; driver Coupe: Trans" role="graphics-symbol" aria-roledescription="arc mark"  d="M70.10557183433406,98.61190706918009A75,75,0,0,0,37.38623665565322,197.45580081302367L105.0,165.0Z" fill="#5fcfca" stroke="black" stroke-width="4"/>
+<path aria-label="interfaces Rap Account: 379; driver Coupe: Small" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.38623665565322,197.45580081302367A75,75,0,0,0,131.97169377747463,234.9823387346703L105.0,165.0Z" fill="#e18a6d" stroke="black" stroke-width="4"/>
+<path aria-label="interfaces Rap Account: 115; driver Coupe: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M131.97169377747463,234.9823387346703A75,75,0,0,0,159.8520866249033,216.14927754029478L105.0,165.0Z" fill="#b1cf58" stroke="black" stroke-width="4"/>
+<text aria-label="178,196,121,133" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="187.53521059024396" y="132.1121327908152" font-family="serif" font-size="11px" fill="#a918c9" opacity="1">590</text>
+<text aria-label="74,92,69,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="83.43514475504816" y="80.62175889694122" font-family="serif" font-size="11px" fill="#1ccfe2" opacity="1">123</text>
+<text aria-label="10,28,128,140" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.559400303162874" y="139.7174272131258" font-family="serif" font-size="11px" fill="#5fcfca" opacity="1">390</text>
+<text aria-label="62,80,240,252" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="71.80953763288656" y="251.6563996826138" font-family="serif" font-size="11px" fill="#e18a6d" opacity="1">379</text>
+<text aria-label="146,164,231,243" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.37790670505828" y="242.57926331103334" font-family="serif" font-size="11px" fill="#b1cf58" opacity="1">115</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#a918c9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,40.25A5,5,0,1,1,53.0,40.25A5,5,0,1,1,63.0,40.25" fill="#b1cf58" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,40.25A5,5,0,1,1,125.0,40.25A5,5,0,1,1,135.0,40.25" fill="#e18a6d" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M187.0,40.25A5,5,0,1,1,177.0,40.25A5,5,0,1,1,187.0,40.25" fill="#5fcfca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,40.25A5,5,0,1,1,229.0,40.25A5,5,0,1,1,239.0,40.25" fill="#1ccfe2" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,33,44" text-anchor="start" x="21.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Kuna</text>
+<text aria-label="68,117,33,44" text-anchor="start" x="68.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="140,167,33,44" text-anchor="start" x="140.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Small</text>
+<text aria-label="192,219,33,44" text-anchor="start" x="192.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">Trans</text>
+<text aria-label="244,293,33,44" text-anchor="start" x="244.0" y="43.25" font-family="serif" font-size="10px" fill="#000" opacity="1">reimburse</text>
+</svg>

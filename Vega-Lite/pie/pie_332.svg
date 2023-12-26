@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="347" height="239" viewBox="0 0 347 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="264,342,0,26" text-anchor="end" x="342.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">female</text>
+<path aria-label="Ruthenium pony maroon: 173; Latin Cambridgeshire: system" role="graphics-symbol" aria-roledescription="arc mark"  d="M242.0,59.0A75,75,0,0,0,167.17004099603906,128.95250205888843L183.1337655835507,130.0293016196589A59,59,0,0,1,242.0,75.0Z" fill="#bd97dd" stroke="white" stroke-width="0"/>
+<path aria-label="Ruthenium pony maroon: 220; Latin Cambridgeshire: Dinar" role="graphics-symbol" aria-roledescription="arc mark"  d="M208.95628194057187,201.32839443213408A75,75,0,0,0,316.5033319199315,142.6170489628709L300.6092877770128,140.7787451841251A59,59,0,0,1,216.00560845991654,186.9650036199455Z" fill="#655b00" stroke="white" stroke-width="0"/>
+<path aria-label="Ruthenium pony maroon: 194; Latin Cambridgeshire: Concrete" role="graphics-symbol" aria-roledescription="arc mark"  d="M316.5033319199315,142.6170489628709A75,75,0,0,0,242.0,59.0L242.0,75.0A59,59,0,0,1,300.6092877770128,140.7787451841251Z" fill="#febc71" stroke="white" stroke-width="0"/>
+<path aria-label="Ruthenium pony maroon: 136; Latin Cambridgeshire: Southeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.17004099603906,128.95250205888843A75,75,0,0,0,208.95628194057187,201.32839443213408L216.00560845991654,186.9650036199455A59,59,0,0,1,183.1337655835507,130.0293016196589Z" fill="#7df08d" stroke="white" stroke-width="0"/>
+<text aria-label="173,187,62,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="180.5391579037517" y="70.25378422433707" font-family="sans-serif" font-size="8px" fill="#bd97dd" opacity="1">173</text>
+<text aria-label="278,291,206,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="285.12460783100937" y="214.9953682149887" font-family="sans-serif" font-size="8px" fill="#655b00" opacity="1">220</text>
+<text aria-label="302,315,68,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="309.19613563289954" y="76.12780815766831" font-family="sans-serif" font-size="8px" fill="#febc71" opacity="1">194</text>
+<text aria-label="157,170,173,182" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.05771365940052" y="181.00000000000003" font-family="sans-serif" font-size="8px" fill="#7df08d" opacity="1">136</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#febc71" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#655b00" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#7df08d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#bd97dd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Concrete</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Dinar</text>
+<text aria-label="21,70,81,92" text-anchor="start" x="21.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Southeast</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">system</text>
+<text aria-label="5,125,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Latin Cambridgeshire</text>
+</svg>

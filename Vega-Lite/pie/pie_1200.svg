@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="308" height="239" viewBox="0 0 308 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="118,287,0,26" text-anchor="middle" x="203.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">relationships</text>
+<path aria-label="Tuna: 607; optimize Rover: synthesize" role="graphics-symbol" aria-roledescription="arc mark"  d="M203.0,59.0A75,75,0,0,0,132.63667851784837,159.96156755666686L149.52387567356476,153.7307913430668A57,57,0,0,1,203.0,77.0Z" fill="#bf35f1" stroke="black" stroke-width="4"/>
+<path aria-label="Tuna: 625; optimize Rover: Unions" role="graphics-symbol" aria-roledescription="arc mark"  d="M145.28431933267217,181.89467825455185A75,75,0,0,0,269.94917648445477,167.80543991805655L253.8813741281856,159.692134337723A57,57,0,0,1,159.13608269283085,170.3999554734594Z" fill="#83e227" stroke="black" stroke-width="4"/>
+<path aria-label="Tuna: 52; optimize Rover: Implemented" role="graphics-symbol" aria-roledescription="arc mark"  d="M215.30756379628588,60.016732476860994A75,75,0,0,0,203.0,59.0L203.0,77.0A57,57,0,0,1,212.35374848517725,77.77271668241437Z" fill="#ea4cca" stroke="black" stroke-width="4"/>
+<path aria-label="Tuna: 591; optimize Rover: Summit" role="graphics-symbol" aria-roledescription="arc mark"  d="M269.94917648445477,167.80543991805655A75,75,0,0,0,215.30756379628588,60.016732476860994L212.35374848517725,77.77271668241437A57,57,0,0,1,253.8813741281856,159.692134337723Z" fill="#d87b46" stroke="black" stroke-width="4"/>
+<path aria-label="Tuna: 107; optimize Rover: amet" role="graphics-symbol" aria-roledescription="arc mark"  d="M132.63667851784837,159.96156755666686A75,75,0,0,0,145.28431933267217,181.89467825455185L159.13608269283085,170.3999554734594A57,57,0,0,1,149.52387567356476,153.7307913430668Z" fill="#6efd3c" stroke="black" stroke-width="4"/>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#ea4cca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#d87b46" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#83e227" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#6efd3c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#bf35f1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,81,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Implemented</text>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Summit</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Unions</text>
+<text aria-label="21,43,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">amet</text>
+<text aria-label="21,76,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">synthesize</text>
+</svg>

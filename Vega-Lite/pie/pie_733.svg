@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="304" height="239" viewBox="0 0 304 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="160,238,0,26" text-anchor="middle" x="199.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Cheese</text>
+<path aria-label="Scranton Extended Cotton: 175; Gadolinium: Chair" role="graphics-symbol" aria-roledescription="arc mark"  d="M272.352976362708,118.36859383382259A75,75,0,0,0,199.0,59.0L199.0,134.0Z" fill="#10fcd7" stroke="black" stroke-width="0"/>
+<path aria-label="Scranton Extended Cotton: 415; Gadolinium: Chair" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.57975957275426,143.30740644599445A75,75,0,1,0,272.352976362708,118.36859383382259L199.0,134.0Z" fill="#10fcd7" stroke="black" stroke-width="0"/>
+<path aria-label="Scranton Extended Cotton: 218; Gadolinium: synthesizing" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.0,59.0A75,75,0,0,0,124.57975957275426,143.30740644599445L199.0,134.0Z" fill="#ca81c7" stroke="black" stroke-width="0"/>
+<text aria-label="247,263,57,68" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="255.62070351935253" y="67.04218461834604" font-family="monospace" font-size="10px" fill="#10fcd7" opacity="1">175</text>
+<text aria-label="205,222,215,226" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="213.97698346636773" y="225.74508418074856" font-family="monospace" font-size="10px" fill="#10fcd7" opacity="1">415</text>
+<text aria-label="123,139,67,78" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="131.5270428387513" y="77.43994583685895" font-family="monospace" font-size="10px" fill="#ca81c7" opacity="1">218</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#10fcd7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ca81c7" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,33,44" text-anchor="start" x="21.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Chair</text>
+<text aria-label="21,87,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">synthesizing</text>
+</svg>

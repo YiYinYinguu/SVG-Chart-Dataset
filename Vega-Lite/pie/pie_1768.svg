@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="242" height="270" viewBox="0 0 242 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="53,157,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">explicit</text>
+<path aria-label="Steel: 135; Computers modular: bluetooth" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.17035231588972,190.63282134179155A75,75,0,0,0,176.3292387221365,110.82372542187895L133.5316954888546,124.72949016875158A30,30,0,0,1,124.66814092635587,156.65312853671662Z" fill="#8bf34d" stroke="white" stroke-width="4"/>
+<path aria-label="Steel: 196; Computers modular: incubate" role="graphics-symbol" aria-roledescription="arc mark"  d="M42.560897904870174,175.5494708697229A75,75,0,0,0,154.17035231588972,190.63282134179155L124.66814092635587,156.65312853671662A30,30,0,0,1,80.02435916194807,150.61978834788917Z" fill="#e2aa09" stroke="white" stroke-width="4"/>
+<path aria-label="Steel: 145; Computers modular: Bike" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.3292387221365,110.82372542187895A75,75,0,0,0,105.0,59.0L105.0,104.0A30,30,0,0,1,133.5316954888546,124.72949016875158Z" fill="#1ec3cc" stroke="white" stroke-width="4"/>
+<path aria-label="Steel: 249; Computers modular: woot" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,42.560897904870174,175.5494708697229L80.02435916194807,150.61978834788917A30,30,0,0,1,105.0,104.0Z" fill="#dfacfb" stroke="white" stroke-width="4"/>
+<text aria-label="184,199,152,162" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.71949932673007" y="161.07755046762986" font-family="avenir" font-size="9px" fill="#8bf34d" opacity="1">135</text>
+<text aria-label="85,100,217,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="92.94661103339644" y="226.1892135542172" font-family="avenir" font-size="9px" fill="#e2aa09" opacity="1">196</text>
+<text aria-label="150,165,55,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="157.90067270632258" y="64.18847050625473" font-family="avenir" font-size="9px" fill="#1ec3cc" opacity="1">145</text>
+<text aria-label="18,33,85,95" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="25.667336947729794" y="94.49907562140605" font-family="avenir" font-size="9px" fill="#dfacfb" opacity="1">249</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#1ec3cc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,258.25A5,5,0,1,1,53.0,258.25A5,5,0,1,1,63.0,258.25" fill="#8bf34d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M138.0,258.25A5,5,0,1,1,128.0,258.25A5,5,0,1,1,138.0,258.25" fill="#e2aa09" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M207.0,258.25A5,5,0,1,1,197.0,258.25A5,5,0,1,1,207.0,258.25" fill="#dfacfb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,251,262" text-anchor="start" x="21.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bike</text>
+<text aria-label="68,117,251,262" text-anchor="start" x="68.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">bluetooth</text>
+<text aria-label="143,187,251,262" text-anchor="start" x="143.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">incubate</text>
+<text aria-label="212,234,251,262" text-anchor="start" x="212.0" y="261.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">woot</text>
+</svg>

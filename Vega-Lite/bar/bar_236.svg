@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="483" height="300" viewBox="0 0 483 300" style="background-color: rgb(255, 255, 255);">
+<line x1="127.5" y1="40.5" x2="127.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="262.5" y1="40.5" x2="262.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="397.5" y1="40.5" x2="397.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="117,131,247,282" text-anchor="end" x="127.8125" y="247.5" transform="rotate(270.0, 131.8125, 247.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">igloo</text>
+<text aria-label="252,266,247,296" text-anchor="end" x="262.5" y="247.5" transform="rotate(270.0, 266.5, 247.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">protest</text>
+<text aria-label="387,401,247,296" text-anchor="end" x="397.1875" y="247.5" transform="rotate(270.0, 401.1875, 247.5)" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">trolley</text>
+<line aria-label="127,127,240,245" x1="127.5" y1="240.5" x2="127.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="262,262,240,245" x1="262.5" y1="240.5" x2="262.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="397,397,240,245" x1="397.5" y1="240.5" x2="397.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="47,478,240,240" x1="47.5" y1="240.5" x2="478.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="270,478,0,26" text-anchor="end" x="478.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">optimize Plastic</text>
+<text aria-label="38,45,231,245" text-anchor="end" x="45.5" y="244.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="24,45,181,195" text-anchor="end" x="45.5" y="194.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="24,45,131,145" text-anchor="end" x="45.5" y="144.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="24,45,81,95" text-anchor="end" x="45.5" y="94.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="24,45,31,45" text-anchor="end" x="45.5" y="44.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="3,15,92,188" text-anchor="middle" x="17.44873046875" y="140.5" transform="rotate(-90.0, 15.44873046875, 140.5)" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">calculate Hybrid</text>
+<line aria-label="47,47,40,240" x1="47.5" y1="240.5" x2="47.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="North optimize Modern: protest; calculate Hybrid: 389; premiere Robins: Texas" role="graphics-symbol" aria-roledescription="bar" d="M208.625,45.49999999999999h107.75v194.5h-107.75Z" fill="#9c1703"/>
+<path aria-label="North optimize Modern: igloo; calculate Hybrid: 231; premiere Robins: Texas" role="graphics-symbol" aria-roledescription="bar" d="M73.9375,124.5h107.75v115.5h-107.75Z" fill="#9c1703"/>
+<path aria-label="North optimize Modern: trolley; calculate Hybrid: 305; premiere Robins: Texas" role="graphics-symbol" aria-roledescription="bar" d="M343.3125,87.5h107.75v152.5h-107.75Z" fill="#9c1703"/>
+<text aria-label="256,268,35,43" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="262.5" y="42.471666666666664" font-family="Balto" font-size="7.183333333333333px" fill="#000" opacity="1">389</text>
+<text aria-label="121,133,114,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="127.8125" y="121.47166666666666" font-family="Balto" font-size="7.183333333333333px" fill="#000" opacity="1">231</text>
+<text aria-label="391,403,77,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="397.1875" y="84.47166666666668" font-family="Balto" font-size="7.183333333333333px" fill="#000" opacity="1">305</text>
+</svg>

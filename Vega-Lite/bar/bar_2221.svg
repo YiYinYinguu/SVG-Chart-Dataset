@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="869" height="351" viewBox="0 0 869 351" style="background-color: rgb(255, 255, 255);">
+<line x1="51.5" y1="249.5" x2="864.5" y2="249.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="51.5" y1="187.5" x2="864.5" y2="187.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="51.5" y1="124.5" x2="864.5" y2="124.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="51.5" y1="62.5" x2="864.5" y2="62.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="97,114,256,316" text-anchor="end" x="109.07142857142858" y="256.5" transform="rotate(270.0, 114.07142857142858, 256.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">dueling</text>
+<text aria-label="213,230,256,341" text-anchor="end" x="225.21428571428572" y="256.5" transform="rotate(270.0, 230.21428571428572, 256.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">instructor</text>
+<text aria-label="329,346,256,316" text-anchor="end" x="341.3571428571429" y="256.5" transform="rotate(270.0, 346.3571428571429, 256.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">manatee</text>
+<text aria-label="445,462,256,290" text-anchor="end" x="457.50000000000006" y="256.5" transform="rotate(270.0, 462.50000000000006, 256.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">poem</text>
+<text aria-label="561,578,256,299" text-anchor="end" x="573.6428571428571" y="256.5" transform="rotate(270.0, 578.6428571428571, 256.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">polyp</text>
+<text aria-label="677,694,256,316" text-anchor="end" x="689.7857142857142" y="256.5" transform="rotate(270.0, 694.7857142857142, 256.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">refusal</text>
+<text aria-label="793,810,256,299" text-anchor="end" x="805.9285714285716" y="256.5" transform="rotate(270.0, 810.9285714285716, 256.5)" font-family="monospace" font-size="16px" font-weight="bold" fill="#000" opacity="1">torte</text>
+<line aria-label="109,109,249,254" x1="109.5" y1="249.5" x2="109.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="225,225,249,254" x1="225.5" y1="249.5" x2="225.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="341,341,249,254" x1="341.5" y1="249.5" x2="341.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="457,457,249,254" x1="457.5" y1="249.5" x2="457.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="573,573,249,254" x1="573.5" y1="249.5" x2="573.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="689,689,249,254" x1="689.5" y1="249.5" x2="689.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="805,805,249,254" x1="805.5" y1="249.5" x2="805.5" y2="254.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="51,864,249,249" x1="51.5" y1="249.5" x2="864.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="412,503,0,26" text-anchor="middle" x="457.5" y="25.463499999999996" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Yttrium</text>
+<text aria-label="36,44,238,255" text-anchor="end" x="44.5" y="254.5" font-family="monospace" font-size="16px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="27,44,176,193" text-anchor="end" x="44.5" y="192.0" font-family="monospace" font-size="16px" font-weight="normal" fill="#000" opacity="1">50</text>
+<text aria-label="19,44,113,130" text-anchor="end" x="44.5" y="129.5" font-family="monospace" font-size="16px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,44,51,68" text-anchor="end" x="44.5" y="67.0" font-family="monospace" font-size="16px" font-weight="normal" fill="#000" opacity="1">150</text>
+<line aria-label="46,51,249,249" x1="51.5" y1="249.5" x2="46.5" y2="249.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,187,187" x1="51.5" y1="187.5" x2="46.5" y2="187.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,124,124" x1="51.5" y1="124.5" x2="46.5" y2="124.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="46,51,62,62" x1="51.5" y1="62.5" x2="46.5" y2="62.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,110,188" text-anchor="middle" x="16.5" y="149.5" transform="rotate(-90.0, 14.5, 149.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">whose SDD Kia</text>
+<path aria-label="Vermont Springs Handmade: manatee; whose SDD Kia: 52; Account solution parse: SDD Fall inspect" role="graphics-symbol" aria-roledescription="bar" d="M309.99857142857144,184.0h62.71714285714287v65h-62.71714285714287Z" fill="#ff993e"/>
+<path aria-label="Vermont Springs Handmade: dueling; whose SDD Kia: 48; Account solution parse: SDD Fall inspect" role="graphics-symbol" aria-roledescription="bar" d="M77.71285714285716,189.0h62.71714285714287v60h-62.71714285714287Z" fill="#ff993e"/>
+<path aria-label="Vermont Springs Handmade: poem; whose SDD Kia: 4; Account solution parse: SDD Fall inspect" role="graphics-symbol" aria-roledescription="bar" d="M426.1414285714286,244.0h62.71714285714287v5h-62.71714285714287Z" fill="#ff993e"/>
+<path aria-label="Vermont Springs Handmade: instructor; whose SDD Kia: 137; Account solution parse: SDD Fall inspect" role="graphics-symbol" aria-roledescription="bar" d="M193.8557142857143,77.75h62.71714285714287v171.25h-62.71714285714287Z" fill="#ff993e"/>
+<path aria-label="Vermont Springs Handmade: torte; whose SDD Kia: 37; Account solution parse: SDD Fall inspect" role="graphics-symbol" aria-roledescription="bar" d="M774.57,202.75h62.71714285714287v46.25h-62.71714285714287Z" fill="#ff993e"/>
+<path aria-label="Vermont Springs Handmade: refusal; whose SDD Kia: 160; Account solution parse: SDD Fall inspect" role="graphics-symbol" aria-roledescription="bar" d="M658.4271428571427,49.0h62.71714285714287v200h-62.71714285714287Z" fill="#ff993e"/>
+<path aria-label="Vermont Springs Handmade: polyp; whose SDD Kia: 14; Account solution parse: SDD Fall inspect" role="graphics-symbol" aria-roledescription="bar" d="M542.2842857142857,231.5h62.71714285714287v17.5h-62.71714285714287Z" fill="#ff993e"/>
+<text aria-label="334,347,167,180" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="341.3571428571429" y="179.4635" font-family="monospace" font-size="12.195px" fill="#000" opacity="1">52</text>
+<text aria-label="102,115,172,185" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.07142857142858" y="184.4635" font-family="monospace" font-size="12.195px" fill="#000" opacity="1">48</text>
+<text aria-label="454,460,227,240" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="457.50000000000006" y="239.4635" font-family="monospace" font-size="12.195px" fill="#000" opacity="1">4</text>
+<text aria-label="215,235,61,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="225.21428571428572" y="73.21350000000001" font-family="monospace" font-size="12.195px" fill="#000" opacity="1">137</text>
+<text aria-label="799,812,186,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="805.9285714285716" y="198.2135" font-family="monospace" font-size="12.195px" fill="#000" opacity="1">37</text>
+<text aria-label="679,699,32,45" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="689.7857142857142" y="44.463499999999996" font-family="monospace" font-size="12.195px" fill="#000" opacity="1">160</text>
+<text aria-label="567,580,214,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="573.6428571428571" y="226.9635" font-family="monospace" font-size="12.195px" fill="#000" opacity="1">14</text>
+</svg>

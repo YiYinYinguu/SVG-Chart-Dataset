@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="313" height="239" viewBox="0 0 313 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="100,308,0,26" text-anchor="middle" x="204.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Rustic Northwest</text>
+<path aria-label="sed: 818; flaky defiantly: Administrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.16236909798334,180.0957056862566A75,75,0,0,0,204.0,59.0L204.0,90.0A44,44,0,0,1,238.70858987081687,161.04281400260388Z" fill="#e185ff" stroke="black" stroke-width="4"/>
+<path aria-label="sed: 1; flaky defiantly: Ireland" role="graphics-symbol" aria-roledescription="arc mark"  d="M263.03633312633355,180.2570142896899A75,75,0,0,0,263.16236909798334,180.0957056862566L238.70858987081687,161.04281400260388A44,44,0,0,1,238.634648767449,161.13744838328475Z" fill="#ef39af" stroke="black" stroke-width="4"/>
+<path aria-label="sed: 772; flaky defiantly: invoice" role="graphics-symbol" aria-roledescription="arc mark"  d="M204.0,59.0A75,75,0,0,0,139.53100378177092,172.32425506926342L166.1781888853056,156.48356297396788A44,44,0,0,1,204.0,90.0Z" fill="#f3b87a" stroke="black" stroke-width="4"/>
+<path aria-label="sed: 711; flaky defiantly: driver" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.53100378177092,172.32425506926342A75,75,0,0,0,263.03633312633355,180.2570142896899L238.634648767449,161.13744838328475A44,44,0,0,1,166.1781888853056,156.48356297396788Z" fill="#6f4aaf" stroke="black" stroke-width="4"/>
+<text aria-label="276,293,87,98" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="284.86512293354815" y="97.49263495318698" font-family="serif" font-size="10px" fill="#e185ff" opacity="1">818</text>
+<text aria-label="272,277,182,193" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="274.9192873770752" y="192.41168358683777" font-family="serif" font-size="10px" fill="#ef39af" opacity="1">1</text>
+<text aria-label="117,134,82,93" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="125.7727044201308" y="92.49730091039672" font-family="serif" font-size="10px" fill="#f3b87a" opacity="1">772</text>
+<text aria-label="189,206,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="198.23117871979468" y="226.81492471208253" font-family="serif" font-size="10px" fill="#6f4aaf" opacity="1">711</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#e185ff" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ef39af" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#6f4aaf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#f3b87a" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,92,33,44" text-anchor="start" x="21.0" y="43.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Administrator</text>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="serif" font-size="10px" fill="#000" opacity="1">Ireland</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="serif" font-size="10px" fill="#000" opacity="1">driver</text>
+<text aria-label="21,59,81,92" text-anchor="start" x="21.0" y="91.0" font-family="serif" font-size="10px" fill="#000" opacity="1">invoice</text>
+</svg>

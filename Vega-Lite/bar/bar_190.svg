@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="629" height="318" viewBox="0 0 629 318" style="background-color: rgb(255, 255, 255);">
+<line x1="67.5" y1="234.5" x2="624.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="67.5" y1="172.5" x2="624.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="67.5" y1="109.5" x2="624.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="67.5" y1="47.5" x2="624.5" y2="47.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="101,118,241,318" text-anchor="end" x="113.41666666666666" y="241.5" transform="rotate(270.0, 118.41666666666666, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">alligator</text>
+<text aria-label="194,211,241,267" text-anchor="end" x="206.24999999999997" y="241.5" transform="rotate(270.0, 211.24999999999997, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">bed</text>
+<text aria-label="287,304,241,284" text-anchor="end" x="299.0833333333333" y="241.5" transform="rotate(270.0, 304.0833333333333, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">blend</text>
+<text aria-label="379,396,241,292" text-anchor="end" x="391.91666666666663" y="241.5" transform="rotate(270.0, 396.91666666666663, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">pastor</text>
+<text aria-label="472,489,241,284" text-anchor="end" x="484.74999999999994" y="241.5" transform="rotate(270.0, 489.74999999999994, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">smith</text>
+<text aria-label="565,582,241,292" text-anchor="end" x="577.5833333333333" y="241.5" transform="rotate(270.0, 582.5833333333333, 241.5)" font-family="serif" font-size="16px" font-weight="normal" fill="#000" opacity="1">warren</text>
+<line aria-label="113,113,234,239" x1="113.5" y1="234.5" x2="113.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="206,206,234,239" x1="206.5" y1="234.5" x2="206.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="299,299,234,239" x1="299.5" y1="234.5" x2="299.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="391,391,234,239" x1="391.5" y1="234.5" x2="391.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="484,484,234,239" x1="484.5" y1="234.5" x2="484.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="577,577,234,239" x1="577.5" y1="234.5" x2="577.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="67,624,234,234" x1="67.5" y1="234.5" x2="624.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="287,404,0,26" text-anchor="middle" x="345.5" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southwest</text>
+<text aria-label="57,65,223,240" text-anchor="end" x="65.5" y="239.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="40,65,161,178" text-anchor="end" x="65.5" y="177.0" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="23,65,98,115" text-anchor="end" x="65.5" y="114.5" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">1,000</text>
+<text aria-label="23,65,36,53" text-anchor="end" x="65.5" y="52.0" font-family="serif" font-size="16px" font-weight="bold" fill="#000" opacity="1">1,500</text>
+<text aria-label="2,14,116,152" text-anchor="middle" x="16.5" y="134.5" transform="rotate(-90.0, 14.5, 134.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">female</text>
+<line aria-label="67,67,34,234" x1="67.5" y1="234.5" x2="67.5" y2="34.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="North: blend; female: 719; Oregon: kilogram Home Shores" role="graphics-symbol" aria-roledescription="bar" d="M274.0183333333333,144.125h50.13v89.87500000000001h-50.13Z" fill="#a0d56f"/>
+<path aria-label="North: blend; female: 388; Oregon: Dynamic Consultant Credit" role="graphics-symbol" aria-roledescription="bar" d="M274.0183333333333,51.5h50.13v48.499999999999986h-50.13Z" fill="#cfa8b0"/>
+<path aria-label="North: blend; female: 353; Oregon: Luxurious est Keyboard" role="graphics-symbol" aria-roledescription="bar" d="M274.0183333333333,99.99999999999999h50.13v44.125h-50.13Z" fill="#ddff39"/>
+<path aria-label="North: alligator; female: 295; Oregon: kilogram Home Shores" role="graphics-symbol" aria-roledescription="bar" d="M88.35166666666665,197.125h50.13v36.875h-50.13Z" fill="#a0d56f"/>
+<path aria-label="North: alligator; female: 78; Oregon: Dynamic Consultant Credit" role="graphics-symbol" aria-roledescription="bar" d="M88.35166666666665,111.0h50.13v9.75h-50.13Z" fill="#cfa8b0"/>
+<path aria-label="North: alligator; female: 611; Oregon: Luxurious est Keyboard" role="graphics-symbol" aria-roledescription="bar" d="M88.35166666666665,120.75h50.13v76.375h-50.13Z" fill="#ddff39"/>
+<path aria-label="North: warren; female: 246; Oregon: kilogram Home Shores" role="graphics-symbol" aria-roledescription="bar" d="M552.5183333333332,203.25h50.13v30.75h-50.13Z" fill="#a0d56f"/>
+<path aria-label="North: warren; female: 397; Oregon: Dynamic Consultant Credit" role="graphics-symbol" aria-roledescription="bar" d="M552.5183333333332,147.125h50.13v49.624999999999986h-50.13Z" fill="#cfa8b0"/>
+<path aria-label="North: warren; female: 52; Oregon: Luxurious est Keyboard" role="graphics-symbol" aria-roledescription="bar" d="M552.5183333333332,196.75h50.13v6.5h-50.13Z" fill="#ddff39"/>
+<path aria-label="North: smith; female: 37; Oregon: kilogram Home Shores" role="graphics-symbol" aria-roledescription="bar" d="M459.68499999999995,229.375h50.13v4.625h-50.13Z" fill="#a0d56f"/>
+<path aria-label="North: smith; female: 108; Oregon: Dynamic Consultant Credit" role="graphics-symbol" aria-roledescription="bar" d="M459.68499999999995,146.0h50.13v13.499999999999972h-50.13Z" fill="#cfa8b0"/>
+<path aria-label="North: smith; female: 559; Oregon: Luxurious est Keyboard" role="graphics-symbol" aria-roledescription="bar" d="M459.68499999999995,159.5h50.13v69.87500000000001h-50.13Z" fill="#ddff39"/>
+<path aria-label="North: bed; female: 363; Oregon: kilogram Home Shores" role="graphics-symbol" aria-roledescription="bar" d="M181.18499999999997,188.625h50.13v45.375h-50.13Z" fill="#a0d56f"/>
+<path aria-label="North: bed; female: 516; Oregon: Dynamic Consultant Credit" role="graphics-symbol" aria-roledescription="bar" d="M181.18499999999997,81.125h50.13v64.5h-50.13Z" fill="#cfa8b0"/>
+<path aria-label="North: bed; female: 344; Oregon: Luxurious est Keyboard" role="graphics-symbol" aria-roledescription="bar" d="M181.18499999999997,145.625h50.13v43h-50.13Z" fill="#ddff39"/>
+<path aria-label="North: pastor; female: 316; Oregon: kilogram Home Shores" role="graphics-symbol" aria-roledescription="bar" d="M366.85166666666663,194.5h50.13v39.5h-50.13Z" fill="#a0d56f"/>
+<path aria-label="North: pastor; female: 511; Oregon: Dynamic Consultant Credit" role="graphics-symbol" aria-roledescription="bar" d="M366.85166666666663,97.875h50.13v63.87499999999999h-50.13Z" fill="#cfa8b0"/>
+<path aria-label="North: pastor; female: 262; Oregon: Luxurious est Keyboard" role="graphics-symbol" aria-roledescription="bar" d="M366.85166666666663,161.75h50.13v32.750000000000014h-50.13Z" fill="#ddff39"/>
+</svg>

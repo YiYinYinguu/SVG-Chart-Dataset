@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="282" height="270" viewBox="0 0 282 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.306852778304844" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Towels</text>
+<path aria-label="over: 567; Creative Ford invoice: unhealthy" role="graphics-symbol" aria-roledescription="arc mark"  d="M66.1682976320607,102.08917357293723A75,75,0,0,0,52.63022365580468,216.66166296473796L80.90250735478625,189.79759822307423A36,36,0,0,1,87.40078286338914,134.80280331500987Z" fill="#1c76a1" stroke="black" stroke-width="2"/>
+<path aria-label="over: 186; Creative Ford invoice: vastly" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.99999999999999,90.0A75,75,0,0,0,66.1682976320607,102.08917357293723L87.40078286338914,134.80280331500987A36,36,0,0,1,107.0,129.0Z" fill="#b41fbc" stroke="black" stroke-width="2"/>
+<path aria-label="over: 602; Creative Ford invoice: migration" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.63022365580468,216.66166296473796A75,75,0,0,0,172.14448802580011,202.1644410674557L138.26935425238406,182.83893171237872A36,36,0,0,1,80.90250735478625,189.79759822307423Z" fill="#7fcda5" stroke="black" stroke-width="2"/>
+<path aria-label="over: 675; Creative Ford invoice: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.14448802580011,202.1644410674557A75,75,0,0,0,107.0,90.0L107.0,129.0A36,36,0,0,1,138.26935425238406,182.83893171237872Z" fill="#a1a425" stroke="black" stroke-width="2"/>
+<text aria-label="6,28,144,159" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.621794184554844" y="158.43892405046125" font-family="Balto" font-size="14px" fill="#1c76a1" opacity="1">567</text>
+<text aria-label="70,92,68,83" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="81.44974808463502" y="82.70292805047562" font-family="Balto" font-size="14px" fill="#b41fbc" opacity="1">186</text>
+<text aria-label="106,129,244,259" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="117.83766523019929" y="258.3450894697528" font-family="Balto" font-size="14px" fill="#7fcda5" opacity="1">602</text>
+<text aria-label="173,196,109,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="184.82595850770235" y="123.79911303572248" font-family="Balto" font-size="14px" fill="#a1a425" opacity="1">675</text>
+<path  d="M18.0,40.25A5,5,0,1,1,8.0,40.25A5,5,0,1,1,18.0,40.25" fill="#a1a425" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M96.0,40.25A5,5,0,1,1,86.0,40.25A5,5,0,1,1,96.0,40.25" fill="#7fcda5" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M170.0,40.25A5,5,0,1,1,160.0,40.25A5,5,0,1,1,170.0,40.25" fill="#1c76a1" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M245.0,40.25A5,5,0,1,1,235.0,40.25A5,5,0,1,1,245.0,40.25" fill="#b41fbc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="23,72,33,44" text-anchor="start" x="23.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="101,150,33,44" text-anchor="start" x="101.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">migration</text>
+<text aria-label="175,224,33,44" text-anchor="start" x="175.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">unhealthy</text>
+<text aria-label="250,283,33,44" text-anchor="start" x="250.0" y="43.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">vastly</text>
+</svg>

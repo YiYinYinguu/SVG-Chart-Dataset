@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="299" height="239" viewBox="0 0 299 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,226,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">after cyan Direct</text>
+<path aria-label="Fermium: 494; Home: systems" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,40.56408443374902,95.62015131427724L62.90186849671603,108.9251655253278A49,49,0,0,1,104.99999999999999,85.0Z" fill="#d6240c" stroke="white" stroke-width="0"/>
+<path aria-label="Fermium: 126; Home: Indiana" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.982269702063,194.74997902760947A75,75,0,0,0,163.29335299119455,181.18988235886997L143.08499062091377,164.83072314112837A49,49,0,0,1,133.7350828720145,173.68998629803818Z" fill="#fb942c" stroke="white" stroke-width="0"/>
+<path aria-label="Fermium: 875; Home: East" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.479853308547,153.2787671901371A75,75,0,0,0,105.0,59.0L105.0,85.0A49,49,0,0,1,152.35350416158406,146.59546123088958Z" fill="#9afcf5" stroke="white" stroke-width="0"/>
+<path aria-label="Fermium: 639; Home: purple" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.56408443374902,95.62015131427724A75,75,0,0,0,52.73530935018488,187.79035332919025L70.85373544212078,169.14303084173764A49,49,0,0,1,62.90186849671603,108.9251655253278Z" fill="#c7cb2f" stroke="white" stroke-width="0"/>
+<path aria-label="Fermium: 416; Home: Integration" role="graphics-symbol" aria-roledescription="arc mark"  d="M86.89900175560798,206.78292287725546A75,75,0,0,0,148.982269702063,194.74997902760947L133.7350828720145,173.68998629803818A49,49,0,0,1,93.17401448033054,181.55150961314024Z" fill="#1d0e3f" stroke="white" stroke-width="0"/>
+<path aria-label="Fermium: 31; Home: Investor" role="graphics-symbol" aria-roledescription="arc mark"  d="M82.21957191377159,205.4566448709158A75,75,0,0,0,86.89900175560798,206.78292287725546L93.17401448033054,181.55150961314024A49,49,0,0,1,90.1167869836641,180.68500798233165Z" fill="#3d3696" stroke="white" stroke-width="0"/>
+<path aria-label="Fermium: 201; Home: Hatchback" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.29335299119455,181.18988235886997A75,75,0,0,0,177.479853308547,153.2787671901371L152.35350416158406,146.59546123088958A49,49,0,0,1,143.08499062091377,164.83072314112837Z" fill="#4bdaf4" stroke="white" stroke-width="0"/>
+<path aria-label="Fermium: 221; Home: meter" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.73530935018488,187.79035332919025A75,75,0,0,0,82.21957191377159,205.4566448709158L90.1167869836641,180.68500798233165A49,49,0,0,1,70.85373544212078,169.14303084173764Z" fill="#d93b1b" stroke="white" stroke-width="0"/>
+<text aria-label="50,70,47,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="60.531042614302635" y="59.753518743466614" font-family="monospace" font-size="12px" fill="#d6240c" opacity="1">494</text>
+<text aria-label="157,176,191,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="166.90237894318193" y="203.33066264147874" font-family="monospace" font-size="12px" fill="#fb942c" opacity="1">126</text>
+<text aria-label="166,186,71,84" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.3516182596261" y="83.14613439571832" font-family="monospace" font-size="12px" fill="#9afcf5" opacity="1">875</text>
+<text aria-label="6,25,137,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.774577910551798" y="149.7823619431678" font-family="monospace" font-size="12px" fill="#c7cb2f" opacity="1">639</text>
+<text aria-label="112,131,214,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="122.1250548023526" y="226.3557157065485" font-family="monospace" font-size="12px" fill="#1d0e3f" opacity="1">416</text>
+<text aria-label="73,86,212,225" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="80.45823943594559" y="224.58927178592404" font-family="monospace" font-size="12px" fill="#3d3696" opacity="1">31</text>
+<text aria-label="175,194,166,179" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.23115517625143" y="178.77942789059534" font-family="monospace" font-size="12px" fill="#4bdaf4" opacity="1">201</text>
+<text aria-label="48,68,203,216" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="58.74211015340324" y="215.20238096678185" font-family="monospace" font-size="12px" fill="#d93b1b" opacity="1">221</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#9afcf5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#4bdaf4" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#fb942c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#1d0e3f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#3d3696" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#d93b1b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#c7cb2f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#d6240c" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">East</text>
+<text aria-label="239,288,65,76" text-anchor="start" x="239.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hatchback</text>
+<text aria-label="239,277,81,92" text-anchor="start" x="239.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Indiana</text>
+<text aria-label="239,299,97,108" text-anchor="start" x="239.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Integration</text>
+<text aria-label="239,283,113,124" text-anchor="start" x="239.0" y="123.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Investor</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">meter</text>
+<text aria-label="239,272,145,156" text-anchor="start" x="239.0" y="155.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">purple</text>
+<text aria-label="239,277,161,172" text-anchor="start" x="239.0" y="171.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">systems</text>
+<text aria-label="223,247,32,44" text-anchor="start" x="223.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Home</text>
+</svg>

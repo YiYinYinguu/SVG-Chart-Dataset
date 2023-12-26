@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="305" height="239" viewBox="0 0 305 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">meter phooey</text>
+<path aria-label="metrics swat: 202; programming: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.23708747873482,67.79314487142597A75,75,0,0,0,105.0,59.0L105.0,84.0A50,50,0,0,1,128.49139165248988,89.86209658095065Z" fill="#f1a768" stroke="black" stroke-width="0"/>
+<path aria-label="metrics swat: 191; programming: absent" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.129245369345085,138.4011476953479A75,75,0,0,0,39.95748772047172,171.34262439046583L61.63832514698115,158.89508292697724A50,50,0,0,1,55.08616357956339,136.93409846356528Z" fill="#5eee0f" stroke="black" stroke-width="0"/>
+<path aria-label="metrics swat: 209; programming: solution" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,68.64589643834188,68.39985400756919L80.76393095889459,90.26656933837945A50,50,0,0,1,104.99999999999999,84.0Z" fill="#cdc455" stroke="black" stroke-width="0"/>
+<path aria-label="metrics swat: 158; programming: Fresh" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.3025745481485,195.93135059562596A75,75,0,0,0,167.36337351759295,175.6630488983366L146.57558234506195,161.77536593222442A50,50,0,0,1,133.20171636543233,175.28756706375066Z" fill="#cbd150" stroke="black" stroke-width="0"/>
+<path aria-label="metrics swat: 690; programming: Caesium" role="graphics-symbol" aria-roledescription="arc mark"  d="M167.36337351759295,175.6630488983366A75,75,0,0,0,140.23708747873482,67.79314487142597L128.49139165248988,89.86209658095065A50,50,0,0,1,146.57558234506195,161.77536593222442Z" fill="#72f5cf" stroke="black" stroke-width="0"/>
+<path aria-label="metrics swat: 550; programming: Tennessine" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.95748772047172,171.34262439046583A75,75,0,0,0,125.87637258470643,206.0359428875927L118.91758172313762,182.0239619250618A50,50,0,0,1,61.63832514698115,158.89508292697724Z" fill="#58f784" stroke="black" stroke-width="0"/>
+<path aria-label="metrics swat: 464; programming: lumen" role="graphics-symbol" aria-roledescription="arc mark"  d="M68.64589643834188,68.39985400756919A75,75,0,0,0,30.129245369345085,138.4011476953479L55.08616357956339,136.93409846356528A50,50,0,0,1,80.76393095889459,90.26656933837945Z" fill="#a2c3dc" stroke="black" stroke-width="0"/>
+<path aria-label="metrics swat: 131; programming: Jazz" role="graphics-symbol" aria-roledescription="arc mark"  d="M125.87637258470643,206.0359428875927A75,75,0,0,0,147.3025745481485,195.93135059562596L133.20171636543233,175.28756706375066A50,50,0,0,1,118.91758172313762,182.0239619250618Z" fill="#9be3da" stroke="black" stroke-width="0"/>
+<text aria-label="117,135,38,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="126.79059024113396" y="49.67777959223095" font-family="avenir" font-size="11px" fill="#f1a768" opacity="1">202</text>
+<text aria-label="9,27,151,163" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="18.756677174631918" y="162.73109535249802" font-family="avenir" font-size="11px" fill="#5eee0f" opacity="1">191</text>
+<text aria-label="73,91,38,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="82.47019493185225" y="49.86557578321147" font-family="avenir" font-size="11px" fill="#cdc455" opacity="1">209</text>
+<text aria-label="159,177,189,201" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="168.9662044031801" y="200.31133148379195" font-family="avenir" font-size="11px" fill="#cbd150" opacity="1">158</text>
+<text aria-label="183,201,104,116" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.28250583782193" y="115.05087303169941" font-family="avenir" font-size="11px" fill="#72f5cf" opacity="1">690</text>
+<text aria-label="62,80,209,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="71.30224446941881" y="220.45334787892685" font-family="avenir" font-size="11px" fill="#58f784" opacity="1">550</text>
+<text aria-label="17,35,82,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="26.148151123574735" y="93.61352827470996" font-family="avenir" font-size="11px" fill="#a2c3dc" opacity="1">464</text>
+<text aria-label="134,152,207,219" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="143.38913352282208" y="218.40193134912056" font-family="avenir" font-size="11px" fill="#9be3da" opacity="1">131</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#f1a768" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#72f5cf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#cbd150" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#9be3da" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#58f784" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#5eee0f" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#a2c3dc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#cdc455" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="239,277,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Caesium</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Fresh</text>
+<text aria-label="239,261,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Jazz</text>
+<text aria-label="239,294,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Tennessine</text>
+<text aria-label="239,272,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">absent</text>
+<text aria-label="239,266,145,156" text-anchor="start" x="239.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">lumen</text>
+<text aria-label="239,283,161,172" text-anchor="start" x="239.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">solution</text>
+<text aria-label="223,289,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">programming</text>
+</svg>

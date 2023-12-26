@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="49,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Awesome Kina</text>
+<path aria-label="didactic Tuna capability: 1; Analyst: Arkansas" role="graphics-symbol" aria-roledescription="arc mark"  d="M153.87706167679508,237.88613927700465A75,75,0,0,0,154.6205710745321,237.23876711164024L126.17144365846704,204.9952073009665A32,32,0,0,1,125.85421298209923,205.2714194248553Z" fill="#28352b" stroke="white" stroke-width="0"/>
+<path aria-label="didactic Tuna capability: 184; Analyst: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M154.6205710745321,237.23876711164024A75,75,0,0,0,105.0,106.0L105.0,149.0A32,32,0,0,1,126.17144365846704,204.9952073009665Z" fill="#dedde8" stroke="white" stroke-width="0"/>
+<path aria-label="didactic Tuna capability: 293; Analyst: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,1,0,153.87706167679508,237.88613927700465L125.85421298209923,205.2714194248553A32,32,0,1,1,105.0,149.0Z" fill="#4fb37e" stroke="white" stroke-width="0"/>
+<text aria-label="160,167,238,253" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.09985608612675" y="252.8764098240258" font-family="monospace" font-size="14px" fill="#28352b" opacity="1">1</text>
+<text aria-label="177,200,139,154" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.1836885864986" y="153.17066485187874" font-family="monospace" font-size="14px" fill="#dedde8" opacity="1">184</text>
+<text aria-label="9,31,202,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.60893696037327" y="216.27536537023587" font-family="monospace" font-size="14px" fill="#4fb37e" opacity="1">293</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#dedde8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M78.0,56.25A5,5,0,1,1,68.0,56.25A5,5,0,1,1,78.0,56.25" fill="#28352b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,56.25A5,5,0,1,1,135.0,56.25A5,5,0,1,1,145.0,56.25" fill="#4fb37e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="83,127,49,60" text-anchor="start" x="83.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Arkansas</text>
+<text aria-label="150,177,49,60" text-anchor="start" x="150.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="5,47,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Analyst</text>
+</svg>

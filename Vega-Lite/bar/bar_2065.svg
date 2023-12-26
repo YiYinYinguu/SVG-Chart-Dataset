@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="847" height="354" viewBox="0 0 847 354" style="background-color: rgb(255, 255, 255);">
+<line x1="185.5" y1="39.5" x2="185.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="448.5" y1="39.5" x2="448.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="710.5" y1="39.5" x2="710.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="239.5" x2="842.5" y2="239.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="203.5" x2="842.5" y2="203.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="166.5" x2="842.5" y2="166.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="130.5" x2="842.5" y2="130.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="94.5" x2="842.5" y2="94.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="54.5" y1="57.5" x2="842.5" y2="57.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="171,190,246,351" text-anchor="end" x="185.33333333333334" y="246.5" transform="rotate(270.0, 190.33333333333334, 246.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">bricklaying</text>
+<text aria-label="434,453,246,322" text-anchor="end" x="448.0" y="246.5" transform="rotate(270.0, 453.0, 246.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">dynamite</text>
+<text aria-label="696,715,246,351" text-anchor="end" x="710.6666666666667" y="246.5" transform="rotate(270.0, 715.6666666666667, 246.5)" font-family="monospace" font-size="18px" font-weight="bold" fill="#000" opacity="1">punctuation</text>
+<line aria-label="185,185,239,244" x1="185.5" y1="239.5" x2="185.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="448,448,239,244" x1="448.5" y1="239.5" x2="448.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="710,710,239,244" x1="710.5" y1="239.5" x2="710.5" y2="244.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="54,842,239,239" x1="54.5" y1="239.5" x2="842.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="712,842,0,26" text-anchor="end" x="842.0" y="25.089636363636373" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">withdrawal</text>
+<text aria-label="38,47,226,245" text-anchor="end" x="47.5" y="244.5" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="19,47,190,209" text-anchor="end" x="47.5" y="208.13636363636363" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="19,47,153,172" text-anchor="end" x="47.5" y="171.77272727272725" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="19,47,117,136" text-anchor="end" x="47.5" y="135.40909090909093" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="19,47,81,100" text-anchor="end" x="47.5" y="99.04545454545453" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="19,47,44,63" text-anchor="end" x="47.5" y="62.68181818181819" font-family="monospace" font-size="18px" font-weight="normal" fill="#000" opacity="1">500</text>
+<line aria-label="49,54,239,239" x1="54.5" y1="239.5" x2="49.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,203,203" x1="54.5" y1="203.5" x2="49.5" y2="203.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,166,166" x1="54.5" y1="166.5" x2="49.5" y2="166.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,130,130" x1="54.5" y1="130.5" x2="49.5" y2="130.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,94,94" x1="54.5" y1="94.5" x2="49.5" y2="94.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="49,54,57,57" x1="54.5" y1="57.5" x2="49.5" y2="57.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,124,154" text-anchor="middle" x="16.5" y="139.5" transform="rotate(-90.0, 14.5, 139.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">neque</text>
+<path aria-label="EXE female China: bricklaying; neque: 277; applications: Turkmenistan Account" role="graphics-symbol" aria-roledescription="bar" d="M102.59333333333332,138.27272727272725h165.48000000000005v100.72727272727273h-165.48000000000005Z" fill="#5dd210"/>
+<path aria-label="EXE female China: bricklaying; neque: 10; applications: Pants navigating" role="graphics-symbol" aria-roledescription="bar" d="M102.59333333333332,134.63636363636363h165.48000000000005v3.6363636363636402h-165.48000000000005Z" fill="#4e9eda"/>
+<path aria-label="EXE female China: punctuation; neque: 362; applications: Turkmenistan Account" role="graphics-symbol" aria-roledescription="bar" d="M627.9266666666667,107.36363636363636h165.48000000000005v131.63636363636363h-165.48000000000005Z" fill="#5dd210"/>
+<path aria-label="EXE female China: punctuation; neque: 165; applications: Pants navigating" role="graphics-symbol" aria-roledescription="bar" d="M627.9266666666667,47.363636363636374h165.48000000000005v59.999999999999986h-165.48000000000005Z" fill="#4e9eda"/>
+<path aria-label="EXE female China: dynamite; neque: 207; applications: Turkmenistan Account" role="graphics-symbol" aria-roledescription="bar" d="M365.26,163.72727272727275h165.48000000000005v75.27272727272727h-165.48000000000005Z" fill="#5dd210"/>
+<path aria-label="EXE female China: dynamite; neque: 116; applications: Pants navigating" role="graphics-symbol" aria-roledescription="bar" d="M365.26,121.54545454545455h165.48000000000005v42.18181818181819h-165.48000000000005Z" fill="#4e9eda"/>
+<text aria-label="175,194,122,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.33333333333334" y="133.99872727272725" font-family="monospace" font-size="11.82px" fill="#000" opacity="1">277</text>
+<text aria-label="178,191,118,131" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.33333333333334" y="130.36236363636363" font-family="monospace" font-size="11.82px" fill="#000" opacity="1">10</text>
+<text aria-label="701,720,91,104" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="710.6666666666667" y="103.08963636363636" font-family="monospace" font-size="11.82px" fill="#000" opacity="1">362</text>
+<text aria-label="701,720,31,44" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="710.6666666666667" y="43.08963636363637" font-family="monospace" font-size="11.82px" fill="#000" opacity="1">165</text>
+<text aria-label="438,457,147,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="448.0" y="159.45327272727275" font-family="monospace" font-size="11.82px" fill="#000" opacity="1">207</text>
+<text aria-label="438,457,105,118" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="448.0" y="117.27145454545455" font-family="monospace" font-size="11.82px" fill="#000" opacity="1">116</text>
+</svg>

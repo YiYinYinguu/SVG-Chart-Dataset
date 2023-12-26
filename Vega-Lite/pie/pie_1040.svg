@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="354" height="286" viewBox="0 0 354 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,304,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Assimilated Cargo woman</text>
+<path aria-label="fuchsia connect North: 19; hm: compelling" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.03416358770245,178.736513528946A75,75,0,0,0,30.14214106104066,185.615295773281L50.104236778096485,184.3845502337394A55,55,0,0,1,50.02505329764847,179.34010992122708Z" fill="#ea2cd7" stroke="white" stroke-width="2"/>
+<path aria-label="fuchsia connect North: 361; hm: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.14214106104066,185.615295773281A75,75,0,0,0,122.40712654587153,253.95198383468414L117.76522613363912,234.49812147876835A55,55,0,0,1,50.104236778096485,184.3845502337394Z" fill="#091da0" stroke="white" stroke-width="2"/>
+<path aria-label="fuchsia connect North: 588; hm: Architect" role="graphics-symbol" aria-roledescription="arc mark"  d="M127.29610285363184,252.6092437995282A75,75,0,0,0,105.0,106.0L105.0,126.0A55,55,0,0,1,121.35047542599668,233.51344545298736Z" fill="#187e67" stroke="white" stroke-width="2"/>
+<path aria-label="fuchsia connect North: 14; hm: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.40712654587153,253.95198383468414A75,75,0,0,0,127.29610285363184,252.6092437995282L121.35047542599668,233.51344545298736A55,55,0,0,1,117.76522613363912,234.49812147876835Z" fill="#87d1fe" stroke="white" stroke-width="2"/>
+<path aria-label="fuchsia connect North: 319; hm: superstructure" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.03416358770245,178.736513528946L50.02505329764847,179.34010992122708A55,55,0,0,1,104.99999999999999,126.0Z" fill="#96dede" stroke="white" stroke-width="2"/>
+<text aria-label="7,22,172,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.011086015033854" y="186.41257205351246" font-family="monospace" font-size="14px" fill="#ea2cd7" opacity="1">19</text>
+<text aria-label="40,62,243,258" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="51.43344092091287" y="257.3230512936689" font-family="monospace" font-size="14px" fill="#091da0" opacity="1">361</text>
+<text aria-label="182,205,157,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.9769586194905" y="171.468524292396" font-family="monospace" font-size="14px" fill="#187e67" opacity="1">588</text>
+<text aria-label="121,136,257,272" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="128.8355569517177" y="271.7863251025265" font-family="monospace" font-size="14px" fill="#87d1fe" opacity="1">14</text>
+<text aria-label="31,53,106,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="42.32806265509989" y="120.4072119394362" font-family="monospace" font-size="14px" fill="#96dede" opacity="1">319</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#187e67" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M88.0,56.25A5,5,0,1,1,78.0,56.25A5,5,0,1,1,88.0,56.25" fill="#87d1fe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M150.0,56.25A5,5,0,1,1,140.0,56.25A5,5,0,1,1,150.0,56.25" fill="#091da0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M197.0,56.25A5,5,0,1,1,187.0,56.25A5,5,0,1,1,197.0,56.25" fill="#ea2cd7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M274.0,56.25A5,5,0,1,1,264.0,56.25A5,5,0,1,1,274.0,56.25" fill="#96dede" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Architect</text>
+<text aria-label="93,131,49,60" text-anchor="start" x="93.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="155,177,49,60" text-anchor="start" x="155.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="202,257,49,60" text-anchor="start" x="202.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">compelling</text>
+<text aria-label="279,356,49,60" text-anchor="start" x="279.0" y="59.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">superstructure</text>
+<text aria-label="5,17,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">hm</text>
+</svg>

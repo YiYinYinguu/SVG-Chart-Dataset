@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="303" height="239" viewBox="0 0 303 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,135,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">underneath</text>
+<path aria-label="Neck: 927; fluff invoice: Hop" role="graphics-symbol" aria-roledescription="arc mark"  d="M198.0,59.0A75,75,0,0,0,144.31734289038312,186.37530263064167L167.93771201861455,163.33016947315934A42,42,0,0,1,198.0,92.0Z" fill="#8ec79d" stroke="white" stroke-width="3"/>
+<path aria-label="Neck: 943; fluff invoice: Berkshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M249.5204630718453,188.50359515538975A75,75,0,0,0,198.0,59.0L198.0,92.0A42,42,0,0,1,226.85145932023337,164.52201328701827Z" fill="#0f7bcc" stroke="white" stroke-width="3"/>
+<path aria-label="Neck: 615; fluff invoice: Customer" role="graphics-symbol" aria-roledescription="arc mark"  d="M144.31734289038312,186.37530263064167A75,75,0,0,0,249.5204630718453,188.50359515538975L226.85145932023337,164.52201328701827A42,42,0,0,1,167.93771201861455,163.33016947315934Z" fill="#c909a6" stroke="white" stroke-width="3"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#0f7bcc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#c909a6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#8ec79d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Berkshire</text>
+<text aria-label="21,65,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Customer</text>
+<text aria-label="21,37,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Hop</text>
+<text aria-label="5,83,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">fluff invoice</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="338" height="286" viewBox="0 0 338 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="255,333,0,26" text-anchor="end" x="333.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">Modern</text>
+<path aria-label="Southeast content Customer: 609; Cruiser Research: Intelligent" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.74550324383097,241.19003189446164A75,75,0,0,0,114.06824108350673,106.55023839090282L109.2318458389698,146.25677791575464A35,35,0,0,1,125.88123484712112,209.08868155074876Z" fill="#ea1704" stroke="black" stroke-width="3"/>
+<path aria-label="Southeast content Customer: 428; Cruiser Research: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.151328205053602,185.761967086446A75,75,0,0,0,117.40548312425429,254.96691144325172L110.78922545798534,215.5178920068508A35,35,0,0,1,70.07061982902502,183.22225130700812Z" fill="#91ed36" stroke="black" stroke-width="3"/>
+<path aria-label="Southeast content Customer: 121; Cruiser Research: Internal" role="graphics-symbol" aria-roledescription="arc mark"  d="M117.40548312425429,254.96691144325172A75,75,0,0,0,149.74550324383097,241.19003189446164L125.88123484712112,209.08868155074876A35,35,0,0,1,110.78922545798534,215.5178920068508Z" fill="#dabfaf" stroke="black" stroke-width="3"/>
+<path aria-label="Southeast content Customer: 31; Cruiser Research: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M114.06824108350673,106.55023839090282A75,75,0,0,0,105.0,106.0L105.0,146.0A35,35,0,0,1,109.2318458389698,146.25677791575464Z" fill="#c8bcf6" stroke="black" stroke-width="3"/>
+<path aria-label="Southeast content Customer: 418; Cruiser Research: far" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,30.151328205053602,185.761967086446L70.07061982902502,183.22225130700812A35,35,0,0,1,105.0,146.0Z" fill="#352e92" stroke="black" stroke-width="3"/>
+<text aria-label="185,197,152,160" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="191.99750287425064" y="159.9471369751012" font-family="sans-serif" font-size="7px" fill="#ea1704" opacity="1">609</text>
+<text aria-label="43,55,246,254" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="49.07280260441078" y="253.51346390211447" font-family="sans-serif" font-size="7px" fill="#91ed36" opacity="1">428</text>
+<text aria-label="134,146,258,266" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="140.27284444244464" y="265.7999181457271" font-family="sans-serif" font-size="7px" fill="#dabfaf" opacity="1">121</text>
+<text aria-label="106,114,86,94" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="110.45095157827991" y="93.16522317670484" font-family="sans-serif" font-size="7px" fill="#c8bcf6" opacity="1">31</text>
+<text aria-label="33,45,114,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="39.37114794034497" y="121.41385076714155" font-family="sans-serif" font-size="7px" fill="#352e92" opacity="1">418</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#c8bcf6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M119.0,56.25A5,5,0,1,1,109.0,56.25A5,5,0,1,1,119.0,56.25" fill="#ea1704" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M195.0,56.25A5,5,0,1,1,185.0,56.25A5,5,0,1,1,195.0,56.25" fill="#dabfaf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M259.0,56.25A5,5,0,1,1,249.0,56.25A5,5,0,1,1,259.0,56.25" fill="#91ed36" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M315.0,56.25A5,5,0,1,1,305.0,56.25A5,5,0,1,1,315.0,56.25" fill="#352e92" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,98,49,60" text-anchor="start" x="21.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="124,184,49,60" text-anchor="start" x="124.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Intelligent</text>
+<text aria-label="200,244,49,60" text-anchor="start" x="200.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Internal</text>
+<text aria-label="264,291,49,60" text-anchor="start" x="264.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="320,336,49,60" text-anchor="start" x="320.0" y="59.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">far</text>
+<text aria-label="5,101,32,44" text-anchor="start" x="5.0" y="43.0" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Cruiser Research</text>
+</svg>

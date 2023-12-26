@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="253" height="286" viewBox="0 0 253 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,248,0,26" text-anchor="end" x="248.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Marketing robust</text>
+<path aria-label="Bicycle: 47; Sudanese: Reactive" role="graphics-symbol" aria-roledescription="arc mark"  d="M40.048094716167114,171.50000000000003A75,75,0,0,0,166.5129190947717,176.9087495091627L150.10947400283257,165.4664163067193A55,55,0,0,1,57.368602791855885,161.50000000000003Z" fill="#3ad3ba" stroke="white" stroke-width="0"/>
+<path aria-label="Bicycle: 6; Sudanese: Baby" role="graphics-symbol" aria-roledescription="arc mark"  d="M124.02409379321304,61.45288527207279A75,75,0,0,0,105.0,59.0L105.0,79.0A55,55,0,0,1,118.9510021150229,80.79878253285338Z" fill="#6bdde3" stroke="white" stroke-width="0"/>
+<path aria-label="Bicycle: 49; Sudanese: digital" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,40.048094716167114,171.50000000000003L57.368602791855885,161.50000000000003A55,55,0,0,1,104.99999999999999,79.0Z" fill="#eaca3e" stroke="white" stroke-width="0"/>
+<path aria-label="Bicycle: 45; Sudanese: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M166.5129190947717,176.9087495091627A75,75,0,0,0,124.02409379321304,61.45288527207279L118.9510021150229,80.79878253285338A55,55,0,0,1,150.10947400283257,165.4664163067193Z" fill="#d1ceeb" stroke="white" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#6bdde3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M67.0,274.25A5,5,0,1,1,57.0,274.25A5,5,0,1,1,67.0,274.25" fill="#d1ceeb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M145.0,274.25A5,5,0,1,1,135.0,274.25A5,5,0,1,1,145.0,274.25" fill="#3ad3ba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M212.0,274.25A5,5,0,1,1,202.0,274.25A5,5,0,1,1,212.0,274.25" fill="#eaca3e" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Baby</text>
+<text aria-label="72,121,267,278" text-anchor="start" x="72.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="150,194,267,278" text-anchor="start" x="150.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Reactive</text>
+<text aria-label="217,255,267,278" text-anchor="start" x="217.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">digital</text>
+<text aria-label="5,53,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Sudanese</text>
+</svg>

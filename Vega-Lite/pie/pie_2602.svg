@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="297" height="270" viewBox="0 0 297 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,83,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">haptic</text>
+<path aria-label="ah Oriental bandwidth: 75; sans Cruiser HEX: bypassing" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,90.0A75,75,0,0,0,32.05647986511576,182.44255916807327L56.37098657674384,176.62837277871552A50,50,0,0,1,104.99999999999999,115.0Z" fill="#2796cc" stroke="black" stroke-width="0"/>
+<path aria-label="ah Oriental bandwidth: 79; sans Cruiser HEX: Administrator" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.92857576479014,189.37492851227307A75,75,0,0,0,105.0,90.0L105.0,115.0A50,50,0,0,1,152.28571717652676,181.24995234151538Z" fill="#3c9caa" stroke="black" stroke-width="0"/>
+<path aria-label="ah Oriental bandwidth: 62; sans Cruiser HEX: Internal" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.05647986511576,182.44255916807327A75,75,0,0,0,116.68800065193824,239.08367324019707L112.79200043462549,214.38911549346471A50,50,0,0,1,56.37098657674384,176.62837277871552Z" fill="#62c9de" stroke="black" stroke-width="0"/>
+<path aria-label="ah Oriental bandwidth: 45; sans Cruiser HEX: Comoro" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.68800065193824,239.08367324019707A75,75,0,0,0,175.92857576479014,189.37492851227307L152.28571717652676,181.24995234151538A50,50,0,0,1,112.79200043462549,214.38911549346471Z" fill="#e3c3ec" stroke="black" stroke-width="0"/>
+<text aria-label="29,38,103,112" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.34663351915947" y="111.24964749058496" font-family="sans-serif" font-size="8px" fill="#2796cc" opacity="1">75</text>
+<text aria-label="173,182,106,115" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.254666333707" y="114.71468791010946" font-family="sans-serif" font-size="8px" fill="#3c9caa" opacity="1">79</text>
+<text aria-label="50,59,233,242" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="54.94239708731061" y="241.79462808675174" font-family="sans-serif" font-size="8px" fill="#62c9de" opacity="1">62</text>
+<text aria-label="158,167,227,236" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.85088487178854" y="235.94399988070802" font-family="sans-serif" font-size="8px" fill="#e3c3ec" opacity="1">45</text>
+<path  d="M16.0,40.25A5,5,0,1,1,6.0,40.25A5,5,0,1,1,16.0,40.25" fill="#3c9caa" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M109.0,40.25A5,5,0,1,1,99.0,40.25A5,5,0,1,1,109.0,40.25" fill="#e3c3ec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M175.0,40.25A5,5,0,1,1,165.0,40.25A5,5,0,1,1,175.0,40.25" fill="#62c9de" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M239.0,40.25A5,5,0,1,1,229.0,40.25A5,5,0,1,1,239.0,40.25" fill="#2796cc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,92,33,44" text-anchor="start" x="21.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Administrator</text>
+<text aria-label="114,147,33,44" text-anchor="start" x="114.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Comoro</text>
+<text aria-label="180,224,33,44" text-anchor="start" x="180.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Internal</text>
+<text aria-label="244,293,33,44" text-anchor="start" x="244.0" y="43.25" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">bypassing</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="325" height="239" viewBox="0 0 325 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="177,320,0,26" text-anchor="end" x="320.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">lumen weber</text>
+<path aria-label="Man weber: 68; maximize: Diesel" role="graphics-symbol" aria-roledescription="arc mark"  d="M252.54128043381687,201.57266509268143A75,75,0,0,0,274.65598745544213,185.35876785195057L220.0,134.0Z" fill="#ffaeb6" stroke="black" stroke-width="3"/>
+<path aria-label="Man weber: 209; maximize: Communications" role="graphics-symbol" aria-roledescription="arc mark"  d="M274.65598745544213,185.35876785195057A75,75,0,0,0,289.76603082315154,106.4736318562897L220.0,134.0Z" fill="#aadbde" stroke="black" stroke-width="3"/>
+<path aria-label="Man weber: 221; maximize: Brand" role="graphics-symbol" aria-roledescription="arc mark"  d="M289.76603082315154,106.4736318562897A75,75,0,0,0,220.0,59.0L220.0,134.0Z" fill="#aeb019" stroke="black" stroke-width="3"/>
+<path aria-label="Man weber: 410; maximize: SDD" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.4559762415971,119.29365547039396A75,75,0,0,0,252.54128043381687,201.57266509268143L220.0,134.0Z" fill="#b4e88c" stroke="black" stroke-width="3"/>
+<path aria-label="Man weber: 254; maximize: sunt" role="graphics-symbol" aria-roledescription="arc mark"  d="M220.0,59.0A75,75,0,0,0,146.4559762415971,119.29365547039396L220.0,134.0Z" fill="#cd9cd4" stroke="black" stroke-width="3"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#aeb019" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#aadbde" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#ffaeb6" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#b4e88c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#cd9cd4" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,48,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Brand</text>
+<text aria-label="21,98,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Communications</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Diesel</text>
+<text aria-label="21,37,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">SDD</text>
+<text aria-label="21,43,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">sunt</text>
+<text aria-label="5,53,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">maximize</text>
+</svg>

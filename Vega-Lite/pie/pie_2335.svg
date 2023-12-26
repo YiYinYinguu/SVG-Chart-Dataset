@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="375" height="239" viewBox="0 0 375 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="45,370,0,26" text-anchor="end" x="370.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Rempel Southwest Mountain</text>
+<path aria-label="Southwest Ergonomic: 130; Kids Southeast CLI: smooth" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.05719386812848,109.66651981044038A75,75,0,0,0,320.6926856302375,189.2743306028568L270.0,134.0Z" fill="#e8aada" stroke="black" stroke-width="1"/>
+<path aria-label="Southwest Ergonomic: 61; Kids Southeast CLI: star" role="graphics-symbol" aria-roledescription="arc mark"  d="M270.0,59.0A75,75,0,0,0,199.05719386812848,109.66651981044038L270.0,134.0Z" fill="#ed0cee" stroke="black" stroke-width="1"/>
+<path aria-label="Southwest Ergonomic: 71; Kids Southeast CLI: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M344.3951475100182,124.49410567265588A75,75,0,0,0,270.0,59.0L270.0,134.0Z" fill="#07abfb" stroke="black" stroke-width="1"/>
+<path aria-label="Southwest Ergonomic: 7; Kids Southeast CLI: robust" role="graphics-symbol" aria-roledescription="arc mark"  d="M320.6926856302375,189.2743306028568A75,75,0,0,0,328.02110820474184,181.52421490875614L270.0,134.0Z" fill="#94bfd4" stroke="black" stroke-width="1"/>
+<path aria-label="Southwest Ergonomic: 25; Kids Southeast CLI: Romania" role="graphics-symbol" aria-roledescription="arc mark"  d="M339.61470567877245,161.9068585343798A75,75,0,0,0,344.3951475100182,124.49410567265588L270.0,134.0Z" fill="#faf7ca" stroke="black" stroke-width="1"/>
+<path aria-label="Southwest Ergonomic: 15; Kids Southeast CLI: blank" role="graphics-symbol" aria-roledescription="arc mark"  d="M328.02110820474184,181.52421490875614A75,75,0,0,0,339.61470567877245,161.9068585343798L270.0,134.0Z" fill="#4e7c8a" stroke="black" stroke-width="1"/>
+<text aria-label="212,228,202,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="220.71420558602034" y="212.3054478041458" font-family="avenir" font-size="10px" fill="#e8aada" opacity="1">130</text>
+<text aria-label="212,223,53,64" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="217.69328848260693" y="63.76061216642907" font-family="avenir" font-size="10px" fill="#ed0cee" opacity="1">61</text>
+<text aria-label="323,334,59,70" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="329.4700067792447" y="69.4476625594896" font-family="avenir" font-size="10px" fill="#07abfb" opacity="1">71</text>
+<text aria-label="332,338,188,199" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="335.3938160285503" y="198.83565981878186" font-family="avenir" font-size="10px" fill="#94bfd4" opacity="1">7</text>
+<text aria-label="353,364,138,149" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="359.2741770120218" y="148.40707319281296" font-family="avenir" font-size="10px" fill="#faf7ca" opacity="1">25</text>
+<text aria-label="341,352,172,183" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="347.4807524257315" y="182.79009722136985" font-family="avenir" font-size="10px" fill="#4e7c8a" opacity="1">15</text>
+<path  d="M105.0,40.0A5,5,0,1,1,95.0,40.0A5,5,0,1,1,105.0,40.0" fill="#07abfb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M105.0,56.0A5,5,0,1,1,95.0,56.0A5,5,0,1,1,105.0,56.0" fill="#faf7ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M105.0,72.0A5,5,0,1,1,95.0,72.0A5,5,0,1,1,105.0,72.0" fill="#4e7c8a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M105.0,88.0A5,5,0,1,1,95.0,88.0A5,5,0,1,1,105.0,88.0" fill="#94bfd4" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M105.0,104.0A5,5,0,1,1,95.0,104.0A5,5,0,1,1,105.0,104.0" fill="#e8aada" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M105.0,120.0A5,5,0,1,1,95.0,120.0A5,5,0,1,1,105.0,120.0" fill="#ed0cee" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="110,148,33,44" text-anchor="start" x="110.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="110,148,49,60" text-anchor="start" x="110.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Romania</text>
+<text aria-label="110,137,65,76" text-anchor="start" x="110.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">blank</text>
+<text aria-label="110,143,81,92" text-anchor="start" x="110.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">robust</text>
+<text aria-label="110,143,97,108" text-anchor="start" x="110.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">smooth</text>
+<text aria-label="110,132,113,124" text-anchor="start" x="110.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">star</text>
+</svg>

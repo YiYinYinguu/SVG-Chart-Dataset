@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,70,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">lumen</text>
+<path aria-label="Sedan astride cyan: 644; state: Granite" role="graphics-symbol" aria-roledescription="arc mark"  d="M245.26863182914553,83.30110123745919A75,75,0,0,0,190.0,59.0L190.0,134.0Z" fill="#828e1f" stroke="white" stroke-width="0"/>
+<path aria-label="Sedan astride cyan: 782; state: trachoma" role="graphics-symbol" aria-roledescription="arc mark"  d="M190.0,59.0A75,75,0,0,0,126.64647006583981,93.8586217864724L190.0,134.0Z" fill="#abddbd" stroke="white" stroke-width="0"/>
+<path aria-label="Sedan astride cyan: 750; state: Movies" role="graphics-symbol" aria-roledescription="arc mark"  d="M249.66265488141923,179.44631571976612A75,75,0,0,0,261.3351995398821,110.84207896625426L190.0,134.0Z" fill="#cf4127" stroke="white" stroke-width="0"/>
+<path aria-label="Sedan astride cyan: 59; state: Grocery" role="graphics-symbol" aria-roledescription="arc mark"  d="M248.95398210570906,87.63807603345462A75,75,0,0,0,245.26863182914553,83.30110123745919L190.0,134.0Z" fill="#72afb2" stroke="white" stroke-width="0"/>
+<path aria-label="Sedan astride cyan: 274; state: Modern" role="graphics-symbol" aria-roledescription="arc mark"  d="M261.3351995398821,110.84207896625426A75,75,0,0,0,248.95398210570906,87.63807603345462L190.0,134.0Z" fill="#af88e2" stroke="white" stroke-width="0"/>
+<path aria-label="Sedan astride cyan: 852; state: Web" role="graphics-symbol" aria-roledescription="arc mark"  d="M176.84971200640794,207.83813327600848A75,75,0,0,0,249.66265488141923,179.44631571976612L190.0,134.0Z" fill="#ae1dc8" stroke="white" stroke-width="0"/>
+<path aria-label="Sedan astride cyan: 349; state: firewall" role="graphics-symbol" aria-roledescription="arc mark"  d="M115.10945424566457,129.94954859086153A75,75,0,0,0,120.77382707326616,162.85718250137984L190.0,134.0Z" fill="#cabb5e" stroke="white" stroke-width="0"/>
+<path aria-label="Sedan astride cyan: 397; state: productize" role="graphics-symbol" aria-roledescription="arc mark"  d="M126.64647006583981,93.8586217864724A75,75,0,0,0,115.10945424566457,129.94954859086153L190.0,134.0Z" fill="#3ba11e" stroke="white" stroke-width="0"/>
+<path aria-label="Sedan astride cyan: 777; state: West" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.77382707326616,162.85718250137984A75,75,0,0,0,176.84971200640794,207.83813327600848L190.0,134.0Z" fill="#ca1eec" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#828e1f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#72afb2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#af88e2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#cf4127" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#ae1dc8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#ca1eec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#cabb5e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,168.0A5,5,0,1,1,6.0,168.0A5,5,0,1,1,16.0,168.0" fill="#3ba11e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,184.0A5,5,0,1,1,6.0,184.0A5,5,0,1,1,16.0,184.0" fill="#abddbd" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Granite</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Grocery</text>
+<text aria-label="21,54,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Modern</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Movies</text>
+<text aria-label="21,37,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Web</text>
+<text aria-label="21,43,129,140" text-anchor="start" x="21.0" y="139.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">West</text>
+<text aria-label="21,65,145,156" text-anchor="start" x="21.0" y="155.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">firewall</text>
+<text aria-label="21,76,161,172" text-anchor="start" x="21.0" y="171.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">productize</text>
+<text aria-label="21,65,177,188" text-anchor="start" x="21.0" y="187.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">trachoma</text>
+<text aria-label="5,35,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">state</text>
+</svg>

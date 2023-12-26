@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="496" height="286" viewBox="0 0 496 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="426,491,0,26" text-anchor="end" x="491.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">latte</text>
+<path aria-label="schemas: 35; indigo Auto CLI: ouch" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,57.791522854751456,75.72170484969087L82.96937733221735,106.80346226318906A35,35,0,0,1,105.0,99.0Z" fill="#b4da53" stroke="white" stroke-width="3"/>
+<path aria-label="schemas: 20; indigo Auto CLI: Electronic" role="graphics-symbol" aria-roledescription="arc mark"  d="M163.96081373307732,180.35323552820626A75,75,0,0,0,177.1369232379614,154.52472425540623L138.66389751104867,143.5782046525229A35,35,0,0,1,132.51504640876942,155.63150991316292Z" fill="#eeaaa8" stroke="white" stroke-width="3"/>
+<path aria-label="schemas: 29; indigo Auto CLI: man" role="graphics-symbol" aria-roledescription="arc mark"  d="M39.56725539695151,170.6545486087638A75,75,0,0,0,69.3039455222195,199.96053134048668L88.34184124370242,164.78158129222712A35,35,0,0,1,74.46471918524404,151.1054560174231Z" fill="#20caac" stroke="white" stroke-width="3"/>
+<path aria-label="schemas: 22; indigo Auto CLI: Electronics" role="graphics-symbol" aria-roledescription="arc mark"  d="M139.40627894750327,200.64238868007803A75,75,0,0,0,163.96081373307732,180.35323552820626L132.51504640876942,155.63150991316292A35,35,0,0,1,121.05626350883486,165.09978138403642Z" fill="#5580a9" stroke="white" stroke-width="3"/>
+<path aria-label="schemas: 52; indigo Auto CLI: Account" role="graphics-symbol" aria-roledescription="arc mark"  d="M168.5735231398657,94.20795110094278A75,75,0,0,0,105.0,59.0L105.0,99.0A35,35,0,0,1,134.66764413193732,115.43037718043996Z" fill="#74bdf9" stroke="white" stroke-width="3"/>
+<path aria-label="schemas: 50; indigo Auto CLI: brandish" role="graphics-symbol" aria-roledescription="arc mark"  d="M69.3039455222195,199.96053134048668A75,75,0,0,0,139.40627894750327,200.64238868007803L121.05626350883486,165.09978138403642A35,35,0,0,1,88.34184124370242,164.78158129222712Z" fill="#831254" stroke="white" stroke-width="3"/>
+<path aria-label="schemas: 43; indigo Auto CLI: Dodge" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.1369232379614,154.52472425540623A75,75,0,0,0,168.5735231398657,94.20795110094278L134.66764413193732,115.43037718043996A35,35,0,0,1,138.66389751104867,143.5782046525229Z" fill="#60aeec" stroke="white" stroke-width="3"/>
+<path aria-label="schemas: 72; indigo Auto CLI: now" role="graphics-symbol" aria-roledescription="arc mark"  d="M57.791522854751456,75.72170484969087A75,75,0,0,0,39.56725539695151,170.6545486087638L74.46471918524404,151.1054560174231A35,35,0,0,1,82.96937733221735,106.80346226318906Z" fill="#1ef15a" stroke="white" stroke-width="3"/>
+<text aria-label="69,80,42,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="74.95050646211646" y="52.16470110787199" font-family="Balto" font-size="10px" fill="#b4da53" opacity="1">35</text>
+<text aria-label="179,190,167,178" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="185.1707072942409" y="177.89813800090593" font-family="Balto" font-size="10px" fill="#eeaaa8" opacity="1">20</text>
+<text aria-label="36,47,191,202" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="41.82631191813334" y="201.1021460961723" font-family="Balto" font-size="10px" fill="#20caac" opacity="1">29</text>
+<text aria-label="156,167,196,207" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="162.3276804279392" y="206.37965881115355" font-family="Balto" font-size="10px" fill="#5580a9" opacity="1">22</text>
+<text aria-label="143,154,48,59" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="148.60308887511192" y="58.26772808721262" font-family="Balto" font-size="10px" fill="#74bdf9" opacity="1">52</text>
+<text aria-label="98,109,216,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="104.12464742759256" y="226.99574299862178" font-family="Balto" font-size="10px" fill="#831254" opacity="1">50</text>
+<text aria-label="188,199,114,125" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.10644093858195" y="124.3492220294953" font-family="Balto" font-size="10px" fill="#60aeec" opacity="1">43</text>
+<text aria-label="11,22,110,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.613890921660726" y="120.03250984995387" font-family="Balto" font-size="10px" fill="#1ef15a" opacity="1">72</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#74bdf9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#60aeec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M143.0,274.25A5,5,0,1,1,133.0,274.25A5,5,0,1,1,143.0,274.25" fill="#eeaaa8" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M217.0,274.25A5,5,0,1,1,207.0,274.25A5,5,0,1,1,217.0,274.25" fill="#5580a9" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M296.0,274.25A5,5,0,1,1,286.0,274.25A5,5,0,1,1,296.0,274.25" fill="#831254" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M365.0,274.25A5,5,0,1,1,355.0,274.25A5,5,0,1,1,365.0,274.25" fill="#20caac" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M414.0,274.25A5,5,0,1,1,404.0,274.25A5,5,0,1,1,414.0,274.25" fill="#1ef15a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M462.0,274.25A5,5,0,1,1,452.0,274.25A5,5,0,1,1,462.0,274.25" fill="#b4da53" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Account</text>
+<text aria-label="88,115,267,278" text-anchor="start" x="88.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Dodge</text>
+<text aria-label="148,203,267,278" text-anchor="start" x="148.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Electronic</text>
+<text aria-label="222,282,267,278" text-anchor="start" x="222.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Electronics</text>
+<text aria-label="301,345,267,278" text-anchor="start" x="301.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">brandish</text>
+<text aria-label="370,386,267,278" text-anchor="start" x="370.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">man</text>
+<text aria-label="419,435,267,278" text-anchor="start" x="419.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">now</text>
+<text aria-label="467,489,267,278" text-anchor="start" x="467.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">ouch</text>
+<text aria-label="5,95,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">indigo Auto CLI</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="300" height="239" viewBox="0 0 300 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,174,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Planner Chair</text>
+<path aria-label="restart Country: 148; Bedfordshire: Fantastic" role="graphics-symbol" aria-roledescription="arc mark"  d="M112.58762414905742,208.61519925439214A75,75,0,0,0,156.31211819247005,188.69978543469787L105.0,134.0Z" fill="#86a599" stroke="white" stroke-width="1"/>
+<path aria-label="restart Country: 63; Bedfordshire: SMS" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.22285011428373,139.77735709205547A75,75,0,0,0,34.668590088968955,160.04789396336147L105.0,134.0Z" fill="#72ded0" stroke="white" stroke-width="1"/>
+<path aria-label="restart Country: 124; Bedfordshire: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M38.107130102307366,100.08327909643435A75,75,0,0,0,30.22285011428373,139.77735709205547L105.0,134.0Z" fill="#e9ccdb" stroke="white" stroke-width="1"/>
+<path aria-label="restart Country: 299; Bedfordshire: Paradigm" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.668590088968955,160.04789396336147A75,75,0,0,0,112.58762414905742,208.61519925439214L105.0,134.0Z" fill="#cceaaf" stroke="white" stroke-width="1"/>
+<path aria-label="restart Country: 274; Bedfordshire: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.31211819247005,188.69978543469787A75,75,0,0,0,174.36974107011991,105.48966812075807L105.0,134.0Z" fill="#aee3f2" stroke="white" stroke-width="1"/>
+<path aria-label="restart Country: 118; Bedfordshire: connecting" role="graphics-symbol" aria-roledescription="arc mark"  d="M63.79705300911215,71.33168935366069A75,75,0,0,0,38.107130102307366,100.08327909643435L105.0,134.0Z" fill="#4fabbe" stroke="white" stroke-width="1"/>
+<path aria-label="restart Country: 268; Bedfordshire: Ball" role="graphics-symbol" aria-roledescription="arc mark"  d="M174.36974107011991,105.48966812075807A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#ccd41a" stroke="white" stroke-width="1"/>
+<path aria-label="restart Country: 132; Bedfordshire: vice" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,63.79705300911215,71.33168935366069L105.0,134.0Z" fill="#6a80e1" stroke="white" stroke-width="1"/>
+<text aria-label="136,148,210,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="142.30535092963044" y="217.9042782278015" font-family="avenir" font-size="7px" fill="#86a599" opacity="1">148</text>
+<text aria-label="13,21,148,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="17.089477507630647" y="155.28056106856388" font-family="avenir" font-size="7px" fill="#72ded0" opacity="1">63</text>
+<text aria-label="10,22,111,119" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="16.7244928646263" y="118.46618010835665" font-family="avenir" font-size="7px" fill="#e9ccdb" opacity="1">124</text>
+<text aria-label="51,63,205,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="57.39323907057337" y="212.37798317452757" font-family="avenir" font-size="7px" fill="#cceaaf" opacity="1">299</text>
+<text aria-label="186,198,148,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.9527857446884" y="155.08684048628612" font-family="avenir" font-size="7px" fill="#aee3f2" opacity="1">274</text>
+<text aria-label="31,43,69,77" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="37.887486748321976" y="76.03408830807837" font-family="avenir" font-size="7px" fill="#4fabbe" opacity="1">118</text>
+<text aria-label="149,161,54,62" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="155.1043119753274" y="61.236653890565705" font-family="avenir" font-size="7px" fill="#ccd41a" opacity="1">268</text>
+<text aria-label="73,85,42,50" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="79.19474423498815" y="49.77883801002028" font-family="avenir" font-size="7px" fill="#6a80e1" opacity="1">132</text>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#ccd41a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#aee3f2" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#86a599" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#cceaaf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#72ded0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#e9ccdb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#4fabbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#6a80e1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,261,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Ball</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Fantastic</text>
+<text aria-label="239,283,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Paradigm</text>
+<text aria-label="239,255,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">SMS</text>
+<text aria-label="239,266,129,140" text-anchor="start" x="239.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="239,294,145,156" text-anchor="start" x="239.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">connecting</text>
+<text aria-label="239,261,161,172" text-anchor="start" x="239.0" y="171.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">vice</text>
+<text aria-label="223,295,32,44" text-anchor="start" x="223.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bedfordshire</text>
+</svg>

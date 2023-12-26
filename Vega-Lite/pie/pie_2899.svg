@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="297" height="239" viewBox="0 0 297 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="214,292,0,26" text-anchor="end" x="292.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Forest</text>
+<path aria-label="West backing Manager: 401; Tactics Colorado: FTP" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.95781010138703,131.48470582149895A75,75,0,0,0,105.0,59.0L105.0,90.0A44,44,0,0,1,148.97524859281373,132.5243607486127Z" fill="#5b6e09" stroke="white" stroke-width="4"/>
+<path aria-label="West backing Manager: 608; Tactics Colorado: input" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,50.63734607647367,185.66915770932314L73.10724303153123,164.31257252280292A44,44,0,0,1,104.99999999999999,90.0Z" fill="#da16cb" stroke="white" stroke-width="4"/>
+<path aria-label="West backing Manager: 312; Tactics Colorado: henry" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.7768561062467,202.83559283123725A75,75,0,0,0,179.95781010138703,131.48470582149895L148.97524859281373,132.5243607486127A44,44,0,0,1,122.46908891566473,174.38354779432586Z" fill="#5a7cbb" stroke="white" stroke-width="4"/>
+<path aria-label="West backing Manager: 318; Tactics Colorado: impression" role="graphics-symbol" aria-roledescription="arc mark"  d="M50.63734607647367,185.66915770932314A75,75,0,0,0,134.7768561062467,202.83559283123725L122.46908891566473,174.38354779432586A44,44,0,0,1,73.10724303153123,164.31257252280292Z" fill="#5aac0f" stroke="white" stroke-width="4"/>
+<text aria-label="157,178,60,74" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="167.5633607981616" y="73.30204110144543" font-family="avenir" font-size="13px" fill="#5b6e09" opacity="1">401</text>
+<text aria-label="11,32,89,103" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.294894254928565" y="102.50541613574615" font-family="avenir" font-size="13px" fill="#da16cb" opacity="1">608</text>
+<text aria-label="170,191,173,187" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="181.03754189722548" y="186.14864714846806" font-family="avenir" font-size="13px" fill="#5a7cbb" opacity="1">312</text>
+<text aria-label="76,97,213,227" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="87.00852252652571" y="226.18336996464507" font-family="avenir" font-size="13px" fill="#5aac0f" opacity="1">318</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#5b6e09" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#5a7cbb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#5aac0f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#da16cb" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,255,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">FTP</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">henry</text>
+<text aria-label="239,294,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">impression</text>
+<text aria-label="239,266,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">input</text>
+</svg>

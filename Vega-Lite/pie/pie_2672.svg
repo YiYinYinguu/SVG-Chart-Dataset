@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="306" height="239" viewBox="0 0 306 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,278,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">actually Angela minus</text>
+<path aria-label="Thompson: 48; Tuna: Bedfordshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.186664721925,68.3073421431056A75,75,0,0,0,105.0,59.0L105.0,98.0A36,36,0,0,1,122.369599066524,102.46752422869069Z" fill="#b9f5bc" stroke="black" stroke-width="0"/>
+<path aria-label="Thompson: 159; Tuna: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,30.3527606078994,141.2656487073367L69.1693250917917,137.4875113795216A36,36,0,0,1,105.0,98.0Z" fill="#6e3cc9" stroke="black" stroke-width="0"/>
+<path aria-label="Thompson: 7; Tuna: Supervisor" role="graphics-symbol" aria-roledescription="arc mark"  d="M152.26523253921567,75.76772550368767A75,75,0,0,0,147.8659427844338,72.45724291842583L125.57565253652822,104.4594766008444A36,36,0,0,1,127.68731161882351,106.04850824177008Z" fill="#89bcdf" stroke="black" stroke-width="0"/>
+<path aria-label="Thompson: 51; Tuna: Washington" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.3490214361351,107.9997080212894A75,75,0,0,0,152.26523253921567,75.76772550368767L127.68731161882351,106.04850824177008A36,36,0,0,1,138.76753028934485,121.51985985021891Z" fill="#57b0ef" stroke="black" stroke-width="0"/>
+<path aria-label="Thompson: 165; Tuna: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M119.46294982387906,207.59227596964206A75,75,0,0,0,175.3490214361351,107.9997080212894L138.76753028934485,121.51985985021891A36,36,0,0,1,111.94221591546194,169.3242924654282Z" fill="#2f46ca" stroke="black" stroke-width="0"/>
+<path aria-label="Thompson: 159; Tuna: female" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.3527606078994,141.2656487073367A75,75,0,0,0,119.46294982387906,207.59227596964206L111.94221591546194,169.3242924654282A36,36,0,0,1,69.1693250917917,137.4875113795216Z" fill="#2f46ca" stroke="black" stroke-width="0"/>
+<path aria-label="Thompson: 10; Tuna: Bronze" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.8659427844338,72.45724291842583A75,75,0,0,0,141.186664721925,68.3073421431056L122.369599066524,102.46752422869069A36,36,0,0,1,125.57565253652822,104.4594766008444Z" fill="#baf1ec" stroke="black" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#b9f5bc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#baf1ec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#89bcdf" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#57b0ef" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#2f46ca" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#6e3cc9" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,305,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bedfordshire</text>
+<text aria-label="239,272,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Bronze</text>
+<text aria-label="239,294,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Supervisor</text>
+<text aria-label="239,294,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Washington</text>
+<text aria-label="239,272,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">female</text>
+<text aria-label="239,277,113,124" text-anchor="start" x="239.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">payment</text>
+</svg>

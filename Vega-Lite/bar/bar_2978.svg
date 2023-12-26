@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="769" height="333" viewBox="0 0 769 333" style="background-color: rgb(255, 255, 255);">
+<line x1="215.5" y1="41.5" x2="215.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="272.5" y1="41.5" x2="272.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="329.5" y1="41.5" x2="329.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="386.5" y1="41.5" x2="386.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="443.5" y1="41.5" x2="443.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="501.5" y1="41.5" x2="501.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="558.5" y1="41.5" x2="558.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="615.5" y1="41.5" x2="615.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="672.5" y1="41.5" x2="672.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="729.5" y1="41.5" x2="729.5" y2="241.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="204,220,248,280" text-anchor="end" x="215.29411764705884" y="248.5" transform="rotate(270.0, 220.29411764705884, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">bean</text>
+<text aria-label="261,277,248,320" text-anchor="end" x="272.45098039215685" y="248.5" transform="rotate(270.0, 277.45098039215685, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">houseboat</text>
+<text aria-label="318,334,248,304" text-anchor="end" x="329.6078431372549" y="248.5" transform="rotate(270.0, 334.6078431372549, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">linseed</text>
+<text aria-label="375,391,248,312" text-anchor="end" x="386.7647058823529" y="248.5" transform="rotate(270.0, 391.7647058823529, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">passbook</text>
+<text aria-label="432,448,248,288" text-anchor="end" x="443.92156862745094" y="248.5" transform="rotate(270.0, 448.92156862745094, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">reply</text>
+<text aria-label="490,506,248,296" text-anchor="end" x="501.078431372549" y="248.5" transform="rotate(270.0, 506.078431372549, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">sequel</text>
+<text aria-label="547,563,248,296" text-anchor="end" x="558.2352941176471" y="248.5" transform="rotate(270.0, 563.2352941176471, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">spleen</text>
+<text aria-label="604,620,248,320" text-anchor="end" x="615.3921568627451" y="248.5" transform="rotate(270.0, 620.3921568627451, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">stockings</text>
+<text aria-label="661,677,248,328" text-anchor="end" x="672.5490196078431" y="248.5" transform="rotate(270.0, 677.5490196078431, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">storyboard</text>
+<text aria-label="718,734,248,288" text-anchor="end" x="729.7058823529411" y="248.5" transform="rotate(270.0, 734.7058823529411, 248.5)" font-family="monospace" font-size="15px" font-weight="normal" fill="#000" opacity="1">theme</text>
+<line aria-label="215,215,241,246" x1="215.5" y1="241.5" x2="215.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="272,272,241,246" x1="272.5" y1="241.5" x2="272.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="329,329,241,246" x1="329.5" y1="241.5" x2="329.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="386,386,241,246" x1="386.5" y1="241.5" x2="386.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="443,443,241,246" x1="443.5" y1="241.5" x2="443.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="501,501,241,246" x1="501.5" y1="241.5" x2="501.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="558,558,241,246" x1="558.5" y1="241.5" x2="558.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="615,615,241,246" x1="615.5" y1="241.5" x2="615.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="672,672,241,246" x1="672.5" y1="241.5" x2="672.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="729,729,241,246" x1="729.5" y1="241.5" x2="729.5" y2="246.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="181,764,241,241" x1="181.5" y1="241.5" x2="764.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="413,764,0,26" text-anchor="end" x="764.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Corporate Polarised payment</text>
+<text aria-label="166,174,231,247" text-anchor="end" x="174.5" y="246.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="150,174,202,218" text-anchor="end" x="174.5" y="217.92857142857144" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="150,174,174,190" text-anchor="end" x="174.5" y="189.35714285714286" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="150,174,145,161" text-anchor="end" x="174.5" y="160.78571428571428" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="150,174,117,133" text-anchor="end" x="174.5" y="132.21428571428572" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="150,174,88,104" text-anchor="end" x="174.5" y="103.64285714285714" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">500</text>
+<text aria-label="150,174,60,76" text-anchor="end" x="174.5" y="75.07142857142858" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="150,174,31,47" text-anchor="end" x="174.5" y="46.5" font-family="monospace" font-size="15px" font-weight="bold" fill="#000" opacity="1">700</text>
+<line aria-label="176,181,241,241" x1="181.5" y1="241.5" x2="176.5" y2="241.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="176,181,212,212" x1="181.5" y1="212.5" x2="176.5" y2="212.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="176,181,184,184" x1="181.5" y1="184.5" x2="176.5" y2="184.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="176,181,155,155" x1="181.5" y1="155.5" x2="176.5" y2="155.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="176,181,127,127" x1="181.5" y1="127.5" x2="176.5" y2="127.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="176,181,98,98" x1="181.5" y1="98.5" x2="176.5" y2="98.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="176,181,70,70" x1="181.5" y1="70.5" x2="176.5" y2="70.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="176,181,41,41" x1="181.5" y1="41.5" x2="176.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="129,141,126,156" text-anchor="middle" x="143.5" y="141.5" transform="rotate(-90.0, 141.5, 141.5)" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Blues</text>
+<line aria-label="181,181,41,241" x1="181.5" y1="241.5" x2="181.5" y2="41.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Bicycle energetically comment: linseed; Blues: 366; regional North West: Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M306.7450980392157,136.42857142857142h45.725490196078425v104.57142857142858h-45.725490196078425Z" fill="#afdce1"/>
+<path aria-label="Bicycle energetically comment: sequel; Blues: 365; regional North West: Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M478.2156862745098,136.71428571428572h45.725490196078425v104.28571428571429h-45.725490196078425Z" fill="#afdce1"/>
+<path aria-label="Bicycle energetically comment: stockings; Blues: 483; regional North West: Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M592.5294117647059,103.00000000000001h45.725490196078425v138h-45.725490196078425Z" fill="#afdce1"/>
+<path aria-label="Bicycle energetically comment: spleen; Blues: 84; regional North West: Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M535.3725490196077,217.0h45.725490196078425v24h-45.725490196078425Z" fill="#afdce1"/>
+<path aria-label="Bicycle energetically comment: bean; Blues: 205; regional North West: Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M192.4313725490196,182.42857142857142h45.725490196078425v58.571428571428584h-45.725490196078425Z" fill="#afdce1"/>
+<path aria-label="Bicycle energetically comment: theme; Blues: 415; regional North West: Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M706.8431372549019,122.42857142857143h45.725490196078425v118.57142857142857h-45.725490196078425Z" fill="#afdce1"/>
+<path aria-label="Bicycle energetically comment: houseboat; Blues: 194; regional North West: Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M249.58823529411765,185.57142857142858h45.725490196078425v55.428571428571416h-45.725490196078425Z" fill="#afdce1"/>
+<path aria-label="Bicycle energetically comment: passbook; Blues: 676; regional North West: Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M363.9019607843137,47.85714285714285h45.725490196078425v193.14285714285714h-45.725490196078425Z" fill="#afdce1"/>
+<path aria-label="Bicycle energetically comment: reply; Blues: 601; regional North West: Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M421.0588235294117,69.28571428571429h45.725490196078425v171.71428571428572h-45.725490196078425Z" fill="#afdce1"/>
+<path aria-label="Bicycle energetically comment: storyboard; Blues: 372; regional North West: Gasoline" role="graphics-symbol" aria-roledescription="bar" d="M649.6862745098039,134.71428571428572h45.725490196078425v106.28571428571429h-45.725490196078425Z" fill="#afdce1"/>
+<path  d="M6.0,58.0h10v10h-10Z" fill="#afdce1" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,56,67" text-anchor="start" x="21.0" y="66.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="5,119,39,51" text-anchor="start" x="5.0" y="50.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">regional North West</text>
+</svg>

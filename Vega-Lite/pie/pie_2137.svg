@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="318" height="239" viewBox="0 0 318 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">next</text>
+<path aria-label="mutilate: 130; Agent maximize: Southwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M223.11537125208898,208.31473114014753A75,75,0,0,0,278.1389834796913,96.82591183051697L254.68894942700246,110.20858357153085A48,48,0,0,1,219.47383760133692,181.56142792969442Z" fill="#04fcbb" stroke="white" stroke-width="0"/>
+<path aria-label="mutilate: 70; Agent maximize: Nebraska" role="graphics-symbol" aria-roledescription="arc mark"  d="M278.1389834796913,96.82591183051697A75,75,0,0,0,213.0,59.0L213.0,86.0A48,48,0,0,1,254.68894942700246,110.20858357153085Z" fill="#16bf13" stroke="white" stroke-width="0"/>
+<path aria-label="mutilate: 218; Agent maximize: navigate" role="graphics-symbol" aria-roledescription="arc mark"  d="M213.0,59.0A75,75,0,1,0,223.11537125208898,208.31473114014753L219.47383760133692,181.56142792969442A48,48,0,1,1,213.0,86.0Z" fill="#d96385" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#16bf13" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#04fcbb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#d96385" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Nebraska</text>
+<text aria-label="21,70,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Southwest</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">navigate</text>
+<text aria-label="5,89,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Agent maximize</text>
+</svg>

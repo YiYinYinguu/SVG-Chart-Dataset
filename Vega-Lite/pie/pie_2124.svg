@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="478" height="286" viewBox="0 0 478 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="40,170,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">overriding</text>
+<path aria-label="Avon: 54; airlift: Gorgeous" role="graphics-symbol" aria-roledescription="arc mark"  d="M134.40712817083423,202.99435348449992A75,75,0,0,0,141.0169612996937,199.78585333288888L128.53108138246654,176.98009084415406A49,49,0,0,1,124.21265707161169,179.07631094320664Z" fill="#d1dcac" stroke="black" stroke-width="2"/>
+<path aria-label="Avon: 322; airlift: South" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.721708790842058,123.62043088333965A75,75,0,0,0,37.32222713408905,166.3221141002591L60.78385506093818,155.1171145455026A49,49,0,0,1,56.47151641001681,127.21868151044858Z" fill="#a765bb" stroke="black" stroke-width="2"/>
+<path aria-label="Avon: 110; airlift: Hollywood" role="graphics-symbol" aria-roledescription="arc mark"  d="M120.14039648096575,207.45589421141887A75,75,0,0,0,134.40712817083423,202.99435348449992L124.21265707161169,179.07631094320664A49,49,0,0,1,114.89172570089762,181.991184218127Z" fill="#f55793" stroke="black" stroke-width="2"/>
+<path aria-label="Avon: 625; airlift: overrun" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,37.03171056256305,102.29335036701612L60.59405090087453,113.28498890645054A49,49,0,0,1,104.99999999999999,85.0Z" fill="#53d402" stroke="black" stroke-width="2"/>
+<path aria-label="Avon: 483; airlift: Auto" role="graphics-symbol" aria-roledescription="arc mark"  d="M162.64246032033572,86.01722425475447A75,75,0,0,0,105.0,59.0L105.0,85.0A49,49,0,0,1,142.65974074261933,102.65125317977292Z" fill="#adf93c" stroke="black" stroke-width="2"/>
+<path aria-label="Avon: 164; airlift: before" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.03171056256305,102.29335036701612A75,75,0,0,0,30.721708790842058,123.62043088333965L56.47151641001681,127.21868151044858A49,49,0,0,1,60.59405090087453,113.28498890645054Z" fill="#8bbe1a" stroke="black" stroke-width="2"/>
+<path aria-label="Avon: 972; airlift: Folk" role="graphics-symbol" aria-roledescription="arc mark"  d="M141.0169612996937,199.78585333288888A75,75,0,0,0,162.64246032033572,86.01722425475447L142.65974074261933,102.65125317977292A49,49,0,0,1,128.53108138246654,176.98009084415406Z" fill="#8c3c5e" stroke="black" stroke-width="2"/>
+<path aria-label="Avon: 732; airlift: Kina" role="graphics-symbol" aria-roledescription="arc mark"  d="M37.32222713408905,166.3221141002591A75,75,0,0,0,120.14039648096575,207.45589421141887L114.89172570089762,181.991184218127A49,49,0,0,1,60.78385506093818,155.1171145455026Z" fill="#12febb" stroke="black" stroke-width="2"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#adf93c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M67.0,274.25A5,5,0,1,1,57.0,274.25A5,5,0,1,1,67.0,274.25" fill="#8c3c5e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M114.0,274.25A5,5,0,1,1,104.0,274.25A5,5,0,1,1,114.0,274.25" fill="#d1dcac" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M188.0,274.25A5,5,0,1,1,178.0,274.25A5,5,0,1,1,188.0,274.25" fill="#f55793" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M267.0,274.25A5,5,0,1,1,257.0,274.25A5,5,0,1,1,267.0,274.25" fill="#12febb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M315.0,274.25A5,5,0,1,1,305.0,274.25A5,5,0,1,1,315.0,274.25" fill="#a765bb" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M371.0,274.25A5,5,0,1,1,361.0,274.25A5,5,0,1,1,371.0,274.25" fill="#8bbe1a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M430.0,274.25A5,5,0,1,1,420.0,274.25A5,5,0,1,1,430.0,274.25" fill="#53d402" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Auto</text>
+<text aria-label="72,94,267,278" text-anchor="start" x="72.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Folk</text>
+<text aria-label="119,163,267,278" text-anchor="start" x="119.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Gorgeous</text>
+<text aria-label="193,242,267,278" text-anchor="start" x="193.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Hollywood</text>
+<text aria-label="272,294,267,278" text-anchor="start" x="272.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Kina</text>
+<text aria-label="320,347,267,278" text-anchor="start" x="320.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">South</text>
+<text aria-label="376,409,267,278" text-anchor="start" x="376.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">before</text>
+<text aria-label="435,473,267,278" text-anchor="start" x="435.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">overrun</text>
+<text aria-label="5,47,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">airlift</text>
+</svg>

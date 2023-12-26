@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="369" height="293" viewBox="0 0 369 293" style="background-color: rgb(255, 255, 255);">
+<line x1="70.5" y1="40.5" x2="70.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="134.5" y1="40.5" x2="134.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="198.5" y1="40.5" x2="198.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="261.5" y1="40.5" x2="261.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="325.5" y1="40.5" x2="325.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="60,74,247,289" text-anchor="end" x="70.30769230769232" y="247.5" transform="rotate(270.0, 74.30769230769232, 247.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">catsup</text>
+<text aria-label="124,138,247,275" text-anchor="end" x="134.15384615384616" y="247.5" transform="rotate(270.0, 138.15384615384616, 247.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">fang</text>
+<text aria-label="188,202,247,282" text-anchor="end" x="198.0" y="247.5" transform="rotate(270.0, 202.0, 247.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">kiosk</text>
+<text aria-label="251,265,247,289" text-anchor="end" x="261.84615384615387" y="247.5" transform="rotate(270.0, 265.84615384615387, 247.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">lotion</text>
+<text aria-label="315,329,247,289" text-anchor="end" x="325.69230769230774" y="247.5" transform="rotate(270.0, 329.69230769230774, 247.5)" font-family="Balto" font-size="13px" font-weight="normal" fill="#000" opacity="1">ocelot</text>
+<line aria-label="70,70,240,245" x1="70.5" y1="240.5" x2="70.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="134,134,240,245" x1="134.5" y1="240.5" x2="134.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="198,198,240,245" x1="198.5" y1="240.5" x2="198.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="261,261,240,245" x1="261.5" y1="240.5" x2="261.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="325,325,240,245" x1="325.5" y1="240.5" x2="325.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="32,364,240,240" x1="32.5" y1="240.5" x2="364.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,304,0,26" text-anchor="start" x="5.94873046875" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Wooden capacitor orange</text>
+<text aria-label="23,30,231,245" text-anchor="end" x="30.5" y="244.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="9,30,181,195" text-anchor="end" x="30.5" y="194.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="9,30,131,145" text-anchor="end" x="30.5" y="144.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="9,30,81,95" text-anchor="end" x="30.5" y="94.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">300</text>
+<text aria-label="9,30,31,45" text-anchor="end" x="30.5" y="44.5" font-family="Balto" font-size="13px" font-weight="bold" fill="#000" opacity="1">400</text>
+<line aria-label="32,32,40,240" x1="32.5" y1="240.5" x2="32.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="deposit Universal: kiosk; Principal: 388; Electric: including Technetium" role="graphics-symbol" aria-roledescription="bar" d="M172.46153846153845,46.00000000000001h51.07692307692308v194h-51.07692307692308Z" fill="#ecaf0e"/>
+<path aria-label="deposit Universal: ocelot; Principal: 355; Electric: including Technetium" role="graphics-symbol" aria-roledescription="bar" d="M300.1538461538462,62.50000000000001h51.07692307692308v177.5h-51.07692307692308Z" fill="#ecaf0e"/>
+<path aria-label="deposit Universal: fang; Principal: 338; Electric: including Technetium" role="graphics-symbol" aria-roledescription="bar" d="M108.61538461538461,71.0h51.07692307692308v169h-51.07692307692308Z" fill="#ecaf0e"/>
+<path aria-label="deposit Universal: catsup; Principal: 210; Electric: including Technetium" role="graphics-symbol" aria-roledescription="bar" d="M44.769230769230774,135.0h51.07692307692308v105h-51.07692307692308Z" fill="#ecaf0e"/>
+<path aria-label="deposit Universal: lotion; Principal: 308; Electric: including Technetium" role="graphics-symbol" aria-roledescription="bar" d="M236.30769230769232,86.0h51.07692307692308v154h-51.07692307692308Z" fill="#ecaf0e"/>
+</svg>

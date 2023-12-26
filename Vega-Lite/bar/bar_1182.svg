@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="775" height="310" viewBox="0 0 775 310" style="background-color: rgb(255, 255, 255);">
+<line x1="120.5" y1="40.5" x2="120.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="306.5" y1="40.5" x2="306.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="491.5" y1="40.5" x2="491.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="677.5" y1="40.5" x2="677.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="240.5" x2="770.5" y2="240.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="211.5" x2="770.5" y2="211.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="183.5" x2="770.5" y2="183.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="154.5" x2="770.5" y2="154.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="126.5" x2="770.5" y2="126.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="97.5" x2="770.5" y2="97.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="69.5" x2="770.5" y2="69.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<line x1="28.5" y1="40.5" x2="770.5" y2="40.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="6, 3" opacity="1"/>
+<text aria-label="110,124,247,296" text-anchor="end" x="120.75000000000004" y="247.5" transform="rotate(270.0, 124.75000000000004, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">anagram</text>
+<text aria-label="296,310,247,310" text-anchor="end" x="306.25000000000006" y="247.5" transform="rotate(270.0, 310.25000000000006, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">catalysis</text>
+<text aria-label="481,495,247,303" text-anchor="end" x="491.75000000000006" y="247.5" transform="rotate(270.0, 495.75000000000006, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">gravitas</text>
+<text aria-label="667,681,247,296" text-anchor="end" x="677.2500000000001" y="247.5" transform="rotate(270.0, 681.2500000000001, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">gripper</text>
+<line aria-label="120,120,240,245" x1="120.5" y1="240.5" x2="120.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="306,306,240,245" x1="306.5" y1="240.5" x2="306.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="491,491,240,245" x1="491.5" y1="240.5" x2="491.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="677,677,240,245" x1="677.5" y1="240.5" x2="677.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="28,770,240,240" x1="28.5" y1="240.5" x2="770.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,96,0,26" text-anchor="start" x="5.7529296875" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">derrick</text>
+<text aria-label="14,21,231,245" text-anchor="end" x="21.5" y="244.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="14,21,202,216" text-anchor="end" x="21.5" y="215.92857142857144" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">5</text>
+<text aria-label="7,21,174,188" text-anchor="end" x="21.5" y="187.35714285714286" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">10</text>
+<text aria-label="7,21,145,159" text-anchor="end" x="21.5" y="158.78571428571428" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">15</text>
+<text aria-label="7,21,117,131" text-anchor="end" x="21.5" y="130.21428571428572" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">20</text>
+<text aria-label="7,21,88,102" text-anchor="end" x="21.5" y="101.64285714285714" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">25</text>
+<text aria-label="7,21,60,74" text-anchor="end" x="21.5" y="73.07142857142858" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">30</text>
+<text aria-label="7,21,31,45" text-anchor="end" x="21.5" y="44.5" font-family="avenir" font-size="13px" font-weight="normal" fill="#000" opacity="1">35</text>
+<line aria-label="23,28,240,240" x1="28.5" y1="240.5" x2="23.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,211,211" x1="28.5" y1="211.5" x2="23.5" y2="211.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,183,183" x1="28.5" y1="183.5" x2="23.5" y2="183.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,154,154" x1="28.5" y1="154.5" x2="23.5" y2="154.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,126,126" x1="28.5" y1="126.5" x2="23.5" y2="126.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,97,97" x1="28.5" y1="97.5" x2="23.5" y2="97.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,69,69" x1="28.5" y1="69.5" x2="23.5" y2="69.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="23,28,40,40" x1="28.5" y1="40.5" x2="23.5" y2="40.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="parse Money: anagram; Home Dubnium Cruiser: 14; partnerships: Tasty Road East" role="graphics-symbol" aria-roledescription="bar" d="M45.62250000000003,160.0h150.25500000000002v80h-150.25500000000002Z" fill="#fa696c"/>
+<path aria-label="parse Money: anagram; Home Dubnium Cruiser: 6; partnerships: Checking barring" role="graphics-symbol" aria-roledescription="bar" d="M45.62250000000003,125.71428571428572h150.25500000000002v34.28571428571428h-150.25500000000002Z" fill="#0a4abf"/>
+<path aria-label="parse Money: gravitas; Home Dubnium Cruiser: 28; partnerships: Tasty Road East" role="graphics-symbol" aria-roledescription="bar" d="M416.62250000000006,80.0h150.25500000000002v160h-150.25500000000002Z" fill="#fa696c"/>
+<path aria-label="parse Money: gravitas; Home Dubnium Cruiser: 5; partnerships: Checking barring" role="graphics-symbol" aria-roledescription="bar" d="M416.62250000000006,51.42857142857143h150.25500000000002v28.571428571428562h-150.25500000000002Z" fill="#0a4abf"/>
+<path aria-label="parse Money: catalysis; Home Dubnium Cruiser: 20; partnerships: Tasty Road East" role="graphics-symbol" aria-roledescription="bar" d="M231.12250000000003,125.71428571428572h150.25500000000002v114.28571428571428h-150.25500000000002Z" fill="#fa696c"/>
+<path aria-label="parse Money: catalysis; Home Dubnium Cruiser: 13; partnerships: Checking barring" role="graphics-symbol" aria-roledescription="bar" d="M231.12250000000003,51.42857142857143h150.25500000000002v74.28571428571429h-150.25500000000002Z" fill="#0a4abf"/>
+<path aria-label="parse Money: gripper; Home Dubnium Cruiser: 4; partnerships: Tasty Road East" role="graphics-symbol" aria-roledescription="bar" d="M602.1225000000001,217.14285714285714h150.25500000000002v22.85714285714286h-150.25500000000002Z" fill="#fa696c"/>
+<path aria-label="parse Money: gripper; Home Dubnium Cruiser: 5; partnerships: Checking barring" role="graphics-symbol" aria-roledescription="bar" d="M602.1225000000001,188.57142857142858h150.25500000000002v28.571428571428555h-150.25500000000002Z" fill="#0a4abf"/>
+<text aria-label="114,126,144,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.75000000000004" y="155.209" font-family="avenir" font-size="11.129999999999999px" fill="#000" opacity="1">14</text>
+<text aria-label="117,123,109,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="120.75000000000004" y="120.92328571428573" font-family="avenir" font-size="11.129999999999999px" fill="#000" opacity="1">6</text>
+<text aria-label="485,497,64,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="491.75000000000006" y="75.209" font-family="avenir" font-size="11.129999999999999px" fill="#000" opacity="1">28</text>
+<text aria-label="488,494,35,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="491.75000000000006" y="46.637571428571434" font-family="avenir" font-size="11.129999999999999px" fill="#000" opacity="1">5</text>
+<text aria-label="300,312,109,121" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="306.25000000000006" y="120.92328571428573" font-family="avenir" font-size="11.129999999999999px" fill="#000" opacity="1">20</text>
+<text aria-label="300,312,35,47" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="306.25000000000006" y="46.637571428571434" font-family="avenir" font-size="11.129999999999999px" fill="#000" opacity="1">13</text>
+<text aria-label="674,680,201,213" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="677.2500000000001" y="212.35185714285714" font-family="avenir" font-size="11.129999999999999px" fill="#000" opacity="1">4</text>
+<text aria-label="674,680,172,184" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="677.2500000000001" y="183.7804285714286" font-family="avenir" font-size="11.129999999999999px" fill="#000" opacity="1">5</text>
+</svg>

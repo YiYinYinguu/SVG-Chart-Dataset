@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="651" height="316" viewBox="0 0 651 316" style="background-color: rgb(255, 255, 255);">
+<line x1="95.5" y1="34.5" x2="95.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="176.5" y1="34.5" x2="176.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="257.5" y1="34.5" x2="257.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="338.5" y1="34.5" x2="338.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="419.5" y1="34.5" x2="419.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="500.5" y1="34.5" x2="500.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="55.5" y1="234.5" x2="541.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="55.5" y1="190.5" x2="541.5" y2="190.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="55.5" y1="145.5" x2="541.5" y2="145.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="55.5" y1="101.5" x2="541.5" y2="101.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="55.5" y1="56.5" x2="541.5" y2="56.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="84,100,241,273" text-anchor="end" x="95.49999999999999" y="241.5" transform="rotate(270.0, 100.49999999999999, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">camp</text>
+<text aria-label="165,181,241,281" text-anchor="end" x="176.5" y="241.5" transform="rotate(270.0, 181.5, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">crack</text>
+<text aria-label="246,262,241,297" text-anchor="end" x="257.5" y="241.5" transform="rotate(270.0, 262.5, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">guilder</text>
+<text aria-label="327,343,241,297" text-anchor="end" x="338.5" y="241.5" transform="rotate(270.0, 343.5, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">osmosis</text>
+<text aria-label="408,424,241,281" text-anchor="end" x="419.49999999999994" y="241.5" transform="rotate(270.0, 424.49999999999994, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">shelf</text>
+<text aria-label="489,505,241,305" text-anchor="end" x="500.49999999999994" y="241.5" transform="rotate(270.0, 505.49999999999994, 241.5)" font-family="avenir" font-size="15px" font-weight="normal" fill="#000" opacity="1">subgroup</text>
+<line aria-label="95,95,234,239" x1="95.5" y1="234.5" x2="95.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="176,176,234,239" x1="176.5" y1="234.5" x2="176.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="257,257,234,239" x1="257.5" y1="234.5" x2="257.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="338,338,234,239" x1="338.5" y1="234.5" x2="338.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="419,419,234,239" x1="419.5" y1="234.5" x2="419.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="500,500,234,239" x1="500.5" y1="234.5" x2="500.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="55,541,234,234" x1="55.5" y1="234.5" x2="541.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,174,0,26" text-anchor="start" x="5.24853515625" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Rest Keyboard</text>
+<text aria-label="40,48,224,240" text-anchor="end" x="48.5" y="239.5" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="24,48,180,196" text-anchor="end" x="48.5" y="195.05555555555557" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">200</text>
+<text aria-label="24,48,135,151" text-anchor="end" x="48.5" y="150.61111111111111" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">400</text>
+<text aria-label="24,48,91,107" text-anchor="end" x="48.5" y="106.16666666666667" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">600</text>
+<text aria-label="24,48,46,62" text-anchor="end" x="48.5" y="61.72222222222223" font-family="avenir" font-size="15px" font-weight="bold" fill="#000" opacity="1">800</text>
+<line aria-label="50,55,234,234" x1="55.5" y1="234.5" x2="50.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,190,190" x1="55.5" y1="190.5" x2="50.5" y2="190.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,145,145" x1="55.5" y1="145.5" x2="50.5" y2="145.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,101,101" x1="55.5" y1="101.5" x2="50.5" y2="101.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="50,55,56,56" x1="55.5" y1="56.5" x2="50.5" y2="56.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="2,14,98,170" text-anchor="middle" x="16.74853515625" y="134.5" transform="rotate(-90.0, 14.74853515625, 134.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">deposit feed</text>
+<path aria-label="Touring Gasoline Bicycle: camp; deposit feed: 281; since quasi Gasoline: Volvo fax Soap" role="graphics-symbol" aria-roledescription="bar" d="M73.62999999999998,171.55555555555557h43.74000000000001v62.44444444444443h-43.74000000000001Z" fill="#b21907"/>
+<path aria-label="Touring Gasoline Bicycle: shelf; deposit feed: 294; since quasi Gasoline: Volvo fax Soap" role="graphics-symbol" aria-roledescription="bar" d="M397.62999999999994,168.66666666666666h43.74000000000001v65.33333333333334h-43.74000000000001Z" fill="#b21907"/>
+<path aria-label="Touring Gasoline Bicycle: crack; deposit feed: 106; since quasi Gasoline: Volvo fax Soap" role="graphics-symbol" aria-roledescription="bar" d="M154.63,210.44444444444446h43.74000000000001v23.555555555555543h-43.74000000000001Z" fill="#b21907"/>
+<path aria-label="Touring Gasoline Bicycle: subgroup; deposit feed: 850; since quasi Gasoline: Volvo fax Soap" role="graphics-symbol" aria-roledescription="bar" d="M478.62999999999994,45.111111111111114h43.74000000000001v188.88888888888889h-43.74000000000001Z" fill="#b21907"/>
+<path aria-label="Touring Gasoline Bicycle: guilder; deposit feed: 790; since quasi Gasoline: Volvo fax Soap" role="graphics-symbol" aria-roledescription="bar" d="M235.63,58.44444444444444h43.74000000000001v175.55555555555554h-43.74000000000001Z" fill="#b21907"/>
+<path aria-label="Touring Gasoline Bicycle: osmosis; deposit feed: 187; since quasi Gasoline: Volvo fax Soap" role="graphics-symbol" aria-roledescription="bar" d="M316.63,192.44444444444443h43.74000000000001v41.55555555555557h-43.74000000000001Z" fill="#b21907"/>
+<text aria-label="89,101,161,169" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="95.49999999999999" y="168.45255555555556" font-family="avenir" font-size="7.29px" fill="#000" opacity="1">281</text>
+<text aria-label="413,425,158,166" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="419.49999999999994" y="165.56366666666665" font-family="avenir" font-size="7.29px" fill="#000" opacity="1">294</text>
+<text aria-label="170,182,200,208" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="176.5" y="207.34144444444445" font-family="avenir" font-size="7.29px" fill="#000" opacity="1">106</text>
+<text aria-label="494,506,34,43" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="500.49999999999994" y="42.00811111111112" font-family="avenir" font-size="7.29px" fill="#000" opacity="1">850</text>
+<text aria-label="251,263,48,56" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="257.5" y="55.34144444444445" font-family="avenir" font-size="7.29px" fill="#000" opacity="1">790</text>
+<text aria-label="332,344,182,190" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="338.5" y="189.34144444444442" font-family="avenir" font-size="7.29px" fill="#000" opacity="1">187</text>
+<path  d="M560.0,35.0h10v10h-10Z" fill="#b21907" stroke-width="1.5" opacity="1"/>
+<text aria-label="575,652,33,44" text-anchor="start" x="575.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Volvo fax Soap</text>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="569" height="299" viewBox="0 0 569 299" style="background-color: rgb(255, 255, 255);">
+<line x1="72.5" y1="43.5" x2="72.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="138.5" y1="43.5" x2="138.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="203.5" y1="43.5" x2="203.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="269.5" y1="43.5" x2="269.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="334.5" y1="43.5" x2="334.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="400.5" y1="43.5" x2="400.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="465.5" y1="43.5" x2="465.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="531.5" y1="43.5" x2="531.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="243.5" x2="564.5" y2="243.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="193.5" x2="564.5" y2="193.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="143.5" x2="564.5" y2="143.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="93.5" x2="564.5" y2="93.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<line x1="40.5" y1="43.5" x2="564.5" y2="43.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="1,0" opacity="1"/>
+<text aria-label="64,75,250,294" text-anchor="end" x="72.74999999999997" y="250.5" transform="rotate(270.0, 75.74999999999997, 250.5)" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">barracks</text>
+<text aria-label="130,141,250,278" text-anchor="end" x="138.24999999999997" y="250.5" transform="rotate(270.0, 141.24999999999997, 250.5)" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">eaves</text>
+<text aria-label="195,206,250,272" text-anchor="end" x="203.74999999999997" y="250.5" transform="rotate(270.0, 206.74999999999997, 250.5)" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">lieu</text>
+<text aria-label="261,272,250,267" text-anchor="end" x="269.25" y="250.5" transform="rotate(270.0, 272.25, 250.5)" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">lip</text>
+<text aria-label="326,337,250,283" text-anchor="end" x="334.75" y="250.5" transform="rotate(270.0, 337.75, 250.5)" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">loafer</text>
+<text aria-label="392,403,250,278" text-anchor="end" x="400.25" y="250.5" transform="rotate(270.0, 403.25, 250.5)" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">scent</text>
+<text aria-label="457,468,250,294" text-anchor="end" x="465.75" y="250.5" transform="rotate(270.0, 468.75, 250.5)" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">take-out</text>
+<text aria-label="523,534,250,272" text-anchor="end" x="531.25" y="250.5" transform="rotate(270.0, 534.25, 250.5)" font-family="avenir" font-size="10px" font-weight="bold" fill="#000" opacity="1">tile</text>
+<line aria-label="72,72,243,248" x1="72.5" y1="243.5" x2="72.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="138,138,243,248" x1="138.5" y1="243.5" x2="138.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="203,203,243,248" x1="203.5" y1="243.5" x2="203.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="269,269,243,248" x1="269.5" y1="243.5" x2="269.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="334,334,243,248" x1="334.5" y1="243.5" x2="334.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="400,400,243,248" x1="400.5" y1="243.5" x2="400.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="465,465,243,248" x1="465.5" y1="243.5" x2="465.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="531,531,243,248" x1="531.5" y1="243.5" x2="531.5" y2="248.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,564,243,243" x1="40.5" y1="243.5" x2="564.5" y2="243.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="330,564,0,26" text-anchor="end" x="564.0" y="25.498000000000005" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">tempora Technician</text>
+<text aria-label="33,38,236,247" text-anchor="end" x="38.5" y="246.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">0</text>
+<text aria-label="22,38,186,197" text-anchor="end" x="38.5" y="196.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">100</text>
+<text aria-label="22,38,136,147" text-anchor="end" x="38.5" y="146.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">200</text>
+<text aria-label="22,38,86,97" text-anchor="end" x="38.5" y="96.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">300</text>
+<text aria-label="22,38,36,47" text-anchor="end" x="38.5" y="46.5" font-family="avenir" font-size="10px" font-weight="normal" fill="#000" opacity="1">400</text>
+<text aria-label="2,14,95,191" text-anchor="middle" x="16.9072265625" y="143.5" transform="rotate(-90.0, 14.9072265625, 143.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">synthesizing USB</text>
+<line aria-label="40,40,43,243" x1="40.5" y1="243.5" x2="40.5" y2="43.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="Akron metrics: lip; synthesizing USB: 71; Cliff Lombard: Arizona" role="graphics-symbol" aria-roledescription="bar" d="M254.5125,137.5h29.475v35.5h-29.475Z" fill="#bbe3ea"/>
+<path aria-label="Akron metrics: lip; synthesizing USB: 140; Cliff Lombard: Elegant oof database" role="graphics-symbol" aria-roledescription="bar" d="M254.5125,173.0h29.475v70h-29.475Z" fill="#3975ce"/>
+<path aria-label="Akron metrics: lieu; synthesizing USB: 231; Cliff Lombard: Arizona" role="graphics-symbol" aria-roledescription="bar" d="M189.0125,44.0h29.475v115.5h-29.475Z" fill="#bbe3ea"/>
+<path aria-label="Akron metrics: lieu; synthesizing USB: 167; Cliff Lombard: Elegant oof database" role="graphics-symbol" aria-roledescription="bar" d="M189.0125,159.5h29.475v83.5h-29.475Z" fill="#3975ce"/>
+<path aria-label="Akron metrics: barracks; synthesizing USB: 170; Cliff Lombard: Arizona" role="graphics-symbol" aria-roledescription="bar" d="M58.012499999999974,140.0h29.475v85h-29.475Z" fill="#bbe3ea"/>
+<path aria-label="Akron metrics: barracks; synthesizing USB: 36; Cliff Lombard: Elegant oof database" role="graphics-symbol" aria-roledescription="bar" d="M58.012499999999974,225.0h29.475v18h-29.475Z" fill="#3975ce"/>
+<path aria-label="Akron metrics: take-out; synthesizing USB: 228; Cliff Lombard: Arizona" role="graphics-symbol" aria-roledescription="bar" d="M451.0125,126.0h29.475v114h-29.475Z" fill="#bbe3ea"/>
+<path aria-label="Akron metrics: take-out; synthesizing USB: 6; Cliff Lombard: Elegant oof database" role="graphics-symbol" aria-roledescription="bar" d="M451.0125,240.0h29.475v3h-29.475Z" fill="#3975ce"/>
+<path aria-label="Akron metrics: eaves; synthesizing USB: 115; Cliff Lombard: Arizona" role="graphics-symbol" aria-roledescription="bar" d="M123.51249999999997,144.0h29.475v57.5h-29.475Z" fill="#bbe3ea"/>
+<path aria-label="Akron metrics: eaves; synthesizing USB: 83; Cliff Lombard: Elegant oof database" role="graphics-symbol" aria-roledescription="bar" d="M123.51249999999997,201.5h29.475v41.5h-29.475Z" fill="#3975ce"/>
+<path aria-label="Akron metrics: loafer; synthesizing USB: 206; Cliff Lombard: Arizona" role="graphics-symbol" aria-roledescription="bar" d="M320.0125,91.5h29.475v103h-29.475Z" fill="#bbe3ea"/>
+<path aria-label="Akron metrics: loafer; synthesizing USB: 97; Cliff Lombard: Elegant oof database" role="graphics-symbol" aria-roledescription="bar" d="M320.0125,194.5h29.475v48.5h-29.475Z" fill="#3975ce"/>
+<path aria-label="Akron metrics: tile; synthesizing USB: 229; Cliff Lombard: Arizona" role="graphics-symbol" aria-roledescription="bar" d="M516.5125,125.0h29.475v114.5h-29.475Z" fill="#bbe3ea"/>
+<path aria-label="Akron metrics: tile; synthesizing USB: 7; Cliff Lombard: Elegant oof database" role="graphics-symbol" aria-roledescription="bar" d="M516.5125,239.5h29.475v3.5h-29.475Z" fill="#3975ce"/>
+<path aria-label="Akron metrics: scent; synthesizing USB: 138; Cliff Lombard: Arizona" role="graphics-symbol" aria-roledescription="bar" d="M385.5125,68.0h29.475v69h-29.475Z" fill="#bbe3ea"/>
+<path aria-label="Akron metrics: scent; synthesizing USB: 212; Cliff Lombard: Elegant oof database" role="graphics-symbol" aria-roledescription="bar" d="M385.5125,137.0h29.475v106h-29.475Z" fill="#3975ce"/>
+<text aria-label="264,273,126,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="269.25" y="133.998" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">71</text>
+<text aria-label="262,275,161,170" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="269.25" y="169.498" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">140</text>
+<text aria-label="197,210,32,41" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="203.74999999999997" y="40.498000000000005" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">231</text>
+<text aria-label="197,210,148,156" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="203.74999999999997" y="155.998" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">167</text>
+<text aria-label="66,79,128,137" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="72.74999999999997" y="136.498" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">170</text>
+<text aria-label="68,77,213,222" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="72.74999999999997" y="221.498" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">36</text>
+<text aria-label="459,472,114,123" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="465.75" y="122.498" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">228</text>
+<text aria-label="463,467,228,237" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="465.75" y="236.498" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">6</text>
+<text aria-label="131,144,132,141" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.24999999999997" y="140.498" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">115</text>
+<text aria-label="133,142,190,198" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="138.24999999999997" y="197.998" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">83</text>
+<text aria-label="328,341,80,88" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="334.75" y="87.998" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">206</text>
+<text aria-label="330,339,183,191" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="334.75" y="190.998" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">97</text>
+<text aria-label="524,537,113,122" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="531.25" y="121.498" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">229</text>
+<text aria-label="529,533,228,236" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="531.25" y="235.998" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">7</text>
+<text aria-label="393,406,56,65" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="400.25" y="64.498" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">138</text>
+<text aria-label="393,406,125,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="400.25" y="133.498" font-family="avenir" font-size="7.859999999999999px" fill="#000" opacity="1">212</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="493" height="287" viewBox="0 0 493 287" style="background-color: rgb(255, 255, 255);">
+<line x1="95.5" y1="34.5" x2="95.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="208.5" y1="34.5" x2="208.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="320.5" y1="34.5" x2="320.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="432.5" y1="34.5" x2="432.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="40.5" y1="234.5" x2="488.5" y2="234.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="40.5" y1="172.5" x2="488.5" y2="172.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="40.5" y1="109.5" x2="488.5" y2="109.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<line x1="40.5" y1="47.5" x2="488.5" y2="47.5" stroke="#D0D0D0" stroke-width="1" stroke-dasharray="4, 2" opacity="1"/>
+<text aria-label="87,99,241,277" text-anchor="end" x="96.0" y="241.5" transform="rotate(270.0, 99.0, 241.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">candle</text>
+<text aria-label="199,211,241,265" text-anchor="end" x="208.0" y="241.5" transform="rotate(270.0, 211.0, 241.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">chin</text>
+<text aria-label="311,323,241,271" text-anchor="end" x="320.0" y="241.5" transform="rotate(270.0, 323.0, 241.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">fault</text>
+<text aria-label="423,435,241,283" text-anchor="end" x="432.0" y="241.5" transform="rotate(270.0, 435.0, 241.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">service</text>
+<line aria-label="95,95,234,239" x1="95.5" y1="234.5" x2="95.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="208,208,234,239" x1="208.5" y1="234.5" x2="208.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="320,320,234,239" x1="320.5" y1="234.5" x2="320.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="432,432,234,239" x1="432.5" y1="234.5" x2="432.5" y2="239.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="40,488,234,234" x1="40.5" y1="234.5" x2="488.5" y2="234.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="163,488,0,26" text-anchor="end" x="488.0" y="25.0" font-family="serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">orchestrate Balboa Mexico</text>
+<text aria-label="32,38,226,238" text-anchor="end" x="38.5" y="237.5" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="26,38,164,176" text-anchor="end" x="38.5" y="175.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">50</text>
+<text aria-label="20,38,101,113" text-anchor="end" x="38.5" y="112.5" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">100</text>
+<text aria-label="20,38,39,51" text-anchor="end" x="38.5" y="50.0" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">150</text>
+<text aria-label="3,15,107,161" text-anchor="middle" x="17.35546875" y="134.5" transform="rotate(-90.0, 15.35546875, 134.5)" font-family="serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">auxiliary</text>
+<path aria-label="Sum Supervisor: candle; auxiliary: 76; Peso: Miami payment Dodge" role="graphics-symbol" aria-roledescription="bar" d="M55.67999999999999,139.0h80.64v95h-80.64Z" fill="#abd610"/>
+<path aria-label="Sum Supervisor: fault; auxiliary: 100; Peso: Miami payment Dodge" role="graphics-symbol" aria-roledescription="bar" d="M279.68,109.0h80.64v125h-80.64Z" fill="#abd610"/>
+<path aria-label="Sum Supervisor: service; auxiliary: 55; Peso: Miami payment Dodge" role="graphics-symbol" aria-roledescription="bar" d="M391.68,165.25h80.64v68.75h-80.64Z" fill="#abd610"/>
+<path aria-label="Sum Supervisor: chin; auxiliary: 141; Peso: Miami payment Dodge" role="graphics-symbol" aria-roledescription="bar" d="M167.68,57.75h80.64v176.25h-80.64Z" fill="#abd610"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="318" height="239" viewBox="0 0 318 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,213,0,26" text-anchor="middle" x="109.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Classical Modern</text>
+<path aria-label="Bronze neutral: 581; productize yippee copying: cumque" role="graphics-symbol" aria-roledescription="arc mark"  d="M108.99999999999999,59.0A75,75,0,0,0,34.29051764821796,127.4050590049064L57.20142556943111,129.4275075767351A52,52,0,0,1,108.99999999999999,82.0Z" fill="#5ee9cf" stroke="white" stroke-width="3"/>
+<path aria-label="Bronze neutral: 943; productize yippee copying: Cambridgeshire" role="graphics-symbol" aria-roledescription="arc mark"  d="M159.29375121952728,189.63756454292636A75,75,0,0,0,109.0,59.0L109.0,82.0A52,52,0,0,1,143.87033417887227,172.57537808309561Z" fill="#23007a" stroke="white" stroke-width="3"/>
+<path aria-label="Bronze neutral: 938; productize yippee copying: Genderqueer" role="graphics-symbol" aria-roledescription="arc mark"  d="M34.29051764821796,127.4050590049064A75,75,0,0,0,159.29375121952728,189.63756454292636L143.87033417887227,172.57537808309561A52,52,0,0,1,57.20142556943111,129.4275075767351Z" fill="#83c326" stroke="white" stroke-width="3"/>
+<text aria-label="40,55,61,71" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="48.22275766156431" y="70.62133766235523" font-family="monospace" font-size="9px" fill="#5ee9cf" opacity="1">581</text>
+<text aria-label="185,200,95,105" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.99064522503699" y="104.66470172269976" font-family="monospace" font-size="9px" fill="#23007a" opacity="1">943</text>
+<text aria-label="61,76,208,218" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="68.88959533968264" y="217.56770716599544" font-family="monospace" font-size="9px" fill="#83c326" opacity="1">938</text>
+<path  d="M238.0,40.0A5,5,0,1,1,228.0,40.0A5,5,0,1,1,238.0,40.0" fill="#23007a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M238.0,56.0A5,5,0,1,1,228.0,56.0A5,5,0,1,1,238.0,56.0" fill="#83c326" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M238.0,72.0A5,5,0,1,1,228.0,72.0A5,5,0,1,1,238.0,72.0" fill="#5ee9cf" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="243,320,33,44" text-anchor="start" x="243.0" y="43.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cambridgeshire</text>
+<text aria-label="243,303,49,60" text-anchor="start" x="243.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Genderqueer</text>
+<text aria-label="243,276,65,76" text-anchor="start" x="243.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">cumque</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="400" height="239" viewBox="0 0 400 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="275,314,0,26" text-anchor="middle" x="295.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">yum</text>
+<path aria-label="Berkshire harness: 263; payment extranet Functionality: yellow" role="graphics-symbol" aria-roledescription="arc mark"  d="M295.0,59.0A75,75,0,0,0,220.06419317505635,137.10239512227687L295.0,134.0Z" fill="#59addf" stroke="white" stroke-width="0"/>
+<path aria-label="Berkshire harness: 480; payment extranet Functionality: HEX" role="graphics-symbol" aria-roledescription="arc mark"  d="M227.73666264854853,167.1759468341875A75,75,0,0,0,367.49868844069385,114.79218454953293L295.0,134.0Z" fill="#f05c19" stroke="white" stroke-width="0"/>
+<path aria-label="Berkshire harness: 214; payment extranet Functionality: Gloves" role="graphics-symbol" aria-roledescription="arc mark"  d="M367.49868844069385,114.79218454953293A75,75,0,0,0,295.0,59.0L295.0,134.0Z" fill="#482ac1" stroke="white" stroke-width="0"/>
+<path aria-label="Berkshire harness: 68; payment extranet Functionality: taxpayer" role="graphics-symbol" aria-roledescription="arc mark"  d="M220.06419317505635,137.10239512227687A75,75,0,0,0,227.73666264854853,167.1759468341875L295.0,134.0Z" fill="#b3d9cd" stroke="white" stroke-width="0"/>
+<text aria-label="219,240,62,76" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="230.05749206719105" y="75.69052509130697" font-family="monospace" font-size="13px" fill="#59addf" opacity="1">263</text>
+<text aria-label="316,337,209,223" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="326.58683717570057" y="222.27497681539745" font-family="monospace" font-size="13px" fill="#f05c19" opacity="1">480</text>
+<text aria-label="339,360,53,67" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="349.88877813975074" y="66.6752354765526" font-family="monospace" font-size="13px" fill="#482ac1" opacity="1">214</text>
+<text aria-label="200,214,147,161" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="207.79331767493653" y="160.24847315784757" font-family="monospace" font-size="13px" fill="#b3d9cd" opacity="1">68</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#482ac1" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#f05c19" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#b3d9cd" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#59addf" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Gloves</text>
+<text aria-label="21,37,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">HEX</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">taxpayer</text>
+<text aria-label="21,54,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">yellow</text>
+<text aria-label="5,185,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">payment extranet Functionality</text>
+</svg>

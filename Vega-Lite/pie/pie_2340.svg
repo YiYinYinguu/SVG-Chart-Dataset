@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="306" height="239" viewBox="0 0 306 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,161,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">payment Soul</text>
+<path aria-label="invoice brr: 160; comic: merrily" role="graphics-symbol" aria-roledescription="arc mark"  d="M128.37598508011138,159.2437817411605A75,75,0,0,0,178.53203604087844,206.15304880161406L186.44631543840543,178.25386993165662A46,46,0,0,1,155.68393751580163,149.4828528012451Z" fill="#a2f98d" stroke="white" stroke-width="2"/>
+<path aria-label="invoice brr: 170; comic: Throughway" role="graphics-symbol" aria-roledescription="arc mark"  d="M266.52423124797747,166.6416634743032A75,75,0,0,0,262.53394667645296,94.14479181193968L237.96748729489116,109.555472311323A46,46,0,0,1,240.41486183209287,154.0202202642393Z" fill="#e2afff" stroke="white" stroke-width="2"/>
+<path aria-label="invoice brr: 2; comic: reasonable" role="graphics-symbol" aria-roledescription="arc mark"  d="M147.60699128755658,79.37620797232479A75,75,0,0,0,146.96123188895027,79.99105061673211L167.0828888918895,100.87451104492902A46,46,0,0,1,167.47895465636802,100.4974075563592Z" fill="#4f1a5f" stroke="white" stroke-width="2"/>
+<path aria-label="invoice brr: 170; comic: Jeramie" role="graphics-symbol" aria-roledescription="arc mark"  d="M262.53394667645296,94.14479181193968A75,75,0,0,0,199.0,59.0L199.0,88.0A46,46,0,0,1,237.96748729489116,109.555472311323Z" fill="#f19bbc" stroke="white" stroke-width="2"/>
+<path aria-label="invoice brr: 193; comic: olive" role="graphics-symbol" aria-roledescription="arc mark"  d="M146.96123188895027,79.99105061673211A75,75,0,0,0,128.37598508011138,159.2437817411605L155.68393751580163,149.4828528012451A46,46,0,0,1,167.0828888918895,100.87451104492902Z" fill="#23faec" stroke="white" stroke-width="2"/>
+<path aria-label="invoice brr: 63; comic: actually" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.53203604087844,206.15304880161406A75,75,0,0,0,206.34435299310752,208.63953697011144L203.5045365024393,179.77891600833502A46,46,0,0,1,186.44631543840543,178.25386993165662Z" fill="#c3bfb0" stroke="white" stroke-width="2"/>
+<path aria-label="invoice brr: 172; comic: Van" role="graphics-symbol" aria-roledescription="arc mark"  d="M206.34435299310752,208.63953697011144A75,75,0,0,0,266.52423124797747,166.6416634743032L240.41486183209287,154.0202202642393A46,46,0,0,1,203.5045365024393,179.77891600833502Z" fill="#0315eb" stroke="white" stroke-width="2"/>
+<path aria-label="invoice brr: 127; comic: viral" role="graphics-symbol" aria-roledescription="arc mark"  d="M199.0,59.0A75,75,0,0,0,147.60699128755658,79.37620797232479L167.47895465636802,100.4974075563592A46,46,0,0,1,199.0,88.0Z" fill="#7eaf5d" stroke="white" stroke-width="2"/>
+<text aria-label="127,148,190,204" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="137.52348364775798" y="203.73155967412092" font-family="avenir" font-size="13px" fill="#a2f98d" opacity="1">160</text>
+<text aria-label="278,299,120,134" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="288.8639820206756" y="133.0538160782596" font-family="avenir" font-size="13px" fill="#e2afff" opacity="1">170</text>
+<text aria-label="133,140,59,73" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="136.93983744942955" y="72.81920356273042" font-family="avenir" font-size="13px" fill="#4f1a5f" opacity="1">2</text>
+<text aria-label="232,253,46,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="242.56396168675138" y="59.24607157636352" font-family="avenir" font-size="13px" fill="#f19bbc" opacity="1">170</text>
+<text aria-label="100,121,104,118" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="111.37708437076886" y="117.45189408649449" font-family="avenir" font-size="13px" fill="#23faec" opacity="1">193</text>
+<text aria-label="183,197,214,228" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.9857474614428" y="227.6424662548294" font-family="avenir" font-size="13px" fill="#c3bfb0" opacity="1">63</text>
+<text aria-label="240,261,198,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="250.50616916832752" y="211.80456989647476" font-family="avenir" font-size="13px" fill="#0315eb" opacity="1">172</text>
+<text aria-label="155,176,41,55" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.82900015818728" y="54.33588123039566" font-family="avenir" font-size="13px" fill="#7eaf5d" opacity="1">127</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#f19bbc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#e2afff" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#0315eb" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#c3bfb0" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#a2f98d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#23faec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#4f1a5f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,152.0A5,5,0,1,1,6.0,152.0A5,5,0,1,1,16.0,152.0" fill="#7eaf5d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Jeramie</text>
+<text aria-label="21,76,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Throughway</text>
+<text aria-label="21,37,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Van</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">actually</text>
+<text aria-label="21,59,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">merrily</text>
+<text aria-label="21,48,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">olive</text>
+<text aria-label="21,76,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">reasonable</text>
+<text aria-label="21,48,145,156" text-anchor="start" x="21.0" y="155.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">viral</text>
+</svg>

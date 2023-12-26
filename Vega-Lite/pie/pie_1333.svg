@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="114,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Quality</text>
+<path aria-label="Buckinghamshire International: 901; Marketing: Avon" role="graphics-symbol" aria-roledescription="arc mark"  d="M106.68749000448986,208.98101344663692A75,75,0,0,0,105.0,59.0L105.0,92.0A42,42,0,0,1,105.94499440251433,175.98936753011668Z" fill="#e2c535" stroke="white" stroke-width="1"/>
+<path aria-label="Buckinghamshire International: 133; Marketing: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M73.19581993802989,201.92270703222732A75,75,0,0,0,106.68749000448986,208.98101344663692L105.94499440251433,175.98936753011668A42,42,0,0,1,87.18965916529673,172.03671593804728Z" fill="#7a0ee3" stroke="white" stroke-width="1"/>
+<path aria-label="Buckinghamshire International: 781; Marketing: bloom" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,73.19581993802989,201.92270703222732L87.18965916529673,172.03671593804728A42,42,0,0,1,104.99999999999999,92.0Z" fill="#cddab1" stroke="white" stroke-width="1"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#e2c535" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,274.25A5,5,0,1,1,53.0,274.25A5,5,0,1,1,63.0,274.25" fill="#7a0ee3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M135.0,274.25A5,5,0,1,1,125.0,274.25A5,5,0,1,1,135.0,274.25" fill="#cddab1" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,267,278" text-anchor="start" x="21.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Avon</text>
+<text aria-label="68,117,267,278" text-anchor="start" x="68.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="140,167,267,278" text-anchor="start" x="140.0" y="277.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">bloom</text>
+<text aria-label="5,59,250,262" text-anchor="start" x="5.0" y="261.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">Marketing</text>
+</svg>

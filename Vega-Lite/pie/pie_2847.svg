@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="292" height="239" viewBox="0 0 292 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="235,287,0,26" text-anchor="end" x="287.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">when</text>
+<path aria-label="aliquid: 389; Borders glaring forenenst: Estates" role="graphics-symbol" aria-roledescription="arc mark"  d="M135.98283223684064,202.30127456046327A75,75,0,0,0,105.0,59.0L105.0,100.0A34,34,0,0,1,119.04555061403443,164.96324446741002Z" fill="#06ed3b" stroke="white" stroke-width="2"/>
+<path aria-label="aliquid: 270; Borders glaring forenenst: Officer" role="graphics-symbol" aria-roledescription="arc mark"  d="M30.467406062955277,142.36016991547444A75,75,0,0,0,135.98283223684064,202.30127456046327L119.04555061403443,164.96324446741002A34,34,0,0,1,71.21189074853973,137.78994369501507Z" fill="#2fbadf" stroke="white" stroke-width="2"/>
+<path aria-label="aliquid: 112; Borders glaring forenenst: Ytterbium" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,52.15243425273038,80.78219475976096L81.04243686123777,109.87459495775829A34,34,0,0,1,105.0,100.0Z" fill="#efcce6" stroke="white" stroke-width="2"/>
+<path aria-label="aliquid: 129; Borders glaring forenenst: Rubber" role="graphics-symbol" aria-roledescription="arc mark"  d="M52.15243425273038,80.78219475976096A75,75,0,0,0,30.467406062955277,142.36016991547444L71.21189074853973,137.78994369501507A34,34,0,0,1,81.04243686123777,109.87459495775829Z" fill="#50240e" stroke="white" stroke-width="2"/>
+<text aria-label="186,199,108,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="192.96743048574862" y="116.98076831901501" font-family="avenir" font-size="8px" fill="#06ed3b" opacity="1">389</text>
+<text aria-label="53,67,206,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="60.54523200741923" y="214.25454365546972" font-family="avenir" font-size="8px" fill="#2fbadf" opacity="1">270</text>
+<text aria-label="63,77,44,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="70.70366612847533" y="52.79085697489181" font-family="avenir" font-size="8px" fill="#efcce6" opacity="1">112</text>
+<text aria-label="13,26,98,107" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="20.10996078471591" y="106.1054981304667" font-family="avenir" font-size="8px" fill="#50240e" opacity="1">129</text>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#06ed3b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#2fbadf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#50240e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#efcce6" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Estates</text>
+<text aria-label="239,277,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Officer</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Rubber</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Ytterbium</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="462" height="286" viewBox="0 0 462 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,57,0,26" text-anchor="start" x="5.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Dale</text>
+<path aria-label="quasi: 654; HEX: Northwest" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.07506770453175,202.2556842819117A75,75,0,0,0,110.68432872718805,255.78427914288716L108.56217933570451,227.8648149295426A47,47,0,0,1,59.92704242817323,194.32022881666467Z" fill="#9431cc" stroke="white" stroke-width="1"/>
+<path aria-label="quasi: 397; HEX: lime" role="graphics-symbol" aria-roledescription="arc mark"  d="M45.57965061780932,135.23732875696183A75,75,0,0,0,31.066913171545025,193.60550165666317L58.66859892083488,188.89944770484226A47,47,0,0,1,67.76324772049384,152.32205935436275Z" fill="#38aaa6" stroke="white" stroke-width="1"/>
+<path aria-label="quasi: 57; HEX: Tricycle" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.066913171545025,193.60550165666317A75,75,0,0,0,33.07506770453175,202.2556842819117L59.92704242817323,194.32022881666467A47,47,0,0,1,58.66859892083488,188.89944770484226Z" fill="#7fd459" stroke="white" stroke-width="1"/>
+<path aria-label="quasi: 24; HEX: Intranet" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.96803348481262,198.3397257579024A75,75,0,0,0,178.74186812631243,194.67979843570615L151.21157069248912,189.57267368637585A47,47,0,0,1,150.72663431714926,191.86622814161885Z" fill="#58803c" stroke="white" stroke-width="1"/>
+<path aria-label="quasi: 188; HEX: Electric" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.74186812631243,194.67979843570615A75,75,0,0,0,178.39385662871143,165.56167725547385L150.99348348732582,171.32531774676363A47,47,0,0,1,151.21157069248912,189.57267368637585Z" fill="#f9ab3e" stroke="white" stroke-width="1"/>
+<path aria-label="quasi: 656; HEX: City" role="graphics-symbol" aria-roledescription="arc mark"  d="M178.39385662871143,165.56167725547385A75,75,0,0,0,105.0,106.0L105.0,134.0A47,47,0,0,1,150.99348348732582,171.32531774676363Z" fill="#bd0d52" stroke="white" stroke-width="1"/>
+<path aria-label="quasi: 607; HEX: Martin" role="graphics-symbol" aria-roledescription="arc mark"  d="M110.68432872718805,255.78427914288716A75,75,0,0,0,177.96803348481262,198.3397257579024L150.72663431714926,191.86622814161885A47,47,0,0,1,108.56217933570451,227.8648149295426Z" fill="#c2b93d" stroke="white" stroke-width="1"/>
+<path aria-label="quasi: 440; HEX: tan" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,45.57965061780932,135.23732875696183L67.76324772049384,152.32205935436275A47,47,0,0,1,104.99999999999999,134.0Z" fill="#bac0c4" stroke="white" stroke-width="1"/>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#bd0d52" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M62.0,56.25A5,5,0,1,1,52.0,56.25A5,5,0,1,1,62.0,56.25" fill="#f9ab3e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M124.0,56.25A5,5,0,1,1,114.0,56.25A5,5,0,1,1,124.0,56.25" fill="#58803c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M189.0,56.25A5,5,0,1,1,179.0,56.25A5,5,0,1,1,189.0,56.25" fill="#c2b93d" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M248.0,56.25A5,5,0,1,1,238.0,56.25A5,5,0,1,1,248.0,56.25" fill="#9431cc" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M326.0,56.25A5,5,0,1,1,316.0,56.25A5,5,0,1,1,326.0,56.25" fill="#7fd459" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M388.0,56.25A5,5,0,1,1,378.0,56.25A5,5,0,1,1,388.0,56.25" fill="#38aaa6" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M436.0,56.25A5,5,0,1,1,426.0,56.25A5,5,0,1,1,436.0,56.25" fill="#bac0c4" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">City</text>
+<text aria-label="67,111,49,60" text-anchor="start" x="67.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Electric</text>
+<text aria-label="129,173,49,60" text-anchor="start" x="129.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Intranet</text>
+<text aria-label="194,227,49,60" text-anchor="start" x="194.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Martin</text>
+<text aria-label="253,302,49,60" text-anchor="start" x="253.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Northwest</text>
+<text aria-label="331,375,49,60" text-anchor="start" x="331.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Tricycle</text>
+<text aria-label="393,415,49,60" text-anchor="start" x="393.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">lime</text>
+<text aria-label="441,457,49,60" text-anchor="start" x="441.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">tan</text>
+<text aria-label="5,23,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">HEX</text>
+</svg>

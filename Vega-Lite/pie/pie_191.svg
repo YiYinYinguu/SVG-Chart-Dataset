@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="295" height="239" viewBox="0 0 295 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,187,0,26" text-anchor="start" x="5.0" y="25.0" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000" opacity="1">South Gasoline</text>
+<path aria-label="Wiegand: 258; generate: Senior" role="graphics-symbol" aria-roledescription="arc mark"  d="M177.45246267341707,114.61854874997475A75,75,0,0,0,165.7168994255858,89.97207563212525L105.0,134.0Z" fill="#1daffa" stroke="white" stroke-width="0"/>
+<path aria-label="Wiegand: 602; generate: Analyst" role="graphics-symbol" aria-roledescription="arc mark"  d="M161.5448150725798,84.72846776882464A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#d1dc2b" stroke="white" stroke-width="0"/>
+<path aria-label="Wiegand: 63; generate: Coupe" role="graphics-symbol" aria-roledescription="arc mark"  d="M165.7168994255858,89.97207563212525A75,75,0,0,0,161.5448150725798,84.72846776882464L105.0,134.0Z" fill="#3ae31e" stroke="white" stroke-width="0"/>
+<path aria-label="Wiegand: 676; generate: Wyoming" role="graphics-symbol" aria-roledescription="arc mark"  d="M148.704293551609,194.95026435672602A75,75,0,0,0,179.99603309473994,133.22862457086677L105.0,134.0Z" fill="#57a9ec" stroke="white" stroke-width="0"/>
+<path aria-label="Wiegand: 708; generate: orange" role="graphics-symbol" aria-roledescription="arc mark"  d="M43.91054425702643,90.49047923698454A75,75,0,0,0,35.5046943288112,162.20288087532964L105.0,134.0Z" fill="#992dba" stroke="white" stroke-width="0"/>
+<path aria-label="Wiegand: 177; generate: Van" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.99603309473994,133.22862457086677A75,75,0,0,0,177.45246267341707,114.61854874997475L105.0,134.0Z" fill="#d28939" stroke="white" stroke-width="0"/>
+<path aria-label="Wiegand: 195; generate: sexy" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,84.51591272523454,61.85152691484184L105.0,134.0Z" fill="#c078ad" stroke="white" stroke-width="0"/>
+<path aria-label="Wiegand: 314; generate: reluctantly" role="graphics-symbol" aria-roledescription="arc mark"  d="M84.51591272523454,61.85152691484184A75,75,0,0,0,55.428352279566695,77.71810466694234L105.0,134.0Z" fill="#c4c775" stroke="white" stroke-width="0"/>
+<path aria-label="Wiegand: 162; generate: parse" role="graphics-symbol" aria-roledescription="arc mark"  d="M55.428352279566695,77.71810466694234A75,75,0,0,0,43.91054425702643,90.49047923698454L105.0,134.0Z" fill="#643cf7" stroke="white" stroke-width="0"/>
+<path aria-label="Wiegand: 663; generate: anti" role="graphics-symbol" aria-roledescription="arc mark"  d="M81.51531086428585,205.22829056069554A75,75,0,0,0,148.704293551609,194.95026435672602L105.0,134.0Z" fill="#2ab32e" stroke="white" stroke-width="0"/>
+<path aria-label="Wiegand: 611; generate: firmware" role="graphics-symbol" aria-roledescription="arc mark"  d="M35.5046943288112,162.20288087532964A75,75,0,0,0,81.51531086428585,205.22829056069554L105.0,134.0Z" fill="#fa4a8a" stroke="white" stroke-width="0"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#d1dc2b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#3ae31e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#1daffa" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#d28939" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#57a9ec" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,120.0A5,5,0,1,1,224.0,120.0A5,5,0,1,1,234.0,120.0" fill="#2ab32e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,136.0A5,5,0,1,1,224.0,136.0A5,5,0,1,1,234.0,136.0" fill="#fa4a8a" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,152.0A5,5,0,1,1,224.0,152.0A5,5,0,1,1,234.0,152.0" fill="#992dba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,168.0A5,5,0,1,1,224.0,168.0A5,5,0,1,1,234.0,168.0" fill="#643cf7" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,184.0A5,5,0,1,1,224.0,184.0A5,5,0,1,1,234.0,184.0" fill="#c4c775" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,200.0A5,5,0,1,1,224.0,200.0A5,5,0,1,1,234.0,200.0" fill="#c078ad" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Analyst</text>
+<text aria-label="239,266,49,60" text-anchor="start" x="239.0" y="59.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Coupe</text>
+<text aria-label="239,272,65,76" text-anchor="start" x="239.0" y="75.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Senior</text>
+<text aria-label="239,255,81,92" text-anchor="start" x="239.0" y="91.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Van</text>
+<text aria-label="239,277,97,108" text-anchor="start" x="239.0" y="107.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Wyoming</text>
+<text aria-label="239,261,113,124" text-anchor="start" x="239.0" y="123.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">anti</text>
+<text aria-label="239,283,129,140" text-anchor="start" x="239.0" y="139.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">firmware</text>
+<text aria-label="239,272,145,156" text-anchor="start" x="239.0" y="155.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">orange</text>
+<text aria-label="239,266,161,172" text-anchor="start" x="239.0" y="171.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">parse</text>
+<text aria-label="239,299,177,188" text-anchor="start" x="239.0" y="187.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">reluctantly</text>
+<text aria-label="239,261,193,204" text-anchor="start" x="239.0" y="203.0" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">sexy</text>
+</svg>

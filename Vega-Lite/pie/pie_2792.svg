@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="33,176,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">smog Towels</text>
+<path aria-label="Peso explicit: 353; reboot person: meter" role="graphics-symbol" aria-roledescription="arc mark"  d="M32.01859579884581,151.28336312260302A75,75,0,1,0,172.8134567431588,101.96353508041611L143.87971519941107,115.63242677943856A43,43,0,1,1,63.15732825800493,143.9091281902924Z" fill="#e3586e" stroke="black" stroke-width="1"/>
+<path aria-label="Peso explicit: 119; reboot person: excitedly" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.8134567431588,101.96353508041611A75,75,0,0,0,105.0,59.0L105.0,91.0A43,43,0,0,1,143.87971519941107,115.63242677943856Z" fill="#dddca7" stroke="black" stroke-width="1"/>
+<path aria-label="Peso explicit: 190; reboot person: sensor" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,32.01859579884581,151.28336312260302L63.15732825800493,143.9091281902924A43,43,0,0,1,104.99999999999999,91.0Z" fill="#c4ffc1" stroke="black" stroke-width="1"/>
+<text aria-label="128,141,212,221" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="134.75390937094178" y="220.93941886512872" font-family="Balto" font-size="8px" fill="#e3586e" opacity="1">353</text>
+<text aria-label="146,159,51,60" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.16669901853842" y="59.97389194719007" font-family="Balto" font-size="8px" fill="#dddca7" opacity="1">119</text>
+<text aria-label="27,41,72,81" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="34.40749608761166" y="80.17260178568736" font-family="Balto" font-size="8px" fill="#c4ffc1" opacity="1">190</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#dddca7" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M86.0,258.25A5,5,0,1,1,76.0,258.25A5,5,0,1,1,86.0,258.25" fill="#e3586e" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M142.0,258.25A5,5,0,1,1,132.0,258.25A5,5,0,1,1,142.0,258.25" fill="#c4ffc1" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,251,262" text-anchor="start" x="21.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">excitedly</text>
+<text aria-label="91,118,251,262" text-anchor="start" x="91.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">meter</text>
+<text aria-label="147,180,251,262" text-anchor="start" x="147.0" y="261.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">sensor</text>
+</svg>

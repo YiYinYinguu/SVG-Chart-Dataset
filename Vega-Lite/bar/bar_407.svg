@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="869" height="349" viewBox="0 0 869 349" style="background-color: rgb(255, 255, 255);">
+<text aria-label="146,160,247,282" text-anchor="end" x="156.8571428571429" y="247.5" transform="rotate(270.0, 160.8571428571429, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">genre</text>
+<text aria-label="343,357,247,275" text-anchor="end" x="353.28571428571433" y="247.5" transform="rotate(270.0, 357.28571428571433, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">hops</text>
+<text aria-label="539,553,247,324" text-anchor="end" x="549.7142857142858" y="247.5" transform="rotate(270.0, 553.7142857142858, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">independent</text>
+<text aria-label="736,750,247,345" text-anchor="end" x="746.1428571428571" y="247.5" transform="rotate(270.0, 750.1428571428571, 247.5)" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">interferometer</text>
+<line aria-label="156,156,240,245" x1="156.5" y1="240.5" x2="156.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="353,353,240,245" x1="353.5" y1="240.5" x2="353.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="549,549,240,245" x1="549.5" y1="240.5" x2="549.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="746,746,240,245" x1="746.5" y1="240.5" x2="746.5" y2="245.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line aria-label="39,864,240,240" x1="39.5" y1="240.5" x2="864.5" y2="240.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="5,109,0,26" text-anchor="start" x="5.9658203125" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">generate</text>
+<text aria-label="30,37,231,245" text-anchor="end" x="37.5" y="244.5" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">0</text>
+<text aria-label="23,37,181,195" text-anchor="end" x="37.5" y="194.5" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">20</text>
+<text aria-label="23,37,131,145" text-anchor="end" x="37.5" y="144.5" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">40</text>
+<text aria-label="23,37,81,95" text-anchor="end" x="37.5" y="94.5" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">60</text>
+<text aria-label="23,37,31,45" text-anchor="end" x="37.5" y="44.5" font-family="avenir" font-size="13px" font-weight="bold" fill="#000" opacity="1">80</text>
+<text aria-label="3,15,116,164" text-anchor="middle" x="17.4658203125" y="140.5" transform="rotate(-90.0, 15.4658203125, 140.5)" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">compress</text>
+<path aria-label="boohoo forenenst: interferometer; compress: 65; Southwest Southeast: Arthur" role="graphics-symbol" aria-roledescription="bar" d="M667.5714285714286,77.5h157.14285714285714v162.5h-157.14285714285714Z" fill="#8bfdb7"/>
+<path aria-label="boohoo forenenst: hops; compress: 3; Southwest Southeast: Arthur" role="graphics-symbol" aria-roledescription="bar" d="M274.7142857142858,232.5h157.14285714285714v7.5h-157.14285714285714Z" fill="#8bfdb7"/>
+<path aria-label="boohoo forenenst: independent; compress: 55; Southwest Southeast: Arthur" role="graphics-symbol" aria-roledescription="bar" d="M471.14285714285717,102.5h157.14285714285714v137.5h-157.14285714285714Z" fill="#8bfdb7"/>
+<path aria-label="boohoo forenenst: genre; compress: 75; Southwest Southeast: Arthur" role="graphics-symbol" aria-roledescription="bar" d="M78.28571428571433,52.5h157.14285714285714v187.5h-157.14285714285714Z" fill="#8bfdb7"/>
+</svg>

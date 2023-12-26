@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="27,183,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">Manager Audi</text>
+<path aria-label="inconsequential Southwest: 500; SMTP: bypass" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,1,0,170.16060760557545,218.13617126834998L105.0,181.0Z" fill="#1d5609" stroke="white" stroke-width="1"/>
+<path aria-label="inconsequential Southwest: 114; SMTP: Rap" role="graphics-symbol" aria-roledescription="arc mark"  d="M170.16060760557545,218.13617126834998A75,75,0,0,0,172.9101703479402,149.1690596539508L105.0,181.0Z" fill="#de8dee" stroke="white" stroke-width="1"/>
+<path aria-label="inconsequential Southwest: 135; SMTP: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M172.9101703479402,149.1690596539508A75,75,0,0,0,105.0,106.0L105.0,181.0Z" fill="#af79f5" stroke="white" stroke-width="1"/>
+<text aria-label="19,34,220,230" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="27.183849693711423" y="229.21777030669583" font-family="Balto" font-size="9px" fill="#1d5609" opacity="1">500</text>
+<text aria-label="187,202,178,188" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="194.92856050583302" y="187.58524829666362" font-family="Balto" font-size="9px" fill="#de8dee" opacity="1">114</text>
+<text aria-label="145,160,99,109" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="153.28176903670104" y="108.04691725356597" font-family="Balto" font-size="9px" fill="#af79f5" opacity="1">135</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#af79f5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M85.0,56.25A5,5,0,1,1,75.0,56.25A5,5,0,1,1,85.0,56.25" fill="#de8dee" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M131.0,56.25A5,5,0,1,1,121.0,56.25A5,5,0,1,1,131.0,56.25" fill="#1d5609" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="90,106,49,60" text-anchor="start" x="90.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Rap</text>
+<text aria-label="136,169,49,60" text-anchor="start" x="136.0" y="59.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">bypass</text>
+<text aria-label="5,29,32,44" text-anchor="start" x="5.0" y="43.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">SMTP</text>
+</svg>

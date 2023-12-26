@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="270" viewBox="0 0 210 270" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">Southeast</text>
+<path aria-label="Berkshire: 663; initiative Albania Diesel: blue" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,83.9546501422846,205.9867574583434L105.0,134.0Z" fill="#5e9c7d" stroke="white" stroke-width="1"/>
+<path aria-label="Berkshire: 350; initiative Albania Diesel: National" role="graphics-symbol" aria-roledescription="arc mark"  d="M83.9546501422846,205.9867574583434A75,75,0,0,0,175.5320549241738,159.4995927060283L105.0,134.0Z" fill="#22c89b" stroke="white" stroke-width="1"/>
+<path aria-label="Berkshire: 445; initiative Albania Diesel: Lead" role="graphics-symbol" aria-roledescription="arc mark"  d="M175.5320549241738,159.4995927060283A75,75,0,0,0,105.0,59.0L105.0,134.0Z" fill="#a88cb3" stroke="white" stroke-width="1"/>
+<text aria-label="9,21,116,124" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="15.908558757024565" y="123.24401719782223" font-family="monospace" font-size="7px" fill="#5e9c7d" opacity="1">663</text>
+<text aria-label="139,151,209,217" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="145.7381463424107" y="216.25212416244403" font-family="monospace" font-size="7px" fill="#22c89b" opacity="1">350</text>
+<text aria-label="172,184,77,85" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="178.66802567006616" y="84.29872347925564" font-family="monospace" font-size="7px" fill="#a88cb3" opacity="1">445</text>
+<path  d="M16.0,258.25A5,5,0,1,1,6.0,258.25A5,5,0,1,1,16.0,258.25" fill="#a88cb3" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M63.0,258.25A5,5,0,1,1,53.0,258.25A5,5,0,1,1,63.0,258.25" fill="#22c89b" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M130.0,258.25A5,5,0,1,1,120.0,258.25A5,5,0,1,1,130.0,258.25" fill="#5e9c7d" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,251,262" text-anchor="start" x="21.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">Lead</text>
+<text aria-label="68,112,251,262" text-anchor="start" x="68.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">National</text>
+<text aria-label="135,157,251,262" text-anchor="start" x="135.0" y="261.25" font-family="monospace" font-size="10px" fill="#000" opacity="1">blue</text>
+</svg>

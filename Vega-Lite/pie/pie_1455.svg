@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="59,150,0,26" text-anchor="middle" x="105.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Somalia</text>
+<path aria-label="despite: 318; Pants engage: Ball" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.46264356408767,172.03815234186408A75,75,0,0,0,105.0,106.0L105.0,147.0A34,34,0,0,1,138.75639841571973,176.9372957283117Z" fill="#ba2793" stroke="white" stroke-width="0"/>
+<path aria-label="despite: 204; Pants engage: SUV" role="graphics-symbol" aria-roledescription="arc mark"  d="M156.6545132217254,235.37656907001946A75,75,0,0,0,179.46264356408767,172.03815234186408L138.75639841571973,176.9372957283117A34,34,0,0,1,128.41671266051551,205.65071131174216Z" fill="#5ddd21" stroke="white" stroke-width="0"/>
+<path aria-label="despite: 341; Pants engage: Saudi" role="graphics-symbol" aria-roledescription="arc mark"  d="M51.39539741547103,233.45518641425946A75,75,0,0,0,156.6545132217254,235.37656907001946L128.41671266051551,205.65071131174216A34,34,0,0,1,80.69924682834687,204.7796845077976Z" fill="#22bd16" stroke="white" stroke-width="0"/>
+<path aria-label="despite: 514; Pants engage: so" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,106.0A75,75,0,0,0,51.39539741547103,233.45518641425946L80.69924682834687,204.7796845077976A34,34,0,0,1,105.0,147.0Z" fill="#a54eb8" stroke="white" stroke-width="0"/>
+<text aria-label="156,172,106,117" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="164.7164987793211" y="116.66546373858851" font-family="avenir" font-size="10px" fill="#ba2793" opacity="1">318</text>
+<text aria-label="181,197,204,215" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="189.67718238682755" y="214.4922085626467" font-family="avenir" font-size="10px" fill="#5ddd21" opacity="1">204</text>
+<text aria-label="95,111,263,274" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="103.35742837605204" y="273.98500963193925" font-family="avenir" font-size="10px" fill="#22bd16" opacity="1">341</text>
+<text aria-label="13,30,139,150" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="22.03868331342609" y="149.10845469701877" font-family="avenir" font-size="10px" fill="#a54eb8" opacity="1">514</text>
+<path  d="M16.0,56.25A5,5,0,1,1,6.0,56.25A5,5,0,1,1,16.0,56.25" fill="#ba2793" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M61.0,56.25A5,5,0,1,1,51.0,56.25A5,5,0,1,1,61.0,56.25" fill="#5ddd21" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M108.0,56.25A5,5,0,1,1,98.0,56.25A5,5,0,1,1,108.0,56.25" fill="#22bd16" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M162.0,56.25A5,5,0,1,1,152.0,56.25A5,5,0,1,1,162.0,56.25" fill="#a54eb8" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,43,49,60" text-anchor="start" x="21.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Ball</text>
+<text aria-label="66,82,49,60" text-anchor="start" x="66.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">SUV</text>
+<text aria-label="113,140,49,60" text-anchor="start" x="113.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Saudi</text>
+<text aria-label="167,178,49,60" text-anchor="start" x="167.0" y="59.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">so</text>
+<text aria-label="5,77,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">Pants engage</text>
+</svg>

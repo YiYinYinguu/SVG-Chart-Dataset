@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="210" height="286" viewBox="0 0 210 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="166,205,0,26" text-anchor="end" x="205.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">aha</text>
+<path aria-label="Dubnium Borders harness: 48; Bicycle South Frozen: payment" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,1,0,149.0838939219355,194.67627457812105L129.0991953439914,167.16969676937285A41,41,0,1,1,104.99999999999999,93.0Z" fill="#a9f9a2" stroke="white" stroke-width="0"/>
+<path aria-label="Dubnium Borders harness: 29; Bicycle South Frozen: Hybrid" role="graphics-symbol" aria-roledescription="arc mark"  d="M149.0838939219355,194.67627457812105A75,75,0,0,0,122.50840228919292,61.072255970174254L114.57125991809212,94.13283326369526A41,41,0,0,1,129.0991953439914,167.16969676937285Z" fill="#ad145c" stroke="white" stroke-width="0"/>
+<path aria-label="Dubnium Borders harness: 3; Bicycle South Frozen: Classical" role="graphics-symbol" aria-roledescription="arc mark"  d="M122.50840228919292,61.072255970174254A75,75,0,0,0,105.0,59.0L105.0,93.0A41,41,0,0,1,114.57125991809212,94.13283326369526Z" fill="#5acbe5" stroke="white" stroke-width="0"/>
+<text aria-label="13,24,154,165" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="19.404913533436186" y="164.81152949374527" font-family="Balto" font-size="10px" fill="#a9f9a2" opacity="1">48</text>
+<text aria-label="187,198,109,120" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="193.27067523629074" y="119.44187101854845" font-family="Balto" font-size="10px" fill="#ad145c" opacity="1">29</text>
+<text aria-label="112,118,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="115.5783657712054" y="47.62383887405663" font-family="Balto" font-size="10px" fill="#5acbe5" opacity="1">3</text>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#5acbe5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M83.0,274.25A5,5,0,1,1,73.0,274.25A5,5,0,1,1,83.0,274.25" fill="#ad145c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M143.0,274.25A5,5,0,1,1,133.0,274.25A5,5,0,1,1,143.0,274.25" fill="#a9f9a2" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,70,267,278" text-anchor="start" x="21.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Classical</text>
+<text aria-label="88,121,267,278" text-anchor="start" x="88.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">Hybrid</text>
+<text aria-label="148,186,267,278" text-anchor="start" x="148.0" y="277.25" font-family="Balto" font-size="10px" fill="#000" opacity="1">payment</text>
+<text aria-label="5,125,250,262" text-anchor="start" x="5.0" y="261.0" font-family="Balto" font-size="11px" font-weight="bold" fill="#000" opacity="1">Bicycle South Frozen</text>
+</svg>

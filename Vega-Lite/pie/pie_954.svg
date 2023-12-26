@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="296" height="239" viewBox="0 0 296 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="165,217,0,26" text-anchor="middle" x="191.0" y="25.0" font-family="Balto" font-size="25px" font-weight="bold" fill="#000" opacity="1">West</text>
+<path aria-label="Recumbent: 93; array Bedfordshire Passenger: dolor" role="graphics-symbol" aria-roledescription="arc mark"  d="M150.03857171797273,71.17356135275264A75,75,0,0,0,116.59820552940468,143.4537283415217L191.0,134.0Z" fill="#5f1c08" stroke="white" stroke-width="0"/>
+<path aria-label="Recumbent: 114; array Bedfordshire Passenger: Smart" role="graphics-symbol" aria-roledescription="arc mark"  d="M116.59820552940468,143.4537283415217A75,75,0,0,0,185.5881683149538,208.80449236384624L191.0,134.0Z" fill="#6b4de5" stroke="white" stroke-width="0"/>
+<path aria-label="Recumbent: 48; array Bedfordshire Passenger: forecast" role="graphics-symbol" aria-roledescription="arc mark"  d="M191.0,59.0A75,75,0,0,0,150.03857171797273,71.17356135275264L191.0,134.0Z" fill="#e67f0f" stroke="white" stroke-width="0"/>
+<path aria-label="Recumbent: 95; array Bedfordshire Passenger: Ergonomic" role="graphics-symbol" aria-roledescription="arc mark"  d="M262.76233084084566,155.79834563192833A75,75,0,0,0,240.57807163649002,77.72376333826983L191.0,134.0Z" fill="#6ac54e" stroke="white" stroke-width="0"/>
+<path aria-label="Recumbent: 112; array Bedfordshire Passenger: Sleek" role="graphics-symbol" aria-roledescription="arc mark"  d="M185.5881683149538,208.80449236384624A75,75,0,0,0,262.76233084084566,155.79834563192833L191.0,134.0Z" fill="#c0beda" stroke="white" stroke-width="0"/>
+<path aria-label="Recumbent: 60; array Bedfordshire Passenger: Dynamic" role="graphics-symbol" aria-roledescription="arc mark"  d="M240.57807163649002,77.72376333826983A75,75,0,0,0,191.0,59.0L191.0,134.0Z" fill="#daddba" stroke="white" stroke-width="0"/>
+<text aria-label="103,114,89,100" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="109.31821222961386" y="99.20998085957618" font-family="Balto" font-size="10px" fill="#5f1c08" opacity="1">93</text>
+<text aria-label="120,137,192,203" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="129.10704870319188" y="202.33959427308176" font-family="Balto" font-size="10px" fill="#6b4de5" opacity="1">114</text>
+<text aria-label="159,170,40,51" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="165.36072713494693" y="50.7293347252303" font-family="Balto" font-size="10px" fill="#e67f0f" opacity="1">48</text>
+<text aria-label="272,283,102,113" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="277.57302190941925" y="112.40097811962404" font-family="Balto" font-size="10px" fill="#6ac54e" opacity="1">95</text>
+<text aria-label="233,250,201,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="241.9542394571067" y="211.1866934250869" font-family="Balto" font-size="10px" fill="#c0beda" opacity="1">112</text>
+<text aria-label="217,228,42,53" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="222.7975348142992" y="52.80429476669592" font-family="Balto" font-size="10px" fill="#daddba" opacity="1">60</text>
+<path  d="M16.0,40.0A5,5,0,1,1,6.0,40.0A5,5,0,1,1,16.0,40.0" fill="#daddba" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#6ac54e" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#c0beda" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#6b4de5" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#5f1c08" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#e67f0f" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,59,33,44" text-anchor="start" x="21.0" y="43.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Dynamic</text>
+<text aria-label="21,70,49,60" text-anchor="start" x="21.0" y="59.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Ergonomic</text>
+<text aria-label="21,48,65,76" text-anchor="start" x="21.0" y="75.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Sleek</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">Smart</text>
+<text aria-label="21,48,97,108" text-anchor="start" x="21.0" y="107.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">dolor</text>
+<text aria-label="21,65,113,124" text-anchor="start" x="21.0" y="123.0" font-family="Balto" font-size="10px" fill="#000" opacity="1">forecast</text>
+</svg>

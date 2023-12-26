@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="409" height="239" viewBox="0 0 409 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="116,402,0,26" text-anchor="middle" x="259.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">extend error microchip</text>
+<path aria-label="Metal: 11; microchip daybed driver: male" role="graphics-symbol" aria-roledescription="arc mark"  d="M259.0,59.0A75,75,0,0,0,254.6207273928209,59.127962686781316L257.24829095712835,104.05118507471252A30,30,0,0,1,259.0,104.0Z" fill="#6b6e64" stroke="black" stroke-width="4"/>
+<path aria-label="Metal: 303; microchip daybed driver: alongside" role="graphics-symbol" aria-roledescription="arc mark"  d="M254.6207273928209,59.127962686781316A75,75,0,0,0,184.3520523071042,141.25836794594275L229.14082092284167,136.9033471783771A30,30,0,0,1,257.24829095712835,104.05118507471252Z" fill="#5cceec" stroke="black" stroke-width="4"/>
+<path aria-label="Metal: 330; microchip daybed driver: Optimization" role="graphics-symbol" aria-roledescription="arc mark"  d="M184.3520523071042,141.25836794594275A75,75,0,0,0,279.64301794412165,206.10316088881729L267.25720717764864,162.8412643555269A30,30,0,0,1,229.14082092284167,136.9033471783771Z" fill="#4cf80c" stroke="black" stroke-width="4"/>
+<path aria-label="Metal: 172; microchip daybed driver: Croatia" role="graphics-symbol" aria-roledescription="arc mark"  d="M324.31396743355754,97.13422104324677A75,75,0,0,0,269.7184163457635,59.769847426811324L263.2873665383054,104.30793897072454A30,30,0,0,1,285.125586973423,119.2536884172987Z" fill="#afcf16" stroke="black" stroke-width="4"/>
+<path aria-label="Metal: 27; microchip daybed driver: Colorado" role="graphics-symbol" aria-roledescription="arc mark"  d="M269.7184163457635,59.769847426811324A75,75,0,0,0,259.0,59.0L259.0,104.0A30,30,0,0,1,263.2873665383054,104.30793897072454Z" fill="#a9f8c9" stroke="black" stroke-width="4"/>
+<path aria-label="Metal: 340; microchip daybed driver: North" role="graphics-symbol" aria-roledescription="arc mark"  d="M279.64301794412165,206.10316088881729A75,75,0,0,0,324.31396743355754,97.13422104324677L285.125586973423,119.2536884172987A30,30,0,0,1,267.25720717764864,162.8412643555269Z" fill="#7a9abc" stroke="black" stroke-width="4"/>
+<text aria-label="250,261,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="256.37131495112266" y="47.038396996753065" font-family="avenir" font-size="10px" fill="#6b6e64" opacity="1">11</text>
+<text aria-label="182,198,68,79" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="190.6139355869879" y="78.49063156981299" font-family="avenir" font-size="10px" fill="#5cceec" opacity="1">303</text>
+<text aria-label="200,216,201,212" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="208.36703979391734" y="211.40633938562797" font-family="avenir" font-size="10px" fill="#4cf80c" opacity="1">330</text>
+<text aria-label="301,318,52,63" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="309.8303760325382" y="62.72838447703748" font-family="avenir" font-size="10px" fill="#afcf16" opacity="1">172</text>
+<text aria-label="259,270,37,48" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="265.44761669516816" y="47.231251323457855" font-family="avenir" font-size="10px" fill="#a9f8c9" opacity="1">27</text>
+<text aria-label="334,350,161,172" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" x="342.27436548580243" y="171.13766326122803" font-family="avenir" font-size="10px" fill="#7a9abc" opacity="1">340</text>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#a9f8c9" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#afcf16" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#7a9abc" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#4cf80c" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,120.0A5,5,0,1,1,6.0,120.0A5,5,0,1,1,16.0,120.0" fill="#5cceec" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,136.0A5,5,0,1,1,6.0,136.0A5,5,0,1,1,16.0,136.0" fill="#6b6e64" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,49,60" text-anchor="start" x="21.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Colorado</text>
+<text aria-label="21,59,65,76" text-anchor="start" x="21.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Croatia</text>
+<text aria-label="21,48,81,92" text-anchor="start" x="21.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">North</text>
+<text aria-label="21,87,97,108" text-anchor="start" x="21.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Optimization</text>
+<text aria-label="21,70,113,124" text-anchor="start" x="21.0" y="123.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">alongside</text>
+<text aria-label="21,43,129,140" text-anchor="start" x="21.0" y="139.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">male</text>
+<text aria-label="5,143,32,44" text-anchor="start" x="5.0" y="43.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">microchip daybed driver</text>
+</svg>

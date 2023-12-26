@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="288" height="239" viewBox="0 0 288 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,252,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Incredible Chrysler</text>
+<path aria-label="Moscovium: 285; Account Pizza: local" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,33.314800738488145,156.05067361414024L64.85628841355336,146.34837722391853A42,42,0,0,1,104.99999999999999,92.0Z" fill="#d91baa" stroke="white" stroke-width="1"/>
+<path aria-label="Moscovium: 257; Account Pizza: Factors" role="graphics-symbol" aria-roledescription="arc mark"  d="M179.5065316962843,142.58933842566358A75,75,0,0,0,105.0,59.0L105.0,92.0A42,42,0,0,1,146.7236577499192,138.8100295183716Z" fill="#5ac756" stroke="white" stroke-width="1"/>
+<path aria-label="Moscovium: 47; Account Pizza: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M173.38860556885294,164.78958636207798A75,75,0,0,0,179.5065316962843,142.58933842566358L146.7236577499192,138.8100295183716A42,42,0,0,1,143.29761911855763,151.24216836276366Z" fill="#426baf" stroke="white" stroke-width="1"/>
+<path aria-label="Moscovium: 214; Account Pizza: Tala" role="graphics-symbol" aria-roledescription="arc mark"  d="M86.02446260933303,206.55983035216798A75,75,0,0,0,173.38860556885294,164.78958636207798L143.29761911855763,151.24216836276366A42,42,0,0,1,94.37369906122649,174.63350499721406Z" fill="#2eee04" stroke="white" stroke-width="1"/>
+<path aria-label="Moscovium: 155; Account Pizza: capacitor" role="graphics-symbol" aria-roledescription="arc mark"  d="M33.314800738488145,156.05067361414024A75,75,0,0,0,86.02446260933303,206.55983035216798L94.37369906122649,174.63350499721406A42,42,0,0,1,64.85628841355336,146.34837722391853Z" fill="#eb5b5c" stroke="white" stroke-width="1"/>
+<path  d="M234.0,40.0A5,5,0,1,1,224.0,40.0A5,5,0,1,1,234.0,40.0" fill="#5ac756" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,56.0A5,5,0,1,1,224.0,56.0A5,5,0,1,1,234.0,56.0" fill="#426baf" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,72.0A5,5,0,1,1,224.0,72.0A5,5,0,1,1,234.0,72.0" fill="#2eee04" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,88.0A5,5,0,1,1,224.0,88.0A5,5,0,1,1,234.0,88.0" fill="#eb5b5c" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M234.0,104.0A5,5,0,1,1,224.0,104.0A5,5,0,1,1,234.0,104.0" fill="#d91baa" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="239,277,33,44" text-anchor="start" x="239.0" y="43.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Factors</text>
+<text aria-label="239,283,49,60" text-anchor="start" x="239.0" y="59.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="239,261,65,76" text-anchor="start" x="239.0" y="75.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">Tala</text>
+<text aria-label="239,288,81,92" text-anchor="start" x="239.0" y="91.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">capacitor</text>
+<text aria-label="239,266,97,108" text-anchor="start" x="239.0" y="107.0" font-family="avenir" font-size="10px" fill="#000" opacity="1">local</text>
+</svg>

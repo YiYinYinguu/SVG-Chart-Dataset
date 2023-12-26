@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="274" height="286" viewBox="0 0 274 286" style="background-color: rgb(255, 255, 255);">
+<text aria-label="5,122,0,26" text-anchor="start" x="5.0" y="25.0" font-family="avenir" font-size="25px" font-weight="bold" fill="#000" opacity="1">Computers</text>
+<path aria-label="green Account maroon: 55; incidentally excluding DNS: Northeast" role="graphics-symbol" aria-roledescription="arc mark"  d="M31.425615986345193,148.55369427366318A75,75,0,0,0,140.46001335388536,200.08772543326236L119.65680551960595,161.31625984574845A31,31,0,0,1,74.58925460768936,140.01552696644745Z" fill="#e2b46b" stroke="black" stroke-width="0"/>
+<path aria-label="green Account maroon: 78; incidentally excluding DNS: Gasoline" role="graphics-symbol" aria-roledescription="arc mark"  d="M140.46001335388536,200.08772543326236A75,75,0,0,0,105.0,59.0L105.0,103.0A31,31,0,0,1,119.65680551960595,161.31625984574845Z" fill="#d07e14" stroke="black" stroke-width="0"/>
+<path aria-label="green Account maroon: 37; incidentally excluding DNS: Optimized" role="graphics-symbol" aria-roledescription="arc mark"  d="M68.42287921397744,68.52394151291087A75,75,0,0,0,31.425615986345193,148.55369427366318L74.58925460768936,140.01552696644745A31,31,0,0,1,89.88145674177734,106.93656249200316Z" fill="#fe310a" stroke="black" stroke-width="0"/>
+<path aria-label="green Account maroon: 15; incidentally excluding DNS: mesh" role="graphics-symbol" aria-roledescription="arc mark"  d="M104.99999999999999,59.0A75,75,0,0,0,68.42287921397744,68.52394151291087L89.88145674177734,106.93656249200316A31,31,0,0,1,105.0,103.0Z" fill="#34affc" stroke="black" stroke-width="0"/>
+<path  d="M16.0,274.25A5,5,0,1,1,6.0,274.25A5,5,0,1,1,16.0,274.25" fill="#d07e14" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M85.0,274.25A5,5,0,1,1,75.0,274.25A5,5,0,1,1,85.0,274.25" fill="#e2b46b" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M161.0,274.25A5,5,0,1,1,151.0,274.25A5,5,0,1,1,161.0,274.25" fill="#fe310a" stroke="black" stroke-width="1.5" opacity="1"/>
+<path  d="M238.0,274.25A5,5,0,1,1,228.0,274.25A5,5,0,1,1,238.0,274.25" fill="#34affc" stroke="black" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,65,267,278" text-anchor="start" x="21.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Gasoline</text>
+<text aria-label="90,139,267,278" text-anchor="start" x="90.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Northeast</text>
+<text aria-label="166,215,267,278" text-anchor="start" x="166.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">Optimized</text>
+<text aria-label="243,265,267,278" text-anchor="start" x="243.0" y="277.25" font-family="avenir" font-size="10px" fill="#000" opacity="1">mesh</text>
+<text aria-label="5,161,250,262" text-anchor="start" x="5.0" y="261.0" font-family="avenir" font-size="11px" font-weight="bold" fill="#000" opacity="1">incidentally excluding DNS</text>
+</svg>

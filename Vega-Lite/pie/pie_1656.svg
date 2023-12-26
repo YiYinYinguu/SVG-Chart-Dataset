@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="360" height="239" viewBox="0 0 360 239" style="background-color: rgb(255, 255, 255);">
+<text aria-label="216,294,0,26" text-anchor="middle" x="255.0" y="25.0" font-family="monospace" font-size="25px" font-weight="bold" fill="#000" opacity="1">female</text>
+<path aria-label="Bronze: 54; analyzing Gasoline male: Kentucky" role="graphics-symbol" aria-roledescription="arc mark"  d="M191.38492993598481,173.7255945298549A75,75,0,0,0,283.47622651692853,203.38374826540127L268.6685887281257,167.3041991673926A36,36,0,0,1,224.4647663692727,153.06828537433034Z" fill="#b85fbe" stroke="white" stroke-width="0"/>
+<path aria-label="Bronze: 44; analyzing Gasoline male: Cheese" role="graphics-symbol" aria-roledescription="arc mark"  d="M323.2223996515889,102.84387402485852A75,75,0,0,0,255.0,59.0L255.0,98.0A36,36,0,0,1,287.74675183276264,119.04505953193208Z" fill="#ee7f0f" stroke="white" stroke-width="0"/>
+<path aria-label="Bronze: 62; analyzing Gasoline male: Jersey" role="graphics-symbol" aria-roledescription="arc mark"  d="M283.47622651692853,203.38374826540127A75,75,0,0,0,323.2223996515889,102.84387402485852L287.74675183276264,119.04505953193208A36,36,0,0,1,268.6685887281257,167.3041991673926Z" fill="#dfadef" stroke="white" stroke-width="0"/>
+<path aria-label="Bronze: 82; analyzing Gasoline male: Maserati" role="graphics-symbol" aria-roledescription="arc mark"  d="M255.0,59.0A75,75,0,0,0,191.38492993598481,173.7255945298549L224.4647663692727,153.06828537433034A36,36,0,0,1,255.0,98.0Z" fill="#1cdef6" stroke="white" stroke-width="0"/>
+<path  d="M16.0,56.0A5,5,0,1,1,6.0,56.0A5,5,0,1,1,16.0,56.0" fill="#ee7f0f" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,72.0A5,5,0,1,1,6.0,72.0A5,5,0,1,1,16.0,72.0" fill="#dfadef" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,88.0A5,5,0,1,1,6.0,88.0A5,5,0,1,1,16.0,88.0" fill="#b85fbe" stroke="white" stroke-width="1.5" opacity="1"/>
+<path  d="M16.0,104.0A5,5,0,1,1,6.0,104.0A5,5,0,1,1,16.0,104.0" fill="#1cdef6" stroke="white" stroke-width="1.5" opacity="1"/>
+<text aria-label="21,54,49,60" text-anchor="start" x="21.0" y="59.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Cheese</text>
+<text aria-label="21,54,65,76" text-anchor="start" x="21.0" y="75.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Jersey</text>
+<text aria-label="21,65,81,92" text-anchor="start" x="21.0" y="91.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Kentucky</text>
+<text aria-label="21,65,97,108" text-anchor="start" x="21.0" y="107.0" font-family="monospace" font-size="10px" fill="#000" opacity="1">Maserati</text>
+<text aria-label="5,143,32,44" text-anchor="start" x="5.0" y="43.0" font-family="monospace" font-size="11px" font-weight="bold" fill="#000" opacity="1">analyzing Gasoline male</text>
+</svg>
